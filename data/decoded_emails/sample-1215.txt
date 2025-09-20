@@ -1,0 +1,125 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Unlocking Rewards: zkSync  Airdrop for Our Incredible Community!
+From: zkSync <seagyn.davis@riverschurch.org.za>
+To: phishing@pot
+Date: Fri, 1 Sep 2023 03:38:59 +0000
+Message_Id: <0102018a4ed29990-b22fe177-a3e9-459e-bf88-3d7acfe659e5-000000@eu-west-1.amazonses.com>
+Content_Type: multipart/related;
+	boundary="----=_NextPart_000_0012_6CFD58D6.7877E4D9"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related;
+	boundary="----=_NextPart_000_0012_6CFD58D6.7877E4D9"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - anj.png
+  - zksync.io
+  - https://zksync.fa3.gr/asr
+
+DECODED TEXT CONTENT:
+------------------------------
+/* Inline your CSS styles here */ body { margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4; } .container { max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; } .header img { max-width: 100%; height: auto; display: block; margin: 0 auto; } .title { text-align: center; margin-top: 20px; color: #1E42B2; /* ZKSync primary color */ font-size: 24px; } .text { margin-top: 20px; color: #333333; } .button-container { text-align: center; margin-top: 30px; } .button { display: inline-block; background-color: #1E42B2; /* ZKSync primary color */ color: #ffffff; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-weight: bold; } .footer { margin-top: 30px; text-align: center; color: #888888; font-size: 14px; } &nbsp; zkSync Token Airdrop to the Community We are excited to announce a special zkSync airdrop. This is our way of giving back to you, our valued community members. It's a token of our appreciation for being an integral part of the zkSync ecosystem. Don't miss out! Secure you rewards by following the instructions through the link below. Claim Rewards For inquiries, please contact us at support@zksync.io
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+        /* Inline your CSS styles here */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+        }
+
+        .header img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+
+        .title {
+            text-align: center;
+            margin-top: 20px;
+            color: #1E42B2; /* ZKSync primary color */
+            font-size: 24px;
+        }
+
+        .text {
+            margin-top: 20px;
+            color: #333333;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .button {
+            display: inline-block;
+            background-color: #1E42B2; /* ZKSync primary color */
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer {
+            margin-top: 30px;
+            text-align: center;
+            color: #888888;
+            font-size: 14px;
+        }
+    </style>
+
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"></head>
+<body style="margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4">
+<div style="max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff" class="container">
+<div class="header">&nbsp;<img style="max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto" border="0" hspace="0" alt="" src="cid:anj.png" width="971" height="281"></div>
+<h1 style="text-align: center;
+            margin-top: 20px;
+            color: #1E42B2; /* ZKSync primary color */
+            font-size: 24px" class="title">zkSync Token Airdrop to the Community</h1>
+<p style="margin-top: 20px;
+            color: #333333" class="text"><font size="4">We are excited to announce a special zkSync airdrop. This is our way of giving back to you, our valued community members. It's a token of our appreciation for being an integral part of the zkSync ecosystem. <br><br>Don't miss out! Secure you rewards by following the instructions through the link below.</font><br></p>
+<div style="text-align: center;
+            margin-top: 30px" class="button-container"><a style="display: inline-block;
+            background-color: #1E42B2; /* ZKSync primary color */
+            color: #ffffff;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold" class="button" href="https://zksync.fa3.gr/asr">Claim Rewards</a> </div>
+<div style="margin-top: 30px;
+            text-align: center;
+            color: #888888;
+            font-size: 14px" class="footer">For inquiries, please contact us at support@zksync.io</div></div></body></html>

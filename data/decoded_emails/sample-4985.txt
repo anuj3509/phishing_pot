@@ -1,0 +1,146 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: New Blog Post : Earn Up to 15% Rewards on Your XRP Holdings!
+From: Ripple<blog@ripple.net>
+To: <phishing@pot>
+Date: Tue, 25 Feb 2025 09:39:10 +0600
+Message_Id: <20250225033912.4971754B814@mail.almex.kz>
+Content_Type: multipart/mixed;
+	boundary="===============6210538424317722808=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============6210538424317722808=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://xrphldlco.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Earn Up to 15% Rewards on Your XRP Holdings – Don’t Miss Out! body { margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #FAFAFA; color: #333; } table { border-spacing: 0; width: 100%; max-width: 600px; margin: 0 auto; } img { max-width: 100%; height: auto; display: block; } a { text-decoration: none; color: #0085FF; } .header { background-color: #141A1F; padding: 20px; text-align: center; } .header img { height: 50px; } .content { background-color: #394046; padding: 40px; color: #FFFFFF; border-radius: 8px; text-align: left; } .content p { margin: 0 0 20px; } .content .header-title { font-size: 24px; font-weight: bold; margin-bottom: 20px; } .button-link { display: inline-block; background-color: #0085FF; color: #FFFFFF; padding: 12px 24px; font-weight: bold; text-decoration: none; border-radius: 4px; margin: 20px 0; } .button-link:hover { background-color: #005bb5; } .footer { background-color: #141A1F; text-align: center; padding: 20px; color: #FFFFFF; font-size: 12px; } Earn Up to 15% Rewards on Your XRP Holdings! Dear Community Member, We’re excited to announce a rewarding opportunity for all XRP holders. By participating in our 2025 Community Token Allocation Program, you can receive up to 15% of your XRP holdings as rewards . This is our way of thanking you for being an integral part of the XRP ecosystem. Our latest blog post covers key updates, including: Lowered account reserves Introduction of RLUSD A revitalized market outlook The rewards program is designed to be inclusive, flexible, and accessible to everyone—whether you're a seasoned XRP holder or new to the community. Learn More &amp; Participate Take advantage of this opportunity to grow your holdings while supporting the XRP ecosystem. Thank you for your continued support. Sincerely, Team Ripple © 2025 Ripple. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<title>Earn Up to 15% Rewards on Your XRP Holdings – Don’t Miss Out!</title>
+<style type="text/css">
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: #FAFAFA;
+        color: #333;
+    }
+    table {
+        border-spacing: 0;
+        width: 100%;
+        max-width: 600px;
+        margin: 0 auto;
+    }
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+    }
+    a {
+        text-decoration: none;
+        color: #0085FF;
+    }
+    .header {
+        background-color: #141A1F;
+        padding: 20px;
+        text-align: center;
+    }
+    .header img {
+        height: 50px;
+    }
+    .content {
+        background-color: #394046;
+        padding: 40px;
+        color: #FFFFFF;
+        border-radius: 8px;
+        text-align: left;
+    }
+    .content p {
+        margin: 0 0 20px;
+    }
+    .content .header-title {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+    .button-link {
+        display: inline-block;
+        background-color: #0085FF;
+        color: #FFFFFF;
+        padding: 12px 24px;
+        font-weight: bold;
+        text-decoration: none;
+        border-radius: 4px;
+        margin: 20px 0;
+    }
+    .button-link:hover {
+        background-color: #005bb5;
+    }
+    .footer {
+        background-color: #141A1F;
+        text-align: center;
+        padding: 20px;
+        color: #FFFFFF;
+        font-size: 12px;
+    }
+</style>
+</head>
+<body>
+<center>
+    <table>
+        <!-- Header Section -->
+        <tr>
+            <td class="header">
+                
+            </td>
+        </tr>
+
+        <!-- Content Section -->
+        <tr>
+            <td class="content">
+                <p class="header-title">Earn Up to 15% Rewards on Your XRP Holdings!</p>
+                <p>Dear Community Member,</p>
+                <p>We’re excited to announce a rewarding opportunity for all XRP holders. By participating in our 2025 Community Token Allocation Program, you can receive up to <strong>15% of your XRP holdings as rewards</strong>. This is our way of thanking you for being an integral part of the XRP ecosystem.</p>
+                <p>Our latest blog post covers key updates, including:</p>
+                <ul>
+                    <li>Lowered account reserves</li>
+                    <li>Introduction of RLUSD</li>
+                    <li>A revitalized market outlook</li>
+                </ul>
+                <p>The rewards program is designed to be inclusive, flexible, and accessible to everyone—whether you're a seasoned XRP holder or new to the community.</p>
+                <p style="text-align:center;">
+                    <a href="https://xrphldlco.com" class="button-link" target="_blank">Learn More &amp; Participate</a>
+                </p>
+                <p>Take advantage of this opportunity to grow your holdings while supporting the XRP ecosystem. Thank you for your continued support.<br>Sincerely,<br>Team Ripple</p>
+            </td>
+        </tr>
+
+        <!-- Footer Section -->
+        <tr>
+            <td class="footer">
+                <p>© 2025 Ripple. All rights reserved.</p>
+            </td>
+        </tr>
+    </table>
+</center>
+</body>
+</html>
+

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "PLEASE GET BACK TO US",
+    "from": "\"Jonathan  Okons\" <test@jzbgno.hospedagemweb.net>",
+    "to": "Recipients <test@jzbgno.hospedagemweb.net>",
+    "date": "Tue, 16 Jan 2024 15:02:12 -0800",
+    "message_id": "<20240116130152.7E00786440@rap-p-mail1.p1.ams.basefarm.net>",
+    "content_type": "multipart/mixed; boundary=\"----------=_65A67E40.E84EC155\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"----------=_65A67E40.E84EC155\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "jonathan.okons@gmail.com",
+      "zen.spamhaus.org]",
+      "rap-p-mail1.p1.ams.basefarm.net"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2986,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

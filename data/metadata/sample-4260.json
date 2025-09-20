@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your Recent stETH Activity",
+    "from": "Lido Notifications <noreply@lido.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Oct 2024 19:07:03 +0000 (UTC)",
+    "message_id": "<20241030190702.C347C7E1CB3F96A3@lido.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://unsubscribe-link.com",
+      "https://cloudflar.s3.us-east-1.amazonaws.com/index.html",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 540,
+    "html_length": 3494,
+    "has_text": true,
+    "has_html": true
+  }
+}

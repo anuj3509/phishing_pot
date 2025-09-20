@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "INFORMA: Seus Pontos Vao Expirar!",
+    "from": "Bradesco <sac2@comunicado.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Tue, 12 Dec 2023 14:52:07 +0000 (UTC)",
+    "message_id": "<20231212145207.7FB494170F@ubuntu-s-1vcpu-1gb-nyc3-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://gerentegeral.vicentejr.com.br/001/?hash=math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1423,
+    "html_length": 5661,
+    "has_text": true,
+    "has_html": true
+  }
+}

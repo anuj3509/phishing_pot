@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Wil je daten met een Oekraïense schoonheid?",
+    "from": "Daten Met Oekraïense Schoonheden <notification@mail.bebopstation.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Wed, 04 Dec 2024 06:48:48 +0000",
+    "message_id": "<1abf239f72c0e576418e5501ffe0c50d2c167e8d@mail.bebopstation.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1733294928_c68756e953f556090b3dab3b8b56206e_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1733294928_c68756e953f556090b3dab3b8b56206e_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.bebopstation.com/index.php/campaigns/lb9164twcfe34/track-url/fm831qer5l935/65fe4068277013f19be54c9290644b010b8c766d]",
+      "https://mail.bebopstation.com/index.php/campaigns/lb9164twcfe34/track-url/fm831qer5l935/eba045d7458eaef2411840b9a8fead24c2bb5c55]",
+      "https://mail.bebopstation.com/index.php/campaigns/lb9164twcfe34/track-url/fm831qer5l935/eba045d7458eaef2411840b9a8fead24c2bb5c55",
+      "https://mail.bebopstation.com/index.php/campaigns/lb9164twcfe34/track-url/fm831qer5l935/65fe4068277013f19be54c9290644b010b8c766d",
+      "https://mail.bebopstation.com/index.php/campaigns/lb9164twcfe34/track-opening/fm831qer5l935"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 774,
+    "html_length": 4421,
+    "has_text": true,
+    "has_html": true
+  }
+}

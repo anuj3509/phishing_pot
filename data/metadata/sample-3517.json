@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot ein Gutschein von Decathlon im Wert von 1.000 Euro",
+    "from": "Decathlon-Gutschein, <reply@telekom.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 25 Jul 2024 18:22:35 +0000",
+    "message_id": "<aAYVAEe.0.0.aAYVAEe.9.aAYVAEe@telekom.com>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/24/30/ls6v.jpg",
+      "http://sklj.info/RVp2UTVSS2FZeWt4YnB0QnNRb1pkTXlERjNlY1dNa3EzM3Q3bnpnUXpGdk9PNkNML0N3Umo4QndvZ1lCSVFpMEFPZ3pmdi9xWVVQQXlYTjdtZ1hlV2c9PQ__",
+      "www.zupimages.net/up/24/30/ls6v.jpg",
+      "http://sklj.info/OGRFUVFUVmpFZ0RaTjVuaGlEVDREd1NwMFlZVERuNUdzTTQvc1VuTnNpRHVxR0xINWMzaHVCM1N6bmc5VVVIZFBqbEtaaXAxdzlaZjUrVng1Vjdnemc9PQ__",
+      "https://wear-prodct.com/?a=8256&amp;oc=17173&amp;c=46876&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1328,
+    "html_length": 8881,
+    "has_text": true,
+    "has_html": true
+  }
+}

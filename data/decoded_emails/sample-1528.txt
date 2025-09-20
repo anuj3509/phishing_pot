@@ -1,0 +1,178 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: wir gratulieren Ihnen recht herzlich.
+From: Fressnapf Gutschein, <angebote@newsletter.baur.de.>, Fressnapf
+ Gutschein, <angebote@newsletter.baur.de>
+To: phishing@pot
+Date: Sat, 07 Oct 2023 16:12:34 +0200
+Message_Id: <jToLay3.0.0.jToLay3.9.jToLay3@newsletter.baur.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://is.gd/f9Bv2L
+  - https://is.gd/vrFPrk
+  - mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+  - http://www.w3.org/1999/xhtml
+  - http://webdizajn.info/bmhrbGV6ZWJ4a2dRVWM3Q0pZYldDRi9kQ0xlaE83TVFLb3FZbEFTTXF6SC9pai8vS0hEVE9PUVFmenoyU2VaUmpLcDRZeXFaY3FmMEZFSG5GVGk3V3c9PQ__
+  - https://is.gd/ZGDzOh
+  - is.gd/vrFPrk
+
+DECODED TEXT CONTENT:
+------------------------------
+MASTER MONO body { margin: 0 auto; padding: 0; font-family: Arial, Helvetica, sans-serif !important; line-height: normal; } h1 { font-family: Arial, Helvetica, sans-serif !important; font-weight: 600; line-height: 1; } h2, h3, h4 { font-family: Arial, Helvetica, sans-serif !important; font-weight: 400; line-height: 1; } .paragraph { text-align: left; font-size: 18px; line-height: 30px; } table { border-spacing: 0 !important; border: none; } td { border-spacing: 0px; } tr { border-spacing: 0px; } /* Client-specific Styles */ #outlook a { padding: 0; } /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody { width: 100%; } .ExternalClass { width: 100%; } /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } /* Force Hotmail to display normal line spacing */ body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } /* Prevent WebKit and Windows mobile changing default text sizes */ table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } /* Remove spacing between tables in Outlook 2007 and up */ img { -ms-interpolation-mode: bicubic; } @media screen and (max-width: 480px) { h1 { font-size: larger; } h2 { font-size: larger; } } click here to remove yourself from our emails list &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy &lt;/table&gt; &lt;/body&gt; &lt;/html&gt;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html
+   PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="format-detection" content="telephone=no">
+      <meta name="format-detection" content="date=no">
+      <meta name="format-detection" content="address=no">
+      <meta name="format-detection" content="email=no">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>MASTER MONO</title>
+      <style type="text/css">
+         body {
+            margin: 0 auto;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif !important;
+            line-height: normal;
+         }
+
+         h1 {
+            font-family: Arial, Helvetica, sans-serif !important;
+            font-weight: 600;
+            line-height: 1;
+         }
+
+         h2,
+         h3,
+         h4 {
+            font-family: Arial, Helvetica, sans-serif !important;
+            font-weight: 400;
+            line-height: 1;
+         }
+
+         .paragraph {
+            text-align: left;
+            font-size: 18px;
+            line-height: 30px;
+         }
+
+         table {
+            border-spacing: 0 !important;
+            border: none;
+         }
+
+         td {
+            border-spacing: 0px;
+         }
+
+         tr {
+            border-spacing: 0px;
+         }
+
+         /* Client-specific Styles */
+         #outlook a {
+            padding: 0;
+         }
+
+         /* Force Outlook to provide a "view in browser" message */
+         .ReadMsgBody {
+            width: 100%;
+         }
+
+         .ExternalClass {
+            width: 100%;
+         }
+
+         /* Force Hotmail to display emails at full width */
+         .ExternalClass,
+         .ExternalClass p,
+         .ExternalClass span,
+         .ExternalClass font,
+         .ExternalClass td,
+         .ExternalClass div {
+            line-height: 100%;
+         }
+
+         /* Force Hotmail to display normal line spacing */
+         body,
+         table,
+         td,
+         a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+         }
+
+         /* Prevent WebKit and Windows mobile changing default text sizes */
+         table,
+         td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+         }
+
+         /* Remove spacing between tables in Outlook 2007 and up */
+         img {
+            -ms-interpolation-mode: bicubic;
+         }
+
+         @media screen and (max-width: 480px) {
+            h1 {
+               font-size: larger;
+            }
+
+            h2 {
+               font-size: larger;
+            }
+         }
+      </style>
+   </head>
+
+   <body bgcolor="#D8E2E9">
+
+      <!-- Iraklis: Main Email Container  -->
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+
+         <!-- CONTAINER -->
+         <tr>
+            <td align="center" valign="top">
+               <table cellpadding="0" cellspacing="0" border="0" style="background: #fff" bgcolor="#fff">
+					<center>
+						<a href="https://is.gd/ZGDzOh">
+							<img src="https://is.gd/vrFPrk">
+							<img src="//is.gd/vrFPrk">
+						</a>
+					<center>
+						<br><br><br>
+						<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://is.gd/f9Bv2L">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://webdizajn.info/bmhrbGV6ZWJ4a2dRVWM3Q0pZYldDRi9kQ0xlaE83TVFLb3FZbEFTTXF6SC9pai8vS0hEVE9PUVFmenoyU2VaUmpLcDRZeXFaY3FmMEZFSG5GVGk3V3c9PQ__" width="1px" height="1px" style="visibility:hidden">
+						<title>
+						&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy
+                 
+         <!-- end of CONTAINER -->
+      &lt;/table&gt;
+      <!-- Iraklis: Main Email Container  -->
+   &lt;/body&gt;
+&lt;/html&gt;
+

@@ -1,0 +1,128 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Mercadoria Retida: Ação Necessária para Liberação.
+From: Correios <contato@correios>
+To: <phishing@pot>
+Date: Mon, 17 Feb 2025 21:03:47 +0000
+Message_Id: <42296467-b192-3c57-4f8b-7d94252d40b6@correios>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://juliodedansk.icu
+
+DECODED TEXT CONTENT:
+------------------------------
+body { margin: 0; padding: 0; background-color: #e0e0e0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; } .box { max-width: 580px; margin: 30px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; } .cabecalho { background-color: #1a75bb; padding: 25px; text-align: center; color: #ffffff; } .cabecalho h1 { margin: 0; font-size: 26px; } .conteudo { padding: 25px; color: #333333; font-size: 17px; line-height: 1.6; } .acao { display: inline-block; margin: 20px auto; padding: 12px 28px; background-color: #fddb3a; color: #000; text-decoration: none; border-radius: 6px; font-weight: bold; text-align: center; } .rodape { background-color: #fddb3a; padding: 12px; text-align: center; font-size: 14px; color: #000; } @media (max-width: 600px) { .box { width: 100%; margin: 0; border-radius: 0; } } .invisivel { position: absolute; left: -9999px; width: 0; height: 0; overflow: hidden; opacity: 0; } . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correios Olá, Detectamos que seu pedido está retido na alfândega devido a pendências de taxas. Para liberar a entrega, solicitamos que efetue o pagamento o quanto antes. Por favor, clique no botão abaixo para prosseguir com o pagamento: Pagar Agora Correios 2025 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .box {
+      max-width: 580px;
+      margin: 30px auto;
+      background-color: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      overflow: hidden;
+    }
+
+    .cabecalho {
+      background-color: #1a75bb;
+      padding: 25px;
+      text-align: center;
+      color: #ffffff;
+    }
+
+    .cabecalho h1 {
+      margin: 0;
+      font-size: 26px;
+    }
+
+    .conteudo {
+      padding: 25px;
+      color: #333333;
+      font-size: 17px;
+      line-height: 1.6;
+    }
+
+    .acao {
+      display: inline-block;
+      margin: 20px auto;
+      padding: 12px 28px;
+      background-color: #fddb3a;
+      color: #000;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    .rodape {
+      background-color: #fddb3a;
+      padding: 12px;
+      text-align: center;
+      font-size: 14px;
+      color: #000;
+    }
+
+    @media (max-width: 600px) {
+      .box {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+      }
+    }
+
+    .invisivel {
+      position: absolute;
+      left: -9999px;
+      width: 0;
+      height: 0;
+      overflow: hidden;
+      opacity: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <span class="invisivel">. . . . .<br>. . . . . . .<br>. . . . . . . . .<br>. . . . . . . . . . .</span>
+  <div class="box">
+    <div class="cabecalho">
+      <h1>Correios</h1>
+    </div>
+    <div class="conteudo">
+      <p>Olá,</p>
+      <p>Detectamos que seu pedido está retido na alfândega devido a pendências de taxas.</p>
+      <p>Para liberar a entrega, solicitamos que efetue o pagamento o quanto antes.</p>
+      <p>Por favor, clique no botão abaixo para prosseguir com o pagamento:</p>
+      <a class="acao" href="https://juliodedansk.icu">Pagar Agora</a>
+    </div>
+    <div class="rodape">
+      <p>Correios 2025 - Todos os direitos reservados</p>
+    </div>
+  </div>
+</body>
+
+</html>
+

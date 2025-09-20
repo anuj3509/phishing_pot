@@ -1,0 +1,41 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Create a password for DEMETER ICT PTE. LTD.
+From: "DEMETER ICT Co. Ltd" <support@pdi-demeter.zendesk.com>
+To: phishing@pot
+Date: Sun, 03 Nov 2024 03:37:33 +0000
+Message_Id: <6726effdd1647_3c395836193f0_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_6726effdd772a_3c395836194b5";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_6726effdd772a_3c395836194b5";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://pdi-demeter.zendesk.com/verification/email/FrefMzJKUkmahUijwdXkZMiLDmhexm4S
+
+DECODED TEXT CONTENT:
+------------------------------
+Welcome to DEMETER ICT, PTE. LTD.. Please click the link below to create a password and sign-in.
+
+https://pdi-demeter.zendesk.com/verification/email/FrefMzJKUkmahUijwdXkZMiLDmhexm4S
+
+
+If you didn’t sign up to DEMETER ICT PTE. LTD. using this email address, you can safely ignore this email.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Welcome to DEMETER ICT, PTE. LTD.. Please click the link below to create a password and sign-in.
+<p><a href="https://pdi-demeter.zendesk.com/verification/email/FrefMzJKUkmahUijwdXkZMiLDmhexm4S">Create a password</a></p>
+If you didn’t sign up to DEMETER ICT PTE. LTD. using this email address, you can safely ignore this email.

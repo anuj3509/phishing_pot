@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda aguarda o pagamento da taxa de importação! Protocolo: 35634479.",
+    "from": "Pedidos Correios <alfandega949808@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 7 Oct 2024 14:55:36 +0000",
+    "message_id": "<e992d905f720f5bad614466670447541@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_e992d905f720f5bad614466670447541\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_e992d905f720f5bad614466670447541\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://importacoes-rastreamentocorreios.com.ua/rastreamento/taxa655",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3791,
+    "has_text": true,
+    "has_html": true
+  }
+}

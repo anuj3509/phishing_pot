@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <naoresponder@correios>",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Dec 2024 10:25:07 +0000",
+    "message_id": "<700a2f3d-a77f-8e96-b160-d12989e329a0@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu",
+      "httpmoney.cnn.commagazinesfortunefortune_archi-ve20011112313342index.htm",
+      "httpwww.newsweek.comid52593",
+      "ZDnet.com,",
+      "hsmmanagement.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 44102,
+    "html_length": 79218,
+    "has_text": true,
+    "has_html": true
+  }
+}

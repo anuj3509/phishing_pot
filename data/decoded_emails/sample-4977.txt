@@ -1,0 +1,96 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Order 361878 successfully processed
+From: "Paid Customer" <dk0454470@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Mon, 03 Mar 2025 05:17:35 -0800 (PST)
+Message_Id: <67c5abef.170a0220.1140fe.0ea0@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============5301915923886241573=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============5301915923886241573=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+e b a y Sale Order #361878 Date: Monday, 03 March 2025 Order successfully processed GIFT CARD Brand: Netflix Gift Card Type: Physical &nbsp; 1 pcs &nbsp; $ 1059.99 Total: $ 1059.99 User Details Customer: rodrigo-f-p@hotmail.com Order Number: #361878 Invoice Date: Monday, 03 March 2025 Payment Method: Bank ACH Currency: USD If you have any questions, please contact us at +1 888.929.2670 ebay © All Rights Reserved. Ruidosa Ridge 507 Crown Point Ln Tx Darien Georgia 77297 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table style="background-color: #fafafa;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center">
+<table style="background-color: #ffffff;" width="600" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="height: 70.0938px;">
+<td style="padding: 15px 20px; text-align: left; height: 70.0938px;">
+<h1 style="margin: 0; font-family: Arial, sans-serif; font-size: 36px; color: #0b5394;"><span style="color: #ff0000;">e</span><span style="color: #0000ff;">b</span><span style="color: #ff9900;">a</span><span style="color: #99cc00;">y</span></h1>
+</td>
+</tr>
+<tr style="height: 124px;">
+<td style="padding: 20px; height: 124px;">
+<h2 style="font-family: Arial, sans-serif; font-size: 26px; color: #333333; margin: 0;">Sale Order #361878</h2>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 5px 0;">Date: Monday, 03 March 2025</p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 5px 0;"><strong>Order successfully processed</strong></p>
+</td>
+</tr>
+<tr style="height: 83px;">
+<td style="padding: 10px 20px; height: 83px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;"><strong>GIFT CARD</strong><br> Brand: Netflix Gift Card<br> Type: Physical</td>
+<td width="20">&nbsp;</td>
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;" align="center">1 pcs</td>
+<td width="20">&nbsp;</td>
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;" align="right">$ 1059.99</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="height: 93px;">
+<td style="padding: 10px 20px; height: 93px;"><hr style="border: 0; border-top: 2px solid #efefef;">
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; text-align: right; margin: 10px 0;">Total: <strong>$ 1059.99</strong></p>
+</td>
+</tr>
+<tr style="height: 161px;">
+<td style="padding: 20px; height: 161px;">
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;"><strong>User Details</strong></p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">Customer: <strong>rodrigo-f-p@hotmail.com</strong></p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">Order Number: <strong>#361878</strong></p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">Invoice Date: <strong>Monday, 03 March 2025</strong></p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">Payment Method: <strong>Bank ACH</strong></p>
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">Currency: <strong>USD</strong></p>
+</td>
+</tr>
+<tr style="height: 51px;">
+<td style="padding: 15px 20px; text-align: center; height: 51px;">
+<p style="font-family: Arial, sans-serif; font-size: 14px; color: #333333; margin: 0;">If you have any questions, please contact us at <strong>+1 888.929.2670</strong></p>
+</td>
+</tr>
+<tr style="height: 75px;">
+<td style="padding: 20px; text-align: center; font-family: Arial, sans-serif; font-size: 12px; color: #333333; height: 75px;">
+<p style="margin: 0;">ebay © All Rights Reserved.</p>
+<p style="margin: 0;">Ruidosa Ridge 507 Crown Point Ln Tx Darien Georgia 77297 USA</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

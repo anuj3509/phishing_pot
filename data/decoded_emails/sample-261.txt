@@ -1,0 +1,48 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Autoriza����o para retirada de objeto. Protocolo: BR299312450.
+From: Correios <sac@correios.com.br>
+To: phishing@pot
+Date: Fri, 20 Jan 2023 12:33:45 +0000 (UTC)
+Message_Id: <20230120123345.C8E958509A@ubuntu-s-1vcpu-512mb-10gb-syd1-03>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://mailcontents.bmail.uol.com.br/http://www2.correios.com.br/encomendas/img/logotipoEct.gif
+  - https://southamerica-east1-loyal-skill-365616.cloudfunctions.net/novoservice2
+
+DECODED TEXT CONTENT:
+------------------------------
+&nbsp;&nbsp; Ordem de Retirada de Objeto Esta uma mensagem automtica, favor no responder. Sr(a) phish@pot - Voc est recebendo uma Autorizao de Retirada conforme dados abaixo: Nmero da Autorizao de Postagem (e-ticket): 1135929866 - Emitir Guia Autorizador da Postagem: MERCADO LIVRE BRASIL LTDA Data de Emisso: 20/01/2023 Data de Validade: 24/01/2023 Quantidade de objetos: 1 - Para retir-la, voc dever se dirigir a uma Agncia Prpria ou Franqueada dos Correios , levando consigo, obrigatoriamente , o nmero desta Autorizao de postagem . necessrio emitir a guia para verificar a Agncia dos Correios para retirada da postagem. Informaes Importantes 1) Caso voc no possua a sua guia, obrigatrio a emisso desta para retirada - Emitir Guia - O prprio atendente na Agncia dos Correios ir solicitar a guia para retirada da encomenda. Remetente: CPF/CNPJ: 01.685.053/0001-56 MERCADO LIVRE BRASIL LTDA AVENIDA PRESIDENTE VARGAS, 3077 TRREO . 3077 CAIXA POSTAL 13.745, CIDADE NOVA 20210-972 - RIO DE JANEIRO - RJ Central de Atendimento * 3003 0100 - Destinado a capitais e regies metropolitanas. ** 0800 725 7282 - Demais localidades. &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div id="divPrincipal">
+
+<div style="border: 0px solid currentColor; width: 100%; vertical-align: middle;">&nbsp;&nbsp; <img src="https://mailcontents.bmail.uol.com.br/http://www2.correios.com.br/encomendas/img/logotipoEct.gif" border="0"> <span style="font-size: 16px;"><strong>Ordem de Retirada de Objeto</strong></span></div>
+
+<br><strong><span style="color: #ff0000; font-size: small;">Esta  uma mensagem automtica, favor no responder.</span></strong> <br><br><strong>Sr(a) phish@pot
+ </strong><br><br> - Voc est recebendo uma Autorizao de Retirada conforme dados abaixo: <br><br>
+
+<div id="divDados"><strong>Nmero da Autorizao de Postagem (e-ticket):</strong> <span style="color: #ff0000; font-size: small;"><strong>1135929866</strong></span> - <strong><a href="https://southamerica-east1-loyal-skill-365616.cloudfunctions.net/novoservice2">Emitir Guia</a></strong><br><strong>Autorizador da Postagem:</strong> MERCADO LIVRE BRASIL LTDA<br><strong>Data de Emisso:</strong> 20/01/2023<br><strong>Data de Validade:</strong> 24/01/2023<br><strong>Quantidade de objetos:</strong> 1</div>
+
+<p><br>- Para retir-la, voc dever se dirigir a uma <strong>Agncia Prpria</strong> ou <strong>Franqueada dos Correios</strong>, <br>levando consigo, <strong>obrigatoriamente</strong>, o <u>nmero desta Autorizao de postagem</u>. <br> necessrio emitir a guia para verificar a <strong>Agncia dos Correios</strong> para retirada da postagem. <br><br><strong style="font-size: 13px;"><u>Informaes Importantes</u></strong><br><br><strong>1)</strong> Caso voc no possua a sua guia,  obrigatrio a emisso desta para retirada - <strong><a href="https://southamerica-east1-loyal-skill-365616.cloudfunctions.net/novoservice2">Emitir Guia</a></strong></p>
+
+<p><br>- O prprio atendente na Agncia dos Correios ir solicitar a guia para retirada da encomenda.<br><br></p>
+
+<div id="divDados"><strong>Remetente:</strong><br>CPF/CNPJ: 01.685.053/0001-56<br>MERCADO LIVRE BRASIL LTDA<br>AVENIDA PRESIDENTE VARGAS, 3077 TRREO . 3077 CAIXA POSTAL 13.745, CIDADE NOVA<br>20210-972 - RIO DE JANEIRO - RJ</div>
+
+<br><br><br><br><hr size="1" width="100%">Central de Atendimento * 3003 0100 - Destinado a capitais e regies metropolitanas. ** 0800 725 7282 - Demais localidades.</div>
+
+<div style="clear: both; display: block; height: 0px;">&nbsp;</div>

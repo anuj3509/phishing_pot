@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Último aviso: tus fotos y vídeos serán eliminados, ¡actúa!",
+    "from": "\"lCIoud Almacenamiento\" ,PUW <admission@luc.edu>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Feb 2024 06:48:00 -0500 (EST)",
+    "message_id": "\r\n <9d34ddd5-1e59-42ef-b243-0e54d958ade5@AM7EUR03FT031.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/GbNQaY4.png",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzfnwgO9E657Eqeijp2ew4p5G_JI09x_OhHLQRcU7yi5jUPiiHTar_NFmBbkRLm2BP0MZY6yOsTOP9MxDwjAq4-Tk1Vyac-hMfVvPcDLKoITFuKPG6csdBn9dJ6NQ9THgvp9z5yJDKBbIklyU0m-dzM3tBA==",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzfnwQm_n6ijx5esuKzTn48JTgpgN0gPsu50AApJnNSnN1eHOLPr1Y37w-FR61lQGbzlqVtnkEWI7IbxdyEldna7Mh-iL9hk5pWAzomeMwxkDQMam0iye1SMvKWD0tIoq1yTaxX-Ml86hijUKmL6KW1XNhg==",
+      "i.imgur.com/JqHY2V2.png",
+      "https://i.imgur.com/GbNQaY4.png",
+      "https://i.imgur.com/JqHY2V2.png",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzfnwbvlAJ5X3Kwdum81dg0eLHxCZQPCINEkUOExSQZ_WHiNOpQWbxtTJJl8Zq8dgzWXrYf9dZMDTU5AIFnPottCTjA-zAQC7swFth65ZxwpopX90yfrM6oFRLNz03Qr0xvB9MDIgeuC4e5EQ2CnDflXYXQ==",
+      "http://libre.ing.unlp.edu.ar/9mrSc4Vu.kdja?gAAAAABlzfnwIx0fiZkzxpt-M981DVyT5CCfHSt40VG6u5McEVPy5TPvEe3ouF4EihhbbHwoXGO-NkjlA29S9hBzALFSoAuCUiLs62ZFAc5M4Kc7-vcPDMKC7Jrx7raQqz_F_ZXdXHOPMnhGSJxOrDpHoe5tnoThOg====",
+      "https://i.imgur.com/OyFHO7o.png",
+      "i.imgur.com/OyFHO7o.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2504,
+    "has_text": false,
+    "has_html": true
+  }
+}

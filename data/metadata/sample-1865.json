@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Leroy Merlin.",
+    "from": "Message de Leroy Merlin, <programme_tv@ml.tv-news.fr.>, Message de Leroy\r\n Merlin, <programme_tv@ml.tv-news.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 08 Nov 2023 18:04:26 +0100",
+    "message_id": "<UfKGN9Q.0.0.UfKGN9Q.9.UfKGN9Q@ml.tv-news.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://imgur.com/VlsGZrQ.png",
+      "http://stabrino.info/op/5339_md/1995/984/2024/222/428764",
+      "imgur.com/FZplvp9.png",
+      "https://imgur.com/FZplvp9.png",
+      "http://stabrino.info/oop/5339_md/1995/984/2024/222/428764",
+      "imgur.com/VlsGZrQ.png",
+      "bgasdfasdfa.jpg",
+      "http://stabrino.info/cl/5339_md/1995/984/2024/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5080,
+    "html_length": 11892,
+    "has_text": true,
+    "has_html": true
+  }
+}

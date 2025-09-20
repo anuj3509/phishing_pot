@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": ">> Your account is hacked. Your data is stolen. Learn how to regain access.",
+    "from": "<phishing@pot>",
+    "to": "\"corvo\" <phishing@pot>",
+    "date": "Mon, 25 Nov 2024 22:18:57 +0400",
+    "message_id": "\r\n <60e58b62-58dd-44a0-a8dc-596f25b6da76@BL6PEPF00022574.namprd02.prod.outlook.com>",
+    "content_type": "text/plain; charset=\"iso-8859-2\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=\"iso-8859-2\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2011,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

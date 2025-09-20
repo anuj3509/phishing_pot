@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Status Update: Invoices Dyd8130Lg confirmed and ready for dispatch.",
+    "from": "Dear customer <aalibabu210@gmail.com>",
+    "to": "Dear customer <phishing@pot>",
+    "date": "Mon, 21 Apr 2025 10:31:16 -0700 (PDT)",
+    "message_id": "<680680e4.170a0220.36e156.20ae@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============7529154106603903037==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============7529154106603903037==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1675,
+    "html_length": 3397,
+    "has_text": true,
+    "has_html": true
+  }
+}

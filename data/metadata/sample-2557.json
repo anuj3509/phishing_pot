@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "��� Fordern Sie Ihre 100-���-Shell-Tankkarte an!",
+    "from": "Shell-Gutscheins, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 10 Jan 2024 15:11:59 +0100",
+    "message_id": "<ta0r1ty.eqtmh.wg4.wg4@bryhqqfipmeoeip.pwj>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/48356/hero1.png",
+      "eu1-us1.ckcdnassets.com/448/creatives/48356/hero1.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5x16q5s1x6q1s651x6q5s1x5s1x51x11111.shtml#oop/5147_md/4049/25323/1189/143/149762",
+      "http://kiteforfriends.eu/op/5147_md/4049/25323/1189/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5x16q5s1x6q1s651x6q5s1x5s1x51x11111.shtml#cl/5147_md/4049/25323/1189/143/149762",
+      "https://trk2.de/299zke5e"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 567,
+    "html_length": 7306,
+    "has_text": true,
+    "has_html": true
+  }
+}

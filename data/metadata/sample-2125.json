@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Jetzt gratis Photovoltaik-Angebot anfordern",
+    "from": "photovoltaik-services.de, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 05 Dec 2023 16:14:08 +0100",
+    "message_id": "\r\n <d489430d-01ad-4b43-bbc2-3c5eebe2c92e@DS1PEPF00017095.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link10_2.html#cl/4291_md/2009/76/268/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/PV_Services_Logo_quer.png",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/PV_Services_Image_Familieklein.jpg",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/PV_Services_Logo_quer.png",
+      "oncf-voyages.ma",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link10_2.html#oop/4291_md/2009/76/268/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/PV_Services_Image_Familieklein.jpg",
+      "photovoltaig-services.de"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5454,
+    "html_length": 8519,
+    "has_text": true,
+    "has_html": true
+  }
+}

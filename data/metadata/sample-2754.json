@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "- Ordem de Retirada Correios Ultimo Aviso - Protocolo: 2GPMBXAF6H",
+    "from": "Ordem de Retirada <012455@clinicavizioli.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 28 Jan 2024 14:49:10 +0000",
+    "message_id": "<fe89af3226f91dd2824b6716a3244d49@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_fe89af3226f91dd2824b6716a3244d49\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_fe89af3226f91dd2824b6716a3244d49\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www2.correios.com.br/encomendas/img/logotipoEct.gif",
+      "http://sinmplses.servegame.org/?hash=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 51,
+    "html_length": 2193,
+    "has_text": true,
+    "has_html": true
+  }
+}

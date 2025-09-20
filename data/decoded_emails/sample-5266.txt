@@ -1,0 +1,117 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Gewinnen Sie eine der neuen Paletten mit vielen Testprodukten!
+From: Temu Paletten <reply@telekom.com>
+To: <phishing@pot>
+Date: Mon, 21 Apr 2025 06:13:32 -0400
+Message_Id: <OKZ2bRW.0.0.OKZ2bRW.9.OKZ2bRW@telekom.com>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - www.zupimages.net/up/24/49/do0v.jpg
+  - https://www.zupimages.net/up/24/49/do0v.jpg
+  - www.zupimages.net/up/24/49/76so.jpg
+  - https://www.zupimages.net/up/24/49/76so.jpg
+  - http://blog.dury.agency/cl/1508_md/1995/2285/660/1/12270
+  - http://blog.dury.agency/oop/1508_md/1995/2285/660/1/12270
+  - http://blog.dury.agency/op/1508_md/1995/2285/660/1/12270
+
+DECODED TEXT CONTENT:
+------------------------------
+TEMÜ Newsletter body { margin: 0; padding: 0; background-color: #e6e6e6; font-family: Arial, sans-serif; } .container { background-color: #ffffff; width: 500px; margin: 20px auto; padding: 20px; box-shadow: 0 0 5px rgba(0,0,0,0.1); } .hero-image { width: 100%; height: auto; } .text { color: #1e2944; font-size: 15px; line-height: 21px; margin: 15px 0; } .cta-button { display: block; width: fit-content; margin: 20px auto; padding: 12px 24px; background-color: #ff6a00; color: #fff; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 30px; } .footer { font-size: 11px; color: #888; text-align: center; margin-top: 20px; } .footer a { color: #888; text-decoration: underline; } Ein exklusives Geschenk wartet auf Sie. Sind Sie bereit, es zu ergattern? Hallo phishing@pot, Sie sind einer unserer möglichen Finalisten für ein exklusives Paletten- Überraschungsgeschenk! Jetzt kostenlos teilnehmen und mit etwas Glück das ultimative TEMU-Geschenk ergattern. Heben Sie Ihre Chancen auf die nächste Ebene – stapeln Sie den Erfolg! Jetzt Mitmachen &gt;&gt; Hoffentlich können wir Ihnen damit eine kleine Freude machen. Ihre Julia Weber (Kundenbetreuung) click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>TEMÜ Newsletter</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background-color: #e6e6e6;
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      background-color: #ffffff;
+      width: 500px;
+      margin: 20px auto;
+      padding: 20px;
+      box-shadow: 0 0 5px rgba(0,0,0,0.1);
+    }
+    .hero-image {
+      width: 100%;
+      height: auto;
+    }
+    .text {
+      color: #1e2944;
+      font-size: 15px;
+      line-height: 21px;
+      margin: 15px 0;
+    }
+    .cta-button {
+      display: block;
+      width: fit-content;
+      margin: 20px auto;
+      padding: 12px 24px;
+      background-color: #ff6a00;
+      color: #fff;
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 30px;
+    }
+    .footer {
+      font-size: 11px;
+      color: #888;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .footer a {
+      color: #888;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="hero-image" src="https://www.zupimages.net/up/24/49/76so.jpg" alt="">
+	<img class="hero-image" src="//www.zupimages.net/up/24/49/76so.jpg" alt="">
+    <div class="text">
+      Ein exklusives Geschenk wartet auf Sie. Sind Sie bereit, es zu ergattern?<br><br>
+      Hallo phishing@pot,
+      <br><br>
+      Sie sind einer unserer möglichen Finalisten für ein exklusives Paletten-<strong>Überraschungsgeschenk!</strong><br>
+      Jetzt kostenlos teilnehmen und mit etwas Glück das ultimative TEMU-Geschenk ergattern.<br>
+      Heben Sie Ihre Chancen auf die nächste Ebene – <strong style="color:#000">stapeln Sie den Erfolg!</strong>
+    </div>
+    <a href="http://blog.dury.agency/cl/1508_md/1995/2285/660/1/12270" class="cta-button">Jetzt Mitmachen &gt;&gt;</a>
+    <div class="text">
+      Hoffentlich können wir Ihnen damit eine kleine Freude machen.<br><br>
+      Ihre Julia Weber (Kundenbetreuung)
+    </div>
+    <img class="hero-image" src="https://www.zupimages.net/up/24/49/do0v.jpg" alt="">
+	<img class="hero-image" src="//www.zupimages.net/up/24/49/do0v.jpg" alt="">
+    <div class="footer">
+      <a href="http://blog.dury.agency/oop/1508_md/1995/2285/660/1/12270">click here to remove yourself from our emails list</a>
+	  <img alt="" src="http://blog.dury.agency/op/1508_md/1995/2285/660/1/12270" width="1" height="1" style="visibility:hidden">
+    </div>
+  </div>
+</body>
+</html>
+

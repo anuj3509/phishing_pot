@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, você alcançou o cartão Black, mas há algo que você nãopode perder! Bem-vindo ao Bradesco Prime",
+    "from": "Bradesco <contato@bradesco>",
+    "to": "phishing@pot",
+    "date": "Thu, 11 Apr 2024 18:47:40 +0000",
+    "message_id": "<d6921a94-0432-90f9-16f8-beb6fccecc50@bradesco>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "tisoprincipe.htm",
+      ".alert.alert-warning",
+      "atendimentoesextante.com.br",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "www.tc.umn.edujanss011",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=d769fb02c7464949a237a312b57df09b&amp;t1=bra",
+      "www.mpiwgberlin.mpg.dePreprintsP9.pdf",
+      "www.onthepage.orgoutsiderseinstein_in_singapore.htm",
+      "httpsdoi.org10.1007s00170-019-03785-0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 150492,
+    "html_length": 266697,
+    "has_text": true,
+    "has_html": true
+  }
+}

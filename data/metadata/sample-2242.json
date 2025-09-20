@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: A 750��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 15 Dec 2023 12:10:56 +0100",
+    "message_id": "<5LNKxhh.0.0.5LNKxhh.9.5LNKxhh@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://amazon.superkoran.info/RElVZGk0N01OQmp3Q3BnQTROeWlYc3dNcW9jWnU2NTRocDVzYnc5WmoybVhqeDhJUGdIdkVkcVcyZUV2aTkrelVzU2w0cGhzLy9uMzlWQ3JVMzh5a2ZkSkhvaEFyRUNwd0FJZG1GUDIwS0E9",
+      "http://amazon.superkoran.info/VUdYOUtvcUZiOEVmRzMxaHVPSnNWK2hjZHh6VUtDWUUwZzhwOTBCTGE2RTJJb0Z4Q1dQRGpxWWhsdm01VytoL3oySlA1N25Bcm50TzFQUnM0NVdmbDNMZ2gzVDFZbmg2eGtmT0dRMUM2b2M9",
+      "https://fnnl-check.com/?a=6073&amp;oc=14749&amp;c=41305&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/49/spfw.jpg",
+      "https://www.zupimages.net/up/23/49/spfw.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1973,
+    "html_length": 9267,
+    "has_text": true,
+    "has_html": true
+  }
+}

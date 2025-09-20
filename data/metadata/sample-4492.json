@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Holen Sie sich noch heute Ihr iPhone 16 Pro!",
+    "from": "Message from Vodafone, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Dec 2024 15:10:42 +0000",
+    "message_id": "<HmWTrWM.0.0.HmWTrWM.9.HmWTrWM@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://limecastle.co.uk/ckNPM1dMY0hpVVhHZk8rM0NZLzVvVVdKeVBlREZyS0pDdldCbzBMcXBDcUFNbmtkNVdWUTJJeVB3SWE5Y1JCMXMrbHJtUC9zRmxRQ2kvQVJNaHlhOHY2UjRwYlJRTWUrRDJjcFZmWWNHT1U9",
+      "https://www.zupimages.net/up/24/38/tsxt.png",
+      "http://limecastle.co.uk/TkZYcFM1R3ZvVjRwOXFDa2J3dEkxbEhlQVR5azhTSFBnWlAzMjBzSHVodzFmNDNXL3hPUnMyL2xNTHZ0ZzFzQ2creW5LeldZdnNxeGNiek9TbTF4MS9PbXJ6RDJaZ1M5SmdFaXNsTkZ2N009",
+      "www.zupimages.net/up/24/38/tsxt.png",
+      "https://www.zupimages.net/up/24/39/39f7.png",
+      "https://salesales1.com/?a=8096&amp;oc=21885&amp;c=58019&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/39/39f7.png",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5216,
+    "html_length": 12898,
+    "has_text": true,
+    "has_html": true
+  }
+}

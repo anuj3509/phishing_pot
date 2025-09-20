@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Ihr Temu-Konto ist jetzt aktiviert!",
+    "from": "Temu <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 14 Feb 2025 01:25:57 +0000",
+    "message_id": "<be9d765e-43e2-4178-b23f-0aa34e50ce87@BN2PEPF00004FBA.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/18/1ezx.png",
+      "www.zupimages.net/up/24/18/1ezx.png",
+      "http://blog.dreamsalive.info/Zk4weWpjRGs0STNDaHNaSHFWTnNkWGErK1B3MVVRVXlMbkhvTXFBUFV2c2ozemNDNmEzS0I0WFFRQlduYldWcEcxcG80U0VBcVNXUWJBazJjU21yREE9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "http://blog.dreamsalive.info/QktFZlZoZUVhVERuR3JxdWhOdFZIcmpuQXJwL0w3dUdlT0pvSEVSenorQTJwdmtkRnlVUFZGUzd5aXdka3B5YmZmQmFZa1VZSDJiVm4wVXQ1SHBlOXc9PQ__",
+      "http://blog.dreamsalive.info/cXhBMWZLb1hhdk9aaFV3VnlCNDdRbEdsRFhSTXp5a3FjUjd0clJFN05NRWZ3VDVtRWVucmxWWnpZT2JQUkZoeW9DNEZMajdIR1FkTmhuUzcyZ2JGWVE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1681,
+    "html_length": 9393,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "CONTACT USING BELOW reference number  ",
+    "from": "Rachid Ramiro",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 11 Sep 2023 19:30:33 +0600",
+    "message_id": "<272f0a50-0bf9-46b3-b3b1-a510837803bc@POSTMAN.mse.valid>",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "course.You",
+      "gmail.com",
+      "them.Below",
+      "insurance.All"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1382,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

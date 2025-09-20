@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "I am 23 years old, looking for a lover.",
+    "from": "\"Sex Dating\" <syhazuacjo@redwoodbarn.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 1 Jan 2025 14:49:37 +0300",
+    "message_id": "<DA24AC24.2704F40B@redwoodbarn.com>",
+    "content_type": "text/plain; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://little--women.ru/sexxys"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 48,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

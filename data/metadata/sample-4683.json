@@ -1,0 +1,56 @@
+{
+  "headers": {
+    "subject": "We have a surprise for ADAC customers.",
+    "from": "Message from ADAC,(<message@my.zalando.de>)",
+    "to": "<phishing@pot>",
+    "date": "Thu, 9 Jan 2025 12:42:05 +0000",
+    "message_id": "<KHXIMGLJMIQRKQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.gyazo.com/d536978e9da0c44e6953744694554673.png",
+      "td.es-desk-menu-hidden",
+      "button.es-button",
+      "http://topmarktingplace.com/4udJNl42682ighH1332ovdaiulcma14302UEOPTTQMWTTDVWE2HGDB17564X10",
+      "tr.es-desk-hidden,",
+      "http://topmarktingplace.com/4rMkQH42682FAqI1332dsqpqiyckt14302QGMCCIQHOKTRZMS2RVQD17564K10",
+      "https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i",
+      "http://topmarktingplace.com/4nDePe42682sLwg1332xgnexdoody14302ZHMTDSXSSXNVKHL2OMJX17564k10",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4RjFvp42682FTfs1332apjfcenqhm14302ELMLEBBJUMAQETR2SUNC17564U10",
+      "http://www.w3.org/1999/xhtml",
+      "i.gyazo.com/d536978e9da0c44e6953744694554673.png",
+      "td.es-desk-hidden,",
+      "tr.es-desk-hidden",
+      "i.gyazo.com/093ae95a6c2fd0babcdf13e09a1500fa.png",
+      "https://i.gyazo.com/56d815a2fc16a36bea6cdc63b1164ed8.png",
+      "https://i.gyazo.com/093ae95a6c2fd0babcdf13e09a1500fa.png",
+      "http://topmarktingplace.com/6xnVKm42682rXLe1332esdogmdksw14302KYPYQJGIWUWPBUO2BDLB17564N10",
+      "https://salesandizings.com/?a=4953&oc=21775&c=58838&p=r&m=3&s1=",
+      "a.es-button,",
+      "table.es-table-not-adapt,",
+      "table.es-social",
+      "http://topmarktingplace.com/5NYTvE42682YqfH1332reatszaopt14302LAFBBAQHVXXSIVF2FLNE17564a10",
+      "http://topmarktingplace.com/4OSGWl42682rHhS1332tijbrbdgam14302BNJDJEOPHWWCRTO2JZSQ17564b10",
+      "table.es-desk-hidden",
+      "https://viewstripo.email",
+      "i.gyazo.com/56d815a2fc16a36bea6cdc63b1164ed8.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5631,
+    "html_length": 23237,
+    "has_text": true,
+    "has_html": true
+  }
+}

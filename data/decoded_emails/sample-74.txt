@@ -1,0 +1,53 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your NHS prescriptions, delivered for free
+From: :Lloyds Pharmacy <info@livingsocial.co.uk>
+To: phishing@pot
+Date: Thu, 29 Sep 2022 04:53:09 +0200
+Message_Id: <NjJicpqV.6371.fbGLUN.NjJicpqV@email.nexxt.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://laredouteshop.online/open_C/phishing@pot/14372/uk/livingsocial
+  - i.imgur.com/C3Fqbby.jpg
+  - http://www.w3.org/1999/xhtml
+  - http://laredouteshop.com/cl/12185_md/9/4986/6742/1229/6768
+  - https://www.tencableplug.com/o-pghv-k93-6ee9f1a344cdae97374341ee5a1b4325
+  - https://i.imgur.com/C3Fqbby.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+Your NHS prescriptions, delivered for free click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><center>
+<center>
+<h3><span style="text-decoration: underline;"><a href="http://laredouteshop.com/cl/12185_md/9/4986/6742/1229/6768"> Your NHS prescriptions, delivered for free </a></span></h3>
+<a href="http://laredouteshop.com/cl/12185_md/9/4986/6742/1229/6768"> <img src="//i.imgur.com/C3Fqbby.jpg"> <br> <img src="https://i.imgur.com/C3Fqbby.jpg"> <br> <br> <br></a>
+ </td>
+    <tbody>
+     <tr> 
+     </tr> 
+    </tbody>
+   </table> 
+  </center>  
+ </body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://www.tencableplug.com/o-pghv-k93-6ee9f1a344cdae97374341ee5a1b4325">here</a> to remove yourself from our emails list</span><br><br><img src="https://laredouteshop.online/open_C/phishing@pot/14372/uk/livingsocial" style="height: 1px ; width: 1px">
+<html>
+

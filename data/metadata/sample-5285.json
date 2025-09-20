@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "investimentos com taxas a partir de 1% ao ano",
+    "from": "alfredo <contato@investimentoeaquisicoes.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 10 Apr 2025 06:57:44 -0300",
+    "message_id": "<kcLuYDy91QdlHw6EdRsYTZxv9uHRnXNnQ3iWu0vRlI@server.jambovt.com.br>",
+    "content_type": "multipart/alternative;\n boundary=\"b1=_kcLuYDy91QdlHw6EdRsYTZxv9uHRnXNnQ3iWu0vRlI\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\n boundary=\"b1=_kcLuYDy91QdlHw6EdRsYTZxv9uHRnXNnQ3iWu0vRlI\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://investimentoeaquisicoes.com.br/tracker/open/660319/15/he/image.png",
+      "http://investimentoeaquisicoes.com.br/newsletters/web/show/15/660319",
+      "http://investimentoeaquisicoes.com.br/tracker/link/660319/15/3",
+      "http://investimentoeaquisicoes.com.br/tracker/open/660319/15/te/image.png",
+      "http://investimentoeaquisicoes.com.br/contacts/unsubscribe/660319/26/15"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 449,
+    "html_length": 2758,
+    "has_text": true,
+    "has_html": true
+  }
+}

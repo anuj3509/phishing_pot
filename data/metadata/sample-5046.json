@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "EDEKA Einkaufsgutschein im Wert von 500 €",
+    "from": "EDEKA <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 27 Feb 2025 03:24:50 -0500",
+    "message_id": "<CTW5gNe.0.0.CTW5gNe.9.CTW5gNe@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/25/09/e80q.jpg",
+      "https://www.zupimages.net/up/25/09/e80q.jpg",
+      "http://dev.dury.agency/ZTg2NXdzUENCS1hkeG1yYzdlQmFYY2ZFSXhjbThlVzNEa0ZBNWhmWVV0Y3E5aWN4ekoxTWFuY20rdkY2U2NoNE1Ca0dvVm1FODFraEZ5aSs2dm53MkE9PQ__",
+      "http://dev.dury.agency/ODdXekZtSGhxSUtmNVUxenFtQ1hieDBoNDZXSmxyQVZ2ZEVOVGk5dlZFSTVxclhxUVU4amdnelVWeUNFRysvbkhMSElHL2dnNmZrU3p4eHhwOTJHSmc9PQ__",
+      "http://dev.dury.agency/cGRhSE45aU1zb3dVQlduVk8zcGhKOXcvdHhEUXphTkVWL2d2dEtlY2RrZlAybUJSb3ZwM1FxV2pXTEpEcjFZM2tNcHNRcFNuMzJ0ZTdEQjJLeUU1S2c9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1239,
+    "html_length": 3428,
+    "has_text": true,
+    "has_html": true
+  }
+}

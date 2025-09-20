@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "50 % Rabatt auf handgefertigte Messer!",
+    "from": "HUUSK JAPANISCHE MESSER, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 11 Nov 2023 23:32:09 +0100",
+    "message_id": "\r\n <f9cdc4a6-c2b8-43d5-8275-e40fafdc0663@DBAEUR03FT004.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://173.44.49.145/cl/1800_md/31/75/7/23/2459859",
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/382/22w34-pagal-veikiancius-huusk-07-191x1.jpg",
+      "http://173.44.49.145/op/1800_md/31/75/7/23/2459859",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "http://173.44.49.145/oop/1800_md/31/75/7/23/2459859",
+      "huuskstore.com",
+      "oncf-voyages.ma",
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/20/Huusk_black__3_.png",
+      "https://fonts.googleapis.com/css?family=Ubuntu",
+      "http://173.44.49.145/un/1800_md/31/75/7/23/2459859",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5851,
+    "html_length": 16318,
+    "has_text": true,
+    "has_html": true
+  }
+}

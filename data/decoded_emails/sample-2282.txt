@@ -1,0 +1,91 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: HURRY UP TO GET A FREE DONATE! 12 HOURS LEFT!
+From: "support.service" <notification.47307415@investing.com>
+To: phishing@pot
+Date: Mon, 18 Dec 2023 23:09:38 +0000 (UTC)
+Message_Id: <10uLpANOSzKjNCg_ZY6OsQ@geopod-ismtpd-19>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://loyalty.yotpo.com/assets/proxima-nova-regular.otf
+  - http://www.w3.org/1999/xhtml
+  - http://www.w3.org/TR/REC-html40/loose.dtd
+  - email-logo.png
+  - https://u20993664.ct.sendgrid.net/ls/click?upn=ziWDNBWgCXu3tA1GxDf-2FVlEKL-2Fp0NGlORAmLzndWuXxBC1l1WnCx99hoVarx21ILe7ORLD0WwrG4-2BFVeukdL-2BDEKNLoL1eH1rD3NE4QNIyrRJejXXiv5Dr-2FWCDAeU1dPDg-2F-2FqSaTViC8-2F6TfczOJkHFidF4-2B2p4AgcIq9fPD1GMIWv9Zg7HM9ICswRJiHZs1pDac_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPm5Eqw8NeBBNI5VMkQMGcxu-2F49GeIXr4Rj-2B2kro-2BZ118AeN3i3-2FnxfVRcghwWup05ytgeUh0tO-2B7geS4Nh4dxhB0BFtncUqerQ2BHzf2i6B8Q-2B1A0kL4-2FwoRYoDv3uxLT6ppb9BnZORNsx7ZZ1TdPMKFOuv4WrPRRSs-2FCJxMbBpgXzdfAHcaM0smC1MiVwMprhhtAwXUYA-2BNgWv2PsaoFBKWcR2kt-2BcHCWiq4hhLcEKgg-3D-3D
+  - https://u20993664.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FifJruPlbsJLmby-2Ba5m-2F-2BtifULBxr5ERNmvg-2FWvD4E3COKj2yFRmwSRrmvuIBXoKHK6UL4QlxUkLFuhWqkT-2BcmzyIYFMehveuZonI3dbIO-2BT7R63kx3co5G4BfqP1OMwe7CP8NmAMInQoEDDMjFtbHmwcq-2Bxk2AzkusiKCL1XdE9FfBN7duBzlC-2B2v8iXRTw3X-2Bb6I6maMLOpVsnXDIxZ1E29KtdTtA6fWsO1-2BEdAySw-3D-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+@font-face { font-family: "proxima_nova"; src: url("https://loyalty.yotpo.com/assets/proxima-nova-regular.otf") format("opentype"); font-weight: normal; font-style: normal; } a { color: #007ee6; text-decoration: none; } +0.035 BTC *FREE* &gt;&gt; CHECK DONATE NOW &lt;&lt;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+        <style>
+            @font-face {
+                font-family: "proxima_nova";
+                src: url("https://loyalty.yotpo.com/assets/proxima-nova-regular.otf") format("opentype");
+                font-weight: normal;
+                font-style: normal;
+            }
+            a {
+                color: #007ee6;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body style="padding: 0; width: 100% !important; -webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marginheight="0" marginwidth="0">
+        <center>
+            <table cellpadding="8" cellspacing="0" style="*width: 540px; padding: 0; width: 100% !important; background: #ffffff; margin: 0; background-color: #ffffff;" border="0">
+                <tr>
+                    <td valign="top">
+                        <table cellpadding="0" cellspacing="0" style="border-radius: 4px; -webkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px;" border="0" align="center">
+                            <tr>
+                                <td colspan="3" height="6"></td>
+                            </tr>
+                            <tr style="line-height: 0px;">
+                                <td width="100%" style="font-size: 0px;" align="center" height="1">
+                                    <img width="80" style="width: 80px; *width: 80px;" alt="" src="/assets/email-logo.png">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" style="line-height: 25px;" border="0" align="center">
+                                        <tr>
+                                            <td colspan="3" height="30"></td>
+                                        </tr>
+                                        <tr>
+                                            <td width="36"></td>
+                                            <td width="454" align="left" style="color: #444444; border-collapse: collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; max-width: 454px;" valign="top">
+                                              <p style="text-align: center;"><b style="color: rgb(0, 138, 0);"><span style="font-size: 32px;">+0.035 BTC</span></b><span style="font-size: 32px;"> *FREE*</span></p><p style="text-align: center;"><span style="font-size: 32px;">&gt;&gt; </span><a href="https://u20993664.ct.sendgrid.net/ls/click?upn=ziWDNBWgCXu3tA1GxDf-2FVlEKL-2Fp0NGlORAmLzndWuXxBC1l1WnCx99hoVarx21ILe7ORLD0WwrG4-2BFVeukdL-2BDEKNLoL1eH1rD3NE4QNIyrRJejXXiv5Dr-2FWCDAeU1dPDg-2F-2FqSaTViC8-2F6TfczOJkHFidF4-2B2p4AgcIq9fPD1GMIWv9Zg7HM9ICswRJiHZs1pDac_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPm5Eqw8NeBBNI5VMkQMGcxu-2F49GeIXr4Rj-2B2kro-2BZ118AeN3i3-2FnxfVRcghwWup05ytgeUh0tO-2B7geS4Nh4dxhB0BFtncUqerQ2BHzf2i6B8Q-2B1A0kL4-2FwoRYoDv3uxLT6ppb9BnZORNsx7ZZ1TdPMKFOuv4WrPRRSs-2FCJxMbBpgXzdfAHcaM0smC1MiVwMprhhtAwXUYA-2BNgWv2PsaoFBKWcR2kt-2BcHCWiq4hhLcEKgg-3D-3D"><span style="font-size: 32px;">CHECK DONATE NOW</span></a><span style="font-size: 32px;"> &lt;&lt;</span></p>
+                                            </td>
+                                            <td width="36"></td>
+                                        </tr>
+                                        <tr>
+                                            <td colspan="3" height="36"></td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                        
+                    </td>
+                </tr>
+            </table>
+        </center>
+    <img src="https://u20993664.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FifJruPlbsJLmby-2Ba5m-2F-2BtifULBxr5ERNmvg-2FWvD4E3COKj2yFRmwSRrmvuIBXoKHK6UL4QlxUkLFuhWqkT-2BcmzyIYFMehveuZonI3dbIO-2BT7R63kx3co5G4BfqP1OMwe7CP8NmAMInQoEDDMjFtbHmwcq-2Bxk2AzkusiKCL1XdE9FfBN7duBzlC-2B2v8iXRTw3X-2Bb6I6maMLOpVsnXDIxZ1E29KtdTtA6fWsO1-2BEdAySw-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+

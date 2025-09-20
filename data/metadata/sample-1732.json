@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "2nd attempt for phishing@pot",
+    "from": "Home Improvement - Thank You!    ,_<3mst0@4nqh5intz0.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Oct 2023 03:15:11 +0000",
+    "message_id": "\r\n <b9cb74cc-3505-401b-b28f-3f10dba9f25f@VI1EUR06FT066.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.imgur.com/0MRSj8z.jpg",
+      "https://t.co/5A8NnAqwBh",
+      "i.imgur.com/0MRSj8z.jpg",
+      "https://t.co/LczQ5RfWDV",
+      "http://dtherhproblem.us/su47337iROAk27537896Igmn1371191lvv68809DOWG3359"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 407,
+    "html_length": 8698,
+    "has_text": true,
+    "has_html": true
+  }
+}

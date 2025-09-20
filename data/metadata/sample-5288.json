@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Last reminder to verify your Ledger Device",
+    "from": "Ledger <web@appsquadz.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 2 Apr 2025 19:27:23 +0000",
+    "message_id": "<01010195f7f8f6e5-e7c2cafc-3b33-425a-a719-873ad393935a-000000@us-west-2.amazonses.com>",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "TRUST2024.html#",
+      "https://logowik.com/content/uploads/images/ledger7203.jpg",
+      "https://hardware-deactivation.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 666,
+    "html_length": 11712,
+    "has_text": true,
+    "has_html": true
+  }
+}

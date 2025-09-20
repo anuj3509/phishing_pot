@@ -1,0 +1,486 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Easy. Secure. Built into iPhone.
+From: Apple Pay <applepay@insideapple.apple.com>
+To: wpx@protonmail.com
+Date: Tue, 8 Aug 2023 15:40:56 +0000 (GMT)
+Message_Id: <1845150637.5878820.1691509256715@insideapple.apple.com>
+Content_Type: multipart/mixed;boundary=---------------------168b1d03d21a2081977b38bfd99b006e
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;boundary=---------------------168b1d03d21a2081977b38bfd99b006e
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://is2-ssl.mzstatic.com/image/thumb/k_GGiuVQF-gNUn-KQSzRKg/828x464bb-90.png
+  - https://is1-ssl.mzstatic.com/image/thumb/8sYzfa4gHTW8Zn4tKgXVtg/828x464bb-90.png
+  - https://is3-ssl.mzstatic.com/image/thumb/jQ04r5AathyJLRU66p5Q6Q/1472x828bb-90.png
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNP5oRsh%2BYZ9XZR8PheSNmCuM6%2B32nx6uHCFGhwdOy%2B%2BrdPaE0Rum5tEiQ8WwlTdIAPvXaJkuH5orqsZ6P9upblUFU5AFQoVnIZDV5jCVb4cCMPC5nMHdZ1%2B2CcAA%2Bof6Bd5O4UdPhtRwFOB0QBm%2F5z4Kyto%2FQuVUY%2F8hq8cDS5zl34XHxfHEmvYh02%2BSfdOzcWuxAHW%2B7ZD%2BZGehYvmHGq4l0fRLLfezUNf2Ypm2WIWV9gD7Y1wVN1Bq8nu439adbQ
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPwzi0ftPhwNuIpq7qZQZBQLGwu09%2FlWYQ%2BNRvnhR2fYMnelhN6Uufa1UAbyAZBhyaOWC53xO%2BQh8hojuGATfAkK1GWB8AmS01pptyBrA4XyunU3ElvZR8IYcWwJAIr1ny776haenj7dE2YFtyHRw24m9j7qDKPG%2FCfcbNpTY38ZtT%2FNPithOOYQnFdBA%2FNIWYgV1tn7nldiq4VUvRTbQ3TJRMIsaFtKB2FAxW0a9nvF3y0RHsHH3G3NsGvzc4%2BdvrZz0rT%2BeQjkad%2B7sB%2FTe22Q%3D%3D
+  - https://is4-ssl.mzstatic.com/image/thumb/kh05FZUuGn3Aycp6aoOU4w/1472x828bb-90.png
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDAvFgY8S19GphZrTGorsGo24yRCNPqgllCmap8oGYEj5Tfm63C2qQRNiQBtfh%2BTXLVYxW1P1yTxZ3wA1QNKwgDrci6s3eym6hBgdSfJPPcMTq9CM7r7%2Fr%2BvAFXFmbc7trl4yV8UwZ3dStubH%2FB1DdpjF8eT6pTUR6%2BlSbx6yVZYmyJ71VniAWnCL9bOj%2BtQ13bDePCQ1sdRlYf%2FClOL5%2BdzC9xW1fUn%2BcelAmkDHilbom2AMVHFNAQqwu5U%2BNfm3dn4xT0mrjjSx%2BVzWxG4xnWg%3D%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPqZc%2F%2BAN9gTsWGE%2FSwR8m4jb4ay3sRgrYAE6gzUh7wDPDU408CaFMTdy%2FdqqcfnG%2FHUIVI5U3FIiF0eFWNBxfPmStc%2BYCJkTJhwMyguW8ue8VeIdaxjimEcP6DIS0DLt7TaphF1CUvZTE58UBMQqzKkpNVR%2BFNxu%2F8FU03A%2Bnq2HrGbezHbhpwSiUPinxa8ZVY475Wthbem0YI2ommyBw4%2Fy6WgfK%2Bs%2FuRexE2FFA1DD8blfrOsg0Y%2B3pMnIqK%2FEioLz2fT8W57TWhPEiYdgyxA%3D%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDzUmKFyIo6%2BZs9zpuAjSVJ7kt2%2FgGvjOpiLupdz1efPnjuXh1Tew%2BbYEqVlNZIqVCT2Eiez43nJ4R7D%2F%2FDQsNRYoT4L3qnfX0kGerdFt%2BydkRwQGf59bDXqYs%2Bx9JZdGxo0Y%2F20Yy5JtuWDoqhdZgcSQANnoj2My8aSMVofdJDd85QgRzy5Tom3jj0qOEkUHdB58%2B1qHnEA3WCp4PwPyYZYgW2pfV1GLE0FvClKzHpTOSZh3m4X2fJROTvHwyOFptMctslPCN%2FGFdENfDea%2B%2BSQ%3D%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR4gazf%2F7FEPJJhTn4jVTm9J234dx4zEikaMOvGN6JTQQ6nFkURJh906Xax3m9596B0s2xdxpP3TNDqKfCAExrX2P8C05y8lUIvoyJWiZpJlZC6fbiLv7iaVR%2Fj%2BK6JNOex0GBa8dBk4XEcEdpDQZRoDjdqankGYu%2BRMKT6UpqYT1sULEI0FVK4opIRypDezEr9Vie6vy3fdmd4sro80gn1z2bA6tjxkEmwoIkE2pSDpK9EDgaBad21bTv3v7u9CdwzOoJVnxGVjck81EPiZuFwzm3BheggHvf%2F%2BqztR2Pu%2B0lweLXa5tZGxq3oej9Pxew%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BQTysx%2Fq0%2FtQAXeqYCnAwlwUC6HRponvFeeUqJokD8Acps0twn5th%2FurFe2r8S6l4QMuJPqgHtvNomC7%2Fmpm1%2FEByZ%2BojeLND3cCarYc39lkS%2B9AIaNUWrKQpecG7wfFSRrTU0TBqObosbwfACt0uKjzesLkYZkjhieoTI27Pxoeg%2F89ottCElLRcl0Dc8McENtjI7OaS7cry38G7KPbwcCdxt33c91rG0%2Fm0yxERCZlcPZEZyJV8xD6%2FetoGAIklvg4%2BlJmT0v7KSOPKa86Ceg%3D%3D
+  - https://is3-ssl.mzstatic.com/image/thumb/yi2fBFBvYD4O_yxhdsFAKA/112x73bb-90.png
+  - https://static-its-images.apple.com/images/eds/chiclets/200px/Wallet.png
+  - https://static-its-images.apple.com/images/eds/wordmarks/white_container/2x/Pay2x.png
+  - https://is2-ssl.mzstatic.com/image/thumb/CaAQ6H9F3qUrJ59HxcGTyg/828x464bb-90.png
+  - https://is4-ssl.mzstatic.com/image/thumb/mRqwJXKFHQDLt0B3bmbJug/828x464bb-90.png
+  - https://www.apple.com/uk/ios/feature-availability/
+  - https://is2-ssl.mzstatic.com/image/thumb/5z4IS93_lPY_HmMtnG9Q1w/1472x828bb-90.png
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BruALUGAzbIr%2FDo5%2Bd%2B0Fc3RwwDWKsdXuEXLcRIIpaX6WH4W97KnnLk%2FeLCBSEgUX4RtTOvJDTvHf1Ni60tVgG8frS%2FkKUVXF%2BwLJ5nAdUUOGkMLxYKRoEnzWmNteOk5ewhYFP65fp3PZ3WPWOuihg4Fk7IRfGPsv7GvQTGWS6iXtLLSqpIXNOu1GkL8iEGAcIqrwArMRd107qZJE8d2XXfkZxmqJ1ZJznD602omwEvFt68m99E6iuCDvHnZT7649K7QJJmdP51Q9klPixHkutA%3D%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPFLv8vTc924DarlOb1AB9hITogAEBQXE5NAl68Uq6vUYOMP0WZRa3fDhU8N80tFk30QyQ6oliP5vWZM7aWqYV%2BMpfPcH%2Bs%2F2%2FWIyhe5ei5GyxyBJ%2FqZ%2F74vOxN8S1ikAA0S5oqWM7PlZCSspY8VZ646KBC4APGWX7T%2FqEflmPujdoWzOT9mhRX0tXOb0gyC0OeOI6jmNBadR%2BZ3wmZQu6zjx7azWOFY0ZtYka1oIIBtY0YFda3QBQlv5JTQptX6%2F09gvLfFIYgXORT52cinXDWMKauhWsttB%2Bykgq38UmqPg%3D
+  - https://is4-ssl.mzstatic.com/image/thumb/UZOqbAUSxHTYn8UOtMj2LA/230x158bb-90.jpg
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQaL%2FPaUN20C6PlWAijkcmAzeN6puYxdoVMn3AyXDSQXX3kpbShETswkQNg5mKyuptkFKfAXuOWtqhl%2BrFmkX8%2BPgPk55S5Sb5eb7emKuLQm%2BJK1rETF49MTBWn%2BXbhm8hVCGO%2Bptm9IN7xJ6lFXUnYTn02H5nm0RdubRb6bsj%2FQuquFKEP9Qz5n%2BLfY4eC4mGxXnsV7mNdtvrj0%2FGJcIYT7R3ad9bzvflwHFf6lVZfr%2BBiZMvtoJHIQ%2F0PrDa8uSXrsaf3e5tmaqJmzREAOYSw3rLeWOih02VyTOG8sKnOa3xEwu4gM0%2B3s8OlXBPjm%2F69x%2F0IP%2F4Oz%2Bb7uv8hHsy6
+  - https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png
+  - https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/da/ba/f6/dabaf645-339c-0d0a-4008-e3cab91d0c31/mza_10658919598781407931.png/66x66bb-90.png
+  - https://is1-ssl.mzstatic.com/image/thumb/tgXL0RtgdSr8SwyUrz3zcA/1472x828bb-90.png
+  - h1.appl_oversize
+  - https://c.apple.com/r?v=2&a=8ps6Ok0qKWiF37xoxStPOmTNGs51zlivdjtcXTFjpLnVfNVUW3O2%2Fg0FsgBl8SdvTx20IK997Wb6cow2ElFVnSXa0eh3jKVBY5vns7boGnl4cbwnMM5uW0e7kxUinOF6bVOCv1SCip01GuzSlsuVT6u7kZT1H41dUrFqQ95VISJBK14DV28mnfGYJ%2FX2n9kHs7mqUlLGj5raNi09u0Co5f%2Fvs8SYOAsuntgSvvw7kNQ7OuYle1FAnmP13RepRIUDuMf4YeG2tU%2FVLu0Wa2BwbuiHpMReAj2mp%2FHDAEm4FnWBILUS39MmWL9YMOBL%2BLCa5c3CFah5OtYvhBSr48O%2F9jr8FOhsGHQNR8eBhCGTECVKQZSY1lV5NuJcpVxgFqQdMNnvJLQuCyZxe%2Fe8AFeH%2BTXe%2BbHKwUYtGYz8o6i0kDTRL%2FdXqdkSMvTUcl9v5tEYGczV%2Bfzs6aIZrJN9yTwu%2F2vSpTl3KN98NNiDDbmDEo1GFyHZDEKLn0Nw0elzcWA2eRsnNUkJQ9JjFV7PTgnLVQ%3D%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeSbYloQ1PcKNmGeB02VppAfYzYEsRJ9O4l6n516FtPegy1LlkNkhQ2Otw4m68CLM%2BlRLa1%2B03XA2CaoM81tGhixSDWCL7WVRQZc%2BNRx4RHozoK0DBSxoCmkMj1hAt8sts4Db%2BYf9v0DjLB3y3MPFHx1d7cyMKgWoC01kyvSu3MIdVeXC2updJXXo1KEL1za9oUe%2BmgqgH%2Fpux0Vx5%2Bhfggd5vtJ%2F9C6lI84aYClBd0ZMefmm%2B5u%2Bz18f%2BE3d3atXJ07oJ4AThOHQyg5ZnDZFnL%2BQVTfGE61H2Rlunk0QDbeajwiGCASK9FYoB9rb5gdlDE%3D
+  - https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeRlvLP1tBfNF5CjxjHMntadR9u3NLvaKcA26sVYbddm3gFMqn3IjO0ejtcg9xHR1dW%2FGI1RE85YdZZvjtsXtHcb77UV%2F1DJIYC2IA0IT9yNH1LkvIclFIc673FoDkEX5fmH8exr2VGB6hNP9N%2B54J%2BwQ1QcWCd5NO1gWrF%2BxRZSAnIZkqKzgPakyUgr5CX8EElynjQnDvk8RP0O7yYDoHc3gVkKX6AyvlnG1xI%2BdMNnm9O7v%2BRAy1qMgCWshDKsi7VJE4%2Bhr%2B9sUa4mJjSW1Z7AqiNtI1iaos%2FzuCawUNUmiODRnadzLvv7HYbs8PP4tC9uVorMGnkhhi1a9DHFhYdg6ruKmAyLsWBFR3N7FGVcLVYaLg8MBcWjl9K49NyMSlE%3D
+
+DECODED TEXT CONTENT:
+------------------------------
+ :root{color-scheme:light }html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strike,strong,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline }article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block }body{line-height:1;margin:0;padding:0 }ol,ul{list-style:none }blockquote,q{quotes:none }table{border-collapse:collapse;border-spacing:0 }body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100% }body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;background-color:#F5F5F7;color:#1D1D1F}img{-ms-interpolation-mode:bicubic;border:0;outline:none;text-decoration:none;font-size:10px }.appl_body_substitution .appl_main_table a{color:#0066CC;text-decoration:none }.appl_body_copy p a{color:#0066CC!important;text-decoration:none }a,a:visited{color:#0066CC;text-decoration:none }.appl_text_cta a{color:#0066CC!important }b,strong{font-weight:700 }em,i{font-style:italic }sup{vertical-align:super;font-size:70% }.appl_body_border{padding:24px }.appl_desktop{display:inline-block }.appl_desktop_block{display:block }.appl_desktop_nobr, .appl_mobile{display:none }.bentoImageBorderRadiusRight{ border-top-right-radius:30px!important;border-bottom-right-radius:30px!important }.bentoImageBorderRadiusLeft{ border-top-left-radius:30px!important;border-bottom-left-radius:30px!important }.appl_mob_tv{width:200px;height:auto }.appl_footer{text-align:center;margin:32px auto;font-size:11px;color:#6E6E73;line-height:1.2;width:736px }.appl_footer_fitness{ text-align:center;margin:0 auto 30px;font-size:11px;color:#6E6E73;line-height:1.2;width:736px }.appl_legal_links{margin:0 auto;width:100% }.appl_legal_copy,.appl_footer_links{font-size:11px;line-height:1.2 }.appl-legal,.appl_legal_left_aligned {font-size:11px;line-height:1.2;text-align:center;color:#6E6E73;}.appl-legal a,.appl_legal_left_aligned a{color:#424245!important }.appl-legal p,.appl_legal_left_aligned p{margin:0 auto 20px;}a[href^="x-apple-data-detectors:"]{color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important;font-weight:inherit!important;line-height:inherit!important;}@media screen and (max-width:480px){.appl_100{width:100%!important;height:auto }.appl_body_border, .appl_paddingAdjust, .appl_footer_links_adjust{padding:0!important }.appl_desktop,.appl_desktop_block,.appl_mobile_nobr{display:none!important }.appl_mobile{display:inline-block!important }.appl_mobile_block,.appl_desktop_nobr{display:block!important }.appl_twoInThree{display:block!important;}.cbMobMargin,.appl_footer_legal_blurb{margin:0 27px!important }.appl_topFeatureHeadline h1, .appl_topFeatureHeadline {font-size:36px!important;line-height:40px!important }h1.appl_oversize {font-size: 42px !important;line-height: 46px !important;}.appl_topFeatureHeadline h2{font-size:32px!important;line-height:36px!important }.appl_topFeatureHeadline h3{font-size:24px!important;line-height:28px!important }.appl_body_wrapper,.appl_disclamer,.appl_body_copy{padding-left:27px!important;padding-right:27px!important }.appl_m_body_copy{padding:36px 66px 0!important }.appl_1up_image,.appl_legal_left_aligned,.appl-legal{padding:0 27px!important }.appl_2up_mo{float:none!important;margin:0 auto!important;width:100% }.appl_rmMobCapHeight{height: auto !important}.appl_2up_mo_inner{padding:0 27px 48px!important }.appl_2up_image{width:100%!important }.apple_3up_locker{float:none!important;margin:0 auto!important;padding:0!important }.appl_3up_figure img{width:100%;height:auto;}.appl_3up_figure{padding-right:27px!important }.appl_3up2up{padding-left:27px!important }.appl_3up_td{padding:0 27px!important }.appl_3up_caption{padding-right: 27px!important }.appl_notice{padding:24px!important }.appl_header_above h1{font-size:32px!important;line-height:36px!important }.appl_blub td{padding:0 27px 48px!important }.appl_tf_gloss,.appl_copy_icon,.appl_topFeatureHeadline,.appl_cb_copy,.appl_cb_disclaimer{padding-left:27px!important;padding-right:27px!important }.appl_eyebrow{height:80px }.appl_eyebrow_copy{font-size:14px!important;}.appl_m_right_pad{padding-right:24px!important;}.appl_mod_chicklet_head{font-size:24px!important }.appl_eyebrow_chicklet{width:240px!important }.appl_eyebrow_chicklet_icn{width:36px!important;height:36px!important }.appl_eyebrow_chicklet_lob{padding:0 0 0 24px!important;vertical-align:middle!important }.appl_eyebrow_chicklet_lob img{width:auto!important;height:36px!important }.appl_eyebrow_chicklet_figure{padding:24px 24px 24px 6px!important;width:32px }.appl_eyebrow_chicklet_caption p{font-size:14px!important;line-height:1.1 }.appl_eyebrow_copy p{font-size:14px!important }.appl_eyebrow_chicklet_caption{padding:24px 24px 0 0 }.appl_cb_eyebrow_inner {padding: 22px 0 27px 24px!important;}.appl_cb_eyebrow_copy {clear:both;text-align: left !important;margin: 0 !important;padding: 0 6px !important;font-size: 14px !important;line-height: 1.2 !important;float: none !important;}.appl_cb_bodycopy {padding: 0 27px 48px !important;}.appl_feature_copy_cta p{font-size:18px;line-height:24px }.appl_end_head_below{padding:0 0 32px!important }.appl_end_wrapper{padding-left:27px!important;padding-right:27px!important }.appl_hero_header{font-size:36px!important;line-height:40px!important }.appl_header1{font-size:32px!important;line-height:36px!important }.appl_legal_copy{font-size:11px!important;line-height:14px!important }.appl_ljust_block .appl_lr_padding{padding:0 28px 48px!important }.appl_footer_links{line-height:1.6 }.appl-footer{line-height:1.7!important }.appl_mob_chiclet,.appl_mob_tv,.appl_mob_books,.appl_mob_default,.appl_mob_width{display:block;margin:0 auto }.appl_mob_chiclet{width:96px!important;height:96px!important }.appl_mob_tv{width:267px!important;height:auto!important }.appl_mob_books{height:240px!important;width:auto!important }.appl_mob_default{width:160px!important;height:auto!important }.appl_mob_width{width:100%!important;height:auto!important }.appl_3up_header{padding:0 27px 32px!important }.appl_tv_wordmark{width:auto!important;height:36px!important}}@media screen and (max-width:320px){.appl_eyebrow_chicklet_caption{display:none }.appl_eyebrow_chicklet{width:60px!important }} 96 a {text-decoration: none !important;}h1,h2,h3,h4,h6,p {mso-line-height-rule:exactly !important;}.appl_pill_button_cell {padding: 0 20px !important;} Check out in seconds — whether in stores, in apps, or online. @media screen and (max-width:480px) { /* Hack to appease the Outlook app gods */ .appl_eyebrow_chicklet_lob img, .appl_tv_wordmark { min-width: 72px; } } &nbsp; &nbsp; Pay the Apple&nbsp;way. Apple Pay allows you to replace your physical cards and cash with an easier, more secure, and private method of payment. All without worrying about the contactless limit. Plus, because it’s built into iPhone, it’s a convenient way to pay wherever you go. No need to fuss with your&nbsp;wallet. Learn more about Apple&nbsp;Pay &nbsp; &nbsp; Paying is simple. Apple Pay is easy. Pay for everyday items like coffee, petrol, and groceries. Just look for the or icons. Double-click the side button. Then, glance at your iPhone to authenticate with Face&nbsp;ID. Watch the video &nbsp; &nbsp; Your face is harder to&nbsp;steal. Physical contactless cards are vulnerable. They can be lost, stolen or fraudulently tapped&nbsp;— by anyone. Thanks to the built-in technology of Face&nbsp;ID and Touch&nbsp;ID, Apple&nbsp;Pay is designed so that only you can authorise&nbsp;payments. Learn more about Apple&nbsp;Pay&nbsp;security &nbsp; &nbsp; Set up is a&nbsp;breeze. It’s easy to get started with Apple&nbsp;Pay. Simply add a debit or credit card to Wallet and start checking out easily and&nbsp;securely. Set up Apple&nbsp;Pay in&nbsp;seconds: 1. Open Wallet on iPhone. 2. Tap to add your card. 3. Follow the steps on the screen. Watch the video &nbsp; &nbsp; Add your debit or credit card to&nbsp;Wallet. &nbsp; Learn how to add a&nbsp;card Add a card &nbsp; &nbsp; To add Apple&nbsp;Pay as a payment method, you must have an iPhone or iPad with iOS or iPadOS&nbsp;13.2 or later. Update to the latest version of iOS or iPadOS by going to Settings&nbsp;> General&nbsp;> Software Update. Tap Download and&nbsp;Install. Features are subject to change. For more information, see https://www.apple.com/uk/ios/feature-availability/ . The Apple&nbsp;Pay screens and cards shown are for demonstration purposes only. To use Apple&nbsp;Pay, you need a supported card from a participating card issuer. To check if your card is compatible with Apple&nbsp;Pay, contact your card&nbsp;issuer. Copyright &copy; 2023 Apple Distribution International Ltd., Hollyhill Industrial Estate, Hollyhill, Cork, Ireland. Privacy&nbsp;Policy &nbsp;&nbsp;|&nbsp;&nbsp; Terms & Conditions &nbsp;&nbsp;|&nbsp;&nbsp; Support &nbsp;&nbsp;|&nbsp;&nbsp; Account &nbsp;&nbsp;|&nbsp;&nbsp; My Apple ID &nbsp;&nbsp;|&nbsp;&nbsp; Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="color-scheme" content="light">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <title></title>
+
+<style>:root{color-scheme:light }html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strike,strong,sub,sup,tt,var,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline }article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block }body{line-height:1;margin:0;padding:0 }ol,ul{list-style:none }blockquote,q{quotes:none }table{border-collapse:collapse;border-spacing:0 }body,table,td,a{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100% }body{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Helvetica,Arial,sans-serif;text-rendering:optimizeLegibility;background-color:#F5F5F7;color:#1D1D1F}img{-ms-interpolation-mode:bicubic;border:0;outline:none;text-decoration:none;font-size:10px }.appl_body_substitution .appl_main_table a{color:#0066CC;text-decoration:none }.appl_body_copy p a{color:#0066CC!important;text-decoration:none }a,a:visited{color:#0066CC;text-decoration:none }.appl_text_cta a{color:#0066CC!important }b,strong{font-weight:700 }em,i{font-style:italic }sup{vertical-align:super;font-size:70% }.appl_body_border{padding:24px }.appl_desktop{display:inline-block }.appl_desktop_block{display:block }.appl_desktop_nobr, .appl_mobile{display:none }.bentoImageBorderRadiusRight{ border-top-right-radius:30px!important;border-bottom-right-radius:30px!important }.bentoImageBorderRadiusLeft{ border-top-left-radius:30px!important;border-bottom-left-radius:30px!important }.appl_mob_tv{width:200px;height:auto }.appl_footer{text-align:center;margin:32px auto;font-size:11px;color:#6E6E73;line-height:1.2;width:736px }.appl_footer_fitness{ text-align:center;margin:0 auto 30px;font-size:11px;color:#6E6E73;line-height:1.2;width:736px }.appl_legal_links{margin:0 auto;width:100% }.appl_legal_copy,.appl_footer_links{font-size:11px;line-height:1.2 }.appl-legal,.appl_legal_left_aligned {font-size:11px;line-height:1.2;text-align:center;color:#6E6E73;}.appl-legal a,.appl_legal_left_aligned a{color:#424245!important }.appl-legal p,.appl_legal_left_aligned p{margin:0 auto 20px;}a[href^="x-apple-data-detectors:"]{color:inherit!important;text-decoration:none!important;font-size:inherit!important;font-family:inherit!important;font-weight:inherit!important;line-height:inherit!important;}@media screen and (max-width:480px){.appl_100{width:100%!important;height:auto }.appl_body_border, .appl_paddingAdjust, .appl_footer_links_adjust{padding:0!important }.appl_desktop,.appl_desktop_block,.appl_mobile_nobr{display:none!important }.appl_mobile{display:inline-block!important }.appl_mobile_block,.appl_desktop_nobr{display:block!important }.appl_twoInThree{display:block!important;}.cbMobMargin,.appl_footer_legal_blurb{margin:0 27px!important }.appl_topFeatureHeadline h1, .appl_topFeatureHeadline {font-size:36px!important;line-height:40px!important }h1.appl_oversize {font-size: 42px !important;line-height: 46px !important;}.appl_topFeatureHeadline h2{font-size:32px!important;line-height:36px!important }.appl_topFeatureHeadline h3{font-size:24px!important;line-height:28px!important }.appl_body_wrapper,.appl_disclamer,.appl_body_copy{padding-left:27px!important;padding-right:27px!important }.appl_m_body_copy{padding:36px 66px 0!important }.appl_1up_image,.appl_legal_left_aligned,.appl-legal{padding:0 27px!important }.appl_2up_mo{float:none!important;margin:0 auto!important;width:100% }.appl_rmMobCapHeight{height: auto !important}.appl_2up_mo_inner{padding:0 27px 48px!important }.appl_2up_image{width:100%!important }.apple_3up_locker{float:none!important;margin:0 auto!important;padding:0!important }.appl_3up_figure img{width:100%;height:auto;}.appl_3up_figure{padding-right:27px!important }.appl_3up2up{padding-left:27px!important }.appl_3up_td{padding:0 27px!important }.appl_3up_caption{padding-right: 27px!important }.appl_notice{padding:24px!important }.appl_header_above h1{font-size:32px!important;line-height:36px!important }.appl_blub td{padding:0 27px 48px!important }.appl_tf_gloss,.appl_copy_icon,.appl_topFeatureHeadline,.appl_cb_copy,.appl_cb_disclaimer{padding-left:27px!important;padding-right:27px!important }.appl_eyebrow{height:80px }.appl_eyebrow_copy{font-size:14px!important;}.appl_m_right_pad{padding-right:24px!important;}.appl_mod_chicklet_head{font-size:24px!important }.appl_eyebrow_chicklet{width:240px!important }.appl_eyebrow_chicklet_icn{width:36px!important;height:36px!important }.appl_eyebrow_chicklet_lob{padding:0 0 0 24px!important;vertical-align:middle!important }.appl_eyebrow_chicklet_lob img{width:auto!important;height:36px!important }.appl_eyebrow_chicklet_figure{padding:24px 24px 24px 6px!important;width:32px }.appl_eyebrow_chicklet_caption p{font-size:14px!important;line-height:1.1 }.appl_eyebrow_copy p{font-size:14px!important }.appl_eyebrow_chicklet_caption{padding:24px 24px 0 0 }.appl_cb_eyebrow_inner {padding: 22px 0 27px 24px!important;}.appl_cb_eyebrow_copy {clear:both;text-align: left !important;margin: 0 !important;padding: 0 6px !important;font-size: 14px !important;line-height: 1.2 !important;float: none !important;}.appl_cb_bodycopy {padding: 0 27px 48px !important;}.appl_feature_copy_cta p{font-size:18px;line-height:24px }.appl_end_head_below{padding:0 0 32px!important }.appl_end_wrapper{padding-left:27px!important;padding-right:27px!important }.appl_hero_header{font-size:36px!important;line-height:40px!important }.appl_header1{font-size:32px!important;line-height:36px!important }.appl_legal_copy{font-size:11px!important;line-height:14px!important }.appl_ljust_block .appl_lr_padding{padding:0 28px 48px!important }.appl_footer_links{line-height:1.6 }.appl-footer{line-height:1.7!important }.appl_mob_chiclet,.appl_mob_tv,.appl_mob_books,.appl_mob_default,.appl_mob_width{display:block;margin:0 auto }.appl_mob_chiclet{width:96px!important;height:96px!important }.appl_mob_tv{width:267px!important;height:auto!important }.appl_mob_books{height:240px!important;width:auto!important }.appl_mob_default{width:160px!important;height:auto!important }.appl_mob_width{width:100%!important;height:auto!important }.appl_3up_header{padding:0 27px 32px!important }.appl_tv_wordmark{width:auto!important;height:36px!important}}@media screen and (max-width:320px){.appl_eyebrow_chicklet_caption{display:none }.appl_eyebrow_chicklet{width:60px!important }}</style> <!--[if gte mso 9]> <xml> <o:OfficeDocumentSettings> <o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml> <style type="text/css"> a {text-decoration: none !important;}h1,h2,h3,h4,h6,p {mso-line-height-rule:exactly !important;}.appl_pill_button_cell {padding: 0 20px !important;}</style> <![endif]-->
+</head>
+<body>
+
+
+
+
+
+<div dir="ltr" style="display: none; max-height: 0px; max-width: 0px; width: 0px; height: 0px; overflow: hidden; font-size: 1px;">
+    <div>
+        Check out in seconds — whether in stores, in apps, or online.
+
+    </div>
+</div>
+
+
+
+
+
+<table role="presentation" class="appl_body_substitution" cellspacing="0" cellpadding="0" border="0" bgcolor="#F5F5F7" style="background-color: #F5F5F7; color: #1D1D1F; font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0 auto; text-rendering: optimizeLegibility; width: 100%;">
+    <tr>
+        <td class="appl_body_border" style="padding: 24px;">
+            <table role="presentation" dir="ltr" cellspacing="0" cellpadding="0" border="0" align="center" width="736px" class="appl_main_table appl_100" style="background-color: #FFFFFF; color: #1D1D1F; font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif; margin: 0 auto; width: 736px;">
+                <tr>
+                    <td class="appl_modules" align="center">
+
+
+
+
+
+
+
+
+
+<style>
+@media screen and (max-width:480px) {
+/* Hack to appease the Outlook app gods */
+    .appl_eyebrow_chicklet_lob img,
+    .appl_tv_wordmark  {
+        min-width: 72px;
+    }
+}
+</style>
+
+            <table role="presentation" dir="ltr" cellspacing="0" cellpadding="0" border="0" width="736" height="88" style="background-color: #FFF" class="appl_eyebrow appl_100">
+            <tr>
+                <td style="vertical-align: middle; padding-left: 32px;" class="appl_eyebrow_chicklet_lob">
+                                            <img src="https://static-its-images.apple.com/images/eds/wordmarks/white_container/2x/Pay2x.png" alt="Apple Pay" class="appl_wordmarkImg" height="42" style="height: 42px; width: auto;">
+                                    </td>
+                                            </tr>
+            <!--[if gte mso 9]>
+            <tr><td style="padding: 0 0 10px; font-size: 1px;">&nbsp;</td></tr>
+            <![endif]-->
+        </table>
+
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center;">
+        <tr>
+                        <td align="center" style="text-align: center; vertical-align: top; padding: 0 0 32px">
+                                                <img style="display: block;" width="736" class="appl_full_bleed appl_desktop appl_100" src="https://is4-ssl.mzstatic.com/image/thumb/kh05FZUuGn3Aycp6aoOU4w/1472x828bb-90.png" alt="Apple Wallet on iPhone">
+                                                    <!--[if !mso]><!-->
+                <img src="https://is2-ssl.mzstatic.com/image/thumb/CaAQ6H9F3qUrJ59HxcGTyg/828x464bb-90.png" class="appl_mobile_block" style="width: 100%; display: none;" alt="Apple Wallet on iPhone">
+                <!--<![endif]-->
+                                </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<table class="appl_topFeature" dir="ltr" border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center; background-color: none;">
+            <tr>
+            <td style="padding: 0; font-size: 0">&nbsp;</td>
+        </tr>
+        <tr>
+                        <td class="appl_cb_copy" style="padding: 0 32px">
+
+
+                                                                                </td>
+    </tr>
+
+                                            <tr>
+            <td class="appl_topFeatureHeadline" style="padding: 0 32px 32px; text-align: center; vertical-align: top; line-height: normal;">
+                                    <h1 style="font-size: 40px; letter-spacing: 0; line-height: 44px; color: #1D1D1F; font-weight: 600;">Pay the Apple&nbsp;way.</h1>
+                            </td>
+        </tr>
+
+                                    <tr>
+            <td class="appl_body_copy"style="text-align: center; padding: 0 88px 32px;">
+                <p style="color: #1D1D1F; font-size: 18px; font-weight: 400; line-height: 24px; margin: 0px auto;">
+                    Apple Pay allows you to replace your physical cards and cash with an easier, more secure, and private method of payment. All without worrying about the contactless limit. Plus, because it’s built into iPhone, it’s a convenient way to pay wherever you go. No need to fuss with your&nbsp;wallet.
+                </p>
+            </td>
+        </tr>
+
+                    <tr>
+            <td style="padding: 0;">
+
+
+                                    <p style="margin: 0 auto; font-size: 18px; line-height:24px" align="center" class="appl_text_cta  "><a style="text-decoration: none; color: #0066CC;" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPqZc%2F%2BAN9gTsWGE%2FSwR8m4jb4ay3sRgrYAE6gzUh7wDPDU408CaFMTdy%2FdqqcfnG%2FHUIVI5U3FIiF0eFWNBxfPmStc%2BYCJkTJhwMyguW8ue8VeIdaxjimEcP6DIS0DLt7TaphF1CUvZTE58UBMQqzKkpNVR%2BFNxu%2F8FU03A%2Bnq2HrGbezHbhpwSiUPinxa8ZVY475Wthbem0YI2ommyBw4%2Fy6WgfK%2Bs%2FuRexE2FFA1DD8blfrOsg0Y%2B3pMnIqK%2FEioLz2fT8W57TWhPEiYdgyxA%3D%3D">Learn more about Apple&nbsp;Pay<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                                                </td>
+        </tr>
+                        <tr>
+            <td style="padding: 0 0 48px; font-size: 0">&nbsp;</td>
+        </tr>
+    </table>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center;">
+        <tr>
+                        <td align="center" style="text-align: center; vertical-align: top; padding: 0 0 32px">
+                                                <img style="display: block;" width="736" class="appl_full_bleed appl_desktop appl_100" src="https://is3-ssl.mzstatic.com/image/thumb/jQ04r5AathyJLRU66p5Q6Q/1472x828bb-90.png" alt="Tap and go animation">
+                                                    <!--[if !mso]><!-->
+                <img src="https://is4-ssl.mzstatic.com/image/thumb/mRqwJXKFHQDLt0B3bmbJug/828x464bb-90.png" class="appl_mobile_block" style="width: 100%; display: none;" alt="Tap and go animation">
+                <!--<![endif]-->
+                                </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<table class="appl_topFeature" dir="ltr" border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center; background-color: none;">
+            <tr>
+            <td style="padding: 0; font-size: 0">&nbsp;</td>
+        </tr>
+        <tr>
+                        <td class="appl_cb_copy" style="padding: 0 32px">
+
+
+                                                                                </td>
+    </tr>
+
+                                            <tr>
+            <td class="appl_topFeatureHeadline" style="padding: 0 32px 32px; text-align: center; vertical-align: top; line-height: normal;">
+                                    <h1 style="font-size: 40px; letter-spacing: 0; line-height: 44px; color: #1D1D1F; font-weight: 600;">Paying is simple.</h1>
+                            </td>
+        </tr>
+
+                                    <tr>
+            <td class="appl_body_copy"style="text-align: center; padding: 0 88px 32px;">
+                <p style="color: #1D1D1F; font-size: 18px; font-weight: 400; line-height: 24px; margin: 0px auto;">
+                    Apple Pay is easy. Pay for everyday items like coffee, petrol, and groceries. Just look for the <img src="https://is3-ssl.mzstatic.com/image/thumb/yi2fBFBvYD4O_yxhdsFAKA/112x73bb-90.png" width="33" alt="Apple Pay symbol" style="vertical-align:middle;"> or <img src="https://is4-ssl.mzstatic.com/image/thumb/UZOqbAUSxHTYn8UOtMj2LA/230x158bb-90.jpg" width="33" alt="NFC symbol" style="vertical-align:middle;"> icons. Double-click the side button. Then, glance at your iPhone to authenticate with Face&nbsp;ID.
+                </p>
+            </td>
+        </tr>
+
+                    <tr>
+            <td style="padding: 0;">
+
+
+                                    <p style="margin: 0 auto; font-size: 18px; line-height:24px" align="center" class="appl_text_cta  "><a style="text-decoration: none; color: #0066CC;" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDzUmKFyIo6%2BZs9zpuAjSVJ7kt2%2FgGvjOpiLupdz1efPnjuXh1Tew%2BbYEqVlNZIqVCT2Eiez43nJ4R7D%2F%2FDQsNRYoT4L3qnfX0kGerdFt%2BydkRwQGf59bDXqYs%2Bx9JZdGxo0Y%2F20Yy5JtuWDoqhdZgcSQANnoj2My8aSMVofdJDd85QgRzy5Tom3jj0qOEkUHdB58%2B1qHnEA3WCp4PwPyYZYgW2pfV1GLE0FvClKzHpTOSZh3m4X2fJROTvHwyOFptMctslPCN%2FGFdENfDea%2B%2BSQ%3D%3D">Watch the video<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                                                </td>
+        </tr>
+                        <tr>
+            <td style="padding: 0 0 48px; font-size: 0">&nbsp;</td>
+        </tr>
+    </table>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center;">
+        <tr>
+                        <td align="center" style="text-align: center; vertical-align: top; padding: 0 0 32px">
+                                                <img style="display: block;" width="736" class="appl_full_bleed appl_desktop appl_100" src="https://is1-ssl.mzstatic.com/image/thumb/tgXL0RtgdSr8SwyUrz3zcA/1472x828bb-90.png" alt="Face ID image">
+                                                    <!--[if !mso]><!-->
+                <img src="https://is1-ssl.mzstatic.com/image/thumb/8sYzfa4gHTW8Zn4tKgXVtg/828x464bb-90.png" class="appl_mobile_block" style="width: 100%; display: none;" alt="Face ID image">
+                <!--<![endif]-->
+                                </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<table class="appl_topFeature" dir="ltr" border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center; background-color: none;">
+            <tr>
+            <td style="padding: 0; font-size: 0">&nbsp;</td>
+        </tr>
+        <tr>
+                        <td class="appl_cb_copy" style="padding: 0 32px">
+
+
+                                                                                </td>
+    </tr>
+
+                                            <tr>
+            <td class="appl_topFeatureHeadline" style="padding: 0 32px 32px; text-align: center; vertical-align: top; line-height: normal;">
+                                    <h1 style="font-size: 40px; letter-spacing: 0; line-height: 44px; color: #1D1D1F; font-weight: 600;">Your face is harder to&nbsp;steal.</h1>
+                            </td>
+        </tr>
+
+                                    <tr>
+            <td class="appl_body_copy"style="text-align: center; padding: 0 88px 32px;">
+                <p style="color: #1D1D1F; font-size: 18px; font-weight: 400; line-height: 24px; margin: 0px auto;">
+                    Physical contactless cards are vulnerable. They can be lost, stolen or fraudulently tapped&nbsp;— by anyone. Thanks to the built-in technology of Face&nbsp;ID and Touch&nbsp;ID, Apple&nbsp;Pay is designed so that only you can authorise&nbsp;payments.
+                </p>
+            </td>
+        </tr>
+
+                    <tr>
+            <td style="padding: 0;">
+
+
+                                    <p style="margin: 0 auto; font-size: 18px; line-height:24px" align="center" class="appl_text_cta  "><a style="text-decoration: none; color: #0066CC;" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR4gazf%2F7FEPJJhTn4jVTm9J234dx4zEikaMOvGN6JTQQ6nFkURJh906Xax3m9596B0s2xdxpP3TNDqKfCAExrX2P8C05y8lUIvoyJWiZpJlZC6fbiLv7iaVR%2Fj%2BK6JNOex0GBa8dBk4XEcEdpDQZRoDjdqankGYu%2BRMKT6UpqYT1sULEI0FVK4opIRypDezEr9Vie6vy3fdmd4sro80gn1z2bA6tjxkEmwoIkE2pSDpK9EDgaBad21bTv3v7u9CdwzOoJVnxGVjck81EPiZuFwzm3BheggHvf%2F%2BqztR2Pu%2B0lweLXa5tZGxq3oej9Pxew%3D">Learn more about Apple&nbsp;Pay&nbsp;security<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                                                </td>
+        </tr>
+                        <tr>
+            <td style="padding: 0 0 48px; font-size: 0">&nbsp;</td>
+        </tr>
+    </table>
+
+
+
+
+<table border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center;">
+        <tr>
+                        <td align="center" style="text-align: center; vertical-align: top; padding: 0 0 32px">
+                                                <img style="display: block;" width="736" class="appl_full_bleed appl_desktop appl_100" src="https://is2-ssl.mzstatic.com/image/thumb/5z4IS93_lPY_HmMtnG9Q1w/1472x828bb-90.png" alt="Wallet on iPhone">
+                                                    <!--[if !mso]><!-->
+                <img src="https://is2-ssl.mzstatic.com/image/thumb/k_GGiuVQF-gNUn-KQSzRKg/828x464bb-90.png" class="appl_mobile_block" style="width: 100%; display: none;" alt="Wallet on iPhone">
+                <!--<![endif]-->
+                                </td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<table class="appl_topFeature" dir="ltr" border="0" cellspacing="0" cellpadding="0" role="presentation" width="100%" style="text-align: center; background-color: none;">
+            <tr>
+            <td style="padding: 0; font-size: 0">&nbsp;</td>
+        </tr>
+        <tr>
+                        <td class="appl_cb_copy" style="padding: 0 32px">
+
+
+                                                                                </td>
+    </tr>
+
+                                            <tr>
+            <td class="appl_topFeatureHeadline" style="padding: 0 32px 32px; text-align: center; vertical-align: top; line-height: normal;">
+                                    <h1 style="font-size: 40px; letter-spacing: 0; line-height: 44px; color: #1D1D1F; font-weight: 600;">Set up is a&nbsp;breeze.</h1>
+                            </td>
+        </tr>
+
+                                    <tr>
+            <td class="appl_body_copy"style="text-align: center; padding: 0 88px 32px;">
+                <p style="color: #1D1D1F; font-size: 18px; font-weight: 400; line-height: 24px; margin: 0px auto;">
+                    It’s easy to get started with Apple&nbsp;Pay.
+Simply add a debit or credit card to Wallet
+and start checking out easily and&nbsp;securely.<BR><BR>
+
+Set up Apple&nbsp;Pay in&nbsp;seconds:<BR><BR>
+
+1. Open Wallet on iPhone.<BR><BR>
+2. Tap <img src="https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/da/ba/f6/dabaf645-339c-0d0a-4008-e3cab91d0c31/mza_10658919598781407931.png/66x66bb-90.png" width="22" height="22" alt="+" style="vertical-align:middle;"> to add your card.<BR><BR>
+3. Follow the steps on the screen.
+
+
+                </p>
+            </td>
+        </tr>
+
+                    <tr>
+            <td style="padding: 0;">
+
+
+                                    <p style="margin: 0 auto; font-size: 18px; line-height:24px" align="center" class="appl_text_cta  "><a style="text-decoration: none; color: #0066CC;" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDAvFgY8S19GphZrTGorsGo24yRCNPqgllCmap8oGYEj5Tfm63C2qQRNiQBtfh%2BTXLVYxW1P1yTxZ3wA1QNKwgDrci6s3eym6hBgdSfJPPcMTq9CM7r7%2Fr%2BvAFXFmbc7trl4yV8UwZ3dStubH%2FB1DdpjF8eT6pTUR6%2BlSbx6yVZYmyJ71VniAWnCL9bOj%2BtQ13bDePCQ1sdRlYf%2FClOL5%2BdzC9xW1fUn%2BcelAmkDHilbom2AMVHFNAQqwu5U%2BNfm3dn4xT0mrjjSx%2BVzWxG4xnWg%3D%3D">Watch the video<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                                                </td>
+        </tr>
+                        <tr>
+            <td style="padding: 0 0 48px; font-size: 0">&nbsp;</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+<table cellspacing='0' cellpadding='0' border='0' align="center" valign="middle" class="appl_end appl_100" role="presentation" style="text-align: center;" width="736">
+    <tr>
+        <td class="appl_end_wrapper" style="padding: 48px 80px 0; text-align:center" align="center" valign="middle" >
+                                                                                                        <!--[if gte mso 9]><table valign="middle" align="center"><tr><td valign="middle" align="center"><![endif]-->
+                <p style="padding: 0 0 32px; margin: 0;">
+                    <a align="center" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPwzi0ftPhwNuIpq7qZQZBQLGwu09%2FlWYQ%2BNRvnhR2fYMnelhN6Uufa1UAbyAZBhyaOWC53xO%2BQh8hojuGATfAkK1GWB8AmS01pptyBrA4XyunU3ElvZR8IYcWwJAIr1ny776haenj7dE2YFtyHRw24m9j7qDKPG%2FCfcbNpTY38ZtT%2FNPithOOYQnFdBA%2FNIWYgV1tn7nldiq4VUvRTbQ3TJRMIsaFtKB2FAxW0a9nvF3y0RHsHH3G3NsGvzc4%2BdvrZz0rT%2BeQjkad%2B7sB%2FTe22Q%3D%3D" style="color: #0066CC;">
+                        <img style="text-align: center;" width="100" height="100" valign="middle" align="center" alt="Apple Pay" src="https://static-its-images.apple.com/images/eds/chiclets/200px/Wallet.png" />
+                    </a>
+                </p>
+                <!--[if gte mso 9]></td></tr></table><table><tr><td style="padding-top:32px; font-size: 1px">&nbsp;</td></tr></table><![endif]-->
+                                                                                                        <h2 class="appl_end_head_below" align="center" style="font-size: 28px; line-height: 1.2; font-weight: 400; text-align: center; padding: 0 50px 32px">Add your debit or credit card to&nbsp;Wallet.</h2>
+                <!--[if gte mso 9]><table><tr><td style="padding-top:32px; font-size: 1px">&nbsp;</td></tr></table><![endif]-->
+                    </td>
+    </tr>
+                            <tr>
+            <td style="padding: 0" align="center" valign="middle">
+                                                                                                            <p style="margin: 0 auto; font-size: 18px; text-align: center;" align="center" class="appl_text_cta appl_desktop"><a style="color: #0066CC; text-decoration: none" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPFLv8vTc924DarlOb1AB9hITogAEBQXE5NAl68Uq6vUYOMP0WZRa3fDhU8N80tFk30QyQ6oliP5vWZM7aWqYV%2BMpfPcH%2Bs%2F2%2FWIyhe5ei5GyxyBJ%2FqZ%2F74vOxN8S1ikAA0S5oqWM7PlZCSspY8VZ646KBC4APGWX7T%2FqEflmPujdoWzOT9mhRX0tXOb0gyC0OeOI6jmNBadR%2BZ3wmZQu6zjx7azWOFY0ZtYka1oIIBtY0YFda3QBQlv5JTQptX6%2F09gvLfFIYgXORT52cinXDWMKauhWsttB%2Bykgq38UmqPg%3D">Learn how to add a&nbsp;card<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                                                                                    <!--[if !mso]><!-->
+                        <div style="display: none;" class="appl_mobile">
+                            <p class="appl_text_cta appl_mobile" style="margin: 0 auto; font-size: 18px; text-align: center;" align="center"><a style="color: #0066CC; text-decoration: none;" href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNP5oRsh%2BYZ9XZR8PheSNmCuM6%2B32nx6uHCFGhwdOy%2B%2BrdPaE0Rum5tEiQ8WwlTdIAPvXaJkuH5orqsZ6P9upblUFU5AFQoVnIZDV5jCVb4cCMPC5nMHdZ1%2B2CcAA%2Bof6Bd5O4UdPhtRwFOB0QBm%2F5z4Kyto%2FQuVUY%2F8hq8cDS5zl34XHxfHEmvYh02%2BSfdOzcWuxAHW%2B7ZD%2BZGehYvmHGq4l0fRLLfezUNf2Ypm2WIWV9gD7Y1wVN1Bq8nu439adbQ">Add a card<img class="appl_cta_chevron" width="12" src="https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png" alt=""></a></p>
+                        </div>
+                        <!--<![endif]-->
+                                                </td>
+        </tr>
+
+                <tr>
+            <td style="padding: 0 0 48px; font-size: 0">&nbsp;</td>
+        </tr>
+    </table>
+
+
+
+
+
+
+
+<table cellspacing='0' cellpadding='0' border='0' width="736" class="appl_100" role="presentation" style="background-color: #F5F5F7">
+    <tr>
+        <td>
+            <table dir="ltr" cellspacing='0' cellpadding='0' border='0' role="presentation" class="appl_footer appl_100" align="center">
+                <tr>
+                    <td>
+                        <!--[if gte mso 9]>
+                            <table cellspacing='0' cellpadding='0' border='0' role="presentation" align="center" style="width: 736px">
+                                <tr><td height="32" style="font-size:0;">&nbsp;</td></tr>
+                            </table>
+                        <![endif]-->
+                                                <!--[if gte mso 9]>
+                        <table dir="ltr" class="appl_legal_links" cellspacing='0' cellpadding='0' border='0' align="center" style="width: 736px;">
+                        <![endif]-->
+                        <!--[if !mso]><!-->
+                        <table dir="ltr" class="appl_footer appl_legal_links" cellspacing='0' cellpadding='0' border='0' align="center" style="background-color: #F5F5F7;">
+                        <!--<![endif]-->
+                            <tr>
+                              <td class="appl-legal" style="padding: 0 32px;">
+                                                                    <p class="appl_legal_copy" style="color:#6E6E73; text-align: center; font-size: 11px; line-height: 1.2;">
+                                        To add Apple&nbsp;Pay as a payment method, you must have an iPhone or iPad with iOS or iPadOS&nbsp;13.2 or later. Update to the latest version of iOS or iPadOS by going to Settings&nbsp;> General&nbsp;> Software Update. Tap Download and&nbsp;Install.<BR><BR>
+
+Features are subject to change. For more information, see <a href="https://www.apple.com/uk/ios/feature-availability/" style="color:#0066CC!important;text-decoration:none;"><span style="white-space: nowrap;">https://www.apple.com/uk/ios/feature-availability/</span></a>.<br><br>
+
+
+The Apple&nbsp;Pay screens and cards shown are for demonstration purposes only.<br><br>
+To use Apple&nbsp;Pay, you need a supported card from a participating card issuer. To check if your card is compatible with Apple&nbsp;Pay, contact your card&nbsp;issuer.
+                                    </p>
+                                                                  <p class="appl_legal_copy" style="color:#6E6E73; text-align: center; font-size: 11px; line-height: 1.2;">Copyright &copy; 2023 Apple Distribution International Ltd., Hollyhill Industrial Estate, Hollyhill, Cork, Ireland.</p>
+                              </td>
+                            </tr>
+                            <tr>
+                                <td class="appl_footer" align="center" style="padding: 0 16px;">
+                                    <table dir="ltr" cellspacing='0' cellpadding='0' border='0' style="background-color: #F5F5F7; text-align: center; margin: 0 auto;">
+                                        <tr>
+                                                                                            <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeSbYloQ1PcKNmGeB02VppAfYzYEsRJ9O4l6n516FtPegy1LlkNkhQ2Otw4m68CLM%2BlRLa1%2B03XA2CaoM81tGhixSDWCL7WVRQZc%2BNRx4RHozoK0DBSxoCmkMj1hAt8sts4Db%2BYf9v0DjLB3y3MPFHx1d7cyMKgWoC01kyvSu3MIdVeXC2updJXXo1KEL1za9oUe%2BmgqgH%2Fpux0Vx5%2Bhfggd5vtJ%2F9C6lI84aYClBd0ZMefmm%2B5u%2Bz18f%2BE3d3atXJ07oJ4AThOHQyg5ZnDZFnL%2BQVTfGE61H2Rlunk0QDbeajwiGCASK9FYoB9rb5gdlDE%3D" style="color: #424245; text-decoration: none; white-space: nowrap; font-size: 11px; line-height: 1.2">Privacy&nbsp;Policy</a>
+                                                                                                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                                                                                                    </td>
+                                                                                                                                        <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQaL%2FPaUN20C6PlWAijkcmAzeN6puYxdoVMn3AyXDSQXX3kpbShETswkQNg5mKyuptkFKfAXuOWtqhl%2BrFmkX8%2BPgPk55S5Sb5eb7emKuLQm%2BJK1rETF49MTBWn%2BXbhm8hVCGO%2Bptm9IN7xJ6lFXUnYTn02H5nm0RdubRb6bsj%2FQuquFKEP9Qz5n%2BLfY4eC4mGxXnsV7mNdtvrj0%2FGJcIYT7R3ad9bzvflwHFf6lVZfr%2BBiZMvtoJHIQ%2F0PrDa8uSXrsaf3e5tmaqJmzREAOYSw3rLeWOih02VyTOG8sKnOa3xEwu4gM0%2B3s8OlXBPjm%2F69x%2F0IP%2F4Oz%2Bb7uv8hHsy6" style="color: #424245; text-decoration: none; white-space: nowrap; font-size: 11px; line-height: 1.2">Terms & Conditions</a>
+                                                                                                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                                                                                                    </td>
+                                                                                                                                        <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BQTysx%2Fq0%2FtQAXeqYCnAwlwUC6HRponvFeeUqJokD8Acps0twn5th%2FurFe2r8S6l4QMuJPqgHtvNomC7%2Fmpm1%2FEByZ%2BojeLND3cCarYc39lkS%2B9AIaNUWrKQpecG7wfFSRrTU0TBqObosbwfACt0uKjzesLkYZkjhieoTI27Pxoeg%2F89ottCElLRcl0Dc8McENtjI7OaS7cry38G7KPbwcCdxt33c91rG0%2Fm0yxERCZlcPZEZyJV8xD6%2FetoGAIklvg4%2BlJmT0v7KSOPKa86Ceg%3D%3D" style="color: #424245; text-decoration: none; white-space: nowrap; font-size: 11px; line-height: 1.2">Support</a>
+                                                                                                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                                                                                                    </td>
+                                                                                                                                        <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeRlvLP1tBfNF5CjxjHMntadR9u3NLvaKcA26sVYbddm3gFMqn3IjO0ejtcg9xHR1dW%2FGI1RE85YdZZvjtsXtHcb77UV%2F1DJIYC2IA0IT9yNH1LkvIclFIc673FoDkEX5fmH8exr2VGB6hNP9N%2B54J%2BwQ1QcWCd5NO1gWrF%2BxRZSAnIZkqKzgPakyUgr5CX8EElynjQnDvk8RP0O7yYDoHc3gVkKX6AyvlnG1xI%2BdMNnm9O7v%2BRAy1qMgCWshDKsi7VJE4%2Bhr%2B9sUa4mJjSW1Z7AqiNtI1iaos%2FzuCawUNUmiODRnadzLvv7HYbs8PP4tC9uVorMGnkhhi1a9DHFhYdg6ruKmAyLsWBFR3N7FGVcLVYaLg8MBcWjl9K49NyMSlE%3D" style="color: #424245; text-decoration: none; white-space: nowrap; font-size: 11px; line-height: 1.2;">Account</a>
+                                                                                                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                                                                                                    </td>
+                                                                                                                                        <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BruALUGAzbIr%2FDo5%2Bd%2B0Fc3RwwDWKsdXuEXLcRIIpaX6WH4W97KnnLk%2FeLCBSEgUX4RtTOvJDTvHf1Ni60tVgG8frS%2FkKUVXF%2BwLJ5nAdUUOGkMLxYKRoEnzWmNteOk5ewhYFP65fp3PZ3WPWOuihg4Fk7IRfGPsv7GvQTGWS6iXtLLSqpIXNOu1GkL8iEGAcIqrwArMRd107qZJE8d2XXfkZxmqJ1ZJznD602omwEvFt68m99E6iuCDvHnZT7649K7QJJmdP51Q9klPixHkutA%3D%3D" style="color: #424245; text-decoration: none; white-space: nowrap; font-size: 11px; line-height: 1.2">My Apple ID</a>
+                                                                                                            &nbsp;&nbsp;|&nbsp;&nbsp;
+                                                                                                    </td>
+                                                                                                                                        <td class="appl_footer_links" style="display: inline-block;">
+                                                    <a href="https://c.apple.com/r?v=2&a=8ps6Ok0qKWiF37xoxStPOmTNGs51zlivdjtcXTFjpLnVfNVUW3O2%2Fg0FsgBl8SdvTx20IK997Wb6cow2ElFVnSXa0eh3jKVBY5vns7boGnl4cbwnMM5uW0e7kxUinOF6bVOCv1SCip01GuzSlsuVT6u7kZT1H41dUrFqQ95VISJBK14DV28mnfGYJ%2FX2n9kHs7mqUlLGj5raNi09u0Co5f%2Fvs8SYOAsuntgSvvw7kNQ7OuYle1FAnmP13RepRIUDuMf4YeG2tU%2FVLu0Wa2BwbuiHpMReAj2mp%2FHDAEm4FnWBILUS39MmWL9YMOBL%2BLCa5c3CFah5OtYvhBSr48O%2F9jr8FOhsGHQNR8eBhCGTECVKQZSY1lV5NuJcpVxgFqQdMNnvJLQuCyZxe%2Fe8AFeH%2BTXe%2BbHKwUYtGYz8o6i0kDTRL%2FdXqdkSMvTUcl9v5tEYGczV%2Bfzs6aIZrJN9yTwu%2F2vSpTl3KN98NNiDDbmDEo1GFyHZDEKLn0Nw0elzcWA2eRsnNUkJQ9JjFV7PTgnLVQ%3D%3D" style="text-decoration: none; border: none; color: #424245; font-size: 11px; line-height: 1.2">Unsubscribe</a>
+                                                </td>
+                                                                                    </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+
+
+
+
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+</body>
+</html>

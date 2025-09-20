@@ -1,0 +1,177 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: "����(Dringend)���� Ihr Abonnement ist abgelaufen! Sch��tzen Sie sich sofort����"
+From: "Total AV Support " <reply@telekom.com>
+To: <phishing@pot>
+Date: Thu, 13 Mar 2025 15:34:56 +0000
+Message_Id: <66wx0wy.fbvqlqn.2ga55p4@5rkjb2l92c2kr6aim.namprd04.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAY/d=0/rs=AN8SPfrev-A3NvrBP0gNq8zXCqKY7IcBLA/m=el_main_css
+  - https://103-52-115-55.cloud.leaseweb.net/4jWHuF82qQrX6yjodlhizrk14ONIWSLUWKWYQEVN47634AATV354r4
+  - https://zupimages.net/up/24/41/e4dq.png
+  - https://103-52-115-55.cloud.leaseweb.net/4QGArK82OFQB6eskqzsnewn14SWIZODAFKDNMCSU47634GYKW354C4
+  - https://103-52-115-55.cloud.leaseweb.net/4RFhcL82tVuE6trkaaazfbo14HDUZOCMDSDIGERH47634MVPT354B4
+  - https://103-52-115-55.cloud.leaseweb.net/4Rkdzw82TWxw6tqorogbyud14CMZATXDKPCUTGMP47634YMHK354V4
+  - https://103-52-115-55.cloud.leaseweb.net/track/2COuXu82DdYz6ychllxdahc14TUTVWDHIMIAAVDG47634ZLLR354j4
+  - zupimages.net/up/24/41/e4dq.png
+  - https://103-52-115-55.cloud.leaseweb.net/4hlouD82BapA6kfqdvsxrlp14QPWPVUUDBVMDOTE47634DPGY354S4
+  - https://103-52-115-55.cloud.leaseweb.net/4phNEQ82dNgo6ldjjkqewgm14FRPANXYPIGHPMCC47634ETMF354z4
+  - https://103-52-115-55.cloud.leaseweb.net/4Sgopu82QAIF6bnrjdyfxpo14QDKXWTIVEPIEASO47634BUHG354q4
+  - https://103-52-115-55.cloud.leaseweb.net/3oKyQz82gUxM6lewbhnsavt14JAOEQCZMHLJXYOB47634VVIW354m4
+
+DECODED TEXT CONTENT:
+------------------------------
+McAfee Subscription Renewal / General Styles / body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5; } .container { display: flex; max-width: 800px; margin: 20px auto; background-color: #fff; border-radius: 8px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); } .column1 { flex: 0 0 150px; background-color: #BE0143; / McAfee Red / padding: 20px; border-top-left-radius: 8px; border-bottom-left-radius: 8px; } .column2 { flex: 1; padding: 20px; } .logo img { width: 150px; display: block; margin: 0 auto; } h1, h2, p { text-align: center; color: #333; } .offer { margin-bottom: 20px; font-size: 18px; } .action-btn { display: inline-block; padding: 10px 20px; background-color: #BE0143; color: #fff; text-decoration: none; border-radius: 5px; transition: background-color 0.3s; } .action-btn { text-align: center; / Center text inside button / } .action-btn:hover { background-color: #8e093a; } .footer { margin-top: 20px; font-size: 12px; text-align: center; color: #888; } Das Abonnement ist abgelaufen WARNUNG 2025 IHR GERÄT IST VON EINEM VIRUS INFIZIER Name : phishing@pot E-Mail : phishing@pot Status : Das Abonnement ist am abgelaufen 17/03/2025 RABATT : 80 % RABATT AUF DIE VERLÄNGERUNG Denken Sie daran, dass Sie beim Surfen im Internet, beim Banking, beim Einkaufen oder bei anderen Online-Aktivitäten ohne Virenschutz anfällig für die Überwachung durch bösartige Bedrohungen, Malware und Viren sind. Sobald das Ablaufdatum abgelaufen ist, ist Ihr Computer verschiedenen Virenbedrohungen ausgesetzt. Es kann nicht geschützt werden, es kann Viren und anderer Malware ausgesetzt sein! Anspruch auf die Ermäßigung haben Sie: 80% Ermäßigung bei Verlängerung um 2 Jahre Jetzt Abo verlängern © 2025 Alle Rechte vorbehalten. --> abbestellen
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></table><br>
+<html lang="en" class="translated-ltr"><head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title msttexthash="3592095" msthash="12">McAfee Subscription Renewal</title>
+    <style>
+        / General Styles /
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            display: flex;
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        .column1 {
+            flex: 0 0 150px;
+            background-color: #BE0143; / McAfee Red /
+            padding: 20px;
+            border-top-left-radius: 8px;
+            border-bottom-left-radius: 8px;
+        }
+        .column2 {
+            flex: 1;
+            padding: 20px;
+        }
+        .logo img {
+            width: 150px;
+            display: block;
+            margin: 0 auto;
+        }
+        h1, h2, p {
+            text-align: center;
+            color: #333;
+        }
+        .offer {
+            margin-bottom: 20px;
+            font-size: 18px;
+        }
+        .action-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #BE0143;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .action-btn {
+            text-align: center; / Center text inside button /
+        } 
+        .action-btn:hover {
+            background-color: #8e093a;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px;
+            text-align: center;
+            color: #888;
+        }
+    </style>
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAY/d=0/rs=AN8SPfrev-A3NvrBP0gNq8zXCqKY7IcBLA/m=el_main_css"></head>
+<body>
+    
+    <div class="container">
+        <div class="column1">
+            <div class="logo">
+                <a href="https://103-52-115-55.cloud.leaseweb.net/4jWHuF82qQrX6yjodlhizrk14ONIWSLUWKWYQEVN47634AATV354r4" style="text-decoration: none; color: inherit; display: inline;">
+                 
+            </div>
+        </div>
+        <div class="column2">
+           <center> <img src="https://zupimages.net/up/24/41/e4dq.png" width="300px"><br><img src="//zupimages.net/up/24/41/e4dq.png" width="300px"><center> <br><br>
+
+                <a href="https://103-52-115-55.cloud.leaseweb.net/4phNEQ82dNgo6ldjjkqewgm14FRPANXYPIGHPMCC47634ETMF354z4" style="text-decoration: none; color: inherit; display: inline;">
+                 
+                    <h1 style="color: #BE0143;" msttexthash="360386" msthash="13"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Das Abonnement ist abgelaufen<br>WARNUNG 2025
+IHR GERÄT IST VON EINEM VIRUS INFIZIER </font></font></h1>
+                </a>
+
+                <a href="https://103-52-115-55.cloud.leaseweb.net/4QGArK82OFQB6eskqzsnewn14SWIZODAFKDNMCSU47634GYKW354C4" style="text-decoration: none; color: inherit;">
+                    <ul style="list-style: none; padding: 0;">  
+                        <li style="background: #f5f5f5; padding: 10px; margin: 5px 0; border-left: 4px solid #BE0143; font-family: 'Roboto', sans-serif; font-size: 16px; color: #BE0143;">
+                            <font mstmutation="1" msttexthash="2216344" msthash="14"><b mstmutation="1" _istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit; ">Name</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit; color:black;"> : 
+phishing@pot </font></font></font></li>
+                        <li style="background: #f5f5f5; padding: 10px; margin: 5px 0; border-left: 4px solid #BE0143; font-family: 'Roboto', sans-serif; font-size: 16px; color: #BE0143;">
+                            <font mstmutation="1" msttexthash="217061" msthash="15"><b mstmutation="1" _istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">E-Mail</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit; color:black;"> : phishing@pot </font></font></font></li> 
+                        <li style="background: #f5f5f5; padding: 10px; margin: 5px 0; border-left: 4px solid #BE0143; font-family: 'Roboto', sans-serif; font-size: 16px; color: #BE0143;">
+                            <font mstmutation="1" msttexthash="2717858" msthash="16"><b mstmutation="1" _istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Status</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit; color:black;"> : Das Abonnement ist am abgelaufen 17/03/2025</font></font></font></li> 
+                        <li style="background: #f5f5f5; padding: 10px; margin: 5px 0; border-left: 4px solid #BE0143; font-family: 'Roboto', sans-serif; font-size: 16px; color: #BE0143;">
+                            <font mstmutation="1" msttexthash="4245514" msthash="17"><b mstmutation="1" _istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RABATT</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit; color:black;"> : 80 % RABATT AUF DIE VERLÄNGERUNG</font></font></font></li>
+                    </ul>
+                </a>
+
+                <a href="https://103-52-115-55.cloud.leaseweb.net/4Sgopu82QAIF6bnrjdyfxpo14QDKXWTIVEPIEASO47634BUHG354q4" style="text-decoration: none; color: inherit; display: inline;">
+                    <div style="line-height: 25px; font-size: 17px; text-align: left;">
+                        <p style="text-align: left;" msttexthash="43062370" msthash="18"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Denken Sie daran, dass Sie beim Surfen im Internet, beim Banking, beim Einkaufen oder bei anderen Online-Aktivitäten ohne Virenschutz anfällig für die Überwachung durch bösartige Bedrohungen, Malware und Viren sind.</font></font></p>
+                        <p style="text-align: left;"><em msttexthash="7601191" msthash="19"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sobald das Ablaufdatum abgelaufen ist, ist Ihr Computer verschiedenen Virenbedrohungen ausgesetzt.</font></font></em></p>
+                        <p style="text-align: left;"><em msttexthash="16133156" msthash="20"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Es kann nicht geschützt werden, es kann Viren und anderer Malware ausgesetzt sein! Anspruch auf die Ermäßigung haben Sie: </font></font><b style="color: red;" _istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">80%</font></font></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  Ermäßigung bei Verlängerung um 2 Jahre</font></font></em></p>
+                    </div>
+                </a>
+            
+            
+                <a href="https://103-52-115-55.cloud.leaseweb.net/4hlouD82BapA6kfqdvsxrlp14QPWPVUUDBVMDOTE47634DPGY354S4" class="action-btn" style="display: inline-block ; margin: auto; color: #fff; text-decoration: none;" msttexthash="2900248" msthash="21"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Jetzt Abo verlängern</font></font></a>
+             
+
+
+        </div>
+    </div>
+
+    <div style="text-align: center; margin-top: 20px; padding: 0 20px; font-size: 16px;">
+        <p msttexthash="16890107" msthash="22"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font><a href="https://103-52-115-55.cloud.leaseweb.net/4Rkdzw82TWxw6tqorogbyud14CMZATXDKPCUTGMP47634YMHK354V4" style="color: black; text-decoration: none;" istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  </font></font><a href="https://103-52-115-55.cloud.leaseweb.net/4RFhcL82tVuE6trkaaazfbo14HDUZOCMDSDIGERH47634MVPT354B4" style="color: black; text-decoration: none;" istranslated="1"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></a></p>
+        <p msttexthash="2600806" msthash="23"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></p> 
+      
+    </div>
+  
+    
+    <div class="footer">
+        <p msttexthash="672204" msthash="24"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">© 2025 Alle Rechte vorbehalten.</font></font></p>
+    </div>
+  <img src="https://103-52-115-55.cloud.leaseweb.net/track/2COuXu82DdYz6ychllxdahc14TUTVWDHIMIAAVDG47634ZLLR354j4" width="1px" height="1px"><!-- </img> -->
+
+
+</body></html>
+</body>
+</html>
+</table></div>
+<br><br><br><br>
+<center> <span style="font-size:10px;"><a href="https://103-52-115-55.cloud.leaseweb.net/3oKyQz82gUxM6lewbhnsavt14JAOEQCZMHLJXYOB47634VVIW354m4">abbestellen</a> </span></center>
+

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido esta na fiscalização aduaneira e poderá ser devolvido ao remetente!",
+    "from": "Correios Brasil <alfandega-informa044790@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Dec 2024 21:13:44 +0000",
+    "message_id": "<01bf701d9b72869a94f193f45e250918@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_01bf701d9b72869a94f193f45e250918\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_01bf701d9b72869a94f193f45e250918\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://www.google.com.br-alfandegacorreios526567706@interna-taxalfandega.co.ua/rastreamento/taxa646"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3757,
+    "has_text": true,
+    "has_html": true
+  }
+}

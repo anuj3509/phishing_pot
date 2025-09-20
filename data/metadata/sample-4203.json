@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "phishing@pot, wat voor roker ben jij?",
+    "from": "Stoppen met Roken advies ism \"ISM Newsletter\"  <ISM-Newsletter@aprimarse.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 25 Oct 2024 11:34:39 +0000",
+    "message_id": "<40347273745061354814633866131350738130753798566577.637301@pteRi.dynamicdiaries.sa.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://dynamicdiaries.sa.com/U0gxUGs0L2oxRW9lZjhZVHpEVy9vR25YNDkrdkJkVFRacUx1REMwMHhyaVZuNEoyOEhZcDI4RVFlRHhqYnZJU3phZWg3UWhTMXY2eEp5aWxVb2R1VmtwQzlNUXlTMnljMWVmTnFQQ2lIUEE9",
+      "https://dynamicdiaries.sa.com/d51f0b17848962b.png",
+      "https://dynamicdiaries.sa.com/U0RpZWI2UlFoeSt6RTZxZW9TTHRqUDJVeTRCNDcvVUpPOVlTalYxTkQxME40QU5iRmtYV2xzOEovajYrS1FSWEpJS2dvQWU4b1d0N3BOUWdad1pIZlZCbGhncEJaK1Q1ZHB0YUt1QWhBdUE9",
+      "http://www.w3.org/1999/xhtml",
+      "https://dynamicdiaries.sa.com/V0dMTEFLU01DRFFtNXBsRTRwbmppKzBMQ1l4N0J6TzY3bE5rWm9Ra2lrRmNicUxzVjc2ZS80OWRPbkJaSnZ4Ny9TTkVadW83MmcrRHcwTEZTbU53MWp6NEplNW15VVBjNnZsamlxcHNDZXM9",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800",
+      "https://dynamicdiaries.sa.com/7f9a07fa73a6465.png",
+      "https://dynamicdiaries.sa.com/WXFYRXptVDdDRjFvWm1nTHZuQlZBcXhtb0pWYVNheFVLTjJHdnk2L09SbXB3K1kzOWFVeHRCT21KWjhzSmM3UjMvRFJGUzRwaWRsU3A5RWp2ZSt2amFNUnp2VDNxVkwrei9RRm43d0ZvNEk9",
+      "dynamicdiaries.sa.com/d51f0b17848962b.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3080,
+    "html_length": 14845,
+    "has_text": true,
+    "has_html": true
+  }
+}

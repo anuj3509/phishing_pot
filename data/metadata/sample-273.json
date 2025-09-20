@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pagseguro  Pontos phishing@pot",
+    "from": "Pagseguro  Pontos <admin@notificandoavisos24.com>",
+    "to": "phishing@pot, \"Aviso Importante-\" <phishing@pot@hotmail.com>",
+    "date": "Fri, 27 Jan 2023 12:58:24 +0700 (+07)",
+    "message_id": "<20230127055824.1D8EF804DD@rsp649.mxflnt.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-6adc188662674dfc-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-6adc188662674dfc-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://notificandoavisos23.com/",
+      "https://s2.glbimg.com/J3bBTjyv4DMTEK-TWfB-Hml_V1c=/0x16:780x469/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/2/E/Y2DGdESDeACz9SWnlH4A/logo-pagseguro.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 55,
+    "html_length": 2294,
+    "has_text": true,
+    "has_html": true
+  }
+}

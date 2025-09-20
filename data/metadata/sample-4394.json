@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Edeka Einkaufsgutschein im Wert von 500��� ausgew��hlt!",
+    "from": "Dies ist Ihre Chance!,(<reply@telekom.com>)",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Nov 2024 19:59:29 +0000",
+    "message_id": "<KKZBZOETCBZWWQ8AU9KYO1L@otto.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/5teOdJ38756ISXc1165zmrfvvftyd14302DVWIOTNHHZBKYSR2JDMI5499X10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://topmarktingplace.com/6bQcOk38756jHzk1165wzdtdepssg14302GABHNUBOOSYJHXE2KXSG5499K10",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://topmarktingplace.com/4yHEqt38756hhof1165pikqzphdis14302SAMEOEDQYPYXVVX2FNSE5499i10",
+      "http://topmarktingplace.com/4dcMki38756qAkh1165uilczqqxvw14302QRQOHWZGBTBQOJH2WGXA5499p10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2049,
+    "html_length": 9252,
+    "has_text": true,
+    "has_html": true
+  }
+}

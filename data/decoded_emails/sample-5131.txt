@@ -1,0 +1,80 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Paid, Order 611901 received
+From: "Paid Customer" <ruchitasmali9@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Thu, 20 Mar 2025 06:18:39 -0700 (PDT)
+Message_Id: <67dc15af.630a0220.312a21.3772@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============0582729594822969629=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============0582729594822969629=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm, update
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #062ED7; } .auto-style2 { color: #077EF6; } Pay Pal Receipt Transaction date: Thursday, 20 March 2025 CST 07:18 Receipt Transaction Id: ORD385934 Thank you for your recent purchase Dear Paid Customer, We have received your recent order, at COINBASE EXCHANGE PVT LTD PAYMENT store. Thank you for choosing us for your shopping needs. Here are all the details: Receipt Transaction Summary: Receipt Transaction: BTC- Coinbase Gateway: PayPal Quantity: 1x Customer Id: PRRR-1571-THYF-2551 Total Charges: $1483.81 We are currently processing your order and will keep you updated on the status of your shipment. You can expect to receive a shipping confirmation email with tracking information once your order has been dispatched. If you have any questions or concerns about your order, please don't hesitate to contact us. Our customer service team is always happy to assist you. 1 888 343 5062 Best Regards, PayPal, LLC. Telephone: 1 888 343 5062 Copyright © 2024 Company. All rights reserved. Po Box 44 Il Springfield Illinois 54519 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #062ED7;
+}
+.auto-style2 {
+	color: #077EF6;
+}
+</style>
+</head>
+
+<body>
+
+<h2><strong><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></strong></h2>
+Receipt Transaction date: Thursday, 20 March 2025 CST 07:18<br>
+Receipt Transaction Id: ORD385934<h4>Thank you for your recent purchase</h4>
+Dear Paid Customer,<br>
+We have received your recent order, at COINBASE EXCHANGE PVT LTD PAYMENT store. Thank you for choosing 
+us for your shopping needs. Here are all the details:<br>
+<br>
+<strong>Receipt Transaction Summary:</strong><br>
+Receipt Transaction: BTC- Coinbase<br>
+Gateway: PayPal<br>
+Quantity: 1x<br>
+Customer Id: PRRR-1571-THYF-2551<br>
+Total Charges: $1483.81<br>
+<br>
+We are currently processing your order and will keep you updated on the status 
+of your shipment. You can expect to receive a shipping confirmation email with 
+tracking information once your order has been dispatched.<br>
+<br>
+If you have any questions or concerns about your order, please don't hesitate to 
+contact us. Our customer service team is always happy to assist you. 1 888 343 5062<br>
+<br>
+Best Regards,<br>
+PayPal, LLC.<br>
+Telephone: 1 888 343 5062<br>
+<br>
+Copyright © 2024 Company. All rights reserved.<br>
+Po Box 44 Il Springfield Illinois 54519 USA
+
+</body>
+
+</html>

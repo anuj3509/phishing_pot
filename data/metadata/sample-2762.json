@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p , 750��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 29 Jan 2024 18:58:42 +0100",
+    "message_id": "<n623zhn.4pjd1.o6d.o6d@cebbenlabqustly.tak>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/amazon-100-gutschein.png",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-27/iEUdkyP1706372139638.html#cl/5891_md/4049/25194/1197/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-27/iEUdkyP1706372139638.html#oop/5891_md/4049/25194/1197/143/149762",
+      "http://kiteforfriends.eu/op/5891_md/4049/25194/1197/143/149762",
+      "https://sf22.sendsfx.com/admin/temp/user/2/amazon-100-gutschein.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2078,
+    "html_length": 9358,
+    "has_text": true,
+    "has_html": true
+  }
+}

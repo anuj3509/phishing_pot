@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "update your KYC on your profile",
+    "from": "MashreqAlert <postmaster@mg.demo-salon.ru>",
+    "to": "phishing@pot",
+    "date": "Wed, 16 Aug 2023 00:30:00 +0000",
+    "message_id": "<20230816003000.3ce6a04d91e4337e@mail.red-collar.ru>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://contentdelivery.mashreqbank.com/channel/email_images/header_login_success.png",
+      "https://www.facebook.com/Mashreqbank/",
+      "https://contentdelivery.mashreqbank.com/common/full-logo/CONV.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/facebook.png",
+      "https://tiktok.com/link/v2?aid=1180&amp;lang=en&amp;scene=bio_url&amp;target=https://bit.ly/3s9UpOq",
+      "https://www.instagram.com/mashreq/",
+      "http://email.mail.red-collar.ru/o/eJwcykGuhCAMBuDTyE7z09Y-XHAYhPI0wTBpZu4_yey_lms5TS1YjnpQlD0B4copdjlNodSOtGNn7ZX57CQAEXq4M4EYKSrAADaupgXSjmjC_GeL4Cn32NzaWucYxTf_BM8-m9__c-3raxFc8_1TdT7fAAAA__8X6ifL",
+      "https://contentdelivery.mashreqbank.com/common/icons/linkedin.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/youtube.png",
+      "https://www.linkedin.com/company/mashreqbank",
+      "https://contentdelivery.mashreqbank.com/common/icons/ico-lock.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/instagram.png",
+      "https://twitter.com/MashreqTweets",
+      "https://contentdelivery.mashreqbank.com/common/icons/twitter.png",
+      "https://www.youtube.com/user/Mashreqbanklive",
+      "http://email.mail.red-collar.ru/u/eJwcyjGuwyAMBuDTwAb6sXkkb2DoUQiYBomIykrvX7X713IthySxZ-6R6Cg7MyQVgBoLpx64J5bwt3U7MoEYe0gAA_BcvzK2_yCReRMTcZUxvUpzdc1Z1OvbatbVdDyX6-5lIs51_1Rdl72zoccnAAD__5weJso",
+      "https://contentdelivery.mashreqbank.com/common/small-logo/CONV.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 858,
+    "html_length": 20881,
+    "has_text": true,
+    "has_html": true
+  }
+}

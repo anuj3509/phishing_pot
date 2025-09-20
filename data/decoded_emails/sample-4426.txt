@@ -1,0 +1,106 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Neues Notfallset für Ihr Auto
+From: A D A C <xsrrtxvrj@start.ca>
+To: h.irkat@live.de
+Date: Mon, 25 Nov 2024 06:41:20 +0000
+Message_Id: 
+ <95f074a0-b3dc-4584-90cf-efde81aa8208@DU2PEPF00028D02.eurprd03.prod.outlook.com>
+Content_Type: multipart/related;
+ boundary="===============4179344308863090598=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related;
+ boundary="===============4179344308863090598=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.zupimages.net/up/24/47/odbb.png
+  - bg.jpg
+  - https://www.zupimages.net/up/24/47/odbb.png
+  - http://www.w3.org/TR/REC-html40/loose.dtd
+  - http://sharnfol.com/click?email=h.irkat@live.de&amp;redirect=http://ht.ly/kjUG50Uenya
+
+DECODED TEXT CONTENT:
+------------------------------
+Survey body{ font-family: Verdana, Arial; } .cta{ background-color: red; color: white; padding: 12px 40px; border-style: solid; border-width:3px; border-color:#666; border-radius: 13px; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 10px; } @media screen and (max-width:480px){ .wrapper{ width: 100%; } } Hol Es Dir Jetzt! Abbestellen
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" http://www.w3.org/TR/REC-html40/loose.dtd"><html style="width: 100%;"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;"> 
+  <title>
+ Survey
+ </title> 
+  <style>
+ body{
+ font-family: Verdana, Arial;
+ }
+ .cta{
+ background-color: red;
+ color: white;
+ padding: 12px 40px;
+ border-style: solid;
+ border-width:3px;
+ border-color:#666;
+ border-radius: 13px;
+ text-decoration: none;
+ font-weight: bold;
+ display: inline-block;
+ margin-top: 10px;
+ }
+ @media screen and (max-width:480px){
+ .wrapper{
+ width: 100%;
+ }
+ }
+ 
+  </style> 
+ </head> 
+ <body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="-webkit-font-smoothing: antialiased; background-color: #fff; margin: 0; mso-margin-bottom-alt: 0px; mso-margin-top-alt: 0px; mso-padding-alt: 0px 0px 0px 0px; padding: 0; width: 100%;"> 
+  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#fff" style="border: 0; font-size: 12px;"> 
+   <tbody> 
+    <tr> 
+    </tr> 
+    <tr> 
+     <td align="center" valign="top" bgcolor="#fff" background="bg.jpg" style="background-repeat: no-repeat; background-size: 350px; -webkit-text-size-adjust: 100%; mso-line-height-rule: exactly;"> 
+      <table width="600" border="0" align="center" cellpadding="0" cellspacing="15" class="wrapper"> 
+       <tbody> 
+
+                  <tr> 
+       <td align="center" valign="top"><a href="http://sharnfol.com/click?email=h.irkat@live.de&amp;redirect=http://ht.ly/kjUG50Uenya"><img src="//www.zupimages.net/up/24/47/odbb.png"><br></a><br></td> 
+      </tr> 
+                        <tr> 
+       <td align="center" valign="top"><a href="http://sharnfol.com/click?email=h.irkat@live.de&amp;redirect=http://ht.ly/kjUG50Uenya"><img src="https://www.zupimages.net/up/24/47/odbb.png"><br></a><br></td> 
+      </tr> 
+     
+        <tr> 
+         <td align="center" valign="top"><p style="font-size:25px;"> <a href="http://sharnfol.com/click?email=h.irkat@live.de&amp;redirect=http://ht.ly/kjUG50Uenya" class="cta">Hol Es Dir Jetzt!</a> </td> 
+        </tr> 
+      <tr> 
+         <td align="center" valign="top"> <p style="font-size:20px;"></p> </td> 
+        </tr>
+        <tr> 
+         <td align="left" height="2" bgcolor="#0E209E" style="display:block;margin-top:30px;max-width:100%;"></td> 
+        </tr> 
+        <tr> 
+        </tr> 
+       </tbody> 
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td align="center"> <p style="font-size: 13px; color: #797979; max-width: 550px; line-height: 1.4;">  <a href="http://sharnfol.com/click?email=h.irkat@live.de&amp;redirect=http://ht.ly/kjUG50Uenya" style="color: #666; text-decoration: none;">Abbestellen </a>  </p> <br></td> 
+    </tr> 
+   </tbody> 
+  </table>   
+ </body>
+</html>
+
+

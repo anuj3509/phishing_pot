@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Be Part of Optimism’s Future – Claim Your OP Tokens Today - Claim number 65715",
+    "from": "Optimism <hello@optimism.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Nov 2024 02:12:22 +0000 (UTC)",
+    "message_id": "<20241106021222.25DA47B59CBCB9C4@optimism.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://distributionoptimism.s3.us-east-1.amazonaws.com/index.html",
+      "optimism.io",
+      "https://google.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 962,
+    "html_length": 3266,
+    "has_text": true,
+    "has_html": true
+  }
+}

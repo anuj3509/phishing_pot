@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Leroy Merlin.",
+    "from": "Message de Leroy Merlin, <laredoute@services.laredoute.fr.>, Message de\r\n Leroy Merlin, <laredoute@services.laredoute.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 08 Nov 2023 12:19:44 +0100",
+    "message_id": "<dyKa1H3.0.0.dyKa1H3.9.dyKa1H3@services.laredoute.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://imgur.com/VlsGZrQ.png",
+      "http://stabrino.info/op/5336_md/1995/984/2024/222/428764",
+      "imgur.com/FZplvp9.png",
+      "http://stabrino.info/cl/5336_md/1995/984/2024/222/428764",
+      "https://imgur.com/FZplvp9.png",
+      "imgur.com/VlsGZrQ.png",
+      "bgasdfasdfa.jpg",
+      "http://stabrino.info/oop/5336_md/1995/984/2024/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5080,
+    "html_length": 11892,
+    "has_text": true,
+    "has_html": true
+  }
+}

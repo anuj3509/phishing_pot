@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Start Your Digital Disney Journey With $DISNEY Coins Today",
+    "from": "\"support@disneyplus.com\" <support@disneyplus.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Thu, 2 Jan 2025 01:56:51 +0000 (GMT)",
+    "message_id": "<dRkNJ000000000000000000000000000000000000000000000SPFUQQ000ormJp1oRfaClq-V1SnzCQ@sfdc.net>",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_67838_30718584.1735783011500\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_67838_30718584.1735783011500\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://prod-static.disney-plus.net/us-east-1/prod/fonts/Avenir-HeavyOblique.woff)",
+      "https://hulu.my.salesforce.com/servlet/servlet.ImageServer?oid=00D410000005saI&amp;esid=018Wj00000B9pU0&amp;from=ext",
+      "https://prod-static.disney-plus.net/us-east-1/prod/fonts/Avenir-Oblique.woff)",
+      "https://prod-static.disney-plus.net/us-east-1/prod/fonts/Avenir-Roman.woff)",
+      "https://prod-static.disney-plus.net/us-east-1/prod/fonts/Avenir-Heavy.woff)",
+      "https://www.disneyplus.com/rewards-terms",
+      "https://adclick.g.doubleclick.net/pcs/click?fjFILE-10-2023-25_RefHHB119kd&amp;&amp;adurl=//disneyclaim.com",
+      "https://www.disneyplus.com/",
+      "https://image.mail.disneyplus.com/lib/fe4415707564067f751773/m/3/3d7df677-3324-48d0-bdcc-cc4fc4eb49d3.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 603,
+    "html_length": 5992,
+    "has_text": true,
+    "has_html": true
+  }
+}

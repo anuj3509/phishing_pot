@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Chave desegurança expirando em Quarta-Feira, 24 de Abril, às 18:49 hs. ",
+    "from": "Bradesco <notifica@bradesco>",
+    "to": "phishing@pot",
+    "date": "Tue, 23 Apr 2024 20:49:47 +0000",
+    "message_id": "<e303dc4a-df32-fc1d-4e21-6112e57f7b96@bradesco>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      "thesprintbook.com",
+      ".alert.alert-good",
+      "link.springer.comchapter10.10072F978-3-030-28954-6_2",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=d8b2c7c629b74111aa290edf5e67a3a6&amp;t1=bra",
+      "m.muM,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 87411,
+    "html_length": 156713,
+    "has_text": true,
+    "has_html": true
+  }
+}

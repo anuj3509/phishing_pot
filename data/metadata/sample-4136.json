@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "[EXTERNAL]Hi",
+    "from": "N.Puech <info@emurate.es>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 24 Sep 2024 10:39:08 -0700",
+    "message_id": "<1c836929-d34e-4be0-bec8-234ff9378a10@AEX01V170.asem.org>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1157,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

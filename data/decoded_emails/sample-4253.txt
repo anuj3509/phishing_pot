@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Eligible for SCR Tokens? Start Your Claim Now!
+From: Scroll <noreply@scrol.io>
+To: phishing@pot
+Date: Sat, 26 Oct 2024 09:29:42 +0000 (UTC)
+Message_Id: <20241026092942.5ECFA40FB3408B6C@scrol.io>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXEZtohk-2FYQS8TxMACbXULPNmaB8sc2N4OjitWYvgpvVbvrF5Crj2ij9EZCv7UggOFbnRprXVWJSihkYkX-2BfhnGqU5iPiGuFdVUf0YGph-2BEq6-2BBjtnbhfnJ-2FZKl8cP4gPhLl9kqLhD3K3mA-2F6qXoTAtM3TR-2BWePtg6Opo7-2Bn3whgh0wBAud2S3kOnJSdnUg-2Bw0-3D
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6opCPXbJN1dTGGYtbIefgI0jy0Cwu0s4qJX1elD0bhh2-2BqUWKbPJgS5QsYlAf6xGySA-3D-3D-gmM_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcuL-2FHgAy8IUZRATBzVqsLDz1Pc8JeCl-2F8fp-2FqHULEKdm-2FhDuQrByr6ypS9bK24DNAAv1NowwfU15txBNu-2B5AHGKYSkx3cdvgx8rLs4u5Ks8gUiwLVubquCwmgwSKK-2FiUTiBiRROflqSgv5kf9PJBC4KOMnaD-2BZxWU3KJMxYcdaSoXrB3xJKrl-2FHVmDBsClsq2Q-3D
+  - https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3D0bZk_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcuL-2FHgAy8IUZRATBzVqsLDz1Pc8JeCl-2F8fp-2FqHULEKdm7O9UZienu-2BGZvisyEHU7NBHmu5d4pM7E0JnlB1Tp5WdAJLt9EvTbSEqQOWB8aptmWPvhJas4zIPoJz3ImnIroHgWJ6q-2FOuC5M5yVhVVxJ7RH5ORpeEbSD9RIHB5Wlsbl-2FKk0ixpaSDaRrXhkMxF508-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+Special Invitation Your Access is Ready! Welcome, We&#8217;re excited to inform you that your special access to exclusive content is now available. Join us in advancing our mission through this unique opportunity. Access Period: From October 22, 2024 onwards, enjoy exclusive benefits during this period. Simply click the link below to start: Get Started Thank you for your continued support. Let&#8217;s build a promising future together. If you wish to unsubscribe, click here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Special Invitation</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f0f0f0;">
+    <table width="100%" bgcolor="#f0f0f0" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
+        <tr>
+            <td align="center" style="padding: 20px 0;">
+                <table width="650" style="max-width: 650px; margin: auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png" alt="Logo" width="120" style="width: 120px; height: auto; display: block;" height="120">
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: #333333; text-align: center;">
+                            <h2 style="margin: 0 0 10px; color: #f56c42; font-size: 22px;">Your Access is Ready!</h2>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;">Welcome,</p>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;">We&#8217;re excited to inform you that your special access to exclusive content is now available. Join us in advancing our mission through this unique opportunity.</p>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;"><strong>Access Period:</strong> From <strong>October 22, 2024</strong> onwards, enjoy exclusive benefits during this period.</p>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;">Simply click the link below to start:</p>
+                            <p style="text-align: center;">
+                                <a href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6opCPXbJN1dTGGYtbIefgI0jy0Cwu0s4qJX1elD0bhh2-2BqUWKbPJgS5QsYlAf6xGySA-3D-3D-gmM_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcuL-2FHgAy8IUZRATBzVqsLDz1Pc8JeCl-2F8fp-2FqHULEKdm-2FhDuQrByr6ypS9bK24DNAAv1NowwfU15txBNu-2B5AHGKYSkx3cdvgx8rLs4u5Ks8gUiwLVubquCwmgwSKK-2FiUTiBiRROflqSgv5kf9PJBC4KOMnaD-2BZxWU3KJMxYcdaSoXrB3xJKrl-2FHVmDBsClsq2Q-3D" style="padding: 12px 25px; border-radius: 4px; color: #ffffff; font-size: 16px; text-decoration: none; display: inline-block; background-color: #f56c42;">Get Started</a>
+                            </p>
+                        </td>
+                    </tr>
+                    <!-- Footer Section -->
+                    <tr>
+                        <td style="padding: 15px; text-align: center; color: #999999; font-size: 12px;">
+                            <p style="margin: 0 0 5px; color: #999999; font-size: 12px;">Thank you for your continued support. Let&#8217;s build a promising future together.</p>
+                            <p style="margin: 5px 0; color: #999999; font-size: 12px;">If you wish to unsubscribe, <a href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3D0bZk_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcuL-2FHgAy8IUZRATBzVqsLDz1Pc8JeCl-2F8fp-2FqHULEKdm7O9UZienu-2BGZvisyEHU7NBHmu5d4pM7E0JnlB1Tp5WdAJLt9EvTbSEqQOWB8aptmWPvhJas4zIPoJz3ImnIroHgWJ6q-2FOuC5M5yVhVVxJ7RH5ORpeEbSD9RIHB5Wlsbl-2FKk0ixpaSDaRrXhkMxF508-3D" style="color: #f56c42; text-decoration: none;">click here</a>.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src="https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXEZtohk-2FYQS8TxMACbXULPNmaB8sc2N4OjitWYvgpvVbvrF5Crj2ij9EZCv7UggOFbnRprXVWJSihkYkX-2BfhnGqU5iPiGuFdVUf0YGph-2BEq6-2BBjtnbhfnJ-2FZKl8cP4gPhLl9kqLhD3K3mA-2F6qXoTAtM3TR-2BWePtg6Opo7-2Bn3whgh0wBAud2S3kOnJSdnUg-2Bw0-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+

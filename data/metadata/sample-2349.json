@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot - wir gratulieren Ihnen recht herzlich.",
+    "from": "KundenService, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Dec 2023 13:30:51 +0100",
+    "message_id": "<XO4BYOI.0.0.XO4BYOI.9.XO4BYOI@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://superkoran.info/NmQrTytrNk9uRlo2bktJNjR4bTNBMHpNcU5VMDFaZEFuN2JzaTBKZzRWUzhyTHhESXFhNGV1OHdDdG5rWVhMakdUUVAwM2I3bzUyckNnTFNFYWlyL3pUV1l4eTBuclFnRTBaOEt0WkF6aWs9",
+      "https://fnnl-check.com/?a=6073&amp;oc=18334&amp;c=49788&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/23/49/874c.png",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/14/3chv.png",
+      "https://www.zupimages.net/up/23/14/3chv.png",
+      "www.zupimages.net/up/23/49/874c.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1892,
+    "html_length": 9252,
+    "has_text": true,
+    "has_html": true
+  }
+}

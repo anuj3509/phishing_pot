@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Nachricht f��r dich!",
+    "from": "Fgehen69, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 18 Sep 2023 06:48:48 +0200",
+    "message_id": "\r\n <0513959f-9885-446c-a643-0e56e6835c17@MW2NAM04FT067.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/op/93_md/2010/1/1/23/2459859",
+      "http://easilett.com/oop/93_md/2010/1/1/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/cl/93_md/2010/1/1/23/2459859",
+      "https://i.imgur.com/ZRttt0z.jpg",
+      "i.imgur.com/ZRttt0z.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1020,
+    "html_length": 5132,
+    "has_text": true,
+    "has_html": true
+  }
+}

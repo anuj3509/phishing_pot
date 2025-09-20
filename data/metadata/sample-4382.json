@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Lembrete: Correios informa que sua remessa ainda está pendente! Protocolo: 06308751.",
+    "from": "Correios S/A <rastreamento-encomendas003744@correios>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Nov 2024 14:58:33 +0000",
+    "message_id": "<eca8e092afd189450a133009bfe4f156@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_eca8e092afd189450a133009bfe4f156\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_eca8e092afd189450a133009bfe4f156\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.office.com-pt-br748654497correios@paguealfandega.co.ua/rastreamento/taxa771"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 5433,
+    "has_text": true,
+    "has_html": true
+  }
+}

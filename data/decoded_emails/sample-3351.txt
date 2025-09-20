@@ -1,0 +1,155 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Payment Received 0.947329 BTC
+From: Support <std661110045@petkasem.ac.th>
+To: phishing@pot
+Date: Sat, 15 Jun 2024 02:52:52 -0700
+Message_Id: <046293f400c44fbd9e30e942b653d9d3c29a1f69@petkasem.ac.th>
+Content_Type: multipart/alternative; boundary="08b4fd56033e141ba8024bc1955048054eb2"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="08b4fd56033e141ba8024bc1955048054eb2"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&amp;googlePIDR=phishing@pot@hotmail.com&amp;id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM
+  - https://translate.google.com/translate?sl=auto&tl=ru&hl=ru&u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&googlePIDR=phishing@pot&id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM
+  - https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new&amp;googlePIDR=phishing@pot&amp;id_list=RNUsdhTeYDPFiWhPDeyZoWrkPH
+
+DECODED TEXT CONTENT:
+------------------------------
+Coinbase
+
+Transaction Notification
+
+You have received a new transaction of + 0.9473 BTC ($64122).
+
+To view the details and complete this transaction, please click the link below:
+
+View Transaction 
+
+If the link does not work, please copy it manually and paste it into your browser's address bar from the textarea below:
+
+https://translate.google.com/translate?sl=auto&tl=ru&hl=ru&u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&googlePIDR=phishing@pot&id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM 
+
+© 2024 Coinbase, Inc. All rights reserved. Cryptocurrency is not regulated in more than 100 countries. Be sure that it is legal in your country before using cryptocurrencies. Cryptocurrency transactions may also be negatively perceived by mail services, and may be moved to spam folders.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coinbase Transaction Notification</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .email-container {
+            background-color: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+            margin: 0 auto;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #0052CC;
+            padding: 20px;
+            text-align: center;
+            color: white;
+        }
+        .header .logo {
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .header .logo:before {
+            content: '&#67;';
+            display: inline-block;
+            font-size: 48px;
+            line-height: 48px;
+            margin-right: 10px;
+            border: 2px solid white;
+            border-radius: 50%;
+            padding: 10px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content h1 {
+            font-size: 24px;
+            color: #333333;
+        }
+        .content p {
+            font-size: 16px;
+            color: #666666;
+        }
+        .link-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .footer {
+            background-color: #f4f4f4;
+            padding: 10px;
+            text-align: center;
+            color: #999999;
+            font-size: 12px;
+        }
+        .button-link {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #0052CC;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            color: white;
+        }
+        .button-link:hover {
+            background-color: #003f99;
+        }
+        textarea {
+            width: 100%;
+            height: 100px;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 16px;
+            box-sizing: border-box;
+            overflow-wrap: break-word;
+            white-space: pre-wrap;
+            border: 1px solid #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="header">
+            <div class="logo">Coinbase</div>
+        </div>
+        <div class="content">
+            <center><h1>Transaction Notification</h1></center>
+            <p>You have received a new transaction of <strong>+ 0.9473 BTC ($64122)</strong>.</p>
+            <p>To view the details and complete this transaction, please click the link below:</p>
+            <div class="link-container">
+                <a href="https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new&amp;googlePIDR=phishing@pot&amp;id_list=RNUsdhTeYDPFiWhPDeyZoWrkPH" class="button-link" style="color: white;">View Transaction</a>
+                <br><br><hr><br>
+                <p>If the link does not work, please copy it manually and paste it into your browser's address bar from the textarea below:</p>
+                <textarea readonly="">https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&amp;googlePIDR=phishing@pot@hotmail.com&amp;id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM</textarea>
+            </div>
+        </div>
+        <div class="footer">
+            © 2024 Coinbase, Inc. All rights reserved. Cryptocurrency is not regulated in more than 100 countries. Be sure that it is legal in your country before using cryptocurrencies. Cryptocurrency transactions may also be negatively perceived by mail services, and may be moved to spam folders.
+        </div>
+    </div>
+</body>
+</html>
+

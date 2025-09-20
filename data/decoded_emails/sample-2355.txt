@@ -1,0 +1,958 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [LAST CHANCE] : Your Wallet Has Been Suspended.
+From: MetaMask Support <carlosferrer@substack.com>
+To: phishing@pot
+Date: Thu, 21 Dec 2023 03:18:57 +0000
+Message_Id: <20231221031857.3.83e92a39ce01a4f1@mg1.substack.com>
+Content_Type: multipart/alternative;
+ boundary="88393ebe122766cdc40118d561c238c4bafae3039aeba4eb51504b4f0298"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="88393ebe122766cdc40118d561c238c4bafae3039aeba4eb51504b4f0298"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: immediately, suspend, suspended, update, last chance
+URLs found:
+  - img.install-substack-app-embed-img
+  - .typography.editor
+  - https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png
+  - button.rightButton
+  - https://substackcdn.com/image/fetch/w_130,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png,
+  - .tweet-photos-container.two,
+  - https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png
+  - .file-embed-error-button.wide
+  - .post-silhouette-meta.with-byline-image
+  - table.image-wrapper
+  - https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsb3NmZXJyZXIuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNemd6TVRNeE9Dd2ljRzl6ZEY5cFpDSTZNVE01T1RjeE9ESTVMQ0pwWVhRaU9qRTNNRE14TWpnM05EWXNJbVY0Y0NJNk1UY3dOVGN5TURjME5pd2lhWE56SWpvaWNIVmlMVE0yTVRnMk15SXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuYUZOZ1NlVnVkeXZMTm5ubVhDRF9nQV80S3VRY3pkV19zNmRBSWxtVF9hYyZleHBpcmVzPTM2NWQiLCJwIjoxMzk5NzE4MjksInMiOjM2MTg2MywiZiI6ZmFsc2UsInUiOjEzODMxMzE4LCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.E9u4EaO0i4eZp2G-sQkds3c2EiAWble7GxF-3b_SrLc?
+  - .file-embed-button.narrow,
+  - .tweet-photos-container.four,
+  - .meta-author-wrap.alternative-meta
+  - div.youtube-screen
+  - a.expanded-link
+  - div.youtube-screen,
+  - https://substack.com/redirect/56e85d43-1a15-4cc0-89bb-afdf1429e0f3?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA
+  - https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMjIxMDMxODU3LjMuODNlOTJhMzljZTAxYTRmMUBtZzEuc3Vic3RhY2suY29tPiIsInUiOjEzODMxMzE4LCJyIjoicm9kcmlnby1mLXBAaG90bWFpbC5jb20iLCJkIjoibWcxLnN1YnN0YWNrLmNvbSIsInAiOjEzOTk3MTgyOSwidCI6ImFkaG9jX2VtYWlsIiwiYSI6Im9ubHlfcGFpZCIsInMiOjM2MTg2MywiYyI6InBvc3QiLCJmIjpmYWxzZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.JCkEY8S5HBlzn24D85QqnTbJzA5xT1Aof17X2UUUT90
+  - div.captioned-button-wrap
+  - https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf0543-0d67-4cd7-8962-a4d544108dfb_77x80.png
+  - https://substack.com/redirect/e03f5366-e706-43c3-8488-b5b94db47d32?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA
+  - div.tiktok-wrap
+  - https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png,
+  - div.vimeo-inner
+  - .post-meta.alternative-meta
+  - .subscription-widget.show-subscribe,
+  - form.form
+  - https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMjIxMDMxODU3LjMuODNlOTJhMzljZTAxYTRmMUBtZzEuc3Vic3RhY2suY29tPiIsInUiOjEzODMxMzE4LCJyIjoicm9kcmlnby1mLXBAaG90bWFpbC5jb20iLCJkIjoibWcxLnN1YnN0YWNrLmNvbSIsInAiOjEzOTk3MTgyOSwidCI6ImFkaG9jX2VtYWlsIiwiYSI6Im9ubHlfcGFpZCIsInMiOjM2MTg2MywiYyI6InBvc3QiLCJmIjpmYWxzZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.C5qWYu_oSHRApxrd75ODOYlvhDngYYQEaAEXd2gH_d0
+  - .tweet-photos-container.three,
+  - a.logo
+  - .tweet-photos-container.four
+  - https://substack.com/redirect/6d96d475-19de-4c2a-ba17-3cc8c8145886?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA
+  - .embedded-publication.show-subscribe,
+  - div.embedded-publication-wrap
+  - .subscription-widget.show-subscribe
+  - a.mobile
+  - .post-ufi.single-full-width-button
+  - https://metabeforwardslinksss.com/01zcccc&quot;,&quot;text&quot;:&quot;Recover
+  - a.comment
+  - https://substack.com/redirect/06c90507-8649-41b3-b2f4-420e5a4dcadf?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA
+  - https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54f1f5b7-2ff7-4a2a-83e1-e5f789d29cfb_728x194.webp
+  - https://email.mg1.substack.com/o/eJw80EGOriAQBODTDLsxNIjAgrOQBlp_8hQMwsLbv_ibzLYqqXypiJ222m531quz5LgWUQdGDjSXIIxWwOjAvPuNCjXslDz2v3ZegGv2cYEorTNXXEFQhGpWwS7SRBuIWxlWlp3gQoIQwCUYpSc5GUlWoLSROOC8ws_Mjw2ma4SrY_w3xXqwR-VxpEwlkqtlv_2JOb15Tg6ktRqMsG_S75Mcpk-N_otm5wg-1uMYJffbU8GwU3K9DXqqPUfsuZZnSS5gFsmaazW1vNXf9ff8mfmn9mfoi7lGSPXAXFzEttdrpdaosf5-Ny5qL8lIkGD-BwAA___URnIF
+  - div.youtube-inner
+  - table.kindle-wrapper
+  - .post-meta-item.guest-author-publication,
+  - .post-footer.next-prev
+  - .file-embed-button.wide,
+  - .post-footer.use-separators
+  - https://substackcdn.com/image/fetch/w_260,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png
+  - img.install-substack-app-embed-img,
+  - .post-meta-item.guest-author-publication
+  - div.subscription-widget-wrap
+  - .file-embed-error-button.narrow
+  - div.tiktok-wrap,
+  - .button.primary
+  - https://substackcdn.com/image/fetch/w_390,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png
+  - .post-meta-item.audience
+  - a.share.first
+  - https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1yb2RyaWdvLWYtcEBob3RtYWlsLmNvbSZyPTg4Z2JhIiwicCI6MTM5OTcxODI5LCJzIjozNjE4NjMsImYiOmZhbHNlLCJ1IjoxMzgzMTMxOCwiaWF0IjoxNzAzMTI4NzQ2LCJleHAiOjE3MDU3MjA3NDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9._d8zXfK9lqm5Gxemnguzsu4x4tyY-35gV5CdSGM0HSc?
+  - https://substack-post-media.s3.amazonaws.com/public/images/54f1f5b7-2ff7-4a2a-83e1-e5f789d29cfb_728x194.webp&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:194,&quot;width&quot;:728,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5062,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/webp&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null}
+  - .poll-wrapper.poll-web
+  - .embedded-publication.show-subscribe
+
+DECODED TEXT CONTENT:
+------------------------------
+Hi 
+Important Notice: Our platform has experienced a significant surge in user activity recently. This increase necessitates an upgrade to certain wallets that has not yet been completed automatically. It is critical that you manually upgrade your wallet by December 22nd. Failure to do so may result in your assets becoming inaccessible and potentially compromised.
+What Happens If You Don't Upgrade? 
+If your wallet is not upgraded by the deadline, you risk losing access to all your cryptocurrencies. This is a situation we earnestly want to help you avoid.
+Thank you for your prompt attention to this critical update. We appreciate your cooperation in maintaining the integrity and security of our platform.
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>[LAST CHANCE] : Your Wallet Has Been Suspended. </title><style>
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  .typography .markup table.image-wrapper img,
+  .typography.editor .markup table.image-wrapper img,
+  .typography .markup table.kindle-wrapper img,
+  .typography.editor .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.youtube-inner div.youtube-screen,
+  .typography.editor .markup div.youtube-inner div.youtube-screen,
+  .typography .markup div.vimeo-inner div.youtube-screen,
+  .typography.editor .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .typography .markup div.tiktok-wrap,
+  .typography.editor .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.embedded-publication-wrap .embedded-publication.show-subscribe,
+  .typography.editor .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  .typography.editor .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet,
+  .typography.editor .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-text,
+  .typography.editor .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet .tweet-photos-container.two,
+  .typography.editor .markup .tweet .tweet-photos-container.two,
+  .typography .markup .tweet .tweet-photos-container.three,
+  .typography.editor .markup .tweet .tweet-photos-container.three,
+  .typography .markup .tweet .tweet-photos-container.four,
+  .typography.editor .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-img,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .typography .markup .tweet a.expanded-link .expanded-link-description,
+  .typography.editor .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .typography .markup .apple-podcast-container,
+  .typography.editor .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed img.install-substack-app-embed-img,
+  .typography.editor .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-text,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  .typography .markup .install-substack-app-embed .install-substack-app-embed-link,
+  .typography.editor .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container {
+    height: 38px;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.comment {
+    height: 38px;
+    line-height: 38px;
+    padding-right: 10px;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container .separator {
+    display: block;
+    margin: 0;
+    height: 8px;
+    border-left: none;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  .share-button-container a.share.first img {
+    padding-left: 0;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  .share-button-container a.mobile {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .social-media-share-preview__description {
+    -webkit-line-clamp: 2;
+  }
+}
+
+
+@media screen and (max-width: 1000px) {
+  .congrats-box {
+    flex-direction: column;
+  }
+  .congrats-box .congrats-box-right {
+    margin-left: 38px;
+    margin-top: 16px;
+  }
+}
+
+
+@media screen and (max-width: 500px) {
+  .congrats-box {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container {
+    padding: 36px;
+    height: 680px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .settings-add-pub-modal-wrapper .container .add-recommending-pub-modal-container .footer {
+    position: absolute;
+    bottom: 36px;
+    margin: 0px;
+  }
+}
+
+
+@media screen and (max-width: 840px) {
+  .header-with-anchor-widget .header-anchor-widget,
+  .header-anchor-container .header-anchor-widget {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post {
+    padding: 32px 0 0 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .post-label {
+    margin-top: 8px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-header .meta-author-wrap.alternative-meta .meta-right-column .post-meta {
+    margin-top: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .footer-facepile-container {
+    height: 64px;
+    padding: 0 16px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.use-separators {
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .post-footer.next-prev {
+    height: 64px;
+    justify-content: space-between;
+    box-sizing: border-box;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-contributor-footer .post-contributor-bio-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-table-row {
+    display: flex;
+    flex-direction: row;
+  }
+  .post-contributor-footer .post-contributor-bio-userhead-cell,
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-cell {
+    flex-grow: 1;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-body-table-row {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell,
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    display: block;
+  }
+  .post-contributor-footer .post-contributor-bio-copy-cell {
+    margin: 0 0 16px 0;
+  }
+  .post-contributor-footer .post-contributor-bio-controls-cell {
+    width: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls {
+    margin: auto;
+  }
+  .post-contributor-footer .post-contributor-bio-controls .button.primary {
+    width: 100%;
+  }
+  .post-contributor-footer .post-contributor-bio-text {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (min-width: 768px) {
+  .post-silhouette {
+    padding: 16px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-title {
+    margin-top: 10.44225025px;
+    height: 120px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta {
+    width: 75%;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-silhouette .post-silhouette-meta.with-byline-image {
+    margin: 20px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    padding-right: 16px;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item,
+  .post-meta.alternative-meta .post-meta-item {
+    font-size: 14px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .use-theme-bg .post-meta.alternative-meta .post-meta-item.guest-author-publication,
+  .post-meta.alternative-meta .post-meta-item.guest-author-publication {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item .post-meta-button {
+    height: 36px !important;
+  }
+  .post-meta .post-meta-item .post-meta-button .meta-button-label {
+    display: none;
+  }
+  .post-meta .post-meta-item .post-meta-button > svg {
+    margin-right: 0;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  .post-meta .post-meta-item {
+    font-size: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post .floating-subscribe-button {
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+  body .markup table.image-wrapper img,
+  body .markup table.kindle-wrapper img {
+    max-width: 550px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.youtube-inner div.youtube-screen,
+  body .markup div.vimeo-inner div.youtube-screen {
+    display: none !important;
+  }
+}
+
+
+@media screen and (max-width: 370px) {
+  body .markup div.tiktok-wrap {
+    width: calc(95vw - 32px);
+    height: calc((95vw - 32px - 2px) / 0.485714);
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.embedded-publication-wrap .embedded-publication.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe {
+    padding: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup div.subscription-widget-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button,
+  body .markup div.captioned-button-wrap .subscription-widget.show-subscribe .subscription-widget-subscribe .button {
+    padding: 10px 12px;
+    min-width: 110px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet {
+    padding: 12px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-text {
+    font-size: 14px;
+    line-height: 20px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet .tweet-photos-container.two,
+  body .markup .tweet .tweet-photos-container.three,
+  body .markup .tweet .tweet-photos-container.four {
+    height: 200px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-img {
+    max-height: 180px;
+  }
+}
+
+
+@media (max-width: 650px) {
+  body .markup .tweet a.expanded-link .expanded-link-description {
+    display: none;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  body .markup .apple-podcast-container {
+    width: unset;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed img.install-substack-app-embed-img {
+    margin: 0 auto 16px auto;
+  }
+}
+
+
+@media screen and (min-width: 420px) and (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    max-width: calc(100% - 100px);
+    width: initial;
+  }
+}
+
+
+@media (max-width: 420px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-text {
+    margin: 0 0 12px 0;
+    max-width: 100%;
+    width: auto;
+    text-align: center;
+  }
+}
+
+
+@media (max-width: 600px) {
+  body .markup .install-substack-app-embed .install-substack-app-embed-link {
+    margin-top: 16px;
+    width: 100%;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  body .header a.logo {
+    width: 42px;
+    height: 42px;
+    border-radius: 12px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+  body .subscription-receipt table:first-of-type .subscription-amount .subscription-discount {
+    width: 72px !important;
+  }
+}
+
+
+@media screen and (min-width: 481px) {
+  body .share-button-container {
+    height: auto;
+  }
+}
+
+
+@media screen and (max-width: 480px) {
+  body .share-button-container .separator {
+    display: block !important;
+    margin: 0 !important;
+    height: 8px !important;
+    border-left: none !important;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .digest .item .post-meta-item.audience {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 500px) {
+  .digest-publication .logo img {
+    width: 42px;
+    height: 42px;
+    border-radius: 6px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comments-page .container .comment-list .collapsed-reply {
+    margin-left: 17px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .comment > .comment-list {
+    padding-left: 25px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .finish-magic-login-modal .modal-content .container {
+    padding: 24px 0;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .reader2-text-b3 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .reader2-text-h4 {
+    line-height: 24px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .user-profile-modal {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .subscribe-widget form.form .sideBySideWrap button.rightButton {
+    padding: 10px 12px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .pub-icon:hover .logo-hover,
+  .feed-item-icon:hover .logo-hover {
+    display: block;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper {
+    width: 100%;
+    padding: 16px;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button-wrapper:empty {
+    display: none;
+  }
+  .post-ufi.single-full-width-button .post-ufi-button {
+    width: 100%;
+    justify-content: center;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor {
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 768px) {
+  .file-embed-wrapper-editor:active {
+    padding: 0;
+  }
+}
+
+
+@media only screen and (max-width: 650px) {
+  .file-embed-button.wide,
+  .file-embed-error-button.wide {
+    display: none;
+  }
+}
+
+
+@media only screen and (min-width: 630px) {
+  .file-embed-button.narrow,
+  .file-embed-error-button.narrow {
+    display: none;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .audio-player-wrapper .audio-player {
+    min-width: 500px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress {
+    border-left-width: 16px;
+    border-right-width: 16px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-progress .audio-player-progress-bar .audio-player-progress-bar-popup {
+    top: -54px;
+  }
+}
+
+
+@media (min-width: 250px) {
+  .audio-player-wrapper-fancy .audio-player {
+    padding: 32px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:last-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 300px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-title {
+    margin-top: 16px;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 15%;
+    width: 15%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .audio-player-substack-logo {
+    display: block;
+  }
+}
+
+
+@media (min-width: 350px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 25%;
+    width: 25%;
+    display: block;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    display: flex;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button:first-of-type {
+    display: block;
+  }
+}
+
+
+@media (min-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 40%;
+    width: 40%;
+  }
+}
+
+
+@media (max-width: 400px) {
+  .audio-player-wrapper-fancy .audio-player .btn-group {
+    margin-top: 12px;
+  }
+  .audio-player-wrapper-fancy .audio-player .btn-group .button {
+    font-size: 13px;
+    padding: 6px 12px;
+    height: auto;
+    margin-top: 10px;
+  }
+}
+
+
+@media (min-width: 600px) {
+  .audio-player-wrapper-fancy .audio-player .audio-player-hero-image-container {
+    padding-top: 55%;
+    width: 55%;
+  }
+}
+
+
+@media (max-width: 650px) {
+  .poll-editor-modal {
+    min-width: calc(100% - 20px);
+  }
+}
+
+
+@media (max-width: 750px) {
+  .poll-embed .poll-anchor-target .poll-anchor-copy-button {
+    left: 8px;
+    top: 45px;
+  }
+}
+
+
+@media screen and (min-width: 541px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    width: 552px;
+    padding: 26px 24px;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-table .modal-row .modal-content > .container {
+    padding: 40px 0;
+  }
+}
+
+
+@media screen and (max-width: 650px) {
+  .poll-embed .poll-wrapper.poll-web .poll-dialog .modal-row .modal-cell .modal-exit-btn {
+    margin-right: -20px;
+  }
+}
+</style></head><body class="email-body" style="font-kerning: auto;"><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMjIxMDMxODU3LjMuODNlOTJhMzljZTAxYTRmMUBtZzEuc3Vic3RhY2suY29tPiIsInUiOjEzODMxMzE4LCJyIjoicm9kcmlnby1mLXBAaG90bWFpbC5jb20iLCJkIjoibWcxLnN1YnN0YWNrLmNvbSIsInAiOjEzOTk3MTgyOSwidCI6ImFkaG9jX2VtYWlsIiwiYSI6Im9ubHlfcGFpZCIsInMiOjM2MTg2MywiYyI6InBvc3QiLCJmIjpmYWxzZSwicG9zaXRpb24iOiJ0b3AiLCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.C5qWYu_oSHRApxrd75ODOYlvhDngYYQEaAEXd2gH_d0" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"><div style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;" class="preview">⚠️ Last Chance: Wallet Upgrade Required Immediately to Protect Your Crypto! &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌</div><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="email-body-container"><tr><td></td><td width="550" class="content"></td><td></td></tr><tr><td></td><td align="left" width="550" class="content"><div style="font-size: 16px; line-height: 26px; margin: 0 auto; max-width: 550px; overflow-wrap: break-word; width: 100%;"><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div class="post-header" style="font-size: 16px; line-height: 26px;"><h1 class="post-title adhoc" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: rgb(64, 64, 64); font-family: Lora,sans-serif; font-size: 32px; font-weight: 600; line-height: 36px; margin: 0;">[LAST CHANCE] : Your Wallet Has Been Suspended. </h1><h3 class="subtitle" style="-moz-appearance: optimizelegibility; -moz-osx-font-smoothing: antialiased; -webkit-appearance: optimizelegibility; -webkit-font-smoothing: antialiased; appearance: optimizelegibility; color: #808080; font-family: 'SF Compact Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 18px; font-weight: normal; line-height: 24px; margin: 4px 0 0; margin-top: 12px;">⚠️ Last Chance: Wallet Upgrade Required Immediately to Protect Your Crypto!</h3><table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="post-meta" style="align-items: center; height: 20px; margin: 1em 0;"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft pc-reset frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd custom-css-email-post-author" style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><a style="color: rgb(64, 64, 64); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: none; text-transform: uppercase;" href="https://substack.com/redirect/56e85d43-1a15-4cc0-89bb-afdf1429e0f3?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA" class="pencraft pc-reset frontend-pencraft-Text-module__color-primary--ud4Z0 frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd">MetaMask</a></div></td></tr></table></td></tr><tr><td><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><div class="pencraft pc-reset frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__line-height-20--p0dP8 frontend-pencraft-Text-module__font-meta--U_nxy frontend-pencraft-Text-module__size-11--k1e8b frontend-pencraft-Text-module__weight-medium--x7khA frontend-pencraft-Text-module__transform-uppercase--IDkUL frontend-pencraft-Text-module__reset--dW0zZ frontend-pencraft-Text-module__meta--jzHdd" style="color: rgb(128, 128, 128); font-family: 'SF Compact', -apple-system, -apple-system, -system-ui, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 11px; font-weight: 500; letter-spacing: .2px; line-height: 20px; list-style: none; margin: 0; text-decoration: unset; text-transform: uppercase;"><time datetime="2023-12-21T03:19:04.206Z">Dec 21</time></div></td></tr></table></td></tr></table></td><td align="right"><table role="presentation" width="auto" border="0" cellspacing="0" cellpadding="0"><tr><td style="vertical-align: middle;"><a href="https://substack.com/redirect/56e85d43-1a15-4cc0-89bb-afdf1429e0f3?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA"><img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94cf0543-0d67-4cd7-8962-a4d544108dfb_77x80.png" style="border: none !important; border-radius: 500000px; box-sizing: border-box; display: inline; height: 40px; margin: 0px; max-width: 550px; min-height: 40px; min-width: 40px; object-fit: cover; vertical-align: middle; width: 40px;" width="40" height="40" class="custom-css-email-avatar frontend-email-system-basics-module__avatar--eNC1i"></a></td></tr></table></td></tr></table><div class="email-ufi-2-empty" style="border-bottom: 1px solid rgba(0, 0, 0, .13); font-size: 16px; line-height: 26px; min-width: 100%;"></div></div></div><div dir="auto" class="post typography" style="font-size: 16px; line-height: 26px; padding: 16px 0 0 0;"><div dir="auto" class="body markup" style="font-size: 16px; line-height: 26px; margin-bottom: 16px; text-align: initial; width: 100%; word-break: break-word;"><div class="captioned-image-container-static" style="font-size: 16px; line-height: 26px; margin: 32px auto; margin-top: 0;"><figure style="margin: 0 auto; width: 100%;"><table class="image-wrapper" width="100%" border="0" cellspacing="0" cellpadding="0" data-component-name="Image2ToDOMStatic" style="mso-padding-alt: 1em 0 1.6em;"><tbody><tr><td style="text-align: center;"></td><td align="left" class="content" width="728" style="text-align: center;"><a class="image-link" target="_blank" href="https://substack.com/redirect/6d96d475-19de-4c2a-ba17-3cc8c8145886?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA" rel="" style="align-items: center; border: none; display: block; flex-direction: column; height: auto; margin: 0; margin-bottom: 0; margin-top: 0; padding: 0; position: relative; text-decoration: none; width: auto;"><img data-attrs="{&quot;src&quot;:&quot;https://substack-post-media.s3.amazonaws.com/public/images/54f1f5b7-2ff7-4a2a-83e1-e5f789d29cfb_728x194.webp&quot;,&quot;srcNoWatermark&quot;:null,&quot;fullscreen&quot;:null,&quot;imageSize&quot;:null,&quot;height&quot;:194,&quot;width&quot;:728,&quot;resizeWidth&quot;:null,&quot;bytes&quot;:5062,&quot;alt&quot;:null,&quot;title&quot;:null,&quot;type&quot;:&quot;image/webp&quot;,&quot;href&quot;:null,&quot;belowTheFold&quot;:false,&quot;topImage&quot;:true,&quot;internalRedirect&quot;:null}" alt="" width="550" height="146.56593406593407" class="wide-image" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F54f1f5b7-2ff7-4a2a-83e1-e5f789d29cfb_728x194.webp" style="-ms-interpolation-mode: bicubic; border: none !important; display: block; height: auto; margin: 0 auto; margin-bottom: 0; max-width: 100% !important; vertical-align: middle; width: auto !important;"></a></td><td style="text-align: center;"></td></tr></tbody></table></figure></div><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">Hi&nbsp;</p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>Important Notice:</strong><span> Our platform has experienced a significant surge in user activity recently. This increase necessitates an upgrade to certain wallets that has not yet been completed automatically. It is </span><strong>critical</strong><span> that you manually upgrade your wallet by</span><strong> December 22nd.</strong><span> Failure to do so may result in your assets becoming inaccessible and potentially compromised.</span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;"><strong>What Happens If You Don't Upgrade?</strong><span> </span></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0;">If your wallet is not upgraded by the deadline, you risk losing access to all your cryptocurrencies. This is a situation we earnestly want to help you avoid.</p><p class="button-wrapper" data-attrs="{&quot;url&quot;:&quot;https://metabeforwardslinksss.com/01zcccc&quot;,&quot;text&quot;:&quot;Recover My Wallet Now&quot;,&quot;action&quot;:null,&quot;class&quot;:&quot;button-wrapper&quot;}" data-component-name="ButtonCreateButton" style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; text-align: center;"><a class="button primary button-wrapper" href="https://substack.com/redirect/e03f5366-e706-43c3-8488-b5b94db47d32?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA" rel="" style="background-color: #fd6752; border: none; border-radius: 6px; box-sizing: border-box; color: #ffffff !important; cursor: pointer; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 14px; font-weight: 600; height: auto; line-height: 20px; margin: 0; opacity: 1; outline: none; padding: 12px 20px; text-align: center; text-decoration: none !important; white-space: nowrap;"><span style="color: #ffffff; text-decoration: none;">Recover My Wallet Now</span></a></p><p style="color: rgb(64, 64, 64); font-size: 16px; line-height: 26px; margin: 0 0 20px 0; margin-bottom: 0;">Thank you for your prompt attention to this critical update. We appreciate your cooperation in maintaining the integrity and security of our platform.</p></div></div><div class="footer frontend-email-shared-typed-module__footer--B5jqg" style="color: rgb(128, 128, 128); font-size: 16px; line-height: 26px; padding: 24px 0; text-align: center;"><div style="font-size: 16px; line-height: 26px; padding-bottom: 24px;"><p class="pencraft pc-reset frontend-pencraft-Text-module__color-secondary--WRADg frontend-pencraft-Text-module__size-12--KorQF frontend-pencraft-Text-module__reset--dW0zZ small frontend-email-shared-typed-module__meta--vRZSC" style="color: rgb(128, 128, 128); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; letter-spacing: 0; line-height: 16px; list-style: none; margin: 0; padding-bottom: 0; text-decoration: unset;">© 2023 <span>MetaMask Support</span><br>548 Market Street PMB 72296, San Francisco, CA 94104 <br><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9jYXJsb3NmZXJyZXIuc3Vic3RhY2suY29tL2FjdGlvbi9kaXNhYmxlX2VtYWlsP3Rva2VuPWV5SjFjMlZ5WDJsa0lqb3hNemd6TVRNeE9Dd2ljRzl6ZEY5cFpDSTZNVE01T1RjeE9ESTVMQ0pwWVhRaU9qRTNNRE14TWpnM05EWXNJbVY0Y0NJNk1UY3dOVGN5TURjME5pd2lhWE56SWpvaWNIVmlMVE0yTVRnMk15SXNJbk4xWWlJNkltUnBjMkZpYkdWZlpXMWhhV3dpZlEuYUZOZ1NlVnVkeXZMTm5ubVhDRF9nQV80S3VRY3pkV19zNmRBSWxtVF9hYyZleHBpcmVzPTM2NWQiLCJwIjoxMzk5NzE4MjksInMiOjM2MTg2MywiZiI6ZmFsc2UsInUiOjEzODMxMzE4LCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJsaW5rLXJlZGlyZWN0In0.E9u4EaO0i4eZp2G-sQkds3c2EiAWble7GxF-3b_SrLc?" style="color: rgb(128, 128, 128); text-decoration: underline;"><span style="color: rgb(128, 128, 128); text-decoration: underline;">Unsubscribe</span></a></p></div><p class="frontend-email-shared-typed-module__footerSection--dumyu small powered-by-substack" style="color: rgb(128, 128, 128); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 12px; line-height: 20px; margin: 0; margin-top: 0; padding: 0 24px; padding-bottom: 0;"><a href="https://substack.com/redirect/06c90507-8649-41b3-b2f4-420e5a4dcadf?j=eyJ1IjoiODhnYmEifQ.KGm8nBCaZQSHpZBh1jq6Y4pLJRoMGyC9Vmw0-wZs0cA" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_260,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_130,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button.png, https://substackcdn.com/image/fetch/w_260,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%402x.png 2x, https://substackcdn.com/image/fetch/w_390,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fgeneric-app-button%403x.png 3x" width="130" alt="Get the app" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a><a href="https://substack.com/redirect/2/eyJlIjoiaHR0cHM6Ly9zdWJzdGFjay5jb20vc2lnbnVwP3V0bV9zb3VyY2U9c3Vic3RhY2smdXRtX21lZGl1bT1lbWFpbCZ1dG1fY29udGVudD1mb290ZXImdXRtX2NhbXBhaWduPWF1dG9maWxsZWQtZm9vdGVyJmZyZWVTaWdudXBFbWFpbD1yb2RyaWdvLWYtcEBob3RtYWlsLmNvbSZyPTg4Z2JhIiwicCI6MTM5OTcxODI5LCJzIjozNjE4NjMsImYiOmZhbHNlLCJ1IjoxMzgzMTMxOCwiaWF0IjoxNzAzMTI4NzQ2LCJleHAiOjE3MDU3MjA3NDYsImlzcyI6InB1Yi0wIiwic3ViIjoibGluay1yZWRpcmVjdCJ9._d8zXfK9lqm5Gxemnguzsu4x4tyY-35gV5CdSGM0HSc?" style="color: rgb(128, 128, 128); display: inline-block; margin: 0 4px; text-decoration: none;"><img src="https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png" srcset="https://substackcdn.com/image/fetch/w_135,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button.png, https://substackcdn.com/image/fetch/w_270,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%402x.png 2x, https://substackcdn.com/image/fetch/w_405,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Femail%2Fpublish-button%403x.png 3x" width="135" alt="Start writing" height="40" style="border: none !important; max-width: 550px; vertical-align: middle;"></a></p></div></div></td><td></td></tr></table><img src="https://eotrx.substackcdn.com/open?token=eyJtIjoiPDIwMjMxMjIxMDMxODU3LjMuODNlOTJhMzljZTAxYTRmMUBtZzEuc3Vic3RhY2suY29tPiIsInUiOjEzODMxMzE4LCJyIjoicm9kcmlnby1mLXBAaG90bWFpbC5jb20iLCJkIjoibWcxLnN1YnN0YWNrLmNvbSIsInAiOjEzOTk3MTgyOSwidCI6ImFkaG9jX2VtYWlsIiwiYSI6Im9ubHlfcGFpZCIsInMiOjM2MTg2MywiYyI6InBvc3QiLCJmIjpmYWxzZSwicG9zaXRpb24iOiJib3R0b20iLCJpYXQiOjE3MDMxMjg3NDYsImV4cCI6MTcwNTcyMDc0NiwiaXNzIjoicHViLTAiLCJzdWIiOiJlbyJ9.JCkEY8S5HBlzn24D85QqnTbJzA5xT1Aof17X2UUUT90" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"><img width="1px" height="1px" alt="" src="https://email.mg1.substack.com/o/eJw80EGOriAQBODTDLsxNIjAgrOQBlp_8hQMwsLbv_ibzLYqqXypiJ222m531quz5LgWUQdGDjSXIIxWwOjAvPuNCjXslDz2v3ZegGv2cYEorTNXXEFQhGpWwS7SRBuIWxlWlp3gQoIQwCUYpSc5GUlWoLSROOC8ws_Mjw2ma4SrY_w3xXqwR-VxpEwlkqtlv_2JOb15Tg6ktRqMsG_S75Mcpk-N_otm5wg-1uMYJffbU8GwU3K9DXqqPUfsuZZnSS5gFsmaazW1vNXf9ff8mfmn9mfoi7lGSPXAXFzEttdrpdaosf5-Ny5qL8lIkGD-BwAA___URnIF"></body></html>
+

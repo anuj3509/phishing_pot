@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Garanta seucartão Black! Agora você éBradesco Prime.",
+    "from": "Bradesco <notificacoes@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 26 Apr 2024 19:09:57 +0000",
+    "message_id": "<f6ef0077-e1a8-ad6d-c21b-2ef79f05d6c4@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "infoelsevier.com.br",
+      "www.campus.com.br",
+      "menos.Sofri",
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=56a9c7d1a81f4b51aba8b0127b06d562&amp;t1=bra",
+      ".alert.alert-good",
+      "fcmm00gmail.com",
+      "Ibm.coSDI",
+      "httpgroups.google.comgroupexpresso_literario,",
+      "www.univali.brdireitoepolitica",
+      "httpswww.pnas.orgcontent11241036",
+      "httpwww.scielo.brscielo.php?scriptsci_arttextpidS0066-"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 150116,
+    "html_length": 262504,
+    "has_text": true,
+    "has_html": true
+  }
+}

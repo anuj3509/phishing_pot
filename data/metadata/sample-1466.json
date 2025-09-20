@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Das ist leider das letzte Mal",
+    "from": "EDEKA-Gutschein, <noreply@team.mobile.de.>, EDEKA-Gutschein,\r\n\t<noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 02 Oct 2023 15:46:13 +0200",
+    "message_id": "<Nf72p5T.0.0.Nf72p5T.9.Nf72p5T@team.mobile.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://stabrino.info/op/4000_md/1995/724/1444/222/428764",
+      "https://imgur.com/cXbMi2q.jpg",
+      "http://stabrino.info/oop/4000_md/1995/724/1444/222/428764",
+      "imgur.com/cXbMi2q.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://stabrino.info/cl/4000_md/1995/724/1444/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1877,
+    "html_length": 8832,
+    "has_text": true,
+    "has_html": true
+  }
+}

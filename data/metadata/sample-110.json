@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Re:Your Offer is Ready",
+    "from": "Thank you <nojiy@protmanch.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 07 Nov 2022 00:36:16 +0000",
+    "message_id": "\r\n <234761e2-ce28-4aba-9206-dd84e1e0db9d@DB8EUR05FT050.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rb.gy/xzdpmg",
+      "https://rb.gy/ogf5yo",
+      "https://i.imgur.com/s8QR495.png",
+      "https://i.imgur.com/jINhmNe.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8376,
+    "html_length": 10834,
+    "has_text": true,
+    "has_html": true
+  }
+}

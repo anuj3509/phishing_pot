@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "phishing@pot  Wir haben versucht, Sie zu erreichen, bitte antworten Sie!",
+    "from": "\"Paketzustellung\" <Department-client-n69321@sanluisgonzagaperu.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 13 Mar 2025 21:28:48 +0000",
+    "message_id": "<3770dd5a-78ef-42b5-b66f-890c0ca19fe1@BN1PEPF0000468C.namprd05.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://did.li/8PYTY?ySMuLuyNuCO6eUSYkmxGEpvQVHvZrEomzAGxwebWyALlDBC4GqGCrP6j0NQJKbeq3QXBIYgQgciZRexsatOcMF",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/zg0Ofwp.png",
+      "https://did.li/8PYTY?SM0qo9BYQXMPIGrcoz68VZmIRHa2GKhOKNx2quvR6V0zeWzgK0t0rcPMpoZwt2ZZe50Oxlmf9dzqCoZiMxpyW4",
+      "https://did.li/8PYTY?Wg88Hwnlw2sQgnob20Do6l0DPycC1QFVblcFeTFcb0rLAoBypiGqdSjKjOnkOFKfWRST1ydMjEySpn6e78ZkZz",
+      "https://i.imgur.com/Hbn7dfD.png",
+      "i.imgur.com/Hbn7dfD.png",
+      "https://did.li/8PYTY?6sBErm7e6ZAwlKZGRXlHuoeTIMIpMyEo6L6OuL0NCxVDsqK6dFBxA4czY7LTtSnqRutxJpAqFOhP5yedb1VqcM",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://did.li/8PYTY?VrIsrV07C7Hj6v4M5ydgWHzy4lIHQNtSIF2jxACDiara2SjQqOt8JtT8IIneBClJP1nnLgz1Ff7DXlChkAHdO0",
+      "https://i.imgur.com/zg0Ofwp.png",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3899,
+    "html_length": 15768,
+    "has_text": true,
+    "has_html": true
+  }
+}

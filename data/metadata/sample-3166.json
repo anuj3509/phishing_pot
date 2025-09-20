@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Oii, tudo bem?",
+    "from": "Victor Valdivino Toledo <victorvaldivino.mrb@grupofaveni.com.br>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 1 Apr 2024 12:05:04 -0300",
+    "message_id": "<CADW1XAWKN7ksxbXfSnr7DM=setbK90EjA1qPPVbikP-SJobaag@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000023597a06150a51a9\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000023597a06150a51a9\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://wa.me/11961706465",
+      "wa.me/11961706465"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 923,
+    "html_length": 1096,
+    "has_text": true,
+    "has_html": true
+  }
+}

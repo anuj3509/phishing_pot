@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Wichtig] Aktualisieren Sie jetzt Ihre Kontoinformationen",
+    "from": "Tf_Bank<noreply@melitaltd.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jan 2024 04:23:51 -0800",
+    "message_id": "\r\n <bd0448a5-1e4e-40cd-b7d6-991d41771954@DM3NAM02FT060.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1615845714==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1615845714==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://image.pitchbook.com/jXe937J73uJuHlGI325YKUXz59A1619067740189_200x200",
+      "tfbank.de",
+      "https://ln.run/9830X"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 661,
+    "html_length": 6531,
+    "has_text": true,
+    "has_html": true
+  }
+}

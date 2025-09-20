@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Última chamada: Pendências encontradas em sua declaração de renda. Regularize agora. Protocolo: 88755123.",
+    "from": "Atendimento Receita Federal <receita@regularizacao719190>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 27 May 2025 07:34:29 +0000",
+    "message_id": "<be34773a12291d9f8e6e0a59e31bd16d@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_be34773a12291d9f8e6e0a59e31bd16d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_be34773a12291d9f8e6e0a59e31bd16d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ecp-196140292342.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6697,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Fwd: Desconto na Fatura-5412179310060391160",
+    "from": "Rodrigo Lima <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Wed, 13 Dec 2023 13:57:55 +0000",
+    "message_id": "\r\n <PH8PR19MB7047126F78D328F03B71BC54E08DA@PH8PR19MB7047.namprd19.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_PH8PR19MB7047126F78D328F03B71BC54E08DAPH8PR19MB7047namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_PH8PR19MB7047126F78D328F03B71BC54E08DAPH8PR19MB7047namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "dYoFlDq26Jm8Et1929.pdf",
+      "content_type": "application/pdf",
+      "size": 68458
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "gmail.com&gt;",
+      "rodrigo.gama94@live.com&nbsp;",
+      "rodrigo.gama94@live.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 598,
+    "html_length": 1360,
+    "has_text": true,
+    "has_html": true
+  }
+}

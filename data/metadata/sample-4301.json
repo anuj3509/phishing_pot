@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Ontdek een schat aan films, tv-programma's en meer zonder beperkingen.",
+    "from": "\"Netflix\" <netflix@aprimarse.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 7 Nov 2024 02:26:14 +0000",
+    "message_id": "<70344682244402752885215179308392767708681213784072.637301@rgvYt.dynamicdiaries.sa.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "dynamicdiaries.sa.com/ntlfx-W3Yr0nj.png",
+      "dynamicdiaries.sa.com/ntlfx-fcn9ZKF.png",
+      "dynamicdiaries.sa.com/a0crYzVoYXFHQnFxb0kzQ05SRUZ2QjFlUldjbm93djF2V3lieVBqL1NpWXFtYzE3bjltY25vWkZhZVV6VDZzNXZ5YkVqNStsRlNDL1NXb0FzWm9JamhlR0t6ZlcwQzQxLy9kNkZCVU9PdDQ9",
+      "https://dynamicdiaries.sa.com/MWVFMFp6dFcwTlNPMEthdmxkUDJsUkcrVXhxTlZwZklNZ1NCOGRwcXNBOGQvTFdyL3ZPY3JFeHMzdEhycGIyVjdxeEF4em4wNXlKQ1hIdUJJNlc1dmI5eHJzemdXVk5jWC8vOFp3NkhmeEk9",
+      "https://dynamicdiaries.sa.com/ntlfx-W3Yr0nj.png",
+      "https://dynamicdiaries.sa.com/ntlfx-fcn9ZKF.png",
+      "https://dynamicdiaries.sa.com/SkhPUWhhNWtHbWdZYXRqSjlGNEdIT3A1RzZ4RmlkQWh6MFBIdDNoR0tXSTZIV2FHT3RsVGdKVFNmYlNMRHN4Kzd5OXN4b2Y0ZlZiQ0dxejk5NXliS3JFVmMrcUExWmswM01MTnpxRlMxcFk9",
+      "https://dynamicdiaries.sa.com/eGNZaWp1cXBOUlZjY21Rb1NjL2k0VWZ6UmpHRXJ4QW1PdEhQNGZLTkdaU0tndjVFUlYvTm54dGFBYzFLSWxhcFVNZmFoM0FMcXBPU2ZMS3FDTTI5Q25vMUVjWGZabG1JcmtSeXVGcEE0VUE9",
+      "https://dynamicdiaries.sa.com/a0crYzVoYXFHQnFxb0kzQ05SRUZ2QjFlUldjbm93djF2V3lieVBqL1NpWXFtYzE3bjltY25vWkZhZVV6VDZzNXZ5YkVqNStsRlNDL1NXb0FzWm9JamhlR0t6ZlcwQzQxLy9kNkZCVU9PdDQ9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 291,
+    "html_length": 2862,
+    "has_text": true,
+    "has_html": true
+  }
+}

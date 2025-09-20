@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p , Krijg nu gratis Netflix toegang voor drie jaar!",
+    "from": "Netflix, <postbode@emv.hallmark.nl.>, Office, <postbode@emv.hallmark.nl>",
+    "to": "phishing@pot",
+    "date": "Sun, 25 Feb 2024 15:41:59 +0100",
+    "message_id": "<tf9ilkh.xkdtc.f1o.f1o@fpfzpbwykbbtcyd.ypk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://OFFERLINK.COM",
+      "https://images.ctfassets.net/mwdlh7x5m54h/4Xf0qTMYflqJQ16msLy4VZ/db3384caf400965ea75ce70b2a5613f0/freestocks-11sgh7u6tmi-unsplash-1.jpg",
+      "div.preheader",
+      "http://homcom.store/oop/6406_md/4049/24541/1177/257/8664",
+      "http://homcom.store/cl/6406_md/4049/24541/1177/257/8664",
+      "images.ctfassets.net/mwdlh7x5m54h/4Xf0qTMYflqJQ16msLy4VZ/db3384caf400965ea75ce70b2a5613f0/freestocks-11sgh7u6tmi-unsplash-1.jpg",
+      "http://ir.almanara.ma/media/c76d1dbd6e6d245.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3006,
+    "html_length": 17038,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,96 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Kraken] It's important to review the latest terms
+From: Kraken <daniela.zurova@wiama.cz>
+To: phishing@pot
+Date: Sat, 23 Nov 2024 12:28:07 -0800
+Message_Id: <RFDKESP4POU4.NCKOFPGWLUFJ3@wiama.cz>
+Content_Type: multipart/alternative; boundary="=-Ido2TZfoSDQH9kWTcJ51jw=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="=-Ido2TZfoSDQH9kWTcJ51jw=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://unsubscribe.kraken.com
+  - https://www.kraken.com/favicon.ico
+  - https://dalfoam.co.zw
+  - https://support.kraken.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Kraken Update
+
+Kraken Update
+
+Reminder: take action as soon as possible!
+
+To ensure uninterrupted access to our services, please complete the latest 2FA verification process. Once your 2FA verification is successfully completed, you'll enjoy secure and seamless access to key features, including storing, transferring, and withdrawing funds without any disruptions.
+
+Get started
+
+Thank you for trusting Kraken. We’re here for you every step of the way.
+
+Visit |
+Unsubscribe
+© 2024 Kraken. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kraken Update</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f9fafb;">
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color: #f9fafb; padding: 20px 0;">
+        <tr>
+            <td align="center">
+                <table cellpadding="0" cellspacing="0" border="0" width="600" style="background-color: #ffffff; border-radius: 10px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
+                    <!-- Header -->
+                    <tr>
+                        <td align="center" style="background-color: #9B4DFF; color: #ffffff; padding: 20px; border-radius: 10px 10px 0 0;">
+                            <img src="https://www.kraken.com/favicon.ico" alt="Kraken Logo" style="width: 80px;">
+                            <h2 style="margin: 10px 0; font-size: 24px;">Kraken Update</h2>
+                        </td>
+                    </tr>
+                    <!-- Body -->
+                    <tr>
+                        <td style="padding: 20px; color: #333;">
+                            <h1 style="font-size: 24px; color: #2a2f3a; margin-bottom: 20px;">Reminder: take action as soon as possible!</h1>
+                            <p style="font-size: 16px; line-height: 1.6; color: #555; margin-bottom: 20px;">
+                                To ensure uninterrupted access to our services, please complete the latest 2FA verification process. Once your 2FA verification is successfully completed, you'll enjoy secure and seamless access to key features, including storing, transferring, and withdrawing funds without any disruptions.
+                            </p>
+                            <!-- Call-to-Action Button -->
+                            <table cellpadding="0" cellspacing="0" border="0" align="center" style="margin: 20px auto;">
+                                <tr>
+                                    <td align="center" style="background-color: #9B4DFF; border-radius: 8px;">
+                                        <a href="https://dalfoam.co.zw" style="display: block; padding: 12px 30px; color: #ffffff; text-decoration: none; font-size: 16px; font-weight: bold;">Get started</a>
+                                    </td>
+                                </tr>
+                            </table>
+                            <p style="font-size: 16px; line-height: 1.6; color: #555;">Thank you for trusting Kraken. We’re here for you every step of the way.</p>
+                        </td>
+                    </tr>
+                    <!-- Footer -->
+                    <tr>
+                        <td align="center" style="padding: 20px; background-color: #f1f1f1; color: #888; font-size: 14px; border-radius: 0 0 10px 10px;">
+                            <a href="https://support.kraken.com" style="margin: 0 10px; color: #9B4DFF; text-decoration: none;">Visit</a> | 
+                            <a href="https://unsubscribe.kraken.com" style="margin: 0 10px; color: #9B4DFF; text-decoration: none;">Unsubscribe</a>
+                            <p style="margin-top: 10px;">© 2024 Kraken. All rights reserved.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

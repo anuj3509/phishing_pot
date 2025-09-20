@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi retido pela fiscalização alfandegária!",
+    "from": "Pedido Correios <encomenda859398@correios>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 27 Feb 2025 11:00:17 +0000",
+    "message_id": "<578aa573b57a2f399ac5328d7a0adad3@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_578aa573b57a2f399ac5328d7a0adad3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_578aa573b57a2f399ac5328d7a0adad3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-8-1062496865825.us-central1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3663,
+    "has_text": true,
+    "has_html": true
+  }
+}

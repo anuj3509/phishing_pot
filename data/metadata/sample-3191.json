@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "PROPOSTA EXCLUSIVA AMIL - Consulte a tabela promocional com até 40% de economia",
+    "from": "\"Ana Santos - Corretora Amil\" <contato@cp.meucorretoronline.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Apr 2024 10:50:03 -0300",
+    "message_id": "\r\n <0SBU00CG413G0XW0@rmta-ad1-fd2-102-us-ashburn-1.rmtaad1.vcndpiad.oraclevcn.com>",
+    "content_type": "Multipart/alternative; boundary=\"02532756_2F5BE0DD_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"02532756_2F5BE0DD_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "go.planodesaude-2.com?subject=Gostaria%20de%20receber%20o%20link%20exclusivo&amp;body=Ol%C3%A1%2C%0D%0A%0D%0APara%20receber%20o%20link%20de%20cota%C3%A7%C3%A3o%20com%20a%20tabela%20promocional%202023%20atualizada.%0D%0AEnvie%20este%20e-mail.%0D%0A%0D%0AAtenciosamente%2C%0D%0AAna%20Santos%20-%20Corretora%20Amil",
+      "ct.e-compara.com?subject=Sair&amp;body=Desejo%20parar%20de%20receber"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 789,
+    "html_length": 2692,
+    "has_text": true,
+    "has_html": true
+  }
+}

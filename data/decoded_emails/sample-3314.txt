@@ -1,0 +1,62 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Parabéns! Você alcançou o status PERSONNALITÉ e pode desfrutar de todos os benefícios sem taxas adicionais. Saiba mais sobre as vantagens exclusivas..
+From: Aprovado <submit7133@bctel.com.br>
+To: wbks4@protonmail.ch
+Date: Wed, 22 May 2024 01:50:45 +0000
+Message_Id: <c1f8deac-14a5-8050-7d8b-afcb77de8b05@bctel.com.br>
+Content_Type: multipart/mixed;boundary=---------------------c3c1c6bb4561ee2a5b1232096a1e3657
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: multipart/mixed;boundary=---------------------c3c1c6bb4561ee2a5b1232096a1e3657
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://assets-global.website-files.com/5ede3f9d209ff003910e20ca/63ee6a0fa40ffd28d57f14a4_new-logo_personnalite-v2.png
+  - https://ww.bonusresgatar.com/
+
+DECODED TEXT CONTENT:
+------------------------------
+Convite Exclusivo Seja Bem-vindo! Atendimento personalizado | Cheque especial sem juros | Cartão Black sem anuidade | Pontos exclusivos | Salas VIP | Seguro Viagem | Assistência 24 horas | Descontos Comece agora! Seu convite só pode ser aberto por meio de um dispositivo móvel. © 2024 Itaú Personnalité. Todos os direitos reservados.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Convite Exclusivo</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-color: #f5f5f5;">
+    <tr>
+      <td align="center">
+        <table border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; border-radius: 10px; overflow: hidden; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);">
+          <tr>
+            <td align="center" style="padding: 40px; background-color: #002e5b; border-radius: 10px;">
+              <img src="https://assets-global.website-files.com/5ede3f9d209ff003910e20ca/63ee6a0fa40ffd28d57f14a4_new-logo_personnalite-v2.png" alt="Itaú Personnalité" style="width: 120px; height: auto; margin-bottom: 20px;">
+              <h1 style="color: #ffffff; font-size: 36px; margin-bottom: 20px;">Seja Bem-vindo!</h1>
+              <p style="color: #ffffff; font-size: 18px; line-height: 1.6; margin-bottom: 30px;">Atendimento personalizado | Cheque especial sem juros | Cartão Black sem anuidade | Pontos exclusivos | Salas VIP | Seguro Viagem | Assistência 24 horas | Descontos</p>
+              <a href="https://ww.bonusresgatar.com/" style="display: inline-block; padding: 15px 30px; background-color: #ff5a00; color: #ffffff; text-decoration: none; border-radius: 50px; font-size: 24px; font-weight: bold; cursor: pointer; transition: background-color 0.3s;">Comece agora!</a>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding: 30px; background-color: #ffffff; border-radius: 0 0 10px 10px;">
+              <p style="color: #333333; font-size: 16px; line-height: 1.6; margin-bottom: 0;">Seu convite só pode ser aberto por meio de um dispositivo móvel.</p>
+              <p style="color: #888888; font-size: 14px; margin-top: 20px;">© 2024 Itaú Personnalité. Todos os direitos reservados.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

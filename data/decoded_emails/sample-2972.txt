@@ -1,0 +1,303 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot-f-p , U bent geselecteerd voor een weekend in een Van der Valk hotel.
+From: weekendjeweg4you, <postbode@emv.hallmark.nl.>, Office,
+	<postbode@emv.hallmark.nl>
+To: phishing@pot
+Date: Tue, 27 Feb 2024 02:40:13 +0100
+Message_Id: <q4ys6ti.24qa8.umb.umb@nygoeqsestrwjwe.uqk>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg
+  - https://kinohilfe-deutschland.de/op/6477_md/4049/25636/1251/257/8664
+  - http://OFFERLINK.COM
+  - http://ytxlinion-cim.top/dad82805331a8ed.jpg
+  - div.preheader
+  - https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6477_md/4049/25636/1251/257/8664
+  - http://ytxlinion-cim.top/deca39511e846a1.jpg
+  - www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg
+  - https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/6477_md/4049/25636/1251/257/8664
+
+DECODED TEXT CONTENT:
+------------------------------
+@media screen and (max-width: 600px) { /* Media Queries COMMON START */ html { font-size: 16px !important; } img { max-width: 320px !important; } .container { width: 320px !important; max-width: 320px !important; } .br_mobile_only { display: block !important; } .img_switcher { display:block; background-position: center !important; } .desktop_only { display: none !important; } /* Media Queries COMMON END */ /* Media Queries HEADER START */ .header_smalltext { font-size: 0.688em !important; line-height: 14px; } .header_socialtable { width: 100%; } /* Media Queries HEADER END */ /* Media Queries FOOTER START */ .footer_socialtable { margin: 0 auto; } .footer_socialtable td { float: left !important; text-align: center !important; width: 100% !important; white-space: normal !important; } .footer_followus { padding-bottom: 10px; } .footer_socialbuttons { width: 100%; } .footer_socialbuttons td { width: auto !important; float: none !important; } .footer_gmailtable { text-align: center !important; width: 100% !important; } .footer_legaltable { text-align: center !important; width: 100% !important; } .footer_evenbuttonstable,.footer_oddbuttonstable { text-align: center !important; width: 100% !important; } .footer_evenbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 50% !important; float: left !important; } .footer_evenbutton { width: 155px !important; padding-right: 0 !important; padding-left: 0 !important; display: block !important; margin: auto !important;} .footer_oddbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 100% !important; float: left !important; } .footer_oddbutton { width: 268px !important; height: auto !important; display: inline-block !important; padding: 10px !important; } /* Media Queries FOOTER END */ /* Media Queries Variants COMMON START */ .headline td { font-size: 1.6em !important; font-weight: bold !important; line-height: 35px !important; } .cta_button { width: 100% !important; height: auto !important; display: inline-block !important; } .listimg { width: 75px !important; height: 75px !important; } /* Media Queries Variants COMMON END */ /***INSERT VARIANTS' SPECIFIC CSS HERE ***/ } div.preheader { display: none !important; } Opmerking: als de link niet werkt, verplaats deze dan naar jouw Postvak IN. Beste phishing@pot-f-p, Ben je de dagelijkse routine soms ook een beetje zat? Je bent zeker niet de enige! Hopelijk mogen we je vandaag goed nieuws brengen. {{user_email}} is namelijk geselecteerd om deel te nemen aan deze winactie: een weekend arrangement in een Van der Valk hotel. Soms is het tijd om jezelf eens even heerlijk in luxe onder te dompelen. En waar kan dat beter dan in een heerlijke suite? Kijk snel of we jou blij kunnen maken met dit mooie weekendarrangement. CLAIM UW PRIJS Ja, dit weekendje weg is echt iets voor mij click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" style="font-family: Arial, Helvetica, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; margin: 0px; padding: 0px;"><!-- HTML HEAD including style definitions --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style type="text/css" media="all">
+        @media screen and (max-width: 600px) {
+            /* Media Queries COMMON START */
+            html { font-size: 16px !important; }
+            img { max-width: 320px !important; }
+            .container { width: 320px !important; max-width: 320px !important; }
+            .br_mobile_only { display: block !important; }
+            .img_switcher { display:block; background-position: center !important; }
+            .desktop_only { display: none !important; }
+            /* Media Queries COMMON END */
+
+            /* Media Queries HEADER START */
+            .header_smalltext { font-size: 0.688em !important; line-height: 14px; }
+            .header_socialtable { width: 100%; }
+            /* Media Queries HEADER END */
+
+            /* Media Queries FOOTER START */
+            .footer_socialtable { margin: 0 auto; }
+            .footer_socialtable td { float: left !important; text-align: center !important; width: 100% !important; white-space: normal !important; }
+            .footer_followus { padding-bottom: 10px; }
+            .footer_socialbuttons { width: 100%; }
+            .footer_socialbuttons td { width: auto !important; float: none !important; }
+            .footer_gmailtable { text-align: center !important; width: 100% !important; }
+            .footer_legaltable { text-align: center !important; width: 100% !important; }
+            .footer_evenbuttonstable,.footer_oddbuttonstable { text-align: center !important; width: 100% !important; }
+            .footer_evenbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 50% !important; float: left !important; }
+            .footer_evenbutton { width: 155px !important; padding-right: 0 !important; padding-left: 0 !important; display: block !important; margin: auto !important;}
+            .footer_oddbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 100% !important; float: left !important; }
+            .footer_oddbutton { width: 268px !important; height: auto !important; display: inline-block !important; padding: 10px !important; }
+            /* Media Queries FOOTER END */
+
+            /* Media Queries Variants COMMON START */
+            .headline td { font-size: 1.6em !important; font-weight: bold !important; line-height: 35px !important; }
+            .cta_button { width: 100% !important; height: auto !important; display: inline-block !important; }
+            .listimg { width: 75px !important; height: 75px !important; }
+            /* Media Queries Variants COMMON END */
+
+            /***INSERT VARIANTS' SPECIFIC CSS HERE ***/
+
+        }
+    </style>
+</head>
+
+<body style="margin: 0;padding: 0;background-color: #000000;height: 100% !important;width: 100% !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 1.6;">
+<style type="text/css">
+    div.preheader
+    { display: none !important; }
+</style>
+<div class="preheader" style="font-size: 1px; display: none !important;">
+
+</div>
+<table class="body" style="background-color: #000000;" border="0" cellspacing="0" cellpadding="0" bgcolor="#E9E8E7" width="100%">
+    <tbody>
+			<tr>
+<td align="center" style="font-family:Arial, Helvetica, sans-serif; color:#ffff; font-size:11px">Opmerking: als de link niet werkt, verplaats deze dan naar jouw Postvak IN.<br><br></td>
+</tr>
+
+    <tr>
+        <td style="vertical-align: top;" valign="top">
+            <center class="">
+                <table class="container" style="max-width: 600px; width: 600px; margin: 0 auto !important; padding: 0;" border="0" cellspacing="0" cellpadding="0" width="600">
+                    <tbody>
+                    <tr>
+                        <td style="padding: 0;">
+
+                            <!-- Header Content -->
+                            <!-- HEADER START -->
+                            <!-- Preview message, View in Browser, Add to address book START -->
+                            <table style="width: 100%; max-width: 600px; margin: 0 auto;" width="100%">
+
+                                <tbody><tr>
+                                    <td style="padding: 0px; padding-bottom: 15px;">
+
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            <!-- Preview message, View in Browser, Add to address book END -->
+
+                            <!-- HEADER END -->
+
+                            <!-- Story Content Blocks -->
+                            <!-- Variant1 START -->
+
+                            <!-- Variant Container START -->
+                            <table class="variant_container" style="width: 100%; margin: 0 auto; padding-top: 0; padding-bottom: 0;" border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                <tr>
+                                    <td bgcolor="#FFFFFF">
+
+                                        <!-- Full Width Image (2 assets desktop-mobile) START -->
+                                        <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6477_md/4049/25636/1251/257/8664" target="_blank" style="display: block;">
+                                             <span class="img_switcher" style="
+                                                                                background: url('http://ytxlinion-cim.top/deca39511e846a1.jpg') 320px;
+                                                                                background-size: 320px;
+                                                                                width: 320px !important;
+                                                                                height: 180px !important;
+                                                                                background-repeat: no-repeat;
+                                                                                font-size: 0;
+                                                                                l
+                                                                                ine-height: 0;
+                                                                                ">
+                                              <img class="desktop_only" src="https://www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg" style="vertical-align: top;" alt="" width="600">
+											  <img class="desktop_only" src="//www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg" style="vertical-align: top;" alt="" width="600">
+                                             </span>
+                                        </a>
+                                        <!-- Full Width Image (2 assets desktop-mobile) END -->
+
+
+
+                                        <!-- HEADLINE START -->
+                                        <center>
+                                            <table class="headline" style="margin: 0 auto; width: 90%; padding-top: 25px; padding-bottom: 10px;" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                <tr>
+                                                    <td style="font-family: Arial, Helvetica, sans-serif; font-size: 2.2em; font-weight: bold; line-height: 45px; color: #000000; word-break: break-word;" valign="top" align="center">
+                                                        Beste phishing@pot-f-p,
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </center>
+                                        <!-- HEADLINE END -->
+
+                                        <!-- BODY COPY START -->
+                                        <center>
+                                            <table class="bodycopy" style="margin: 0 auto; width: 90%; padding-bottom: 20px;" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                <tr>
+                                                    <td style="font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #000000; word-break: break-word;" valign="top" align="left">Ben je de dagelijkse routine soms ook een beetje zat? Je bent zeker niet de enige!<br><br> Hopelijk mogen we je vandaag goed nieuws brengen. {{user_email}} is namelijk geselecteerd om deel te nemen aan deze winactie: een weekend arrangement in een Van der Valk hotel.<br><br>Soms is het tijd om jezelf eens even heerlijk in luxe onder te dompelen. En waar kan dat beter dan in een heerlijke suite? Kijk snel of we jou blij kunnen maken met dit mooie weekendarrangement.
+
+
+
+<br>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                        
+                                                        
+
+                                                        
+
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </center>
+                                        <!-- BODY COPY END -->
+
+                                        <!-- CTA START -->
+                                        
+<br>
+<center>
+                                            <table style="margin: 0 auto; width: 90%; padding-bottom: 35px;" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                <tr>
+                                                    <td valign="top" align="center">
+                                                        <!--[if mso]>
+                                                        <v:rect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="http://OFFERLINK.COM" target="_blank"
+                                                                style="height:40px;v-text-anchor:middle;width:224px;" strokecolor="#E91721" fillcolor="#E91721">
+                                                            <w:anchorlock/>
+                                                            <center style="color:#ffffff;font-family:Arial, Helvetica, sans-serif; font-size: 1em;">CLAIM UW PRIJS</center>
+                                                        </v:rect>
+                                                        <![endif]-->
+                                                        <a class="cta_button" href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6477_md/4049/25636/1251/257/8664" target="_blank" style="
+                                                                    background-color: #328719;
+                                                                    font-family: Arial, Helvetica, sans-serif;
+                                                                    font-size: 1.2em;
+                                                                    color: #000000;
+                                                                    color: #FFFFFF;
+                                                                    width: 455px;
+                                                                    border-radius: 5px;
+                                                                    padding-top: 10px;
+                                                                    padding-bottom: 10px;
+                                                                    text-align: center;
+                                                                    display: table-cell;
+                                                                    vertical-align: middle;
+                                                                    text-decoration: none;
+                                                                    word-break: break-word;
+                                                                    mso-hide:all;
+                                                                    " width="224"><strong>Ja, dit weekendje weg is echt iets voor mij </strong></a>
+<br>
+<br></td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </center><center>
+                                            <table style="margin: 0 auto;width: 90%;/* padding-bottom: 35px; */" border="0" cellspacing="0" cellpadding="0">
+                                                <tbody>
+                                                <tr>
+                                                    <td valign="top" align="center">
+                                                        <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6477_md/4049/25636/1251/257/8664" target="_blank" style="display: block;">
+                                             <span class="img_switcher" style="
+                                                                                background: url('http://ytxlinion-cim.top/dad82805331a8ed.jpg') 320px;
+                                                                                background-size: 320px;
+                                                                                width: 320px !important;
+                                                                                height: 180px !important;
+                                                                                background-repeat: no-repeat;
+                                                                                font-size: 0;
+                                                                                l
+                                                                                ine-height: 0;
+                                                                                ">
+
+                                             </span>
+                                        </a>
+                                                        
+                                                    </td>
+                                                </tr>
+                                                </tbody>
+                                            </table>
+                                        </center>
+                                        <!-- CTA END -->
+
+                                    </td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <!-- Variant Container END -->
+
+                            <!-- Spacing between variants START -->
+                            <table border="0" cellspacing="0" cellpadding="0">
+                                <tbody>
+                                <tr>
+                                    <td style="padding: 0px;
+                                               padding-bottom: 40px;"></td>
+                                </tr>
+                                </tbody>
+                            </table>
+                            <!-- Spacing between variants END -->
+
+                            <!-- Variant1 END -->
+
+
+                            <!-- Debug Block -->
+
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
+            </center>
+        </td>
+    </tr>
+    </tbody>
+</table></body></html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/6477_md/4049/25636/1251/257/8664">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="https://kinohilfe-deutschland.de/op/6477_md/4049/25636/1251/257/8664" width="1px" height="1px" style="visibility:hidden">
+

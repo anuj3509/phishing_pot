@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "You have been selected!\t",
+    "from": "Congratulations  , <bonobo@news.bonobojeans.com>",
+    "to": "[to]",
+    "date": "Wed, 08 Mar 2023 01:02:14 +0100",
+    "message_id": "\r\n <e81782cf-856e-4ba1-992c-3da2100fa728@CO1NAM11FT111.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.postimg.cc/C5W66N6m/Capturee.jpg",
+      "http://iptesetxkeys.com/op/4146_md/22222/1621/1807/410/1190",
+      "https://iptesetxkeys.com/cl/4146_md/22222/1621/1807/410/1190",
+      "http://iptesetxkeys.com/oop/4146_md/22222/1621/1807/410/1190",
+      "i.postimg.cc/C5W66N6m/Capturee.jpg",
+      "http://iptesetxkeys.com/un/4146_md/22222/1621/1807/410/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 115,
+    "html_length": 842,
+    "has_text": true,
+    "has_html": true
+  }
+}

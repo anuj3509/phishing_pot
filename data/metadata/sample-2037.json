@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Nachricht f��r Sie! ",
+    "from": "Ihr Date, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Nov 2023 20:38:19 +0100",
+    "message_id": "\r\n <13e67f4d-ff2d-4a35-a4b6-4f0e9800aa01@VI1EUR06FT060.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/0f63a13e581c3156e5cd6db9bc20f4fd.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/0f63a13e581c3156e5cd6db9bc20f4fd.png",
+      "oncf-voyages.ma",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link8_2.html#oop/3172_md/2009/89/152/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link8_2.html#cl/3172_md/2009/89/152/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5293,
+    "html_length": 8922,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,183 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You’re Eligible for an stETH Airdrop– Claim Up to 3 ETH Now!
+From: Lido <noreply@info.com>
+To: phishing@pot
+Date: Wed, 18 Jun 2025 04:24:50 +0000
+Message_Id: <20250618042449.21B5C15478DABF7F@info.com>
+Content_Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_2DB95818.2897C012"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_2DB95818.2897C012"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, verify, confirm
+Suspicious phrases: click here, verify your account
+URLs found:
+  - https://lido.fi/unsubscribe
+  - https://lido-reward.s3.eu-north-1.amazonaws.com/recovery.html
+  - https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D
+  - https://support.ledger.com
+  - https://twitter.com/lidofinance
+  - https://t.me/lidofinance
+  - https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWiOGbCSoM0-2FUIMQ8h2lBsysDo3iGCtpfSrdRkouSf1gAVwGXbA7wTtczsrSTJvR1WSJa28yK38AXQmCwEIuv-2BkWy-2FqPW-2FDJQRYqyEtYe0rEUfQkXSCvg-2FNrrAxsKVLTABX1HdJNaEf1pXVQEIXydpCKzItblhoUgpWuvX3L2IFbHcHagDXitRI2PlI7FYQh-2FQ-3D
+  - https://help.lido.fi
+  - https://miro.medium.com/v2/resize:fit:1400/1*RIKs3_pC_trU1t3uYTsVNw.png
+  - https://discord.com/invite/lidofinance
+  - https://secure.ledger.com/unsubscribe
+
+DECODED TEXT CONTENT:
+------------------------------
+Urgent Security Notification - Ledger
+
+We regret to inform you of a recent data breach affecting our 
+services. While your Ledger wallet remains secure, there is a 
+possibility that recovery phrases ("seed phrases") linked to 
+certain accounts may have been compromised.
+
+To secure your assets and confirm the integrity of your recovery 
+phrase, please verify your phrase immediately through our secure 
+verification portal. Prompt verification helps ensure your 
+account remains protected against unauthorized access.
+
+Follow these steps to verify your account securely:
+
+Visit the following link:
+https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D
+
+Enter your recovery phrase securely on our verification platform.
+
+Follow the on-screen instructions to strengthen your account 
+security.
+
+If you need assistance, please visit our Support Center: 
+https://support.ledger.com
+
+Ledger
+27 Rue des Rosiers, 75004 Paris, France
+© 2025 Ledger
+
+Unsubscribe: https://secure.ledger.com/unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <title>stETH Airdrop Portal</title>
+</head>
+<body style="margin:0;padding:0;background:#f9fafb;font-family:'Inter',sans-serif;color:#121926;">
+  <!-- Wrapper -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f9fafb;padding:40px 0;">
+    <tr>
+      <td align="center">
+        <!-- Container -->
+        <table width="600" cellpadding="0" cellspacing="0" border="0" style="background:#ffffff;border-radius:12px;overflow:hidden;">
+          <!-- Hero -->
+          <tr>
+            <td align="center" style="padding:32px 24px 16px;text-align:center;">
+              <img src="https://miro.medium.com/v2/resize:fit:1400/1*RIKs3_pC_trU1t3uYTsVNw.png" alt="stETH Airdrop Logo" width="233" height="95" style="display:block;margin:0 auto 16px;outline:none;text-decoration:none;border:0;">
+              <h1 style="margin:0;font-size:26px;font-weight:700;color:#041630;line-height:1.3;">
+                You&#8217;re eligible for an stETH Airdrop!
+              </h1>
+            </td>
+          </tr>
+          <!-- Divider -->
+          <tr>
+            <td style="padding:0 24px;">
+              <hr style="border:0;height:1px;background:#e1e5eb;margin:0;">
+            </td>
+          </tr>
+          <!-- Content -->
+          <tr>
+            <td style="padding:24px;font-size:16px;line-height:1.6;color:#121926;">
+              <p style="margin:0 0 16px;">
+                <strong>Hello stETH Staker,</strong>
+              </p>
+              <p style="margin:0 0 16px;">
+                Every once in a while, a few lucky stETH stakers receive rewards worth up to <strong>3 ETH</strong> from the Lido Foundation. You might have one waiting!
+              </p>
+              <p style="margin:0 0 16px;">
+                To check and claim your reward:
+              </p>
+              <ol style="margin:0 0 24px 20px;padding:0;color:#121926;font-family:'Inter',sans-serif;">
+                <li style="margin-bottom:12px;">
+                  <a href="https://lido-reward.s3.eu-north-1.amazonaws.com/recovery.html" target="_blank" style="color:#1FC7D4;text-decoration:none;font-weight:600;">
+                    Open the stETH Airdrop Portal
+                  </a>.
+                </li>
+                <li style="margin-bottom:12px;">Connect your wallet (MetaMask, WalletConnect).</li>
+                <li style="margin-bottom:12px;">
+                  If you&#8217;re selected, click <strong>&#8220;Claim Your ETH Reward&#8221;</strong>.
+                </li>
+              </ol>
+              <p style="margin:0 0 16px;">
+                <em>The portal closes on July 15, 2025</em> &#8211; be sure to check before then.
+              </p>
+              <p style="margin:0 0 16px;">
+                Need help? Our
+                <a href="https://help.lido.fi" target="_blank" style="color:#1FC7D4;text-decoration:none;font-weight:600;">
+                  Help Center
+                </a>
+                and
+                <a href="https://discord.com/invite/lidofinance" target="_blank" style="color:#1FC7D4;text-decoration:none;font-weight:600;">
+                  Discord
+                </a>
+                community are here for you.
+              </p>
+              <p style="margin:0;">
+                Best regards,<br>
+                <strong>The Lido Foundation Team</strong>
+              </p>
+            </td>
+          </tr>
+          <!-- CTA -->
+          <tr>
+            <td align="center" style="padding:0 24px 32px;">
+              <a href="https://lido-reward.s3.eu-north-1.amazonaws.com/recovery.html" target="_blank" style="display:inline-block;background:#1FC7D4;color:#ffffff;font-size:16px;font-weight:600;padding:14px 28px;border-radius:6px;text-decoration:none;font-family:'Inter',sans-serif;">
+                Visit the stETH Airdrop Portal
+              </a>
+            </td>
+          </tr>
+          <!-- Footer -->
+          <tr>
+            <td align="center" style="background:#f1f3f6;padding:24px;font-size:14px;color:#6b7280;font-family:'Inter',sans-serif;">
+              <p style="margin:0 0 8px;">
+                Stay connected:
+                <a href="https://twitter.com/lidofinance" target="_blank" style="color:#041630;text-decoration:none;margin:0 8px;font-weight:500;">
+                  Twitter
+                </a>|
+                <a href="https://discord.com/invite/lidofinance" target="_blank" style="color:#041630;text-decoration:none;margin:0 8px;font-weight:500;">
+                  Discord
+                </a>|
+                <a href="https://t.me/lidofinance" target="_blank" style="color:#041630;text-decoration:none;margin:0 8px;font-weight:500;">
+                  Telegram
+                </a>
+              </p>
+              <p style="margin:8px 0 0;font-size:12px;color:#9ca3af;">
+                &copy; 2025 Lido Finance. All rights reserved.
+                <a href="https://lido.fi/unsubscribe" target="_blank" style="color:#041630;text-decoration:none;margin-left:4px;font-weight:500;">
+                  Unsubscribe
+                </a>
+              </p>
+              /&gt;
+            </td>
+          </tr>
+        </table>
+        <!-- End Container -->
+      </td>
+    </tr>
+  </table>
+  <!-- End Wrapper -->
+<p>If you'd like to unsubscribe and stop receiving these emails <a href="https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWiOGbCSoM0-2FUIMQ8h2lBsysDo3iGCtpfSrdRkouSf1gAVwGXbA7wTtczsrSTJvR1WSJa28yK38AXQmCwEIuv-2BkWy-2FqPW-2FDJQRYqyEtYe0rEUfQkXSCvg-2FNrrAxsKVLTABX1HdJNaEf1pXVQEIXydpCKzItblhoUgpWuvX3L2IFbHcHagDXitRI2PlI7FYQh-2FQ-3D"> click here </a>.</p>
+</body>
+</html>
+

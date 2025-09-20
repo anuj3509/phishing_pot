@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your 5% markdown voucher.",
+    "from": "\"Viagra/Cialis-0,27$/0,54$\" <ex.pharmacy.online1@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Fri, 06 Oct 2023 10:00:08 +0100",
+    "message_id": "81UHVW6B7aQ735_11v034us38uFJ6j88u1.1492J322436330103yP-369A79OYb77m3@hotmail.com",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=I",
+      ".button.yes",
+      "ex.pharmacy.online5@gmail.com?subject=No&amp;body=No,",
+      ".button.no",
+      "http://salpor.com/f.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4380,
+    "html_length": 7394,
+    "has_text": true,
+    "has_html": true
+  }
+}

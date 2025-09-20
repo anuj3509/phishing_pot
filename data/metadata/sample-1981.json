@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Fwd: We need your confirmation to complete the procedure.",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Tue, 21 Nov 2023 22:21:50 +0000",
+    "message_id": "\r\n <SN4PR0601MB8665E19DC811F1D3B3F31FA4EEBBA@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB8665E19DC811F1D3B3F31FA4EEBBASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB8665E19DC811F1D3B3F31FA4EEBBASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "Taxsd-Statement.pdf",
+      "content_type": "application/pdf",
+      "size": 209770
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pitungdosolimo.manao.us&gt;",
+      "https://aka.ms/AAb9ysg",
+      "pitungdosolimo.manao.us",
+      "jarenesihtax-dev.gov",
+      "jarenesihtax-dev.gov&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 365,
+    "html_length": 897,
+    "has_text": true,
+    "has_html": true
+  }
+}

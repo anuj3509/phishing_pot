@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "\"70% Rabatt auf Muama Ryoko - Ihre tragbare WiFi-L��sung!\"",
+    "from": "Ryoko Team, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 21 Jan 2024 05:16:58 +0100",
+    "message_id": "<zkutZ9b.0.0.zkutZ9b.9.zkutZ9b@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://aweralo.com/?a=6073&amp;oc=19177&amp;c=53845&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/02/4ki9.png",
+      "http://superkoran.info/Zi9BMXBhdVBrN2FyczM2dUZ1S0RFcTdKaEE4ZzdhcEdyVDhFaG5ZSVVERzhHaFJ4QW41dnZsOUU5bUNqTUJnTDFkZXBNVDNZeWJXeDNyc0tNTU0zK2ZyVWFLTE1WeUFDa1UyWStIcWhHeFk9",
+      "www.zupimages.net/up/24/02/4ki9.png",
+      "http://superkoran.info/VS9jdlR2SnpXV2NEV2hmR1lGS1BOZVdabjVlRkNFMWg3T1BuNHR1Q3dsS0ViN0hjd1lqeUo1KzBYVWRweVA0U2VrdGdlV2Z6M3BNUXdpUkJVMzk4VDZFOTBWb3FuRVJENi82NXlyQUMwM3c9",
+      "https://fair-forward1.com/?a=6073&amp;oc=19177&amp;c=51846&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/22/07/os7u.jpg",
+      "https://www.zupimages.net/up/22/07/os7u.jpg",
+      "https://fair-forward1.com/?a=6073&oc=19177&c=51846&m=3&s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1279,
+    "html_length": 8432,
+    "has_text": true,
+    "has_html": true
+  }
+}

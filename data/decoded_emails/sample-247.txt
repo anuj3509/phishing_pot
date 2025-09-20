@@ -1,0 +1,657 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ENC: Our New Year's Gift to you – Norton Secure VPN for just $4.99 for your first year
+From: phishing@pot <phishing@pot>
+To: "phish.me.again@gmail.com" <phish.me.again@gmail.com>
+Date: Mon, 16 Jan 2023 17:04:48 +0000
+Message_Id: 
+ <SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>
+Content_Type: multipart/alternative;
+	boundary="_000_SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19SA0PR04MB7370namp_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_000_SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19SA0PR04MB7370namp_"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, expires
+URLs found:
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig
+  - http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig
+  - https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.]
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&amp;_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&amp;_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&amp;_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870
+  - https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg
+  - http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-darkmode.png
+  - secure.norton.com&gt;
+  - http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png]
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg
+  - secure.norton.com
+  - https://www.norton.com/globalsupport.
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg
+  - https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g
+  - http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-lightmode.png
+  - http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/winback/width-fix-120dpi.png
+
+DECODED TEXT CONTENT:
+------------------------------
+
+________________________________
+De: Norton <norton@secure.norton.com>
+Enviado: sexta-feira, 6 de janeiro de 2023 11:25
+Para: phishing@pot <phishing@pot>
+Assunto: Our New Year's Gift to you – Norton Secure VPN for just $4.99 for your first year
+
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870>
+[Norton™] <https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg>
+[Norton™] <https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg>
+New Year's peace of mind for just $4.99!*
+[http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png]
+Get Norton Secure VPN for $4.99 for the first year* and enjoy the gift of more privacy online for this new year, so you can connect, shop, and play online with more peace of mind.
+
+For customers that use SurfEasy VPN, the app is no longer available in the Google Play store. It is recommended that customers take advantage of this holiday offer for Norton Secure VPN for just $4.99 for your first year.*
+Grab this deal now and get all you love about SurfEasy VPN, plus a lot more:
+•
+Additional features like Kill Switch1, Split Tunneling2 and Compromised Network Detection3
+- Kill Switch1 - When activated, it automatically disconnects your device from the internet if your VPN connection is lost, helping to keep your device and private information private.
+- Split Tunnelling2 - Choose which traffic uses a VPN connection to help keep your sensitive data away from prying eyes
+- Compromised Network Detection3 - Alerts you to secure your connection if you connect to a compromised network
+•
+Support 24x74: Have questions or need help? Member Services & Support is here to help you via phone and online chat.
+$4.99 for your first year on Norton Secure VPN from a leading consumer cybersecurity brand.
+Buy Now<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g>
+*This offer starts on 01/05/2023 and expires on 01/12/2023.
+Automatically renews at $49.99/year after the first year. Terms apply.
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig>                <https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70>                <https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg>                <https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150>
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig>
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70>
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg>
+<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150>
+
+No one can prevent all cybercrime or prevent all identity theft.
+
+1 Not available on Windows in S Mode, Windows running on ARM Processor, and iOS.
+
+2 Not available on Windows in S Mode, Windows running on ARM Processor, Mac and iOS.
+
+3 Android & iOS only
+
+4 English only. See https://www.norton.com/globalsupport.<https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg> for details.
+
+The Norton and LifeLock brands are part of NortonLifeLock Inc.
+
+Copyright © 2023 NortonLifeLock Inc. All rights reserved. NortonLifeLock, the NortonLifeLock Logo, the Checkmark Logo, Norton, LifeLock, and the LockMan Logo are trademarks or registered trademarks of NortonLifeLock Inc. or its affiliates in the United States and other countries. Other names may be trademarks of their respective owners.
+
+NortonLifeLock Inc. | 60 E Rio Salado Pkwy STE 1000, Tempe, AZ 85281
+EmailID: CRM_EMAIL_GLBL_BLST_ACT_EN_VPN_2022_12_SURFEASY
+
+[https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.]
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<style type="text/css" style="display:none;"> P {margin-top:0;margin-bottom:0;} </style>
+</head>
+<body dir="ltr">
+<div class="elementToProof"><span style="font-family: Calibri, Helvetica, sans-serif; font-size: 12pt; color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);"><br>
+</span></div>
+<div id="appendonsend"></div>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>De:</b> Norton &lt;norton@secure.norton.com&gt;<br>
+<b>Enviado:</b> sexta-feira, 6 de janeiro de 2023 11:25<br>
+<b>Para:</b> phishing@pot &lt;phishing@pot&gt;<br>
+<b>Assunto:</b> Our New Year's Gift to you – Norton Secure VPN for just $4.99 for your first year</font>
+<div>&nbsp;</div>
+</div>
+<style type="text/css">
+<!--
+h1, h2, h3, h4, h5, h6
+	{display:block;
+	margin:0;
+	padding:0}
+a img, img
+	{border:0;
+	height:auto;
+	outline:0;
+	text-decoration:none}
+#x_bodyCell, #x_bodyTable, div
+	{font-family:Arial,sans-serif;
+	height:100%;
+	margin:0;
+	padding:0;
+	width:100%}
+div, p
+	{margin:0!important;
+	padding:0!important}
+#x_outlook a
+	{padding:0}
+.x_ExternalClass, .x_ReadMsgBody
+	{width:100%}
+div
+	{}
+img
+	{border:0!important;
+	outline:0!important}
+a, blockquote, div, li, p, table, td
+	{}
+.x_ExternalClass, .x_ExternalClass div, .x_ExternalClass font, .x_ExternalClass p, .x_ExternalClass span, .x_ExternalClass td
+	{line-height:100%}
+a[x-apple-data-detectors]
+	{color:inherit!important;
+	font-family:inherit!important;
+	font-size:inherit!important;
+	font-weight:inherit!important;
+	line-height:inherit!important;
+	text-decoration:none!important}
+.x_overwrite-default-link-style a
+	{color:#E4E4E4!important;
+	text-decoration:none!important}
+.x_overwrite-default-link-style-black a
+	{color:#1A1A1A!important;
+	text-decoration:none!important}
+.x_overwrite-default-link-style-white a
+	{color:#FFFFFF!important;
+	text-decoration:none!important}
+div.x_preheader
+	{display:none!important}
+.x_hide-on-desktop
+	{display:none!important}
+-->
+</style>
+<div class="x_darkmodeBg" style="background-color:#F4F1ED; height:100%; margin:0; min-width:100%; padding:0; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" id="x_bodyTable" role="presentation" width="100%" style="background-color:#FFFFFF; border-collapse:collapse; height:100%; margin:0; padding:0; width:100%">
+<tbody>
+<tr>
+<td align="center" bgcolor="#F4F1ED" class="x_darkmodeBg">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile" role="presentation" width="640">
+<tbody>
+<tr>
+<td class="x_darkmodeBg" bgcolor="#F4F1ED" height="24" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBg" align="center" bgcolor="#F4F1ED">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td height="50" class="x_darkmodeType x_darkmodeBg x_side-padding-20px" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:400; line-height:18px; text-align:center">
+<span style=""><a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&amp;_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870" style="text-decoration:none; color:#1a1a1a"></a></span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" class="x_center" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr align="center" class="x_float-center">
+<td align="center" bgcolor="#F4F1ED" class="x_darkmodeBg">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile x_darkmodeBlack" role="presentation" width="640">
+<tbody>
+<tr>
+<td bgcolor="#FFFFFF" class="x_darkmodeBg" style="font-size:1px; line-height:1px; border-radius:20px">
+<table align="center" bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile x_darkmodeBg" role="presentation" width="640">
+<tbody>
+<tr>
+<td height="80" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px; border-radius:20px">
+<table align="center" bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile x_darkmodeBg" role="presentation" width="640">
+<tbody>
+<tr>
+<td height="30" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px; border-radius:20px 20px 0px 0px">
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="x_light-img" align="center" height="42" width="350">
+<a href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg" target="_blank" style="display:block; text-decoration:none; width:350px"><img class="x_light-img" alt="Norton™" border="0" height="42" width="350" style="color:#FFFFFF; display:block; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:18px; font-weight:700; text-align:center" src="http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-lightmode.png">
+</a></td>
+</tr>
+<tr>
+<td class="x_dark-img x_darkmodeBlack" align="center" height="42" width="350" style="display:none; overflow:hidden; float:left; width:0px; max-height:0px; max-width:0px; line-height:0px; visibility:hidden">
+<a href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg" target="_blank" style="text-decoration:none; width:350px"><img class="x_dark-img x_darkmodeBlack" alt="Norton™" border="0" height="42" width="350" style="color:#FFFFFF; display:none; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:18px; font-weight:700; text-align:center" src="http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-darkmode.png">
+</a></td>
+</tr>
+<tr>
+<td height="20" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" align="center" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_mobile-column-15px" width="20"></td>
+<td class="x_darkmodeType x_darkmodeBlack x_headline" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:30px; font-weight:500; line-height:120%; padding:0px 5px 0px 5px; text-align:center">
+New Year's peace of mind for just $4.99!<sup>*</sup> </td>
+<td class="x_mobile-column-15px" width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="30" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#FFFFFF" class="x_darkmodeBlack"><img class="x_imageSmall" alt="" border="0" height="320" style="color:#1A1A1A; display:block; font-family:Helvetica,Arial,sans-serif,'Inter'; max-width:583px; padding:0px; text-align:center" src="http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png">
+</td>
+</tr>
+<tr>
+<td height="10" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td height="15" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td height="15" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" align="center" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_mobile-column-15px" width="50"></td>
+<td class="x_darkmodeType x_darkmodeBlack" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:400; line-height:24px; text-align:left">
+Get Norton Secure VPN for $4.99 for the first year* and enjoy the gift of more privacy online for this new year, so you can connect, shop, and play online with more peace of mind.
+<br>
+<br>
+For customers that use SurfEasy VPN, the app is no longer available in the Google Play store. It is recommended that customers take advantage of this holiday offer for Norton Secure VPN for just $4.99 for your first year.*
+</td>
+<td class="x_mobile-column-15px" width="50"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" bgcolor="#FFFFFF" height="30" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" align="center" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_mobile-column-15px" width="50"></td>
+<td class="x_darkmodeType x_darkmodeBlack" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:400; line-height:24px; text-align:left">
+Grab this deal now and get all you love about SurfEasy VPN, plus a lot more: </td>
+<td class="x_mobile-column-15px" width="50"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" bgcolor="#FFFFFF" height="24" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="x_td-bgColor--trueBlack_darkMode x_td-color--trueWhite_darkMode">
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="x_table-width--90percent" role="presentation" width="86%">
+<tbody>
+<tr>
+<td>
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" valign="top" width="16" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:600; line-height:24px; padding:0; text-align:left">
+• </td>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:500; letter-spacing:-0.3px; line-height:24px; padding:0; text-align:left">
+Additional features like Kill Switch<sup>1</sup>, Split Tunneling<sup>2</sup> and Compromised Network Detection<sup>3</sup>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" valign="top" width="16" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:600; line-height:24px; padding:0; padding-left:0px; text-align:left">
+</td>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:500; letter-spacing:-0.3px; line-height:24px; padding:0; text-align:left">
+<strong>-</strong> Kill Switch<sup>1</sup> - When activated, it automatically disconnects your device from the internet if your VPN connection is lost, helping to keep your device and private information private.
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" valign="top" width="16" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:600; line-height:24px; padding:0; text-align:left">
+</td>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:500; letter-spacing:-0.3px; line-height:24px; padding:0; text-align:left">
+<strong>-</strong> Split Tunnelling<sup>2</sup> - Choose which traffic uses a VPN connection to help keep your sensitive data away from prying eyes
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" valign="top" width="16" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:600; line-height:24px; padding:0; text-align:left">
+</td>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:500; letter-spacing:-0.3px; line-height:24px; padding:0; text-align:left">
+<strong>-</strong> Compromised Network Detection<sup>3</sup> - Alerts you to secure your connection if you connect to a compromised network
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="12"></td>
+</tr>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" valign="top" width="16" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:600; line-height:24px; padding:0; text-align:left">
+• </td>
+<td valign="top">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_td-color--trueWhite_darkMode" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:500; letter-spacing:-0.3px; line-height:24px; padding:0; text-align:left">
+Support 24x7<sup>4</sup>: Have questions or need help? Member Services &amp; Support is here to help you via phone and online chat.
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" bgcolor="#FFFFFF" height="20" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" align="center" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_mobile-column-15px" width="50"></td>
+<td class="x_darkmodeType x_darkmodeBlack" style="color:#1A1A1A; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:16px; font-weight:400; line-height:24px; text-align:left">
+$4.99 for your first year on Norton Secure VPN from a leading consumer cybersecurity brand.
+</td>
+<td class="x_mobile-column-15px" width="50"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" class="x_darkmodeBlack" bgcolor="#FFFFFF" height="24" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" bgcolor="#FFFFFF" align="center"><a href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g" style="background-color:#feeb29; border:3px solid #242424; border-radius:80px; color:#000000; display:inline-block; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:18px; font-weight:800; line-height:56px; text-align:center; text-decoration:none; padding:0px 23px 0px 23px">Buy
+ Now</a></td>
+</tr>
+<tr>
+<td height="10" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBlack" align="center" bgcolor="#FFFFFF">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_mobile-column-15px" width="20"></td>
+<td class="x_darkmodeBg x_darkmodeType x_side-padding-20px" align="center" style="color:#242424; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; line-height:100%; text-align:center">
+*This offer starts on 01/05/2023 and expires on 01/12/2023. <br>
+Automatically renews at $49.99/year after the first year. Terms apply. </td>
+<td class="x_mobile-column-15px" width="20"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td height="30" bgcolor="#FFFFFF" class="x_darkmodeBlack" style="font-size:1px; line-height:1px; border-radius:0px 0px 20px 20px">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile x_darkmodeBg" role="presentation" width="640">
+<tbody>
+<tr>
+<td class="x_darkmodeBg" bgcolor="#F4F1ED" height="14" style="font-size:1px; line-height:1px">
+</td>
+</tr>
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_side-padding-20px x_darkmodeBg" height="40" valign="middle" width="100%">
+<table bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile x_darkmodeBg" role="presentation" width="100%">
+<tbody>
+<tr>
+<td align="left" class="x_hide-on-mobile" height="40" valign="middle">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+<td class="x_darkmodeType" align="left" height="40" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+<td width="15"></td>
+<td align="left" height="40" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+<td width="15"></td>
+<td align="left" height="40" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+<td width="15"></td>
+<td align="left" height="40" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&amp;_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&amp;_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="">
+<td align="left" class="x_show-on-mobile x_hide-on-desktop" height="20" valign="middle" style="">
+<table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr style="">
+<td class="x_darkmodeType" align="left" height="20" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+</tr>
+<tr style="">
+<td align="left" height="20" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+</tr>
+<tr style="">
+<td align="left" height="20" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+</tr>
+<tr style="">
+<td align="left" height="20" style="color:#E4E4E4; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; font-weight:600">
+<a class="x_darkmodeType" href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&amp;_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&amp;_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150" target="_blank" style="color:#242424; text-decoration:none"></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table bgcolor="#F4F1ED" border="0" cellpadding="0" cellspacing="0" class="x_full-width-on-mobile" role="presentation" width="640">
+<tbody>
+<tr>
+<td class="x_darkmodeBg" align="center" valign="top" style=""><img alt="" border="0" height="1" width="640" style="border:0; display:block; height:auto; margin:0; max-width:640px; outline:none; padding:0; text-decoration:none; width:100%" src="http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/winback/width-fix-120dpi.png">
+</td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td class="x_darkmodeBg" height="15" style="line-height:1px; font-size:1px"></td>
+</tr>
+<tr>
+<td class="x_darkmodeBg x_darkmodeType x_side-padding-20px" align="center" style="color:#242424; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; line-height:140%; text-align:left">
+No one can prevent all cybercrime or prevent all identity theft.<br>
+<br>
+<sup>1</sup> Not available on Windows in S Mode, Windows running on ARM Processor, and iOS.<br>
+<br>
+<sup>2</sup> Not available on Windows in S Mode, Windows running on ARM Processor, Mac and iOS.<br>
+<br>
+<sup>3</sup> Android &amp; iOS only<br>
+<br>
+<sup>4</sup> English only. See <a href="https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg" style="font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:12px; line-height:110%; color:#242424; text-decoration:underline; text-align:left">
+https://www.norton.com/globalsupport.</a> for details. <br>
+<br>
+The Norton and LifeLock brands are part of NortonLifeLock Inc.<br>
+<br>
+Copyright © 2023 NortonLifeLock Inc. All rights reserved. NortonLifeLock, the NortonLifeLock Logo, the Checkmark Logo, Norton, LifeLock, and the LockMan Logo are trademarks or registered trademarks of NortonLifeLock Inc. or its affiliates in the United States
+ and other countries. Other names may be trademarks of their respective owners. <br>
+<br>
+NortonLifeLock Inc. | 60 E Rio Salado Pkwy STE 1000, Tempe, AZ 85281 </td>
+</tr>
+<tr>
+</tr>
+<tr>
+<td class="x_darkmodeBg" height="15" style="line-height:1px; font-size:1px"></td>
+</tr>
+<tr>
+<td class="x_side-padding-20px x_darkmodeBg" align="left" height="40" valign="left" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+<tbody>
+<tr>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBg" height="15" style="line-height:1px; font-size:1px"></td>
+</tr>
+<tr>
+<td class="x_darkmodeBg">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+<tbody>
+<tr>
+<td class="x_darkmodeBg x_darkmodeType x_side-padding-20px" align="center" style="color:#242424; font-family:Helvetica,Arial,sans-serif,'Inter'; font-size:10px; line-height:140%; text-align:left">
+EmailID: CRM_EMAIL_GLBL_BLST_ACT_EN_VPN_2022_12_SURFEASY </td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="x_darkmodeBg" height="41.5" style="line-height:1px; font-size:1px"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table cellpadding="0" cellspacing="0" style="border:0px; padding:0px; margin:0px; display:none; float:left">
+<tbody>
+<tr>
+<td height="1" style="font-size:1px; line-height:1px; padding:0px"><br>
+<img src="https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.">
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+

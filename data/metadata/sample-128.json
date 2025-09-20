@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Sign in to ✅ GET 0.44 BTC - CLICK HERE",
+    "from": "noreply@project-v2u223afs.firebaseapp.com",
+    "to": "phishing@pot",
+    "date": "Sat, 26 Nov 2022 13:51:40 +0000",
+    "message_id": "<0000000000000b5eee05ee5ff000@google.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000000b5ee505ee5ff0fd\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000000b5ee505ee5ff0fd\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://1vqajmoh3n.page.link?link=https://project-v2u223afs.firebaseapp.com/__/auth/action?apiKey%3DAIzaSyDKXhhVvAqMQPEROgv4kC5KnsuBVyZDAHw%26mode%3DsignIn%26oobCode%3DT_E7COIF35Ktc2l8jDnwwAKhCO-X66XXh-4D9Sb3WecAAAGEtDVBUw%26continueUrl%3Dhttps://1vqajmoh3n.page.link/n3UL%26lang%3Den&amp;apn=com.example.android&amp;amv&amp;ibi=com.example.ios&amp;ifl=https://project-v2u223afs.firebaseapp.com/__/auth/action?apiKey%3DAIzaSyDKXhhVvAqMQPEROgv4kC5KnsuBVyZDAHw%26mode%3DsignIn%26oobCode%3DT_E7COIF35Ktc2l8jDnwwAKhCO-X66XXh-4D9Sb3WecAAAGEtDVBUw%26continueUrl%3Dhttps://1vqajmoh3n.page.link/n3UL%26lang%3Den",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 354,
+    "html_length": 1065,
+    "has_text": true,
+    "has_html": true
+  }
+}

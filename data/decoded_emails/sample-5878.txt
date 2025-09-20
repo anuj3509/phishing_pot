@@ -1,0 +1,65 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Norton Order Confirmation For Order #NP00X01062020
+From: E-Receipt Notice <189.152.152.123.peyja@neo.karenphillips.com>
+To: noreply_emails01062002520@bill.norton-us.com
+Date: Wed, 20 Aug 2025 01:06:47 +0700
+Message_Id: <CAABL=kkOdgd2qMioVe7FMDZYcnbVsfVy05pN-N7KHqVg8O5ZnQ@mail.gmail.com>
+Content_Type: multipart/mixed; boundary="0000000000002176f4063cbbb9d5"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="0000000000002176f4063cbbb9d5"
+
+ATTACHMENTS:
+--------------------
+- Billing-Details#NP0045698791324.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document, 28635 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+
+DECODED TEXT CONTENT:
+------------------------------
+Hello,
+
+This invoice confirms the renewal of your Norton Ultimate Plus (1 Year)
+subscription. Your payment has been processed successfully, and your
+account is now active with full protection. Please keep this receipt for
+your financial records.
+
+Order details:
+Receipt Number: NP00X01062020
+Plan: Norton Ultimate Plus – 12 Months
+Total Paid: $299.00
+Invoice Date: Tuesday, 19 August 2025
+
+If you have any questions about this invoice or wish to request a refund,
+please contact our Billing Department at +1 818-282-0908 within 24 hours.
+
+We appreciate your continued trust in Norton.
+
+Sincerely,
+Norton Renewal Services
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr"><div>Hello,</div>
+<br>
+<div>This invoice confirms the renewal of your Norton Ultimate Plus (1 Year) subscription. Your payment has been processed successfully, and your account is now active with full protection. Please keep this receipt for your financial records.</div>
+<br>
+<div>Order details:</div>
+<div>Receipt Number: NP00X01062020<br>Plan: Norton Ultimate Plus – 12 Months<br>Total Paid: $299.00<br>Invoice Date: Tuesday, 19 August 2025</div>
+<br>
+<div>If you have any questions about this invoice or wish to request a refund, please contact our Billing Department at <span style="color:rgb(0,5,185)">+1 818-282-0908</span> within 24 hours.</div>
+<br>
+<div>We appreciate your continued trust in Norton.</div>
+<br>
+Sincerely,<br>Norton Renewal Services<br></div>
+

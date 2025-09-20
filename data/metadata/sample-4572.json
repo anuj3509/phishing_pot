@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Sua carteira de motorista esta prestes a ser suspensa. Protocolo:3384495542",
+    "from": "CNH Suspensa <cnhbloqueada@%suspender.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Dec 2024 18:48:00 +0000 (UTC)",
+    "message_id": "<20241218184800.898F8E3@pxypolllAURLAIN.com.br>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://hotm.art/uWEwX0Kr",
+      "Gov.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 394,
+    "html_length": 2000,
+    "has_text": true,
+    "has_html": true
+  }
+}

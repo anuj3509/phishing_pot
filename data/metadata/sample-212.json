@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Confirm Your MetaMask Wallet",
+    "from": "MetaMask <support@mail.southbeachre.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Dec 2022 03:14:46 +0000",
+    "message_id": "<011fae0ec7a15a4e2ffb8c3b1d234b29@mail.southbeachre.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_011fae0ec7a15a4e2ffb8c3b1d234b29\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_011fae0ec7a15a4e2ffb8c3b1d234b29\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://metamask.io/wallet-verification=45181285156c45e305ca87a65ab9107a1eca7e00",
+      "https://i.postimg.cc/gkvkJpn8/1-VOvyk9sup-NZQq1qd-Xgm-Q4-Q.png",
+      "below.https://metamask.io/wallet-verification=45181285156c45e305ca87a65ab9107a1eca7e00",
+      "2023.What",
+      "https://geni.us/ECAZt8"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 599,
+    "html_length": 3184,
+    "has_text": true,
+    "has_html": true
+  }
+}

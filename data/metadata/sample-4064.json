@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscaliza����o  Protocolo:1564681839",
+    "from": "Correios Notificacao <correiosaviso@%alfandega.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Sep 2024 00:03:48 +0000 (UTC)",
+    "message_id": "<20240916000348.DE80D1FC89@server-p4yb0j-8ilap6-kyz4g5>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://correios.correiosbr-taxas.co.ua/two?atendimento=7944871632",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 360,
+    "html_length": 1486,
+    "has_text": true,
+    "has_html": true
+  }
+}

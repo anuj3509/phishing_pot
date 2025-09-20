@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "[Alert]: Your wallet access is temporarily Suspended !",
+    "from": "\"Metamask.io\" <no-reply@cobranet.ng>",
+    "to": "Recipients <no-reply@cobranet.ng>",
+    "date": "Fri, 06 Sep 2024 06:20:15 +0200",
+    "message_id": "\r\n <34fc04a6-016b-4d14-a2b1-1308a6825cc9@AMS0EPF00000197.eurprd05.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1680087154==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1680087154==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?hl=en-GB&amp;q=https://google.com/&amp;source=gmail&amp;ust=1725673584899000&amp;usg=AOvVaw2d9wQGMkVOw8pBJ9njs7-d",
+      "https://www-metmask.mielke-service.de/ca/uk/io/",
+      "https://www.google.com/url?hl=en-GB&amp;q=https://samim.fanlink.tv/9KWP&amp;source=gmail&amp;ust=1725673584899000&amp;usg=AOvVaw1F1SWQkfBJ_3ZtAIFT6Ben",
+      "https://google.com/",
+      "https://cdn.dribbble.com/users/2574702/screenshots/6702374/metamask.gif"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 637,
+    "html_length": 17706,
+    "has_text": true,
+    "has_html": true
+  }
+}

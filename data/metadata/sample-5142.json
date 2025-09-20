@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "𝖬𝗂𝗍 ♥️ 𝗌𝖼𝗁𝖾𝗇𝗄𝖾𝗇: 𝖨𝗁𝗋 𝗄𝗈𝗌𝗍𝖾𝗇𝗅𝗈𝗌𝖾𝗋 500€ 𝖤𝖣𝖤𝖪𝖠 𝖦𝗎𝗍𝗌𝖼𝗁𝖾𝗂𝗇",
+    "from": "EDEKA <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 27 Mar 2025 01:42:09 -0400",
+    "message_id": "<PC8fHNc.0.0.PC8fHNc.9.PC8fHNc@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://blog.dury.agency/ZFZtSnVXK09BRmFVWWJsRGN4WXo1cVVMSGo3TEZTd2J5YjdoVWNGaXJWcWdiTFU3VllTZVVCZk9jZmJZT0tKL2hUU2JYOU5VYzVvODMzaGt5R3BMdXc9PQ__",
+      "https://www.zupimages.net/up/24/51/rzrp.png",
+      "www.zupimages.net/up/24/51/rzrp.png",
+      "http://blog.dury.agency/MWZlbGwwWktHZkU5VURXd3IrWHZrVUFINEhveGxCTjg5UHkwN0RpazBGelNNMHNJaGM1bVBOdVF3TnVPanA1VEdFMFYrVUgxNkphL2J4UXRwbnFuOGc9PQ__",
+      "http://blog.dury.agency/UWRDWVN1SzNUSWxFZmN3blNsQTJCM1ovZlVxKzJtSkFHUm4zcUJsekJKbzMyWkJyQWh2UUdGT01KSXRUQnFFL01WYUQzNTB5aXQrREVVTFJ0RzZKemgzN0RFTlh6ck5DeGZtSDNmb25tcEU9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1576,
+    "html_length": 3993,
+    "has_text": true,
+    "has_html": true
+  }
+}

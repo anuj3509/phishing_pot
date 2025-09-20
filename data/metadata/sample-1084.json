@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Notificação BBInforma - FnEj4oJmgo",
+    "from": "\"Informe BB: Conta bloqueada - Cod.9777800143996613966\" <biltzcarlyon0bw66@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 07 Aug 2023 18:34:39 +0000",
+    "message_id": "<d3dd6fea42964095e0dfafdc06f95d14@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"02f281c1c61758530e700bbf0002b471\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"02f281c1c61758530e700bbf0002b471\""
+  },
+  "attachments": [
+    {
+      "filename": "FPvyMxdD4YT4114.pdf",
+      "content_type": "application/pdf",
+      "size": 113000
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 253,
+    "html_length": 590,
+    "has_text": true,
+    "has_html": true
+  }
+}

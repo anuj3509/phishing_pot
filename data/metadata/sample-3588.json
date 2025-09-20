@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine wichtige Nachricht f��r Sie!",
+    "from": "Nachricht von Lidl, <service@stayfriends.de.>, Nachricht von Lidl,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Aug 2024 03:16:18 -0400",
+    "message_id": "<IyyBQAc.81387.233.RXK@stayfriends.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/31/hup5.png",
+      "https://www.zupimages.net/up/23/41/3mv7.png",
+      "http://hyperdraz.info/MS9POGprREwwWlFSYUEzVUN3U1E5QXJpU29uWjdMVHlBK3hOL3VzOUIreUpQeVRNYlZpVjF3cXgvQ2k1R1Z5eDhPdzdFT1hHd21IUzlZL0UvVjVTb0E9PQ__",
+      "www.zupimages.net/up/23/41/3mv7.png",
+      "https://www.zupimages.net/up/23/31/hup5.png",
+      "http://hyperdraz.info/OElDekQrTHZhcS9qbmQxTkl0S3hGM1NpYS9TalJnRFByNkZKbDBQdjFlMzZGemQzci9XMjBtOFFtUWhSQ0I4NUhSa3ptZ2FSZWRCa0s1cVdvU1c5cEE9PQ__",
+      "http://hyperdraz.info/NU9TWHFOdGVieHhCbVQ3NGEzN1pVU0NGWE9zZ2dob0Fab1c2SHhXUzR0bVgvMm1YQWhvRlNOTUFxV1RJMjhLcjE2ZE1qOCtlWjE2YlhrdklJY2l5L0E9PQ__",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5193,
+    "html_length": 12559,
+    "has_text": true,
+    "has_html": true
+  }
+}

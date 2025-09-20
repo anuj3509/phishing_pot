@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot, sua conta foi bloqueada temporariamente.",
+    "from": "Banco Do Brasil <notifica@bb.com.br>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Jan 2023 04:19:04 +0000",
+    "message_id": "<8212612e-b453-9963-a093-9778cfa4dd66@bb.com.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://selectra.net.br/sites/selectra.net.br/files/styles/article_hero/public/images/banco-do-brasil-825.png?itok=CuwyfwL7&amp;cc***nome***=***valor***",
+      "https://ii-k4bgzfappq-rj.a.run.app/bb/?tr=00bede35082e47069771e141c2d44964&amp;t1=bb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 631,
+    "html_length": 9849,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Exclusive Survey Reward: Get a Keurig K-Elite Single Serve!!",
+    "from": "Costco Confirmation <noreply@info,boots,com>",
+    "to": "phishing@pot",
+    "date": "Mon, 21 Apr 2025 20:55:01 +0000",
+    "message_id": "<708911889568820.0.JDJ6051929983@info.boots.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://NYelGpTljrZO1yaKPwHrNYelG.swiftcart.work/4NYelG8658tJXh169sirnhblifs3761PKRNRZWJFBIWKOI56526IZER1213K205",
+      "zupimages.net/up/25/09/v2w6.png",
+      "http://swiftcart.work/track/3NYelG8658tJXh169sirnhblifs3761PKRNRZWJFBIWKOI56526IZER1213K205",
+      "zupimages.net/up/23/01/nan2.png",
+      "http://NYelGpTljrZO1yaKPwHrNYelGpTljrZO1yaKPwHrNYelG.swiftcart.work/6NYelG8658tJXh169sirnhblifs3761PKRNRZWJFBIWKOI56526IZER1213K205",
+      "mail2.png",
+      "http://swiftcart.work/4NYelG8658tJXh169sirnhblifs3761PKRNRZWJFBIWKOI56526IZER1213K205",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2329,
+    "html_length": 5751,
+    "has_text": true,
+    "has_html": true
+  }
+}

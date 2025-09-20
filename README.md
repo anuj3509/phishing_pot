@@ -1,30 +1,86 @@
-Phishing Pot is sponsored by:  _the-street.xyz_, a private forum for cybersecurity, threat intelligence, and cipherpunk culture.
----
-![Phishing Pot](https://github.com/rf-peixoto/phishing_pot/blob/main/img/phishing_pot.png)
+# Phishing Pot
 
-[![rf-peixoto - Phishing Pot](https://img.shields.io/static/v1?label=rf-peixoto&message=PhishingPot&color=yellow&logo=github)](https://github.com/rf-peixoto/phishing_pot)
-[![stars - Phishing Pot](https://img.shields.io/github/stars/rf-peixoto/phishing_pot?style=social)](https://github.com/rf-peixoto/phishing_pot)
-[![forks - Phishing Pot](https://img.shields.io/github/forks/rf-peixoto/phishing_pot?style=social)](https://github.com/rf-peixoto/phishing_pot)
+![Phishing Pot](img/phishing_pot.png)
 
-Phishing Pot is a collection of real phishing samples collected via honey pots. The purpose of this repository is to provide a reliable database for researchers and developers of detection solutions. **Pentesters and Red Teamers: This is not a repository of phishing templates!**
+A collection of real phishing emails with tools to analyze and search them using AI.
 
+## What's This?
 
-## Contribute
+This repository contains thousands of real phishing emails collected from honey pots, plus tools to:
+- Decode and analyze phishing emails
+- Find similar emails using AI
+- Search by headers, content, or patterns
+- Build vector databases for advanced similarity search
 
-You can contribute samples to this repository, however, remember to anonymize the files hiding information that could identify the address of your Honey Pot. All sensitive information should be replaced with ```phishing@pot```. Sometimes the email address is contained within the content, either in the body of the message or in malicious URL arguments. Be sure to check these fields. If the content is encoded in base64, decode it, change the necessary values, re-encode it in base64 (respecting the indentation). You can use the command below to remove the original addresses of all files in a directory:
+## Quick Start
 
+### 1. Process Emails
+```bash
+python3 simple_batch_decoder.py
 ```
+This converts raw email files into readable format with analysis.
+
+### 2. Search Emails (3 ways)
+
+**Simple keyword search:**
+```bash
+python3 simple_rag_retrieval.py
+```
+
+**Header-based search:**
+```bash
+python3 header_similarity_retrieval.py --interactive
+```
+
+**AI-powered similarity search:**
+```bash
+# First setup (requires Voyage API key in .env file)
+python3 simple_chroma_setup.py
+
+# Then search
+python3 query_chroma_db.py --query "urgent account verification"
+```
+
+## Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+For AI search, get a free API key from [Voyage AI](https://www.voyageai.com/) and add it to `.env`:
+```
+VOYAGE_API_KEY=your_key_here
+```
+
+## File Structure
+
+- `email/` - Raw phishing email files (.eml format)
+- `data/` - Processed emails and metadata (created after running decoder)
+- `simple_batch_decoder.py` - Main processing script
+- `simple_rag_retrieval.py` - Basic search
+- `header_similarity_retrieval.py` - Header-based search  
+- `simple_chroma_setup.py` - AI database setup
+- `query_chroma_db.py` - AI-powered search
+
+## Use Cases
+
+- **Security Research**: Analyze phishing patterns and techniques
+- **Detection Development**: Train and test anti-phishing systems
+- **Threat Intelligence**: Identify campaign similarities and trends
+- **Education**: Study real-world phishing examples
+
+## Contributing
+
+Send phishing samples in .eml format. Replace sensitive info with `phishing@pot`:
+
+```bash
 sed -i 's/your@email.com/phishing@pot/' *.eml
 ```
 
-Also, follow the filename convention. You can redirect phishing messages to ``` phish.me.again@gmail.com ``` so that they are indexed too. But please, be a normal human being and send samples in eml format. .msg, .pst or similar files will be rejected.
-___
-### FAQ
+## License
 
-#### An email from my company was cataloged as phishing in this repository.
-* Your website or platform allows users to register any email and there is no validation.
-* Your marketing team is using leaked email lists and sending spam.
-* Your servers are not configured correctly and allow attackers to carry out email spoofing attacks.
-#### Can I integrate this repository into my feeds?
-See ![LICENSE](https://github.com/rf-peixoto/phishing_pot/blob/main/LICENSE)
+See [LICENSE](LICENSE) file.
 
+---
+
+**Note**: This is for research and detection purposes only. Not for creating phishing campaigns.

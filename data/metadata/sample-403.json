@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Humble Bundle password reset request",
+    "from": "\"Humble Bundle\" <noreply@humblebundle.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 25 Feb 2023 05:46:29 +0000",
+    "message_id": "<6A.47.11451.5B0A9F36@mtl-mtsp-mta01-out2>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============8865358267314064993==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============8865358267314064993==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://support.humblebundle.com",
+      "https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6",
+      "http://steamcommunity.com/groups/HumbleBundleOfficial",
+      "https://www.twitter.com/humble",
+      "https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66",
+      "https://support.humblebundle.com/hc/requests/new",
+      "https://www.facebook.com/humblebundle",
+      "https://humble-dev.imgix.net/images/email/bindle-red-v2.png?auto=compress,format&s=9e671e5717da70dccc7028deecb43cbd",
+      "https://www.humblebundle.com/signup",
+      "https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 490,
+    "html_length": 3236,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Stake your XLM for 25% yields",
+    "from": "\"Stellar.org\" <no-reply@merinohermanos.com.co>",
+    "to": "phishing@pot",
+    "date": "Tue, 29 Nov 2022 13:42:38 -0500 (COT)",
+    "message_id": "<1604134820.3811802.1669747358929.JavaMail.zimbra@merinohermanos.com.co>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://assets-global.website-files.com/5dee83171c0040227763490c/5e29ffdf26cb66908d9e8e31_a-look-back-and-a-look-forward-for-2020.png",
+      "https://assets-global.website-files.com/5dee83171c0040227763490c/5df16d8f13f4cced330e587b_stellar-logo-solo-1.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://embouz.com/js/88274f2c9442f5c1e241142eb47ccbc9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3138,
+    "html_length": 8453,
+    "has_text": true,
+    "has_html": true
+  }
+}

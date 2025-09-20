@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "An offer has just been submitted on an item on your listing [0xDa161b]",
+    "from": "OpenSea <noreply@jfp.events>",
+    "to": "phishing@pot",
+    "date": "Fri, 1 Mar 2024 21:49:55 +0000",
+    "message_id": "<010e018dfbfec94a-c0664961-6fd8-453c-9ef1-0d056dcd6939-000000@ap-southeast-1.amazonses.com>",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://google",
+      "https://fonts.googleapis.com/icon?family=Material",
+      "http://www.sureingenieria.com.ar/sax/ZeroBot.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 315,
+    "html_length": 11044,
+    "has_text": true,
+    "has_html": true
+  }
+}

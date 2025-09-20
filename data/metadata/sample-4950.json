@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Ihr Name wurde f��r ein Parkside 3er-Set ausgew��hlt",
+    "from": "\"Lidl Parkside 3-tlg. Set Gewinner\" <Department-client-n63136@alhayatschool.mail.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 24 Feb 2025 17:54:46 +0000",
+    "message_id": "<3a9bf7fe-9482-43cd-aeb7-d28ecef16631@AM4PEPF00027A6A.eurprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://lmy.de/OcUlR?sJw0SMOMzivLOH4wgi6PvEvG7lmF2ZhsTh6rDTHDpDlHbh9GbbpWmeTkIhtPQvevjmflf1T7LEbIL8hH2pCukB",
+      "https://i.imghippo.com/files/Agqu8716jxw.png",
+      "stock.wikimini.org/w/images/0/08/1200px-Lidl_Logo.png",
+      "i.imghippo.com/files/Agqu8716jxw.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/Qscc0NG.jpeg",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://stock.wikimini.org/w/images/0/08/1200px-Lidl_Logo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7182,
+    "html_length": 22289,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "NitroWall With Fast i7 CPU, WiFi 5, OpenWrt",
+    "from": "\"Nitrokey\" <noreply@nitrokey.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 29 Mar 2023 14:46:08 -0000",
+    "message_id": "<878808233339541.1680101137.640817642211914-openerp-reply_to@408e0dce3492>",
+    "content_type": "multipart/mixed; boundary=\"===============8988164083616024477==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============8988164083616024477==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://twitter.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/newsletter.png",
+      "https://www.facebook.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/facebook.png",
+      "https://shop.nitrokey.com/web/image/343295/NK-Nitrowall-4b-cut.jpg?access_token=2141e3df-79a4-42db-914a-5af2a7f6c2af",
+      "https://shop.nitrokey.com/shop/product/nitrowall-nw678-480",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo_with_background.png",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/twitter.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo.png",
+      "https://shop.nitrokey.com/mail/track/368168/blank.gif?db=odoo",
+      "https://shop.nitrokey.com/unsubscribe_from_list",
+      "https://nitrokey.com/newsletter",
+      "https://www.nitrokey.com/",
+      "nitrokey.com",
+      "https://shop.nitrokey.com/mail/mailing/65/unsubscribe?db=odoo&amp;res_id=75073&amp;email=rodrigo-f-p%40hotmail.com&amp;token=b9c649d25b938ee7e53c3ec589a825724aeae6e0002ffa0e7e6c1bbcd728e93a424408f0d5bf32ab4f0fc15216739beec0667027d755705a36580f9d590fb050"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3328,
+    "html_length": 17512,
+    "has_text": true,
+    "has_html": true
+  }
+}

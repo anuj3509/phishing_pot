@@ -1,0 +1,91 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Notificaci��n de Citaci��n: Respuesta Necesaria (77541672)
+From: Marisol Lopez <ejecucionfiscal@vps-f44897b3.vps.ovh.ca>
+To: phishing@pot
+Date: Tue, 20 Aug 2024 09:36:58 +0000 (UTC)
+Message_Id: <20240820093658.0B2BE9564E@vps-56e061e0.vps.ovh.net>
+Content_Type: multipart/mixed; boundary="5cfebc1988d1c4810124127ea17a1807"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/mixed; boundary="5cfebc1988d1c4810124127ea17a1807"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://121.227.205.92.host.secureserver.net/?XtUlsqyiQP=YVfPDcm9kcmlnby1mLXBAaG90bWFpbC5jb20=
+  - https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css
+
+DECODED TEXT CONTENT:
+------------------------------
+Notificación Judicial .banner { background-color: #003366; color: white; padding: 20px; text-align: center; font-size: 24px; font-weight: bold; margin-bottom: 20px; } .btn-download { background-color: #003366; color: white; padding: 15px 25px; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold; text-align: center; display: inline-block; transition: background-color 0.3s ease; margin: 20px 0; } .btn-download:hover { background-color: #002244; } body { font-family: 'Helvetica Neue', Arial, sans-serif; margin: 20px; line-height: 1.8; color: #212529; } p { margin-bottom: 20px; } Notificación Judicial Estimado(a)&nbsp;Hoy 20/08/2024 , Me llamo Rosario Castellanos y soy Asistente de Operaciones del Departamento Jurídico del Instituto Federal de Justicia. Nos ponemos en contacto con usted ya que hasta el momento no hemos recibido una respuesta a la notificación judicial enviada anteriormente. Para evitar cualquier penalización por retrasos en el proceso, solicitamos que revise el archivo adjunto. Este documento contiene información detallada sobre el proceso y es esencial que nos envíe su respuesta para dar seguimiento al caso. Número del Proceso: 51544654566MP Fecha de la Notificación: 20/08/2024 Descargar Notificación Judicial Estamos a su disposición para cualquier pregunta o asistencia adicional que pueda necesitar. Atentamente, Rosario Castellanos Asistente de Operaciones Instituto Federal de Justicia
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Notificación Judicial</title>
+    
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .banner {
+            background-color: #003366;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        .btn-download {
+            background-color: #003366;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+            text-align: center;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+            margin: 20px 0;
+        }
+        .btn-download:hover {
+            background-color: #002244;
+        }
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.8;
+            color: #212529;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="banner">Notificación Judicial</div>
+    <p><b></b></p>
+    <p>Estimado(a)&nbsp;Hoy 20/08/2024 </b>,</p>
+    <p>Me llamo <strong>Rosario Castellanos</strong> y soy Asistente de Operaciones del Departamento Jurídico del Instituto Federal de Justicia.</p>
+    <p>Nos ponemos en contacto con usted ya que hasta el momento no hemos recibido una respuesta a la notificación judicial enviada anteriormente.</p>
+    <p>Para evitar cualquier penalización por retrasos en el proceso, solicitamos que revise el archivo adjunto. Este documento contiene información detallada sobre el proceso y es esencial que nos envíe su respuesta para dar seguimiento al caso.</p>
+    <p>Número del Proceso: <strong>51544654566MP</strong></p>
+    <p>Fecha de la Notificación: <strong>20/08/2024</strong></p>
+    <a href="http://121.227.205.92.host.secureserver.net/?XtUlsqyiQP=YVfPDcm9kcmlnby1mLXBAaG90bWFpbC5jb20=" class="btn-download">Descargar Notificación Judicial</a>
+    <p>Estamos a su disposición para cualquier pregunta o asistencia adicional que pueda necesitar.</p>
+    <p>Atentamente,</p>
+    <p><b>Rosario Castellanos</b><br>
+    <i>Asistente de Operaciones</i><br>
+    <i>Instituto Federal de Justicia</i></p>
+</body>
+</html>
+
+
+

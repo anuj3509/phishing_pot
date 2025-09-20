@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Norton Order Confirmation for Order #NP09312186721",
+    "from": "E-Receipt Confirmation <w3.premium@w3.fusionenergycanada.ca>",
+    "to": "no-reply09312121-emails@immanuelschool.ca",
+    "date": "Thu, 10 Apr 2025 21:33:28 +0700",
+    "message_id": "<CAHJMTreimQj6dm2aXCNiGdo-wFDt7Jd_Nt3sc7cTMusya1e+ig@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000e2153506326d783d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000e2153506326d783d\""
+  },
+  "attachments": [
+    {
+      "filename": "INVTRXID351627453.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 15273
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 691,
+    "html_length": 1240,
+    "has_text": true,
+    "has_html": true
+  }
+}

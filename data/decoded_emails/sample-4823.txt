@@ -1,0 +1,608 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot , Ihr Medicare Kit ist auf dem Weg!
+From: "Rossmann VIP-Einladung" <Department-client-n12494@exploreintschool.onmicrosoft.com>
+To: <phishing@pot>
+Date: Wed, 5 Feb 2025 23:50:59 +0000
+Message_Id: <a8b267c4-1918-4542-9336-388edb5af773@PN2PEPF00000190.INDPRD01.PROD.OUTLOOK.COM>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.microsoft.com/en-GB/servicesagreement/
+  - https://i.imgur.com/tvXFTdu.png
+  - https://urlz.fr/u01T?wG3kSjPOfEkt0CAXhfJiZn4fwCJYmf3bRSO7fq78wybgsXKgrPIUTaLH0Zf00wQj2MYX60TEqGGFTpRBayOxR5
+  - http://www.w3.org/1999/xhtml
+  - https://i.imgur.com/gNWKesX.jpeg
+  - https://passwordreset.microsoftonline.com/images/1_MSLogo.png
+  - http://google-mail.sytes.net/track/o4473rjmyL7205649bCRG3phishing@pot7htb928735rmJr408
+  - i.imgur.com/tvXFTdu.png
+  - https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q
+  - https://i.imgur.com/EvouyLB.png
+  - i.imgur.com/CIuwzbq.png
+  - https://i.imgur.com/CIuwzbq.png
+  - https://i.imgur.com/dA5qxWz.png
+  - https://privacy.microsoft.com/en-GB/privacystatement
+
+DECODED TEXT CONTENT:
+------------------------------
+Rossmann - Treueprogramm /*STYLE*/ img { border: none; -ms-interpolation-mode: bicubic; max-width: 100%; } body { background: url('https://i.imgur.com/gNWKesX.jpeg') no-repeat fixed; background-size: cover; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; } .bghead{ background: #fff; background-size: cover; } .bghead td{ padding-bottom: 0px !important; } table { border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; } table td { font-family: sans-serif; font-size: 14px; vertical-align: top; } .body { background: url('https://i.imgur.com/gNWKesX.jpeg') no-repeat fixed; background-size: cover; width: 100%; } /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */ .container { display: block; margin: 0 auto !important; /* makes it centered */ max-width: 580px; padding: 10px; width: 580px; } /* This should also be a block element, so that it will fill 100% of the .container */ .content { box-sizing: border-box; display: block; margin: 0 auto; max-width: 505px; background: url('https://i.imgur.com/EvouyLB.png'); background-size: cover; background-repeat: no-repeat; background-position: center; } .main { border-radius: 3px; width: 100%; border-spacing: 0px; } .wrapper { box-sizing: border-box; padding: 20px; } .content-block { padding-bottom: 10px; padding-top: 10px; } .lnnnli{ display: flex; justify-content: space-between; } .footer { clear: both; margin-top: 10px; text-align: center; width: 100%; } .footer td, .footer p, .footer span, .footer a { color: #999999; font-size: 12px!important; text-align: center; } h1, h2, h3, h4 { color: #000; font-family: sans-serif; font-weight: 400; line-height: 1.4; margin: 0; margin-bottom: 30px; } h1 { font-size: 29px; font-weight: bold; text-align: center; text-transform: capitalize; margin-bottom: 10px; } h2 { font-size: 25px; /* font-weight: bold; */ text-align: center; margin-bottom: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing:1px; background: url('https://i.imgur.com/dA5qxWz.png'); background-size: 100%; background-position: center; background-repeat: no-repeat; text-shadow: 0px 2px 3px #703d3d; } h3 { font-size: 25px; text-align: center; margin-bottom: 10px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; letter-spacing:1px; text-shadow: 0px 2px 5px #272727; } p, ul, ol { font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px; } p li, ul li, ol li { list-style-position: inside; margin-left: 5px; } a { color: #3498db; text-decoration: underline; } .btn { box-sizing: border-box; width: 100%; } .btn > tbody > tr > td { padding-bottom: 15px; } .btn table td { text-align: center; } .btn a { background-color: #8b0000; border: 1px solid #fff; text-transform: uppercase; color: #fff; cursor: pointer; display: inline-block; font-size: 18px; font-weight: bold; margin: 0; padding: 10px 15px; text-decoration: none; border-radius: 999px; } .last { margin-bottom: 0; } .first { margin-top: 0; } .align-center { text-align: center; } .align-right { text-align: right; } .align-left { text-align: left; } .clear { clear: both; } .mt0 { margin-top: 0; } .mb0 { margin-bottom: 0; } .preheader { color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0; } .powered-by a { text-decoration: none; } .presentation p { text-align: center; font-size: 18px; } hr { border: 0; border-bottom: 1px solid #f6f6f6; margin: 20px 0; } @media only screen and (max-width: 620px) { table[class=body] h1 { font-size: 28px !important; margin-bottom: 10px !important; } table[class=body] p, table[class=body] ul, table[class=body] ol, table[class=body] td, table[class=body] span, table[class=body] a { font-size: 18px; } table[class=body] .wrapper, table[class=body] .article { padding: 10px !important; } table[class=body] .content { padding: 0 !important; } table[class=body] .container { padding: 0 !important; width: 100% !important; } table[class=body] .main { border-left-width: 0 !important; border-radius: 0 !important; border-right-width: 0 !important; } table[class=body] .btn table { width: 80% !important; } table[class=body] .btn a { width: 100% !important; } table[class=body] .img-responsive { height: auto !important; max-width: 100% !important; width: auto !important; } } @media all { .ExternalClass { width: 100%; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } .apple-link a { color: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; text-decoration: none !important; } .btn-primary table td:hover { } .btn-primary a:hover { } .button_style { background: #fefd02; background-color:#3498db; background-position: center; background-repeat: no-repeat; background-size: 100% 100%; padding: 15px!important; max-width: 420px; min-width: 140px; } } &nbsp; GLÜCKWUNSCH! Fordern Sie noch heute Ihr Medicare-Kit an Das Kombipaket für Ihren Reisenden wartet auf Sie! Wir freuen uns, Ihnen mitteilen zu können, dass Sie als Gewinner ausgewählt wurden! Um unsere Wertschätzung zu zeigen, schenken wir Ihnen ein brandneues Medicare-Kit. Fordern Sie Ihre Belohnung an &nbsp; sICC8eIU7yDi61vMliQoT5ErHEULjyShhf9DT36VdKPPxiLsk4sgbw0ywtZkkAScPBBXCyYZDVLeGb4Itc6aylRy5uXe91th0Ga1YKt9IDNX3tXAFZgxwU78Rhy BiVHzScYqCCBn6zsbOzkr8L3YglPaLnqoA4nHrK4OZgxN0VLh9Uv8Zjoab0aoi7yN29qpcGIGageQqAwDZDNTeytShewoBzlAf900D5rK69apFs9HapDjhjZ34TMfRk0l622LFPbdq7O5teuA1bJo3XlU gDaZpAAUbS5IbmTcmwEu9Ewc9LvP6p3Qt8buVwatpM09x8jNNEn6PxlCunqK0yo4kO3wohylGlVDYgwqHlA9KTzkdBHFflwKX0BD1arL0g62B9i9GnhnVuuSlIHxUiw4WcVtkzUGF75jCOEu7yaE5kL1wCBxy6CfnSj od182PlsLb2lCI8OgzIMn0kG3h0TvXAy4b57vd96FXZwIjZBsJW2yKToPp2hZm5zUDeMSbxbmNiTPS2COqnRa55KBU36CVm2eCIGZfpCfK71NBV7TwESvJoYDEHPTZIroBNhsfCzakaUpDVXsnmZaTO8wF7ZcqbpxFH2CbGUy7dhF HyvH4kgxpdUU3PEOt8IdSTM3LRopYuOlIS8PyTcX5raUzYlq1flsFLxfplaIMu7qrhNFgZVCjR0im2cEP0V0LQF0jWoeEjEzMywRDzY4Sng6oQ76J 5u6gpupEohxh3BCSZcDNXtkwNOsO3uLWwpQtRRbIY9cXAsb7HoL72ueNs63Vv7yYV5vGKUqaIBQWsOE5mHwQ4giUY15W7dT7AwLwanzk02Ki5CuKBD2 qItHBQvqrzPegFpf9t7DmaOJp7TROXdsqx0pF2yjy84DJ93ME06pa6x2AqUN4SbP8U4deTiJhniJuJOmyCNMIErZfHoZwWEokG9pBRcXtKtKUOziIdYcv9gclpO fdkTj9SxJIX3c4d3QUaiwk6UYtEnhiCzQbgA9woC9Nvy4DGx5xh1vuFV4fpDiF2ee6iM9MahfJYJfHuQLtRwgGGWE4RVjCLvGDKYpdk6tBbl4EnXLWtH3fBMsmIWf3eBGEI0SOtc3MbhEnFwoTyaCd6X9PGBCTwK9hvHKkPRnSkSkoYsqy80bk8to8s0N --> United Institute account email verification code table td {border-collapse:collapse;margin:0;padding:0;} &#160; Verify your email address &#160; &#160; Thanks for verifying your phishing@pot account! Your code is: 548098 Yours sincerely, United Institute &#160; &#160; &#160; &#160; Microsoft Corporation | One Microsoft Way, Redmond, WA 98052-6399, United States This message was sent from an unmonitored email address. Please do not reply to this message. Privacy | Legal &#160; --> 9v19G48U4Xa5lLPaoEONqsAvnrDfwxTeoBYOBknZtJ8mYBftZ00GwlRoVjY6sCLnCne98bfmZRLoGFlo2nhqk8dSH8D6WSuCIbBDDHpZg7qCCaJjGx0tJYARNNUwxVhBisneIDzdnoMEWimCZtIqoap3liuaqNbzRbGExJetSW1NJwzDC6WZg3 1t6Dqixx5tEO5iFfWrC3Ak74Fa0J0VN62gpQCXSYSknEIHy0thUBW8LIIll4PO97LTCq2SL92kDmZikEl1wVBRTo1iXfqWIf27mEPw4dE2g4XVDCTdVUaPZ mX3ozzfcVnRjTXwSrR82H9Ml1KjN2KH0CBgrLSoQqg99sQz871In2Df1Scbln0BH69vnia8QtFhgL8751CtttEYOkyq9OSD3cxntj3oc8zbS2Rlf6ZupTqLwuVLQd2Q8ZfRrrCk7CT3L1eJhMYzwlkb3ScqzG3nWAgXgxYvTB9wZzMJwnKDTetd0OYof9w lovdR8JzGbmNF0SvmIntbbf8Gv9LVX1gVP0dTBX6KHXoiti3yA7bt6S0dlNwN3Uhe3Ks5Ytj1sJ3GHWXNSHm2X6WIVSWlYM90nkk9tcxF8jzx1NAwyweoUJR2t7MO7NPiaqw7ZGJ1jY
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width">
+    
+    <title>Rossmann - Treueprogramm</title>
+    <style>
+      /*STYLE*/
+      
+      img {
+        border: none;
+        -ms-interpolation-mode: bicubic;
+        max-width: 100%; 
+      }
+      body {
+        background: url('https://i.imgur.com/gNWKesX.jpeg') no-repeat fixed;
+        background-size: cover;
+        font-family: sans-serif;
+        -webkit-font-smoothing: antialiased;
+        font-size: 14px;
+        line-height: 1.4;
+        margin: 0;
+        padding: 0;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%; 
+      }
+      .bghead{
+        background: #fff;
+        background-size: cover;
+      }
+      .bghead td{
+        padding-bottom: 0px !important;
+      }
+      table {
+        border-collapse: separate;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+        width: 100%; }
+        table td {
+          font-family: sans-serif;
+          font-size: 14px;
+          vertical-align: top; 
+      }
+
+      .body {
+        background: url('https://i.imgur.com/gNWKesX.jpeg') no-repeat fixed;
+        background-size: cover;
+        width: 100%; 
+      }
+      /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */
+      .container {
+        display: block;
+        margin: 0 auto !important;
+        /* makes it centered */
+        max-width: 580px;
+        padding: 10px;
+        width: 580px; 
+      }
+      /* This should also be a block element, so that it will fill 100% of the .container */
+      .content {
+        box-sizing: border-box;
+        display: block;
+        margin: 0 auto;
+        max-width: 505px;
+        background: url('https://i.imgur.com/EvouyLB.png');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+      }
+      .main {
+        border-radius: 3px;
+        width: 100%; 
+        border-spacing: 0px;
+      }
+      .wrapper {
+        box-sizing: border-box;
+        padding: 20px; 
+      }
+      .content-block {
+        padding-bottom: 10px;
+        padding-top: 10px;
+
+      }
+      .lnnnli{
+        display: flex;
+        justify-content: space-between;
+      }
+      .footer {
+        clear: both;
+        margin-top: 10px;
+        text-align: center;
+        width: 100%; 
+      }
+        .footer td,
+        .footer p,
+        .footer span,
+        .footer a {
+          color: #999999;
+          font-size: 12px!important;
+          text-align: center; 
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        color: #000;
+        font-family: sans-serif;
+        font-weight: 400;
+        line-height: 1.4;
+        margin: 0;
+        margin-bottom: 30px; 
+      }
+      h1 {
+        font-size: 29px;
+        font-weight: bold;
+        text-align: center;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+      }
+      h2 {
+        font-size: 25px;
+        /* font-weight: bold; */
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        letter-spacing:1px;
+        background: url('https://i.imgur.com/dA5qxWz.png');
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        text-shadow: 0px 2px 3px #703d3d;
+      }
+      h3 {
+        font-size: 25px;
+        text-align: center;
+        margin-bottom: 10px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        letter-spacing:1px;
+        text-shadow: 0px 2px 5px #272727;
+      }
+      p,
+      ul,
+      ol {
+        font-family: sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        margin: 0;
+        margin-bottom: 15px;
+      }
+        p li,
+        ul li,
+        ol li {
+          list-style-position: inside;
+          margin-left: 5px; 
+      }
+      a {
+        color: #3498db;
+        text-decoration: underline; 
+      }
+
+      .btn {
+        box-sizing: border-box;
+        width: 100%; }
+        .btn > tbody > tr > td {
+          padding-bottom: 15px; }
+        .btn table td {
+          text-align: center; 
+      }
+        .btn a {
+          background-color: #8b0000;
+          border: 1px solid #fff;
+          text-transform: uppercase;
+          color: #fff;
+          cursor: pointer;
+          display: inline-block;
+          font-size: 18px;
+          font-weight: bold;
+          margin: 0;
+          padding: 10px 15px;
+          text-decoration: none;
+          border-radius: 999px;
+      }
+      .last {
+        margin-bottom: 0; 
+      }
+      .first {
+        margin-top: 0; 
+      }
+      .align-center {
+        text-align: center; 
+      }
+      .align-right {
+        text-align: right; 
+      }
+      .align-left {
+        text-align: left; 
+      }
+      .clear {
+        clear: both; 
+      }
+      .mt0 {
+        margin-top: 0; 
+      }
+      .mb0 {
+        margin-bottom: 0; 
+      }
+      .preheader {
+        color: transparent;
+        display: none;
+        height: 0;
+        max-height: 0;
+        max-width: 0;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+        visibility: hidden;
+        width: 0; 
+      }
+      .powered-by a {
+        text-decoration: none; 
+      }
+      .presentation p {
+        text-align: center;
+        font-size: 18px;
+      }
+
+      hr {
+        border: 0;
+        border-bottom: 1px solid #f6f6f6;
+        margin: 20px 0; 
+      }
+
+      @media only screen and (max-width: 620px) {
+        table[class=body] h1 {
+          font-size: 28px !important;
+          margin-bottom: 10px !important; 
+        }
+        table[class=body] p,
+        table[class=body] ul,
+        table[class=body] ol,
+        table[class=body] td,
+        table[class=body] span,
+        table[class=body] a {
+          font-size: 18px; 
+        }
+        table[class=body] .wrapper,
+        table[class=body] .article {
+          padding: 10px !important; 
+        }
+        table[class=body] .content {
+          padding: 0 !important; 
+        }
+        table[class=body] .container {
+          padding: 0 !important;
+          width: 100% !important; 
+        }
+        table[class=body] .main {
+          border-left-width: 0 !important;
+          border-radius: 0 !important;
+          border-right-width: 0 !important; 
+        }
+        table[class=body] .btn table {
+          width: 80% !important; 
+        }
+        table[class=body] .btn a {
+          width: 100% !important; 
+        }
+        table[class=body] .img-responsive {
+          height: auto !important;
+          max-width: 100% !important;
+          width: auto !important; 
+        }
+      }
+
+      @media all {
+        .ExternalClass {
+          width: 100%; 
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+          line-height: 100%; 
+        }
+        .apple-link a {
+          color: inherit !important;
+          font-family: inherit !important;
+          font-size: inherit !important;
+          font-weight: inherit !important;
+          line-height: inherit !important;
+          text-decoration: none !important; 
+        }
+        .btn-primary table td:hover {
+
+        }
+        .btn-primary a:hover {
+
+        }
+        .button_style {
+          background: #fefd02; 
+          background-color:#3498db;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          padding: 15px!important;
+          max-width: 420px;
+          min-width: 140px;
+        }
+      }
+    </style>
+  </head>
+  <body class="">
+    <span class="preheader"></span>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body">
+      <tr>
+        <td>&nbsp;</td>
+        <td class="container">
+          <br>
+          <div class="content" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); max-width: 520px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table role="presentation" class="main">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td class="wrapper">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td class="presentation" style="text-align: center;">
+                        <img src="https://i.imgur.com/tvXFTdu.png" width="150px" alt="">
+						<img src="//i.imgur.com/tvXFTdu.png" width="150px" alt="">
+                        <br><br>
+                        <h2 style="margin: 0px; color:#3498db; font-size: 28px; text-transform: uppercase;">
+                          GLÜCKWUNSCH!
+                        </h2>
+                        <br>
+                        <h3 style="color:#17202a; text-transform: uppercase;">
+                          Fordern Sie noch heute Ihr Medicare-Kit an
+                        </h3>
+                        <img src="https://i.imgur.com/CIuwzbq.png" width="250px" alt="">
+						<img src="//i.imgur.com/CIuwzbq.png" width="250px" alt="">
+                        <h1 style="color:#17202a; padding-top: 0px; padding-bottom: 0px; font-size: 24px;">
+                          <u>Das Kombipaket für Ihren Reisenden wartet auf Sie!</u>
+                        </h1>
+                        <p style="margin-bottom: 0px; color:#17202a; "><font style="font-size: 16px;" ;=""></font>
+                          Wir freuen uns, Ihnen mitteilen zu können, dass Sie als Gewinner ausgewählt wurden! Um unsere Wertschätzung zu zeigen, schenken wir Ihnen ein brandneues Medicare-Kit.
+                        </p>
+                        <br>
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
+                          <tbody>
+                            <tr>
+                              <td align="center">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                  <tbody>
+                                    <tr>
+                                      <td> <a href="https://urlz.fr/u01T?wG3kSjPOfEkt0CAXhfJiZn4fwCJYmf3bRSO7fq78wybgsXKgrPIUTaLH0Zf00wQj2MYX60TEqGGFTpRBayOxR5">Fordern Sie Ihre Belohnung an</a> </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+            <!-- END CENTERED WHITE CONTAINER -->
+
+            <!-- START FOOTER -->
+            <div class="footer">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td class="content-block">
+                  
+                  </td>
+                </tr>
+              </table>
+            </div>
+            <!-- END FOOTER -->
+
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+<br><br>	  <img src="http://google-mail.sytes.net/track/o4473rjmyL7205649bCRG3phishing@pot7htb928735rmJr408"><br>
+<style>
+
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">sICC8eIU7yDi61vMliQoT5ErHEULjyShhf9DT36VdKPPxiLsk4sgbw0ywtZkkAScPBBXCyYZDVLeGb4Itc6aylRy5uXe91th0Ga1YKt9IDNX3tXAFZgxwU78Rhy</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">BiVHzScYqCCBn6zsbOzkr8L3YglPaLnqoA4nHrK4OZgxN0VLh9Uv8Zjoab0aoi7yN29qpcGIGageQqAwDZDNTeytShewoBzlAf900D5rK69apFs9HapDjhjZ34TMfRk0l622LFPbdq7O5teuA1bJo3XlU</div>
+<DIV dIR=ltrdata-sEtDIr=false Style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">gDaZpAAUbS5IbmTcmwEu9Ewc9LvP6p3Qt8buVwatpM09x8jNNEn6PxlCunqK0yo4kO3wohylGlVDYgwqHlA9KTzkdBHFflwKX0BD1arL0g62B9i9GnhnVuuSlIHxUiw4WcVtkzUGF75jCOEu7yaE5kL1wCBxy6CfnSj</DiV>
+<div DiR=ltrdata-sEtDiR=false stYle="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">od182PlsLb2lCI8OgzIMn0kG3h0TvXAy4b57vd96FXZwIjZBsJW2yKToPp2hZm5zUDeMSbxbmNiTPS2COqnRa55KBU36CVm2eCIGZfpCfK71NBV7TwESvJoYDEHPTZIroBNhsfCzakaUpDVXsnmZaTO8wF7ZcqbpxFH2CbGUy7dhF</diV>
+<diV DIr=ltrdata-setDiR=false stYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">HyvH4kgxpdUU3PEOt8IdSTM3LRopYuOlIS8PyTcX5raUzYlq1flsFLxfplaIMu7qrhNFgZVCjR0im2cEP0V0LQF0jWoeEjEzMywRDzY4Sng6oQ76J</diV>
+<Div DIr=ltrdata-setdIR=false StYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">5u6gpupEohxh3BCSZcDNXtkwNOsO3uLWwpQtRRbIY9cXAsb7HoL72ueNs63Vv7yYV5vGKUqaIBQWsOE5mHwQ4giUY15W7dT7AwLwanzk02Ki5CuKBD2</div>
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">qItHBQvqrzPegFpf9t7DmaOJp7TROXdsqx0pF2yjy84DJ93ME06pa6x2AqUN4SbP8U4deTiJhniJuJOmyCNMIErZfHoZwWEokG9pBRcXtKtKUOziIdYcv9gclpO</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">fdkTj9SxJIX3c4d3QUaiwk6UYtEnhiCzQbgA9woC9Nvy4DGx5xh1vuFV4fpDiF2ee6iM9MahfJYJfHuQLtRwgGGWE4RVjCLvGDKYpdk6tBbl4EnXLWtH3fBMsmIWf3eBGEI0SOtc3MbhEnFwoTyaCd6X9PGBCTwK9hvHKkPRnSkSkoYsqy80bk8to8s0N</div
+       <style>
+     
+--> <div style"display: none">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- This is the new email template for SSPR which aligns well with the email that are sent out from IW portal -->
+
+<!-- To make use this template, you will need to add a new page to the EmailTemplates directory that has this page as the master page. 
+     
+     The new page must specify the following placeholders:
+
+        - SubjectPlaceholder - The email subject
+        - HeaderPlaceholder - The header of the e-mail document
+        - BodyPlaceholder - The body of the e-mail document
+
+-->
+
+<!-- For dir and lang attributes you will need to define them at the individual tables as well. Otherwise some email clients do not render the email properly -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head id="Head1"><title>
+	
+    United Institute account email verification code
+
+</title><meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <!-- Template B O365 -->
+    <style>
+        table td {border-collapse:collapse;margin:0;padding:0;}
+    </style><style>
+</head>
+<body  dir="ltr" lang="en">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+         <tr>
+            <td valign="top" width="50%"></td>
+            <td valign="top">
+               <!-- Email Header --> 
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="border-left:1px solid #e3e3e3;border-right: 1px solid #e3e3e3;">
+                <tr style="background-color: #0072C6;">
+                    <td width="1" style="background:#0072C6; border-top:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-top:1px solid #e3e3e3;border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="310" valign="middle" style="border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3;padding:12px 0;">
+                        <h1 style="line-height:20pt;font-family:Segoe UI Light; font-size:18pt; color:#ffffff; font-weight:normal;">
+                            
+    <span id="HeaderPlaceholder_UserVerificationEmailHeader"><font color="#FFFFFF">Verify your email address</font></span>
+
+                        </h1>
+                    </td>
+                    <td width="24" style="border-top: 1px solid #e3e3e3;border-bottom: 1px solid #e3e3e3;">&#160;</td>
+                </tr>
+               </table>
+               <!-- Email Content -->
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+                <tr>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                    <td width="24">&#160;</td>
+                    <td id="PageBody" width="640" valign="top" colspan="2" style="border-bottom:1px solid #e3e3e3; padding:10px 0 20px;">		
+                        <table cellpadding="0" cellspacing="0" border="0" >
+                            <tr>
+                                <td width="630" style="font-size:10pt; line-height:13pt; color:#000;">
+                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="" dir="ltr" lang="en">
+                                        <tr>
+                                            <td>
+                                                
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence1">Thanks for verifying your phishing@pot account!</span>
+    </div>
+    <br/>
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333; font-weight: bold">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence2">Your code is: 548098</span>
+    </div>
+    <br/>
+    <br/>
+
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+                                                Yours sincerely,
+                                                </div>
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; font-style:italic; color:#333;">
+                                                    United Institute
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+
+                    <td width="1">&#160;</td>
+                    <td width="1"></td>
+                    <td width="1">&#160;</td>
+                    <td width="1" valign="top"></td>			 
+                    <td width="29">&#160;</td>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                </tr>
+                <tr >
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td id="PageFooterContainer" width="585" valign="top" colspan="6" style="border-bottom:1px solid #e3e3e3; padding:20px 0;">
+                        <table id="PageFooter" cellpadding="0" cellspacing="0" border="0" width="585">
+	<tr>
+		<td>
+                                        <table cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="margin-right:30px;">
+                                            <tr>
+                                                <td>
+                                                    <p style="font-family:'Segoe UI', Tahoma, sans-serif; margin:0px 0px 0px 5px; color:#666; font-size:10px;">
+                                                        <span id="ContactInfo">
+                                                            Microsoft Corporation
+                                                            |
+                                                            One Microsoft Way, Redmond, WA 98052-6399, United States
+                                                            <br/><br/>
+                                                        </span>
+                                                        This message was sent from an unmonitored email address. Please do not reply to this message.
+                                                        <span id="PrivacyAndLegalLinks" style="color:#0072c6;">
+                                                            <br/><br/>
+                                                            <a href="https://privacy.microsoft.com/en-GB/privacystatement" id="PrivacyLinkAnchor">
+                                                                Privacy
+                                                            </a>
+                                                             |
+                                                             <a href="https://www.microsoft.com/en-GB/servicesagreement/" id="LegalLinkAnchor">
+                                                             Legal
+                                                             </a>
+                                                        </span>
+                                                        
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                </td>
+		<td style="padding:0; text-align:right;">
+                                    <img id="CompanyLogo" src="https://passwordreset.microsoftonline.com/images/1_MSLogo.png" />
+                                </td>
+	</tr>
+</table>
+
+
+                    </td>
+
+                    <td width="29" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                </tr>
+               </table>
+
+            </td>
+            <td valign="top" width="50%"></td>
+        </tr>
+    </table>
+<img src='https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q' width='1' height='1' tabindex='-1' aria-hidden='true' alt='' /></body>-->
+ </div>
+<style>
+  
+</body></style>
+
+<div dir="ltrdata-sEtDIr=false" style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">9v19G48U4Xa5lLPaoEONqsAvnrDfwxTeoBYOBknZtJ8mYBftZ00GwlRoVjY6sCLnCne98bfmZRLoGFlo2nhqk8dSH8D6WSuCIbBDDHpZg7qCCaJjGx0tJYARNNUwxVhBisneIDzdnoMEWimCZtIqoap3liuaqNbzRbGExJetSW1NJwzDC6WZg3</div>
+<div dir="ltrdata-sEtDiR=false" style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">1t6Dqixx5tEO5iFfWrC3Ak74Fa0J0VN62gpQCXSYSknEIHy0thUBW8LIIll4PO97LTCq2SL92kDmZikEl1wVBRTo1iXfqWIf27mEPw4dE2g4XVDCTdVUaPZ</div>
+<div dir="ltrdata-setDiR=false" style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">mX3ozzfcVnRjTXwSrR82H9Ml1KjN2KH0CBgrLSoQqg99sQz871In2Df1Scbln0BH69vnia8QtFhgL8751CtttEYOkyq9OSD3cxntj3oc8zbS2Rlf6ZupTqLwuVLQd2Q8ZfRrrCk7CT3L1eJhMYzwlkb3ScqzG3nWAgXgxYvTB9wZzMJwnKDTetd0OYof9w</div>
+<div dir="ltrdata-setdIR=false" style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">lovdR8JzGbmNF0SvmIntbbf8Gv9LVX1gVP0dTBX6KHXoiti3yA7bt6S0dlNwN3Uhe3Ks5Ytj1sJ3GHWXNSHm2X6WIVSWlYM90nkk9tcxF8jzx1NAwyweoUJR2t7MO7NPiaqw7ZGJ1jY</div>
+</style>
+  </body>
+
+</html>
+
+

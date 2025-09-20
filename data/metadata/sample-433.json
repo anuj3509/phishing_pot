@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "your shipment will not be delivered !",
+    "from": "UPS Parcel <ups-tracking-id@tracking-dhl.africom.co.tz>",
+    "to": "marketing@scvsistemas.com.br",
+    "date": "Sat, 25 Feb 2023 17:41:07 +0000 (UTC)",
+    "message_id": "<167734686730.30.15619449744293685879@d0dd0b2b3d3c>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/pLF533q/Capture-d-cran-2023-02-25-181546.png",
+      "http://url8120.mailmail.com/wf/open?upn=yFnqAxd7R0tt1vOCvaY5knzIXOXhwBCkTitwkh0NPyM6oShR3g0vrC8FPPFBaCbeQQiNLefVspiwEPUpwR4jH0hcl92Sa5TzIQJRx-2B3ngBLbP-2FWdTFRAYpsIAsug15S8GYXPaT4AGbz-2FBjpXm19DDxCvs4ti9vfC7vpWjxLNta5vDY4tToUhZnfICh-2B2eo28fC1ZF3itcikrThKiKq8ZR1sLe5PZxEz-2FFscGNcnFIY4-3D",
+      "http://url8120.mailmail.com/ls/click?upn=-2BeiVdw3v2MhY9UE2SeKwWHa-2FwjhnzPrZf3RqG5hXQho-3DkYzn_surlT6tjxMO4sUs3XBofmLxnHGWox2dj8FXsV5vDQwY0WKjzqFibm9XrzD8RBcA8TizxOTnc07x4Baz2N7gI5RicsyR2mRbGDs-2F-2FwBtDUb4FyC3ENIJVqF1hS3i134FZBap-2BY-2BaQZ6Pm8OkUnmPDtYVpboMRBojFYsSZFcjav3zt4wu4qOMFE0w9Eux0WYqz8bNqCQPSlt4oL-2BM2glQHPqQ4wyPnjktqdtXxVBYZprk-3D",
+      "http://url8120.mailmail.com/wf/open?upn=0l-2BzjOOTOLV6h5ItAfXLP5FZB2lZO1ZRcqmPYlO8A5FQ7IMrjBRfv7-2B-2BxqzPV94bpUrktnCNoBEiKKX1eA7vwg6v0Q3HuKIp-2BsjSICwW1gJm9XI8m7y6AXzZIkfJdMEWpSjxIuLAyhcRUYVG43K4HpSJVcAgNLQKW86n0Aw-2B1SJ-2FiTRbTtmkNNSJiJNLaqM3NSpbfPTopliJ00fKxFC0gFvSLDEXi-2Bl4rdWOPwsfs0g-3D",
+      "http://url8120.mailmail.com/ls/click?upn=-2BeiVdw3v2MhY9UE2SeKwWA6zy5T6U4vE-2BHSjbpleH8p8PQK8cHYwAeGYjv4wf4TtKN_R_surlT6tjxMO4sUs3XBofmLxnHGWox2dj8FXsV5vDQwY0WKjzqFibm9XrzD8RBcA8TizxOTnc07x4Baz2N7gI5cYpu9hCjqzTThsww4OHgleb-2F98gPg6OPik0QjqIqj13Qhn-2B-2FHTAmmk9Tp6pDdS7XFBlmVMwQeQpzN1a05irGJ08HhFG5oW9NBMNFp4-2BRso7fyDmHLb60B177V627gdqaugVeM-2BsXb7idEIcyqrGypc-3D",
+      "https://cdn.mailmail.com/static/mailmail/images/mailmail-footer.png",
+      "FB638A603B44BE1EFA15B13A4A5DCD99-n1.bs02a?8-1.IBehaviorListener.0-page&amp;mailId=tmai1677344878691042106",
+      "http://url8120.mailmail.com/ls/click?upn=-2BeiVdw3v2MhY9UE2SeKwWNS4t7765T50-2F4ZMtsTilxWPQu5K6wQ8iDK-2FVbtaMbVrxW6E6Uq-2FGqh4CTJ9MxAvawAGySuR5LrGhaoJi5BwKJiUnYjZIf349YDIBOUx8zqeyDRs002d77BDQXCD3RjPiKzlp3jHgirfkG9ZKBodPi-2FxGzF3WUPrD6DOWVJl4GRfuYhqFjVd7WlEbDhvFgHexHp6ctsEs5dS63zuZKZVkDWKRD75xir-2B0CY5o8AdVsTDazW1pG8gKW6FabQPrpcTsV-2BI-2Bm5xbmeo-2ByG7ploM-2BRA-3D3_nw_surlT6tjxMO4sUs3XBofmLxnHGWox2dj8FXsV5vDQwY0WKjzqFibm9XrzD8RBcA8TizxOTnc07x4Baz2N7gI5VbokKLiyJ-2FjpwE-2FnhxORIcOLtcx3WvJUBair0l9UIkw8RrP110g2BfKOkSyl5W9VYwk58Y2Qg0AzBs6fxlqNuZFTtxoO5Vrwc3ALpcvvTiiBdmBuH3MhrHUHcINBcAWDPJQ9gZyPGhdlQKfYcgVFd4-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 372,
+    "html_length": 12120,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: Reminder: Your Amаzon accоunt is tempоrarily on hоld [Case-ID: 4071540512]",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Wed, 22 Nov 2023 15:18:53 +0000",
+    "message_id": "\r\n <SN4PR0601MB86655A7644691E6CD891FA38EEBAA@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86655A7644691E6CD891FA38EEBAASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86655A7644691E6CD891FA38EEBAASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "Statement.pdf",
+      "content_type": "application/pdf",
+      "size": 31519
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "dekadepos.com",
+      "https://aka.ms/AAb9ysg",
+      "dekadepos.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 306,
+    "html_length": 865,
+    "has_text": true,
+    "has_html": true
+  }
+}

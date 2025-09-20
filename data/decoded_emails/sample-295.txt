@@ -1,0 +1,308 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Re: New Membership Statement : Renewal Prime Membership statement was ended - Your renewal scheduled on ‎‎February ‎5, 20‎2‎3.  TRX#032-625693
+From: "Prime" <res0lvdmaillmphbsh12375@perfectzecure.org.ng>
+To: phishing@pot
+Date: Mon, 06 Feb 2023 00:31:05 +0000
+Message_Id: <761111d0-8ecf-0544-8245-36742c1ade1d@perfectzecure.org.ng>
+Content_Type: multipart/alternative;
+ boundary="--_NmP-18ba3c4d38f381ae-Part_1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="--_NmP-18ba3c4d38f381ae-Part_1"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+Suspicious phrases: click here
+URLs found:
+  - https://www.linkedin.com/slink?code=dFqMC7UN
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+normal
+
+DECODED HTML CONTENT:
+------------------------------
+<!-- edited 20/01/2023
+--><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table border="0" cellpadding="0" cellspacing="0" class="x_body" width="100%" bgcolor="#f6f6f6" style="border-collapse: separate; width: 100%;
+  background-color: rgb(246, 246, 246); transform: scale(0.624299, 0.624299);
+  transform-origin: left top;" min-scale="0.6242990654205608">
+  <tbody>
+    <tr>
+      <td valign="top" style="font-family:sans-serif; font-size:14px;
+        vertical-align:top">&nbsp;</td>
+      <td class="x_container" width="580" valign="top" style="font-family:sans-serif; font-size:14px; vertical-align:top;
+        margin:0 auto!important; max-width:580px; padding:10px; width:580px">
+        <div class="x_content" style="box-sizing:border-box; display:block;
+          margin:0 auto; max-width:580px; padding:10px"><span class="x_preheader" style="color:transparent; display:none;
+            height:0; max-height:0; max-width:0; opacity:0; overflow:hidden;
+            visibility:hidden; width:0">‏‎‎‏‎‎P‏‎‎le‏‎‎as‏‎‎e‏‎‎
+            ‏‎‎u‏‎‎p‏‎‎da‏‎‎t‏‎‎e y‏‎‎o‏‎‎u‏‎‎r
+            ‏‎‎‏‎p‏‎‎a‏‎‎y‏‎‎m‏‎‎e‏‎‎n‏‎‎t‏‎‎ i‏‎‎nf‏‎‎o‏‎‎r‏‎‎m‏‎‎at‏‎‎io‏‎‎n</span>
+          <table class="x_main" width="100%" style="border-collapse:separate;
+            width:120%; background:#fff; border-radius:3px">
+            <tbody>
+              <tr>
+                <td class="x_wrapper" valign="top" style="font-family:sans-serif; font-size:14px;
+                  vertical-align:top; box-sizing:border-box; padding:10px">
+                  <table class="x_x_width330" width="600" cellspacing="6" cellpadding="0">
+                    <tbody>
+                      <tr>
+                        <th class="x_x_block x_x_width330" align="left" width="110">
+                          <img src="data:image/png;base64,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" width="150" height="65">
+                        </th>
+                        <th class="x_x_block x_x_width330 x_x_aligncenter" align="right" width="371">
+                          <div style="font-family: Arial, Helvetica, sans-serif,
+                            serif, EmojiFont; font-size: 17px; line-height:
+                            18px; color: rgb(51, 51, 51); font-weight: normal;">
+                            <a href="https://www.linkedin.com/slink?code=dFqMC7UN" target="_blank" rel="noopener
+                              noreferrer" data-auth="NotApplicable" style="color:#333333; text-decoration:none">P‏‏‎‎a‏‏‎‎y‏‏‎‎m‏‏‎‎e‏‏‎‎n‏‏‎‎t
+                              Declined</a>&nbsp;&nbsp;&nbsp;
+                          </div>
+                        </th>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate; width:100%">
+                    <tbody>
+                      <tr>
+                        <td valign="top" style="font-family: Arial, Helvetica,
+                          sans-serif, serif; COLOR: #57505B; font-size:16px;
+                          vertical-align:top"><br>
+                          <p style="font-family: Arial, Helvetica, sans-serif,
+                            serif; font-size:20px; font-weight:normal; margin:0;
+                            margin-bottom:16px">Hello phishing@pot@hotmail.com,</p>
+                          <p style="font-family: Arial, Helvetica, sans-serif,
+                            serif; COLOR: #57505B; font-size:16px;
+                            font-weight:normal; margin:0; margin-bottom:15px">Due
+                            to a problem with your card, we have been unable to
+                            charge your account $14.99 and applicable taxes for
+                            your next 1 month of <span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengtCb2JXE1Q4bBbXCft907070</span>A͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengnVKB4ayqm2EGT5kIt903615</span>m͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengvyY4VcpaM2L9dFOst799957</span>a͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengo5EmiM6kurzaM2yUt322297</span>z͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengQfX7ovOlE936H2gvt581532</span>o͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengQmD5syxAGOzqd3OAt210170</span>n͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengKcnHSyY8icq6rLXGt167932</span>
+                            <span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengMU9NvJ1hd07HGm6ft235889</span>P͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengE63YNH5qAvGW5yETt714410</span>r͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrenglO7rOk2d6TFYKOZ7t299834</span>i͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basreng6IfqW5zKnEbUXrh3t653878</span>m͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengBtoQIdExLOLwMpNBt904622</span>e͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengr7X9iIRYYQMKb4kJt117098</span>.
+                            Your membership benefits are currently on hold.</p>
+                          <p style="font-family: Arial, Helvetica, sans-serif,
+                            serif; COLOR: #57505B; font-size:16px;
+                            font-weight:normal; margin:0; margin-bottom:15px">If
+                            you don't update your card information in the next 6
+                            days, Your membership benefits may be cancelled.</p>
+                          <p>Sincerely,<br>
+                            T͏h͏e͏ <span style="-webkit-font-smoothing:
+                              antialiased; margin: 0px; padding: 0px; border:
+                              0px; font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengVfXzdeBUNwds1f44t014332</span>A͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengp41QWYyJPZwLJR6Lt590343</span>m͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengQvtUHg4yMJxFqZGyt685818</span>a͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengEnXWmrUaaLAMSjCSt484675</span>z͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengPZOSzuaSUUxV6ed2t855883</span>o͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basreng1Czu91TaA7tE2BZYt580320</span>n͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengQTow62D8qb1ZP76Ht637211</span>
+                            <span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengbVBUWy2R7Qfxfjggt878465</span>P͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengejV07ysQqKSjABCkt591353</span>r͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengckxb0pXzSy7jMgFCt482818</span>i͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengmY7N3yfk76rzlO0Kt670674</span>m͏͏͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrengMMDdrXXmAYQRux7Wt567535</span>e͏<span style="-webkit-font-smoothing: antialiased;
+                              margin: 0px; padding: 0px; border: 0px;
+                              font-variant-numeric: inherit;
+                              font-variant-east-asian: inherit; font-stretch:
+                              inherit; font-size: 0px; line-height: inherit;
+                              font-family: Arial, helvetica, sans-serif;
+                              vertical-align: baseline; color: transparent;" data-ogsc="transparent">basrenggN3B2RWbXisIPf3it011705</span>
+                            T͏e͏a͏m͏͏</p><br>
+                          <table class="m_-4295238564931009801m_-8916080844942433723container" style="width:100%!important;text-align:center;border-spacing:0;border-collapse:collapse;max-width:260px;margin:0
+                            auto">
+                            <tbody>
+                              <tr>
+                                <td style="-webkit-border-radius: 5px;
+                                  -moz-border-radius: 5px; border-radius: 5px;
+                                  color: #303942; display: block;" align="center" bgcolor="#FFC435">
+                                  <a href="https://www.linkedin.com/slink?code=dFqMC7UN" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" style="color:
+                                    #303942; font-size:17px;
+                                    font-family:Arial,sans-serif;font-weight:bold;display:inline-block;width:100%;text-decoration:none;line-height:48px;" data-linkindex="2">&nbsp;&nbsp;Update
+                                    P‏‏‎‎a‏‏‎‎y‏‏‎‎m‏‏‎‎e‏‏‎‎n‏‏‎‎t
+                                    information&nbsp;&nbsp;</a>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table><br><hr>
+                          <div style="FONT-SIZE: 12px; FONT-FAMILY: Arial,
+                            Helvetica, sans-serif, serif, EmojiFont;
+                            FONT-WEIGHT: normal; COLOR: rgb(102,102,102);
+                            LINE-HEIGHT: 12px">For any complaints or queries,
+                            please contact Customer Services. <br> Please do not
+                            reply to this message. If you have any questions and
+                            wish to contact us, <a href="https://www.linkedin.com/slink?code=dFqMC7UN" rel="noopener
+                              noreferrer" target="_blank" data-auth="NotApplicable">click here</a>.</div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <div class="x_footer" style="clear:both; padding-top:10px;
+            text-align:center; width:100%">
+            <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse:separate; width:100%">
+              <tbody>
+                <tr>
+                  <td class="x_content-block" valign="top" align="center" style="font-family:sans-serif; vertical-align:top;
+                    padding-top:10px; padding-bottom:10px; font-size:12px;
+                    color:#999999; text-align:center"><span class="x_apple-link" style="color:#999999; font-size:0px; text-align:center">Replit,
+                      767 Bryant St #210, San Francisco CA 94107</span> </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </td>
+      <td valign="top" style="font-family:sans-serif; font-size:14px;
+        vertical-align:top">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>

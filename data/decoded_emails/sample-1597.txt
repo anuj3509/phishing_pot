@@ -1,0 +1,244 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Wir haben versucht, Sie zu erreichen - Bitte antworten Sie!
+From: Benachrichtigung  , <angebote@newsletter.baur.de>
+To: phishing@pot
+Date: Mon, 16 Oct 2023 10:42:10 +0200
+Message_Id: <SERxxxu.78891.581.zmt@psm.knowbe4.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://i.imgur.com/Ds8qOa6.png
+  - http://www.w3.org/1999/xhtml
+  - http://jorfouj.xyz/M1RxU3B5TTRrWExDZUNFdnBlaWdtYVpJWkwwRTdvcUpobUoyeEFEZk5USUxKN3JlMDQrK21wR1FqSHFHb1ppa3cvZ21BMlJIcWxsd1JveWowRFpHNVE9PQ__
+  - i.imgur.com/Ds8qOa6.png
+  - http://jorfouj.xyz/UFp0RG81bHU1c21IcjZ0Rk5GZTF2TjgvMUhrajNVbFQ0QzZBNEdVZGovL1g3eE00L0Vzb0hYRkMzQ3lYRUYxeE1NdjFRRFRHR1JBMHFYNi9mS3pCUnc9PQ__
+  - http://jorfouj.xyz/QjNUaTdCUFEvVGt0T2NlKy9Kak5JZS8xQWhzYVZzL3Q0Q3czdlc4Q2N3NzJaTjN0U1BFem9INWF2SmtrcEdyRzl3ZkxONTVhL1lmajNFU1MwUjRqRDFodXlQZlE2eGdTYVZLUkMwOHh5TzQ9
+  - http://jorfouj.xyz/b2E5alJUUHlCamFVWG53Q29odUVsSm1YTkR4bkF6UnlQRUdkSDdyeWJuNU0zVzArTGFlMTBURXc3eDFPdVA2VS9pbHJRWlZMeVlFRjBmWi81U0dOdUE9PQ__
+
+DECODED TEXT CONTENT:
+------------------------------
+body {Margin:0 auto; padding:0;} img {max-width:100%;} table {border-spacing:0!important; border:none; cellpadding:0px; } td {cellpadding:0px; border-spacing:0px;} tr {cellpadding:0px; border-spacing:0px;} /* Client-specific Styles */ #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */ body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */ table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */ img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */ .scaling {transition: all .2s ease-in-out;} .scaling:hover { transform: scale(1.1); } @keyframes pound { from { transform: none; } 50% { transform: scale(1.2); } to { transform: none; } } .bungy {display: inline-block; font-size: 150px; color: #e10915; animation: pound 3s infinite; transform-origin: center; } Guten Tag phishing@pot Dies ist Ihre Chance! Sie wurden heute für unsere Verlosung für einen 500€ Makita-Gutschein ausgewählt! Und so können Sie sich den Gutschein sichern: Nehmen Sie an unserem Gewinnspiel teil Tragen Sie auf den nachfolgenden Seiten Ihre Datein ein, damit wir Ihnen den Gutschein zusenden können Warten Sie ab, bis wir Ihnen den 500€ Makita Einkaufsgutschein per Post zusenden » JETZT GEWINNEN « Die Teilnahme geht schnell und ist für Sie komplett kostenlos - also, worauf warten Sie noch?! Verpassen Sie nicht Ihre Chance auf einen gratis Einkaufsgutschein von Makita und nehmen Sie noch heute kostenlos teil! Max Hubert Kundenbetreuung Unsubscribe click here to remove yourself from our mailing list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title></title>
+
+		<style type="text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{max-width:100%;}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+            			.scaling {transition: all .2s ease-in-out;}
+			.scaling:hover { transform: scale(1.1); }
+ 			@keyframes pound {
+ 			from { transform: none; }
+ 			50% { transform: scale(1.2); }
+ 			to { transform: none; }
+			}
+			.bungy {display: inline-block; font-size: 150px; color: #e10915; animation: pound 3s infinite; transform-origin: center; }
+		</style>
+        
+
+        
+        
+	</head>
+	<body bgcolor="#f2f2f2">
+	
+
+<!-- GK: container  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="wrappertable" style="table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top">
+   <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="600" align="center" valign="top" style="background-color: #ffffff; box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);">
+       
+                        <!-- GK: image-->
+						  
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; padding:0px 0px 10px 0px;">
+                      <tr>
+                            <td valign="middle" style=" line-height:1px;"></td>
+                          </tr>
+              <tr>
+                <td align="center" valign="top" style="padding: 0 0px;">
+				
+                      <table cellpadding="0" cellspacing="0" border="0">
+                      
+                          <tr>
+                            <td width="600" align="center" valign="middle">
+                            <a href="http://jorfouj.xyz/b2E5alJUUHlCamFVWG53Q29odUVsSm1YTkR4bkF6UnlQRUdkSDdyeWJuNU0zVzArTGFlMTBURXc3eDFPdVA2VS9pbHJRWlZMeVlFRjBmWi81U0dOdUE9PQ__" style="outline:0;" target="_blank">
+<img src="https://i.imgur.com/Ds8qOa6.png">
+<img src="//i.imgur.com/Ds8qOa6.png"></a>
+                        </td>
+                          </tr>
+                          
+                        </table>
+                 </td>
+              </tr>
+            </table>
+                      <!-- GK: / image-->  
+         
+
+  
+            
+           
+            
+            
+            
+            
+              <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+              <!--GK: text-->
+                        
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; ">
+                          <tr>
+                            <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; line-height:24px; letter-spacing:0px; color:#414141; padding-left:20px; padding-right:20px; min-height:20px; mso-line-height-rule: exactly;  ">
+
+                                
+                                
+                          Guten Tag phishing@pot<br><br>
+
+<strong> Dies ist Ihre Chance! </strong>
+<br>
+			<!-- START SET LINK -->
+							<br>Sie wurden heute für unsere Verlosung für einen <br> <strong>500€ Makita-Gutschein</strong> ausgewählt! <br> <br> 
+              Und so können Sie sich den Gutschein sichern:
+              <ul>
+                <li>Nehmen Sie an unserem Gewinnspiel teil </li>
+                <li>Tragen Sie auf den nachfolgenden Seiten Ihre Datein ein, damit wir Ihnen den Gutschein zusenden können </li>
+                <li>Warten Sie ab, bis wir Ihnen den <strong> 500€ Makita Einkaufsgutschein</strong> per Post zusenden</li>
+              </ul>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0 20px;"><table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td style="padding-top: 5px; line-height: 0px;"></td>
+                                </tr>
+                                <tr>
+                                  <td width="310" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0" class="bungy">
+                                      <tr>
+                                        <td width="310" height="40" align="center" valign="middle" style="background-color: #006378; padding: 6px 12px;"><a style="display: block; text-decoration: none; font-family: 'Arial', verdana, sans-serif; font-size: 18px; mso-line-height-rule: exactly; line-height: 32px;font-weight: bold; text-transform: uppercase; color: #ffffff;" href="http://jorfouj.xyz/b2E5alJUUHlCamFVWG53Q29odUVsSm1YTkR4bkF6UnlQRUdkSDdyeWJuNU0zVzArTGFlMTBURXc3eDFPdVA2VS9pbHJRWlZMeVlFRjBmWi81U0dOdUE9PQ__" target="_blank">» JETZT GEWINNEN «</a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                             
+                              </table></td>
+                          </tr>
+                        </table>
+<br>
+              Die Teilnahme geht schnell und ist für Sie komplett kostenlos - also, worauf warten Sie noch?! Verpassen Sie nicht Ihre Chance auf einen gratis <strong>Einkaufsgutschein von Makita </strong> und nehmen Sie noch heute kostenlos teil!
+              <br>
+              <br>
+              <strong>Max Hubert</strong><br>
+              Kundenbetreuung
+              <br>
+              <br>
+<br>
+<br>
+
+
+
+</td>
+                          </tr>
+                        </table>
+                        
+                        <!--GK: / text--> 
+                        
+                      <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+
+                     
+                        
+                        
+                      
+								
+		 				
+                        
+   
+                     <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                   
+                   
+                   
+                   
+                  
+                   
+            </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- GK: container  -->
+
+
+<center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+<img alt="" src="http://jorfouj.xyz/UFp0RG81bHU1c21IcjZ0Rk5GZTF2TjgvMUhrajNVbFQ0QzZBNEdVZGovL1g3eE00L0Vzb0hYRkMzQ3lYRUYxeE1NdjFRRFRHR1JBMHFYNi9mS3pCUnc9PQ__" width="0px" height="0px" style="visibility:hidden;">
+
+<center>
+<a href="http://jorfouj.xyz/M1RxU3B5TTRrWExDZUNFdnBlaWdtYVpJWkwwRTdvcUpobUoyeEFEZk5USUxKN3JlMDQrK21wR1FqSHFHb1ppa3cvZ21BMlJIcWxsd1JveWowRFpHNVE9PQ__"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsubscribe  </font></font></a>
+
+<br><br>
+<font style="color:gray; font-size:14px">
+click <a href="http://jorfouj.xyz/QjNUaTdCUFEvVGt0T2NlKy9Kak5JZS8xQWhzYVZzL3Q0Q3czdlc4Q2N3NzJaTjN0U1BFem9INWF2SmtrcEdyRzl3ZkxONTVhL1lmajNFU1MwUjRqRDFodXlQZlE2eGdTYVZLUkMwOHh5TzQ9"> here </a>to remove yourself from our mailing list
+</font>
+
+<br><br><br>
+
+<center>
+</center>
+</body>
+</html>
+

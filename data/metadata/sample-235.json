@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "ENC: Save up to 67% on Total Protection",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 16:52:49 +0000",
+    "message_id": "\r\n <SA0PR04MB737052C745482CA645A04D01B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737052C745482CA645A04D01B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737052C745482CA645A04D01B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144545/5a1a3b23-a622-48d1-aaed-09b3dbbe25e0.png",
+      "jzwjirchjpbl.com&gt;",
+      "http://jzwjirchjpbl.hannu.site/track/emVnVDliQlp3NGdaSm5WL0tRZkxjekRMMW9IcmtTS0pPamxORzgvUU94K3BIbjhySXExVzBtbXdyaUZuSFpMQUNndTNqeTZ3VG9MVm5DdkxEV3JUOXYrZUg2Nm9yTjhmY3ZRbzdKRG5Uc1N6V1grdlBWM3huYmt6TFFZaWwvL0ZhMlB6czk5WTYvUzN6aTBPdFBUS1dBPT0_",
+      "jzwjirchjpbl.com",
+      "http://jzwjirchjpbl.hannu.site/track/RXZDQWRiZEUzblFUc2lvaHpNbzdDQkQ5NDVPVmNySW9Ya3hCRTM1czBaVEFsSzJFWmg5MG52YkJBRjlTcXJ6S0w1a0U2bFo0bmFTMnJlNUYweXVZSU1TcWJEN0lCMW1UMTZLek8xS2FxLzliVWFCODZVcmlUeFJnVllnRFBhNTBSbkpydUFuRHd1MTdRTzMvNjAwaU1BPT0_",
+      "http://jzwjirchjpbl.hannu.site/track/dU1GUElCRzRMbFg5di9DY2VXZ25qZ1MxT3NnRHB6UGRETTFDeHc3TGdndThiNmlMOENabTFRUDMyN3c4bVlsZkhiTjR4Mmw3dytJUXloRDgzNnNaeFRSR0RHckhRODlSeDhwVDA5eU9NNzdVODZIZEVsbVVTOHA0c1FtdWZPWWpvR1FaemJ5cnh6ODRscUtvZzFrVVJ3PT0_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1194,
+    "html_length": 4454,
+    "has_text": true,
+    "has_html": true
+  }
+}

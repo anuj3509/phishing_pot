@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "Message to attendees of Zoo sidney",
+    "from": "\"CoinBase 2FA\" <noreply@event.eventbrite.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 28 Feb 2025 03:50:46 +0000",
+    "message_id": "<49.39.22751.89231C76@i-09dc9bf4be0c4b9ea.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/alternative; boundary=\"_----RpAqIRTmJpE2S77OMySGoA===_F9/CE-22656-CB131C76\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_----RpAqIRTmJpE2S77OMySGoA===_F9/CE-22656-CB131C76\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "40hotmail.com",
+      "https://clicks.eventbrite.com/q/4bBHzulB3LTQRwbcyue5KA~~/AAQxARA~/VbCqSIw8sKN0F8K6dUcoaLXRK5yJpufCMzbUATWGVXsrn9kW9mCzLy_RtzpqReu69tw0WelmPgGl9y5B6Rn94Q~~",
+      "https://clicks.eventbrite.com/f/a/DzF2sS6ARVtan64eOwImyg~~/AAQxARA~/K7blS9ktOgcT_xWTYEGSurWJMagU3P8v5VbvPQji_6W0DkTBhdJnGXGRkP_iHvWZNXUfarkzgvZmeyuBruR4KK5a9AZV3Io331QbMr8fA08KYjrMJvdtRJC9UJsPmZl3",
+      "https://www.eventbrite.com/emails/action/?type=open&amp;list_id=9&amp;send_id=2025-02-28&amp;type_id=137&amp;recipient=rodrigo-f-p@hotmail.com",
+      "http://www.w3.org/1999/xhtml",
+      "https://th.bing.com/th/id/OIP.KAM0zS-PkhsxD_Ckp66OnQHaEK?w=302&amp;h=183&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7",
+      "https://clicks.eventbrite.com/f/a/xeWizq1V8Ofhu7L8w1YqcQ~~/AAQxARA~/-MAAqgsMbv6o011p8Rg1xLKfT72jQaO3SE9BMb9RqkItjOMUQjpklwn0XZav6goq6LVpfbUodpkvxvR8TdFjOSlqYKI9HMhV9DLYEQCBjLHg9FeyZURCs3RAtVZDLkaJdyCzKbW50nOMkiLdznrXpezC2UPLgH1YcuSGZRW4qxA~",
+      "https://clicks.eventbrite.com/q/BIfHe-Hxk8LsIeCr6Jq6IQ~~/AAQxARA~/_FR5nPLqEaONotddSTWC9CJ3qvvpYLCg5XeRmKTwoyOfkqtdN0Emi8WoJrEi0MjBCkID-WykY17Man8f0nfmAQ~~",
+      ".footer-content.bottom-section",
+      "https://clicks.eventbrite.com/f/a/aKHMaIUrgujF_mrXa96A4w~~/AAQxARA~/tCkwkCpr0GADZ7LaG0hNy6PpS4bPWQgXQGlK1BnQPaHI62g4QSHHpjSUtPH8zyOy3lC7DIxZYitDbQ4jl5hRKokinYIgDRmBgKVDUxGPjkWm9SUJopzjtozzDOIsXxPX",
+      "https://cdn.evbstatic.com/s3-build/perm_001/87adc2/django/images/emails_2018_rebrand/e-logo@2x.png",
+      "https://www.google.com/url?q=https://www.bing.com/ck/a?!%26%26p%3D0ff9885a4d5c67aeJmltdHM9MTcyNjg3NjgwMCZpZ3VpZD0zOThhODYxNy04NGZkLTYyMDQtMWFkMC05MjIyODUwYzYzMDQmaW5zaWQ9NTIxOQ%26ptn%3D3%26ver%3D2%26hsh%3D3%26fclid%3D398a8617-84fd-6204-1ad0-9222850c6304%26psq%3Dsite%253Aarisbrokers.co.za%2Barisbrokers.co.za%2B%26u%3Da1aHR0cHM6Ly9hcmlzYnJva2Vycy5jby56YS9jb25mbGljdC1vZi1pbnRyZXN0Lw%26ntb%3D1&amp;source=gmail&amp;ust=1732974860458000&amp;usg=AOvVaw334rpvPPR_A4Jkatn5G0O8",
+      "https://clicks.eventbrite.com/f/a/FkEWDGbAkgZCgKcRaeu2rw~~/AAQxARA~/GF5Wp_9ETvopsJ3ArTmZYB979vWCZwZgoMyvNHCAwzzOXs6NXCjXoGoWt0Bbqq8on08ZNJv5HJ_NqTt58claGUPZf5LjP7xQf_jwHqh4NJ4QtAOdyXHhXK4yxX0xDYBMooS5MkNYIcETXg8xquGoqzHV-5FHJ9Bu9y8UG8B85Zsbls71RGTXbQI3pTY9T_qIDuwmjoNBqw15Cjb8_o_jHF0-F_zGBrksl4lKhQja3fbdkoz6CePh3tQGbFJUlzLF",
+      "https://t.co/PhiueLyVpr",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60357,
+    "html_length": 90400,
+    "has_text": true,
+    "has_html": true
+  }
+}

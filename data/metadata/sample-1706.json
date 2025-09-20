@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "You have won an $500 WalMart Gift Card ",
+    "from": "WalMart    ,_<rxpzx@r3kd8s02e6.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Oct 2023 05:32:28 +0000",
+    "message_id": "\r\n <7ccc5f5a-60c6-4b63-acbe-5cd0d67c9fd4@MW2NAM12FT019.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/cABoM7Z0S5",
+      "https://i.imgur.com/Fm1WiP4.jpg",
+      "http://dtherhproblem.us/su47282PjAVI27537896cBAI1371191PAP68393GQor3350",
+      "https://t.co/04vyLH3JIY",
+      "http://vertuoldmuneted.com/track/o47282pHlDI27537896PXLv1371191PJh68393HHuJ3350",
+      "i.imgur.com/Fm1WiP4.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 495,
+    "html_length": 8936,
+    "has_text": true,
+    "has_html": true
+  }
+}

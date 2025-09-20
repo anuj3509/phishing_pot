@@ -1,0 +1,103 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Humble Bundle password reset request
+From: "Humble Bundle" <noreply@humblebundle.com>
+To: phishing@pot
+Date: Sat, 25 Feb 2023 05:46:29 +0000
+Message_Id: <6A.47.11451.5B0A9F36@mtl-mtsp-mta01-out2>
+Content_Type: multipart/alternative;
+ boundary="===============8865358267314064993=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="===============8865358267314064993=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://support.humblebundle.com
+  - https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6
+  - http://steamcommunity.com/groups/HumbleBundleOfficial
+  - https://www.twitter.com/humble
+  - https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66
+  - https://support.humblebundle.com/hc/requests/new
+  - https://www.facebook.com/humblebundle
+  - https://humble-dev.imgix.net/images/email/bindle-red-v2.png?auto=compress,format&s=9e671e5717da70dccc7028deecb43cbd
+  - https://www.humblebundle.com/signup
+  - https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94
+
+DECODED TEXT CONTENT:
+------------------------------
+You attempted to reset your Humble Bundle password, but we do not have an account registered under this email address. If you would like to create an account, click the following link:
+
+https://www.humblebundle.com/signup
+
+If you already had an account with games registered under it, please contact us at https://support.humblebundle.com/hc/requests/new so that we can help you recover your account.
+
+If you did not initiate this request, you may safely ignore this message.
+
+Humble Bundle
+
+DECODED HTML CONTENT:
+------------------------------
+
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>Humble Bundle password reset request</title>
+</head>
+<body>
+  <table style="width:100%; border-collapse:collapse;">
+    <tr>
+      <td style="color: #d73d35; padding: 20px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;" role="navigation">
+
+        <div style="float:left;">
+          <a href="https://www.twitter.com/humble"><img src="https://humble-dev.imgix.net/images/email/twitter_03_20_2015.png?auto=compress,format&s=f462dfb156bae591c29f713a6a75b1c6" alt="follow us on Twitter" /></a>&nbsp;&nbsp;
+          <a href="https://www.facebook.com/humblebundle"><img src="https://humble-dev.imgix.net/images/email/facebook_03_20_2015.png?auto=compress,format&s=730dc2075b01ae9326be8ba17198ce94" alt="follow us on Facebook" /></a>&nbsp;&nbsp;
+
+          <a href="http://steamcommunity.com/groups/HumbleBundleOfficial"><img src="https://humble-dev.imgix.net/images/email/steam_03_20_2015.png?auto=compress,format&s=a8587678485345ae1ec9c000409a6e66" alt="follow us on Steam Communities" /></a>
+        </div>
+        <div style="float:right;">
+          
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td style="color: #d5d9e1; background-color: #3b3e48; font-size: 300%; padding: 20px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;line-height:2em;">
+        <img src="https://humble-dev.imgix.net/images/email/bindle-red-v2.png?auto=compress,format&s=9e671e5717da70dccc7028deecb43cbd" alt="" style="display:inline-block;height:2em;width:2em;vertical-align:top;" />
+        <div style="display:inline-block;min-height:2em;vertical-align:top;"> Humble Bundle</div>
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color: #e4e7ed; color: #494f5c; padding: 20px; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+
+        You attempted to reset your Humble Bundle password, but we do not have an account registered under this email address. If you would like to create an account, click the following link:<br /><br /><a href="https://www.humblebundle.com/signup">https://www.humblebundle.com/signup</a><br /><br />If you already had an account with games registered under it, please contact us at <a href="https://support.humblebundle.com/hc/requests/new">https://support.humblebundle.com/hc/requests/new</a> so that we can help you recover your account.<br /><br />If you did not initiate this request, you may safely ignore this message.<br /><br />Humble Bundle
+
+      </td>
+    </tr>
+    <tr>
+      <td style="color: #a1a7b3; padding: 10px; font-size: 75%; text-align:center; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+        <a style="color: #a1a7b3;" href="https://support.humblebundle.com">Questions? Contact Humble Bundle support.</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="color: #a1a7b3; padding: 10px; font-size: 75%; text-align:center; font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;">
+        © 2023 Humble Bundle, Inc. | 163 Freelon St | San Francisco, CA | 94107
+      </td>
+    </tr>
+    <tr>
+      <td style="font-size:25%;opacity:0.1; text-align:center;">
+        
+        Message generated: 2023-02-25 05:46:26.701842
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

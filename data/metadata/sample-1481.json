@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Parcela Liberada - 03/10/2023 13:42",
+    "from": "\"Caixa Tem - Protocolo 186553793753752\" <ogbfmfhf@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Oct 2023 09:42:09 -0700 (PDT)",
+    "message_id": "<651c4461.a70a0220.4f9dc.3a22@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_24_3e137ee6-2072-4efe-ac9a-6c7103f538e1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_24_3e137ee6-2072-4efe-ac9a-6c7103f538e1"
+  },
+  "attachments": [
+    {
+      "filename": "Caixa_Tem_PnhXzq9VgA.pdf",
+      "content_type": "application/octet-stream",
+      "size": 104993
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 202,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

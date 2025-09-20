@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Cree una contraseña para SIX DEGREES IT",
+    "from": "SIX DEGREES IT <support@sixdegreesit.zendesk.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 14 Apr 2024 21:53:37 +0000",
+    "message_id": "<661c506193328_3d3aac3551672_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_661c5061986ce_3d3aac355177c\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_661c5061986ce_3d3aac355177c\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zendesk.com.mx/service/?utm_campaign=text&amp;utm_content=SIX+DEGREES+IT&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification",
+      "https://sixdegreesit.zendesk.com/verification/email/O3NUxUCysUAAc9fFwRQbQABp2bLqEwo2"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 405,
+    "html_length": 2016,
+    "has_text": true,
+    "has_html": true
+  }
+}

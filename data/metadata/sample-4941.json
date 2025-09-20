@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ihr Paket ist bereit f��r die Zustellung",
+    "from": "\"Details zum Versand\" <Department-client-n36645@gtiunifeso.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 26 Feb 2025 18:07:20 +0000",
+    "message_id": "<6a7254c9-ad2e-4630-86bd-385a30ea1a50@SA2PEPF0000150A.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/MAdeOMD.png",
+      "i.imgur.com/MAdeOMD.png",
+      "i.imgur.com/222bJk3.png",
+      "https://i.imgur.com/6y54nyR.jpeg",
+      "https://i.imgur.com/222bJk3.png",
+      "https://urly.fi/3LCU?s1lruHX3jjLjvjxIfo43gov5EG5faVYE7dsQulxwtmqMKe91Ki5PkWvk6u6Y2YNRidyM0H9dh3HHq0AZyhy7qb",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "http://www.w3.org/1999/xhtml",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7076,
+    "html_length": 22373,
+    "has_text": true,
+    "has_html": true
+  }
+}

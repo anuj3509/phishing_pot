@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Sua Encomenda Foi Taxada: Pague Agora e Regularize a Entrega! 523",
+    "from": "Fiscalizacao Correios <no-reply@correiospagamento523>",
+    "to": "phishing@pot",
+    "date": "Sat, 19 Oct 2024 20:52:45 +0000 (UTC)",
+    "message_id": "<20241019205245.2B212423FE@Ubuntu-xhds-1vcpu-1gb-35gb-intel>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://greenkote.com.br/taxa/gomeuspontos523"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 688,
+    "html_length": 2628,
+    "has_text": true,
+    "has_html": true
+  }
+}

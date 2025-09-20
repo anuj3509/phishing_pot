@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "❤️ Zou jij wellicht diegene zijn voor mij",
+    "from": "Magali Koers <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Jan 2023 00:10:03 +0000",
+    "message_id": "\r\n <7f0ce507-a27a-4a22-8a99-0a250aa84c71@DB8EUR05FT036.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://secure-trck.com/?a=72&amp;c=100&amp;s1=&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 785,
+    "html_length": 1625,
+    "has_text": true,
+    "has_html": true
+  }
+}

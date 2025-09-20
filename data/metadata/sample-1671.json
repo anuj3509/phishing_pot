@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Livelo Cashback: Seus 285.579 MIL pontos expiram em breve! Protocolo: 783398175",
+    "from": "Banco.Bradesco <naoresponder.livelobradesco@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Oct 2023 11:39:09 +0000 (UTC)",
+    "message_id": "<20231026114707.3E348931758@hr9x0zf47-32.cbcmn>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/GpPrN0R/marcador.png",
+      "https://i.ibb.co/StnMdLc/logo.png",
+      "http://49.181.62.50.host.secureserver.net/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1489,
+    "html_length": 7221,
+    "has_text": true,
+    "has_html": true
+  }
+}

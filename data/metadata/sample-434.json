@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "ID-125030",
+    "from": "Billing-Online <admin@arbe.org.uk>",
+    "to": "dd <ricardo.telles@dhmnet.com.br>",
+    "date": "Sun, 26 Feb 2023 01:56:32 +0000",
+    "message_id": "<4uja40qppe8t.izchUfhpgGGkSsKhcJ1mtg2@17ZJK.trk.elasticemail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"=-eZCfDXjW9hDKL9eZTe4kWjrq2gdIhPMxy3WKyw==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"=-eZCfDXjW9hDKL9eZTe4kWjrq2gdIhPMxy3WKyw==\""
+  },
+  "attachments": [
+    {
+      "filename": "HlGiLfODLD.html",
+      "content_type": "text/html",
+      "size": 56568
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJdbAGqWb_kG388k-eZrCVS7ZYfzloC6jFuHqS3l1BwvUZER3HniCjC89kBil6_u5avKDD60",
+      "https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJd",
+      "https://17ZJK.trk.elasticemail.com/tracking/open?msgid=izchUfhpgGGkSsKhcJ1mtg2&c=1629661665740109352"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 617,
+    "html_length": 1167,
+    "has_text": true,
+    "has_html": true
+  }
+}

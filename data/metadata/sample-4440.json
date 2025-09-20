@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 95611465.",
+    "from": "Correios S/A <informa-aduaneira083912@correios>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Nov 2024 11:37:28 +0000",
+    "message_id": "<2af2bd61c8b64c92ec2155c1a0286a43@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_2af2bd61c8b64c92ec2155c1a0286a43\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_2af2bd61c8b64c92ec2155c1a0286a43\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.hotmail.com-pt-brcorreios421772790@pague-alfandega.co.ua/rastreio/tarifas437",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3393,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "headers": {
+    "subject": "Haben Sie noch nie etwas gewonnen? Jetzt ist Ihre Chance!",
+    "from": "Microsoft Surface Laptop 5, Microsoft Surface Laptop 5,\r\n\t<noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 09 Jul 2024 13:29:15 +0000",
+    "message_id": "<FZZHGIASKJZLHQ8AU9KYO1L@team.mobile.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6JUotI27439NhYX934fskpiuudnu14302IGDLZBTVUYSTALZ2VYYS2629Y10",
+      "div.kl-row.colstack",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4mrlnS27439nBhk934wbhtfylpmk14302ZFYLPYOSULPGISX2VWAQ2629A10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5tdnUj27439JvwZ934smzbmtropi14302IEGNYKVGDPQQHCO2MHST2629H10",
+      ".kl-split-subblock.top",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4URnTK27439vEcE934nhvggolvwl14302KYBBOUNRKNHCTMJ2ODHT2629W10",
+      ".table-mobile-only.block",
+      ".kl-split-subblock.bottom",
+      "td.mobile-only",
+      "leaadpersons.com/biz/Highlight-Surface-Laptop-5-for-Business-Platinum-13in-15in-COM-02_VP2-859x540.jpeg",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://leaadpersons.com/biz/Highlight-Surface-Laptop-5-for-Business-Platinum-13in-15in-COM-02_VP2-859x540.jpeg",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6994,
+    "html_length": 25211,
+    "has_text": true,
+    "has_html": true
+  }
+}

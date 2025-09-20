@@ -1,0 +1,95 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sua encomenda sera leiloada pela Receita Federal em 3 dias.
+  Encomenda:300043000.
+From: Correios <corr@263665.fornex.cloud>
+To: wbks4@protonmail.ch
+Date: Sun, 01 Jun 2025 01:42:23 +0000
+Message_Id: <20250601014223.479FA460C3@263665.fornex.cloud>
+Content_Type: multipart/mixed;boundary=---------------------dbf2f4f0707e8772ed79fa8704c0aadc
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: multipart/mixed;boundary=---------------------dbf2f4f0707e8772ed79fa8704c0aadc
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent
+URLs found:
+  - protonmail.ch
+  - https://enviossarko.kyiv.ua
+
+DECODED TEXT CONTENT:
+------------------------------
+URGENTE: Atualização sobre sua Encomenda - Correios e Receita Federal URGENTE: Correios e Receita Federal Olá, wbks4@protonmail.ch , ATENÇÃO: Informamos que sua encomenda foi taxada! É crucial que o pagamento da taxa seja realizado IMEDIATAMENTE . Você tem até 3 dias úteis para efetuar o pagamento. Se o pagamento não for feito dentro desse prazo, sua encomenda será leiloada pela Receita Federal, e você poderá PERDER tanto o produto quanto o valor pago! Número da Encomenda: BR4497 Para resolver esta situação rapidamente, clique no botão abaixo para acessar os detalhes e realizar o pagamento: Resolver Taxa Agora Na página, você encontrará todas as informações necessárias para garantir que sua encomenda chegue com segurança até você. Agradecemos pela sua rápida atenção a este assunto e estamos à disposição para ajudar! Este é um e-mail gerado automaticamente. Se você tiver dúvidas, consulte nosso site ou entre em contato conosco diretamente.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>URGENTE: Atualização sobre sua Encomenda - Correios e Receita Federal</title>
+
+</head>
+
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f4f8; color: #333;">
+
+    <div style="max-width: 600px; margin: 40px auto; background: #ffffff; border-radius: 8px; border: 1px solid #ddd; overflow: hidden; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
+
+        <div style="background-color: #005EB8; padding: 20px; text-align: center; color: #ffffff;">
+
+            <h1 style="margin: 0;">URGENTE: Correios e Receita Federal</h1>
+
+        </div>
+
+        <div style="padding: 20px; font-size: 16px; line-height: 1.5;">
+
+            <p>Olá, <strong>wbks4@protonmail.ch
+</strong>,</p>
+
+            <p><strong>ATENÇÃO: Informamos que sua encomenda foi taxada!</strong></p>
+
+            <p>É <strong>crucial</strong> que o pagamento da taxa seja realizado <strong>IMEDIATAMENTE</strong>. Você tem até <strong>3 dias úteis</strong> para efetuar o pagamento.</p>
+
+            <p><strong>Se o pagamento não for feito dentro desse prazo, sua encomenda será leiloada pela Receita Federal, e você poderá PERDER tanto o produto quanto o valor pago!</strong></p>
+
+            <p>Número da Encomenda: <span style="color: #e34e3a;">BR4497</span></p>
+
+            <p>Para resolver esta situação rapidamente, clique no botão abaixo para acessar os detalhes e realizar o pagamento:</p>
+
+            <p style="text-align: center;">
+
+                <a href="https://enviossarko.kyiv.ua" style="text-decoration: none; color: white; background-color: #fcbf09; padding: 12px 20px; border-radius: 5px; font-weight: bold;">Resolver Taxa Agora</a>
+
+            </p>
+
+            <p>Na página, você encontrará todas as informações necessárias para garantir que sua encomenda chegue com segurança até você.</p>
+
+            <p>Agradecemos pela sua rápida atenção a este assunto e estamos à disposição para ajudar!</p>
+
+        </div>
+
+        <div style="font-size: 14px; text-align: center; color: #777; padding: 15px; background-color: #f8f8f8;">
+
+            <p>Este é um e-mail gerado automaticamente. Se você tiver dúvidas, consulte nosso <a href="https://enviossarko.kyiv.ua" style="color: #005EB8; text-decoration: none;">site</a> ou entre em contato conosco diretamente.</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+

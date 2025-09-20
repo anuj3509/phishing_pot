@@ -1,0 +1,63 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Rodrigo-f-p , Urgent: Account Verification Required
+From: Team TrustWallAuth <support@mrkqqzoq.zendesk.com>
+To: Rodrigo-f-p <phishing@pot>
+Date: Mon, 17 Jul 2023 14:22:16 +0000
+Message_Id: <J0WJ171Z7EN_64b54e98b382d_3939f8259858_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_64b54e98d321f_3939f825996c";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_64b54e98d321f_3939f825996c";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg)
+  - https://backend.growthdot.com/reply-after-this/798933_12547958014226.gif
+  - https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg
+  - https://u596767.ct.sendgrid.net/ls/click?upn=CGG4ss1Ki07JITUiwKP-2FcX8-2BuZcsDkVG8-2FD5fd87mTxvTd9khS2YkFQtVlWypaNpaPHi_470gekIA5U1PugZ-2F-2BY9Ap-2BwpyY5X2yg5Ad6hN-2FqfBiqN931kjHlsy6rJYxS5jspLa8rLhKEDdVy2nLWQkzKxyTIxKUekHJf-2FsQi0Q6QjfAGFh9a6PJJlNz1wAltdRCYKUHjoIe6fpECAcVgDJooV5KMbsmD310xYN0i95h0xTqg5jcQK9TU18-2FAjmAY5K4KT2mfOZocyVp1gsxl8LAGfrA-3D-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+##- Digita la risposta sopra questa riga -##
+
+ <img alt='Track Resource' src="https://backend.growthdot.com/reply-after-this/798933_12547958014226.gif"> ----------------------------------------------
+
+![](https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg)
+
+Dear customer,
+
+According to our records, your wallet is still pending verification. The process of verification can be effortlessly completed through the website provided.
+
+All unauthenticated wallets will be temporarily disabled soon.
+
+We apologize for any inconveniences experienced, and kindly note that our aim is to ensure the safety and satisfaction of our clients.
+
+**Verify Now**
+
+
+
+
+
+
+
+
+
+[J0WJ17-1Z7EN]
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p dir="auto"> <img alt="Track Resource" src="https://backend.growthdot.com/reply-after-this/798933_12547958014226.gif"> </p><div class="zd-comment" dir="auto"><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><img src="https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg" alt="" width="191" height="143" style="max-width: 100%"></p><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">Dear customer,</p><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">According to our records, your wallet is still pending verification. The process of verification can be effortlessly completed through the website provided.</p><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">All unauthenticated wallets will be temporarily disabled soon.</p><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">We apologize for any inconveniences experienced, and kindly note that our aim is to ensure the safety and satisfaction of our clients.</p><p dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><a href="https://u596767.ct.sendgrid.net/ls/click?upn=CGG4ss1Ki07JITUiwKP-2FcX8-2BuZcsDkVG8-2FD5fd87mTxvTd9khS2YkFQtVlWypaNpaPHi_470gekIA5U1PugZ-2F-2BY9Ap-2BwpyY5X2yg5Ad6hN-2FqfBiqN931kjHlsy6rJYxS5jspLa8rLhKEDdVy2nLWQkzKxyTIxKUekHJf-2FsQi0Q6QjfAGFh9a6PJJlNz1wAltdRCYKUHjoIe6fpECAcVgDJooV5KMbsmD310xYN0i95h0xTqg5jcQK9TU18-2FAjmAY5K4KT2mfOZocyVp1gsxl8LAGfrA-3D-3D" rel="noreferrer"><span style="color: #3366ff"><strong><span style="text-decoration: underline">Verify Now</span></strong></span></a></p></div><span style="color:#FFFFFF" aria-hidden="true">[J0WJ17-1Z7EN]</span></body></html>

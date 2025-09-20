@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nehmen Sie an unserer Umfrage teil und gewinnen Sie ein Gutschein von Decathlon im Wert von 1.000 Euro.",
+    "from": "Decathlon <otto-newsletter@newsletter.otto.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 17 Aug 2023 11:44:43 +0200",
+    "message_id": "<DGJvGht.59074.282+=phishing@pot@firiri.shop>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://bsq2.firiri.shop/M0FYZWE4MjRSWmNVcHBvdHJkTW5UZVlyMExCR01BL3p1UkFtVVFlNHlncndjaGN3VSt5VFZEdjk3UUZReXdJaHF3cEVQTGpYMUIxWmhRQ0hpeDE4cWc9PQ__",
+      "window.postMessage({_custom_type_:",
+      "http://www.w3.org/1999/xhtml",
+      "http://bsq2.firiri.shop/bFRQdFpub1E5bEV1VVJPZFM0Y29ySXRjaUhJQXhjOUxCN1FkQVJoZFJkcUZQeXIyWnlHZUNDMjBsTVZGcTVXNEtremQvWTdlQnhTc0N5TXBHVWNqUUE9PQ__",
+      "https://t.co/zX8uUrKlzS",
+      "http://bsq2.firiri.shop/YlFidnJoTGJCNWJqdXo2a0VjejlROGJzckhNYnVhYzhDREMyNkZyam1ScWd2UDJrUDNadlVJT0d0NWpCWW1zY3RydXJaeTl2ZE95dmtlbjFjbXk4QWc9PQ__",
+      "history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})()",
+      "history.pushState,t=history.replaceState,a=history.back,r=history.forward;function"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 922,
+    "html_length": 10372,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,88 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: BB INFORMA, Voce possui BONUS LIVELO vinculados em seu cartao Ourocard prestes a expirar. - ID KGKEJE2XJ8
+From: BANCO DO BRASIL <b099872@bbatendimento.lb>
+To: phishing@pot
+Date: Mon, 15 Jul 2024 14:55:45 +0000
+Message_Id: <5c921192ba31578036f7424876d94d83@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_5c921192ba31578036f7424876d94d83"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_5c921192ba31578036f7424876d94d83"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://magicstareventos.com.br/manager2016/manager/js/jscalendar/langg/
+  - http://soloricoagrociencias.com.br/images/produtos/foliar/produtospts.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>_BB_</title>
+
+</head>
+
+<body style="background-color:rgb(241, 241, 241);">
+
+	<p style="text-align:center;">
+		<font face="Arial" size="2">Para visualizar as imagens deste email. <a href="http://magicstareventos.com.br/manager2016/manager/js/jscalendar/langg/">Clique aqui</a></font>
+	</p>
+
+<table cellpadding="0" cellspacing="0" width="500" align="center">
+	<tr>
+		<td style="background-color:#150958; color:#150958;"><center><img src="http://soloricoagrociencias.com.br/images/produtos/foliar/produtospts.png"></center></td>
+	</tr>
+
+	<tr>
+		<td style="padding:20px; background-color:#150958; color:#FFF;">
+		
+		<font face="Arial" size="4">
+				<h4 style="text-align:center;color:#FF0;">&quot;Banco do Brasil&quot;</h4>
+
+				<p style="text-align:center;">Prezado cliente, você possui 169.378
+					pontos Livelo BB acumulado para utilizar nas suas compras ou trocar por passagem aerea, mas seja rápido resgate seus pontos ate o dia 25/07/2024.</p>
+				<p style="text-align:center;">Nao perca seus pontos transfira agora mesmo, basta.
+					
+					efetuar a validação e seguir as instruções para resgatar seus pontos.
+
+					</p>
+				<p style="text-align:center;">Você pode utilizar seu saldo de pontos Livelo para pagar contas de convênios como água, luz, telefone, TV por assinatura e impostos.
+
+					<p style="text-align:center;">Clique em ; Resgatar Pontos e siga todos os procedimentos na tela exigidos
+						pelo
+						Internet Banking para que seus Pontos sejam Resgatado com rapidez e facilidade</p>
+					<br>
+
+					<center><a href="http://magicstareventos.com.br/manager2016/manager/js/jscalendar/langg/" style="padding:10px;background-color:#EB047C;color:white;font-weight:bold;text-decoration:none; border-radius:3px;">
+							Resgatar Pontos</a></center>
+					<br>
+			</font>
+			
+			
+			</td>
+	</tr>
+
+	
+	<tr>
+		<td style="background-color:#EB047C; color:#FFF; padding:10px; font-family:'Arial'; font-size:12px; text-align:center;">Livelo Banco do Brasil 2024 - Todos os direitos reservados - CNPJ/05.730.375/0001-20.</td>
+	</tr>
+</table>
+
+</body>
+
+</html>

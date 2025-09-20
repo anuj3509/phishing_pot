@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Update required (#5746259)",
+    "from": "Iedger <k14@qvvq.ml>",
+    "to": "phishing@pot",
+    "date": "Fri, 31 Mar 2023 04:08:21 +0200",
+    "message_id": "<VUMU5BV8KJU4.7I4649P5RDQO@smtp.office365.com>",
+    "content_type": "multipart/alternative; boundary=\"=-DfZEDJgv/IIbUm5xCKQngw==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-DfZEDJgv/IIbUm5xCKQngw==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://test.fansfishing.com/",
+      "https://cdn.ampproject.org/v0.js"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 519,
+    "html_length": 10342,
+    "has_text": true,
+    "has_html": true
+  }
+}

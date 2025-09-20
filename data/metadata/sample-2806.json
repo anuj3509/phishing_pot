@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Please verify your Exodus Wallet",
+    "from": "\"Exodus\" <noreply@support-exodus.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 3 Feb 2024 18:48:30 -0800",
+    "message_id": "<4436260254888293845653@vps-zap65083-7>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.exodus-validation.com/",
+      "http://verify.cexodus.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 437,
+    "html_length": 35625,
+    "has_text": true,
+    "has_html": true
+  }
+}

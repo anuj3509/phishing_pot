@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Final Fund Release Notice!!!",
+    "from": "\"Jean Patrick\" <j.patrick@ecb.com>",
+    "to": "Recipients <j.patrick@ecb.com>",
+    "date": "Tue, 15 Nov 2022 14:15:55 +0100",
+    "message_id": "<202211151316.2AFDFqcM35061806@nhf-dc01-brk1.fvp-it.de>",
+    "content_type": "multipart/alternative; boundary=\"===============0652785458==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0652785458==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "jean.patrick.ecb@europe.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1101,
+    "html_length": 8393,
+    "has_text": true,
+    "has_html": true
+  }
+}

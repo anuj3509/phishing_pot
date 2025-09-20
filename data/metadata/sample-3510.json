@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Spray-X wirkt schneller als andere Aphrodisiaka!",
+    "from": "Spray-X, <info@amazon.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 26 Jul 2024 17:43:47 +0200",
+    "message_id": "<122675367773209703a325417.389.ZAn@mlsend.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"==fcdf523625ec8a41886a82f08e5ebce4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"==fcdf523625ec8a41886a82f08e5ebce4\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/29/vyci.png",
+      ".imgtable.btnset",
+      "http://phoneandwin.co.uk/TCtjeUh5OTZsaVBMNS9pRytmZlhaUEZlQnRrS0Y1T2FiM25mZkQvSFlQMkJaNVdpQ0RQd2paUmdnTjNnUFNGU3JJT0lySndpMTdFKzEwaG05Zkd1OXc9PQ__",
+      "https://www.zupimages.net/up/24/29/ijws.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://phoneandwin.co.uk/VnRaWVVjVGhBUnJ4bmw4NXJFOTl0ZEYyQngwRWN4R0JSM0hQMmdoRDl5VGQvamlpNVZTc2NpeHRoU21kVDNqL0JDem1RM1ZuSlpaY3ovVG1LdDE3cXc9PQ__",
+      "www.zupimages.net/up/24/29/ijws.png",
+      "www.zupimages.net/up/24/29/vyci.png",
+      "http://phoneandwin.co.uk/TWI4a1F0WkNBVlU1aTlQbHgxd3pNT3NVdktSTXRhTnZXVEovOGZocDBZRklEd25lSjA2SlJJVTVkcEQ2cGgwdUVMaGlGQ2VsdFE5L2pqTnNXbjJsckE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 13510,
+    "has_text": false,
+    "has_html": true
+  }
+}

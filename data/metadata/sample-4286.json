@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Unlock New Opportunities with Optimism Today",
+    "from": "Team Optimism <hello@joshtalks.org>",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Nov 2024 17:04:08 +0000 (UTC)",
+    "message_id": "<20241106170406.68F4CF1FB9F95FB6@joshtalks.org>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://discord.optimism.io",
+      "https://optimism-holder.com",
+      "https://twitter.com/optimismPBC",
+      "https://t.me/optimismPBC"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1072,
+    "html_length": 3045,
+    "has_text": true,
+    "has_html": true
+  }
+}

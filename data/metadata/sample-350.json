@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "KINDLY RESPOND..REF.1041161",
+    "from": "\"Mr.Michael Ledford\" <info@office.org>",
+    "to": "Recipients <info@office.org>",
+    "date": "Sun, 10 Sep 2023 18:18:46 -0700",
+    "message_id": "\r\n <7231194a-b971-45e0-913d-a37d91ab34df@DM6NAM12FT032.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 361,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

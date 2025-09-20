@@ -1,0 +1,114 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Protect Your Assets: Update Your Wallet by 11/07/2024
+From: "METAGUARD" <matteo.miskulin@bbz-sh.ch>
+To: phishing@pot
+Date: Tue, 09 Jul 2024 17:12:54 +0000 (UTC)
+Message_Id: <0.0.3e037eeebc66613c9f59507bca4c5277@5ba33a39f0.@googlemail.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://xvshysww.bubbleapps.io
+  - https://1000logos.net/wp-content/uploads/2022/05/MetaMask-Logo-500x281.png
+  - http://xvshysww.bubbleapps.io
+
+DECODED TEXT CONTENT:
+------------------------------
+MetaMask Update body { font-family: Arial, sans-serif; background-color: #f5f5f5; margin: 0; padding: 0; } .email-container { background-color: #ffffff; margin: 20px auto; padding: 20px; border: 1px solid #dddddd; max-width: 600px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { text-align: center; } .header img { width: 100px; } .content { margin-top: 20px; font-size: 16px; color: #333333; } .content h1 { color: #e74c3c; font-size: 24px; } .content p { margin: 10px 0; } .button { text-align: center; margin-top: 20px; } .button a { background-color: #ff8c00; color: #ffffff; text-decoration: none; padding: 10px 20px; border-radius: 5px; font-size: 16px; } .footer { text-align: center; margin-top: 30px; font-size: 12px; color: #888888; } &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Don't lose access to your account Dear MetaMasker 🦊, Your wallet couldn't make the switch to our updated network due to significant issues with the global network. You must manually update your wallet before 11/07/2024 to maintain use. What will happen if I do not upgrade my wallet? If the deadline is missed, your assets might be lost, and you could be removed from our system. To better safeguard your assets, please update promptly. &nbsp;&nbsp;&nbsp; Update Here &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For further assistance, please contact our support team . Regards, The MetaMask Team © 2024 MetaMask, All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MetaMask Update</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .email-container {
+            background-color: #ffffff;
+            margin: 20px auto;
+            padding: 20px;
+            border: 1px solid #dddddd;
+            max-width: 600px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+        }
+        .header img {
+            width: 100px;
+        }
+        .content {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #333333;
+        }
+        .content h1 {
+            color: #e74c3c;
+            font-size: 24px;
+        }
+        .content p {
+            margin: 10px 0;
+        }
+        .button {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .button a {
+            background-color: #ff8c00;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #888888;
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="header">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div><p align="left" class="header"><img height="56" style="width: 201px; height: 106px;" alt="MetaMask" src="https://1000logos.net/wp-content/uploads/2022/05/MetaMask-Logo-500x281.png" originalsrc="https://1000logos.net/wp-content/uploads/2022/05/MetaMask-Logo-500x281.png" border="0" hspace="0"><div align="left"></div><p></p><div class="header">
+        </div>
+        <div class="content">
+            <h1>Don't lose access to your account</h1>
+            <p>Dear MetaMasker 🦊,</p>
+            <p>Your wallet couldn't make the switch to our updated network due to significant issues with the global network. You must manually update your wallet before <strong>11/07/2024</strong> to maintain use.</p>
+            <h2>What will happen if I do not upgrade my wallet?</h2>
+            <p>If the deadline is missed, your assets might be lost, and you could be removed from our system. To better safeguard your assets, please update promptly.</p>
+            <div class="button">
+&nbsp;&nbsp;&nbsp; <a href="http://xvshysww.bubbleapps.io" target="_blank">Update Here</a>
+&nbsp;</div><div class="button">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </div>
+            <p>For further assistance, please contact our <a href="https://xvshysww.bubbleapps.io" target="_blank">support team</a>.</p>
+            <p>Regards,<br>The MetaMask Team</p>
+        </div>
+        <div class="footer">
+            © 2024 MetaMask, All rights reserved.
+        </div>
+    </div>
+
+
+</body><script></html>
+

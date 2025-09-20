@@ -1,0 +1,27 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: The Tether Program is live
+From: Tether <suzanny.mendes@ufes.br>
+To: <phishing@pot>
+Date: Sat, 8 Jun 2024 00:48:17 +0000
+Message_Id: <5XZX6QAD1PU4.V0E8DIKLQWBI3@ufes.br>
+Content_Type: multipart/alternative; boundary="=-BCIT4jWHPgpVhPh//kkSLg=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="=-BCIT4jWHPgpVhPh//kkSLg=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://d.img.vision/xlm/USDT.png
+  - https://google.com/amp/s/tether.li/campaign
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p><a href="https://google.com/amp/s/tether.li/campaign"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://d.img.vision/xlm/USDT.png" alt="" width="600" height="700"></a></p>

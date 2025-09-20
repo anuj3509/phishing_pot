@@ -1,0 +1,44 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Before being fulfilled, a transfer request must be approved.
+From: "James L. Colbert" <tnkodshonjkop@gmail.com>
+To: phishing@pot
+Date: Thu, 26 Jan 2023 11:30:26 -0800
+Message_Id: <CAPKy_sPw-QG99Ret1mT-niRX+MnQkmLCmOSS-Fa0_fgr0dXr7w@mail.gmail.com>
+Content_Type: multipart/mixed; boundary="000000000000f4ebcd05f32fc700"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="000000000000f4ebcd05f32fc700"
+
+ATTACHMENTS:
+--------------------
+- TGE-5986-5932-5487.pdf (image/jpeg, 87755 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: suspend, suspended
+
+DECODED TEXT CONTENT:
+------------------------------
+We value your use of our services despite being disappointed that we were
+unable to execute your transfer. According to a recent notification you
+received, your Coinbase account may have recently been temporarily stopped.
+We believe it's vital to inform you if your service is suspended for any
+reason other than the fact that we have seen it to be widely used across a
+number of platforms. If you want to continue using this account, get in
+touch with our customer support department. Consult the relevant article
+for further details.
+We would be happy to assist you if we are able to.
+Coinbase
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>We value your use of our services despite being disappointed that we were unable to execute your transfer. According to a recent notification you received, your Coinbase account may have recently been temporarily stopped. We believe it's vital to inform you if your service is suspended for any reason other than the fact that we have seen it to be widely used across a number of platforms. If you want to continue using this account, get in touch with our customer support department. Consult the relevant article for further details.<br>We would be happy to assist you if we are able to.<br>Coinbase</p>
+

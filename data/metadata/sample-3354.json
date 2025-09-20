@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Hello",
+    "from": "Eden Fanning  <edeneywrdgafanning@rapidsoft.co.in>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 18 Jun 2024 09:21:57 +0000",
+    "message_id": "<98143827436.skutyzcnbqpjmfrlxeoavhd@rapidsoft.co.in>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://cimnetsys.com/srkya.jpg",
+      "http://cimnetsys.com/0/?r=nimxl"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5,
+    "html_length": 932,
+    "has_text": true,
+    "has_html": true
+  }
+}

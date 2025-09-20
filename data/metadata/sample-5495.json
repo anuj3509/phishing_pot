@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Electrum Release New Features for Desktop & Browser",
+    "from": "Electrum <hello@electrumteamnews.online>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 May 2025 09:29:43 +0000 (UTC)",
+    "message_id": "<0fd0aa84-9ae6-1298-bc73-ce1a6eff3201@electrumteamnews.online>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://download.electrumupdate.store/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2857,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

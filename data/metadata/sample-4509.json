@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <contato@correios>",
+    "to": "phishing@pot",
+    "date": "Sat, 07 Dec 2024 21:56:00 +0000",
+    "message_id": "<1ce2b7be-888e-6c67-cf34-383127065137@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "tisoprincipe.htm",
+      "httpswww.technologyre-",
+      "https://juliodedansk.icu",
+      "view.coms611815who-needs-democracy-when-you-have-da-",
+      "Ibm.coSDI"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 25369,
+    "html_length": 45447,
+    "has_text": true,
+    "has_html": true
+  }
+}

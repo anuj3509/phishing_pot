@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Buy tools and accounts",
+    "from": "support@sanshin-ashiba.com",
+    "to": "wpx@protonmail.com",
+    "date": "Fri, 25 Nov 2022 08:00:01 +0900",
+    "message_id": "<e1c611dbcdf368c5cb8d2b720ca95ddb@sanshin-ashiba.com>",
+    "content_type": "multipart/mixed;boundary=---------------------3a65080a455d64177f6529ef739bf02a"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/mixed;boundary=---------------------3a65080a455d64177f6529ef739bf02a"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cutt.ly/41tU6Ca",
+      "https://cutt.ly/41tU6CaBest"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 97,
+    "html_length": 163,
+    "has_text": true,
+    "has_html": true
+  }
+}

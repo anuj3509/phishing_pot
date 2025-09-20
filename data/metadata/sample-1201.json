@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Das ist leider das letzte Mal",
+    "from": "EDEKA-Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Aug 2023 05:02:54 +0200",
+    "message_id": "\r\n <afd324a6-1707-40bb-8ef4-bda3f1e401ec@MW2NAM12FT116.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://100.42.79.2/oop/474_md/2010/4/771/33/343611",
+      "http://100.42.79.2/media/4e9f37e279dd321.png",
+      "aktglobal.com",
+      "www.ONCF-Voyages.ma",
+      "https://ksb.com/user/verify/SEspuRK4qkhGs5bX781TOCsosBf29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://100.42.79.2/cl/474_md/2010/4/771/33/343611",
+      "surwww.oncf-voyages.ma",
+      "http://100.42.79.2/op/474_md/2010/4/771/33/343611"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6384,
+    "html_length": 13301,
+    "has_text": true,
+    "has_html": true
+  }
+}

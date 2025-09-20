@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "With XRP Reserve Allocation You May be Eligible for 8-15% more Tokens",
+    "from": "Ripple<noreply@ripple.net>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 20 Jan 2025 23:15:42 +0300",
+    "message_id": "<20250120201542.A58DC187BBF7@mail.sbmg.ru>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw5GtA_vf2FcHOQBOYUyHZrxf2-ck4IB4GWQ&amp;s",
+      "https://ipfs.io/ipns/k51qzi5uqu5djr52genl2o00bhafz1rsz942sgpt1y18bd7xwtxlm7m78d2ebi"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1719,
+    "html_length": 3757,
+    "has_text": true,
+    "has_html": true
+  }
+}

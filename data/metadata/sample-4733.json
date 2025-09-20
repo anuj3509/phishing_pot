@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Pague a taxa para liberar o pedido",
+    "from": " <LOVXS@%regularizarcnh.co.ua>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 27 Jan 2025 02:33:44 +0000",
+    "message_id": "<bd2932754e66e331c47d02584066db81@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_bd2932754e66e331c47d02584066db81\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_bd2932754e66e331c47d02584066db81\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Gov.br",
+      "https://hotm.art/validar-CNH",
+      "https://www.google.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 32,
+    "html_length": 3200,
+    "has_text": true,
+    "has_html": true
+  }
+}

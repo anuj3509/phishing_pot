@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Arabian Tea] Login Details",
+    "from": "WordPress <wordpress@arabiantea.in>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 1 Jun 2025 11:46:33 +0000",
+    "message_id": "<U92gL1lEUCTYF7BvcmorEBN7lj8OcP0Ds0AAghTQ@arabiantea.in>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://arabiantea.in/wp-login.php?action=rp&key=G7LppKQsv7wlOeGtp4yg&login=www.dhfjkq.blogspot.com%20-%201.312%20BTC%20BINANCE",
+      "www.dhfjkq.blogspot.com",
+      "https://arabiantea.in/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 272,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

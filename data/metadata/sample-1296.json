@@ -1,0 +1,57 @@
+{
+  "headers": {
+    "subject": "VIP Reward: $5,000 BUSD Awaits Your Redemption",
+    "from": "Binance <postmaster@mg.vepoclean.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 09 Sep 2023 11:35:45 +0000",
+    "message_id": "<20230909113545.0cf4e20aa1b994c8@mg.vepoclean.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.Sqds0BrK3zf3wr2lA0BDLjuFJ6X2vU18kiorC7CBA4Y",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZWN1cml0eS9hbnRpLXBoaXNoaW5nLWNvZGU_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJjdGkiOiJpanZsbmwiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.VlLYlAXcKP3R18j55LlUgX1ag68bB7gTQIfiwFGFr30",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdHdpdHRlci5jb20vYmluYW5jZT91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.k5OJDS1jy4nSGgnzW8Qn-h7ybiojHmnHsOM4RiM8X7s",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-email/eyJhbGciOiJIUzI1NiJ9.eyJiIjoiMTA0NjM0MyIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTh9.Sk0D6A_EGlw5S-4d9ulc-V0r-SW-u7Lem8LN0ozV7I8.gif",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcmVmZXJlbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaThxcG0iLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.9qSMW8QKH5wk_9XVzQxZzMn723bge7aGI9eGYdcfjE4",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9wcml2YWN5P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTZkbWgiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.tUoPoU1Q-ww1scvfKw1mVY8kM7ks4T9FPHl3ZaYPQwU",
+      "https://public.bnbstatic.com/image/social/linkedin-dark.png",
+      "https://i.imgur.com/8kFyrO1.png",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6InNwYW4iLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9zdXBwb3J0L2ZhcS9hd2FyZC1zZWxlY3Rpb24tcnVsZXMtYmFzZWQtb24tYm5iLWJlYWNvbi1jaGFpbi1oYXNoLXZhbHVlLWZkNDYyZjAzNGFlZDQ0NDM5ZWY2YzYzNmI5YWFmMzQ1P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTd5cXUiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.wTQSF8ZYCtA0OdkDyKxgZT2IFT8aR5ZwFTxtHHJv4PY",
+      "https://public.bnbstatic.com/image/social/reddit-dark.png",
+      "Binance.com",
+      "https://public.bnbstatic.com/image/social/facebook-dark.png",
+      "https://public.bnbstatic.com/image/social/twitter-dark.png",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdC5tZS9CaW5hbmNlRXhjaGFuZ2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.CcA8ZjGO976WPw8iEZdiPkqPrDHx017WbxyQr96qrro",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2JpbmFuY2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.Da6wgtjkVA0MadwITnYWlxVk0iNMKsBFxz7YsFrF6yI",
+      "https://public.bnbstatic.com/image/social/telegram-dark.png",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vYXBwLmJpbmFuY2UuY29tL2VuL0ZHVC9NQVkyMDIzP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSbFptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaU2EyUlZUREF4UWxkVVNYZE5hazAlM0QmdXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.pKxWmolQaw5Wh8kWE4T_zwbPJ5JqPbg-tgfRoqGBlao",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=a6e670552fb02430JmltdHM9MTY5NDEzMTIwMCZpZ3VpZD0wODI2ODBmNS1jMmZiLTZiZTAtMzM2ZS05Mzk5YzM3NzZhZGImaW5zaWQ9NTYwMw&amp;ptn=3&amp;hsh=3&amp;fclid=082680f5-c2fb-6be0-336e-9399c3776adb&amp;u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cHMlM2ElMmYlMmZ3d3cuZGVhbGVyc3Jlc291cmNlcy5jb20lMmYmc291cmNlPXNlcnAtbG9jYWwmaD16Wk1Gb3ljb2dNemtUdjVBNkk3NVV1VjBqSmtsV0lsdCUyZnpxV0slMmJPSlRwbyUzZCZwPWx3X3RwJmlnPTdGRUQ3Mzg5RkQzNDQ5REM5Njc2MDFBMERGODI1MEVCJnlwaWQ9WU40MjZ4NzY2OTY4Nw&amp;ntb=1",
+      "https://public.bnbstatic.com/image/social/youtube-dark.png",
+      "Binance.com,",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9hY3Rpdml0eS91bnN1YnNjcmliZS1lbWFpbD9wPUV5eEhuN093Q3NrZHRhdEJuOUolMkJvaHVKM0djJTJCQ0haZnlYTHclMkZzbXE2RXJNbVFyaXNjeXJlaHM1bjZoVUFMVGVRNCUyRmRYcUYyM2tSOVREV1VpeTBsMFNTdnVaelpnYnMzZE94S0RoaHV6c0xsbk9iank1JTJCSzFQcHc3SlBha0s0QWJUVTZEbGVkQWFyazl5SlFidmlDczhxdkglMkI2TklJZXIlMkZWVVRPdFpuSlBNMEp1bEtsaEZ3NHlwVmNZZnpYa0p5NFpLemJGZnM0VnZRR0llZVdPTm5HZnhQa3hGREJrY0ElMkZGczc2YTZpTlc0bUpnaUc1JTJGTzZ2Z212c052UXdiNkclMkZhNXVGNEJwNHNiYW9WWDNlJTJCMFdxZXA3bU5OWjBJaCUyRjJVMllxSjlXSDhLUkJjN0diMkNwZWRqUlV0ZHVpczJWOUFZbyUyQnpNT0ZRY205WkZnemtZQnB2eUlmUUFiRnFMN0olMkY2YXJRZ3FIT294U0NSbVNUcyUzRCIsInMiOiJUQUciLCJjdGkiOiJpcjVjNyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.HehnTUHCbG5fCen0rx509VbDD7drJ0DXPFaE5NgLg4w",
+      "https://public.bnbstatic.com/image/social/instagram-dark.png",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.YlJ_klOXnjmXZD8GoJXYLpA9ZHnnUr0S-f1BKtyTW34",
+      "http://post.eu.spmailtechnol.com/q/8LWxcOgBe6THGH3GWWPUCA~~/AAA5zgA~/RgRmVwBXPlcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA",
+      "http://post.eu.spmailtechnol.com/q/76FiT0vUOflMmfJjj8ClGA~~/AAA5zgA~/RgRmVwBXPVcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvQmluYW5jZVlvdXR1YmUvZmVhdHVyZWQ_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.30N50JtHC84TWYDo0GDqFrYYGrbMDPLMykSx7wORISc",
+      "https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png",
+      "https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9iaW5hbmNlLz91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.KsbjCmfaWU5H09ySjmdL-k68hbeR8R2Ho0qV4hwvt1U"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1646,
+    "html_length": 27645,
+    "has_text": true,
+    "has_html": true
+  }
+}

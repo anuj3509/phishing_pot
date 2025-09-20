@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Vende tu coche cómodamente al mayor comprador de coches de Europa.",
+    "from": "\"Experto-en-Automoción\" ,HYH <newsletter@newsmail.volksfreund.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 05:15:06 -0500 (EST)",
+    "message_id": "\r\n <362e5ac7-5ab0-489e-80e7-39dc171c9d23@DS3PEPF000099DD.namprd04.prod.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/6fgNjfC.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1c0qhKPjIY7yR4GR4_huFP_Zoe7vaTgC6ZGLjF5B8N3SIry8fHcIHmfxemzJvg8kYn_e4eQS4FvJsOKeFiWsPcYdQrwUk7WwfgY0p3yDNV_zzkB_Fy_crIoVGnR9mLonNyz253gRc0eP5Ly3dbd4Ci2kYA==",
+      "i.imgur.com/feaXkZF.png",
+      "https://i.imgur.com/zEXgrKI.png",
+      "i.imgur.com/zEXgrKI.png",
+      "http://tracks.o2.co.uk/9mrSc4Vu.kdja?gAAAAABl1c0qQxMOtCHVL3RMcGjXxkYVw2pnb7vnXG7ptjIXZ3HkZ4ge6Jw_pfLa7ziNC2B1mbTruDhSmy4APDQ5qgjdIXP1pcVyqzK4VDQ-oX93uvEst02mbKGw_AwwknZPAv1-JVJqAMvwd8LdfgrracCWQqE4Jg====",
+      "i.imgur.com/6fgNjfC.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1c0qA2db-Cfdkp-PwPG_uZolNttuvhTokm-UiQHjAH6hX-ir5r-VlBzum1RpHSOQc0k03d9sAS6ib85_jjw7yIMBAROIN7AKrLF0dx-AFisrHVHPSEnP16r6vrFqNnQQzNZ9Pox4ULb5cCPhewbIhQotqA==",
+      "https://i.imgur.com/feaXkZF.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1c0qBJxCtdGn8-I2YAIRLSwut3TgwXwA5as313zMCbHSPU5VcxzjJgkGxo_XkEgsYBleG336jABVmv9eC7rQk0bKKyg5TrBz82-dZ4AjcJVmAIF5M42AFE1Cj00JPA01j1auXqp1-F4NavkYRnyHOT0IwA=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2474,
+    "has_text": false,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "The Last Hurdle is Cleared! Your Coin is Now on Its Way to You! 📨",
+    "from": "\"Sondles Coones (via Documentos Google)\" <drive-shares-noreply@google.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Dec 2024 14:44:26 +0000",
+    "message_id": "<autogen-java-d90d82ee-fe61-4212-a008-5196584c15e2@google.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000005051b5062886ef9a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000005051b5062886ef9a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=https://docs.google.com/drawings/d/1fR5taLez1K1HhCcWu179fBNQtgTEQUuLIHTzDqzLxbc/preview%23NGLhJ3pN8z6ksV&amp;sa=D&amp;source=editors&amp;ust=1733413465915227&amp;usg=AOvVaw2tB3Itn6FtdUbmofbOsXSW",
+      "zbnscxovdb.xyci.hair",
+      "V4y8578p4q4A.html",
+      "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_document_x64.png",
+      "https://docs.google.com/",
+      "https://workspace.google.com/",
+      "https://lh3.googleusercontent.com/a/ACg8ocJFuSF2EMUdDy2emphYLDe6_vh2kdr-NmC5VdKcYKVyaZiKCQ=s64",
+      "https://www.gstatic.com/docs/documents/share/images/googleworkspace_logo_192x80.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 760,
+    "html_length": 9752,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Notice Your Bitcoin wallet has been funded",
+    "from": "\"Michel Pijls [lochtman]\" <M.Pijls@lochtman.nl>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 8 Dec 2022 21:43:05 +0000",
+    "message_id": "<5463f04c0238496cb8423ca705595bae@lochtman.nl>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_5463f04c0238496cb8423ca705595baelochtmannl_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_5463f04c0238496cb8423ca705595baelochtmannl_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Golemcoin.net"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 293,
+    "html_length": 773,
+    "has_text": true,
+    "has_html": true
+  }
+}

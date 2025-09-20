@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Bestellen Sie Ihr Medicare-Kit noch heute!",
+    "from": "Nachricht der AOK<datenschutz@{aok.de}>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 7 Jan 2025 08:58:52 +0000",
+    "message_id": "<06a4eb6f-99ff-4092-ba37-5445bb2a5703@DU2PEPF00028D13.eurprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "aok.de",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png",
+      "http://emailservicesnetau.com/6osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11",
+      "http://emailservicesnetau.com/8osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11",
+      "upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png",
+      "http://emailservicesnetau.com/5osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11",
+      "http://emailservicesnetau.com/track/3osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11",
+      "http://emailservicesnetau.com/4osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1579,
+    "html_length": 3556,
+    "has_text": true,
+    "has_html": true
+  }
+}

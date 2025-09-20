@@ -1,0 +1,174 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Livelo Informa: Conclua o resgate dos seus pontos ainda hoje!
+From: Bradesco <836123@bradesco>
+To: phishing@pot
+Date: Fri, 14 Jun 2024 23:56:18 +0000
+Message_Id: <764908b6ee2f9f38a8ed34143aa87255@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_764908b6ee2f9f38a8ed34143aa87255"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_764908b6ee2f9f38a8ed34143aa87255"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://bradapontosdisponiveis.com/pontos5018694/disponiveis432334250?rdr=brk
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #333333;
+            font-size: 14px;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        .container {
+            width: 650px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border: 1px solid #cccccc;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #d2176a;
+            text-align: center;
+            padding: 20px;
+            color: #ffffff;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .highlight {
+            color: #ff0096;
+            font-weight: bold;
+        }
+        .points-container {
+            border: 2px solid #cccccc;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+        }
+        .points-box {
+            border: 2px dashed #ff0096;
+            padding: 15px;
+            border-radius: 8px;
+            background-color: #fce4f5;
+        }
+        .points {
+            font-size: 36px;
+            color: #ff0096;
+            font-weight: bold;
+            text-align: left;
+            margin-top: 20px;
+        }
+        .details {
+            font-size: 14px;
+            color: #1a0f55;
+            text-align: left;
+            margin-top: 5px;
+        }
+        .left-section {
+            flex: 1;
+            text-align: left;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .right-section {
+            flex: 2;
+            text-align: left;
+            padding-left: 20px;
+        }
+        .details-list {
+            margin-top: 10px;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .cta-button {
+            background-color: #ff0096;
+            color: #ffffff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 25px;
+            font-size: 16px;
+            font-weight: bold;
+            border: none;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #777777;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Você ganhou 992.569 mil pontos Livelo</h1>
+        </div>
+        <div class="content">
+            <p>Prezado <span class="highlight">rodrigo-f-p@hotmail.com</span>,</p>
+            <p>Devido ao seu ótimo relacionamento com o banco <span class="highlight">Bradesco</span> através de sua <span class="highlight">Conta Corrente</span>, você foi presenteado com <span class="highlight">992.569</span> pontos <span class="highlight">Livelo</span>.</p>
+            <div class="points-container">
+                <div class="left-section">
+                    <div class="points-box">
+                        <div class="points">992.569</div>
+                        <div class="details">válidos até: 18/06/2024</div>
+                    </div>
+                </div>
+                <div class="right-section">
+                    <p><strong>Nº PROTOCOLO:</strong> 432334250</p>
+                    <p><strong>Troque seus pontos por milhas aéreas</strong></p>
+                    <p><strong>Descontos de até 35% na fatura do cartão</strong></p>
+                    <p><strong>Seus pontos podem valer até R$ 10.000,00</strong></p>
+                </div>
+            </div>
+            <p>Você poderá utilizar seus pontos de três maneiras:</p>
+            <ul>
+                <li><strong>Cashback Bradesco:</strong> Trocando seus pontos utilizando a modalidade <strong>Cashback</strong>. Nessa opção, seus pontos serão convertidos em Real e creditados em sua conta, assim você utilizará o saldo como quiser.</li><br>
+                <li><strong>Milhas:</strong> Utilizando os pontos para trocar por passagens aéreas e por hospedagens com nossos parceiros: 123 Milhas, Decolar, MaxMilhas, dentre outros.</li><br>
+                <li><strong>Produtos no Shopping Livelo:</strong> Enchendo seu carrinho de compras com eletrônicos, eletrodomésticos, celulares e muito mais no Shopping Livelo e pagando com seus pontos.</li><br>
+            </ul>
+            <p><strong>Importante:</strong> O resgate não pode ser realizado através de um dispositivo móvel, ou seja, só poderá ser concluído por meio de um notebook ou de um computador.</p>
+            <p>Para realizar o procedimento de sincronização, é muito simples, clique no botão abaixo e acesse sua <span class="highlight">Conta Bradesco</span>.</p>
+            <div class="button-container">
+                <a href="https://bradapontosdisponiveis.com/pontos5018694/disponiveis432334250?rdr=brk" class="cta-button" target="_blank">QUERO RESGATAR MEUS PONTOS</a>
+            </div>
+        </div>
+        <div class="footer">
+            © 2024 Banco Bradesco S/A - Todos os direitos reservados. CNPJ 60.746.942.0001-13<br aria-hidden="true">Por favor não responda a esse email.
+        </div>
+    </div>
+</body>
+</html>
+

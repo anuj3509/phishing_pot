@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Helfen Sie uns, uns zu verbessern und genie��en Sie eine besondere Belohnung! ",
+    "from": "Vielen Dank!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 07 Oct 2024 16:21:41 +0200",
+    "message_id": "<kSFOW0N.0.0.kSFOW0N.9.kSFOW0N@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "div.kl-row.colstack",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "http://magicmotorworks.info/op/1048_md/1/3585/1234/50/112483",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.upsearching.com/C61HZN3/2CM69CST/",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "www.zupimages.net/up/24/36/2cef.png",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "table.mobile-only",
+      "div.kl-column",
+      "content-padding.last",
+      "table.mj-full-width-mobile",
+      "http://magicmotorworks.info/oop/1048_md/1/3585/1234/50/112483"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5517,
+    "html_length": 28803,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fw: The result came faster than expected (and my partner is happy)",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sat, 4 Mar 2023 16:38:59 +0000",
+    "message_id": "\r\n <SA0PR04MB737077672BF10957ED07CAA8B3B09@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737077672BF10957ED07CAA8B3B09SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737077672BF10957ED07CAA8B3B09SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/J0xJvGx.png",
+      "https://sht.moe/skPSY#uIHGtLwabTtbyvMKefBMZDGdTQjxdS",
+      "i.imgur.com/83O5m7n.jpg",
+      "http://VcDavkxHOBrL.kitchenash.com/azVsdlZzOUJkS0JzQnlBY2ZhTzVUTkVST1J5SXZnZmoyWTNUTGd2WkQwTlJzYzFFSnhaelBXUkU2RndxQTNiSkRmdkJFSkhSMWRSMEFLRll6dlpjdzJxZGZDMExpZEx1M00rRlZlUG01NnVvNkNhTTU3SzdxZStVaFB5U2k0ZFp4bXlFSXBrZytqaldvVW0vWm1kTTFRPT0_",
+      "nxOQoARGZYyyAPEMVjaa.com",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "https://sht.moe/QcoHK#uIHGtLwabTtbyvMKefBMZDGdTQjxdS",
+      "nxOQoARGZYyyAPEMVjaa.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 475,
+    "html_length": 1368,
+    "has_text": true,
+    "has_html": true
+  }
+}

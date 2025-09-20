@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "CONGRATS....Your Hilton Reward Has Arrived... Open Immediately!",
+    "from": "Hilton Hotel - Thank You!!   ,_<xgvxc0@jorsaiddarns.com.com> ",
+    "to": "phishing@pot",
+    "date": "12-12-2023",
+    "message_id": "\r\n <feaec640-3d5e-4edd-908b-d43e856e45e7@BN7NAM10FT073.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://jorsaiddarns.com/rd/u51929YulbA27539914BPVm1547817Ryg68393xtGd3493",
+      "http://jorsaiddarns.com/rd/c51929XMMDm27539914GHgc1547817fwR68393IzFt3493"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 526,
+    "html_length": 1970,
+    "has_text": true,
+    "has_html": true
+  }
+}

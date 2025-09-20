@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Transação pendente. Protocolo: 7164942633959263",
+    "from": "\"Time NU. Protocolo:7164942633959263\" <gustavobissadaqmnn@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 23 Apr 2024 21:04:26 +0000",
+    "message_id": "<3d07ed929a2908251927bf172c5a3a63@gmail.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"1a8ae5619e19fbd7356f24df00033350\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"1a8ae5619e19fbd7356f24df00033350\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 234,
+    "html_length": 483,
+    "has_text": true,
+    "has_html": true
+  }
+}

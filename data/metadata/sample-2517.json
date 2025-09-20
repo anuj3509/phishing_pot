@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your Account KYC is unverified.",
+    "from": "\"Trust Wallet\" <AccountS@iiNeT.NeT.AU>",
+    "to": "Recipients <AccountS@iiNeT.NeT.AU>",
+    "date": "Mon, 08 Jan 2024 01:36:32 +0100",
+    "message_id": "<f9f26b$dttsbk@icp-osb-irony-out7.iinet.net.au>",
+    "content_type": "multipart/alternative; boundary=\"===============0324477241==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0324477241==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cdn1.app-us1.com/8339069bd26e47969682d527066d8b5b/banner/image17025761597848883.png",
+      "https://content.app-us1.com/bVLVv/2023/12/14/6ce53af9-4c63-4559-875d-18d07cc23219.png?id=27145409",
+      "https://37percent.com.au/alves"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 952,
+    "html_length": 6923,
+    "has_text": true,
+    "has_html": true
+  }
+}

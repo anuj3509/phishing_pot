@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Firm",
+    "from": "duch1902@gmail.com",
+    "to": "phishing@pot",
+    "date": "23 Feb 2023 16:03:28 -0800",
+    "message_id": "<20230223160328.7C18749E9A4AC7FD@gmail.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 762,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

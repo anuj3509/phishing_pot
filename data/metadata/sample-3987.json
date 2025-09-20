@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "100 % BIS ZU ���4,000 + 300 FREISPIELEN",
+    "from": "Eine Chance, Eine Chance, <newsletter@mail.toom.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Sep 2024 07:29:22 +0000",
+    "message_id": "<BYBLOMGQVYWSPQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4dkQPN34319KnOF987egkersgznt14302XSZONDHRYNGLPSO2KBDK6271H10",
+      "ontsWebfontsKit.css",
+      "http://topmarktingplace.com/6uzzbH34319rxuz987snqzoyouii14302FBXFMZLHSYUMCIQ2BCIG6271U10",
+      "table.center-on-narrow",
+      "http://topmarktingplace.com/4MzYWH34319bqlk987mxjaqxvpft14302XZTJNTGLXHZSDUI2XVRO6271N10",
+      "http://topmarktingplace.com/5cZJMt34319gYQC987mrerifmmji14302WJSJRVQNUOPOOAB2MZCS6271K10",
+      "span.preheader",
+      "staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4837,
+    "html_length": 14716,
+    "has_text": true,
+    "has_html": true
+  }
+}

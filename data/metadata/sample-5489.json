@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Spiderwiz] Login Details",
+    "from": "WordPress <wordpress@spiderwiz.org>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 27 May 2025 04:49:39 +0000",
+    "message_id": "<a409e9dbd27881cfcdef85668a018b5e@spiderwiz.org>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.jygihc.blogspot.qa",
+      "http://spiderwiz.org/project/wp-login.php?action=rp&key=8QPxXRgxbzyN2OLJUv6c&login=www.jygihc.blogspot.qa%20-%201.3409642%20BTC",
+      "http://spiderwiz.org/project/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 276,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

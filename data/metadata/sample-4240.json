@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "You're Invited! Discover Something Special",
+    "from": "Scroll Community <noreply@scrol.io>",
+    "to": "phishing@pot",
+    "date": "Sun, 27 Oct 2024 15:54:17 +0000 (UTC)",
+    "message_id": "<20241027155416.7621BDE8C362A3DA@scrol.io>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6opCPXbJN1dTGGYtbIefgI0jy0Cwu0s4qJX1elD0bhh2-2BqUWKbPJgS5QsYlAf6xGySA-3D-3DQM76_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsAjZ5mzLNOPk-2Bi7lmOj5wle0-2F-2B6PI-2ByOBuoccbi344cKj8rWt2QBt3ebypLNqOGRtR8xpLXBUQ8oE-2FKNmuXBWHtmDD8ViAx-2FPueHHPQsq87WwDIakA-2BV2s8Q9ih85RlU-2BTM8zzdeIMfSmN3UId2vMSR9rEsZwImEBmLjvHYRIQwg-3D-3D",
+      "https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png",
+      "https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVbuxtI-2FGXsYROWeRVTfpTf3HTRzLub3GCFubFcDTkvRYJ0IJDu9iqrBSIofL46-2BMEImDjV3HxplA4kJza9v2t12JbPLIxqF-2FHCMGTJDmuHbiGOwdIXGnRBlpOGWUjWZt0CJkT2zW84QZXekar90vs0juK-2FNZujavqc28I-2BJLWXkQ-3D-3D",
+      "https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3Dqd9H_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsAjZ5mzLNOPk-2Bi7lmOj5wle0-2F-2B6PI-2ByOBuoccbi344cDzn5nzhWVyqalzyxVhLDhfFVRuTdOGB12Y1sUccIKJywNNw4UWIrsnBYJahBCsC67edeUPQzUk8Txta3RGpwHxC5SzEuLGowvrXk1TZ3vnj5KBKbWjmhRaTUXkV7cSLqg-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 411,
+    "html_length": 4365,
+    "has_text": true,
+    "has_html": true
+  }
+}

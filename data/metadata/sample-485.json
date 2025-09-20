@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "ENC: BB: Viemos por meio deste e-mail informar que seus 169,378 Mil pontos Livelo BB irá expirar.* - ID 110SRM8658",
+    "from": "BANCO DO BRASIL  <038376@bb.com.br>",
+    "to": "phishing@pot",
+    "date": "Sat, 18 Mar 2023 05:24:03 +0000",
+    "message_id": "<d19a9a6af7618b7684ab132aa102618e@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d19a9a6af7618b7684ab132aa102618e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d19a9a6af7618b7684ab132aa102618e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/REbe8UA.png",
+      "http://o2speed.com.br/scss/bootstrap/utilitis//"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2192,
+    "has_text": true,
+    "has_html": true
+  }
+}

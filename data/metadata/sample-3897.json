@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Eu sou o advogado pessoal Alexis Aquereburu.",
+    "from": "\"Alexis Aquereburu\" <id@ma28.co.jp>",
+    "to": "id@ma28.co.jp",
+    "date": "Thu, 29 Aug 2024 22:15:20 +0900",
+    "message_id": "<a7af888e8869ab65d3c60dc7e21e9c01.squirrel@m4.coreserver.jp>",
+    "content_type": "text/plain;charset=iso-2022-jp"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain;charset=iso-2022-jp"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Barr.Alexis"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 908,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

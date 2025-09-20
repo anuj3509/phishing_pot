@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Nachricht f��r dich!",
+    "from": "Fickfreundinfinden, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Oct 2023 11:29:16 +0200",
+    "message_id": "\r\n <b939dbbb-7616-488a-970a-46a60494da37@VE1EUR01FT084.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://100.42.79.2/oop/914_md/31/4/75/23/2459859",
+      "http://100.42.79.2/op/914_md/31/4/75/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "http://100.42.79.2/media/9c811c12b0288ec.jpg",
+      "surwww.oncf-voyages.ma",
+      "http://100.42.79.2/cl/914_md/31/4/75/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5307,
+    "html_length": 9414,
+    "has_text": true,
+    "has_html": true
+  }
+}

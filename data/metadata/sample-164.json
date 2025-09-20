@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "***, seu cartão visa foi temporariamente bloqueado.",
+    "from": "UNICRED <notifica@unicred.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 14 Dec 2022 16:21:21 +0000",
+    "message_id": "<ee3b4491-924e-958f-e2ec-19af74a28047@unicred.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nf-z2c6nzwc7a-rj.a.run.app/uni/?tr=233ff8f491e94e9da88d9e7f271f3088&amp;t1=uni",
+      "table.center-on-narrow",
+      "red.com.br",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4073,
+    "html_length": 41084,
+    "has_text": true,
+    "has_html": true
+  }
+}

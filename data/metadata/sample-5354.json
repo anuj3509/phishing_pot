@@ -1,0 +1,78 @@
+{
+  "headers": {
+    "subject": "phishing@pot  Ihr WMF 12-Personen Luxus-Besteckset ist unterwegs!",
+    "from": "\"Metro VIP-Einladung\" <Department-client-n01809@mvmhosur.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 03 Apr 2025 18:42:09 +0000",
+    "message_id": "<d8d9d56d-f2de-4ed6-aa32-6d6e10353912@MA1PEPF000072B1.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7390w5BqaW9A92Leh8jyX01/b2JYKgEJT44x",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7vgTBa2LCrrYM8teDMYkSIv/L26VnATyjFNt",
+      "https://img.notification.biopharmcatalyst.com/im/sh/9RBcLb969VcL.png?u=2BpAyz2gMiWnciGhQXhq7kqmplB9y7WRnx",
+      "biopharmcatalyst.com",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ83TXDnIhILXK6Ign0Fg09v3/pHBEzIDEnoz8",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2nfy8RYkzwbSwvwInyRfQEo1/JZ06pcI6_61M",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng1uQblbtjvr0ewQJAezih3/P8VAiAFkhUqF",
+      "https://r.notification.biopharmcatalyst.com/mk/op/sh/7nVTPddU8lzHnqb05ogAPTSk7aPFz3l/AhIfc-o5hnHs",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng3nQ8GusJAJ31GETX9mSdZ/lMphWkMwel7A",
+      "https://fonts.googleapiscom/css2?family=IBM",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng7ZPBHWpRdD7jtqoG9LwWb/Et1qZa4FNqXL",
+      "https://img.notification.biopharmcatalyst.com/im/sh/hM2XisyxDvk6.png?u=2BpAyz2gMiWncrhf34Eixv6ydMDzmbS9WX",
+      "Scientist.com,",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng01R5GIvAhOyIcc8oACykX/ygTPmkBLmmLV",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2nfuMSVkNzT02rDfBdifqkuz/2O9K1gzRxW1D",
+      "upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_METRO.svg/1280px-Logo_METRO.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_METRO.svg/1280px-Logo_METRO.svg.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://img.notification.biopharmcatalyst.com/im/sh/Y36WjJ9pKOFb.png?u=2BpAyz2gMiWncnvg03clpSCtuibf3bsfdV",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2nfsTSzF50tlaorLNTMB40yT/0f-iTJRjXZjI",
+      "https://img.notification.biopharmcatalyst.com/im/sh/oRl_Q2Y3ut7M.png?u=2BpAyz2gMiWncgNhu2OrYWOkTRMzbcjhrR",
+      "https://img.notification.biopharmcatalyst.com/im/sh/RORe9kfGUCSx.png?u=2BpAyz2gMiWnck9gx30ogzIpC4zKKcJBkT",
+      ".editable.image",
+      "https://fonts.googleapis.com/css2?family=Arimo&family=Roboto",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2nfwFS2Fgy2EUtZyzo5AdUrV/X2hAQdE42gj4",
+      "Scientist.com",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ6vLwtrvUV2TOOsYVuFcipNt/Wz3bqEYvJAWD",
+      "http://r.notification.biopharmcatalyst.com/mk/mr/sh/7nVTPdZCTJDXPIOlxg3FXGdDeiV75pF/ukqnXSQpbFAE",
+      "https://i.imgur.com/gtvOXRS.png",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng5gPemDqsOl5Na2dteZCa5/SE2c96Rmmsn6",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7Ij90ViYlTUhdLvwGuyTwEH/cMjs0O2ABwVM",
+      "BioPharmCatalyst.com",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7g6L79Vd1uW0rpJMdaKF34f/JMx8aJb8-zSu",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7YJH4wFGwQqF7fWDqhCzLSX/ahzNkEyMYs5k",
+      "https://img.notification.biopharmcatalyst.com/im/sh/Auwvt9a0EDHa.jpg?u=2BpAyz2gMiWnceUiNX5szHwi77YpF7wxuv",
+      "https://img.notification.biopharmcatalyst.com/im/sh/sUL1jgG2S802.png?u=2BpAyz2gMiWncpofWYvkOgewH2PpQ6fPa1",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7QWD2iyuqxATNVj53o5jdqP/boRhtzMnAg2Q",
+      "https://urlz.fr/umz0?1pnHmLjgy5smc9UFI5FWNpoXrX962GT4RD9V5myVsdZx5OkUeSiHXC2lvSsGhkUwid3ulye54OHpBVuIkuLMlq",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7ntP9Mlz7OBmbz6VQTRUkgn/46aFqYsmDu6e",
+      "http://r.notification.biopharmcatalyst.com/mk/un/sh/7nVTPdbLJ2bPbZUt1kMhyN2yt9SBXRV/MHLHD9-h46Nf",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/7nVU1aA2ng9SOhmpo0rfA6Deyce8gT7/cSDnVORD9dAU",
+      "https://urlz.fr/umz0?N7fTf1CdufmxEWEpoatZrO1ulgsdWHOYKjg8A12MmwWftQfAiHKy6nMinJkS0pRB24zOdCxvLWC5NRwJI2gq0p",
+      "https://img.notification.biopharmcatalyst.com/im/sh/eH0ZC2KELOjm.png?u=2BpAyz2gMiWnccbir1muQ3UfknkesdADyP",
+      "https://img.notification.biopharmcatalyst.com/im/sh/M0OXQ-RlxP8L.png?u=2BpAyz2gMiWncm2gTYJnGDkrYOnUh75vgz",
+      "i.imgur.com/gtvOXRS.png",
+      "http://r.notification.biopharmcatalyst.com/mk/cl/f/sh/WCPzyXJTZ7Aw4yISCfzovtC8nU1rEEc9/Gk9WWDSWvq9T"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 50887,
+    "html_length": 89626,
+    "has_text": true,
+    "has_html": true
+  }
+}

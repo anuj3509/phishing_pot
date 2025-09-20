@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual signin activity",
+    "from": "Microsoft account team ,_<d7zyq@t15krpcku2.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 3 Feb 2024 07:02:56 +0000",
+    "message_id": "\r\n <51c4406a-c373-4298-a336-3919f8427b5b@VI1EUR05FT025.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "secaccinfoacesseesp.com?&amp;cc=info@secaccinfoacesseesp.com&amp;Subject=Unsubscribe+me",
+      "secaccinfoacesseesp.com?&amp;cc=info@secaccinfoacesseesp.com&amp;subject=unusual",
+      "sign.in",
+      "secaccinfoacesseesp.com?&amp;cc=info@secaccinfoacesseesp.com&amp;Subject=Report+The+User",
+      "http://thebandalisty.com/track/o55640dnkmJ27539965tbWc12546mLc70443ZpIv176"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15293,
+    "has_text": true,
+    "has_html": true
+  }
+}

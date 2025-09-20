@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Boleto Vencendo Hoje RODRIGO FERREIRA",
+    "from": "contato@popvespamotosuzuki.cfd",
+    "to": "phishing@pot",
+    "date": "Sun,  2 Feb 2025 13:32:45 -0300 (-03)",
+    "message_id": "<20250202163245.4AC67E812CE@box.popvespamotosuzuki.cfd>",
+    "content_type": "multipart/alternative; boundary=\"boundary123\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"boundary123\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://239.125.168.184.host.secureserver.net/phishing@pot/45626153000187"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1,
+    "html_length": 2630,
+    "has_text": true,
+    "has_html": true
+  }
+}

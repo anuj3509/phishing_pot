@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 1983197371",
+    "from": "Status Entrega - Correios <no-reply@%Encomenda_online.net>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 6 May 2025 02:08:39 +0000",
+    "message_id": "<20250506020839.F1E8E3F475@dopuspahunkt5xxx91lkxzjpsb>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pedidos1983197371sedexpac.criasegucepbuscar.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2230,
+    "html_length": 4237,
+    "has_text": true,
+    "has_html": true
+  }
+}

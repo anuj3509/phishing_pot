@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <contato@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Dec 2024 00:28:25 +0000",
+    "message_id": "<09e2095c-1090-ea6b-cf4c-5f9100976ed8@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpwww.redbooks.ibm.comredbookspdfssg248394.pdf",
+      "httpswww.economist.comtechnology-quarterly2020",
+      "httpwww.cce.ufpr.brhamiltoniaediaed.htm",
+      "https://juliodedansk.icu",
+      "businessinsider.comibms-watson-may-soon-be-the-best-",
+      "rios.As"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 46682,
+    "html_length": 82530,
+    "has_text": true,
+    "has_html": true
+  }
+}

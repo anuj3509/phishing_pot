@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "The Tether Program is live",
+    "from": "Tether <suzanny.mendes@ufes.br>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 8 Jun 2024 00:48:17 +0000",
+    "message_id": "<5XZX6QAD1PU4.V0E8DIKLQWBI3@ufes.br>",
+    "content_type": "multipart/alternative; boundary=\"=-BCIT4jWHPgpVhPh//kkSLg==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-BCIT4jWHPgpVhPh//kkSLg==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://d.img.vision/xlm/USDT.png",
+      "https://google.com/amp/s/tether.li/campaign"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 0,
+    "html_length": 272,
+    "has_text": false,
+    "has_html": true
+  }
+}

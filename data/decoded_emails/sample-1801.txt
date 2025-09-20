@@ -1,0 +1,464 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Antivirus Subscription Has Expired This Is A Critical Issue That Requires Urgent Action Now! 
+From: Norton - Anti Virus ,_<0u4cw6o4bk@oueac.onmicrosoft.com>
+To: phishing@pot
+Date: Sun, 5 Nov 2023 01:54:55 +0000
+Message_Id: <b9hg8h3jvmbpwz-7784-qmk8-irme-omcvvkpsrhxw@thardeerrimen.onmicrosoft.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, expire, expires, suspend, suspended
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://6nmgm2imycy2fna.org.uk/ripbolbol.jpg
+  - http://www.w3.org/1999/xhtml
+  - https://t.co/tNeajXlbGt
+  - https://t.co/HqQbomyQ21
+
+DECODED TEXT CONTENT:
+------------------------------
+html, body { font-family:Arial, Helvetica, sans_serif;font-size:12px;} img {padding:10px 0;} .p {line-height:1.2em} body {background-color: #FFFFFF;} .email_preview {display:none;visibility:hidden;opacity:0;position:fixed;top:-200px;left:-9999px;color:transparent;clip:rect(1px 1px 1px 1px);} td.c3 {background:#f8f8f8;color:#333333;} a.c2 {color:#333333;} td.c1 {background:#ffffff; padding:0 10px;} Subscription Information Activate your Norton today! | Keep yourself protected. URGENT: phishing@pot Your Norton Subscription Expired... Your device has been infected with (23) Virus Your Computer is at At Risk Renew Norton Antivirus ! Subscription: Expired Your Protection From Viruses Has terminated Â --> Account ID 184184 User phishing@pot Secure status Suspended Discount 89% Renewal Discount Your Norton for the Windows subscription has expired on Today 00:00 . . Norton subscription is recommended to protect your device. been activated a special discount to be used on Today Once the expiration date has passed, your computer becomes susceptible to many different virus threats. You are entitled to the discount: 89% discount on renewal for 1 year The offer expires: Today . Renew membership UNSUBSCRIBE
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width">
+
+  <meta http_equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <style type="text/css">
+
+    html, body { font-family:Arial, Helvetica, sans_serif;font-size:12px;}
+
+    img {padding:10px 0;}
+
+    .p {line-height:1.2em}
+
+    body {background-color: #FFFFFF;}
+
+    .email_preview {display:none;visibility:hidden;opacity:0;position:fixed;top:-200px;left:-9999px;color:transparent;clip:rect(1px 1px 1px 1px);}
+
+    td.c3 {background:#f8f8f8;color:#333333;}
+
+    a.c2 {color:#333333;}
+
+    td.c1 {background:#ffffff; padding:0 10px;}
+
+  </style>
+
+</head>
+
+<body class="clean-body" style="margin: 0; padding: 0;
+
+-webkit-text-size-adjust: 100%; background-color: #fff;">
+
+
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="400px" height="" style="font-family: Arial, Helvetica, sans-serif;font-size:20px;font-weight:bolder;color:#000000;">
+
+Subscription Information 
+
+</td>
+
+</tr>
+<center>
+
+	  <font size="4" color="green" face="calibri">
+
+              <marquee hspace="100" scrolldelay="120" width="50%"><b><i> Activate your Norton today! |
+
+                    Keep yourself protected. </i></b></marquee>
+
+            </font>
+
+
+
+<center><font size="6" color="Red" face="calibri" style="display:none;"><b>URGENT: phishing@pot Your Norton Subscription Expired... Your device has been infected with (23) Virus</b><br></font><br>
+
+<font size="5" color="black" face="calibri"><b>Your Computer is at At Risk Renew Norton Antivirus
+
+ </b><br></font>
+
+<tr>
+
+<td align="center" width="400px" height="" style="font-family: Arial, Helvetica, sans-serif;font-size:16px;font-weight:bolder;color:#B80000;">
+
+! <span style="color:#B80000;">Subscription:</span> Expired
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<center><table align="center">
+
+<tr><td bgcolor="#222e3a" align="center" valign="middle" width="600px" height="50px" style="font-family:Helvetica;color:#ffb901;font-size:22px;border-radius:10px;">Your Protection From Viruses Has terminated <span style="font-size:0%;"></span><span style="font-size:0%;"></span><span style="font-size:0%;"></span><span style="font-size:0%;"></span></td></tr>
+
+
+
+
+
+<!-- <tr>
+
+        <td height="10" style="display:block; line-height: 10px; font-size:1px;">Â </td>
+
+      </tr> -->
+
+
+
+      <tr>
+
+        <td>
+
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+        <tr>
+
+          <td valign="top" width="65%">
+
+          <table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+          <tr>
+
+                  <td>
+
+                    <table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+                      <!-- 1st row (account id) -->
+
+                      <tr>
+
+                        <td width="40%" class="w50" style="
+
+                            background-color: #fffef9;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: left;
+
+                            line-height: 120%;
+
+                            padding: 12px 0px 12px 20px;
+
+                            border-right: 1px solid #d8d8d8;
+
+                          ">
+
+                           Account ID 
+
+                        </td>
+
+                        <td width="60%" class="align-right-25 w50" style="
+
+                            background-color: #fffef9;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: center;
+
+                            line-height: 120%;
+
+                            padding: 12px 25px 12px 0px;
+
+                          ">
+
+                          <strong>184184</strong>
+
+                        </td>
+
+                      </tr>
+
+                      <!-- 1st row (account id) -->
+
+
+
+<!-- 2nd row (first name) -->
+
+                      <tr>
+
+                        <td width="40%" class="w50" style="
+
+                            background-color: #eeeeee;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: left;
+
+                            padding: 12px 0px 12px 20px;
+
+                            border-right: 1px solid #d8d8d8;
+
+                          ">
+
+                          User
+
+                        </td>
+
+                        <td width="60%" class="align-right-25 w50" style="
+
+                            background-color: #eeeeee;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: center;
+
+                            line-height: 120%;
+
+                            padding: 12px 25px 12px 0px;
+
+                          ">
+
+                          <strong>phishing@pot</strong>
+
+                        </td>
+
+                      </tr>
+
+                      <!-- 2nd row (first name) -->
+
+
+
+<!-- 3rd row (last name) -->
+
+                      <tr>
+
+                        <td width="40%" class="w50" style="
+
+                            background-color: #fffef9;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: left;
+
+                            line-height: 120%;
+
+                            padding: 12px 0px 12px 20px;
+
+                            border-right: 1px solid #d8d8d8;
+
+                          ">
+
+                           Secure status 
+
+                        </td>
+
+                        <td width="60%" class="align-right-25 w50" style="
+
+                            background-color: #fffef9;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: center;
+
+                            line-height: 120%;
+
+                            padding: 12px 25px 12px 0px;
+
+                          ">
+
+                          <strong> Suspended </strong>
+
+                        </td>
+
+                      </tr>
+
+                      <!-- 3rd row (last name) -->
+
+
+
+<!-- 4th row (form of contact) -->
+
+                      <tr>
+
+                        <td width="40%" class="w50" style="
+
+                            background-color: #eeeeee;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: left;
+
+                            line-height: 120%;
+
+                            padding: 12px 0px 12px 20px;
+
+                            border-right: 1px solid #d8d8d8;
+
+                          ">
+
+                          Discount
+
+                        </td>
+
+                        <td width="60%" class="align-right-25 w50" style="
+
+                            background-color: #eeeeee;
+
+                            font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+                            font-size: 14px;
+
+                            font-weight: 400;
+
+                            text-align: center;
+
+                            padding: 12px 25px 12px 0px;
+
+                          ">
+
+                          <strong>89% Renewal Discount</strong>
+
+                        </td>
+
+                      </tr>
+
+                      <!-- 4th row (form of contact) -->
+
+                    </table>
+
+                  </td>
+
+                </tr>
+
+                
+
+          </table>
+
+          </td>
+
+<a href="https://t.co/tNeajXlbGt">
+
+<tr><td bgcolor="#ffffff" align="left" valign="middle" width="600px" height="270px" style="font-family:Helvetica;color:#000000;font-size:14px;padding-left:20px;font-weight:bolder;">
+
+<br>Your <span style="background-color:#B80000;color:#ffffff;padding: 2px;">Norton </span>for the Windows subscription has expired on Today 00:00 .<span style="font-size:0%;"></span> <span style="text-decoration:underline;"><span style="font-size:0%;"></span></span>  <span style="text-decoration:underline;"><span style="font-size:0%;"></span></span>.
+
+<br><br>
+
+Norton subscription is recommended to protect your device. been activated a special discount to be used on Today
+
+<br><br>
+
+Once the expiration date has passed, your computer becomes susceptible to many different virus threats. 
+
+<br><br>
+
+<hr style="border:1px solid #ccc;">
+
+<br><br>
+
+You are entitled to the discount:<span style="font-size:0%;"></span><span style="font-size:0%;"></span><span style="background-color:#181E25;color:#ffffff;padding: 2px;"><span style="font-size:0%;"></span><span style="font-size:0%;"></span>89% discount on renewal for 1 year</span><br><br>
+
+The offer expires:  <span style="font-size:0%;"></span><span style="font-size:0%;"></span><span style="font-size:0%;"></span><span style="color:#FF0000;">Today</span>
+
+<br><br><center>
+
+<tr><tr>
+
+</a>
+
+<tr> <td><a style="display:none;" href="https://t.co/tNeajXlbGt">.</a> 
+
+<a id="current" href="https://t.co/tNeajXlbGt" style="color: #F6F4EE;text-decoration: none;">
+
+<div>
+
+          <table width="350" cellpadding="0" cellspacing="0" border="0" align="center" style="background-color: #ffb901 ; border-radius: 5px;">
+
+          <tr>
+
+            <td class="btn-primary" align="center" style="background: linear-gradient(to bottom, #ffb901 0%, #ffb901 100%); border-radius: 5px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; border:5px solid #fff;font-size: 22px; font-weight: 600; color: #222e3a; text-align: center; line-height: 29px; padding: 10px 20px; letter-spacing: 1px;">
+
+          Renew membership
+
+            </td>
+
+  </a>        </tr>
+
+</table>  <p></p>
+
+                    
+
+                    </table>  
+
+
+
+			
+
+		</a>
+
+		<br>
+
+		
+
+<br>
+
+<br>
+
+
+
+
+
+		<br>
+
+
+
+		</map>
+
+		<br>
+
+	</center>
+
+	<br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px"><a href="https://t.co/HqQbomyQ21" style="text-decoration:none;color:black"><img scr="http://6nmgm2imycy2fna.org.uk/ripbolbol.jpg">UNSUBSCRIBE</a></span>
+<br><br><img alt="" src="https://t.co/HqQbomyQ21" width="1px" height="1px" style="visibility:hidden">
+<br><br></body>
+
+
+
+</html>
+

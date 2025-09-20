@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Your chance to receive a FREE Tupperware 36-piece set!",
+    "from": "QVC Customer Support <reward@fakepromos123,com>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Jun 2025 17:58:36 +0000",
+    "message_id": "<676792286950893.6.EKA1339538251@clicknowoffers.info",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [
+      "fakepromos123,com"
+    ],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/25/03/aocv.png",
+      "http://beautyessentials.top/track/3dqAVn236374kGTV1229ejxxerunfy28353KSFDIBXHUBUXAOK577662/5858n29",
+      "http://dqAVn8gcALODIo1RaPEFdqAVn8gcALODIo1RaPEFdqAVn.beautyessentials.top/6dqAVn236374kGTV1229ejxxerunfy28353KSFDIBXHUBUXAOK577662/5858n29",
+      "http://beautyessentials.top/6dqAVn236374kGTV1229ejxxerunfy28353KSFDIBXHUBUXAOK577662/5858n29",
+      "http://dqAVn8gcALODIo1RaPEFdqAVn.beautyessentials.top/4dqAVn236374kGTV1229ejxxerunfy28353KSFDIBXHUBUXAOK577662/5858n29",
+      "zupimages.net/up/24/35/51p3.png",
+      "http://FDiFfYWqdCjarOt8gcALODIo1RaPEFFDiFfYWqdCjarOt.beautyessentials.top/track/3dqAVn236374kGTV1229ejxxerunfy28353KSFDIBXHUBUXAOK577662/5858n29",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2364,
+    "html_length": 5615,
+    "has_text": true,
+    "has_html": true
+  }
+}

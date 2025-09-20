@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Fwd: Notificação - Valores a Receber  - qWrUAngJaLJzBndSE",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Thu, 16 Nov 2023 11:09:23 +0000",
+    "message_id": "\r\n <SN4PR0601MB86655A25DE21F081B668A06AEEB0A@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86655A25DE21F081B668A06AEEB0ASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86655A25DE21F081B668A06AEEB0ASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "sJswLOJPwC6Ql4337.pdf",
+      "content_type": "application/pdf",
+      "size": 62925
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com&gt;",
+      "https://aka.ms/AAb9ysg",
+      "gmail.com",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 615,
+    "html_length": 1435,
+    "has_text": true,
+    "has_html": true
+  }
+}

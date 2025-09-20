@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Sep 2023 14:24:13 +0200",
+    "message_id": "\r\n <879cc4f3-9432-4746-9419-06a2244f07a1@DB3EUR04FT032.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://144.172.64.14/cl/168_md/31/22/663/3/315429",
+      "http://144.172.64.14/op/168_md/31/22/663/3/315429",
+      "https://zalando.com/user/verify/j8642gzPVf6CygK4rmZzfgM2x2f29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://144.172.64.14/media/2bc8a96495af6bc.jpg",
+      "www.ONCF-Voyages.ma",
+      "http://144.172.64.14/oop/168_md/31/22/663/3/315429",
+      "surwww.oncf-voyages.ma",
+      "murrelektronik.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6096,
+    "html_length": 12765,
+    "has_text": true,
+    "has_html": true
+  }
+}

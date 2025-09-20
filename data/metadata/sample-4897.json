@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Confirmation of Order 601358 receipt",
+    "from": "\"Paid Customer\" <rajabhaikumarx@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Mon, 03 Feb 2025 05:52:45 -0800 (PST)",
+    "message_id": "<67a0ca2d.050a0220.b1e1b.9d0b@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============0300790450277407748==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============0300790450277407748==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1391,
+    "html_length": 3060,
+    "has_text": true,
+    "has_html": true
+  }
+}

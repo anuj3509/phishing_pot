@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso de Multa Vinculada à Sua CNH - Providências Necessárias! Protocolo: 17191271.",
+    "from": "DETRAN Notifica <suspensao547271@detran>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 7 Mar 2025 07:25:20 +0000",
+    "message_id": "<a0eda9202c49d67662406fbe052866b1@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a0eda9202c49d67662406fbe052866b1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a0eda9202c49d67662406fbe052866b1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://function-1-765775392619.us-central1.run.app"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4111,
+    "has_text": true,
+    "has_html": true
+  }
+}

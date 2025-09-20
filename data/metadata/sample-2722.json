@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Guten Tag  phishing@pot-f-p ",
+    "from": "Fressnapf, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jan 2024 22:50:32 +0100",
+    "message_id": "<r1jeeBq.0.0.r1jeeBq.9.r1jeeBq@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/24/05/ozdo.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/24/05/ozdo.jpg",
+      "https://www.zupimages.net/up/23/41/xq4r.png",
+      "www.zupimages.net/up/23/41/xq4r.png",
+      "soldering-on.co.uk/op/7406_md/1997/3057/1099/40/656605",
+      "http://soldering-on.co.uk/oop/7406_md/1997/3057/1099/40/656605",
+      "https://directfwd-2.com/?a=7790&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8519,
+    "has_text": true,
+    "has_html": true
+  }
+}

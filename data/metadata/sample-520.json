@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Fw: Goodday",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Mon, 27 Mar 2023 12:37:18 +0000",
+    "message_id": "\r\n <SA0PR04MB737028717CFE67A3EB8084DAB38B9@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737028717CFE67A3EB8084DAB38B9SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737028717CFE67A3EB8084DAB38B9SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "nils.haberzettl@stud.evhn.de&gt;",
+      "nils.haberzettl@stud.evhn.de"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 399,
+    "html_length": 932,
+    "has_text": true,
+    "has_html": true
+  }
+}

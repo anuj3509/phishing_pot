@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo:15208535",
+    "from": "Correios <avisos195969@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Aug 2024 12:55:50 +0000",
+    "message_id": "<65192b85f5fead846f1add0fec2f7f37@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_65192b85f5fead846f1add0fec2f7f37\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_65192b85f5fead846f1add0fec2f7f37\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://clientes-rastreamentocorreios.co.ua",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2467,
+    "has_text": true,
+    "has_html": true
+  }
+}

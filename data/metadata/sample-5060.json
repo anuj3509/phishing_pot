@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "100€ Bahn-Gutschein zu gewinnen! ",
+    "from": "Deutsche Bahn Team <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 8 Mar 2025 20:11:34 -0500",
+    "message_id": "<bfqcEvk.0.0.bfqcEvk.9.bfqcEvk@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.zupimages.net/up/24/02/f26q.png",
+      "http://blog.dury.agency/cStSZ3ZzdTNKUnhsbnM4c2tlbnV1ZGdYM2JwN3lIWVpsbXJ1SEpoSTk0UTdqTlMzdEtEMUZ4bk5DMEEwS2hhV0JkcFgzUE9URTZiRGRUZXVyZy9vd3c9PQ__",
+      "http://dev.dury.agency/TFRRakFaUUkyc1NlRlVlSjdwK2xycjdFdU1DV0JMNHJ6RENON0tqRWEyODZNQlRCNnVwbjhIUFJMcTVuRW05WjRUczZPNEo3ZEZsUVdISVYvSjBiYXc9PQ__",
+      "http://dev.dury.agency/Rm1pZnV4R0pTYUthWld2S3dSaDhZN0NKNHFpeklFTHA2djhyc2wyZHNISTJyeXozbkh3UmVNTVJTeFJYQ1lvcGNsRkw1K1E4d1luUVgxUGVKQllhMXc9PQ__",
+      "https://www.zupimages.net/up/24/02/f26q.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 852,
+    "html_length": 2544,
+    "has_text": true,
+    "has_html": true
+  }
+}

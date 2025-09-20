@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Je energierekening was onterecht te hoog ��� claim tot ���10.000 terug",
+    "from": "Compensatie Loket Nederland <noreply@beslist.nl>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 6 Jun 2025 21:33:26 +0200",
+    "message_id": "<5686ec5d-014a-4d30-9c6a-872f70774d12@DU2PEPF00028D09.eurprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#VDRHQ05mVld0Rm1TZkRwVlNKQVJtZmVUUVZmNUFyQWpGbUdMRjV4N2dFQ281WWd4cWU4RERINFRvaTJ5dml1YjZ5U1c5N2xGWW0zcW9XelhFOEhqQ3JYNzFWWnFYbUl6OUQydTU2Ny9MTWs9",
+      "https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;700;800&amp;display=swap",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#cEYxTjJjY3FrcGVELzVuMUowcHkvZGNKRTFKTUx4UDRhc3VQbDJRUGQxRkF1L3ZEM0szUmQrQnllUi8xTjFwMHdaWXNkMjI1YUdmNmlnajJrZFg1aWZXK3M3b2xwWEdacVBid0o1b2JwbVk9",
+      "http://ToPfQ.canaldirecto.com.ar/cGxEcWdaRDdZeTVHRXZnZkl1V2xkNlNIY1ByMENUNEo3SFhITWdCVEdrdFVWYUptZzZqNlVkMGN5N2YvNVpuYWxKVnB3MndGYTY2Z0lrbW03R0J4M1RnaWtrdzdwcnVkcG9VVC82NzFVMnM9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2906,
+    "html_length": 20605,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Case N°01237: Your Assets Are Now Available",
+    "from": "SupportFTX <information@cheezhospitality.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 3 Oct 2023 19:06:56 +0000",
+    "message_id": "<0106018af6efac62-cc0b79c5-4f13-4d81-a33d-12aae8299554-000000@ap-northeast-1.amazonses.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_64586CC5.FFE49680\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_64586CC5.FFE49680\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "prods.png",
+      "https://www.timeanddate.com/astronomy/red-sunset.html",
+      "Conforama.fr",
+      "https://t.info.conforama.fr/r/?id=h363794bb,22c1b09f,1f353500&amp;e=cDE9JTQwOXFuRVJZY2d3aUdnZ1pPZFlVQWM1dGdTRFhPUlRXOUQyQjhueWVBZU1wSSUzRA&amp;s=JXqPiZk8YelrSr8n-HPt50oQQXIjk546VcSaOSfR24U",
+      "https://claudiaaponte.com.co/pf/?id=uaahvq,22c1b09f,1f353508",
+      "https://t.info.conforama.fr/r/?id=h363794bb,22c1b09f,1f353502",
+      "https://t.info.conforama.fr/r/?id=h363794bb,22c1b09f,1f353507",
+      "claims.ftx.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1725,
+    "html_length": 18085,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot,Hurry up. The number of prizes to be won is limited!",
+    "from": "Ulta Team <noreply@theskimm,com>",
+    "to": "phishing@pot",
+    "date": "Tue, 13 May 2025 17:19:24 +0000",
+    "message_id": "<451902816925344.4.NLZ6042164283@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "zupimages.net/up/25/20/69qj.png",
+      "http://wkXuKZ9YkhNjzTFCRrrmwkXuK.vitalbloom.info/4wkXuK14789NaTo233ycplvvbvuq3761EDMXZRZVRNALRAM56526HADD1906A209",
+      "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+      "https://assets.unlayer.com/projects/272394/1746735331253-Rectangle%20220.png",
+      "zupimages.net/up/25/20/11pd.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://2067.efuserassets.com/2067/offers/2725/c/2215/assets/images/image-5.png",
+      "http://hiuMLUzztUmfJNEZ9YkhNjzTFCRrrmhiuMLUzztUmfJNE.vitalbloom.info/track/3wkXuK14789NaTo233ycplvvbvuq3761EDMXZRZVRNALRAM56526HADD1906A209",
+      "zupimages.net/up/25/20/ybsr.jpg",
+      "http://vitalbloom.info/6wkXuK14789NaTo233ycplvvbvuq3761EDMXZRZVRNALRAM56526HADD1906A209",
+      "zupimages.net/up/25/20/uljm.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2656,
+    "html_length": 33337,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,74 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You're Invited! Discover Something Special
+From: Scroll Community <noreply@scrol.io>
+To: phishing@pot
+Date: Mon, 28 Oct 2024 05:59:57 +0000 (UTC)
+Message_Id: <20241028055957.1F3C65A04864CFFA@scrol.io>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://scrollportal.s3.us-east-1.amazonaws.com/index.html
+  - https://srcio.s3.us-east-1.amazonaws.com/index.html
+  - https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Your SCR Token Reward Your SCR Tokens Are Ready! Thank you for being an essential part of the Scroll community. To celebrate our journey towards a decentralized future, we are excited to offer you an allocation of SCR tokens. Claim Period: October 22, 2024, onwards Claim Your Tokens Together, we're building a future with global access and decentralized infrastructure. If you wish to unsubscribe, click here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your SCR Token Reward</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f5f5;">
+    <table width="100%" bgcolor="#f5f5f5" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table width="600" style="max-width: 600px; margin: auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png" alt="Scroll Logo" width="100" style="display: block;" height="100">
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: #333333; text-align: center;">
+                            <h1 style="margin: 0 0 10px; color: #f56c42; font-size: 24px;">Your SCR Tokens Are Ready!</h1>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;">Thank you for being an essential part of the Scroll community. To celebrate our journey towards a decentralized future, we are excited to offer you an allocation of SCR tokens.</p>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;"><strong>Claim Period:</strong> October 22, 2024, onwards</p>
+                            <p style="text-align: center;">
+                                <a href="https://srcio.s3.us-east-1.amazonaws.com/index.html" style="padding: 12px 30px; border-radius: 4px; color: #ffffff; font-size: 16px; text-decoration: none; display: inline-block; background-color: #f56c42;">Claim Your Tokens</a>
+                            </p>
+                        </td>
+                    </tr>
+                    <!-- Footer Section -->
+                    <tr>
+                        <td style="padding: 15px; text-align: center; color: #999999; font-size: 12px;">
+                            <p style="margin: 0 0 5px; color: #999999;">Together, we're building a future with global access and decentralized infrastructure.</p>
+                            <p style="margin: 5px 0; color: #999999;">If you wish to unsubscribe, <a href="https://scrollportal.s3.us-east-1.amazonaws.com/index.html" style="color: #f56c42; text-decoration: none;">click here</a>.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

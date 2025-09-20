@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch,{fisrtname}",
+    "from": "Kunden Service, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Feb 2024 02:20:49 +0100",
+    "message_id": "<4ePpPSZ.0.0.4ePpPSZ.9.4ePpPSZ@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/22/10/o5or.jpg",
+      "https://www.zupimages.net/up/22/10/o5or.jpg",
+      "http://soldering-on.co.uk/oop/422_md/1991/229/44/20/207151",
+      "http://soldering-on.co.uk/op/422_md/1991/229/44/20/207151",
+      "https://directfwd-2.com/?a=7790&amp;oc=14647&amp;c=41082&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1896,
+    "html_length": 9008,
+    "has_text": true,
+    "has_html": true
+  }
+}

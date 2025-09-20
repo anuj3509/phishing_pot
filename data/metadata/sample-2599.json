@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your Account KYC is unverified.",
+    "from": "\"Trust WaIIet\" <cUSTOMER_sERvICe@tPG.cOm.au>",
+    "to": "users <cUSTOMER_sERvICe@tPG.cOm.au>",
+    "date": "Mon, 15 Jan 2024 12:59:45 +0100",
+    "message_id": "<aaadfe$8d8ft6@rpt-glb-asav2.external.tpg.com.au>",
+    "content_type": "multipart/mixed; boundary=\"===============1243563989==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1243563989==\""
+  },
+  "attachments": [
+    {
+      "filename": "check-mark.png",
+      "content_type": "image/png",
+      "size": 18596
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://hotelgalinos.com/image/user_cs.png",
+      "https://xvx3.sa.com/blog",
+      "https://hotelgalinos.com/image/dan.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2275,
+    "html_length": 11614,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Our order for$348.80 is now being processed.",
+    "from": "Gavin\tTerry <raramsey@srcm.edu.ph>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 4 Jun 2025 23:25:35 +0600",
+    "message_id": "<CAJsBh1u-wEpeocsK_pg=mCKWXpj_TwMr0eMx1yoP7oRxFeaDjw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000a0e5810636c249d0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000a0e5810636c249d0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 660,
+    "html_length": 1527,
+    "has_text": true,
+    "has_html": true
+  }
+}

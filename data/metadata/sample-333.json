@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Synchronization required (011729)",
+    "from": "Ledger <anya.rahmoune@edhec.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 Feb 2023 06:57:12 +0100",
+    "message_id": "<H0FYGD3F7JU4.8YIJS53U4I703@smtp.office365.com>",
+    "content_type": "multipart/alternative; boundary=\"=-JLLjvZzLrGrQaf7XEzkbtg==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-JLLjvZzLrGrQaf7XEzkbtg==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sync.pananpack.com/",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1767,
+    "html_length": 28696,
+    "has_text": true,
+    "has_html": true
+  }
+}

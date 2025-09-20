@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Fw: [Payment Decline] Account security, your amazon last order on\r\n hold on Thu, November 09, 2023  1:50 AM - ID6133734083",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Thu, 9 Nov 2023 11:52:30 +0000",
+    "message_id": "\r\n <IA0PR02MB97798E5C26896020CB4A13D0B3AFA@IA0PR02MB9779.namprd02.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_IA0PR02MB97798E5C26896020CB4A13D0B3AFAIA0PR02MB9779namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_IA0PR02MB97798E5C26896020CB4A13D0B3AFAIA0PR02MB9779namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "Receipt.pdf",
+      "content_type": "application/octet-stream",
+      "size": 312387
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "alvinaturizm.com&gt;",
+      "customer.com",
+      "alvinaturizm.com",
+      "customer.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 364,
+    "html_length": 847,
+    "has_text": true,
+    "has_html": true
+  }
+}

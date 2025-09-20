@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Aviso, Mercadoria Retida.",
+    "from": "Correios <transportes@correios>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 30 Mar 2025 01:11:00 +0000",
+    "message_id": "<392fa31e-1b09-cfad-b635-2b6eb9cae504@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3768,
+    "html_length": 6961,
+    "has_text": true,
+    "has_html": true
+  }
+}

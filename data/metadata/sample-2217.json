@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Hallo phishing@potSie sind einer unserer m��glichen Finalisten f��r einen REWE Gutschein.",
+    "from": "Gewinner Team, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Dec 2023 16:03:09 +0100",
+    "message_id": "<lJ2ecUr.0.0.lJ2ecUr.9.lJ2ecUr@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://lovvisadvertising.go2cloud.org/aff_i?offer_id=799&amp;file_id=5904&amp;aff_id=1315",
+      "www.zupimages.net/up/23/50/wofz.png",
+      "https://www.zupimages.net/up/23/08/jev8.jpg",
+      "http://rewe-groupe.superkoran.info/YVF4QUd4UHF4Z3BZblBNWHF0eHgyOEg1YXFFbGdIMWpwcmxRVmhZcCtydzQ2b1hNaFBUcFdZVXY4eGJmOWJUUjV1cjVEaVBTQUt0R1cwRERDL295emtjM2ovYlUvSFZVMnZxaGNnUG8welE9",
+      "http://rewe-groupe.superkoran.info/dmEyYllyTElyU3JEMVlBSWwyUTV1S3pEL0FtczFQZ0hXbERtRmhMTnltWFpIS0grR0pzWngzejM1dEZadElLL085QjJqSCtUc1AvQ3JpWmFyam5Qamc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/50/ugn9.png",
+      "http://rewe-groupe.superkoran.info/RUtzQVVRMlovQzlQN3lmRElwbmtONlBSYmh2cVpDRm9ZVXFzaG9hL1lQVk5OQkV0OHV1eTBkakhmd2FaWi9VbGgyQW9iU1ZMUjV3NjNsQ1RVSlRCaUE9PQ__",
+      "https://www.zupimages.net/up/23/50/wofz.png",
+      "www.zupimages.net/up/23/08/jev8.jpg",
+      "https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/23/50/ugn9.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1435,
+    "html_length": 7329,
+    "has_text": true,
+    "has_html": true
+  }
+}

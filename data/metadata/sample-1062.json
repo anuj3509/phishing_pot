@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 262677886",
+    "from": "Mercado Livre <notificacoes@mercadolivre.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 08 Aug 2023 17:44:15 +0000",
+    "message_id": "<04418440-957a-c8df-171f-05ae3fcdec24@mercadolivre.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://n-a4qxna7jwq-rj.a.run.app/m/?tr=33a802771d3b43e0b002f9f5e20f5f2f&amp;t1=ml",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 540,
+    "html_length": 10274,
+    "has_text": true,
+    "has_html": true
+  }
+}

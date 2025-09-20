@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Voce tem saldo disponivel para resgate expirando em breve! [8456]",
+    "from": "\"Bradesco S.A-8456\" <suporteti@deltamit.com.br>",
+    "to": "elianagutierrez09@hotmail.com",
+    "date": "Wed, 08 Nov 2023 07:21:05 -0300",
+    "message_id": "<9422baff22bbe1d9aaf42db53fa8590e@deltamit.com.br>",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_402c71564770530a1fccf227bbfa43e9\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_402c71564770530a1fccf227bbfa43e9\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://68.134.167.72.host.secureserver.net/BBBBBBBCTTTTTTTTTвCDbbBbcasdBBBBBб"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1333,
+    "html_length": 3648,
+    "has_text": true,
+    "has_html": true
+  }
+}

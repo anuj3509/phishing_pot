@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "💗 Had leuk kunnen zijn als je belde",
+    "from": "Jelisa Hooijer <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Fri, 09 Dec 2022 17:32:23 +0000",
+    "message_id": "\r\n <2e3a15af-2907-41cd-b2d0-a07215fc18bf@VI1EUR05FT056.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://secure-trck.com/?a=72&amp;c=100&amp;s1=&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 785,
+    "html_length": 1625,
+    "has_text": true,
+    "has_html": true
+  }
+}

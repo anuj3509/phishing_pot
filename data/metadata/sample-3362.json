@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "NUBANK AVISO DE COMPRA - 8dSHbu0oHKXsxJE",
+    "from": "AVISO DE COMPRA - 4028389522 <jonathaneoattebery647@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 18 Jun 2024 16:04:35 +0000",
+    "message_id": "<c8452472eb6ba99d7ffa8d16244901aa@gmail.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"3a270aed14558b76c36213a3000ffb60\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"3a270aed14558b76c36213a3000ffb60\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 192,
+    "html_length": 307,
+    "has_text": true,
+    "has_html": true
+  }
+}

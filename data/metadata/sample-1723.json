@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Congratulations - Details Apply ",
+    "from": "Walmart Department  ,_<53f6d@d15gm8ia21.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Oct 2023 01:09:34 +0000",
+    "message_id": "\r\n <4d3ccf02-bd4e-428a-8cbe-eb6da89b0b6b@BN8NAM12FT072.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://dtherhproblem.us/su47355gKdRf27537896CVeA1371191lBW68717ITTq3235",
+      "https://t.co/qPdAvMwm0c",
+      "https://t.co/qKEIgjLN4a",
+      "https://i.imgur.com/ewDzPwl.jpg",
+      "i.imgur.com/ewDzPwl.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 8754,
+    "has_text": true,
+    "has_html": true
+  }
+}

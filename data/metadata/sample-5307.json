@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificação Oficial: Irregularidade fiscal detectada em seu CPF. Protocolo: 40984558.",
+    "from": "Comunicado Receita Federal <regularizacao980877@receita>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 21 Apr 2025 10:24:10 +0000",
+    "message_id": "<b65da1b15927bebdd7c1285c8087dc5a@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b65da1b15927bebdd7c1285c8087dc5a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b65da1b15927bebdd7c1285c8087dc5a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-3-1062496865825.us-central1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4254,
+    "has_text": true,
+    "has_html": true
+  }
+}

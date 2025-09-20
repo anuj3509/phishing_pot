@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Your Policy Not Yet Confirmed",
+    "from": "Microsoft Laws <info@tzmoonline.pl>",
+    "to": "phishing@pot",
+    "date": "Fri, 11 Apr 2025 05:53:30 +0000 (UTC)",
+    "message_id": "<4ZYm7t2GRgzYpfPJ@smtp2-3855.emaillabs.net.pl>",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============8384620749783950114==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============8384620749783950114==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://accounts.suzeorman.com",
+      "https://sarahberger.co.uk/wp-admin/users/wsuOSS?_mac=5599BEF6C5C97ACCDE7C26E4&amp;id=759366",
+      "https://accounts.suzeorman.com/password/reset/5b78863b082394e2e5e4e8d458ceea4aae5cc27756d9448413514989360aa2c6?email=petexmen%40msn.com",
+      "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/MSFT_logo_c_C-Gray-3?scl=1&amp;fmt=png-alpha",
+      "http://www.w3.org/1999/xhtml",
+      "https://tracking.tzmoonline.pl/open/?ot=MHwwfHJvZHJpZ28tZi1wQGhvdG1haWwuY29tfDEudHptb2dsb2JhbC5zbXRwfHJlZGdyaWQxMXww%0AfDEuZTkxZTNmNDRmODI4NzA1ZWQyNWQ5Y2MwZWZiN2FiYjQ%3D%0A",
+      "https://support.microsoft.com/policy/update/5b78863b082394e2e5e4e8d458ceea4aae5cc27756d9448413514989360aa2c6?email=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 10,
+    "html_length": 12573,
+    "has_text": true,
+    "has_html": true
+  }
+}

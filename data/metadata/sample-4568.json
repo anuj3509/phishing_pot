@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "🚚 Action Required: Confirm Your Address for UPS Delivery 📦",
+    "from": "\" UPS Delivery Team \"<admin@costumer-support.co.za>",
+    "to": "phishing@pot",
+    "date": "Sun, 22 Dec 2024 22:53:06 +0000",
+    "message_id": "<gnuvwogqfepbcgD_4oh319440629521398620514811961147126417778920083275687476494823014772996988623512324750275718443052877384476767879235657314625296429384159773941063625994640999938625536627823561187068.1.DJVIRJEKAP1FN7XW121LAOphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://storage.googleapis.com/llmo/oer.html#5LCiHa6918KrON293scdgaqwuiy143TOJXAPZLOTRBEKP62HMCW14951v17",
+      "http://scoutly.online/t/4ZSXLf6918scPy293vdimglduzm143OPGUOVALYMMZUXO62GGKK14951G17",
+      "http://scoutly.online/t/track/3YWXDE6918PuWp293gyzykkuttm143GEKJSWAIUZWOKVG62ZXNM14951E17",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2880,
+    "html_length": 6323,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "- Voce esta Recebendo uma Autorizacao de Retirada - Protocolo: 8077P3EDRW",
+    "from": "Correios Ultimo Aviso <004464@electra.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 10 Jan 2024 21:17:01 +0000",
+    "message_id": "<9592b654d5f6487a88d67f7b7963ae82@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_9592b654d5f6487a88d67f7b7963ae82\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_9592b654d5f6487a88d67f7b7963ae82\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www2.correios.com.br/encomendas/img/logotipoEct.gif",
+      "http://gameonesa.servegame.org/?hash=phish@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 51,
+    "html_length": 2134,
+    "has_text": true,
+    "has_html": true
+  }
+}

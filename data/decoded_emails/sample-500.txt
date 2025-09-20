@@ -1,0 +1,158 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ✔️ Infoemail Bradesco - Você tem pontos Fidelidade Bradesco disponível!
+From: Banco Bradesco ® <sac@bradesco.com.br>
+To: phishing@pot
+Date: Mon, 20 Mar 2023 15:50:26 +0000
+Message_Id: <bccc5d32346b5535b887fbf78e594bdf@www.gokhanerkol.com>
+Content_Type: multipart/alternative;
+	boundary="b1_bccc5d32346b5535b887fbf78e594bdf"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: multipart/alternative;
+	boundary="b1_bccc5d32346b5535b887fbf78e594bdf"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, confirm
+URLs found:
+  - https://i.imgur.com/mypV9Mf.png
+  - https://i.imgur.com/WdI5c6D.png
+  - https://fonts.googleapis.com/css2?family=Open
+  - http://juchka.ru/ebe9146807364600b700f64adfcd5995/css/?cliente=phishing@pot
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+
+	
+	
+	
+	Documento
+
+	
+		@import url('https://fonts.googleapis.com/css2?family=Open Sans:wght@300;400;600&display=swap');
+		*{font-family: 'Open Sans', "Segoe UI", sans-serif;}
+	
+
+
+
+
+	
+		
+			Caso não esteja visualizando corretamente esta mensagem clique em "exibir imagens"
+		
+	
+	
+		
+	
+	
+		Bradesco & Livelo - Pontos disponíveis.
+	
+	
+		
+			
+				Não perca o prazo do resgate!
+			
+			
+				Olá phishing@pot
+				
+				Nosso sistema de pontos unificado com Bradesco & Livelo identificou que você ainda não resgatou seus pontos disponíveis.
+				
+				Este é um lembrete para que seus pontos não expirem sem o resgate! Estes pontos servem como descontos em viajens, hoteis, eletrodomésticos e muito mais.
+				
+				Você tem 120.000 pontos disponíveis para resgate imediato prestes a expirar nos próximos dias! Para iniciar o procedimento de resgate dos pontos, utilize o botão abaixo e siga o procedimento solicitado na página de resgate apresentada.
+			
+			
+				Resgatar Pontos
+			
+			
+			**Para sua segurança faça o resgate pelo computador utilizando o QR CODE em Validação Digital no APP de seu celular para confirmação do Resgate!**
+			
+				Caso não realize o resgate dos seus pontos disponíveis no prazo disponível, seus pontos serão expirados e não poderão ser resgatados posteriormente!
+			
+		
+	
+	
+		
+	
+	
+		© 2023 - Bradesco & Livelo.
+	
+
+
+
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Documento</title>
+
+	<style>
+		@import url('https://fonts.googleapis.com/css2?family=Open Sans:wght@300;400;600&display=swap');
+		*{font-family: 'Open Sans', "Segoe UI", sans-serif;}
+	</style>
+</head>
+<body style="margin: 0;padding: 0;background: #f1f1f1;font-family: 'Open Sans', 'Segoe UI', sans-serif;">
+
+<table style="display: block;width: 600px;margin: 20px auto;background: #fff;border: 1px solid #ccc;">
+	<tr>
+		<td style="display: block;text-align: center;font-size: 11px;color: #666;">
+			Caso não esteja visualizando corretamente esta mensagem clique em <b style="color: #333;">&quot;exibir imagens&quot;</b>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://i.imgur.com/WdI5c6D.png" alt="" style="display: block;width: 593px;"></td>
+	</tr>
+	<tr style="background: #b41a82;color: #fff;font-weight: 600;font-size: 18px;padding: 0 5px;margin: -3px 0 0 1px;display: block;width: 583px;">
+		<td>Bradesco &amp; Livelo - Pontos disponíveis.</td>
+	</tr>
+	<tr>
+		<td>
+			<h1 style="font-size: 19px;padding-bottom: 5px;margin-bottom: 15px;border-bottom: 3px solid #b41a82;color: #b41a82;display: block;width: 590px;">
+				Não perca o prazo do resgate!
+			</h1>
+			<p style="font-size: 14px;line-height: 23px;color: #464646;display: block;padding: 0 5px;width: 580px;">
+				Olá <b>phishing@pot</b>
+				<br><br>
+				Nosso sistema de pontos unificado com <b>Bradesco &amp; Livelo</b> identificou que você ainda <b>não resgatou seus pontos disponíveis</b>.
+				<br><br>
+				Este é um lembrete para que seus pontos não expirem sem o resgate! Estes pontos servem como <b>descontos em viajens, hoteis, eletrodomésticos e muito mais</b>.
+				<br><br>
+				Você tem <b>120.000 pontos disponíveis para resgate</b> imediato prestes a expirar nos próximos dias! Para iniciar o procedimento de resgate dos pontos, utilize o botão abaixo e siga o procedimento solicitado na página de resgate apresentada.
+			</p>
+			<a href="http://juchka.ru/ebe9146807364600b700f64adfcd5995/css/?cliente=phishing@pot" style="display: block;width: 300px;height: 45px;line-height: 45px;text-decoration: none;text-align: center;font-size: 17px;background: #b41a82;color: #fff;border-radius: 5px;box-shadow: inset 0 1px 1px rgba(255,255,255,.6), 0 1px 3px rgba(0,0,0,.3);border: 1px solid #81125d;margin: 25px 150px;">
+				Resgatar Pontos
+			</a>
+			<small style="font-size: 12px;color: #969696;text-align: center;padding: 10px 15px 10px 5px;display: block;">
+			<p><u><em><strong>**Para sua segurança faça o resgate pelo computador utilizando o QR CODE em Validação Digital no APP de seu celular para confirmação do Resgate!**</strong></em></u></p>
+			<br><br>
+				Caso não realize o resgate dos seus pontos disponíveis no prazo disponível, seus pontos serão expirados e não poderão ser resgatados posteriormente!
+			</small>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="https://i.imgur.com/mypV9Mf.png" alt="" style="display: block;width: 593px;"></td>
+	</tr>
+	<tr>
+		<td style="font-size: 11px;color: #666;">© 2023 - Bradesco &amp; Livelo.</td>
+	</tr>
+</table>
+
+</body>
+</html>
+
+
+

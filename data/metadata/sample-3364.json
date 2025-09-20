@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Our store sells all medications without the need for a prescription.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <pharma.online.ex1@outlook.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 18 Jun 2024 11:12:17 +0200",
+    "message_id": "<DC290853.E5DD496A@outlook.com>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=Yes,I",
+      ".button.secondary",
+      ".button.danger",
+      "http://udental.com.cn/f.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1806,
+    "html_length": 3472,
+    "has_text": true,
+    "has_html": true
+  }
+}

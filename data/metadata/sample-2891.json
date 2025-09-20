@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Limited-Edition Coca-Cola NFTs Available Now Claim your Free NFTs!",
+    "from": "Coca-Cola NFTs <minter01@coinbase-cola.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Feb 2024 17:05:39 +0000 (UTC)",
+    "message_id": "<6ae87553.AUgAADbNa3UAAchreUYAAVMEbtMAAYCuX_UAnwEiACfr0gBl0Odj@mailjet.com>",
+    "content_type": "multipart/alternative; boundary=\"=-oNYkNoOJKLNaiLBVjFhL\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-oNYkNoOJKLNaiLBVjFhL\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://sm791.mjt.lu/unsub2?hl=en&amp;m=AUgAADbNa3UAAchreUYAAVMEbtMAAYCuX_UAnwEiACfr0gBl0OdjgiZiy_brQlmpB1Eiw6XPsgAlEZc&amp;b=6ae87553&amp;e=2b5de1ee&amp;x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw",
+      "https://www.coinbase-cola.com/?mn=rodrigo-f-p@hotmail.com",
+      "https://sm791.mjt.lu/oo/AUgAADbNa3UAAchreUYAAVMEbtMAAYCuX_UAnwEiACfr0gBl0OdjgiZiy_brQlmpB1Eiw6XPsgAlEZc/9cc02da0/e.gif",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com,",
+      "https://sm791.mjt.lu/unsub2?hl=en&m=AUgAADbNa3UAAchreUYAAVMEbtMAAYCuX_UAnwEiACfr0gBl0OdjgiZiy_brQlmpB1Eiw6XPsgAlEZc&b=6ae87553&e=2b5de1ee&x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw",
+      "https://www.coinbase-cola.com/?mn=phishing@pot-f-p@hotmail.com]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1116,
+    "html_length": 11934,
+    "has_text": true,
+    "has_html": true
+  }
+}

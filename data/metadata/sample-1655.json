@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Re: 2nd attempt for phishing@pot",
+    "from": "Paypal      ,_<0a7pz@poumzenuhs.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 25 Oct 2023 02:03:17 +0000",
+    "message_id": "\r\n <7a45e1c2-ef15-4bfe-9643-8e0ee53338fa@BN1NAM02FT056.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/l40gE5e.jpg",
+      "https://t.co/fSOqXAjaz0",
+      "http://vertuoldmuneted.com/track/o46864kOPuY27537896eUYw1371191AuU68049WFee3271",
+      "https://t.co/iRkfI59fEa",
+      "http://dtherhproblem.us/su46864CCVDf27537896ibph1371191AkO68049nZpa3271",
+      "https://i.imgur.com/l40gE5e.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 304,
+    "html_length": 8748,
+    "has_text": true,
+    "has_html": true
+  }
+}

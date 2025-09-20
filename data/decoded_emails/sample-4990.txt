@@ -1,0 +1,101 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Important: Order 441243 Confirmation
+From: "Paid Customer" <ayazfaheem9568@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Thu, 13 Mar 2025 06:11:23 -0700 (PDT)
+Message_Id: <67d2d97b.170a0220.2e2e0.59c7@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============7204438779931398448=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============7204438779931398448=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+e b a y Receipt Transaction - #441243 Date: Thursday, 13 March 2025 Discover Your Recent Purchase Confirmation ITEM Name: Vanilla Visa Gift Card Category: Virtual Card Qty: 1 $ 909.99 Promo Code Applied Total: $ 909.99 Customer Info Customer: rodrigo-f-p@hotmail.com Order Number: #441243 Invoice Date: Thursday, 13 March 2025 Payment Method: Credit Card Currency: USD Thank you for your purchase! For questions, call us at 1 (833) 307-3665 ebay © All Rights Reserved. 675 Wolf Ledges Ca Wheeling West Virginia 98244 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table style="background-color: #f2f2f2; width: 100%;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 20px;" align="center">
+<table style="background-color: #ffffff; width: 600px; border: 1px solid #dcdcdc;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="background-color: #ffffff; height: 70px;">
+<td style="padding: 15px 20px; text-align: left;">
+<h1 style="margin: 0; font-family: Arial, sans-serif; font-size: 36px; color: #ffffff;"><span style="color: #ff0000;">e</span> <span style="color: #0000ff;">b</span> <span style="color: #ff6600;">a</span> <span style="color: #99cc00;">y</span></h1>
+</td>
+</tr>
+<tr style="height: 140px;">
+<td style="padding: 20px;">
+<h2 style="margin: 0; font-family: Arial, sans-serif; font-size: 26px; color: #333333;">Receipt Transaction - #441243</h2>
+<p style="margin: 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #555555;">Date: Thursday, 13 March 2025</p>
+<p style="margin: 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #555555;"><strong>Discover Your Recent Purchase Confirmation</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 20px;">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr style="border-bottom: 1px dashed #e0e0e0;">
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;"><strong>ITEM</strong><br> Name: Vanilla Visa Gift Card<br> Category: Virtual Card</td>
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;" align="center">Qty: 1</td>
+<td style="font-family: Arial, sans-serif; font-size: 14px; color: #333333;" align="right">$ <strong>909.99</strong></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 20px; background-color: #fcf8e3;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; color: #8a6d3b;">Promo Code Applied</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 10px 20px;"><hr style="border: 0; border-top: 2px solid #efefef;">
+<p style="margin: 10px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333; text-align: right;">Total: <strong>$ 909.99</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 20px;">
+<p style="margin: 0 0 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;"><strong>Customer Info</strong></p>
+<p style="margin: 0 0 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">Customer: <strong>rodrigo-f-p@hotmail.com</strong></p>
+<p style="margin: 0 0 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">Order Number: <strong>#441243</strong></p>
+<p style="margin: 0 0 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">Invoice Date: <strong>Thursday, 13 March 2025</strong></p>
+<p style="margin: 0 0 5px 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">Payment Method: <strong>Credit Card</strong></p>
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">Currency: <strong>USD</strong></p>
+<p style="margin: 15px 0 0 0; font-family: Arial, sans-serif; font-size: 14px; color: #0b5394;">Thank you for your purchase!</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 15px 20px; text-align: center; background-color: #f9f9f9;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; color: #333333;">For questions, call us at <strong>1 (833) 307-3665</strong></p>
+</td>
+</tr>
+<tr>
+<td style="padding: 20px; text-align: center; font-family: Arial, sans-serif; font-size: 12px; color: #777777;">
+<p style="margin: 0;">ebay © All Rights Reserved.</p>
+<p style="margin: 0;">675 Wolf Ledges Ca Wheeling West Virginia 98244 USA</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>

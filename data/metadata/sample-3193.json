@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p, Our system has lock down your Trust Wallet",
+    "from": "\"Soporte Técnico (Trust Wallet)\" <support@hobzq.zendesk.com>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Sun, 14 Apr 2024 21:53:37 +0000",
+    "message_id": "<7NJXWGD2WNE_661c5061b4e03_3c3aac3327589_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_661c5061c7d57_3c3aac33276ef\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_661c5061c7d57_3c3aac33276ef\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://avatars.githubusercontent.com/u/32179889?s%3D200%26v%3D4)**",
+      "http://schema.org/EmailMessage",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=c32efa24d2721e32JmltdHM9MTcxMjk2NjQwMCZpZ3VpZD0zMTE3NDA3My0yMjkyLTZiZGYtMGE2YS01MWNmMjNkNDZhMTkmaW5zaWQ9NTQwMw&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=31174073-2292-6bdf-0a6a-51cf23d46a19&amp;psq=osoulmodern.com&amp;u=a1aHR0cHM6Ly9vc291bG1vZGVybi5jb20vZW4vc21lcy1maW5hbmNlLw&amp;ntb=1",
+      "https://www.zendesk.com.mx/service/?utm_campaign=text&amp;utm_content=SIX+DEGREES+IT&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification",
+      "https://hobzq.zendesk.com/hc/requests/459864",
+      "https://avatars.githubusercontent.com/u/32179889?s%3D200%26v%3D4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 834,
+    "html_length": 3796,
+    "has_text": true,
+    "has_html": true
+  }
+}

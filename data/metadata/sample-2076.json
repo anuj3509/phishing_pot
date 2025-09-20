@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Final Notice Coming for a Le Creuset Reward ",
+    "from": "Costco Customer Support - Congratulations - Details Apply ,_<yelek@cutynaledriite.com>",
+    "to": "phishing@pot",
+    "date": "12-01-2023",
+    "message_id": "\r\n <de22ace7-80e3-4a8b-978e-809e5153ba03@VI1EUR06FT058.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/NEN1z5X.jpg",
+      "https://t.co/loM5eS9RjY",
+      "https://i.imgur.com/NEN1z5X.jpg",
+      "https://t.co/xQMUwnAgU3"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 448,
+    "html_length": 8692,
+    "has_text": true,
+    "has_html": true
+  }
+}

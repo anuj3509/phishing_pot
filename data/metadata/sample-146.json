@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "You have a pending chat request",
+    "from": "\"Maria\" <abcnpjtmdge@mega.nz>",
+    "to": "<simmk@hotmail.com>",
+    "date": "Mon, 05 Dec 2022 00:13:03 -0800",
+    "message_id": "<DHZUBEYOOOVVTWIBNPTBWG@mega.nz>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"--12651261471940716\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"--12651261471940716\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u.to/K61DHA?31uAcc",
+      "https://www.clck.ru/sanZq?519Jfc"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 320,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

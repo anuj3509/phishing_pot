@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "[Binаnсе] lmmediate verification required for rodrigo-f-p@hotmail.com",
+    "from": "Binance <do-not-reply@ses.binance.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 22 Aug 2022 21:39:41 +0000",
+    "message_id": "<a6e2feecb5be84894fdbdba6447a7b10@ilonasavola-com.staging.hel2.wp-cloud.dev>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_a6e2feecb5be84894fdbdba6447a7b10\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_a6e2feecb5be84894fdbdba6447a7b10\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "update your information"
+    ],
+    "urls": [
+      "https://zzdzw.com/",
+      "https://public.bnbstatic.com/image/email_template/emailBanner.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 538,
+    "html_length": 3436,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Kom er achter hoeveel u kunt besparen!",
+    "from": "Bespaar, <postbode@emv.hallmark.nl.>, Office, <postbode@emv.hallmark.nl>",
+    "to": "phishing@pot",
+    "date": "Mon, 26 Feb 2024 01:46:58 +0100",
+    "message_id": "<puugji9.k8zxt.zzg.zzg@tqaltvivhqxjktj.aqz>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900",
+      "table.icons-inner",
+      "http://homcom.store/op/6430_md/4049/25068/1304/257/8664",
+      "https://img.formulead.com/logo_nl[1]%20(2)_fdgtaex0ex.png",
+      "http://homcom.store/oop/6430_md/4049/25068/1304/257/8664",
+      "http://homcom.store/cl/6430_md/4049/25068/1304/257/8664",
+      "img.formulead.com/logo_nl[1]%20(2)_fdgtaex0ex.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2123,
+    "html_length": 13856,
+    "has_text": true,
+    "has_html": true
+  }
+}

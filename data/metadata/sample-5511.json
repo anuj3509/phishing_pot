@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Pool Products Unlimited] Login Details",
+    "from": "WordPress <wordpress@poolproductsunlimited.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 29 May 2025 19:43:24 +0000",
+    "message_id": "<Iea80PyCDl6S4wMlTFwr2FHafb5gKSAAMHMgTNkiQbA@www.poolproductsunlimited.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.poolproductsunlimited.com/wp-login.php?login=www.drgyrw.blogspot.hk%20-%201.355%20BTC%20BINANCE&key=AQqQJY26lxuw8fkQHI88&action=rp",
+      "www.drgyrw.blogspot.hk",
+      "https://www.poolproductsunlimited.com/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 302,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

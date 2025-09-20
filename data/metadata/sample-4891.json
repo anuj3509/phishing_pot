@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Multa de Trânsito Associada à Sua CNH! Protocolo: 36278714.",
+    "from": "Consultas DETRAN <multas006355@detran>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 2 Feb 2025 08:47:56 +0000",
+    "message_id": "<385d24b36eb695bbbc06eb8b7bc684da@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_385d24b36eb695bbbc06eb8b7bc684da\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_385d24b36eb695bbbc06eb8b7bc684da\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://us-central1-turing-ember-445706-u6.cloudfunctions.net/function-1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4132,
+    "has_text": true,
+    "has_html": true
+  }
+}

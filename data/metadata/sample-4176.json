@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "RESPONDER",
+    "from": "herbert pamela <herbertpamela68@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Fri, 27 Sep 2024 05:53:30 -0700",
+    "message_id": "<CAA4539hcbCejrBiHaXWTzyE0MbQNSV6xFyxxO1=PZv=S0daE-Q@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000005070c806231958c6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000005070c806231958c6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.ubabankheadoffice1@gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1647,
+    "html_length": 7211,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "{{name?Olá}}, Encomenda Retida com Prazo Final.",
+    "from": "Correios <noreply@correios>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 10 May 2025 20:15:19 +0000",
+    "message_id": "<73a02a4c-c5b4-1b64-b4a6-a25bb81657a8@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "document.write(new"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8093,
+    "html_length": 14258,
+    "has_text": true,
+    "has_html": true
+  }
+}

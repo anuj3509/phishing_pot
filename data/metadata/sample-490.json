@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "O saque-aniversário do FGTS pode acabar.",
+    "from": "\"A Conta Fecha\" <envio@panfletovirtual.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 19 Mar 2023 12:22:18 +0000",
+    "message_id": "<1ebd569dda2bf2669bd9e23b1e640d25@petrolinadigital.com.br>",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_c820445e5d0d1263c7db39854c080eaf\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_c820445e5d0d1263c7db39854c080eaf\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://acontafecha.com.br/wp-content/uploads/2022/06/mail-logo.png",
+      "https://acontafecha.com.br/wp-content/uploads/2022/06/mail-logo-banco-pan.png",
+      "https://petrolinadigital.com.br/VT2021/link.php?M=61011738&amp;N=10241&amp;L=18566&amp;F=H",
+      "https://acontafecha.com.br/wp-content/uploads/2022/06/mail-icon4.png",
+      "https://fonts.googleapis.com/css2?family=Exo:wght@300;400;600&display=swap",
+      "font.woff",
+      "https://acontafecha.com.br/wp-content/uploads/2022/06/mail-icon5.png",
+      "https://petrolinadigital.com.br/VT2021/vaza.php?M=61011738&amp;C=430223a7b5ef1f1b4aba95b7f3c51d46&amp;L=189&amp;N=10241",
+      "hello.myfonts.net/count/4cf605",
+      "https://acf-producao.s3.us-east-1.amazonaws.com/Neulis%20Digital%20Ads/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+      "font.woff2",
+      "https://acontafecha.com.br/wp-content/uploads/2022/06/mail-logo-2.png",
+      "https://petrolinadigital.com.br/VT2021/link.php?M=61011738&amp;N=10241&amp;L=18570&amp;F=H",
+      "https://petrolinadigital.com.br/VT2021/open.php?M=61011738&amp;L=189&amp;N=10241&amp;F=H&amp;image=.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 46,
+    "html_length": 6020,
+    "has_text": true,
+    "has_html": true
+  }
+}

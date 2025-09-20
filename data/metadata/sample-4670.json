@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Suspensão da sua CNH em andamento, acesse agora e evite bloqueio. ID: 30818596",
+    "from": "Detran - Aviso Urgente <notificacao723992@detran>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 10 Jan 2025 10:48:46 +0000",
+    "message_id": "<3c64c807b6d7d3643483e57e62042976@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_3c64c807b6d7d3643483e57e62042976\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_3c64c807b6d7d3643483e57e62042976\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://detran.gov.br/",
+      "hotmail.com,",
+      "https://function-3-961349030461.us-central1.run.app/",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3849,
+    "has_text": true,
+    "has_html": true
+  }
+}

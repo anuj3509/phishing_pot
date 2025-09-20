@@ -1,0 +1,212 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot, Sichern Sie sich Ihren 100��� DEUTSCHE BAHN Gutschein
+From: Deutsche Bahn Gutschein, jehd <service@stayfriends.de>
+To: phishing@pot
+Date: Tue, 12 Dec 2023 14:27:09 +0100
+Message_Id: 
+ <f7897447-251f-49ea-9bf9-6cc66986ad54@DM6NAM11FT051.eop-nam11.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/5061_md/2009/89/366/23/2459859
+  - d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png
+  - http://www.w3.org/1999/xhtml
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png
+  - https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5061_md/2009/89/366/23/2459859
+
+DECODED TEXT CONTENT:
+------------------------------
+body {Margin:0 auto; padding:0;} img {max-width:100%;} table {border-spacing:0!important; border:none; cellpadding:0px; } td {cellpadding:0px; border-spacing:0px;} tr {cellpadding:0px; border-spacing:0px;} /* Client-specific Styles */ #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */ body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */ table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */ img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */ .scaling {transition: all .2s ease-in-out;} .scaling:hover { transform: scale(1.1); } @keyframes pound { from { transform: none; } 50% { transform: scale(1.2); } to { transform: none; } } .bungy {display: inline-block; font-size: 150px; color: #e00; animation: pound 3s infinite; transform-origin: center; } Hallo phishing@pot Dies ist Ihre Chance! Sie wurden eingeladen, an unserer kostenlosen Kundenumfrage inkl. Gewinnspiel teilzunehmen! Die Teilnahme dauert nur wenige Minuten und am Ende bekommen Sie die Chance, einen 100€ Bahngutschein der Deutschen Bahn zu erhalten! Also, worauf warten Sie noch?! Verpassen Sie nicht die Chance, einen gratis 100€ Bahngutschein zu erhalten und nehmen Sie jetzt kostenlos teil: » KOSTENLOS TEILNEHMEN « click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title></title>
+
+		<style type="text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{max-width:100%;}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+            			.scaling {transition: all .2s ease-in-out;}
+			.scaling:hover { transform: scale(1.1); }
+ 			@keyframes pound {
+ 			from { transform: none; }
+ 			50% { transform: scale(1.2); }
+ 			to { transform: none; }
+			}
+			.bungy {display: inline-block; font-size: 150px; color: #e00; animation: pound 3s infinite; transform-origin: center; }
+		</style>
+        
+
+        
+        
+	</head>
+	<body bgcolor="#f2f2f2">
+	
+
+<!-- GK: container  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="wrappertable" style="table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top">
+   <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="600" align="center" valign="top" style="background-color: #ffffff; box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);">
+       
+                        <!-- GK: image-->
+						  
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; padding:0px 0px 10px 0px;">
+                      <tr>
+                            <td valign="middle" style=" line-height:1px;"></td>
+                          </tr>
+              <tr>
+                <td align="center" valign="top" style="padding: 0 0px;">
+				
+                      <table cellpadding="0" cellspacing="0" border="0">
+                      
+                          <tr>
+                            <td width="600" align="center" valign="middle">
+                            <a href="https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5061_md/2009/89/366/23/2459859" style="outline:0;" target="_blank"><img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png" style="width: 100%; max-width: 100%;" border="0" alt=""></a>
+							<a href="https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5061_md/2009/89/366/23/2459859" style="outline:0;" target="_blank"><img src="//d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png" style="width: 100%; max-width: 100%;" border="0" alt=""></a>
+                        </td>
+                          </tr>
+                          
+                        </table>
+                 </td>
+              </tr>
+            </table>
+                      <!-- GK: / image-->  
+         
+
+  
+            
+           
+            
+            
+            
+            
+              <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+              <!--GK: text-->
+                        
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; ">
+                          <tr>
+                            <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; line-height:24px; letter-spacing:0px; color:#414141; padding-left:20px; padding-right:20px; min-height:20px; mso-line-height-rule: exactly;  ">
+
+                                
+                                
+                          Hallo phishing@pot<br><br>
+
+Dies ist Ihre Chance!
+			<!-- START SET LINK -->
+							<br><br>Sie wurden eingeladen, an unserer kostenlosen <strong>Kundenumfrage inkl. Gewinnspiel</strong> teilzunehmen! <br> Die Teilnahme dauert nur wenige Minuten und am Ende bekommen Sie die Chance, einen <strong>100€ Bahngutschein der Deutschen Bahn zu erhalten!</strong><br>
+									<br>Also, worauf warten Sie noch?! <br>Verpassen Sie nicht die Chance, einen gratis <strong>100€ Bahngutschein </strong> zu erhalten und nehmen Sie jetzt kostenlos teil:<br> <br> <br>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0 20px;"><table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td style="padding-top: 5px; line-height: 0px;"></td>
+                                </tr>
+                                <tr>
+                                  <td width="310" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0" class="bungy">
+                                      <tr>
+                                        <td width="310" height="40" align="center" valign="middle" style="background-color: #f40101; padding: 6px 12px;"><a style="display: block; text-decoration: none; font-family: 'Arial', verdana, sans-serif; font-size: 18px; mso-line-height-rule: exactly; line-height: 32px;font-weight: bold; text-transform: uppercase; color: #ffffff;" href="https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5061_md/2009/89/366/23/2459859" target="_blank">» KOSTENLOS TEILNEHMEN «</a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                             
+                              </table></td>
+                          </tr>
+                        </table>                          
+                                
+                               
+                                
+<br>
+<br>
+
+
+
+</td>
+                          </tr>
+                        </table>
+                        
+                        <!--GK: / text--> 
+                        
+                      <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+
+                     
+                        
+                        
+                      
+								
+		 				
+                        
+   
+                     <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                   
+                   
+                   
+                   
+                  
+                   
+            </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- GK: container  -->
+
+
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/5061_md/2009/89/366/23/2459859">here</a> to remove yourself from our emails list</span><br><br>
+

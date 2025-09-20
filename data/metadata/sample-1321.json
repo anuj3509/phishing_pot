@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Suchst du nach lustigen Dates?",
+    "from": "Fgehen69, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Sep 2023 11:45:59 +0200",
+    "message_id": "\r\n <6715f140-422c-49d5-a104-d6a57b9839a3@BN1NAM02FT055.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "http://100.42.79.2/op/70_md/31/4/1/4/383653",
+      "http://100.42.79.2/cl/70_md/31/4/1/4/383653",
+      "http://100.42.79.2/media/ae7eebd05cf7b4b.jpg",
+      "http://100.42.79.2/oop/70_md/31/4/1/4/383653"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1020,
+    "html_length": 4959,
+    "has_text": true,
+    "has_html": true
+  }
+}

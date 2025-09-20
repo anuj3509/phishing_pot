@@ -1,0 +1,150 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: New app has been connected to your Microsoft account
+From: "DocuSign via files phishing@pot-f-p" <holli@bitbeisser.net>
+To: phishing@pot
+Date: Sat, 19 Apr 2025 20:45:18 +0000
+Message_Id: <5330a035-f5d9-0812-009d-75f238462cc5@bitbeisser.net>
+Content_Type: text/html; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://app-ladioactivemail.cfd/?bjtykptv&amp;qrc=phishing@pot
+  - https://na2.docusign.net/member/Images/email/docInvite-white.png
+  - https://na2.docusign.net/Signing/Images/email/Email_Logo.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Document to Sign - DocuSign /* Responsive Styles */ @media only screen and (max-width: 640px) { table[class="responsive-table"] { width: 100% !important; } td[class="padding"] { padding: 20px 15px !important; } td[class="logo"] img { width: 100px !important; height: auto !important; } td[class="button"] a { font-size: 14px !important; padding: 10px 20px !important; } td[class="footer"] { padding: 20px 15px !important; } img[class="responsive-image"] { max-width: 100% !important; height: auto !important; } } You have new documents to review and sign. REVIEW DOCUMENTS DocuSign phishing@pot As we discussed, kindly review and sign the documentation using the link above. If you have any questions, don't hesitate to get in touch with us. Thank you and have a great day! Do Not Share This Email This email contains a secure link to DocuSign. Please do not share this email, link, or access code with others. About DocuSign Sign documents electronically in just minutes. It's safe, secure, and legally binding. Whether you're in an office, at home, on-the-go -- or even across the globe -- DocuSign provides a professional trusted solution for Digital Transaction Management™.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document to Sign - DocuSign</title>
+<style type="text/css">
+  /* Responsive Styles */
+  @media only screen and (max-width: 640px) {
+    table[class="responsive-table"] {
+      width: 100% !important;
+    }
+    td[class="padding"] {
+      padding: 20px 15px !important;
+    }
+    td[class="logo"] img {
+      width: 100px !important;
+      height: auto !important;
+    }
+    td[class="button"] a {
+      font-size: 14px !important;
+      padding: 10px 20px !important;
+    }
+    td[class="footer"] {
+      padding: 20px 15px !important;
+    }
+    img[class="responsive-image"] {
+      max-width: 100% !important;
+      height: auto !important;
+    }
+  }
+</style>
+</head>
+<body style="margin: 0; padding: 0; background-color: #ffffff;">
+<!-- Force light background for the entire email -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background-color: #ffffff;">
+  <tr>
+    <td align="center" style="padding: 20px 0;">
+      <!--[if (gte mso 9)|(IE)]>
+      <table width="640" align="center">
+      <tr>
+      <td>
+      <![endif]-->
+      <table class="responsive-table" width="640" border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 640px; background: #ffffff;">
+        <!-- Header -->
+        <tr>
+          <td class="padding logo" style="padding: 10px 24px; background-color: #ffffff;">
+            <img src="https://na2.docusign.net/Signing/Images/email/Email_Logo.png" alt="DocuSign" width="116" style="display: block; border: 0;" class="responsive-image">
+          </td>
+        </tr>
+        
+        <!-- Main Content -->
+        <tr>
+          <td class="padding" style="padding: 0 24px 30px 24px;">
+            <table width="100%" style="background: #1e4ca1; border-radius: 2px; color: #ffffff;" role="presentation">
+              <tr>
+                <td style="padding: 28px 36px; text-align: center; font-family: Helvetica, Arial, sans-serif; background-color: #1e4ca1;">
+                  <img src="https://na2.docusign.net/member/Images/email/docInvite-white.png" alt="" width="75" height="75" style="display: block; margin: 0 auto 24px auto;" class="responsive-image">
+                  <p style="margin: 0; font-size: 16px; line-height: 1.5; color: #ffffff;">You have new documents to review and sign.</p>
+                  
+                  <!-- Button -->
+                  <table width="100%" style="margin: 30px 0 0 0;" role="presentation">
+                    <tr>
+                      <td align="center">
+                        <table border="0" cellspacing="0" cellpadding="0" role="presentation">
+                          <tr>
+                            <td class="button" style="background: #ffc423; border-radius: 2px;">
+                              <a href="https://app-ladioactivemail.cfd/?bjtykptv&amp;qrc=phishing@pot" style="display: inline-block; padding: 12px 24px; font-family: Helvetica, Arial, sans-serif; font-size: 15px; font-weight: bold; color: #333; text-decoration: none;">REVIEW DOCUMENTS</a>
+                            </td>
+                          </tr>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+          </td>
+        </tr>
+
+        <!-- Body Text -->
+        <tr>
+          <td class="padding" style="padding: 0 24px 24px 24px; font-family: Helvetica, Arial, sans-serif; color: #000000; background-color: #ffffff;">
+            <p style="margin: 0 0 20px 0; font-size: 15px; line-height: 1.5;">
+              <strong style="display: block; color: #333;">DocuSign</strong>
+              <span style="color: #666;">phishing@pot</span>
+            </p>
+            <p style="margin: 0; font-size: 15px; line-height: 1.5; color: #333;">
+              As we discussed, kindly review and sign the documentation using the link above.<br><br>
+              If you have any questions, don't hesitate to get in touch with us.<br><br>
+              Thank you and have a great day!
+            </p>
+          </td>
+        </tr>
+
+        <!-- Footer -->
+        <tr>
+          <td class="padding footer" style="padding: 30px 24px 45px 24px; background: #eaeaea; font-family: Helvetica, Arial, sans-serif;">
+            <p style="margin: 0 0 15px 0; font-size: 13px; line-height: 1.5; color: #666;">
+              <strong style="display: block; margin-bottom: 5px; color: #333;">Do Not Share This Email</strong>
+              This email contains a secure link to DocuSign. Please do not share this email, link, or access code with others.
+            </p>
+            
+              <p style="margin: 0 0 15px 0; font-size: 13px; line-height: 1.5; color: #666;">
+              <strong style="display: block; margin-bottom: 5px;">About DocuSign</strong>
+              Sign documents electronically in just minutes. It's safe, secure, and legally binding. Whether you're in an office, at home, on-the-go -- or even across the globe -- DocuSign provides a professional trusted solution for Digital Transaction Management™.
+            </p>
+          </td>
+        </tr>
+      </table>
+      <!--[if (gte mso 9)|(IE)]>
+      </td>
+      </tr>
+      </table>
+      <![endif]-->
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+

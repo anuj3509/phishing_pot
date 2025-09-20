@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Attention:I am Diplomatic agent Mr.Wood Forest,",
+    "from": "\"Mr.Wood Forest\" <nemani.tukunia@postfiji.com.fj>",
+    "to": "Recipients <nemani.tukunia@postfiji.com.fj>",
+    "date": "Sat, 29 Jul 2023 13:03:39 -0700",
+    "message_id": "<CENTRALoY5uIBUevIXn0001393a@54upr.rosreestr.ru>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "Mr.Wood"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 521,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

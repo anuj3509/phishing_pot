@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Ditt abonnement er avsluttet",
+    "from": "\"Manpower Norge\" <nyhetsbrev.manpowergroup@manpowergroup.no>",
+    "to": "phishing@pot",
+    "date": "19 Sep 2023 17:07:46 +0200",
+    "message_id": "\r\n <ac04cf7f-277d-4e2d-be92-5031448ac948@VI1EUR06FT024.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 84,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

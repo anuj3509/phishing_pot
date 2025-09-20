@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Sichern Sie sich Ihren 100��� DEUTSCHE BAHN Gutschein",
+    "from": "Deutsche Bahn Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Dec 2023 14:27:09 +0100",
+    "message_id": "\r\n <f7897447-251f-49ea-9bf9-6cc66986ad54@DM6NAM11FT051.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/5061_md/2009/89/366/23/2459859",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/db-100-gutschein.png",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5061_md/2009/89/366/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1769,
+    "html_length": 9797,
+    "has_text": true,
+    "has_html": true
+  }
+}

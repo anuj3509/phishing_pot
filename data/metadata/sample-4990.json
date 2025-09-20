@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Important: Order 441243 Confirmation",
+    "from": "\"Paid Customer\" <ayazfaheem9568@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Thu, 13 Mar 2025 06:11:23 -0700 (PDT)",
+    "message_id": "<67d2d97b.170a0220.2e2e0.59c7@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============7204438779931398448==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============7204438779931398448==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 520,
+    "html_length": 3753,
+    "has_text": true,
+    "has_html": true
+  }
+}

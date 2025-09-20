@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "EDEKA Einkaufsgutschein im Wert von 500 ���",
+    "from": "Edeka gift card, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Dec 2023 05:13:03 +0100",
+    "message_id": "<x2iR53J.0.0.x2iR53J.9.x2iR53J@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://superkoran.info/NmlWSnIvZDM0VkJ2TndWWHVWY3RmM09XY0pPcDI2bDUrblRsRnpjTnpWWGVzaXVtc2pJMWRBNWF3ZGxoNExkQmxxMWZET1FDNzZwajhwR2dDWHZ0dE90QWJrcUxpMVdtM0pGUUJFNG5PbzQ9",
+      "http://www.w3.org/1999/xhtml",
+      "https://linkingroutes6.com/?a=6073&amp;oc=18379&amp;c=49903&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/23/51/e89i.jpg",
+      "http://superkoran.info/cDBtb2dQZ1RkUmdZWUJwSjR2MlByTUpCVW1iRU9NNlNHckR0eWZaUitQbGhLcURGcXd2cmVMdXNpQndta3BZQkNhaVM1WEdzUkFXaGwvUWZEb0pnc1FRY0YvNXZSemdJVUZvelZTSTdhYkk9",
+      "https://www.zupimages.net/up/23/51/e89i.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1597,
+    "html_length": 9284,
+    "has_text": true,
+    "has_html": true
+  }
+}

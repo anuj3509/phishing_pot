@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "$BLUR AIDROP NOW LIVE",
+    "from": "Blur Announcement <donotreply@jgu.edu.in>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Sat, 1 Apr 2023 17:32:00 +0000",
+    "message_id": "\r\n\t<010001873de042bd-26b4aa2f-4df1-47eb-8ec3-21a1d585f644-000000@email.amazonses.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_010001873de042bd26b4aa2f4df147eb8ec321a1d585f644000000e_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_010001873de042bd26b4aa2f4df147eb8ec321a1d585f644000000e_\""
+  },
+  "attachments": [
+    {
+      "filename": "blur.png",
+      "content_type": "application/octet-stream",
+      "size": 311592
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/jAVdNpaCcZ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 85,
+    "html_length": 292,
+    "has_text": true,
+    "has_html": true
+  }
+}

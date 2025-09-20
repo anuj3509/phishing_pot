@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Action Required: Ledger Data Breach – Check Your Recovery Phrase",
+    "from": "Ledger Notice <noreply@recover.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Nov 2024 08:26:00 +0000 (UTC)",
+    "message_id": "<20241123082600.16A6117693D4FF87@recover.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://recovercheck.s3.us-west-1.amazonaws.com/recover.html",
+      "https://www.ledger.com",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png",
+      "https://www.ledger.com/unsubscribe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 892,
+    "html_length": 2979,
+    "has_text": true,
+    "has_html": true
+  }
+}

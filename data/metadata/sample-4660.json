@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "4835349",
+    "from": "Bradesco Atendimento <comunicado@we53208>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 11 Jan 2025 04:18:42 +0000",
+    "message_id": "<20250111041842.D039F407C6@ubuntu-s-1vcpu-512mb-10gb-nyc1-05>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "icone-superior.png",
+      "hotmail.com",
+      "https://t3un5n53l2.z13.web.core.windows.net/?hash=rodrigo-f-p@hotmail.com",
+      "header.png",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 657,
+    "html_length": 4665,
+    "has_text": true,
+    "has_html": true
+  }
+}

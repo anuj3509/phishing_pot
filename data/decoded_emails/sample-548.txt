@@ -1,0 +1,50 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: $BLUR AIDROP NOW LIVE
+From: Blur Announcement <donotreply@jgu.edu.in>
+To: Rodrigo Ferreira <phishing@pot>
+Date: Sat, 1 Apr 2023 17:32:00 +0000
+Message_Id: 
+	<010001873de042bd-26b4aa2f-4df1-47eb-8ec3-21a1d585f644-000000@email.amazonses.com>
+Content_Type: multipart/mixed;
+	boundary="_004_010001873de042bd26b4aa2f4df147eb8ec321a1d585f644000000e_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_004_010001873de042bd26b4aa2f4df147eb8ec321a1d585f644000000e_"
+
+ATTACHMENTS:
+--------------------
+- blur.png (application/octet-stream, 311592 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://t.co/jAVdNpaCcZ
+
+DECODED TEXT CONTENT:
+------------------------------
+Don't miss your chance to claim your $BLUR
+
+[cid:image0]<https://t.co/jAVdNpaCcZ>
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<p>Don't miss your chance to claim your $BLUR</p>
+<p style="text-align: center;"><a href="https://t.co/jAVdNpaCcZ"><img alt="" src="cid:image0"></a></p>
+</body>
+</html>
+

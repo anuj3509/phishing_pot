@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p , U bent geselecteerd voor een weekend in een Van der Valk hotel.",
+    "from": "weekendjeweg4you, <postbode@emv.hallmark.nl.>, Office,\r\n\t<postbode@emv.hallmark.nl>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Feb 2024 02:40:13 +0100",
+    "message_id": "<q4ys6ti.24qa8.umb.umb@nygoeqsestrwjwe.uqk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg",
+      "https://kinohilfe-deutschland.de/op/6477_md/4049/25636/1251/257/8664",
+      "http://OFFERLINK.COM",
+      "http://ytxlinion-cim.top/dad82805331a8ed.jpg",
+      "div.preheader",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6477_md/4049/25636/1251/257/8664",
+      "http://ytxlinion-cim.top/deca39511e846a1.jpg",
+      "www.valkverrast.nl/inc/upload/photos/4310/desktop-retina/cs_VDV_Welnesstuin_5606.jpg",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/6477_md/4049/25636/1251/257/8664"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2917,
+    "html_length": 16995,
+    "has_text": true,
+    "has_html": true
+  }
+}

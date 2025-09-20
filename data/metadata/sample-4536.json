@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Hi Dear phishing@pot ,\"Access Your Credit Scores Today  Stay Ahead of Fraud!\"respond!  ",
+    "from": "\"FreeScore360 Credit Alert\" <admin@autkljae.vps-805069ea.vps.ovh.ca>",
+    "to": "phishing@pot",
+    "date": "Mon, 09 Dec 2024 23:18:45 +0000",
+    "message_id": "<cgqfnqgkxpxfipD_4oh910347714078514131601624089143894137152518143174671757896278948375079578755835820059438018898327286508709814753662328541338964611673549340060330413277821397769928605689824220352319.1.KRUCLVATJ0LFYIV3WHY3JKphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://scoutly.online/t/4fldYv6437OUUT265vddsdxqsyw143OKNSYTQDDIHHNWK62TGCK14216o17",
+      "http://scoutly.online/t/track/3ehvRc6437QHIU265vvxhhsrmsh143CGNJLNCDAHIIUCU62BFLN14216B17",
+      "https://scoutly.online#5Bpwht6437geCg265hsfruycttd143OJBLNAAQGYIFAOF62OZOT14216K17"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2103,
+    "html_length": 4633,
+    "has_text": true,
+    "has_html": true
+  }
+}

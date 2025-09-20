@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Tabela Promocional Amil 2024 *ATUALIZADA* Reduza os custos e mantenha carência zero",
+    "from": "\"Planos Amil Saúde\" <cotar@tabela.coteplano.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 1 Mar 2024 08:17:49 -0300",
+    "message_id": "\r\n <d7918bec-a6fb-446b-b796-4284c759cfb3@CY4PEPF0000FCBF.namprd03.prod.outlook.com>",
+    "content_type": "Multipart/alternative; boundary=\"01C7C58C_3BAC5EE3_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"01C7C58C_3BAC5EE3_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app-b.coteplano.com/lnk.php?id=322C32322C726F647269676F2D662D7040686F746D61696C2E636F6D2C31313230",
+      "https://app-b.coteplano.com/rem.php?id=322C32322C726F647269676F2D662D7040686F746D61696C2E636F6D2C31313230",
+      "https://app-b.coteplano.com/oimg.php?id=322C32322C726F647269676F2D662D7040686F746D61696C2E636F6D2C31313230"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2696,
+    "html_length": 4918,
+    "has_text": true,
+    "has_html": true
+  }
+}

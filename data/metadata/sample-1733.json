@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "2nd attempt for phishing@pot",
+    "from": "Oral B Toothbrush - CVS   ,_<d7uzo@z9uppzk2wq.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Oct 2023 18:18:58 +0000",
+    "message_id": "\r\n <21d2a5fc-2a4a-44fd-9d8a-1447dd3992ae@BN8NAM12FT116.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://dtherhproblem.us/su47240VRNku22448528Pdpx49413Gxi67985HQRP3226",
+      "https://t.co/a5PTZhGBja",
+      "https://t.co/6sUGGEHZqH",
+      "i.imgur.com/JOGqPTo.jpg",
+      "http://vertuoldmuneted.com/track/o47240MSCWr22448528EBnt49413elX67985TJeF3226",
+      "https://i.imgur.com/JOGqPTo.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 408,
+    "html_length": 8847,
+    "has_text": true,
+    "has_html": true
+  }
+}

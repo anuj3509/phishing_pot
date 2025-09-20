@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r ADAC-Kunden.",
+    "from": "ADAC, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Dec 2024 14:35:11 -0600",
+    "message_id": "<WAXTW6W.0.0.WAXTW6W.9.WAXTW6W@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://hysucs.com/op/564_md/1000/308/9/3/569318",
+      "http://hysucs.com/cl/564_md/1000/308/9/3/569318"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 334,
+    "html_length": 2580,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <angebote@newsletter.baur.de.>, Fressnapf\r\n Gutschein, <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 06 Oct 2023 08:40:47 +0200",
+    "message_id": "<Vc06Agn.0.0.Vc06Agn.9.Vc06Agn@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/23/40/qxnt.png",
+      "www.zupimages.net/up/23/40/qxnt.png",
+      "http://fressnapf.theowensfamily.info/Z3g1QnNSNll2SnBmMWVwSVJ1ck1UdVZScy9LUUw1VjJOTzUxL2NVMFBEOFp4OWwxTFNzaUFJbk1XdGNVZXB2Y2QwcXI5SmYyMzVXeFIzenBWZ0tmNVE9PQ__",
+      "http://fressnapf.theowensfamily.info/U0p6SnlrcTVpV1ZNZFdGUFpVNytxN3pzTVVJaVFLSnBiZUVGL2ZxU3k5c0J5d2J0L1ZjQUhuREE4NkRSZXVLSmRLVWNGNUFWVGh2S0NSZWdDanAzYlE9PQ__",
+      "http://fressnapf.theowensfamily.info/UWZQRFR3OEhocU5idFVoYWtxMXk3U2ZBZTJLVXRLYzFrY2xBSXVLNFJER2RHTFNLNW9RcXZ5UEwwYWFxSXZQN0txaUpJazl2THZaazZlQjNmeUdGcFE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3471,
+    "html_length": 7008,
+    "has_text": true,
+    "has_html": true
+  }
+}

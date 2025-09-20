@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Sie sind einer unserer m��glichen Finalisten f��r einen Kaufland Gutschein im Wert von 500���. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Gl��ck einen Kaufland Gutschein.",
+    "from": "Ihre Julia Weber, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Aug 2024 09:24:00 +0100",
+    "message_id": "<VKQITsB.0.0.VKQITsB.9.VKQITsB@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/19/iwkd.png",
+      "www.zupimages.net/up/24/19/iwkd.png",
+      "https://www.zupimages.net/up/24/32/ygq3.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/32/d9wa.jpg",
+      "https://www.zupimages.net/up/24/32/d9wa.jpg",
+      "https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=",
+      "http://limecastle.co.uk/QXpyOHdMZURJaWhKdFVWY3ptM0pEYVBHQmdFbGczQ0xyMVBGM0NPTTNNZTREeEVJWXJmNFRrWkxkbVJNalNnOUJRemdGRmx6WjhvTkViRUdFMUpWMUE9PQ__",
+      "http://limecastle.co.uk/am02dW1qaXc3c09DenhtcUJTcFRqQTFyMitCQXNaQjhTcmVGT1cyUDJ2czF1WXRxSmplak1teFIvbzJSamlXdEVkL2Z2bWROSk9lOFRVMUthRlJ3Qmc9PQ__",
+      "www.zupimages.net/up/24/32/ygq3.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1389,
+    "html_length": 6905,
+    "has_text": true,
+    "has_html": true
+  }
+}

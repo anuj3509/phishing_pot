@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: Voce tem saldo disponivel para resgate expirando em breve!",
+    "from": "Livelo <no-replly@livelo.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Aug 2023 19:38:29 +0200 (CEST)",
+    "message_id": "<20230830173829.BCB6B2206A@cwtizk847-jrlyd-cwtizk847>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imguol.com.br/p/webmail/v3/js/iframeResizer.contentWindow.min.js",
+      "top.iframeAdjustSize(",
+      "window.addEventListener(clickEventType,",
+      "document.getElementsByTagName(",
+      "document.ontouchstart!==null)?",
+      "document.addEventListener(",
+      "https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/primexclusive/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K",
+      "body.blockImages",
+      "hotmail.com",
+      "https://banco.bradesco/resgates",
+      "top.closeDropdown(e);",
+      "logo.Encaminhado"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1559,
+    "html_length": 9930,
+    "has_text": true,
+    "has_html": true
+  }
+}

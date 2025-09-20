@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Action Required: New Payment Temporary on Hold",
+    "from": "\"Capita One\"<winner@xserver.com>",
+    "to": "garyb59@protonmail.com",
+    "date": "09 Aug 2023 01:13:53 +0900",
+    "message_id": "<20230809011353.A4793969C16D077F@xserver.com>",
+    "content_type": "multipart/mixed;boundary=---------------------92a768163c70fcdcf515334eba1d9a10"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------92a768163c70fcdcf515334eba1d9a10"
+  },
+  "attachments": [
+    {
+      "filename": "Secure_Payment_CapitalOne_Accont.html",
+      "content_type": "text/html",
+      "size": 155520
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "http://mi.capitalone.com/p/cp/350c475d0dbcae1a/o.gif?mi_u=chris@out4trout.com",
+      "http://mi.capitalone.com/p/cp/64521616053f3968/o.gif",
+      "https://ecm.capitalone.com/Messaging/assets/images/global/logo_core_2x.png",
+      "https://click-notification.capitalone.com/f/a/SwoTllg7qviu2aqeCrZLjQ~~/AAAAAQA~/RgRlB8QiP0QjaHR0cHM6Ly93d3cuY2FwaXRhbG9uZS5jb20vY29udGFjdC9XBmNhcG9uZUIKYyEiPyVj2Ti8hFITY2hyaXNAb3V0NHRyb3V0LmNvbVgEAAAAAA~~",
+      "https://click-notification.capitalone.com/q/ndJ3t7h74km4_2R3_EqERQ~~/AAAAAQA~/RgRlB8QiPlcGY2Fwb25lQgpjISI_JWPZOLyEUhNjaHJpc0BvdXQ0dHJvdXQuY29tWAQAAAAA",
+      "https://click-notification.capitalone.com/f/a/15q5d2mY6SNWQRaIWE6teg~~/AAAAAQA~/RgRlB8QiP0R1aHR0cDovL21pLmNhcGl0YWxvbmUuY29tL3AvY3AvNjQ1MjE2MTYwNTNmMzk2OC9jP3VybD1odHRwJTNBJTJGJTJGbWkuY2FwaXRhbG9uZS5jb20lMkZwJTJGcnAlMkYzNWQ1ZmY2Y2EwNjRjM2E5JTJGdXJsVwZjYXBvbmVCCmMhIj8lY9k4vIRSE2NocmlzQG91dDR0cm91dC5jb21YBAAAAAA~",
+      "https://click-notification.capitalone.com/f/a/rbxhkAYna9ZMlV1acdQ_dw~~/AAAAAQA~/RgRlB8QiP0QiaHR0cHM6Ly93d3cuY2FwaXRhbG9uZS5jb20vY29udGFjdFcGY2Fwb25lQgpjISI_JWPZOLyEUhNjaHJpc0BvdXQ0dHJvdXQuY29tWAQAAAAA",
+      "out4trout.com",
+      "https://click-notification.capitalone.com/f/a/uOatP8FSvNClBJvBNkj-Vg~~/AAAAAQA~/RgRlB8QiP0Q6aHR0cHM6Ly93d3cuY2FwaXRhbG9uZS5jb20vaWRlbnRpdHktcHJvdGVjdGlvbi9jb21taXRtZW50L1cGY2Fwb25lQgpjISI_JWPZOLyEUhNjaHJpc0BvdXQ0dHJvdXQuY29tWAQAAAAA",
+      "https://click-notification.capitalone.com/f/a/YUpEbpExOITOZmxqOQgv6A~~/AAAAAQA~/RgRlB8QiP0QbaHR0cHM6Ly93d3cuY2FwaXRhbG9uZS5jb20vVwZjYXBvbmVCCmMhIj8lY9k4vIRSE2NocmlzQG91dDR0cm91dC5jb21YBAAAAAA~",
+      "https://ecm.capitalone.com/Messaging/assets/images/global/iconsoc_mb_2x.png",
+      "https://click-notification.capitalone.com/f/a/sAKow_OGSU-lOGrqd_fEWw~~/AAAAAQA~/RgRlB8QiP0Q3aHR0cHM6Ly93d3cuY2FwaXRhbG9uZS5jb20vaWRlbnRpdHktcHJvdGVjdGlvbi9wcml2YWN5L1cGY2Fwb25lQgpjISI_JWPZOLyEUhNjaHJpc0BvdXQ0dHJvdXQuY29tWAQAAAAA"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2071,
+    "html_length": 20054,
+    "has_text": true,
+    "has_html": true
+  }
+}

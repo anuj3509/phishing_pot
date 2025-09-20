@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "Digital assets will get suspended soon",
+    "from": "\"Trust WaIIet\" <cUSToMER_service@TPg.com.AU>",
+    "to": "Recipients <cUSToMER_service@TPg.com.AU>",
+    "date": "Sun, 14 Jan 2024 04:40:15 +0200",
+    "message_id": "<aaadfe$8d1adc@rpt-glb-asav2.external.tpg.com.au>",
+    "content_type": "multipart/mixed; boundary=\"===============1792373569==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1792373569==\""
+  },
+  "attachments": [
+    {
+      "filename": "Trust_Stacked Logo_Blue.png",
+      "content_type": "image/png",
+      "size": 317697
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cdn.tools.unlayer.com/social/icons/rounded/linkedin.png",
+      "https://cdn.tools.unlayer.com/social/icons/rounded/facebook.png",
+      "https://hotelgalinos.com/smirt",
+      "https://www.instagram.com/unlayer_official/",
+      "https://www.facebook.com/unlayer",
+      "https://cdn.tools.unlayer.com/social/icons/rounded/twitter.png",
+      "https://cdn.tools.unlayer.com/social/icons/rounded/instagram.png",
+      "https://www.unlayer.com/",
+      "https://www.dacostone.com.bd/view/32179889.png",
+      "https://www.linkedin.com/company/unlayer/mycompany/",
+      "https://twitter.com/unlayerapp"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 776,
+    "html_length": 25513,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "phishing@pot ! Necesitamos su confirmaci��n lo antes posible",
+    "from": "Fedex entrega  ,<renew@top1lithiumbattery.cfd>",
+    "to": "Undisclosed recipients:;",
+    "date": "Fri, 20 Sep 2024 16:25:16 +0000",
+    "message_id": "<xbyaixw.vsozzp.hcvs@dbagjcqf.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://crossheart.de/psl3vwSpOYTENdnUn5di1MuX5ZBKkSN5U8U64ro8wEuZPDER7usHsqW0lMf9cw17W10m",
+      "http://crossheart.de/EJDSLHORtfH5OzXryaHiELHXMnLk4jJeT9NZPDERvRmlaxpBuTiRqGsSLHORsvNR9knZNCvojzTU",
+      "MMYB.crossheart.de/lSLHOR5T13Yc4VjEUaE3iN4GmmS4V1uUb9NHywJ5kN8AJLButpYsJVeh2oeudDpS5JAo"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 539,
+    "html_length": 6253,
+    "has_text": true,
+    "has_html": true
+  }
+}

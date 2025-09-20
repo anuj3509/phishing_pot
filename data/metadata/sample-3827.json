@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Último Aviso: Seu pedido foi taxado pela fiscalização alfandegária! Protocolo:03209852",
+    "from": "Correios <avisos738012@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Aug 2024 09:54:38 +0000",
+    "message_id": "<07df878030c1ff582050c290f4e11bca@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_07df878030c1ff582050c290f4e11bca\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_07df878030c1ff582050c290f4e11bca\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://clientes-rastreamentocorreios.co.ua/rastreamento/taxa245",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2488,
+    "has_text": true,
+    "has_html": true
+  }
+}

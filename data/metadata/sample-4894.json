@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso de Multa Vinculada à Sua CNH - Providências Necessárias! Protocolo: 84179806.",
+    "from": "Alertas DETRAN <comunicado187561@detran>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 19 Feb 2025 09:55:18 +0000",
+    "message_id": "<5b0bf7f6511ba2b2881fc53e27b03ddf@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_5b0bf7f6511ba2b2881fc53e27b03ddf\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_5b0bf7f6511ba2b2881fc53e27b03ddf\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://function-1-765775392619.us-central1.run.app"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4111,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "My Donation €4,000,000,",
+    "from": "janet wILSON <wmrsjanet49@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Fri, 15 Dec 2023 12:37:07 +0100",
+    "message_id": "<CAO4M154VN1iTEnFucbzZ0D-fuswAYEb7A9LHo-HcpYsBcCNxmg@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000080b81c060c8ad283\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000080b81c060c8ad283\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mrs.janetwilsoDON@hotmail.com",
+      "Sra.janet"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2097,
+    "html_length": 2247,
+    "has_text": true,
+    "has_html": true
+  }
+}

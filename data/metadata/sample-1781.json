@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Serviço de Atendimento ao Consumidor - Informativo Online: xxlAdImgD1bPvrF)",
+    "from": "\"Banco do Brasil (no-reply@bb.com.br) | SVR - Consulta de valores a\r\n receber | Atendimento: 691076456020794\" <qazwes332@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 05 Nov 2023 13:28:20 -0800 (PST)",
+    "message_id": "<654808f4.d40a0220.45e8d.ace5@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_989_1cc92e46-1893-4c86-b413-6dac6a61c1c7"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_989_1cc92e46-1893-4c86-b413-6dac6a61c1c7"
+  },
+  "attachments": [
+    {
+      "filename": "Informativo-Online_nMFMPPVC4Ye7Eek4CDBCy1uJFqpHeoaCgwN.pdf",
+      "content_type": "application/octet-stream",
+      "size": 169479
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 276,
+    "html_length": 745,
+    "has_text": true,
+    "has_html": true
+  }
+}

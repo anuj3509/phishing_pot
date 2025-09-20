@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "ATTN: Lucky Winner   20",
+    "from": "\"MR. QUENTINA ROYCE\"<test@environment.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 18 Sep 2024 18:50:59 -0700",
+    "message_id": "<1C.9B.16868.DD40BE66@axazo365smgc1.axisb.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "spainmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2987,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Alert]: New update!",
+    "from": "\"Metamask.io\"<customer_service@tpg.com.au>",
+    "to": "Recipients <customer_service@tpg.com.au>",
+    "date": "Fri, 26 Jan 2024 13:06:57 +0100",
+    "message_id": "\r\n <a9c97aa2-6cfa-4dad-b9d2-f81696bad110@MW2NAM12FT073.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============0061041175==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0061041175==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rb.gy/61696p",
+      "Meta.Mask",
+      "https://cdnl.iconscout.com/lottie/premium/thumb/transfer-dollars-from-metamask-to-wallet-5663371-4719020.gif"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 522,
+    "html_length": 1966,
+    "has_text": true,
+    "has_html": true
+  }
+}

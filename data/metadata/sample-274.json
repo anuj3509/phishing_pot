@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "🚨 Importante: Você foi selecionado para se tornar um cliente Bradesco Prime - Nº de Protocolo: 74.72302740/2023",
+    "from": "Convites Bradesco <convites@clientesbradescoprime.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Jan 2023 11:48:19 +0000",
+    "message_id": "<VWoeAVoYbHicmZ4A7H9Xjod6Pm42zmNbAsVjtOWXtQ@localhost>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_VWoeAVoYbHicmZ4A7H9Xjod6Pm42zmNbAsVjtOWXtQ\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_VWoeAVoYbHicmZ4A7H9Xjod6Pm42zmNbAsVjtOWXtQ\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500&amp;display=swap",
+      "https://fonts.gstatic.com",
+      "https://www.googleadservices.com/pagead/aclk?sa=L&amp;ai=C3seiJpC5XstooZGJBrPArsADp__a3lyH_4PTjAqoqKfonA8QASC7-_keYISV7IXcHaABzavQ-gPIAQmpAt6UwcHeNU0-qAMByANKqgTEAU_Q2dNvWCQ_LtumFUNLEz16PFVhg8cC3HmYEdlxma4KWUfGkvbdLFpKvCC92odSoiBTw9idw1iHRgreOTD1xyzoBBif4axm3JFTnekl_2_OeuLDQv0U_HzVVt10Iu5SkzsX6nGWyfUgPHIgJkxJqY4me8SG8d0nlmJ8PumQhJhze02bPmqEr4puzh2awPAoHoVPQ7QaXlbeJvf4W7Wexg1RGQ0EqMY8Z7YLfyh6tceagXiYGwWU1r3H9HuiISfj4G-RYYTABM-Sru2hAsAFBfoFBgglEAEYAJAGAaAGLoAHm9SvBYgHAZAHAqgHjs4bqAeT2BuoB7oGqAfw2RuoB_LZG6gHpr4bqAfs1RuoB_PRG6gH7NUbqAeW2BuoB8LaG9gHAMAIAdIIBggAEAIYGoAKAZALA5gLAcgLAYAMAeAS_6jY_crtxomjAdgTDg&amp;ae=1&amp;num=1&amp;cid=CAMSeQClSFh3L5xTIDfFt35D8xjVEHFCYXr5NOlTRany4t_BBsFsAp3b7XCD0nSBKDirzhPVamy0H75uzx6gQxh5_rKDAlBAJWTUCf1Tqi6saFbojDtHd_R8dtCePj4ZvH0zHZWyRITLXvztggY2ibrWY9oLm5X8Wcuetvk&amp;sig=AOD64_0L9hd4oCjDoroDTf6-7Fkon2bwsw&amp;ctype=5&amp;client=ca-pub-1169945711933407&amp;adurl=https://www.icsommacampagna.edu.it/wordpress/assets/?key=cm9kcmlnby1mLXBAaG90bWFpbC5jb20=",
+      "https://fonts.googleapis.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35,
+    "html_length": 172259,
+    "has_text": true,
+    "has_html": true
+  }
+}

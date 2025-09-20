@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Seus 245.579 pontos Livelo expiram em breve. Troque agora!",
+    "from": "Bradesco S.A <bia@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 25 Sep 2024 05:55:53 +0000 (UTC)",
+    "message_id": "<20240925055553.8F287414A2@ubuntu-s-1vcpu-512mb-10gb-nyc1-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/iphone-15-pro-max-family-select?wid=4000&amp;hei=3794&amp;fmt=jpeg&amp;qlt=90&amp;.v=1692893974945",
+      "https://imgur.com/Q9BMLfh.png",
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/PTF%2FPRD84932%2FSKU79791%2FLARGE%2F2431519%2FGeladeira-Brastemp-BRE57AK-Frost-Free-com-Turbo-Ice-Inverse---443L-110V.jpg",
+      "https://i.imgur.com/NCDwR3z.png",
+      "parent.formatPoints($data.x_salePrice())",
+      "https://www.polymer.or.kr/med/ww2ib/axps.php?hash=%EMAIL%",
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/LJC%2FPRD1039944%2FSKU1115605%2FLARGE%2F62728119%2FArcondicionado-Nano-Split-LG-Inverter-Quente-e-Frio-24000-BTUS--S4NW24K2RX-220V-Cinza.jpeg",
+      "https://imagens.fastshop.com.br/imgprod/9BBAC51PTA_G.jpg",
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/LMM%2FPRD611370%2FSKU665057%2FLARGE%2F45616958%2FTV-75-PHILIPS-SMART-4K-AMBILIGHT-75PML9507.jpeg",
+      "http://241.17.205.92.host.secureserver.net/home/?hash=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1323,
+    "html_length": 16385,
+    "has_text": true,
+    "has_html": true
+  }
+}

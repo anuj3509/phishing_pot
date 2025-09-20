@@ -1,0 +1,98 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [ACTION REQUIRED] Update your Ledger device
+From: "Ledger Live" <support@ledgerlive.com>
+To: <phishing@pot>
+Date: Sun, 30 Mar 2025 21:56:57 -0700
+Message_Id: <54684303982562815115191@mosdely>
+Content_Type: multipart/related; type="multipart/alternative";
+	boundary="----=_NextPart_001_035A_55B62AF8.7EE11E0F"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related; type="multipart/alternative";
+	boundary="----=_NextPart_001_035A_55B62AF8.7EE11E0F"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://ledger-live-web3.com/
+
+DECODED TEXT CONTENT:
+------------------------------
+THE MOST SECURE CRYPTOCURRENCY & NFT WALLET
+Our support team has noticed that your Ledger device is due for an update. To ensure your device remains secure and functions properly, we kindly ask that you update it using the button below.
+Update my Ledger device
+ 
+Please note: The update must be completed before April 13, 2025.
+
+We apologize for any inconvenience this may cause. Rest assured, our priority is to keep you and your assets safe while providing the best experience possible.
+
+Thank you for your understanding and cooperation.
+Best regards,
+Ledger Support Team
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="nl"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Ledger Wallet</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+        }
+        .logo {
+            font-size: 24px;
+            font-weight: bold;
+            border: 2px solid white;
+            display: inline-block;
+            padding: 5px 10px;
+            margin-bottom: 20px;
+        }
+        .title {
+            font-size: 22px;
+            color: #caa0ff;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        .text {
+            font-size: 14px;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #caa0ff;
+            color: black;
+            padding: 10px 15px;
+            text-decoration: none;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 10px;
+        }
+    </style>
+
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"></head>
+<body>
+<div class="container">
+<div class="title"><img border="0" hspace="0" alt="" src="cid:3920834213-1" align="baseline"></div>
+<div class="title">THE MOST SECURE CRYPTOCURRENCY &amp; NFT WALLET</div>
+<div class="text"><font size="3">Our support team has noticed that your Ledger device is due for an update. To ensure your device remains secure and functions properly, we kindly ask that you update it using the button below.</font></div><a class="button" href="https://ledger-live-web3.com/">Update my Ledger device</a> 
+<div class="text"><font size="3"><strong></strong></font>&nbsp;</div>
+<div class="text"><font size="3"><strong>Please note:</strong> The update must be completed before </font><font size="3"><strong>April 13, 2025. <br></strong><br>We apologize for any inconvenience this may cause. Rest assured, our priority is to keep you and your assets safe while providing the best experience possible. <br><br>Thank you for your understanding and cooperation. </font></div>
+<div class="text"><strong><font size="3">Best regards,<br>Ledger Support Team</font></strong></div></div></body></html>

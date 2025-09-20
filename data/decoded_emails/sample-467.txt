@@ -1,0 +1,45 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Today could be your lucky day!
+From: Test Your Luck , <bonobo@news.bonobojeans.com>
+To: [to]
+Date: Tue, 14 Mar 2023 12:45:21 +0100
+Message_Id: 
+ <000cab25-bb13-4475-bc2c-f4d6433e02e9@VI1EUR04FT014.eop-eur04.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://i.postimg.cc/hPqRJc2r/Fire-Shot-Capture-101.png
+  - http://iptesetxkeys.com/op/4295_md/22222/1621/1814/410/1190
+  - http://iptesetxkeys.com/oop/4295_md/22222/1621/1814/410/1190
+  - i.postimg.cc/hPqRJc2r/Fire-Shot-Capture-101.png
+  - http://iptesetxkeys.com/un/4295_md/22222/1621/1814/410/1190
+  - http://iptesetxkeys.com/cl/4295_md/22222/1621/1814/410/1190
+
+DECODED TEXT CONTENT:
+------------------------------
+Test Your Luck Today could be your lucky day! UNSUBSCRIBE click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Test Your Luck</title>
+</head>
+<body>
+  <a href="http://iptesetxkeys.com/cl/4295_md/22222/1621/1814/410/1190">
+  <h1>Today could be your lucky day!</h1><img src="//i.postimg.cc/hPqRJc2r/Fire-Shot-Capture-101.png" alt="Fire-Shot-Capture-096-FR-Interactive-Email"> <img src="https://i.postimg.cc/hPqRJc2r/Fire-Shot-Capture-101.png" alt="Fire-Shot-Capture-096-FR-Interactive-Email"></a> <a href="http://iptesetxkeys.com/un/4295_md/22222/1621/1814/410/1190">UNSUBSCRIBE</a>click <a href="http://iptesetxkeys.com/oop/4295_md/22222/1621/1814/410/1190">here</a> to remove yourself from our emails list <img alt="op/4295_md/22222/1621/1814/410/1190" src="http://iptesetxkeys.com/op/4295_md/22222/1621/1814/410/1190" width="1px" height="1px">
+</body>
+</html>
+

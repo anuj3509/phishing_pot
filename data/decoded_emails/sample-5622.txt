@@ -1,0 +1,88 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Login from unfamiliar device
+From: LedgeLive - customerservice <yuusuke@sankyotrd.co.jp>
+To: <phishing@pot>
+Date: Sun, 8 Jun 2025 10:33:43 -0700
+Message_Id: <0aa2eb40ea163c3201abe22b4f8a928d9246@sankyotrd.co.jp>
+Content_Type: multipart/alternative;
+	boundary="2389c035f93d12092a80ab90659398898d"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="2389c035f93d12092a80ab90659398898d"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://sportjeansmr.com/
+
+DECODED TEXT CONTENT:
+------------------------------
+Login Attempt Detected from a New Device
+
+We noticed a login attempt to your Ledger account from an unfamiliar device or location.
+
+Device Apple iPhone 13 Pro Max
+
+Date JUNE 08, 2025
+
+IP Address 79.193.221.128
+
+Location Mönchengladbach, Germany
+
+Do you recognize this login attempt?
+
+Yes, it was me No, secure my account 
+
+If you don’t recognize this activity, we will secure your account and guide you through identity verification using Ledger Live.
+This is an automated message from Ledger. Please do not reply.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Ledger Login Alert</title>
+
+</head>
+<body style="FONT-FAMILY: Arial, sans-serif; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #f2f3f5">
+<table style="BACKGROUND-COLOR: #f2f3f5" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="center"><!-- Main Container -->
+<table style="OVERFLOW: hidden; MARGIN-TOP: 40px; BACKGROUND-COLOR: #ffffff; border-radius: 6px; box-shadow: 0 2px 5px rgba(0,0,0,0.1)" cellspacing="0" cellpadding="0" width="600"><!-- Header -->
+<tbody>
+<tr>
+<td style="PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND-COLOR: #000000"></td></tr><!-- Title -->
+<tr>
+<td style="PADDING-BOTTOM: 30px; TEXT-ALIGN: center; PADDING-TOP: 30px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px">
+<h2 style="FONT-SIZE: 20px; COLOR: #000; MARGIN: 0px">Login Attempt Detected from a New Device</h2>
+<p style="FONT-SIZE: 15px; MARGIN-TOP: 15px; COLOR: #555; LINE-HEIGHT: 1.6">We noticed a login attempt to your Ledger account from an unfamiliar device or location. </p></td></tr><!-- Login Details -->
+<tr>
+<td style="PADDING-BOTTOM: 30px; PADDING-TOP: 0px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px">
+<table style="BORDER-COLLAPSE: collapse" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #f8f8f8">Device</td>
+<td style="PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #fafafa">Apple iPhone 13 Pro Max</td></tr>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #f8f8f8">Date</td>
+<td style="PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #fafafa">JUNE&nbsp;08, 2025</td></tr>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #f8f8f8">IP Address</td>
+<td style="PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #fafafa">79.193.221.128</td></tr>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #f8f8f8">Location</td>
+<td style="PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #fafafa">Mönchengladbach, Germany</td></tr></tbody></table></td></tr><!-- Prompt -->
+<tr>
+<td style="PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px">
+<p style="FONT-SIZE: 15px; MARGIN-BOTTOM: 20px; COLOR: #555">Do you recognize this login attempt? </p><a style="TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 24px; DISPLAY: inline-block; PADDING-RIGHT: 24px; BACKGROUND-COLOR: #28a745; MARGIN-RIGHT: 10px; border-radius: 30px" href="https://sportjeansmr.com/">Yes, it was me</a> <a style="TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 24px; DISPLAY: inline-block; PADDING-RIGHT: 24px; BACKGROUND-COLOR: #dc3545; border-radius: 30px" href="https://sportjeansmr.com/">No, secure my account</a> </td></tr><!-- Footer -->
+<tr>
+<td style="FONT-SIZE: 13px; COLOR: #888; PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px">If you don’t recognize this activity, we will secure your account and guide you through identity verification using Ledger Live.<br><br>This is an automated message from Ledger. Please do not reply. </td></tr></tbody></table></td></tr></tbody></table></body></html>
+

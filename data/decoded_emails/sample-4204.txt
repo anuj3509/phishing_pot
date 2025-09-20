@@ -1,0 +1,141 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Schalten Sie Ihre exklusive Mystery Box frei - zeitlich begrenztes Angebot!
+From: Black Friday Deals Team, <service@stayfriends.de>
+To: phishing@pot
+Date: Mon, 21 Oct 2024 19:49:12 +0200
+Message_Id: <FMfRjx7.0.0.FMfRjx7.9.FMfRjx7@stayfriends.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://magicmotorworks.info/op/1243_md/1/4678/2040/30/123038
+  - https://www.upsearching.com/C61HZN3/2DM44Q6N/
+  - www.zupimages.net/up/24/43/lynu.png
+  - https://www.zupimages.net/up/24/43/lynu.png
+  - http://magicmotorworks.info/oop/1243_md/1/4678/2040/30/123038
+
+DECODED TEXT CONTENT:
+------------------------------
+Black Friday body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } .container { width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1); } .header { background-color: #232323; padding: 20px; text-align: center; color: #ffffff; } .header h1 { margin: 0; font-size: 28px; } .content { padding: 20px; text-align: center; } .content h2 { color: #333333; } .content p { color: #555555; line-height: 1.6; } .btn { display: inline-block; padding: 15px 30px; margin-top: 20px; background-color: #28a745; color: white; text-decoration: none; font-weight: bold; border-radius: 5px; } .btn:hover { background-color: #218838; } .footer { padding: 15px; text-align: center; background-color: #f4f4f4; color: #777777; font-size: 14px; } .footer p { margin: 0; } .image-section { padding: 10px; text-align: center; background-color: #ffffff; } .image-section img { width: 100%; height: auto; max-width: 300px; margin: 20px auto; } Schalte deine Black Friday Mystery Box frei! Begrenztes Angebot! Verpasse dieses exklusive Black Friday-Angebot nicht! Bereite dich darauf vor, spannende Gadgets, intelligente Geräte und Überraschungsgeschenke auszupacken. Was wird in deiner Mystery Box sein? Beeil dich, dieses Angebot ist zeitlich begrenzt. Schnapp dir jetzt deine Mystery Box und erlebe eine Welt voller Überraschungen! Schalte Meine Mystery Box Jetzt Frei Wenn du diese E-Mails nicht mehr erhalten möchtest, klicke hier, um dich abzumelden . click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+  <title>Black Friday </title> 
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      background-color: #232323;
+      padding: 20px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+    .content {
+      padding: 20px;
+      text-align: center;
+    }
+    .content h2 {
+      color: #333333;
+    }
+    .content p {
+      color: #555555;
+      line-height: 1.6;
+    }
+    .btn {
+      display: inline-block;
+      padding: 15px 30px;
+      margin-top: 20px;
+      background-color: #28a745;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background-color: #218838;
+    }
+    .footer {
+      padding: 15px;
+      text-align: center;
+      background-color: #f4f4f4;
+      color: #777777;
+      font-size: 14px;
+    }
+    .footer p {
+      margin: 0;
+    }
+    .image-section {
+      padding: 10px;
+      text-align: center;
+      background-color: #ffffff;
+    }
+    .image-section img {
+      width: 100%;
+      height: auto;
+      max-width: 300px;
+      margin: 20px auto;
+    }
+  
+  </style> 
+ </head> 
+ <body> 
+  <div class="container"> 
+   <!-- Header Section --> 
+   <div class="header"> 
+    <h1>Schalte deine Black Friday Mystery Box frei!</h1> 
+   </div> 
+   <!-- Content Section --> 
+   <div class="content"> 
+    <h2>Begrenztes Angebot!</h2> 
+    <p>Verpasse dieses exklusive Black Friday-Angebot nicht! Bereite dich darauf vor, spannende Gadgets, intelligente Geräte und Überraschungsgeschenke auszupacken. Was wird in deiner Mystery Box sein?</p> 
+    <!-- Image Section (Moved to Middle) --> 
+    <div class="image-section"> 
+     <img src="https://www.zupimages.net/up/24/43/lynu.png" alt=""> 
+     <img src="//www.zupimages.net/up/24/43/lynu.png" alt=""> 
+
+    </div> 
+    <p>Beeil dich, dieses Angebot ist zeitlich begrenzt. Schnapp dir jetzt deine Mystery Box und erlebe eine Welt voller Überraschungen!</p> 
+    <!-- Call to Action Button --> 
+    <a href="https://www.upsearching.com/C61HZN3/2DM44Q6N/" class="btn">Schalte Meine Mystery Box Jetzt Frei</a> 
+   </div> 
+   <!-- Footer Section --> 
+   <div class="footer"> 
+    <p>Wenn du diese E-Mails nicht mehr erhalten möchtest, <a href="https://www.upsearching.com/C61HZN3/2DM44Q6N/">klicke hier, um dich abzumelden</a>.</p> 
+   </div> 
+  </div>   
+ </body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://magicmotorworks.info/oop/1243_md/1/4678/2040/30/123038">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://magicmotorworks.info/op/1243_md/1/4678/2040/30/123038" width="1px" height="1px" style="visibility:hidden">
+

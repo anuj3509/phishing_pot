@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Ihre Chance auf einen gro��en Gewinn!",
+    "from": "Temu,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Dec 2024 12:42:50 +0000",
+    "message_id": "<DWVEEPCIOTGDFQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg",
+      "http://wmasurvey.com/4CubdN42388TIVU1267dsauofohpy14302TXNXBYCWXRSECPE2CVMZ17333V10",
+      "http://www.w3.org/1999/xhtml",
+      "http://wmasurvey.com/6gaElS42388iQIb1267ujvffomkdg14302YRFOETDSOYEHLTQ2TCLB17333k10",
+      "http://wmasurvey.com/5bcRvx42388vpzd1267tedqbemtlg14302LRETWORPNNHCSSV2GGJS17333O10",
+      "http://wmasurvey.com/4MOTSZ42388vZAX1267imsqzakhzr14302ZGYBKLOLOTQLDMU2HBLY17333o10",
+      "https://mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1798,
+    "html_length": 8060,
+    "has_text": true,
+    "has_html": true
+  }
+}

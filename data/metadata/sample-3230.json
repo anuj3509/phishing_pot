@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "18 Mil reais com vencimento breve! MSG: 2295081521",
+    "from": "Livelo <Pontos4997netlivelo__bradesco@pontos4997inlivelo__bradesco.com>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Fri, 26 Apr 2024 12:05:50 -0400",
+    "message_id": "<20240426160550.66A6EA83760@vmi1811948.contaboserver.net>",
+    "content_type": "multipart/mixed;boundary=---------------------ddbcaa24696a6aa9099cfe76d84c468d"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------ddbcaa24696a6aa9099cfe76d84c468d"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://www.livelo.com.br/resgate-beneficio.htm",
+      "http://vps52503.publiccloud.com.br/resgatelive788"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 960,
+    "html_length": 24007,
+    "has_text": true,
+    "has_html": true
+  }
+}

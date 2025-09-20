@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Notificaci��n Judicial: Atenci��n Requerida (97014745)
+From: Daniela Perez <cfdifacturacion@vps-f44897b3.vps.ovh.ca>
+To: phishing@pot
+Date: Tue,  6 Aug 2024 00:09:35 +0000 (UTC)
+Message_Id: <20240806001219.3D10590138@vps-e1095755.vps.ovh.net>
+Content_Type: multipart/mixed; boundary="ec8dedd5e4e80fe97d16c4e7f662da56"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/mixed; boundary="ec8dedd5e4e80fe97d16c4e7f662da56"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css
+  - http://212.224.205.92.host.secureserver.net/?PRcwTinYiz=VGp8mcm9kcmlnby1mLXBAaG90bWFpbC5jb20=
+
+DECODED TEXT CONTENT:
+------------------------------
+Notificación Judicial .btn-download { background-color: green; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; } .btn-download:hover { background-color: darkgreen; } Para: Estimado(a)&nbsp;Hoy 06/08/2024 , Soy Rosario Castilho , Asistente de Operaciones del Departamento Jurídico del Instituto Federal de Justicia. Me pongo en contacto porque, hasta el momento, no hemos recibido ninguna respuesta referente a la notificación judicial que enviamos anteriormente . Para evitar cualquier penalización debido a retrasos en el proceso, solicitamos que lea el archivo adjunto . Este contiene información detallada sobre el proceso y necesitamos que nos envíe su respuesta para dar seguimiento al caso. Número del Proceso: 51544654566MP Fecha de la Notificación: 20/08/2024 Descargar Notificación Judicial Estoy a su disposición para cualquier pregunta o asistencia adicional que pueda necesitar. Atentamente, Rosario Castilho Asistente de Operaciones Instituto Federal de Justicia
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Notificación Judicial</title>
+    
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .btn-download {
+            background-color: green;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            display: inline-block;
+        }
+        .btn-download:hover {
+            background-color: darkgreen;
+        }
+    </style>
+</head>
+<body>
+<p>Para: <b></b></p><br>
+
+<p>Estimado(a)&nbsp;Hoy 06/08/2024 </b>,</p>
+
+<p>Soy <strong>Rosario Castilho</strong>, Asistente de Operaciones del Departamento Jurídico del Instituto Federal de Justicia.</p>
+
+<p>Me pongo en contacto porque, hasta el momento, <b>no hemos recibido ninguna respuesta referente a la notificación judicial que enviamos anteriormente</b>.</p>
+
+<p>Para evitar cualquier penalización debido a retrasos en el proceso, solicitamos que <strong>lea el archivo adjunto</strong>. Este contiene información detallada sobre el proceso y necesitamos que nos envíe su respuesta para dar seguimiento al caso.</p>
+
+<p>Número del Proceso: <strong>51544654566MP</strong></p>
+<p>Fecha de la Notificación: <strong>20/08/2024</strong></p><br>
+
+<a href="http://212.224.205.92.host.secureserver.net/?PRcwTinYiz=VGp8mcm9kcmlnby1mLXBAaG90bWFpbC5jb20=" class="btn-download">Descargar Notificación Judicial</a>
+<br><br>
+<p>Estoy a su disposición para cualquier pregunta o asistencia adicional que pueda necesitar.</p>
+<br>
+<p>Atentamente,</p>
+
+<p><b>Rosario Castilho</b><br>
+<i>Asistente de Operaciones</i><br>
+<i>Instituto Federal de Justicia</i></p>
+
+</body>
+</html>
+
+
+

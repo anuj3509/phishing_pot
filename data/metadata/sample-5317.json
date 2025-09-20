@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, você removeu seu método de autenticação de duas etapas?",
+    "from": "Mercado Livre <contato@mercadolivre>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 22 Apr 2025 19:35:21 +0000",
+    "message_id": "<ff2b73fd-68f5-17d1-eadb-ef90187bd4bc@mercadolivre>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png",
+      "https://julio-de-livs.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1420,
+    "html_length": 4993,
+    "has_text": true,
+    "has_html": true
+  }
+}

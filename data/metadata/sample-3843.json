@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Herzliche Gl��ckw��nsche! Sie wurden ausgew��hlt!",
+    "from": "Nachricht von T-Online, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Aug 2024 13:11:54 +0000",
+    "message_id": "<FcvWIyW.0.0.FcvWIyW.9.FcvWIyW@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/37/blca.png",
+      "http://sklj.info/NENYYU9nNkF1MFhCbmkxdGNXaVY2dGFJVzNHMnRudkV6UVN6RmFPV0dzR3J3bC9BZG14UURTMDVMN2VTcnhnUXFXdUtpejFuclVpa0xmS3BHbklQR0E9PQ__",
+      "http://sklj.info/YmlHR3htcTNjaEtkTjJESkgrQ1hTbWUwNXFJdmNKQWF6MDJlOWUwMzEwZHZERStpbDFBZ2JyeGduQTJRenhwV0srRVpDVElYdDBwYW4vR0ZtUkJSWnc9PQ__",
+      "https://www.zupimages.net/up/24/23/v30x.png",
+      "https://www.zupimages.net/up/23/37/blca.png",
+      "bgasdfasdfa.jpg",
+      "https://wear-prodct.com/?a=8256&amp;oc=21066&amp;c=56280&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/23/v30x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5188,
+    "html_length": 12788,
+    "has_text": true,
+    "has_html": true
+  }
+}

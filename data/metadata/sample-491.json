@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Fw: Urgent Notice: Unrecognized Login Attempt to Your Account",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sun, 19 Mar 2023 23:17:08 +0000",
+    "message_id": "\r\n <SA0PR04MB7370EC04B3089B00F796C10EB3839@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EC04B3089B00F796C10EB3839SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EC04B3089B00F796C10EB3839SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com?cc=fwrakib03@gmail.com&amp;subject=Report-User-Now",
+      "https://media.gab.com/system/media_attachments/files/126/875/146/original/478589736cc135ce.png][X]",
+      "media.gab.com/system/media_attachments/files/126/875/146/original/478589736cc135ce.png",
+      "todaysshoes.com&gt;",
+      "todaysshoes.com",
+      "hotmail.com&gt;",
+      "gmail.com?cc=fwrakib03@gmail.com&subject=Report-User-Now",
+      "hotmail.com",
+      "https://media.gab.com/system/media_attachments/files/126/875/146/original/478589736cc135ce.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1679,
+    "html_length": 7044,
+    "has_text": true,
+    "has_html": true
+  }
+}

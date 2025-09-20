@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "RESGATE AGORA SEUS PONTOS LIVELO DISPON��VEIS. ",
+    "from": "Bradesco <sac@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 Mar 2023 16:51:41 +0000 (UTC)",
+    "message_id": "<20230317165141.7E5F17CE0C@ubuntu-s-1vcpu-512mb-10gb-sfo3-03>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://le2ne1-icxzwxc2dq-nn.a.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 984,
+    "html_length": 7949,
+    "has_text": true,
+    "has_html": true
+  }
+}

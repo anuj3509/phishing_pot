@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Valor bloqueado por segurancauPSpoz3vWhkz",
+    "from": "Nubank - Bloqueio por fraudeKApsBkI1G5 <dd4021325@gmail.com>",
+    "to": "lucasbraun94@hotmail.com",
+    "date": "Fri, 24 Nov 2023 07:43:05 -0800 (PST)",
+    "message_id": "<6560c489.050a0220.27c2f.446a@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============2264789722073114762==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============2264789722073114762==\""
+  },
+  "attachments": [
+    {
+      "filename": "pdf_T32HHY.pdf",
+      "content_type": "application/pdf",
+      "size": 200928
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 575,
+    "html_length": 704,
+    "has_text": true,
+    "has_html": true
+  }
+}

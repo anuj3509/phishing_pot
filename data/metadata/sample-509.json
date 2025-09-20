@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Vital Information for your ATM Card",
+    "from": "Jim <info@globalexpress.com>",
+    "to": "Recipients <info@globalexpress.com>",
+    "date": "Fri, 24 Mar 2023 08:18:00 -0700",
+    "message_id": "<83d9ba4c-c435-49f8-be3a-a42c09885b14@ECTXPXCHM02.cnp.int>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1087,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

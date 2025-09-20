@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, agora você é Bradesco Prime!",
+    "from": "Bradesco Prime <notifica@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Feb 2024 12:45:42 +0000",
+    "message_id": "<b09ae096-cb91-bac8-7343-6dc4105dc4fe@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      "https://b-a4qxna7jwq-rj.a.run.app/b/?tr=789a5a94db5543b680b89c31666384d0&amp;t1=bra",
+      ".alert.alert-good"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3865,
+    "html_length": 7517,
+    "has_text": true,
+    "has_html": true
+  }
+}

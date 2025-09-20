@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notice",
+    "from": "Yukiyoshi Ohyatsu <maharisn3@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 1 May 2024 06:13:26 -0700",
+    "message_id": "<CAK8iQXMEWduJAX+sctb+ATJEH3MzTTeLru08a_5TA=Yw_zV9iw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000002686240617644131\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000002686240617644131\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com).",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 753,
+    "html_length": 909,
+    "has_text": true,
+    "has_html": true
+  }
+}

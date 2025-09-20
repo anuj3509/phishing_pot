@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Valores disponiveis Resgate hoje antes que expirem ",
+    "from": "Bradesco recompensa <sacpontosrecomep0214677@ubuntu-s-1vcpu-512mb-10gb-nyc1-02>",
+    "to": "phishing@pot",
+    "date": "Mon,  6 Nov 2023 07:02:49 +0000 (UTC)",
+    "message_id": "<20231106070358.0675C5C16C@ubuntu-s-1vcpu-512mb-10gb-nyc1-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-central1-astute-buttress-404205.cloudfunctions.net/sacc020s2",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1057,
+    "html_length": 8088,
+    "has_text": true,
+    "has_html": true
+  }
+}

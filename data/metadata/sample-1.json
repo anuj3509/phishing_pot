@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "CLIENTE PRIME - BRADESCO LIVELO: Seu cart��o tem 92.990 pontos LIVELO expirando hoje!",
+    "from": "BANCO DO BRADESCO LIVELO<banco.bradesco@atendimento.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 18:35:49 +0000 (UTC)",
+    "message_id": "<20230919183549.39DEA3F725@ubuntu-s-1vcpu-1gb-35gb-intel-sfo3-06>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "icone-superior.png",
+      "header.png",
+      "https://blog1seguimentmydomaine2bra.me/",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 744,
+    "html_length": 4913,
+    "has_text": true,
+    "has_html": true
+  }
+}

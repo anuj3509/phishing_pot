@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot  Wir bereiten Ihr Feuer-Sicherheitskit vor",
+    "from": "\"ADAC VIP-Einladung\" <Department-client-n80105@organizationmv.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 10 Mar 2025 15:43:15 +0000",
+    "message_id": "<95fed16d-6910-412f-a956-c2efd768a833@PN1PEPF000062BB.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "http://www.w3.org/1999/xhtml",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ADAC-Logo.svg/2045px-ADAC-Logo.svg.png",
+      "https://privacy.microsoft.com/en-GB/privacystatement",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ADAC-Logo.svg/2045px-ADAC-Logo.svg.png",
+      "https://urly.fi/3Mkh?tGNyatbYV8r9N5jjXa1PTG5NjvGycXNqGTTiSQl7JQJE1DoBTWgnqb83GakPdrGtOfaskJyQmqTF3DsNw4ZaNR"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3712,
+    "html_length": 14836,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Sua CNH esta em processo de cassação! ID: 82108872",
+    "from": "DETRAN - GOV <cnh@508704govcnhonline>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 1 May 2025 02:24:51 +0000",
+    "message_id": "<c88df3bcfe55eb1c4ed2972a27f22598@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c88df3bcfe55eb1c4ed2972a27f22598\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c88df3bcfe55eb1c4ed2972a27f22598\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://der-590812820069.southamerica-east1.run.app"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4111,
+    "has_text": true,
+    "has_html": true
+  }
+}

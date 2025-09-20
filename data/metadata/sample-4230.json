@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Ação Importante - Liberação de Encomenda Pendente!",
+    "from": "Correios <notificacoes@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 28 Oct 2024 07:33:36 +0000",
+    "message_id": "<b10279c7-1cdd-d538-0d94-35301302e1f2@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "practice.New",
+      "I.ih",
+      "ncia.Decidi",
+      "Bomis.com,",
+      "https://juliodedansk.icu/?mailID=pUITZGcO4IN81eRt8xGxmIgv-cstQbdcwL-LNNSOoykJ8ORRBo8s8J8xb1bJsF8uaJK7Vsp3kimjy5Gfw62sCdU4I3RVMQ1QUu6jMOQAUzQBRzGjpedvCT1n_m1CWyJSHpfrMWRYL8Zdbpta9eSMlf5afNl0SHLXhWZFa_yJGNyEub6_p98OTw_Ma9MzRhBwah9iKVwV4i22EdvCagR2_AhiYBKL6VESyz3YrVsbxhJqUgZO35Xm2-PsQdT-HcIdj_eH_xVuRXhDG7PVgSWXGewu8vl6Umu-N1F31UCCzaOkcCTlU24CH3nL8llln7zVxb7Y62yFt2oS2ZeFe7GTK3k2y9H8Fzy7",
+      "httpwww.dei.isep.ipp.ptcsrSPpalestra_tutores.pdf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35131,
+    "html_length": 61264,
+    "has_text": true,
+    "has_html": true
+  }
+}

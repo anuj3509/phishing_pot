@@ -1,0 +1,69 @@
+{
+  "headers": {
+    "subject": "Sie hat ihr Foto f��r Sie freigeschaltet",
+    "from": "Nackte Frauen, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Oct 2023 06:20:07 +0200",
+    "message_id": "\r\n <961aad82-673b-4991-af3f-aa8a0087771e@MW2NAM12FT037.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      ".block-grid.eight-up",
+      ".block-grid.six-up",
+      ".block-grid.two-up",
+      ".block-grid.nine-up",
+      "img.fullwidthOnMobile",
+      "www.oncf2255.ma.",
+      ".block-grid.seven-up",
+      ".block-grid.five-up",
+      ".no-stack.three-up",
+      ".no-stack.two-up",
+      "oncf-voyages.ma",
+      "img.fullwidth,",
+      "http://easilett.com/media/050369ef6519f2e.jpg",
+      "http://easilett.com/media/107e285508a6906.png",
+      ".col.num3",
+      ".block-grid.four-up",
+      ".no-stack.four-up",
+      ".col.num12",
+      ".block-grid.three-up",
+      "http://easilett.com/un/634_md/31/17/90/23/2459859",
+      "surwww.oncf-voyages.ma",
+      ".no-stack.mixed-two-up",
+      ".col.num8",
+      ".block-grid.mixed-two-up",
+      "http://easilett.com/cl/634_md/31/17/90/23/2459859",
+      "img.fullwidth",
+      ".block-grid.twelve-up",
+      ".col.num4",
+      "http://easilett.com/media/9fd52b4bfa12860.jpg",
+      ".block-grid.eleven-up",
+      "www.ONCF-Voyages.ma",
+      "http://easilett.com/media/da349363cd7fbf5.jpg",
+      "http://easilett.com/media/26c16cd878ab8db.jpg",
+      ".block-grid.ten-up"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9418,
+    "html_length": 50246,
+    "has_text": true,
+    "has_html": true
+  }
+}

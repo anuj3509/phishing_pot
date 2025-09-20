@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Fw: I wish to small talk;-) My propitious Sir Bland)",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sun, 3 Sep 2023 00:53:58 +0000",
+    "message_id": "\r\n <IA0PR02MB97799C807F35724F88E8C824B3EAA@IA0PR02MB9779.namprd02.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB97799C807F35724F88E8C824B3EAAIA0PR02MB9779namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB97799C807F35724F88E8C824B3EAAIA0PR02MB9779namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gaia.eonet.ne.jp",
+      "gmail.com",
+      "gaia.eonet.ne.jp&gt;",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 452,
+    "html_length": 979,
+    "has_text": true,
+    "has_html": true
+  }
+}

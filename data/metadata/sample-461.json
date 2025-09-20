@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "I RECORDED YOU!",
+    "from": "John Blue <JohnBlue@6073.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 12 Mar 2023 19:41:03 +0500",
+    "message_id": "<576522.576522@43305.com>",
+    "content_type": "text/plain;"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain;"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.coinbase.com",
+      "www.paxful.com",
+      "www.coingate.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1869,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

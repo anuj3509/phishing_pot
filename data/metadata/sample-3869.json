@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir wollen unsere Kunde unterst��tzen",
+    "from": "Europa Park,(<service@otto.de>)",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Aug 2024 15:23:41 +0000",
+    "message_id": "<RSAXDCQPXXWSAQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5DZvUq32353vZIM461jfhunygnka14302NXZKAMHPJFKSRPF2GOAW2619g10",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6gYkyD32353eJGo461trdpyhmuvq14302VDDYVQKBMYLLNGT2EOQH2619V10",
+      "http://topmarktingplace.com/4AodIN32353Nigx461kwpwexjgwg14302EMFFJILEZRGOLRT2JUKI2619V10",
+      "http://topmarktingplace.com/4YDERu32353IWwj461mkrcklfdwc14302AUGVPDCCYSPACCS2RFCX2619B10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1883,
+    "html_length": 9372,
+    "has_text": true,
+    "has_html": true
+  }
+}

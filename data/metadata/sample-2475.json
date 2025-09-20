@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Upgrade Your Ledger",
+    "from": "\"Ledger News\" <rodrigo@tradestars.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 03 Jan 2024 22:36:53 -0600",
+    "message_id": "<20240104044231.18949.711243162.swift@tradestar.activehosted.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-1640669384659635e5730188.13780277_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-1640669384659635e5730188.13780277_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tradestar.lt.acemlnc.com/Prod/link-tracker?nl=276&amp;c=5371&amp;m=6471&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;l=open&amp;account=tradestar.activehosted.com&amp;a=89772694",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D",
+      "http://tradestar.activehosted.com/proc.php?nl=276&amp;c=5371&amp;m=6471&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;act=unsub",
+      "https://tradestar.lt.acemlnc.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZsZWRnZXIucmVzdG9yZS1teWFzc2V0cy5jb20=&amp;sig=2sEmqk1kN8zzw2FoUjedMc922nkynpRmQGz32vf9vpk4&amp;iat=1704343351&amp;a=%7C%7C89772694%7C%7C&amp;account=tradestar%2Eactivehosted%2Ecom&amp;email=GcEBAIK3Rr1FnwAdEYC8hFK3HjicfzwPIwExY4mX2ATIPMY%2B4oFh%3A2Ha24u7H4%2FATEnQOzshbuZ0o0I6LblvD&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;i=5371A6471A276A38670",
+      "Ledger.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1702,
+    "html_length": 20941,
+    "has_text": true,
+    "has_html": true
+  }
+}

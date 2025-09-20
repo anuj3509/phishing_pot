@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Your request!!",
+    "from": "\"Mr. George Fraga\" <info@mymail.net>",
+    "to": "Recipients <info@mymail.net>",
+    "date": "Mon, 20 Feb 2023 04:25:16 -0800",
+    "message_id": "<20230220142523.C93451FC9DB@zimbra.syokinet.co.ke>",
+    "content_type": "multipart/alternative; boundary=\"===============2084454416==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============2084454416==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.astarcoin.net/signin"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 213,
+    "html_length": 396,
+    "has_text": true,
+    "has_html": true
+  }
+}

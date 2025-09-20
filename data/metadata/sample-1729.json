@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "Hello",
+    "from": "Laurent <davidlaurent091@gmail.com>",
+    "to": "phishing@pot",
+    "date": "28 Oct 2023 13:11:30 +0200",
+    "message_id": "<20231028131130.8FC2BCD3DD29A643@gmail.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 212,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

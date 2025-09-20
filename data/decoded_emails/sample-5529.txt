@@ -1,0 +1,111 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Action Required: Ledger Security Verification
+From: Ledger <noreply-ledger@info.com>
+To: phishing@pot
+Date: Tue, 17 Jun 2025 23:03:35 +0000
+Message_Id: <20250617230335.E6A3439CABC0C8DB@info.com>
+Content_Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_3D934C2C.816A7621"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_3D934C2C.816A7621"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, verify, confirm
+Suspicious phrases: click here, verify your account
+URLs found:
+  - https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVFuL8R8QG7wAbA4JO3ET62sNQs07hpj8MMX9yl2oMnK0BebFnhkaVSbnNFa952-2FZ1SgceNzRGeZ4ESdoFMws7cZ-2FQnCXSmI40XKwYGjJUqv2F1a-2BQBJHEZfPC6eJWaPy1EHLRlse6NBDHRYu2zoDitwX03ij9MArE1AmrJTo9tDVnSWVQCF-2F5bBpHWuCNq3vY-3D
+  - https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D
+  - https://support.ledger.com
+  - https://ledger.com/unsubscribe
+  - https://my-ledger-restore.s3.eu-north-1.amazonaws.com/logo-long.png
+  - https://secure.ledger.com/unsubscribe
+
+DECODED TEXT CONTENT:
+------------------------------
+Urgent Security Notification - Ledger
+
+We regret to inform you of a recent data breach affecting our 
+services. While your Ledger wallet remains secure, there is a 
+possibility that recovery phrases ("seed phrases") linked to 
+certain accounts may have been compromised.
+
+To secure your assets and confirm the integrity of your recovery 
+phrase, please verify your phrase immediately through our secure 
+verification portal. Prompt verification helps ensure your 
+account remains protected against unauthorized access.
+
+Follow these steps to verify your account securely:
+
+Visit the following link:
+https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D
+
+Enter your recovery phrase securely on our verification platform.
+
+Follow the on-screen instructions to strengthen your account 
+security.
+
+If you need assistance, please visit our Support Center: 
+https://support.ledger.com
+
+Ledger
+27 Rue des Rosiers, 75004 Paris, France
+© 2025 Ledger
+
+Unsubscribe: https://secure.ledger.com/unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Urgent Security Notification - Ledger</title>
+  <style>
+    body {margin:0;padding:0;background-color:#f4f4f4;font-family:Arial,sans-serif;}
+    .container {max-width:600px;margin:auto;background-color:#fff;padding:20px;border-radius:8px;}
+    .btn {background-color:#f17c04;color:#fff;padding:12px 24px;border-radius:5px;text-decoration:none;display:inline-block;}
+    .footer {font-size:12px;color:#888;text-align:center;padding:20px;}
+  </style>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f4f4;font-family:Arial,sans-serif">
+  <div style="max-width:600px;margin:auto;background-color:#fff;padding:20px;border-radius:8px" class="container">
+    <div style="text-align:center;">
+      <img src="https://my-ledger-restore.s3.eu-north-1.amazonaws.com/logo-long.png" alt="Ledger Logo" width="140" height="47">
+    </div>
+
+    <h2 style="color:#333;text-align:center;">Urgent Security Notification</h2>
+    <p style="color:#555;font-size:16px;">We regret to inform you of a recent data breach affecting our services. While your Ledger wallet remains secure, there is a possibility that recovery phrases (&quot;seed phrases&quot;) linked to certain accounts may have been compromised.</p>
+
+    <p style="color:#555;font-size:16px;">To secure your assets and confirm the integrity of your recovery phrase, please verify your phrase immediately through our secure verification portal. Prompt verification helps ensure your account remains protected against unauthorized access.</p>
+
+    <p style="color:#555;font-size:16px;">To verify your account securely, follow these steps:</p>
+    <ol style="color:#555;font-size:16px;padding-left:20px;">
+      <li>Click the &quot;Verify Now&quot; button below.</li>
+      <li>Enter your recovery phrase securely on our verification platform.</li>
+      <li>Follow the on-screen instructions to strengthen your account security.</li>
+    </ol>
+
+    <div style="text-align:center;margin:25px;">
+      <a style="background-color:#f17c04;color:#fff;padding:12px 24px;border-radius:5px;text-decoration:none;display:inline-block" href="https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D" class="btn">Verify Now</a>
+    </div>
+
+    <p style="font-size:14px;color:#777;text-align:center;">If you need assistance, please contact our <a href="https://support.ledger.com" style="color:#f17c04;">Support Center</a>.</p>
+
+    <div style="font-size:12px;color:#888;text-align:center;padding:20px" class="footer">
+      Ledger &#8226; 27 Rue des Rosiers, 75004 Paris, France<br>
+      &copy; 2025 Ledger. <a href="https://ledger.com/unsubscribe" style="color:#f17c04;">Unsubscribe</a>
+    </div>
+  </div>
+<p>If you'd like to unsubscribe and stop receiving these emails <a href="https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVFuL8R8QG7wAbA4JO3ET62sNQs07hpj8MMX9yl2oMnK0BebFnhkaVSbnNFa952-2FZ1SgceNzRGeZ4ESdoFMws7cZ-2FQnCXSmI40XKwYGjJUqv2F1a-2BQBJHEZfPC6eJWaPy1EHLRlse6NBDHRYu2zoDitwX03ij9MArE1AmrJTo9tDVnSWVQCF-2F5bBpHWuCNq3vY-3D"> click here </a>.</p>
+</body>
+</html>
+

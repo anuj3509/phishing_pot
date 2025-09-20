@@ -1,0 +1,57 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ID-125030
+From: Billing-Online <admin@arbe.org.uk>
+To: dd <ricardo.telles@dhmnet.com.br>
+Date: Sun, 26 Feb 2023 01:56:32 +0000
+Message_Id: <4uja40qppe8t.izchUfhpgGGkSsKhcJ1mtg2@17ZJK.trk.elasticemail.com>
+Content_Type: multipart/mixed;
+	boundary="=-eZCfDXjW9hDKL9eZTe4kWjrq2gdIhPMxy3WKyw=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="=-eZCfDXjW9hDKL9eZTe4kWjrq2gdIhPMxy3WKyw=="
+
+ATTACHMENTS:
+--------------------
+- HlGiLfODLD.html (text/html, 56568 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJdbAGqWb_kG388k-eZrCVS7ZYfzloC6jFuHqS3l1BwvUZER3HniCjC89kBil6_u5avKDD60
+  - https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJd
+  - https://17ZJK.trk.elasticemail.com/tracking/open?msgid=izchUfhpgGGkSsKhcJ1mtg2&c=1629661665740109352
+
+DECODED TEXT CONTENT:
+------------------------------
+
+Dear Customer.
+ 
+This is a confirmation email that order has been successfully been paid for.
+Order ID: 
+Customer Mobile: NA
+Customer Email: [E-mail Address]
+Price Paid: 199.0$
+Payment Method: Credit Card
+Details.
+ _________________
+Statement Date: Saturday, February 25, 2023
+NOTE: Download your invoice to view your order.
+Invoice working only on PC/Desktop  _________________
+ We hope to see you again
+Accept Team.
+<https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJdbAGqWb_kG388k-eZrCVS7ZYfzloC6jFuHqS3l1BwvUZER3HniCjC89kBil6_u5avKDD60>
+UNSUBSCRIBE
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html> <html> <head>  <title></title> </head> <body> <p>Dear Customer.</p>  <p>&nbsp;</p>  <p>This is a confirmation email that order has been successfully been paid for.</p>  <p>Order ID:&nbsp;</p>  <p>Customer Mobile: NA</p>  <p>Customer Email:&nbsp;[E-mail Address]</p>  <p>Price Paid: 199.0$</p>  <p>Payment Method: Credit Card</p>  <p>Details.<br /> _________________</p>  <p>Statement Date: Saturday, February 25, 2023</p>  <p>NOTE: Download your invoice to view your order.</p>  <p>Invoice working only on PC/Desktop</p>  _________________<br /> We hope to see you again</p>  <p>Accept Team.</p> <img src="https://17ZJK.trk.elasticemail.com/tracking/open?msgid=izchUfhpgGGkSsKhcJ1mtg2&c=1629661665740109352" style="width:1px;height:1px" alt="" /><div style="text-align:center; background-color:#fff;padding-top:10px;padding-bottom:10px;font-size:8pt;font-family:sans-serif;"><a href="https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=BXQoSYYv7uIMVQ5M5O2M1Z4SiZ6rxqI2VjLoRwJd
+ bAGqWb_kG388k-eZrCVS7ZYfzloC6jFuHqS3l1BwvUZER3HniCjC89kBil6_u5avKDD60" style="text-align:center;text-decoration:none;color:#666;">UNSUBSCRIBE</a></div></body> </html>

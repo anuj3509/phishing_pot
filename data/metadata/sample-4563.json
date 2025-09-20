@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Pedido taxado pela fiscaliza����o alfandeg��ria. 58233626",
+    "from": "Pedido Correios <entregas@taxa10919%pedidos.net>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Dec 2024 12:59:10 +0000 (UTC)",
+    "message_id": "<20241216125910.6843642536@redhat-b-4vcpu-2gb-nyc1-17>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://buscaencomenda.consultarbuscarbr.co.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 545,
+    "html_length": 4212,
+    "has_text": true,
+    "has_html": true
+  }
+}

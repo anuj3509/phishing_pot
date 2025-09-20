@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Important: Verify Your Wallet to Avoid Suspension",
+    "from": "\"help@care-metamask.com via SurveyMonkey\" <member@surveymonkeyuser.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 10 Oct 2024 21:58:20 +0000",
+    "message_id": "<E8.14.02628.CFD48076@ge.mta2vsmtp.cc.prd.sparkpost>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://surveymonkey-assets.s3.amazonaws.com/collector/433147805/message/120584832/logo/df84ee96-2353-44ec-80c9-6f222ba3b0bc.png",
+      "https://pt.surveymonkey.com/tr/v1/te/F6nHhF7gT687DDzbqqQuzzKR8VKh0_2BB6IseY_2F9jFXQGmUY7yU5_2BTr_2F1egVlmpIab.png",
+      "https://pt.surveymonkey.com/tr/v1/te/UQ5P8ghOtkmPLuGCuO5L1YCD3jAZzNf1QkXQqb59OVzS3TZhMko2dDvBA6317o7JMvenWIJ5ZykoOoB89Ea2_2F6p_2FFjbqZ6_2Brmhh7eTmMPdWeGVnRNpSgvTTZhtphC0ObUndVGgcW2UROeF5RoH3ErOBtWAZtwLTBQUwSk14c_2BfSnAUOfNKzJZBKdUY2WdJzPPQlaH9l8hjyv1XMvoZOdrZmloCSTkaUwH2MTZVX5yVyMmk9EMcjrZs4Qi7JgcF9FSdHTrMDyn4s3vrc1_2BcneymVo2VHZxrQlhpZ5wpW53K4_3D",
+      "https://pt.surveymonkey.com/tr/v1/te/2Axy44Wq6MrttBu_2BH3WWPmLlBV9JJ1caadL3KIRX_2FBqHlNPG0m7eYpNjwjLlvSREWRLC9oW3tWu1hOuiPKYSU_2FT6f5MQT8MfGFbeuS6k9l2jkRth9ODiZshfcVIx_2F7QBXze91MCPebWxOlYJZEMa23HHA9uizwS88WmZRF1EFqI_3D",
+      "https://pt.surveymonkey.com/tr/v1/te/UQ5P8ghOtkmPLuGCuO5L1YCD3jAZzNf1QkXQqb59OVxgG4QaGjjXBeq9JAiOo8DLZYK_2Fe3JI9SNyo_2BA2mNltFxhRZhkw0n1a1cvTije5UqNbjxexyByKuAsLZtOTv6uQ1uqSNcFK_2BFH3fAeOhrfty5tXGpJNLKdsWmk6P09sQG8lXHyNvYZ2_2FQrr1_2FG_2BACKiIUi7bLsBlwNL7akOHjMw8KOc4pssoqknRS35mM1tf9n4CW6Ezpv1qfBCuQBd27V_2FwZuO4sdVQwgou2dvdJOsrm1SBVyn9a9ciuzKOebzlPX_2FTe8_2BdM9_2BdfH_2FtV5YkG_2BYzPLzwgv8sRREvdLYYyRPwKmWUNp238N5K29jZGtCRlStTEY3ECIxdy6w_2BPJZX2XB6nfMf5UcXgSeEtCZairSRmdgfE3rJJWnyMuw23Nx0wYJqVb_2FO2rFcfzkyN78QDKHEOn_2FF7uqwcJ_2B6uUCnqTojtnb0x3FMDWc_2BCm7OsDPntb1DkXFidAf6zjCOif_2BoMm4KnGZL1eiZp2o0GVeBntkC9Kb_2BCSUwfXGrAWdh8Xc3WAL2nnFunkBZBpob57ROyLF4zvGfkMAKYfVeXfcTzaMMA_3D_3D",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://pt.surveymonkey.com/mp/legal/privacy/",
+      "https://click.outbound.surveymonkey.com/q/5ef8cqGCn5RkHgNyiPNK3g~~/AAAAAQA~/RgRo6YF8PlcMc3VydmV5bW9ua2V5QgpnBfxNCGdQDUGOUhdyb2RyaWdvLWYtcEBob3RtYWlsLmNvbVgEAAAAZg~~"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 707,
+    "html_length": 8293,
+    "has_text": true,
+    "has_html": true
+  }
+}

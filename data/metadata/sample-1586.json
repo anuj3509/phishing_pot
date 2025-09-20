@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Ihre Paketbenachrichtigung",
+    "from": "Rossmann-Belohnung  , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Oct 2023 11:04:51 +0200",
+    "message_id": "<jxpILMh.58822.241.noS@psm.knowbe4.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/fNOukgs.png",
+      "http://jorfouj.xyz/UVhJTDY2VDJOQTdhS2V4R0xEaUM0R0MxZ0k2NExFLzBHRitCNENoMHpzR3dnWmFXSWV2RVZTRlF1NTI2S0dPdCtvbEJIM3ZQU1gwT3pXZnhJUTc4amc9PQ__",
+      "https://i.imgur.com/fNOukgs.png",
+      "http://jorfouj.xyz/WHBydGtKTDJEOXk4SEdXaThHL3JwZ2thVnFGTDdVUkxqZTRvS3lhMEF3QnpNZUtxOEdmTE44UkxaWldwWk8rT3FTbkM0ZUF1bytCdWlQV2kzY25CaEE9PQ__",
+      "http://jorfouj.xyz/b0diQUtPbG5PSFk4M29PclJuVytRSkJVYStHQXZZcng1UkpoT3V3Sml0MllFTjJuZGtHcTNrbmFQSWZ3QzJvRlZBdFRvVmVTNHRQbnQvenl2ZSsreWc9PQ__",
+      "http://jorfouj.xyz/OVJiNjFtT2NSaDk2WHl0dW01MEhnNWRUa0sycnFzWXo5N2VMZ0lwQTl4RVVXL3BVR096MmRiV0wxWU5VMjRDbGJFUFlncVhNMTRwanFMMjZOcmo3bXdNNjFUOE5UYlN1RHdCUkc3M21SL2c9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 632,
+    "html_length": 4467,
+    "has_text": true,
+    "has_html": true
+  }
+}

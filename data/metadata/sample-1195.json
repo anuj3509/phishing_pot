@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Re: NEED YOUR HELP",
+    "from": "Jane Konan <jkonan1157@gmail.com>",
+    "to": "phishing <phishing@pot>",
+    "date": "Tue, 27 Jun 2023 00:57:53 +0000",
+    "message_id": "<CAF-=rV3Bp5izCqRc5E7Gvoyw2jLUmM6jHwBEvSnSiZXzNMqNEg@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------db865de9ec8619e6159715269bf7b802"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------db865de9ec8619e6159715269bf7b802"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3006,
+    "html_length": 3168,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "Order Confirmation Alert",
+    "from": "\"Bill_Desk\" <monaschwartz732@gmail.com>",
+    "to": "wpx@protonmail.com",
+    "date": "Fri, 04 Aug 2023 00:41:52 -0700 (PDT)",
+    "message_id": "<64ccabc0.0c0a0220.e604.27c8@mx.google.com>",
+    "content_type": "multipart/mixed;boundary=---------------------d1fc42ade72877a985faa4077561b666"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------d1fc42ade72877a985faa4077561b666"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 739,
+    "html_length": 1764,
+    "has_text": true,
+    "has_html": true
+  }
+}

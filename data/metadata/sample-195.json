@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "A aguardar o pagamento",
+    "from": "<phish@pot>",
+    "to": "<phish@pot>",
+    "date": "2 Dec 2022 02:39:34 +0600",
+    "message_id": "<6389139A.2797.146257@emailcilada.phishing.com.br>",
+    "content_type": "multipart/alternative; boundary=\"Alt-Boundary-37549.3643169\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"Alt-Boundary-37549.3643169\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2715,
+    "html_length": 3328,
+    "has_text": true,
+    "has_html": true
+  }
+}

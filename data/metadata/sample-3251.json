@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "500��� EDEKA-Gutschein erhalten",
+    "from": "EDEKA-Gutschein, <service@stayfriends.de.>, EDEKA-Gutschein,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 07 May 2024 16:10:15 +0200",
+    "message_id": "<lytucx3.4h7q0.cr1.cr1@wdllwkepjcqbsme.dzr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8978_md/4049/26059/1281/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/8978_md/4049/26059/1281/281/76468",
+      "https://sf22.sendsfx.com/admin/temp/user/2/11-header.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/11-header.jpg",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/8978_md/4049/26059/1281/281/76468"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1978,
+    "html_length": 9285,
+    "has_text": true,
+    "has_html": true
+  }
+}

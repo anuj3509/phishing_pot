@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "100% kostenlos und ohne Bedingungen",
+    "from": "Edeka, Edeka <telekom@email-telekom.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Oct 2023 20:27:28 +0200",
+    "message_id": "<HyluVQP.63237.557+phishing@pot=110979@email-telekom.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "http://bsq2.firiri.shop/VlYxNzhiYjlnTm9UbWZSQVRWOVBINjYzcUxVV0JpaGxnR0xKMFptY2JxbWEvOWRpY0JGWWxLYm5DaS9sL2M4cUgrSlJGVWxpY1ZXYXNnaFRXRmNveGc9PQ__",
+      "imgur.com/fTU2Xw3.png",
+      "https://1.2.3",
+      "https://t.co/FeyjdbMPZ0",
+      "http://bsq2.firiri.shop/NHhTM1U5V1Y4eGVINktyWlFaZW5XOXJCbFdQVzFJeXFZOHRDTFRGd1NLcUlzZDRSMDZ3cEdCalRrUXNOQU5zSmpkYUU5YitwdXJFM2JyT0ZsM0oyeVE9PQ__",
+      "http://bsq2.firiri.shop/cFBNdjRtOS81UHNpLzlVSjdCS3lMdDVQOGNlQzJxQmxkTGFmMHhJNWFxbzdxZS9EUFhWQUlsUktVOStCOVVDYnhZUXJrNlBLRXNvWStuNTdkWG9tVGc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 730,
+    "html_length": 7770,
+    "has_text": true,
+    "has_html": true
+  }
+}

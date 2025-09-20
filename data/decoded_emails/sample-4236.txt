@@ -1,0 +1,146 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You're Eligible for stETH Rewards
+From: Lido Finance <noprely@lido.com>
+To: phishing@pot
+Date: Sun, 27 Oct 2024 10:16:27 +0000 (UTC)
+Message_Id: <20241027101627.2AD998FEBAED8C8B@lido.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3DyZ3A_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSPmxRc8XSbUPrMYvT1CjCCLvdTeDCLwv-2BaXyXkcbsDh6yg-2B92ErUmpHhCNIozsQ1mdg7MzfphOx6GZSMGQMbFetXzx2Y-2Bp6clI0ZAk4a9FKJcztJSu3g4jgW1HzlDXqTuA-3D-3D
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3Dw7Gn_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSGx4-2B-2BbH7j88O9MTHrsYmkW-2BV8diJf4wgduSqQjnV5j8y3PvrLhgVam-2Fz5PcZyxPau-2B8Vvj1tV6RgPO8eRR-2Fb0ptOgFPx1gCAfS-2B-2FlN7NDw2RDH9DZABHeaRCWzVRNIm2A-3D-3D
+  - https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVwC6WokOP6N54iEEAZGH-2Flflhi9xgwyiQLrMJoYsGMzhBM-2B2TXOQDbRvJTDr0Wj8rmcYNrHGtsXfSkpZfxn1lu6AVs3Bup4yo0KGOGeoDGNiY0TwgKaqJZdrEKImWrXCFEkCK6Ip45nTYBGqoiSymH-2FfrzFAeQiDraRTgu94rtjg-3D-3D
+  - https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035
+
+DECODED TEXT CONTENT:
+------------------------------
+Important Update: Your stETH Rewards body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; } .email-container { max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.05); } .header { text-align: center; padding: 20px 0; } .header img { width: 120px; } .content { padding: 20px; color: #444444; line-height: 1.5; } .content h1 { color: #333333; font-size: 22px; } .button-container { text-align: center; margin-top: 30px; } .button { padding: 14px 28px; background-color: #ff5a5a; color: #ffffff; text-decoration: none; border-radius: 5px; font-size: 16px; display: inline-block; } .unsubscribe { text-align: center; margin-top: 20px; font-size: 12px; color: #777777; } .unsubscribe a { color: #ff5a5a; text-decoration: none; } Your stETH Rewards are Available Dear Valued User, We are pleased to inform you that your stETH rewards are now available as of October 23, 2024 . These rewards are based on your recent staking activities. You can review the details and track your staking progress through our platform. Thank you for being an integral part of our community. Your continued support helps secure the network and contributes to the decentralized ecosystem. If you haven't started staking yet, there's never been a better time to get involved. Stake now and begin earning rewards on your assets while playing an important role in blockchain security. View My Rewards If you no longer wish to receive updates from us, you can unsubscribe here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Important Update: Your stETH Rewards</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f9f9f9;
+		}
+		.email-container {
+			max-width: 600px;
+			margin: 0 auto;
+			background-color: #ffffff;
+			padding: 20px;
+			border-radius: 8px;
+			box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+		}
+		.header {
+			text-align: center;
+			padding: 20px 0;
+		}
+		.header img {
+			width: 120px;
+		}
+		.content {
+			padding: 20px;
+			color: #444444;
+			line-height: 1.5;
+		}
+		.content h1 {
+			color: #333333;
+			font-size: 22px;
+		}
+		.button-container {
+			text-align: center;
+			margin-top: 30px;
+		}
+		.button {
+			padding: 14px 28px;
+			background-color: #ff5a5a;
+			color: #ffffff;
+			text-decoration: none;
+			border-radius: 5px;
+			font-size: 16px;
+			display: inline-block;
+		}
+		.unsubscribe {
+			text-align: center;
+			margin-top: 20px;
+			font-size: 12px;
+			color: #777777;
+		}
+		.unsubscribe a {
+			color: #ff5a5a;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body style="font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f9f9f9">
+	<center>
+		<table width="100%" style="background-color: rgb(249, 249, 249);" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td align="center">
+					<table width="600" style="border-radius: 8px; box-shadow: 0px 0px 10px rgba(0,0,0,0.05); background-color: rgb(255, 255, 255);" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td align="center" style="padding: 20px;">
+								<img width="120" height="120" alt="Lido Logo" src="https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035">
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="color: rgb(51, 51, 51); padding-bottom: 20px; font-family: Arial, sans-serif; font-size: 24px; font-weight: bold;">
+								Your stETH Rewards are Available
+							</td>
+						</tr>
+						<tr>
+							<td align="left" style="padding: 0px 20px; color: rgb(68, 68, 68); line-height: 1.6; font-family: Arial, sans-serif; font-size: 16px;">
+								<p>Dear Valued User,</p>
+								<p>We are pleased to inform you that your stETH rewards are now available as of <strong>October 23, 2024</strong>. These rewards are based on your recent staking activities. You can review the details and track your staking progress through our platform.</p>
+								<p>Thank you for being an integral part of our community. Your continued support helps secure the network and contributes to the decentralized ecosystem.</p>
+								<p>If you haven't started staking yet, there's never been a better time to get involved. Stake now and begin earning rewards on your assets while playing an important role in blockchain security.</p>
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="padding: 20px;">
+								<a style="padding: 14px 28px;
+			background-color: #ff5a5a;
+			color: #ffffff;
+			text-decoration: none;
+			border-radius: 5px;
+			font-size: 16px;
+			display: inline-block" class="button" href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3DyZ3A_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSPmxRc8XSbUPrMYvT1CjCCLvdTeDCLwv-2BaXyXkcbsDh6yg-2B92ErUmpHhCNIozsQ1mdg7MzfphOx6GZSMGQMbFetXzx2Y-2Bp6clI0ZAk4a9FKJcztJSu3g4jgW1HzlDXqTuA-3D-3D">View My Rewards</a>
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="padding: 10px;">
+								<p style="color: rgb(119, 119, 119); font-size: 12px;">If you no longer wish to receive updates from us, you can <a href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3Dw7Gn_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSGx4-2B-2BbH7j88O9MTHrsYmkW-2BV8diJf4wgduSqQjnV5j8y3PvrLhgVam-2Fz5PcZyxPau-2B8Vvj1tV6RgPO8eRR-2Fb0ptOgFPx1gCAfS-2B-2FlN7NDw2RDH9DZABHeaRCWzVRNIm2A-3D-3D">unsubscribe here</a>.</p>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	</center>
+
+
+<img src="https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVwC6WokOP6N54iEEAZGH-2Flflhi9xgwyiQLrMJoYsGMzhBM-2B2TXOQDbRvJTDr0Wj8rmcYNrHGtsXfSkpZfxn1lu6AVs3Bup4yo0KGOGeoDGNiY0TwgKaqJZdrEKImWrXCFEkCK6Ip45nTYBGqoiSymH-2FfrzFAeQiDraRTgu94rtjg-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body></html>
+

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Du wurdest ausgewählt!",
+    "from": "BAHN <noreply@kaufland-marktplatz.de >",
+    "to": "<noreply@kaufland-marktplatz.de>",
+    "date": "Sat, 25 Jan 2025 10:00:13 +0000",
+    "message_id": "<dd0372a7-fc9c-4f21-bb3f-afdca125cc49@kaufland-marktplatz.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cms.static-bahn.de/rbl/fonts/dbscreenhead-black.woff",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/YIw6OQb.jpeg",
+      "https://cms.static-bahn.de/rbl/ihr_bahn.de-team_324.png",
+      "https://cms.static-bahn.de/rbl/db_logo.png",
+      "https://cms.static-bahn.de/rbl/fonts/dbscreensans-bold.woff",
+      "noinput.mj-menu-checkbox",
+      "https://elsia.shop/TpoXdb",
+      "https://cms.static-bahn.de/rbl/fonts/dbscreensans-regular.woff"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3518,
+    "html_length": 82225,
+    "has_text": true,
+    "has_html": true
+  }
+}

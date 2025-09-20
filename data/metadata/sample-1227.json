@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Sep 2023 09:15:19 +0200",
+    "message_id": "\r\n <787ffa6a-ed30-4737-8f69-2a0938ef465b@DM6NAM04FT031.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://104.194.232.184/cl/161_md/2010/26/663/3/315429",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://104.194.232.184/media/2bc8a96495af6bc.jpg",
+      "http://104.194.232.184/oop/161_md/2010/26/663/3/315429",
+      "http://104.194.232.184/op/161_md/2010/26/663/3/315429",
+      "www.ONCF-Voyages.ma",
+      "https://gfk.com/user/verify/ncdiDfBrBWEJx1fSHFrropZRHOf29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "surwww.oncf-voyages.ma",
+      "mapp.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6082,
+    "html_length": 12769,
+    "has_text": true,
+    "has_html": true
+  }
+}

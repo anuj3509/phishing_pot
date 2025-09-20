@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Resgate seus pontos. ID: 458974947",
+    "from": "Bradesco <Pontos-Bradesco@vmi1158185.contaboserver.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Jan 2023 07:35:51 -0800 (PST)",
+    "message_id": "<20230113153551.9BE29164630@vmi1158185.contaboserver.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://uploaddeimagens.com.br/images/004/296/032/full/alterasempbradesco.jpg?1673525381",
+      "https://www.bradesco.com.br",
+      "https://imgur.com/kYFohD1.jpg",
+      "hotmail.com",
+      "https://southamerica-east1-pelagic-cat-364619.cloudfunctions.net/jheytx"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 962,
+    "html_length": 5268,
+    "has_text": true,
+    "has_html": true
+  }
+}

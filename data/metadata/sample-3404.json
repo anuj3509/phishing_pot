@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Payment Received 0.947329 BTC",
+    "from": "Support <store@goldenrainbd.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 2 Jul 2024 04:20:13 -0700",
+    "message_id": "<0f5677dc3f8c7a71566c258e388ca7e0cf442d@goldenrainbd.com>",
+    "content_type": "multipart/alternative; boundary=\"0ba1ff230bcfe17a59f3f823d65e850fc9\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0ba1ff230bcfe17a59f3f823d65e850fc9\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=berkayllc.com/temp/1.php?click=v2_0057%26googlePIDR=phishing@pot%26id_list=SwsqtCRlZLibmtbINeDvjI",
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=berkayllc.com/temp/1.php?click=v2_0057_copy%26googlePIDR=phishing@pot@hotmail.com%26id_list=bDCeDmIxDbBIDLbl",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=berkayllc.com/temp/1.php?click=v2_0057_copy%26googlePIDR=phishing@pot%26id_list=bDCeDmIxDbBIDLbl"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 796,
+    "html_length": 4008,
+    "has_text": true,
+    "has_html": true
+  }
+}

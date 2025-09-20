@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "COMPENSATION FUND OF $6,400,000.00 MILLION USD",
+    "from": "\"BANK OF AMERICA\"<ecs-49-0-248-79.compute.hwclouds-dns.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Wed, 26 Jul 2023 05:20:36 -0700",
+    "message_id": "\r\n <58bd0899-9437-400a-bbcf-8e139e833437@VI1EUR02FT026.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "contact.dhlcompany@gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 685,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

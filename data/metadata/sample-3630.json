@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Atenci��n: Tienes un paquete que no ha sido recibido",
+    "from": "\"delivery@FedEx.es\", <info@reply.es.shop-canda.com>",
+    "to": "phishing@pot phishing@pot",
+    "date": "Thu, 08 Aug 2024 09:01:31 -0400",
+    "message_id": "<iizvstf@irdpgg4mgr.xt.local>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_862698773995115052\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_862698773995115052\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.zupimages.net/up/24/32/uew2.png",
+      "https://www.zupimages.net/up/24/32/z2g4.png",
+      "https://www.google.co.uk/amp/tosuchapel.info/SWRWZXJLUFEwaHBRckpvcXhyWmFBL1RiNWNJZXJsRlFpTXlzdGRYK2JEQkZzTXFacFJvdHJjL05QR3F6U0p6T3J5SHJ6QzBBSnlWUXJyaHVwazNuYmhkamJrUVRkQWxVL1NUS1ZEbDlyWnNIVzlqTWtqZ1gwRmt4cXg3dVg4VlY_",
+      "GLZoTsS.43396.731.YkKGLZoTsS.43396.",
+      "GLZoTsS.43396.731.YkKGLZoTsS.43396.731.YkKGLZoTsS.43396.731.YkKGLZoTsS.",
+      "www.zupimages.net/up/24/32/z2g4.png",
+      "www.zupimages.net/up/24/32/uew2.png",
+      "https://www.google.co.uk/amp/tosuchapel.info/OWMwK1ZIaVZnMEx1OGtTanJobzhCM2QyNUZoVnNRM0NocXd3WWs5T1pEbWhsMUdPTXZxMnYweHpoeWNMTUYyYzFjelAyUTMxcUVwK1M4VmYyUE4zUUpxN2NXbnRDbmc5SmNmZDFSNXNlamJGcjNubWJGb05HNDFXdnhUUm9YWFE_",
+      "https://www.google.co.uk/amp/tosuchapel.info/dm1VM1Nad2FxdlNxbTRuSS9VeUZGcVJYRHQ1RzIxTEhEYWNlY1ZSSThLSUhEdGg1WlQ1eUVtdkY1NE1VWCtZeFEvdC8yV3JtWi9vLzZSdVpvYXQydzFtRU5vVENvU2hDbjVsNlJKMHo3b3c2S05hdS9wRS9maG9wWDEzMkJjbUo_",
+      "GLZoTsS.43396.731.YkKGLZoTsS.43396.731.YkKGLZoTsS.43396"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 696,
+    "html_length": 3156,
+    "has_text": true,
+    "has_html": true
+  }
+}

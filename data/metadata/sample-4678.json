@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Verify Your Wallet by January 31, 2025 – Stay Secure!",
+    "from": "Ꮮеdgеr <spport@e.channeltrends.cz>",
+    "to": "phishing@pot",
+    "date": "Wed, 29 Jan 2025 03:03:58 +0100 (CET)",
+    "message_id": "<hdh3vfe5bp5vcasaf32htydarz4jxj4jffswtbio4bgivkysz7hq@e.channeltrends.cz>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://s3-eu-west-1.amazonaws.com/files.crsend.com/415000/415254/images/_586628e6-8142-4079-bf63-12f981bc7898__Email_Hero_Gold_V2.png",
+      "https://s3-eu-west-1.amazonaws.com/files.crsend.com/415000/415254/images/_432abf81-9b0c-4ba7-bed9-d65cacb3a26e__ledger-logo-long__1_.png",
+      "https://415254.seu2.cleverreach.com/m/[MAILING_ID]/[HASH]",
+      "https://appledger.live/recover/",
+      "http://www.w3.org/1999/xhtml",
+      "https://s3-eu-west-1.amazonaws.com/files.crsend.com/415000/415254/images/image_6_.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3707,
+    "html_length": 26435,
+    "has_text": true,
+    "has_html": true
+  }
+}

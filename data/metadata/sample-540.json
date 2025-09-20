@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Fw: 💊",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Wed, 29 Mar 2023 12:55:47 +0000",
+    "message_id": "\r\n <SA0PR04MB7370AFB0577C7B7D1F09E57DB3899@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370AFB0577C7B7D1F09E57DB3899SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370AFB0577C7B7D1F09E57DB3899SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "67.zon%65%2F%3Fcp%3Ds%61%6c%65sx%2F%3FQjt%7a%6f%69%57%31B%37%61&amp;sa=D",
+      "https://www.google.com/url?q=%68%74tp%3A%2F%2Fs%69%6dply%73%61%6ce",
+      "67.zon%65%2F%3Fcp%3Ds%61%6c%65sx%2F%3FQjt%7a%6f%69%57%31B%37%61&sa=D",
+      "suddenlink.net&gt;",
+      "hotmail.com&gt;;",
+      "suddenlink.net",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1119,
+    "html_length": 1634,
+    "has_text": true,
+    "has_html": true
+  }
+}

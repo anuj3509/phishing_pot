@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Your Antivirus Subscription Has Expired This Is A Critical Issue That Requires Urgent Action Now! ",
+    "from": "Norton - Anti Virus ,_<oehso47@qteyjf.net>",
+    "to": "phishing@pot",
+    "date": "Wed, 8 Nov 2023 19:56:34 +0000",
+    "message_id": "\r\n <914710a1-54c4-4254-9c22-e1310c35db29@MW2NAM04FT021.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "expire",
+      "expires",
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://grqs6a8l7aerlvg.org.uk/ripbolbol.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://t.co/tNeajXlbGt",
+      "https://t.co/HqQbomyQ21"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1212,
+    "html_length": 11578,
+    "has_text": true,
+    "has_html": true
+  }
+}

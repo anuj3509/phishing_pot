@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Jetzt haben Sie die Chance einen ���500 Action-Guitschein zugewinnen!",
+    "from": "Action, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Sep 2023 06:41:21 +0200",
+    "message_id": "\r\n <18fb6e2c-fa38-450d-8e37-e13f578e7c18@DBAEUR03FT054.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://100.42.79.2/cl/155_md/2010/8/682/3/315429",
+      "http://100.42.79.2/media/c972a647bcaa337.png",
+      "https://trk2.de/cldwj4pd",
+      "http://100.42.79.2/oop/155_md/2010/8/682/3/315429",
+      "http://100.42.79.2/op/155_md/2010/8/682/3/315429",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://100.42.79.2/media/059a3f576165c52.png",
+      "https://magicline.com/user/verify/3R1Hvf5fMXWf2pxYoD8RgRCqqdf29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "zenjob.com",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4896,
+    "html_length": 11327,
+    "has_text": true,
+    "has_html": true
+  }
+}

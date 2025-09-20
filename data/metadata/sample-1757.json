@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "congrats, you've been selected ",
+    "from": "Costco    ,_<6zv4c@1utubnh6ng.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Oct 2023 23:17:11 +0000",
+    "message_id": "\r\n <774a58ab-e6ad-41fc-87a2-f4ee754e30bc@MW2NAM04FT054.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/RmWbT7c9gj",
+      "https://t.co/DiZg5KHwYY",
+      "http://dtherhproblem.us/su47451GTmfO22448528InoX49413rGp68007ySKC3428",
+      "i.imgur.com/33cGOb2.jpg",
+      "https://i.imgur.com/33cGOb2.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 447,
+    "html_length": 8736,
+    "has_text": true,
+    "has_html": true
+  }
+}

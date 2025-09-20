@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "[URGENT] Verify Your Trust Wallet.",
+    "from": "Trust Wallet <claudia@itpro.net.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Oct 2023 23:47:34 +0000 (UTC)",
+    "message_id": "<VV04DMpGRPOoJ3UAgRlDaw@geopod-ismtpd-16>",
+    "content_type": "multipart/alternative; boundary=ccbf39795d3a35e9dc4a3113d3a541b409469b29ac6ca8595c1c0129dd97"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=ccbf39795d3a35e9dc4a3113d3a541b409469b29ac6ca8595c1c0129dd97"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://t.rdsv1.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7s6SIf2h0P4-2FKGRVnol28cj6O9eqqTNPW6iN8bJPBTmz4cLUE2hKuC2-2FfjKpN0k5y5rz8apZlbEutgkxVw3GXOF1PbvOcBVTuci7Eb5-2B4GQ6wH7e4ZtonXjYS-2BLjDUc39tnA2x2-2Fb8gShYWECzoqv-2B9Me7DpVjjKn81LYy97Yb6srZGls3nsL-2FVo49V-2FjZSWcfemDj4eg1o9U9R7ouTWEX9ork73K2b48bQnQt05bEX-2F7WfYgZ2cprvcrA5uBDyg25-2BqlNbpIZfRIhLGHxDLlA-2F7RDsMoMPgwJ0Nt6KgxGeQaftvUTLSAgXufvFtCxGYLuOkDlgdVHJ13b-2FvY5pHlxtt0Vco9nTaALMQ6xnZclVhtyg8voLZ3CCgOFY5tRAtfy2NUoPH-2B2v7E-2FntG-2BCNHJ6cAOv1YwYM02jzbMEsFjA-2FRQGsWJzic53376-2B9SOy4JIMnCu8-2F5u-2BYK1dKWId5aTa52lKdSQoi6M4s0-2BYSr-2BUONKGqizzhc5ano5ROAEXSQjYa6MmVKPWSmHa9tsj-2Fz11Ed7EaN-2B9J3jiJxyFH5fohasHq5q45-2BU1gTQswSxndOPzJnDmoaFkkjrqMEgn97xxb0Nh36kmNEoogpwQx8swsY-3D",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      "https://t.rdsv1.net/ls/click?upn=QJHDLu6c7joILAshEaWRB90ZvG3MeB7stfqQoNfEMaoKnttIpVYuRKEo8ASi9sTkYTGqKsbrHulqBqCo6R83H-2BMPpTZ-2FPFQPHNxCWnvt06OfPqj6vFBieRdLd63IeEdddn-2BtNZ15bfQjlTLRr2eDqnuV-2BpwBQ9ZHfBRMwYi5ADY-3D5pdi_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpelYCac1FQPgsvVUSZ0w6dS2L5Idr282b2EFYRQJJsGe1vbi7ptE4Mqirpmltc1Qah43s-2BHvwh5IvmVRP-2FHUgrXo5kOW39-2BayhRLSI3vJxMWy3tZvn-2BYJZ3CLiwjSEDblXyvlyOt9-2BjQAzVEVQ-2FkiOVieZmwidMbDKsMWYmJ5uGhHB-2FXgtDgecz6UlzvkA0I7-2FD-2BgZ6StBCBMzARh-2FmeYTGt49pPRR2zjL2YDZwP3z-2FOmPw-2BcTqQ3fbQnHxooO-2FsFZPsul1fyi0vwtBEOVQJl2Hv1nQ4AtlYiJnis5gBiAZnTLy0EcwXvMPfUVjUQMh-2B8wMG3Rl1mbOuD8vAkSIBVFkRmXKNRmfyapSxfbwDDC310leXSC-2FPkhx0EjfK3EWFfndccYwu2Ul2-2FtcfQUcvS9pY-2Feg9vHB44mEU8bMs-2Fw7Nzz0S7D7gj4Pu4JEIDA3jw4-2BQdujgqqjhYpGxh6XyNuF13GSmyvVZ79kU4EoRtOBdcb6OMUbZADdiI8LYNpr50gU5qOsAaz27C-2BhwPh2dmNw-3D-3D",
+      ".slot-spacing.CENTER",
+      "https://t.rdsv1.net/ls/click?upn=QJHDLu6c7joILAshEaWRB90ZvG3MeB7stfqQoNfEMaoKnttIpVYuRKEo8ASi9sTkYTGqKsbrHulqBqCo6R83H-2BMPpTZ-2FPFQPHNxCWnvt06OfPqj6vFBieRdLd63IeEdddn-2BtNZ15bfQjlTLRr2eDqnuV-2BpwBQ9ZHfBRMwYi5ADY-3Dd1Ac_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpelYCac1FQPgsvVUSZ0w6dS2L5Idr282b2EFYRQJJsGe1vbi7ptE4Mqirpmltc1Qah43s-2BHvwh5IvmVRP-2FHUgrXo5kOW39-2BayhRLSI3vJxMWy3tZvn-2BYJZ3CLiwjSEDblXyvlyOt9-2BjQAzVEVQ-2FkiOVieZmwidMbDKsMWYmJ5uGhHB-2FXgtDgecz6UlzvkA0I7-2FD-2BgZ6StBCBMzARh-2FmeYTGt49pPRR2zjL2YDZwP3z-2FOmPw-2BcTqQ3fbQnHxooO-2FsFZPsul1fyi0vwtBEOVQJl2Hv1nQ4AtlYiJnis5gBiAZnTLy0EcwXvMPfUVjUQMh-2B8wMG3Rl1mbOuD8vAkSIBVFkRmXKNRmfyapSxfbwDDC310leXSC-2FPkhx0EjfK3EWFfHkte6cZrqCLMo97-2B-2BhHHnlG3onU06lWwIJpKDM6L-2FXt-2Fv47iMTkLsQ1vQ7nEFWXTJUUn04y6nVxzwxPno-2BMYjdPUgM8ePCz7NYCYlF0-2BJ4ydDs87pZA597K9g-2FD3X29Oqubab1cI-2FXku0PfJEV4ClQ-3D-3D",
+      "https://t.rdsv1.net/ls/click?upn=vmZSPIdvJlJEjv0U0GmezzhgBNOgVLg9sDeuRDN5ukD7iD-2BC6wItpoab0w8mupO6waJpEZth-2BtTrjDkzM7HN6lhXslcf7Nsr3HgKHQ0R6YkcaZ3kRyrEbBP3te6oriuV82YL_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpelYCac1FQPgsvVUSZ0w6dS2L5Idr282b2EFYRQJJsGe1vbi7ptE4Mqirpmltc1Qah43s-2BHvwh5IvmVRP-2FHUgrXo5kOW39-2BayhRLSI3vJxMWy3tZvn-2BYJZ3CLiwjSEDblXyvlyOt9-2BjQAzVEVQ-2FkiOVieZmwidMbDKsMWYmJ5uGhHB-2FXgtDgecz6UlzvkA0I7-2FD-2BgZ6StBCBMzARh-2FmeYTGt49pPRR2zjL2YDZwP3z-2FOmPw-2BcTqQ3fbQnHxooO-2FsFZPsul1fyi0vwtBEOVQJl2Hv1nQ4AtlYiJnis5gBiAZnTLy0EcwXvMPfUVjUQMh-2B8wMG3Rl1mbOuD8vAkSIBVFkRmXKNRmfyapSxfbwDDC310leXSC-2FPkhx0EjfK3EWFfSrEqfYV0ZBiB89I8uGETYnuz8R4wfWmDbJ8qpRQHsHKrLxtOvDYueffXyo2XFgoXHG6JZeDhn46BruNuzVWT61tNvAekpGZ0MRLMyQ-2BNHkDd05PTEXs0QocYLF4evJEH5NLD6aKVT-2BQkA8uiyfLlCA-3D-3D",
+      "img.not-resized",
+      "https://t.rdsv1.net/ls/click?upn=vmZSPIdvJlJEjv0U0GmezzhgBNOgVLg9sDeuRDN5ukCmxB0gOkbPaEUNBnkMB8m0K-2FHJcmcVhcGhylkzsTK033PE0rSCtUwRyDIlEv-2BV0gE-3DxYSV_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpelYCac1FQPgsvVUSZ0w6dS2L5Idr282b2EFYRQJJsGe1vbi7ptE4Mqirpmltc1Qah43s-2BHvwh5IvmVRP-2FHUgrXo5kOW39-2BayhRLSI3vJxMWy3tZvn-2BYJZ3CLiwjSEDblXyvlyOt9-2BjQAzVEVQ-2FkiOVieZmwidMbDKsMWYmJ5uGhHB-2FXgtDgecz6UlzvkA0I7-2FD-2BgZ6StBCBMzARh-2FmeYTGt49pPRR2zjL2YDZwP3z-2FOmPw-2BcTqQ3fbQnHxooO-2FsFZPsul1fyi0vwtBEOVQJl2Hv1nQ4AtlYiJnis5gBiAZnTLy0EcwXvMPfUVjUQMh-2B8wMG3Rl1mbOuD8vAkSIBVFkRmXKNRmfyapSxfbwDDC310leXSC-2FPkhx0EjfK3EWFfJT00gmPN-2Bdxjxbt6JsF5kZAIKzyo4cFEZGI5onSkHVpX9krvevSCJkVP-2BFZkv-2BzRih3-2FnDjNeftoNTCJTRhhrl1ILaSlqo6OcMTP-2Fdelh9XZ51NFTwK3-2FdBvIpusxy1G14P8i-2BfYE0pHKEph5ZtC-2Fg-3D-3D",
+      "http://www.w3.org/1999/xhtml",
+      ".slot.FULL",
+      "https://cdn.designer-images.net/62803dee-385e-30d1-854a-c1ebfb7dac77/44776b9148ba4946a47406a622962918/bbnnbbnn.jpg",
+      ".slot.ONE_FOURTH",
+      ".slot.TWO_THIRDS",
+      "https://moosendimages.imgix.net/62803dee-385e-30d1-854a-c1ebfb7dac77/44776b9148ba4946a47406a622962918/bbnnbbnn.jpg?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=508",
+      ".component.text-component"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1532,
+    "html_length": 27936,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "جزئیات ورود [فروشگاه اینترنتی زندگی هوشمند]",
+    "from": "WordPress <wordpress@smartlifeiran.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 8 Jun 2025 01:21:42 +0000",
+    "message_id": "<kVMoOwsDYOGhBLjCmFpRm8cy8uFMJb8VBOLKRL1lQ9g@smartlifeiran.com>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://smartlifeiran.com/wp-login.php?login=www.ykjygx.blogspot.pt%20-%201.331%20BTC%20BINANCE&key=0ZTwNV5NIMLmQvwhfeF7&action=rp",
+      "www.ykjygx.blogspot.pt",
+      "https://smartlifeiran.com/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 271,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

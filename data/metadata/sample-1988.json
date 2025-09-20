@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Notificação Urgente - OnoYfdyGCR5sv",
+    "from": "(BB) - (Liberação Pendente) - Cod. 96558950756757 <dsa858147@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 23 Nov 2023 03:25:31 +0000",
+    "message_id": "<c2771c1aa8bbab6c80a240a61b050a92@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"c35042c05605229d3c21bc3c000b1871\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"c35042c05605229d3c21bc3c000b1871\""
+  },
+  "attachments": [
+    {
+      "filename": "h5xBHKBQ5TA2433.pdf",
+      "content_type": "application/pdf",
+      "size": 81149
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 372,
+    "html_length": 694,
+    "has_text": true,
+    "has_html": true
+  }
+}

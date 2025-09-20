@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Das ist Ihre Chance!",
+    "from": "Gutschein-Team, <service@stayfriends.de.>, Gutschein-Team,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 23 Feb 2024 09:52:45 +0100",
+    "message_id": "<lNSfjjz.0.0.lNSfjjz.9.lNSfjjz@stayfriends.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://hyperdraz.info/Zi80dFlUMk5NV3BZd2tkblYzaWRNTUFCQ3R6ZDJXWXNIZHJRL2liRGh3WVVialhuazRONERmNmg5eU1hVTFCVm5tcmszSGpvb1l4c2NuMFFQSXVtNUE9PQ__",
+      "https://ppltrk4.com/?a=6349&amp;oc=20316&amp;c=54756&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "http://hyperdraz.info/MlJwNklZZk9Lc3hlNEQvQ3o1RkVNOFpOcFdhSEIxTnJwRmNmY00yWXcvWlJSbkZDamo3NnhWVlQyQkNxVjErSUpGaEtMUDNCZEpUbHBYODRHVXNPNFE9PQ__",
+      "http://hyperdraz.info/NDljajNPRWhudXBURW9DVEtyQXYzL2ZiRlptSnc5bUtTYkxrRjhJSU84S2RzbUF1V0hycVhILzZwY2tEWTNMcGduVStzb1JKVHA2a3hqL05KNHhUeWc9PQ__",
+      "www.zupimages.net/up/24/08/qc0t.jpg",
+      "https://www.zupimages.net/up/24/08/qc0t.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1701,
+    "html_length": 7639,
+    "has_text": true,
+    "has_html": true
+  }
+}

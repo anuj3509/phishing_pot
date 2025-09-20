@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BB INFORMA, Voce possui BONUS LIVELO vinculados em seu cartao Ourocard prestes a expirar. - ID KGKEJE2XJ8",
+    "from": "BANCO DO BRASIL <b099872@bbatendimento.lb>",
+    "to": "phishing@pot",
+    "date": "Mon, 15 Jul 2024 14:55:45 +0000",
+    "message_id": "<5c921192ba31578036f7424876d94d83@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_5c921192ba31578036f7424876d94d83\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_5c921192ba31578036f7424876d94d83\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://magicstareventos.com.br/manager2016/manager/js/jscalendar/langg/",
+      "http://soloricoagrociencias.com.br/images/produtos/foliar/produtospts.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2276,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pedido parado na alf��ndega 325846: ",
+    "from": "Tributo Alfandegario <avisoalfandega@inform-gov.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Nov 2024 01:06:23 -0500 (EST)",
+    "message_id": "<20241112060623.43332C95B@jhgffg.net-2>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://correio-taxa.serve.co.ua/alfandega/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 475,
+    "html_length": 1976,
+    "has_text": true,
+    "has_html": true
+  }
+}

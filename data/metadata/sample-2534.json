@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot Wir gratulieren Ihnen sehr herzlich.",
+    "from": "Nachricht von Fressnapf, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 09 Jan 2024 14:44:42 +0100",
+    "message_id": "<OlHnLxF.0.0.OlHnLxF.9.OlHnLxF@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fair-forward1.com/?a=6073&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/23/52/a0wh.png",
+      "http://theowensfamily.info/VWJwemxZaytBQUlhT0M3ZUNYcjBNR1FuaHkvMzVYcjUxcHB5MkpGN21ZVjAyN3N5eW5IblJmZWx1SGw1cnd2TVR4dG9BelJsRFZCTWZvTlQvYU1pbzQzR3dLL1J0RmtNMDN1KzBQL2JpL289",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/52/a0wh.png",
+      "http://fressnap.theowensfamily.info/M2dBOUtmcmFtYi83S2xQT3pEbTJNdnkwaksxWHpBTm5LVGxRTmFUQUNVOEpFTnBoLzgwV0l6WjJBY2JLenpWdUpFSzlSeENZYmw4VXFCdmZtZ1JDYmNFb21hQm9rL05YK0UwYW1yZnhEYWc9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1684,
+    "html_length": 8751,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Beneficio 98304939 autorizado para o resgate imediato ID:3371355221 ",
+    "from": "Banco.Bradesco <resgate17445pontos@resgate17445pontos.com>",
+    "to": "phishing@pot",
+    "date": "Mon,  1 Apr 2024 19:36:48 +0000 (UTC)",
+    "message_id": "<20240401193648.6F7B241317@bjkuyt8508.elkra.com.br>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://74.148.167.72.host.secureserver.net/www/pontoslivel79"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 497,
+    "html_length": 4354,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Decathlon una Mystery Box da SHEIN.",
+    "from": "Message de Decathlon, <info@ml.femmeactuelle-news.fr>",
+    "to": "phishing@pot",
+    "date": "Sat, 10 Aug 2024 02:31:27 +0200",
+    "message_id": "<VY7SXP5.0.0.VY7SXP5.9.VY7SXP5@ml.femmeactuelle-news.fr>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://magicmotorworks.info/un/322_md/1/1061/1201/52/937044",
+      "https://throughfares.com/?a=7395&amp;oc=21462&amp;c=57060&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/23/35/9wyj.png",
+      "http://magicmotorworks.info/oop/322_md/1/1061/1201/52/937044",
+      "https://www.zupimages.net/up/24/32/65nb.png",
+      "http://magicmotorworks.info/op/322_md/1/1061/1201/52/937044",
+      "www.zupimages.net/up/24/32/65nb.png",
+      "bgasdfasdfa.jpg",
+      "www.zupimages.net/up/23/35/9wyj.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5166,
+    "html_length": 12253,
+    "has_text": true,
+    "has_html": true
+  }
+}

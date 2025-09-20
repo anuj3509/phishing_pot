@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch, phishing@pot-f-p! Genehmigt!",
+    "from": "Danksagung, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 31 Jan 2024 22:01:06 +0100",
+    "message_id": "<mXD1Ldj.0.0.mXD1Ldj.9.mXD1Ldj@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/02/kj8u.png",
+      "www.zupimages.net/up/24/02/kj8u.png",
+      "http://theowensfamily.infoYUx5ZGdrVXF0MmcxZUVNYTF1aktpQit6THVIZEpPRDYxbnhEQlFXQmJZNlJQaGE5VjhjZEJBb1FVQnRaNUhiMm1lMTYwb3FuamdhWngvcStpdkUvWHc9PQ__",
+      "www.zupimages.net/up/24/02/w24h.png",
+      "http://theowensfamily.info/RjBuU0ZZUDNveGJjUExhb3o0L2hscHR5UjVReWFLZURPZVF3NzdBbC9WdWtKUmN0bFJQRWNpOGdmeUlKckQzUjZFQjV0SmFXRk1raHdhRHdwM0FUV0E9PQ__",
+      "https://fair-forward1.com/?a=6073&amp;oc=20107&amp;c=54320&amp;p=r&amp;m=3&amp;s1=",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/02/w24h.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5205,
+    "html_length": 12471,
+    "has_text": true,
+    "has_html": true
+  }
+}

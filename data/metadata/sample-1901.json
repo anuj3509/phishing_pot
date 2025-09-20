@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot votre bon d���achat Leclerc est pr��t !",
+    "from": "Bon d'achat, <claire@info.sarenza.com.>, Bon d'achat,\r\n\t<claire@info.sarenza.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 14 Nov 2023 00:35:57 +0100",
+    "message_id": "<apHZ1Da.0.0.apHZ1Da.9.apHZ1Da@info.sarenza.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/23/32/9c9b.png",
+      "http://stabrino.info/oop/5533_md/1995/986/1478/222/428764",
+      "www.zupimages.net/up/23/32/9c9b.png",
+      "http://stabrino.info/cl/5533_md/1995/986/1478/222/428764",
+      "http://www.w3.org/1999/xhtml",
+      "http://stabrino.info/op/5533_md/1995/986/1478/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1810,
+    "html_length": 9601,
+    "has_text": true,
+    "has_html": true
+  }
+}

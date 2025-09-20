@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "RE:{FIRSTNAME}, dein DECATHLON-Gutschein wartet auf dich, noch interessiert?",
+    "from": "sofortige Zustellung, sofortige Zustellung <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Jul 2024 12:54:11 +0000",
+    "message_id": "<268358627955601.9.LRL2037587054@hamham.uk.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://fullnf.com/6aRiFC45674MXbR372yeglwgroxi1742CFKIPJDWSMWECAG746WRQX34306d9",
+      "http://fullnf.com/4PKZXP45674guBP372xoixpcdqcb1742WQBEZHFAFSVYXPP746LIHW34306I9",
+      "http://fullnf.com/track/3YxwXI45674owjU372wqxfogmcfv1742FOZHKMZUWFSYFOO746BTKV34306A9",
+      "http://www.w3.org/1999/xhtml",
+      "http://fullnf.com/4IjNZs45674lYLb372nfxxjnbfsx1742RGWHPHGTGDZLMTZ746GFQD34306H9",
+      "https://sf22.sendsfx.com/admin/temp/user/2/dec-header-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1339,
+    "html_length": 8546,
+    "has_text": true,
+    "has_html": true
+  }
+}

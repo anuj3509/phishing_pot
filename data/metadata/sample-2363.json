@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Delivery Attempt Failed - Please Schedule a Redelivery Soon as Possible. Mail:2168308104 .",
+    "from": "\"E͏V͏R͏i͏ I͏n͏f͏o͏r͏m͏e͏d͏ D͏e͏l͏i͏v͏e͏r͏y͏ .\" <mailappss-4vaifdr73ts@articleboxes.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Thu, 21 Dec 2023 14:24:13 +0000",
+    "message_id": "<56476204.268672018916.6575758690238107.210265806@mail.default.alt.sYdn4J9WegTte3qTDsNC2gaxQuSUq173BglCo8q1DA.rg43s.id>",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixJepD6bRWwnQl15r1wKk8J6cSS9waYSjbaphgLmiuM\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixJepD6bRWwnQl15r1wKk8J6cSS9waYSjbaphgLmiuM\""
+  },
+  "attachments": [
+    {
+      "filename": "Parcel-No.6909013941",
+      "content_type": "application/pdf",
+      "size": 0
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://vikingserv.ro/wp-content/assets"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 657,
+    "html_length": 5467,
+    "has_text": true,
+    "has_html": true
+  }
+}

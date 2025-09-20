@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "phishing@pot,você removeu seu método de duas etapas?",
+    "from": "Mercado Livre <notificacoes@mercadolivre.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Sep 2023 19:55:18 +0000",
+    "message_id": "<944e205f-bd9a-2e4f-fe24-759a0a0bc976@mercadolivre.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://b-a4qxna7jwq-rj.a.runapp/k/?tr=599364da78a347faab5cdeef5460a2ce&amp;t1=ml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 327,
+    "html_length": 2988,
+    "has_text": true,
+    "has_html": true
+  }
+}

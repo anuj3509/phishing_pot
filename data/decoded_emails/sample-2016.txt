@@ -1,0 +1,48 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: URGENT: Security Compromised - IMMEDIATE ACTION REQUIRED
+From: TrustWallet APP <trustshallet-arr@email.salonized.com>
+To: phishing@pot
+Date: Sun, 26 Nov 2023 04:46:31 +0000
+Message_Id: <20231126044631.c9e625ddda9fc08e@email.salonized.com>
+Content_Type: multipart/mixed;
+ boundary="d4cef7e05fd75a9a0cf7df96234a45525f50db89dd40c59cdc7cd668783d"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+ boundary="d4cef7e05fd75a9a0cf7df96234a45525f50db89dd40c59cdc7cd668783d"
+
+ATTACHMENTS:
+--------------------
+- Appointment.ics (text/calendar, 691 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, act now
+URLs found:
+  - https://i.ibb.co/fqRq9hJ/Capture-d-e-cran-2023-11-18-a-21-30-13.png
+  - https://url3875.outgrowmail.app/ls/click?upn=zLhiOfSI-2BxKeDttrkj5NvwTmnLmF6IjKGG9t3dse31pQ0cZv8HOLxL1rYOVnz8fgLYGNlreBbRjDDxq0ZJFCB9rL0uc-2FF2-2FsuqqhX5J2GJMP8DtYZlmwibxxEgmObOlXg5cQFw-2F84BtFlN6-2FGg6jpNq7Ltf4R-2BzT631XCc8lXK9mAyasTWgWZXccVkfyBz3qcPt9qb6v3z-2FyZzrwlcMneQGqgHRU6-2Bp1ypHZ5qLV8ZK3U7IPgC4fTagL-2F-2F-2F74oYr54dP27VUn4MvyAJ2u97LBdmI8n83DwDtP1OVxlttheE7PzMR3FUDKDOMw8xiaIklhnlZU7FYtfm1jnRtXGwrJw-3D-3D4uhk_LRmZwZTIHdvEbXw2vhgkxoKvU8eNingOpFq4zLf4YxG5DD2ZxB1vQJmtsoHuZgIJaWw9j7RDuVDzO6svjUbwK0mC67X-2F0b8JHxbmCfD1DP6fOfRLs7BhfAhKxpvlTt22unuVjihhkqXN9BxuHJGwbS-2Fky3m87wzazu2iL32Qm50OFKHiNzpHjB6KImkwlfDtzNl4hAa4Oj-2BjIWSnOdGeUaX-2Fva0tBbBpNnn2SGYv2Oc-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+Please use a HTML enabled email client to view this message.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><p><img src="https://i.ibb.co/fqRq9hJ/Capture-d-e-cran-2023-11-18-a-21-30-13.png" alt="" width="169" height="51"></p>
+<p>Dear TrustWallet user,</p>
+<p>We regret to inform you that due to an unprecedented series of security breaches, the security of your TrustWallet is compromised. Your funds are currently at risk.</p>
+<p>To protect your assets, we require immediate action from your end. Under our enhanced security policy, all users must prove the legitimate origin of their funds.</p>
+<p>Unverified wallet in the next few hours will face severe measures, including the freezing of your wallet and the blocking of all your assets.</p>
+<p>Do not take this notification lightly. The future of your funds is in your hands. Act now to avoid serious consequences.</p>
+<p><a href="https://url3875.outgrowmail.app/ls/click?upn=zLhiOfSI-2BxKeDttrkj5NvwTmnLmF6IjKGG9t3dse31pQ0cZv8HOLxL1rYOVnz8fgLYGNlreBbRjDDxq0ZJFCB9rL0uc-2FF2-2FsuqqhX5J2GJMP8DtYZlmwibxxEgmObOlXg5cQFw-2F84BtFlN6-2FGg6jpNq7Ltf4R-2BzT631XCc8lXK9mAyasTWgWZXccVkfyBz3qcPt9qb6v3z-2FyZzrwlcMneQGqgHRU6-2Bp1ypHZ5qLV8ZK3U7IPgC4fTagL-2F-2F-2F74oYr54dP27VUn4MvyAJ2u97LBdmI8n83DwDtP1OVxlttheE7PzMR3FUDKDOMw8xiaIklhnlZU7FYtfm1jnRtXGwrJw-3D-3D4uhk_LRmZwZTIHdvEbXw2vhgkxoKvU8eNingOpFq4zLf4YxG5DD2ZxB1vQJmtsoHuZgIJaWw9j7RDuVDzO6svjUbwK0mC67X-2F0b8JHxbmCfD1DP6fOfRLs7BhfAhKxpvlTt22unuVjihhkqXN9BxuHJGwbS-2Fky3m87wzazu2iL32Qm50OFKHiNzpHjB6KImkwlfDtzNl4hAa4Oj-2BjIWSnOdGeUaX-2Fva0tBbBpNnn2SGYv2Oc-3D" target="_blank" rel="nofollow noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Verify and secure</a></p>
+<p>Regards,</p>
+<p>The TrustWallet Team</p><br>
+
+

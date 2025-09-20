@@ -1,0 +1,84 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ������Uw pakketmelding����
+From: "Volgen"<>63493<info235495683446@msmtrakk21a.com>
+To: phishing@pot
+Date: Sun, 10 Sep 2023 10:02:37 +0200
+Message_Id: <25762068977327151420522590337797616056831488275313@Fxteu1IcgbFEs4P82QKam>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://leaadpersons.com/biz/NL%20-%20IPS%20Funnel%20new%20-%20CPA.png
+  - https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap
+  - https://zyp.to/62ook
+  - https://is.gd/bFlg4J
+  - leaadpersons.com/biz/NL%20-%20IPS%20Funnel%20new%20-%20CPA.png
+
+DECODED TEXT CONTENT:
+------------------------------
+(1) Kennisgeving Bekijk waar uw pakket zich bevindt Wilt u zich afmelden, klik dan op hier.
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>(1) Kennisgeving</title>
+    
+
+    <base href="/">
+    <link href="https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap" rel="stylesheet">
+</head>
+
+<body bgcolor="#EEEEEE" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+    <table width="100%" border="0" cellpadding="0" style="width: 100%;">
+        <tr>
+            <td width="100%" style="width: 100%;" align="center">
+
+                <table bgcolor="white" width="700" border="0">
+                    <tr>
+                        <td>
+
+                            <!-- start -->
+                            <table width="700" border="0" cellpadding="0" style="padding-bottom: 20px;">
+                                <tr><center><a href="https://is.gd/bFlg4J"><h2>Bekijk waar uw pakket zich bevindt</h2></a></center>
+                                    <a href="https://is.gd/bFlg4J" style="border: none; outline: none; text-decoration: none; display: inline-block; color: black; padding: 0px; margin: 0;">
+                                        <img src="https://leaadpersons.com/biz/NL%20-%20IPS%20Funnel%20new%20-%20CPA.png" width="700" border="0" alt="U heeft een uitstekende levering. Gebruik uw unieke tracking code om uw artikel te volgen en te ontvangen."><img src="//leaadpersons.com/biz/NL%20-%20IPS%20Funnel%20new%20-%20CPA.png" width="700" border="0">
+
+                            <table width="700" border="0" cellpadding="0">
+                                <tr align="center">
+                                    <td>
+                                        <hr>
+                                        <p style="padding: 0px 20px; font-size: 10px;font-family: monospace; width: 500px; text-align: center;">
+                                            Wilt u zich afmelden, klik dan op
+                                            <a href="https://zyp.to/62ook" style="border: none; outline: none; text-decoration: none; display: inline-block; color: red; padding: 0px; margin: 0;">hier.</a>
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+
+                            <!-- end -->
+
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+
+
+</body>
+
+</html>
+

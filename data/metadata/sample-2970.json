@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Action required",
+    "from": "LEDGER <contact@rrmotopecas.net.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Feb 2024 11:08:21 +0100",
+    "message_id": "<08b8f15df3f0dad566cc852ecb0f25297a822b@rrmotopecas.net.br>",
+    "content_type": "multipart/alternative; boundary=\"0ba1ef1e2de9c75c7fd59c26d2163bc1c3fb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0ba1ef1e2de9c75c7fd59c26d2163bc1c3fb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://youth3000.com/",
+      "https://img.news.ledger.com/EloquaImages/clients/LEDGER/%7Bed775cbf-84c2-4be5-96a9-abf107e15148%7D_Vector_%2857%29.png",
+      "https://shop.ledger.com/pages/thank-you-newsletter"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 718,
+    "html_length": 19064,
+    "has_text": true,
+    "has_html": true
+  }
+}

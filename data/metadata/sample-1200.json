@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "A nota fiscal do seu pedido foi emitida! ",
+    "from": "Prefeitura Municipal <no-reply@suanotadisponivel.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 29 Aug 2023 20:05:52 +0000 (UTC)",
+    "message_id": "<20230829200552.2C101207AB@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.nfe.fazenda.gov.br",
+      "https://i.imgur.com/ouD8REx.png",
+      "span.link{text-decoration:",
+      "https://i.imgur.com/H78GkpR.png",
+      "hotmail.com",
+      "https://i.imgur.com/pKdTVca.png",
+      "http://188.106.205.92.host.secureserver.net/NotaFiscal",
+      "https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1850,
+    "html_length": 4025,
+    "has_text": true,
+    "has_html": true
+  }
+}

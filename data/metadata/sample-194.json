@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "❤️ Meld je even aan dan praten we verder",
+    "from": "Janey Schreijer <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Dec 2022 07:40:50 +0000",
+    "message_id": "\r\n <41887b32-8d2c-47c4-97a0-abd4fa24b061@VI1EUR06FT059.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://secure-trck.com/?a=72&amp;c=100&amp;s1=&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 784,
+    "html_length": 1624,
+    "has_text": true,
+    "has_html": true
+  }
+}

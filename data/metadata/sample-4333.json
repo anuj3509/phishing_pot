@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie eine Geschenkkarte im Wert von 250 ��� f��r Ihren n��chsten Einkaufsbummel!",
+    "from": "Ihr lokaler Discounter,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Thu, 07 Nov 2024 12:49:44 +0000",
+    "message_id": "<AYSVIMGZUDARWQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/6YbXvC38330uGwb1163yrbddrebdb14302YGZZPVVLODOWIFE2VDNI2630j10",
+      "leaadpersons.com/biz/e2b2be6e-defd-5407-fd7a-cac1bfbdd16f.jpg",
+      "https://leaadpersons.com/biz/e2b2be6e-defd-5407-fd7a-cac1bfbdd16f.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4YJVgB38330fare1163gmevxikean14302NYUOGMTQMMUPSMU2TKPW2630o10",
+      "http://topmarktingplace.com/4YYLMS38330RTbO1163lnssunfnmv14302RXYYAEQOGCYQCBC2LNWH2630W10",
+      "http://topmarktingplace.com/4jCITP38330rIvz1163hcxpwwcnnp14302TZVCHATGGMFSLPW2KZRO2630V10",
+      "http://topmarktingplace.com/5zFefH38330Cslw1163xrhigxgiwo14302JTAZHRPTNNZTXEZ2EWZE2630g10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1906,
+    "html_length": 10337,
+    "has_text": true,
+    "has_html": true
+  }
+}

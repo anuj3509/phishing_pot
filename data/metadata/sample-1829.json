@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Please verify",
+    "from": "Powersaver - Elon  ,_<dqyns@23cv2f8zml.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 7 Nov 2023 22:58:08 +0000",
+    "message_id": "\r\n <8ea89bd0-8fe2-40c4-9d3f-52593515edf8@BN8NAM04FT009.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/uiAuZWVEA8",
+      "https://i.imgur.com/zbaCwuW.jpg",
+      "i.imgur.com/zbaCwuW.jpg",
+      "https://t.co/vZYF8N1wSc",
+      "http://dtherhproblem.us/su48414dGxfJ27537896NAlr1371191bLc67986gXwA3390",
+      "http://vertuoldmuneted.com/track/o48414BAIDK27537896xOXX1371191DGO67986YrYP3390"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 351,
+    "html_length": 8793,
+    "has_text": true,
+    "has_html": true
+  }
+}

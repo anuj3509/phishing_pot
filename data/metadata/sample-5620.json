@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[TRINIPOSSEUK] Your username and password info",
+    "from": "WordPress <wordpress@triniposseuk.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 8 Jun 2025 13:28:40 +0000",
+    "message_id": "<f809c0c1b9f978b7b81ff86933ebb7f6@www.triniposseuk.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.triniposseuk.com/wp-login.php?action=rp&key=JkWTqLMqpBMo0FzS4XDA&login=www.igyjkf.blogspot.ie%20-%201.310%20BTC%20BINANCE",
+      "www.igyjkf.blogspot.ie",
+      "http://www.triniposseuk.com/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 284,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

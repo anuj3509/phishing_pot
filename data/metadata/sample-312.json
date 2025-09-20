@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Re: Your wallet will be suspended and your assets will be frozen !",
+    "from": "Trust Wallet <notifications@sg.graphy.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 11 Feb 2023 15:07:00 +0000",
+    "message_id": "<20230211150700.643865df42171439@mg.sg.graphy.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://trustwallet.com/assets/images/media/assets/horizontal_blue.png",
+      "http://email.mg.sg.graphy.com/u/eJwcyT2uwyAMAODThC3INrYhA8M7CnmEH6mIiGbp7St1_nLk5JyQaRGPMzMwEgSSjF4LygleA6jodSXTIwE5IEQU8ABW2QWVXJjQI7tjYxjVvqutK93tY__nMCuumVevcy_7vTG0-YzUXz974kZ_3wAAAP__ggEj_g",
+      "https://seeonlygame.blogspot.com/409",
+      "http://email.mg.sg.graphy.com/o/eJwcyVEOgyAMANDTyJ-kLQX0g7MsFRBNZmqQZNntl-z7lcTinCdTE4YYkBYgMEcqNW8SYvRrFmJxlbBK9TVv60I-R3MmAnJAiOghAtjAbgm-7EwYkd06MVzNPs22LvfxtVkv01PX0s-m8z7fE8Oh45Lz_beRdu1Nx-uW5_loL78AAAD__7piLho"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 62218,
+    "html_length": 160299,
+    "has_text": true,
+    "has_html": true
+  }
+}

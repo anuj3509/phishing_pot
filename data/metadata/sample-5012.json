@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Have you been informed about this?",
+    "from": "\"THE DANIELS\" <dkouamemodeste@gmail.com>",
+    "to": "dkouamemodeste@gmail.com",
+    "date": "Mon, 10 Mar 2025 15:01:44 -0700 (PDT)",
+    "message_id": "<67cf6148.170a0220.fb9f0.f978@mx.google.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"--boundary_434_0c9cb0b6-e350-4591-9c0b-652a5c34cdfb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"--boundary_434_0c9cb0b6-e350-4591-9c0b-652a5c34cdfb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Daniels.J.R.E.Daniels@outlook.com",
+      "J.R.E.Daniels@outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 650,
+    "html_length": 462,
+    "has_text": true,
+    "has_html": true
+  }
+}

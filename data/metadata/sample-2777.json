@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "C'est l'occasion de recevoir une r��compense",
+    "from": "Nespresso <ne-pas-repondre@chronopost.fr.>,\r\n\t<ne-pas-repondre@chronopost.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Feb 2024 00:02:20 +0100",
+    "message_id": "<ln1yuow.ivwfj.xm5.xm5@fqcpwmiglfzbiis.nms>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.imgur.com/udbTACc.png",
+      "i.imgur.com/I5bijBO.png",
+      "http://jfhdh.chickenkiller.com/STFkTDJObzRYeU1rS01FS0xxTlB6cEgyQ25iWUt0cnpqRVo1NDRKV0M4a3JGaEppSzc5RzNKeVlVQ2I5VDJLbGVQcEo2eWFtMHBZL2xpQW1TeG15dTlaUkNnQ05CemlEUlM4Q0F5KzIreDRUY0lsVXN5b0tWUUhmcHdScGhVUzk_",
+      "http://jfhdh.chickenkiller.com/TzJDb2RHL3lORkFCWWZ1anhqQXlqOEF0dXlWUVFTeXI5cjZSN0dIZGtoNU91NFFMWUpoRTViTVlWNllTeGNOSTVweUtObVplMThmMUkrcTdOb1pCQWtBd1ZjbktodmlJWGJ2UlhiVFhiNFBJKzJmUFNiTW81aGVJRmN2NE5YeXQ_",
+      "https://i.imgur.com/I5bijBO.png",
+      "http://jfhdh.chickenkiller.com/Zmpaai9IM1g2RmNnOE9uMFAvRWxHZ2E4elNzbkZ2eG1uR0VTNS9NeEs4RjhzVkxHM3AwUUpjajVQUFJ1Qi9CaHk4dlVQdXJaNlUvYWVWRHZ6TmZTam03M3Z5Vy9GMnpXTkdsZk5BQ0pGMmRhbXdBV3hsRUFicjAwSUxHN3YxcHQ_",
+      "bgasdfasdfa.jpg",
+      "i.imgur.com/udbTACc.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5150,
+    "html_length": 12537,
+    "has_text": true,
+    "has_html": true
+  }
+}

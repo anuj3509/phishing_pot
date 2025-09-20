@@ -1,0 +1,168 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Wir ben��tigen Ihre Best��tigung, um Ihre Bestellung zu verschicken!
+From: UPS, UPS, <newsletter@mail.toom.de>
+To: phishing@pot
+Date: Wed, 03 Jul 2024 13:22:57 +0000
+Message_Id: <DCPQCIIYKKWMVQ8AU9KYO1L@mail.toom.de>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://storage.googleapis.com/koin/topmarktingplace.html#6suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11
+  - https://storage.googleapis.com/koin/topmarktingplace.html#4suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11
+  - https://storage.googleapis.com/koin/topmarktingplace.html#5suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11
+
+DECODED TEXT CONTENT:
+------------------------------
+.btn:hover{ background-color: #B8C1C4; } .btn2:hover{ transition: 0.8s; background-color: #FF4E0E; width:500px; padding:5px; padding-left:15px; } U PS ® Mislukte levering voor Neketabrian! LEVERING VAN HET OPGESCHORTE PAKKET Hoe wilt u uw pakket ontvangen? Ik wil dat het bij mij afgeleverd wordt Ik kom het zelf ophalen Waar wilt u het pakket laten bezorgen? Thuis Op het werk Pakketinformatie: 🟠&nbsp; Toestand Gestopt bij distributiecentrum 🟠&nbsp; Verzending via Internationale bijgehouden koerier 🟠&nbsp; Datum: 07-03-2024 Voer bezorginformatie in U kunt zich op elk gewenst moment afmelden door op te klikken hier. click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style>
+  .btn:hover{
+    background-color: #B8C1C4;
+   
+  }
+
+
+
+ .btn2:hover{
+  transition: 0.8s;
+  background-color: #FF4E0E;
+  width:500px;
+padding:5px;
+padding-left:15px;
+
+   
+  }   
+
+
+
+ </style>
+
+
+
+
+ <body style="background-color:#fff;">
+<br><br><br>
+
+<a href="https://storage.googleapis.com/koin/topmarktingplace.html#4suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11" style=" fcolor: #181717; text-decoration:none;"> 
+
+<center><div style="width:710px;;font-family:Calibri,Helvetica,Arial,sans-serif">
+<table width="700" cellspacing="0" cellpadding="0" border="0" align="center"><tr><td bgcolor="#4d148c"><table width="700" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#4d148c"><span style="padding-left:40px;text-align: left;font-size: 80px;font-family: sans-serif;font-weight: 900;text-decoration: none;">
+<span style=" color: #fff; letter-spacing: -14px;text-align: left;">U<p style="color: #ff6600 ; display : inline;letter-spacing: -6px;">PS<span style="font-size:20px"> ®</span></p></span><span></span>
+</span></td></tr></table></td></tr><tr><td valign="top" height="21" bgcolor="#4d148c">
+    </td></tr><tr><td valign="top" height="10px" bgcolor="#4d148c"><font size="4" face="Calibri, Helvetica, Arial, sans-serif;" color="#ff6600 "><center><strong><em><span style="font-size:36px">
+    <b style="font-size:25px;color: white">Mislukte levering voor Neketabrian!</b><br>
+<span><u>LEVERING VAN HET OPGESCHORTE PAKKET</u></span></em></strong></center></strong></span>
+
+
+</td></tr><tr><td valign="top" height="164" bgcolor="#4d148c"><table width="700" style="padding-left:50px" cellspacing="0" cellpadding="0" border="0"><tr><td width="652" valign="top" bgcolor="#4d148c">
+
+
+
+<h2 style="color:#4AC5FF" class="btn2">Hoe wilt u uw pakket ontvangen?</h2>
+
+ <input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">    <span style="color:#fff;font-size:20px">Ik wil dat het bij mij afgeleverd wordt</span> <br>
+ <input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">  <span style="color:#fff;font-size:20px">Ik kom het zelf ophalen</span> 
+
+
+<h2 style="color:#4AC5FF" class="btn2">Waar wilt u het pakket laten bezorgen?</h2>
+
+<input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">   <span style="color:#fff;font-size:20px">Thuis</span> <br>
+ <input type="checkbox" id="subscribeNews" name="subscribe" value="newsletter">  <span style="color:#fff;font-size:20px">Op het werk</span> 
+
+
+<br>
+<p class="body-text" style="font-family: 'calibri', Helvetica, Arial, sans-serif;font-size: 23px;font-weight: 400;text-align: center;color: #fff;line-height: 130%;margin: 0px 0px 15px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+<span style="font-family:impact;color:#000;text-align: left;background:#fff;padding-left:50px;padding-right:50px">Pakketinformatie: </span><br></p>
+
+
+<table style="border: 0px solid black;border-collapse: collapse;width: 600px;color: black;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody><tr style="background-color:#E3EAEF">
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 150px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;">🟠&nbsp; Toestand</h1></td>
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 340px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;">Gestopt bij distributiecentrum</h1></td>
+    </tr>
+    <tr style="background-color:#F0F0F0">
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 150px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;">🟠&nbsp; Verzending via </h1></td>
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 340px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;">Internationale bijgehouden koerier</h1></td>
+    </tr>
+    <tr style="background-color:#E3EAEF">
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 150px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;">🟠&nbsp; Datum:</h1></td>
+      <td align="center" valign="top" style="margin: auto;border: 0px solid black;border-collapse: collapse;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+        <h1 style="font-family: Segoe UI;font-weight: 400;text-align: left;font-size: 20px;padding: 4px;width: 340px;margin: auto;color: black;display: block;font-style: normal;line-height: 150%;letter-spacing: normal;"> 07-03-2024 </h1></td>
+    </tr>
+
+  </tbody>
+</table>
+
+
+
+
+
+
+
+
+</td></tr></table>
+
+
+
+
+
+</td></tr><tr><td valign="top"><table width="700" cellspacing="0" cellpadding="18" border="0"><tr><td bgcolor="#4d148c"><hr><br>
+            <center><table width="80%" cellpadding="16" border="0"><tr><td style="border-radius:6px" class="btn" bgcolor="#ff6600 " align="center"><strong><font face="Verdana, Geneva, sans-serif" size="5" color="#fff">
+              <u>Voer bezorginformatie in</u> </font></strong></td></tr></table></center><br>
+
+</td></tr></table></td></tr></table>
+
+
+</div>
+
+</center>
+
+<br><br><br>
+
+</a>
+<center> 
+
+<p style="font-size:10px;color: darkgrey;max-width:350px">U kunt zich op elk gewenst moment afmelden door op te klikken
+ <a href="https://storage.googleapis.com/koin/topmarktingplace.html#5suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11" style="text-decoration:none;">
+  hier. </a><br>
+</p>
+<conter>
+
+
+
+
+</a></conter>
+<br><br> 
+<br>
+
+<br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click 
+<a href="https://storage.googleapis.com/koin/topmarktingplace.html#6suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11">here</a> 
+to remove yourself from our emails list</span><br><br>
+
+
+
+

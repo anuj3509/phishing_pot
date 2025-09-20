@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "RE: 2nd attempt for phishing@pot",
+    "from": "\"CVS Team\"<info@zhishangmingzhan.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 10 Mar 2025 07:01:56 +0000",
+    "message_id": "<qacphtq.xsoiag.qarn@rudmofjq.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://pbs.twimg.com/media/GkUyLD4bgAAbWuS?format=jpg&amp;name=large",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+      "https://pbs.twimg.com/media/GkUyR8ma0AAVoIk?format=png&amp;name=360x360",
+      "http://metaverseshades.com/gckhi.php?32=ca8068f64e16d5205_4259.4be8d67.74129e1635aaab153f_f25de8.6Z0vYd7x5Bck0750r7v5M7M0reep0MYdY057xYMr",
+      "http://metaverseshades.com/jycwz.php?32=5ba62595ff8c8768c_54ec.ec927cc.e014f5bdb5a74b6d74_714185.n40vYd7x5Bck0750r7v5M7M0reep0MYdY057xYMr",
+      "homet-online.de",
+      "pbs.twimg.com/media/GkUyR8ma0AAVoIk?format=png&amp;name=360x360",
+      "pbs.twimg.com/media/GkUyLD4bgAAbWuS?format=jpg&amp;name=large"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1856,
+    "html_length": 3755,
+    "has_text": true,
+    "has_html": true
+  }
+}

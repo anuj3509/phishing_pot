@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Atenção: Suspensão de CNH em Processamento - Ação Urgente Requerida!",
+    "from": "Detran Notifica <comunicado792193@detran>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 15 Jan 2025 20:00:03 +0000",
+    "message_id": "<9f1c07d31a0d990b416fc4fc95d107d4@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9f1c07d31a0d990b416fc4fc95d107d4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9f1c07d31a0d990b416fc4fc95d107d4\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://us-central1-semiotic-abbey-447721-f5.cloudfunctions.net/function-1",
+      "hotmail.com,",
+      "https://detran.gov.br/",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3915,
+    "has_text": true,
+    "has_html": true
+  }
+}

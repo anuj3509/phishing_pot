@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Suchst du nach Gesellschaft?",
+    "from": "Ihr Date, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Oct 2023 16:13:04 +0200",
+    "message_id": "\r\n <528d0115-4db6-4f54-bfa2-6044d6deca66@DB8EUR06FT026.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://100.42.79.2/op/1138_md/2010/4/152/23/2459859",
+      "http://100.42.79.2/oop/1138_md/2010/4/152/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://100.42.79.2/media/49a1dada2159475.jpg",
+      "http://100.42.79.2/cl/1138_md/2010/4/152/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5348,
+    "html_length": 8517,
+    "has_text": true,
+    "has_html": true
+  }
+}

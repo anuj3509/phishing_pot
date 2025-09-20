@@ -1,0 +1,40 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Serviço de Atendimento ao Consumidor - Informativo Online: xxlAdImgD1bPvrF)
+From: "Banco do Brasil (no-reply@bb.com.br) | SVR - Consulta de valores a
+ receber | Atendimento: 691076456020794" <qazwes332@gmail.com>
+To: phishing@pot
+Date: Sun, 05 Nov 2023 13:28:20 -0800 (PST)
+Message_Id: <654808f4.d40a0220.45e8d.ace5@mx.google.com>
+Content_Type: multipart/mixed;
+ boundary=--boundary_989_1cc92e46-1893-4c86-b413-6dac6a61c1c7
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+ boundary=--boundary_989_1cc92e46-1893-4c86-b413-6dac6a61c1c7
+
+ATTACHMENTS:
+--------------------
+- Informativo-Online_nMFMPPVC4Ye7Eek4CDBCy1uJFqpHeoaCgwN.pdf (application/octet-stream, 169479 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+
+DECODED TEXT CONTENT:
+------------------------------
+Portal do Cliente &nbsp; Consta em seu CPF valores a receber em sua conta. Acesse o informativo anexado acima para saber mais. Senha de acesso: 1010 , Prazo de 48 horas para solicitar o valor. Chave de Autoriza&ccedil;&atilde;o: 877146438991836xxlAdImgD1bPvrF 05/11/2023-18:28
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"></head>
+<body>
+<hr><p style="text-align: center;"><strong>Portal do Cliente</strong></p><p style="text-align: center;">&nbsp;</p><p style="text-align: center;">Consta em seu <strong>CPF</strong> valores a receber em sua conta.</p><p style="text-align: center;">Acesse o informativo anexado acima para saber mais.</p><p style="text-align: center;">Senha de acesso: <strong>1010</strong>, Prazo de <strong>48 horas </strong>para solicitar o valor.</p><p style="text-align: center;"><strong>Chave de Autoriza&ccedil;&atilde;o: 877146438991836xxlAdImgD1bPvrF</strong></p><p style="text-align: center;"><br>05/11/2023-18:28</p><hr>
+</body>
+</html>

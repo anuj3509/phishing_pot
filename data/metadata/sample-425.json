@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Reply For Your Payment",
+    "from": "\"Payment\"<starlink@chetta.it>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 2 Mar 2023 15:49:56 +0900",
+    "message_id": "\r\n <2e580c6c-e51b-4838-823a-d524cababfde@DM6NAM11FT107.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html;\r\n\tcharset=\"_iso-2022-jp$ESC\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html;\r\n\tcharset=\"_iso-2022-jp$ESC\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1023,
+    "html_length": 3474,
+    "has_text": true,
+    "has_html": true
+  }
+}

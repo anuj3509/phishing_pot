@@ -1,0 +1,188 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your balance: 1.3426 BTC
+From: Support <no-replay@kkmib.com>
+To: <phishing@pot>
+Date: Tue, 21 Jan 2025 08:57:44 -0800
+Message_Id: <2c4f18e81cd371e8cb65bc17e3f0aaa0937a6a03@kkmib.com>
+Content_Type: multipart/alternative;
+	boundary="8a450cacd086aca310baf38f0bcef47750c0"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="8a450cacd086aca310baf38f0bcef47750c0"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=rodrigo-f-p@hotmail.com%26id_list=SJjjSyypCthbbVeVxjghgJ
+  - https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050%26googlePIDR=phishing@pot%26id_list=BOEWcWsCuOqsgLervhWBTSuRgUjU
+  - https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=phishing@pot%26id_list=SJjjSyypCthbbVeVxjghgJ
+
+DECODED TEXT CONTENT:
+------------------------------
+CLOUD MINING
+
+Welcome back, user-id81214293!
+
+It's been 364 days since you registered on our platform for automatic cloud Bitcoin mining. Your devices were linked to our platform by Email address.
+
+You were inactive, but the cryptocurrency was still collected automatically from your device.
+
+During your absence, you made 1.3426 BTC ($890707.77) USD through cloud mining.
+
+Your balance: 1.3426 BTC ($890707.77)
+
+Continue 
+
+If the link does not work, please copy it manually and paste it into your browser's address bar from the textarea below:
+
+https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=rodrigo-f-p@hotmail.com%26id_list=SJjjSyypCthbbVeVxjghgJ 
+
+© 2024 Mining Corp. All rights reserved. Cryptocurrency is not regulated in more than 100 countries. Be sure that it is legal in your country before using cryptocurrencies. Cryptocurrency transactions may also be negatively perceived by mail services, and may be moved to spam folders.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+        .container {
+            background-color: #fff;
+            border: 1px solid #e0e0e0;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 400px;
+            margin: 20px auto;
+        }
+        .header {
+            background-color: #e0f7fa;
+            padding: 10px;
+            border-radius: 10px 10px 0 0;
+            margin: -20px -20px 20px -20px;
+            text-align: center;
+            position: relative;
+        }
+        .title {
+            font-size: 24px;
+            font-weight: bold;
+            color: black;
+            margin: 0;
+        }
+        .separator {
+            width: 100%;
+            height: 1px;
+            background-color: #4caf50;
+            margin-top: 10px;
+        }
+        .welcome {
+            font-size: 18px;
+            color: #4caf50;
+            margin: 20px 20px 0 20px;
+            padding: 10px;
+            background-color: #e0f7fa;
+            border-radius: 10px;
+            text-align: left;
+            box-sizing: border-box;
+        }
+        .container p {
+            font-size: 16px;
+            color: #333;
+            line-height: 1.5;
+            margin: 10px 0;
+        }
+        .balance {
+            background-color: #e8f5e9;
+            border: 1px solid #c8e6c9;
+            border-radius: 5px;
+            padding: 15px;
+            font-size: 20px;
+            color: #333;
+            margin: 20px 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .balance strong {
+            color: #4caf50;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #4caf50;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        .link-section {
+            margin-top: 20px;
+            text-align: left;
+            border-top: 1px solid #ddd;
+            padding-top: 20px;
+        }
+        .link-section textarea {
+            width: 100%;
+            height: 60px;
+            margin-top: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        .footer {
+            font-size: 12px;
+            color: #999;
+            text-align: left;
+            margin-top: 20px;
+            border-top: 1px solid #ddd;
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="title">CLOUD MINING</div>
+            <div class="separator"></div>
+        </div>
+        <div class="welcome">
+            <p>Welcome back, user-id81214293!</p>
+        </div>
+        <p>It's been <strong>364 days</strong> since you registered on our platform for automatic cloud Bitcoin mining. Your devices were linked to our platform by <strong>Email address.</strong></p>
+        <p>You were inactive, but the cryptocurrency was still collected automatically from your device.</p>
+        <p>During your absence, you made <strong>1.3426 BTC</strong> (<strong>$890707.77</strong>) USD through cloud mining.</p>
+        <div class="balance">
+            <p>Your balance: <strong>1.3426 BTC</strong> ($890707.77)</p>
+        </div>
+        <a href="https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050%26googlePIDR=phishing@pot%26id_list=BOEWcWsCuOqsgLervhWBTSuRgUjU" class="btn" style="background-color: #4caf50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block; margin-top: 10px;">Continue</a>
+        <div class="link-section">
+            <p>If the link does not work, please copy it manually and paste it into your browser's address bar from the textarea below:</p>
+            <textarea readonly="">https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=phishing@pot%26id_list=SJjjSyypCthbbVeVxjghgJ</textarea>
+        </div>
+        <div class="footer">
+            © 2024 Mining Corp. All rights reserved. Cryptocurrency is not regulated in more than 100 countries. Be sure that it is legal in your country before using cryptocurrencies. Cryptocurrency transactions may also be negatively perceived by mail services, and may be moved to spam folders.
+        </div>
+    </div>
+</body>
+</html>
+

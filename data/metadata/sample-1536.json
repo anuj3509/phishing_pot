@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Naschpaket gewinnen!phishing@pot",
+    "from": "Naschpaket, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 06 Oct 2023 13:38:36 +0200",
+    "message_id": "\r\n <cae0baf5-c067-4072-afd1-438806be5452@CO1PEPF000042AD.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/cl/697_md/2010/68/20/23/2459859",
+      "table.responsive",
+      "http://easilett.com/media/4beff5744633749.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/media/31c474278a4682e.jpg",
+      "http://easilett.com/oop/697_md/2010/68/20/23/2459859",
+      "http://easilett.com/media/616b271b263fedd.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2052,
+    "html_length": 6808,
+    "has_text": true,
+    "has_html": true
+  }
+}

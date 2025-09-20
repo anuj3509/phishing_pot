@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "\"����(Dringend)���� Ihr Abonnement ist abgelaufen! Sch��tzen Sie sich sofort����\"",
+    "from": "\"Total AV Support \" <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 13 Mar 2025 15:34:56 +0000",
+    "message_id": "<66wx0wy.fbvqlqn.2ga55p4@5rkjb2l92c2kr6aim.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAY/d=0/rs=AN8SPfrev-A3NvrBP0gNq8zXCqKY7IcBLA/m=el_main_css",
+      "https://103-52-115-55.cloud.leaseweb.net/4jWHuF82qQrX6yjodlhizrk14ONIWSLUWKWYQEVN47634AATV354r4",
+      "https://zupimages.net/up/24/41/e4dq.png",
+      "https://103-52-115-55.cloud.leaseweb.net/4QGArK82OFQB6eskqzsnewn14SWIZODAFKDNMCSU47634GYKW354C4",
+      "https://103-52-115-55.cloud.leaseweb.net/4RFhcL82tVuE6trkaaazfbo14HDUZOCMDSDIGERH47634MVPT354B4",
+      "https://103-52-115-55.cloud.leaseweb.net/4Rkdzw82TWxw6tqorogbyud14CMZATXDKPCUTGMP47634YMHK354V4",
+      "https://103-52-115-55.cloud.leaseweb.net/track/2COuXu82DdYz6ychllxdahc14TUTVWDHIMIAAVDG47634ZLLR354j4",
+      "zupimages.net/up/24/41/e4dq.png",
+      "https://103-52-115-55.cloud.leaseweb.net/4hlouD82BapA6kfqdvsxrlp14QPWPVUUDBVMDOTE47634DPGY354S4",
+      "https://103-52-115-55.cloud.leaseweb.net/4phNEQ82dNgo6ldjjkqewgm14FRPANXYPIGHPMCC47634ETMF354z4",
+      "https://103-52-115-55.cloud.leaseweb.net/4Sgopu82QAIF6bnrjdyfxpo14QDKXWTIVEPIEASO47634BUHG354q4",
+      "https://103-52-115-55.cloud.leaseweb.net/3oKyQz82gUxM6lewbhnsavt14JAOEQCZMHLJXYOB47634VVIW354m4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1770,
+    "html_length": 9387,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Pendência identificada em seu CPF! Protocolo: 74880599.",
+    "from": "gov <no-reply@387467govbrcpf>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 22 Apr 2025 04:46:37 +0000",
+    "message_id": "<b041ba8fff1781e376ece8f302bd7dde@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b041ba8fff1781e376ece8f302bd7dde\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b041ba8fff1781e376ece8f302bd7dde\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://daf-590812820069.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3563,
+    "has_text": true,
+    "has_html": true
+  }
+}

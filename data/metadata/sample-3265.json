@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Without subject",
+    "from": "Lorenzo<lorenzojyfyssk@lakshabay.uk>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 10 May 2024 01:52:00 +0000",
+    "message_id": "<8631509.zawufzyjotqcxikbhmbandekgjhcnrp@lakshabay.uk>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://ctenvironet.com/xlkds.jpg",
+      "http://ctenvironet.com/0/?r=epvqo"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5,
+    "html_length": 998,
+    "has_text": true,
+    "has_html": true
+  }
+}

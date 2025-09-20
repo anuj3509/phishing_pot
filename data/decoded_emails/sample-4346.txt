@@ -1,0 +1,225 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Edeka Einkaufsgutschein im Wert von 500��� ausgew��hlt!
+From: Dies ist Ihre Chance!,(<service@stayfriends.de>)
+To: phishing@pot
+Date: Fri, 01 Nov 2024 10:14:29 +0000
+Message_Id: <CAJXXEDVCXMDVQ8AU9KYO1L@mail.toom.de>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png
+  - http://topmarktingplace.com/6wZAeF37680ozEY1165mbpezppuvc14302EBFDXDNAUODRHRG2ZPGR3265Y10
+  - http://topmarktingplace.com/4OmzRq37680nJkp1165mbxctydigm14302FXLTEFBONWJQNUO2HECQ3265K10
+  - http://www.w3.org/1999/xhtml
+  - http://topmarktingplace.com/5fyHYV37680dTvT1165onuvikygmz14302AMMZLQQVEUICWPO2UEIQ3265S10
+  - http://topmarktingplace.com/4ATkeL37680TGOy1165itqtyumdws14302DFJOPXUUKNERKTY2VUZD3265c10
+  - sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png
+
+DECODED TEXT CONTENT:
+------------------------------
+body {Margin:0 auto; padding:0;} img {max-width:100%;} table {border-spacing:0!important; border:none; cellpadding:0px; } td {cellpadding:0px; border-spacing:0px;} tr {cellpadding:0px; border-spacing:0px;} /* Client-specific Styles */ #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */ body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */ table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */ img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */ .scaling {transition: all .2s ease-in-out;} .scaling:hover { transform: scale(1.1); } @keyframes pound { from { transform: none; } 50% { transform: scale(1.2); } to { transform: none; } } .bungy {display: inline-block; font-size: 150px; color: #3092f5; animation: pound 3s infinite; transform-origin: center; } Guten Tag phishing@pot Dies ist Ihre Chance! Sie wurden heute für unsere Verlosung für ein Edeka Einkaufsgutschein im Wert von 500€ ausgewählt! Und so können Sie sich ihren Einkaufsgutschein sichern: Nehmen Sie an unserer Umfrage teil Tragen Sie auf den nachfolgenden Seiten Ihre Datein ein, damit wir Ihnen den Gewinn zusenden können Warten Sie ab, bis wir Ihnen den Edeka Einkaufsgutschein per E-Mail oder Post zusenden » JETZT GEWINNEN « Die Teilnahme geht schnell und ist für Sie komplett kostenlos - also, worauf warten Sie noch?! Verpassen Sie nicht Ihre Chance auf ein gratis Edeka Einkaufsgutschein im Wert von 500€ und nehmen Sie noch heute kostenlos teil! David Böhner Team für Kundenzufriedenheit Sie können sich jederzeit abmelden. Abbestellen OPT OUT
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title></title>
+
+		<style type="text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{max-width:100%;}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
+            			.scaling {transition: all .2s ease-in-out;}
+			.scaling:hover { transform: scale(1.1); }
+ 			@keyframes pound {
+ 			from { transform: none; }
+ 			50% { transform: scale(1.2); }
+ 			to { transform: none; }
+			}
+			.bungy {display: inline-block; font-size: 150px; color: #3092f5; animation: pound 3s infinite; transform-origin: center; }
+		</style>
+        
+
+        
+        
+	</head>
+	<body bgcolor="#f2f2f2">
+	
+
+<!-- GK: container  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="wrappertable" style="table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top">
+   <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="600" align="center" valign="top" style="background-color: #ffffff; box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);">
+       
+                        <!-- GK: image-->
+						  
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; padding:0px 0px 10px 0px;">
+                      <tr>
+                            <td valign="middle" style=" line-height:1px;"></td>
+                          </tr>
+              <tr>
+                <td align="center" valign="top" style="padding: 0 0px;">
+				
+                      <table cellpadding="0" cellspacing="0" border="0">
+                      
+                          <tr>
+                            <td width="600" align="center" valign="middle">
+                            <a href="http://topmarktingplace.com/4ATkeL37680TGOy1165itqtyumdws14302DFJOPXUUKNERKTY2VUZD3265c10" style="outline:0;" target="_blank"><img src="https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png" style="width: 100%; max-width: 100%;" border="0">
+                            <img src="//sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png" style="width: 100%; max-width: 100%;" border="0">
+                            
+                            </a>
+                        </td>
+                          </tr>
+                          
+                        </table>
+                 </td>
+              </tr>
+            </table>
+                      <!-- GK: / image-->  
+         
+
+  
+            
+           
+            
+            
+            
+            
+              <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+              <!--GK: text-->
+                        
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; ">
+                          <tr>
+                            <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; line-height:24px; letter-spacing:0px; color:#414141; padding-left:20px; padding-right:20px; min-height:20px; mso-line-height-rule: exactly;  ">
+
+                                
+                                
+                          Guten Tag phishing@pot<br><br>
+
+<strong> Dies ist Ihre Chance! </strong>
+			<!-- START SET LINK -->
+							<br>Sie wurden heute für unsere Verlosung für ein <br> <strong>Edeka Einkaufsgutschein</strong> im Wert von 500€ ausgewählt! <br> <br> 
+              Und so können Sie sich ihren Einkaufsgutschein sichern:
+              <ul>
+                <li>Nehmen Sie an unserer Umfrage teil </li>
+                <li>Tragen Sie auf den nachfolgenden Seiten Ihre Datein ein, damit wir Ihnen den Gewinn zusenden können </li>
+                <li>Warten Sie ab, bis wir Ihnen den <strong>Edeka Einkaufsgutschein </strong> per E-Mail oder Post zusenden</li>
+              </ul>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0 20px;"><table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td style="padding-top: 5px; line-height: 0px;"></td>
+                                </tr>
+                                <tr>
+                                  <td width="310" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0" class="bungy">
+                                      <tr>
+                                        <td width="310" height="40" align="center" valign="middle" style="background-color: #0e598f; padding: 6px 12px;"><a style="display: block; text-decoration: none; font-family: 'Arial', verdana, sans-serif; font-size: 18px; mso-line-height-rule: exactly; line-height: 32px;font-weight: bold; text-transform: uppercase; color: #ffffff;" href="http://topmarktingplace.com/4OmzRq37680nJkp1165mbxctydigm14302FXLTEFBONWJQNUO2HECQ3265K10" target="_blank">» JETZT GEWINNEN «</a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                             
+                              </table></td>
+                          </tr>
+                        </table>
+<br>
+              Die Teilnahme geht schnell und ist für Sie komplett kostenlos - also, worauf warten Sie noch?! Verpassen Sie nicht Ihre Chance auf ein gratis <strong>Edeka Einkaufsgutschein im Wert von 500€ </strong> und nehmen Sie noch heute kostenlos teil!
+              <br>
+              <br>
+              <strong>David Böhner</strong><br>
+              Team für Kundenzufriedenheit
+              <br>
+              <br>
+<br>
+<br>
+
+
+
+</td>
+                          </tr>
+                        </table>
+                        
+                        <!--GK: / text--> 
+                        
+                      <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+
+                     
+                        
+                        
+                      
+								
+		 				
+                        
+   
+                     <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                   
+                   
+                   
+                   
+                  
+                   
+            </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- GK: container  -->
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><center><font size="2px;">Sie können sich jederzeit abmelden. <a href="http://topmarktingplace.com/5fyHYV37680dTvT1165onuvikygmz14302AMMZLQQVEUICWPO2UEIQ3265S10">Abbestellen</a></font></center><br>
+  <br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px"> <a href="http://topmarktingplace.com/6wZAeF37680ozEY1165mbpezppuvc14302EBFDXDNAUODRHRG2ZPGR3265Y10">OPT OUT</a></span><br>
+</body>
+</html>
+

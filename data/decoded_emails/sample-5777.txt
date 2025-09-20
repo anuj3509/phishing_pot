@@ -1,0 +1,219 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot Important: Your Google Drive storage is full, Add more Google Drive storage now
+From: Google Speicher-Update <no_reply@ses,fi>
+To: phishing@pot
+Date: Tue, 01 Jul 2025 13:44:13 +0000
+Message_Id: <353721742990853.8.BRV7428017818@holland.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://DqyHGLYHWIxhGWiyrItoDqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/6DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207
+  - zupimages.net/up/25/09/ep36.png
+  - http://XjZfPbazbqaBoWOLYHWIxhGWiyrItoXjZfPbazbqaBoWO.healthnutrecipes.space/track/3DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207
+  - http://DqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/4DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207
+  - http://DqyHGLYHWIxhGWiyrItoDqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/5DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207
+  - zupimages.net/up/25/05/ftwv.png
+
+DECODED TEXT CONTENT:
+------------------------------
+02 body, table, thead, tbody, tr, td, img { padding: 0; margin: 0; border: none; border-spacing: 0px; border-collapse: collapse; vertical-align: top; } .wrapper { padding-left: 10px; padding-right: 10px; } h1, h2, h3, h4, h5, h6, p, a { margin: 0; padding: 0; line-height: 1.2; font-family: Verdana, "Arial", sans-serif; color: #17191c; } .logo { margin-top: 20px; } .intro { font-size: 34px; color: #1d1d1d; max-width: 65%; margin-bottom: 10px; margin-top: 10px; } .feature-img {} .feature-para { font-size: 20px; margin-top: 20px; max-width: 90%; } .feature-para-2 { font-size: 18px; font-family: Verdana, "Arial", sans-serif; margin-left: 35px; margin-right: 35px; } .cta { background-color: #0071E3; padding: 16px 40px; text-decoration: none; color: #fff; font-size: 24px; border-radius: 50px; display: inline-block; margin-top: 20px; margin-bottom: 10px; } .desc { font-size: 12px; max-width: 85%; margin-bottom: 20px; } @media only screen and (max-width: 480px) { .wrapper .section { width: 100%; } .wrapper .column { width: 100%; display: block; } .intro { font-size: 26px; max-width: 80%; } .feature-para { font-size: 18px; } .feature-para-2 { font-size: 15px; max-width: 80%; } .desc { max-width: 85%; } } Sie haben Ihr Speicherlimit erreicht Sehr geehrter Kunde, Ihr Speicher ist voll. Im Rahmen unseres Treueprogramms können Sie jetzt kostenlos zusätzlich 50 GB erhalten, bevor Dateien aus Ihrem Konto gelöscht werden. 50 GB erhalten &nbsp; Wenn Sie diese E-Mails nicht mehr erhalten möchten, können Sie sich abmelden, indem Sie auf Hier Diese E-Mail wurde Ihnen von einem Geschäftspartner gesendet. Haben Sie Probleme bei der Abmeldung oder beschweren Sie sich über Werbung? Klicken Sie auf den Link Hier &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>02</title>
+    <style>
+        body,
+        table,
+        thead,
+        tbody,
+        tr,
+        td,
+        img {
+            padding: 0;
+            margin: 0;
+            border: none;
+            border-spacing: 0px;
+            border-collapse: collapse;
+            vertical-align: top;
+        }
+
+        .wrapper {
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        p,
+        a {
+            margin: 0;
+            padding: 0;
+            line-height: 1.2;
+            font-family: Verdana, "Arial", sans-serif;
+            color: #17191c;
+        }
+
+        .logo {
+            margin-top: 20px;
+        }
+
+        .intro {
+            font-size: 34px;
+            color: #1d1d1d;
+            max-width: 65%;
+            margin-bottom: 10px;
+            margin-top: 10px;
+        }
+
+        .feature-img {}
+
+        .feature-para {
+            font-size: 20px;
+            margin-top: 20px;
+            max-width: 90%;
+        }
+
+        .feature-para-2 {
+            font-size: 18px;
+            font-family: Verdana, "Arial", sans-serif;
+            margin-left: 35px;
+            margin-right: 35px;
+        }
+
+        .cta {
+            background-color: #0071E3;
+            padding: 16px 40px;
+            text-decoration: none;
+            color: #fff;
+            font-size: 24px;
+            border-radius: 50px;
+            display: inline-block;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        .desc {
+            font-size: 12px;
+            max-width: 85%;
+            margin-bottom: 20px;
+        }
+
+        @media only screen and (max-width: 480px) {
+            .wrapper .section {
+                width: 100%;
+            }
+
+            .wrapper .column {
+                width: 100%;
+                display: block;
+            }
+
+            .intro {
+                font-size: 26px;
+                max-width: 80%;
+            }
+
+            .feature-para {
+                font-size: 18px;
+            }
+
+            .feature-para-2 {
+                font-size: 15px;
+                max-width: 80%;
+            }
+
+            .desc {
+                max-width: 85%;
+            }
+        }
+    </style>
+</head>
+
+<body style="background-color: #efefef;">
+    <table width="100%">
+        <tbody>
+            <tr>
+                <td class="wrapper" width="550" align="center" style="margin: 0 !important; padding: 0 !important;">
+                    <table width="550" class="section header creative" bgcolor="#fff" align="center" style="border-top: 1px solid #f0f0f0; background-color: #fff; margin-top: 0 !important;">
+                        <tbody>
+                            <tr>
+                                <td align="center">
+                                    <img border="0" src="//zupimages.net/up/25/09/ep36.png" style="width: 7.5%" alt="" class="logo">
+                                    <p class="intro" style="color: #000">Sie haben Ihr Speicherlimit erreicht</p>
+                                    <img border="0" src="//zupimages.net/up/25/05/ftwv.png" style="top: 20px; width: 87.7%" class="feature-img">
+                                    <p class="feature-para" style="color: #000">
+                                        Sehr geehrter Kunde, Ihr Speicher ist voll.
+                                    </p>
+                                    <p class="feature-para-2" style="color: #000">
+                                        Im Rahmen unseres Treueprogramms können Sie jetzt kostenlos zusätzlich 50 GB
+                                        erhalten, bevor Dateien aus Ihrem Konto gelöscht werden.
+                                    </p>
+                                      <!--Button-->
+
+
+<a href="http://DqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/4DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207"><div style="color:#fff;min-width: 260px;padding: 15px;font-size: 20px;margin-top: 20px;font-size: 22px;font-weight: bold;line-height: 1;text-transform: uppercase;background: #0071E3;display: inline-block;padding: 16px 40px;text-decoration: none; border-radius: 50px;margin: 30px 0px;">
+
+50 GB erhalten
+
+
+</div></a>
+
+
+  </!--Button-->
+                                    <br>
+                                    <br>
+                                    <p class="desc" style="color: #000">
+                                    </p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><center><tr> <td height="15" style="line-height: 15px;">&nbsp;</td> </tr> <tr> <td align="center"> <center><p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;padding: 0"> Wenn Sie diese E-Mails nicht mehr erhalten möchten, können Sie sich abmelden, indem Sie auf
+ <a href="http://DqyHGLYHWIxhGWiyrItoDqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/5DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207" style="color: #666; text-decoration: none;">Hier
+</a>
+ </p>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+<br> <br> <br> <center><p style="margin: 0;font-size: 12px; color: #797979;"><em> Diese E-Mail wurde Ihnen von einem Geschäftspartner gesendet. <br>Haben Sie Probleme bei der Abmeldung oder beschweren Sie sich über Werbung?<br> Klicken Sie auf den Link <a href="http://DqyHGLYHWIxhGWiyrItoDqyHGLYHWIxhGWiyrItoDqyHG.healthnutrecipes.space/6DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207" style="color:#666;text-decoration:none;">Hier </a></em><br> <br><br></p>
+<center><br> <br> <br> 
+</a></center><br> </body><img src="http://XjZfPbazbqaBoWOLYHWIxhGWiyrItoXjZfPbazbqaBoWO.healthnutrecipes.space/track/3DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207" width="0" height="0" style="position:absolute;visibility:hidden;" border="0"></html>
+
+ <tr>
+ <td height="35" style="line-height: 35px;">&nbsp;</td>
+ </tr>
+ </body><img src="http://XjZfPbazbqaBoWOLYHWIxhGWiyrItoXjZfPbazbqaBoWO.healthnutrecipes.space/track/3DqyHG29304kAUe337hhzutgboqf3764JXESPAIDWMHHKBM91072UTHK951R207" width="0" height="0" style="position:absolute;visibility:hidden;" border="0"></center>
+
+
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
+

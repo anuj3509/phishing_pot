@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Jetzt haben Sie die Chance einen ���500 Netto-Guitschein zugewinnen! ",
+    "from": "Ihr Gewinner Team<noreply@netto-online.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 12 Feb 2024 19:16:44 +0100",
+    "message_id": "<nmxKjQP.77810.810.Jag@netto-online.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/23/36/l2jt.png",
+      "http://valleylinks.net/cl/504_md/1002/596/741/53/7028",
+      "https://zupimages.net/up/23/36/ts2s.png",
+      "zupimages.net/up/23/36/ts2s.png",
+      "http://valleylinks.net/op/504_md/1002/596/741/53/7028",
+      "https://zupimages.net/up/23/36/l2jt.png",
+      "http://valleylinks.net/un/504_md/1002/596/741/53/7028"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1661,
+    "html_length": 9953,
+    "has_text": true,
+    "has_html": true
+  }
+}

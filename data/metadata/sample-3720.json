@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo:34070930",
+    "from": "Correios <avisos125920@correios>",
+    "to": "fernando-rock-and-roll@hotmail.com",
+    "date": "Wed, 21 Aug 2024 11:52:44 +0000",
+    "message_id": "<17b11a3380333000d350066495af21c6@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_17b11a3380333000d350066495af21c6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_17b11a3380333000d350066495af21c6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://correiosencomendasonline.com/rastreamento/taxa241"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2492,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Seu código pix foi gerado",
+    "from": "Voa Brasil <noreply@voebrasilgov.com>",
+    "to": "Mateus <phishing@pot>",
+    "date": "Thu, 19 Oct 2023 21:25:35 +0000 (UTC)",
+    "message_id": "<GTRlv9zjS3GLYaOyt57neg@geopod-ismtpd-32>",
+    "content_type": "multipart/alternative; boundary=158e703dc9cde10dc601e7a5497bbd660ebead4aa2374b861c0a6f45798f"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=158e703dc9cde10dc601e7a5497bbd660ebead4aa2374b861c0a6f45798f"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".col.num6",
+      ".col.num4",
+      "https://pay.voebrasilgov.com/pix/8gmQAwRg",
+      "https://cloudfox-digital-products.s3.amazonaws.com/uploads/public/products/Xwvl3F2uC9ufkymzw6ybNPv4bVxP0a3tz5ZgFyOX.png",
+      "img.fullwidthOnMobile",
+      "http://cdn.mcauto-images-production.sendgrid.net/1b082ee166c12f3d/5881f813-99c9-4f09-ac69-04d3b3abba7e/900x700.png",
+      ".no-stack.two-up",
+      ".col.num9",
+      "img.fullwidth,",
+      "https://u10060318.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgMzwLa-2FEa-2FxdJ-2BtzcdttmD32TMSeowicEZVpSMEIDG0-2B-2BtxKLt-2FUj1u0WI3ggglLv5xe-2F-2BHh-2Bko9qCBGwstEpBcRXSiut-2Bufn8QwRGGURDZUv0rZlw6D9Gm0hByJaI0NR511LfSc6M5jaGEYhN0FqViG7Y-2FN658gM5dVwOoE-2B9dqxKP-2FV3TmLSGOOPRobyjkO-2BkC3EEUt34iagEjk7jnviAcCHatg5DDQ-2FexNVHy0guYUPF3Ms4qT-2FtBifhfc7AlN5xA2TIhmFak88fg2pyZdrfIOdVvww5uYrC3y-2Bpnkdcv",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "https://cloudfox-digital-products.s3.amazonaws.com/uploads/public/products/qr7jzMCAL6kK1beL4zvyO4V5zUq0dDDCkOoGEGVq.png",
+      ".col.num8",
+      ".col.num3"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 618,
+    "html_length": 95054,
+    "has_text": true,
+    "has_html": true
+  }
+}

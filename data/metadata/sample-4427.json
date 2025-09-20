@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Olá,",
+    "from": "\"Jane Woody\" <j91843451@gmail.com>",
+    "to": "RODRIGO-F-P@HOTMAIL.COM",
+    "date": "Wed, 20 Nov 2024 11:39:10 -0300",
+    "message_id": "<6EE357DCE5A8769F1C5B7840C67A115A8EF64C68@DESKTOP04AMANLO>",
+    "content_type": "multipart/alternative; boundary=\"------------030700080408060305030409\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"------------030700080408060305030409\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "parent.window.phx.iac.notify(",
+      "mail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1,
+    "html_length": 2940,
+    "has_text": false,
+    "has_html": true
+  }
+}

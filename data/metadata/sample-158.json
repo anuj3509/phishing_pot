@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Good Day !!  ",
+    "from": "\"Mr. Urosevic Dusan\" <u1010dusan@gmail.com>",
+    "to": "Recipients <u1010dusan@gmail.com>",
+    "date": "Sun, 11 Dec 2022 20:03:57 -0800",
+    "message_id": "<20221212040407.E1154D4B993F3@mail.sms.maceio.al.gov.br>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "5.Phone",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 673,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

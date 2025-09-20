@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "You're Invited! Discover Something Special",
+    "from": "Scroll Community <noreply@scrol.io>",
+    "to": "phishing@pot",
+    "date": "Mon, 28 Oct 2024 05:59:57 +0000 (UTC)",
+    "message_id": "<20241028055957.1F3C65A04864CFFA@scrol.io>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://scrollportal.s3.us-east-1.amazonaws.com/index.html",
+      "https://srcio.s3.us-east-1.amazonaws.com/index.html",
+      "https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 411,
+    "html_length": 3057,
+    "has_text": true,
+    "has_html": true
+  }
+}

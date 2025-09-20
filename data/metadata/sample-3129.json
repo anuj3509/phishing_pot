@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Um brilhante deslocamento para o mundo exclusivo de um cartão precioso e elegante",
+    "from": "Bradesco Prime <notifica@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Mar 2024 13:45:17 +0000",
+    "message_id": "<800bca52-4b30-d580-d7de-48d51090f162@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "33.TUNA",
+      "dpdanpink.com",
+      "may1998nf80512d.htm",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=55a01d7e63b94e76b84f3e37090cb7d1&amp;t1=bra",
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "News.com,",
+      "www.danpink.com",
+      "twitter.comdanielpink",
+      "com.brnoticias04102016fleury-testa-watson-para-",
+      "httpwww.bmfbovespa.com.brindic",
+      "httpwww.businessweek.combwdailydnfl"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 88907,
+    "html_length": 160091,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "headers": {
+    "subject": "Action Required: Verify your Trust Wallet !",
+    "from": "Comunicaciones UCV <comunicacioncorporativa@ucv.edu.pe>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Sep 2023 20:29:51 -0300 (-03)",
+    "message_id": "<9dW-1005dc3b85-q@embluemail.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============5865439537536884234==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============5865439537536884234==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nts.embluemail.com/p/cl?data=4swcGLyZrBVSo1VI8B7hJPmx%2B3iKFuUluta9BT3YEHVyxlI85glVkY1IiDPJCCFuRvjrdJF8RI%2FEqBYvK9U9t0PZk2Dcu9YmQW2hWk4n%2Blw%3D!-!6a9fl,6!-!https%3A%2F%2Ftrustwallet.com%2Faccounts%2Fwallet-verification%3D42869Zvs4189275FZH9h19hksja57h5E2js0a71%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=barber%26utm_content=barber--Action+Required%3A+Verify+your+Trust+Wallet+%21%26utm_term=multiple--3--none--0-10--ENVIO+SIMPLE",
+      "ucv.edu.pe)",
+      "https://nts.embluemail.com/p/op?data=12l1HtrulBbQiK6w%2FYSFdOGSjhyFeIF%2F5SJhcNTUl%2FWr82EKbAUbzkGA7sLZpEGs%2FNe3SgvsixIBKc5xdb99SQ%3D%3D!-!6a9fl,6",
+      "https://nts.embluemail.com/p/cl?data=SsU9x6hyjTZ9%2BfW1dgJGtnu42FUXU4%2BHW5jBgL4NdDhkepirAmWgbWtvtg9U6oN0JbF5enhxlGz9Yn7kj1%2FSd1%2FuEEwrEf5ejvM1qihBB8M%3D!-!6a9fl,6!-!https%3A%2F%2Fxtremedevelopers.com%2Fhome%2Frecover%2Fwallet%2F%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=barber%26utm_content=barber--Action+Required%3A+Verify+your+Trust+Wallet+%21%26utm_term=multiple--3--none--0-10--ENVIO+SIMPLE",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      ".slot-spacing.CENTER",
+      "img.not-resized",
+      "https://i.embluejet.com/ImagenesMoxie/emblue/images/logo.jpg",
+      "https://trustwallet.com/accounts/wallet-verification=42869Zvs4189275FZH9h19hksja57h5E2js0a71",
+      ".slot.TWO_THIRDS",
+      "https://cdn.designer-images.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png",
+      "https://app.embluemail.com/Online/VON.aspx?data=D6sL%2FlPPunkGYIT7PR5GggfpdiHQdvf5FUxttSzvOvpusfq41%2B04qSN13kfKtBaVzj5S%2Fe%2BFPVASFhZXJX6K%2Bta6AeUhta9js3jF4VM7BHNyzeEVTZcG2yB2GgUTqUdM!-!ePsT/RNe5x+hPSA+2HxCskYec1nRTW4HFnXKf6q7mt1TeYG+nb6+IIZfPL4pY9T8",
+      ".component.text-component",
+      "http://embluemail.com/terminos-y-condiciones.html",
+      "https://app.embluemail.com/Online/VON.aspx?data=t%2FbYdHWCMBqa1s%2BWsec3AflqWEROR%2FGhQgDymTe0S1NQ%2FJKHU7pZjC2htKoVpN6LByPPtjit2zCY5q%2Bn1fmJEJVze8jQ6n8hqnW1Ka8zmTs2GvbxVLnQyEiePkn1xS6E!-!ePsT/RNe5x+hPSA+2HxCskYec1nRTW4HFnXKf6q7mt1TeYG+nb6+IIZfPL4pY9T8",
+      "https://app.embluemail.com/Confirm/PedidoDesuscripcion_ES.html?data=lg4poLhpMlyNDVvZhNOIh43M7TJ5OeQtZ2R17NkzUxYx5bWGEiBqwuc%2BCZOZqtTgrBXZMfFts6IxIkfWOJ9P7A%3D%3D!-!ePsT/RNe5x+hPSA+2HxCskYec1nRTW4HFnXKf6q7mt1TeYG+nb6+IIZfPL4pY9T8",
+      ".slot.FULL",
+      "https://app.embluemail.com/Confirm/TermsAndConditions_ES.html?data=D6sL%2FlPPunkGYIT7PR5GggfpdiHQdvf5FUxttSzvOvpusfq41%2B04qSN13kfKtBaVzj5S%2Fe%2BFPVASFhZXJX6K%2Bta6AeUhta9js3jF4VM7BHNyzeEVTZcG2yB2GgUTqUdM!-!6a9fl,6",
+      ".slot.ONE_FOURTH",
+      "https://app.embluemail.com/Services/Interaccion.svc/GetvCard?data=39694-25614",
+      "https://moosendimages.imgix.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=684"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 467,
+    "html_length": 31535,
+    "has_text": true,
+    "has_html": true
+  }
+}

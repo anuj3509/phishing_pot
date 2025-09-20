@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot ein Gutschein von Decathlon im Wert von 1.000 Euro.",
+    "from": "Decathlon-Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 19 Jul 2024 09:43:56 +0000",
+    "message_id": "<RA57MEr.0.0.RA57MEr.9.RA57MEr@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://wear-prodct.com/?a=7908&amp;oc=17173&amp;c=46876&amp;m=3&amp;s1=",
+      "http://sklj.info/U0swY09tS25VWmdaMjdSVk5Da0xvY0NjaTZxWFNncGdlMFV3eEUxdGJ5ejdJN3A1Uk04dTNOd2QxdGs5S0JhUkZ2SEhmckk4Rm1nRVFHRkVaYmx3K3c9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/25/5451.jpg",
+      "http://sklj.info/YitXZXE3WnUwd25QSUs3akJTb0hieFFOR25vMkNrSGYvYUwzZUYwczN5cjk0ZFRtODZzTmcydzNwU0Y3a3NUc1NHNDJxOThyaVZTeTNHenp3M3pOVkE9PQ__",
+      "https://www.zupimages.net/up/23/25/5451.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1342,
+    "html_length": 8920,
+    "has_text": true,
+    "has_html": true
+  }
+}

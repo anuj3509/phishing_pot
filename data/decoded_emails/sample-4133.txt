@@ -1,0 +1,81 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Enhance Your Holdings with 4 Million LDO Tokens
+From: Lido <compass@mail.leads305.com>
+To: phishing@pot
+Date: 22 Sep 2024 21:47:46 +0000
+Message_Id: <20240922214742.099F922AFE15BE7C@mail.leads305.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: limited time
+URLs found:
+  - https://twitter.com/lidofinance
+  - https://ecodrive.azlogica.com/ldo/track.php?email=phishing@pot
+  - https://discord.com/invite/lidofinance
+  - https://t.me/lidofinance
+
+DECODED TEXT CONTENT:
+------------------------------
+Exclusive LDO Token Reward Inside! Dear Lido Enthusiast, We have some exciting news for you! As a valued member of the Lido community, you're eligible to claim an exclusive reward of 4 million LDO tokens ! How to Claim Your Tokens: Follow these simple steps to receive your tokens: Visit the Lido Airdrop Page . Connect your wallet. Click "Claim Your Tokens" to receive your LDO. Claim Your Tokens Now This offer is available for a limited time only. Don't miss out on the opportunity to enhance your Lido holdings and be part of our growing ecosystem. Thank you for your continued support! The Lido Team Connect with us: Twitter | Discord | Telegram &copy; 2024 Lido. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0; padding: 0; background-color: #e8f4ff; font-family: Arial, sans-serif; color: #333;">
+    <div style="max-width: 650px; margin: 40px auto; background-color: #ffffff; border-radius: 10px; box-shadow: 0 6px 15px rgba(0,0,0,0.1); overflow: hidden; padding: 0;">
+        <!-- Header Section -->
+        <div style="text-align: center; background-color: #002a5c; padding: 40px 20px; border-bottom: 3px solid #00376b;">
+            <h1 style="font-size: 28px; color: #ffffff; margin: 0;">Exclusive LDO Token Reward Inside!</h1>
+        </div>
+
+        <!-- Content Section -->
+        <div style="padding: 30px 40px; color: #444;">
+            <p style="font-size: 16px; margin-bottom: 15px;">Dear Lido Enthusiast,</p>
+            <p style="font-size: 16px; margin-bottom: 15px;">We have some exciting news for you! As a valued member of the Lido community, you're eligible to claim an exclusive reward of <strong>4 million LDO tokens</strong>!</p>
+            
+            <h2 style="color: #002a5c; font-size: 22px; margin-bottom: 20px;">How to Claim Your Tokens:</h2>
+            <p style="font-size: 16px; margin-bottom: 15px;">Follow these simple steps to receive your tokens:</p>
+            <ol style="padding-left: 20px; font-size: 16px; color: #333;">
+                <li style="margin-bottom: 10px;"><a href="https://ecodrive.azlogica.com/ldo/track.php?email=phishing@pot" target="_blank" style="color: #0066cc; text-decoration: none;">Visit the Lido Airdrop Page</a>.</li>
+                <li style="margin-bottom: 10px;">Connect your wallet.</li>
+                <li>Click <strong>"Claim Your Tokens"</strong> to receive your LDO.</li>
+            </ol>
+
+            <!-- CTA Button -->
+            <div style="text-align: center; margin: 40px 0;">
+                <a href="https://ecodrive.azlogica.com/ldo/track.php?email=phishing@pot" target="_blank" style="background-color: #0066cc; color: #ffffff; padding: 15px 30px; font-size: 18px; text-decoration: none; border-radius: 8px; display: inline-block;">Claim Your Tokens Now</a>
+            </div>
+
+            <p style="font-size: 16px; margin-bottom: 15px;">This offer is available for a limited time only. Don't miss out on the opportunity to enhance your Lido holdings and be part of our growing ecosystem.</p>
+            <p style="font-size: 16px;">Thank you for your continued support!<br>The Lido Team</p>
+        </div>
+
+        <!-- Footer Section -->
+        <div style="text-align: center; padding: 20px; background-color: #f2f2f2; border-top: 1px solid #e1e4e8; font-size: 14px; color: #777;">
+            <p style="font-size: 14px; margin-bottom: 10px;">Connect with us:</p>
+            <p style="font-size: 14px;">
+                <a href="https://twitter.com/lidofinance" target="_blank" style="color: #0066cc; text-decoration: none; margin: 0 10px;">Twitter</a> |
+                <a href="https://discord.com/invite/lidofinance" target="_blank" style="color: #0066cc; text-decoration: none; margin: 0 10px;">Discord</a> |
+                <a href="https://t.me/lidofinance" target="_blank" style="color: #0066cc; text-decoration: none; margin: 0 10px;">Telegram</a>
+            </p>
+            <p style="font-size: 14px;">&copy; 2024 Lido. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
+

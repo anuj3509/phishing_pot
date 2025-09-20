@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "DONATION",
+    "from": "Manuel Franco <lv.hengericsova@uvzsr.sk>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 10 Dec 2023 02:56:14 -0800",
+    "message_id": "<081cea84160985346bd2322e861e8166@uvzsr.sk>",
+    "content_type": "text/plain; charset=US-ASCII;\r\n format=flowed"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=US-ASCII;\r\n format=flowed"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://youtu.be/R_pDrt1np1U.",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 723,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <naoresponder@correios>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Dec 2024 01:53:26 +0000",
+    "message_id": "<ebac7ee0-4ad2-4e0c-66ba-f8cbf899021c@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "fracassar.No",
+      "Folklore.org",
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 32055,
+    "html_length": 56063,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "CharmingRussian , <no-replay@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Sun, 19 Feb 2023 01:36:55 +0100",
+    "message_id": "\r\n <bf7b0250-0a27-4448-a2c1-03df98ae0e86@DB8EUR06FT045.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.imgur.com/SYjrBsb.jpg",
+      "http://gouletpens.online/bXUycnRDeTBGeHlOdkE3T3dydUFFSEFDcFZBdXpKQW1UY3pGVE5vR3FYUXBYeHB3STJDaWxtZjRiL2pvY3F4T0FsZFpaUURjTkpiK2ZyN1ErQVJUaWpIOWt0V210NDI0T0hZb2JyTFQvdEU9",
+      "http://gouletpens.online/OWZWUDRHN3lySFB2cFJNSlFoT2loVTFoQUxtd1FOYzVLTXhPR1QzMU94ZkIwRGdtWmFDbldWMEZhSStYeXpjNUhkQ3pOZ3paeUwrM2luT1pqWjZrVmtxTTFzN2EwbWRmbnc5bGVTNy9qY2M9",
+      "imgur.com",
+      "http://gouletpens.online/UUhVZk1SU2tGWTFOQnNPRVU4UjZRV0t3VGVYSHhya1lmbmk4c3NhS0tnRmFNTVBnQjM3OVdFZCtBc1diMHRqNUZjYWZQcDU4eVZ3OHNuVU45dW4vdUFZVEtTMjlRZEpsZDVweW9oOTRSTU09"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 492,
+    "html_length": 2106,
+    "has_text": true,
+    "has_html": true
+  }
+}

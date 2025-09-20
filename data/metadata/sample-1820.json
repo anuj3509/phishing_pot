@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "You just received  0.3159912 BTC ( $10,980.35 USD )",
+    "from": "Coinbase <secretaria.cecmg@colegio.catolica.edu.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 07 Nov 2023 16:48:08 +0000 (UTC)",
+    "message_id": "<IP_mrSmhRIGVy3HWGyzmWg@geopod-ismtpd-canary-0>",
+    "content_type": "multipart/alternative; boundary=f19370bda03ea09534c3b5a0152161f6f2e4b32be007cfa39916faec9ecf"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=f19370bda03ea09534c3b5a0152161f6f2e4b32be007cfa39916faec9ecf"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u22806225.ct.sendgrid.net/ls/click?upn=GJ-2BmTswfa57xzwH3qBJpjNKp7NZ9yT-2BA0M9LiZSBliDcVe1F8rhmoyTIN5Z5rhc1Rxu24NEo71VuakuQfyteqRUKUVPf35GGnsaXEOm0GF0-3D2CrP_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BORfaOYgS8B3s7fztuaLtE73Xx6JrperEef6vqwu3I7PuFHagEbpxbmAoZdg3O4y-2BaysRCKA0gEtk4cnY4hO655MPugj7vKDx-2By1Ed5BjwXynQmKUm3l9FE2cXMoB27JIY-2FeQjrkMPjLW9jiMSsVhxQ3Gv4uEDl8aLm-2FcWQFWp5uvt33K0wk-2Bmf8NKgj5zarekpSLHMbspCYGIzRVdLEUauruR2R2Ig1-2BO63ymK1Ji5nHGjvNKW90kLTWouPc-2FdDuV-2Fr2C4X6kPR9DAJobtjqlC4POBVVTEcntJnKXraRLsSnQnyAuA28WaNlwKIacvhoMJ5sCtsulT5mEuTlvb9tArs4S5u1FCwacr6TZSiM-2FN-2F83zXLLqlYC2dDnERWtbh0kimsmm-2BOMut4YkFeC1QCCrKLGcMkHkrh3Uh1evhyqWmywEj4a3kcKGOhNTYWN-2BdpKILbYQi7z1KiNIAyQmDjKeNFnfJqYK4iR3q0V-2BhlKiX9KW0qwOWOLpo0kPoC0YYITt1wNBD2KH-2FETR-2FDtw1qEHDilOlfkB9xgizDYhYWpEIdK6Lxux5VD8ZAygi0fwd7YFXJsAsT9KSYuCvSvurZwWg-3D-3D",
+      "https://u22806225.ct.sendgrid.net/ls/click?upn=DF502bL9UCcQmrpeWsThdHoqT9-2FwUB-2BFJvJcxPyqaOuA44Ds0si3bsjanORuJvyAWlV1kucOSzIpxjnhpO1ghJ7dDM7C0PZcnEPcVMnH92do8E-2BsWJtS-2B-2FouGt9vsvDlhWV9aEGkK9SB5ymjQg8mqw-3D-3Daeu4_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BORfaOYgS8B3s7fztuaLtE73Xx6JrperEef6vqwu3I7PuFHagEbpxbmAoZdg3O4y-2BaysRCKA0gEtk4cnY4hO655MPugj7vKDx-2By1Ed5BjwXynQmKUm3l9FE2cXMoB27JIY-2FeQjrkMPjLW9jiMSsVhxQ3Gv4uEDl8aLm-2FcWQFWp5uvt33K0wk-2Bmf8NKgj5zarekpSLHMbspCYGIzRVdLEUauruR2R2Ig1-2BO63ymK1Ji5nHGjvNKW90kLTWouPc-2FdDuV-2Fr2C4X6kPR9DAJobtjqlC4POBVVTEcntJnKXraRLsSnQnyAuA28WaNlwKIacvhoMJ5sCtsulT5mEuTlvb9tArs4S5u1FCwacr6TZSiM-2FN-2F83zXLLqlYC2dDnERWtbh0kimsmm-2BOMut4YkFeC1QCCrKLGcMkHkrh3Uh1evhyqWmywEj4a3kcKGOhNTYWN-2BdpKY3er9sy43cT9wj1yEwBEuxCBH6oZHNh3MF-2BPgrM-2B-2FssSbzj5hdusGyeuh6xoTq3l4N0a-2BGMncISpIBkOVm4Ayux33vVgmX2L5fVlzLFLHM2QVzq4JBZJNkey55lZN-2F8tQKtfU39SvvKNxK293uw1gQ-3D-3D",
+      "https://u22806225.ct.sendgrid.net/ls/click?upn=GJ-2BmTswfa57xzwH3qBJpjNKp7NZ9yT-2BA0M9LiZSBliD-2BfZwAzQu6o15-2BD2PkQdVmEvGHJBtNGzHAnQSltX4eqja5kD4ULVMR-2BM-2Bk-2BDNoz1CFQ0p9Or29seysd8dQCuUG1709_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BORfaOYgS8B3s7fztuaLtE73Xx6JrperEef6vqwu3I7PuFHagEbpxbmAoZdg3O4y-2BaysRCKA0gEtk4cnY4hO655MPugj7vKDx-2By1Ed5BjwXynQmKUm3l9FE2cXMoB27JIY-2FeQjrkMPjLW9jiMSsVhxQ3Gv4uEDl8aLm-2FcWQFWp5uvt33K0wk-2Bmf8NKgj5zarekpSLHMbspCYGIzRVdLEUauruR2R2Ig1-2BO63ymK1Ji5nHGjvNKW90kLTWouPc-2FdDuV-2Fr2C4X6kPR9DAJobtjqlC4POBVVTEcntJnKXraRLsSnQnyAuA28WaNlwKIacvhoMJ5sCtsulT5mEuTlvb9tArs4S5u1FCwacr6TZSiM-2FN-2F83zXLLqlYC2dDnERWtbh0kimsmm-2BOMut4YkFeC1QCCrKLGcMkHkrh3Uh1evhyqWmywEj4a3kcKGOhNTYWN-2BdpK9QErO-2F3ish0vPEwwxPSRXFEROCOxZa8DhdnWqkI2KJi6D4tJmjga92vL9eroIGn385qFbMQnlUSbivggGq6NKdXmkzNGIX0KefoVY-2FXP2FAxkXOAOFtfH-2B5dT2yinqINzfXEtlZ8-2BDZ162l9iKgkqA-3D-3D",
+      "https://cdn.designer-images.net/be5ba990-ee64-0368-c55d-fb85263c9f65/aae9ca1c383d4fa69fed539b6dd5d3e6/dgdfgdfgfg.png",
+      "https://moosendimages.imgix.net/be5ba990-ee64-0368-c55d-fb85263c9f65/aae9ca1c383d4fa69fed539b6dd5d3e6/dgdfgdfgfg.png?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=634",
+      "https://cdn.designer-images.net/be5ba990-ee64-0368-c55d-fb85263c9f65/eb09c1cf0bdb4533a9b1e12c38883ed6/hjhjhjnn.png",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      ".slot-spacing.CENTER",
+      "http://www.w3.org/1999/xhtml",
+      "https://u22806225.ct.sendgrid.net/ls/click?upn=DF502bL9UCcQmrpeWsThdHoqT9-2FwUB-2BFJvJcxPyqaOuA44Ds0si3bsjanORuJvyAWlV1kucOSzIpxjnhpO1ghJ7dDM7C0PZcnEPcVMnH92do8E-2BsWJtS-2B-2FouGt9vsvDlhWV9aEGkK9SB5ymjQg8mqw-3D-3DhPzx_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BORfaOYgS8B3s7fztuaLtE73Xx6JrperEef6vqwu3I7PuFHagEbpxbmAoZdg3O4y-2BaysRCKA0gEtk4cnY4hO655MPugj7vKDx-2By1Ed5BjwXynQmKUm3l9FE2cXMoB27JIY-2FeQjrkMPjLW9jiMSsVhxQ3Gv4uEDl8aLm-2FcWQFWp5uvt33K0wk-2Bmf8NKgj5zarekpSLHMbspCYGIzRVdLEUauruR2R2Ig1-2BO63ymK1Ji5nHGjvNKW90kLTWouPc-2FdDuV-2Fr2C4X6kPR9DAJobtjqlC4POBVVTEcntJnKXraRLsSnQnyAuA28WaNlwKIacvhoMJ5sCtsulT5mEuTlvb9tArs4S5u1FCwacr6TZSiM-2FN-2F83zXLLqlYC2dDnERWtbh0kimsmm-2BOMut4YkFeC1QCCrKLGcMkHkrh3Uh1evhyqWmywEj4a3kcKGOhNTYWN-2BdpKhQlSXAuDwMWl5mI7NP6aifAWsuoEMTOitdYkJGZHhb-2FTAquNe88joYAYeHNBbjN8Dk3baJGqe8sQhW-2BvQRBF3nRoC0A8XpZ-2FO7iVXb5lO2eZ-2Fp4LZ6OKaO4icWYKPenBMP9rn3ATcWxCliihuO67dg-3D-3D",
+      "https://fonts.googleapis.com/css?family=Noto+Serif&amp;subset=greek,greek-ext",
+      "https://moosendimages.imgix.net/be5ba990-ee64-0368-c55d-fb85263c9f65/eb09c1cf0bdb4533a9b1e12c38883ed6/hjhjhjnn.png?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=136",
+      "img.not-resized",
+      "https://u22806225.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7sPpYLTfzRoqdBfNwDqU-2BjcZk5hnzT4zIzFreSlc-2BSPSVNNEFcc-2B2CNQr9Kx94m6R0QWLYkDPag4R-2FnyGX9o6oF2-2FC5GXfrxn6vapHfMpv1LKdZz6rvw3hljn0dSOyT6IBYFwOS4g0NELZXu6CibRr3awjYArOZpYms3zVV45LV-2BDrHE8UvU0LQmXKyT3CQ6WXjQSKVS9hDAENk16Vav44i2LH5SPKLT3uGwY1ONIUwYJPQ6asxcmbPIL0-2BC5Bt2oEOD4CGjtvUbXJ24euYiRi0UmyLrhHHCsS-2FIe9tlKPkDKbefSIiXvmltZFsBcAZVhoDgc3fg0CbAYjONyveIvta8fdwiTP-2FVyW7fupO0HfipvnNeR87cLIWdIvYH-2FrNxCnaGtprLds9HrWFiGau02Hr1X0p6CBFDlRFqMiBbWvoriHJEIp-2BwKynBU8ZSR2PsJjFAhm-2B2uLYmVQ7Xsgg-2BOY3O5ofKw6wDGq-2FUtyZWFqjzRsggJEMtejpn7PbigLMRLjUGp3BGL-2F2i8LfCgQaCKVyc4NWNnnJGC-2FdeH0nv85XZUxNNhm03V-2FJOi7m4j2uKyrEbSO7yiIbgMqbnM5tiTxAw-3D-3D",
+      ".slot.TWO_THIRDS",
+      ".component.text-component",
+      ".slot.FULL",
+      ".slot.ONE_FOURTH"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1388,
+    "html_length": 36312,
+    "has_text": true,
+    "has_html": true
+  }
+}

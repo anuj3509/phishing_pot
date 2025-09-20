@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Effektive Behandlung f��r den Bauch",
+    "from": "Ketoxplode !, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Sep 2023 02:16:56 +0200",
+    "message_id": "\r\n <2d2f7bb4-d2e3-426f-9915-a3b16fed6d08@DB3EUR04FT044.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com//cl/27_md/31/3/12/4/383653",
+      "http://easilett.com/media/0dacdf14ee13333.png",
+      "http://easilett.com/cl/27_md/31/3/12/4/383653",
+      "http://easilett.com/un/27_md/31/3/12/4/383653",
+      "http://easilett.com/oop/27_md/31/3/12/4/383653",
+      "https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap",
+      "http://easilett.com/op/27_md/31/3/12/4/383653"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 193,
+    "html_length": 2505,
+    "has_text": true,
+    "has_html": true
+  }
+}

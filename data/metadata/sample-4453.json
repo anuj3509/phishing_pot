@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Verw��hnen Sie sich mit Milka ��� Gewinnen Sie jetzt ein 100���-Geschenkpaket!",
+    "from": "Milka-Geschenkpaket-Team, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Nov 2024 23:17:43 +0000",
+    "message_id": "<1ucQ4o2.0.0.1ucQ4o2.9.1ucQ4o2@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://limecastle.co.uk/eEdlNTVXZ0Q0cVJzVUxqcHJhaS9ubXE0endjUTZLN2dPcmlzdTdlczFBMkc0TFl6VFFIdCtsRm01UDN1R3FORUZJM3ZkYW9Vd1pFcnR4RUNtZHpVcWIwZDM3b213SUV4bDc0bG4wV1RJdU09",
+      "http://limecastle.co.uk/bnc0U0JVMFUvNkpXYit5eTY4akIySHJOVmN5eU43Q1BiQ0E4L2ZPVVlWWGhwdG1LNzNNeURYUElaZmQyYlNqS2JNNW9GS0JNekl0TlZaMGdGOWtUSmppME9NYk1odkJrRnBPUnFYUFY3Wnc9",
+      "https://www.upsearching.com/CCTHHS4/2D7FR581/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1712,
+    "html_length": 9445,
+    "has_text": true,
+    "has_html": true
+  }
+}

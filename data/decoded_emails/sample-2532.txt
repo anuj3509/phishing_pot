@@ -1,0 +1,508 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your application has been authorized! Redeem your Free Mint as  a special token of our warm welcome.!
+From: Illuvium <do-not-reply@bling.com.br>
+To: phishing@pot
+Date: Mon, 8 Jan 2024 14:53:09 -0300
+Message_Id: <7sqxajQX0GU0RIfPWHGrh0SOYU2SQRZ9pOSWdNGCI@www.bling.com.br>
+Content_Type: multipart/mixed;
+	boundary="b1_7sqxajQX0GU0RIfPWHGrh0SOYU2SQRZ9pOSWdNGCI"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: multipart/mixed;
+	boundary="b1_7sqxajQX0GU0RIfPWHGrh0SOYU2SQRZ9pOSWdNGCI"
+
+ATTACHMENTS:
+--------------------
+- 66d1ebea9e610afa8ccec4cf3607b21ba0f3a11b.pdf (application/pdf, 17822 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://ci4.googleusercontent.com/proxy/sPKBJivATEtsYTD2HGIbUWumPxR-o22N4nZdsmabpd2GAklVZwXJvL9Nd5_y5ZLwEZyB-yR2CQ4DUGaZ8qF7VlvvS4Z-zqHa4FfbKqGCObLHZkLhHozB9fJqN-xPjNekO_UwvNu2d4yHmafDXv06tENjE9pAKq86BK82XDC7NRrSwppoQQA-NdDkY95JGf1h6QGzjYxN1bjJsXOp9E2A_OaxxzS5uBkNb-Ll9u6qsvM=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/capture-trade-illuvials-mobile.png?width=1120&amp;upscale=true&amp;name=capture-trade-illuvials-mobile.png
+  - https://ci6.googleusercontent.com/proxy/vCu-bcRhtytV0AZe42gbzx_Ujn1Im3OmpFRilaZ0iBfixvFKaX2FIVBSr_doJapdQvvCw9UgZvamC4T_kFJi0b9OxKB7l4yMZ32dZnszEzLNSxi8gVyMCLbOkpP4eOn7encpGkThPRJpDXc9NssgldQGaMoVHM1uk7oIwuoTzvAV1XsNAk8LpUasCjucvXMltxML_sJFzSkztMTI-LMQzQg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(1).png?width=520&amp;upscale=true&amp;name=Untitled%20design%20(1).png
+  - https://ci3.googleusercontent.com/proxy/VRvH83iQ58E6fb3AlepWqiHjaH0Z1w0v4YRRGdFt4vPhC_mw2EnFBbybZDWSrYo70z_CyN6FPGBLbIOhaHpKdcm0FFG7CXoGmKbbOctltMJGtfExtlNbO_Z9RtHzEUUWESr5XCxU6CDNPDN4OnIwG-Nt0Hoao6bjp1cTAcvxGDLZmFJVmdVxQ0ozLPtNvBp7ixbwbMCZ5V5GB6YKdIEE9zg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(5).png?height=50&amp;upscale=true&amp;name=Untitled%20design%20(5).png
+  - https://ci5.googleusercontent.com/proxy/P9V1ViiMpTu-Vp6dncpVGWL-6M82pTIkHuxRms4EUMc45zsMZk769XrgFcCUtYNC9tMGq0F1a4NmxVhW2rSPthHvq37X3TF6MBPbeUdQf7dfkixgi1PPc3dM4BivDPMvQBAKNAkIFW__NEZnsewDocMqQJd3P1PIfAJ4y0nWm896jg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/telegram.png?height=50&amp;upscale=true&amp;name=telegram.png
+  - https://ci5.googleusercontent.com/proxy/GwQVwGPF8-rPKGawKSLBn7ukCsM2-BsufDD9RW4K3e02EiLcfk5CbtflsqXnmwoStR7TBSw9rheZY7wz18-ARFH9ViXJ8OjGUdn5FvcdZ_N9YHB9I1uqQEobFbUKzFQgiEm6XJL_b5nCEhRdfnFIJxLem24HixmBeTkOat55i06ClNkF9hRcinao=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/newshub_icon.png?height=50&amp;upscale=true&amp;name=newshub_icon.png
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3mwW3t6l_W2XxKNRW2JLK5C5xjcysW8D48Zv6H_k7gW8vdPgd5K4JYtW2h_hY936bKwZW8NhGkh93qH6MW8Pm_4D51cDw5N6SsZ9R8xxN8W52qCrz9dVyQnW4wfKNT363fS6W65nBK19bgbBFW7bpgdD1BsbS7W4dDhCy1hb6X0W8TvgvH65KQTLW93PrLD4y1ZXhW25dXWy5g6S_bW8MflS033drsBVklKtq6vSGf6VDvbdV7KqslZW51gL5C8LGFpQW3FTTbl678MSCW93XL1w7DZfqwf44Wstv04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw0Djw6ru5nfeAcZlaPw89tG
+  - www.gcloudbackup.com
+  - https://ci6.googleusercontent.com/proxy/19gYPJB2nv4Nh89me7UVwPC7B26JCzqXyO3wW9JO7KwcsDwAMWgwWC9QyRYNt-ljkBbicZ74YV6HpwfL5GzddxN-A60YMqF6V00ItFFKg6DRrwYGkWQ7kRk_PD6-p_wwjr0uil5RHNbLdYfJbXW89BiQ2dHkR5tdKjnZs7py5JMrnnD9AA-lp-KOrrcYAtpIgajahcn8wEKdHxF9xcLqVS0=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(6).png?height=50&amp;upscale=true&amp;name=Untitled%20design%20(6).png
+  - https://gcloud.zoolz.com/Account/ResetPassword?GvNnM5AG2iSX5S/g4HiW0JriBs7wcENnzpV/V0vs6ojL9TOIujNc4WsjMS4Qr9EOUdY9M11hWH4=
+  - https://ci6.googleusercontent.com/proxy/dfNW6X1qp4kOSnlcDh3awGEKt7AgUGXV9BHmcsyu1vFDoogXj1YTUdhHoev4yDjX07Lf5qveaFDUtLVWwSzLhkp3t4vkODi2zkUUdCafGRKaHvG60ua19L6pzlIAZePOyfaKyiuHC0OTpLIggjl0zwUWYASLrWaxUuOr2FYeK38=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/discord.png?height=50&amp;upscale=true&amp;name=discord.png
+  - https://url6691.getjobber.com/ls/click?upn=Gx6Pf38gonqBsndfmYW-2BgZurnm8RdPXay1XZoqaeN-2FkkE35IF-2Bx8n7gQFlWjyJGNC1cLeWSuGkima5JpzI84rA-3D-3DzTfh_YJUIMbyV4jc7sUgdD7aGKFC4pJIg68PzT3fZjx-2FxPL5Ws51RdA5o0Amzr-2FZmPfGafyLEM5M87kmbjY5J5QCGDJTiuX-2FPvh6djZCqukvXNs67tzqtIHUJ2-2F-2BR-2FXxxIlMuT7kz6eGSbFbqXUVx1AeuVEhFzlonoC-2BwJUzPyejCr-2BY9itPOEa6vzrrU6K0HB-2BH9xvLV2nsjtZwBYNki-2FGuGwzWy1yLaiSB1I8-2BG-2BjHWc-2FvOttOidTgj0INm0MtemrT7JvXDhPVZSIyRPVn6CdylHLtaFbDxw3DnTPTRh6JUi7bmujJQv6aFmB8DpSx02zCPK4WEMfQ4MzNfnTQ2pI8JBLm4Xx6EUtHG6b0-2BFfmOdUY-3D
+  - https://ci4.googleusercontent.com/proxy/BtVwyTgDrbe_qiUw-T7MxRRzloIa5X98_hrx6rGfqFi8ynCbS4qKHnMej13QqUfWrCQpkZVv8lKzUBJTvugU0lyXq2D0u_pE9-pOMJCpOf_2qM77cFkXQM4Jc9jAuI4bmrgwYkhhuI-ock-k7Uk1fxq5JRipsSHCDBFkZkhivr0=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/twitter.png?height=50&amp;upscale=true&amp;name=twitter.png
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3mGW1_3tkc7q6hQPN252SC13yHPCVCy_725NjDNhW2q_8SZ6V1MWxW6mLkCd2GBLKxN60DXh-Z8STZW5q3s7q3zB7fSW638HCs3XzWDTW4scDlH98BhlqW8RQBtH3XH2k5W8sFszt5CB0G6W9h4gqB2bmh1FW3NvtkS7y7lV4N10pYSpD5k6CW3nD2sL24ywz8W1zshYQ1Nz5GBN57g6Ms4y509W142FSl4vHTmnW1jn0kQ4ckD1cW1Rksbf7TQqJGW8P1vWh1bQ-9PW3Zh3rw3Ty9n9f6N0Q1T04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw2NWxN24M5I8wp_Pvzv3X_5
+  - https://ci4.googleusercontent.com/proxy/Cbh_HMyY8PLqA2SPRZHuDLU2l7xiVlYdqSZ5d_bO5aNA8aLrT7CBSseOjD82MfhL2XoIqbtGH8exQENYQl2IcfaU_TI2AGMVx0lfN7h66fGICSDxKB0hR1T2QFbcmc_9pt0WX3gEZ17uQjLf00WyocUzwMId9LOIqRPPe-lwLp1CWmslLm02EVmlbOnETV8iSivMnEtwE-e8oKXv0ot4X-Qf=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/raw_assets/public/bulldogs-email/divider.png?height=20&amp;upscale=true&amp;name=divider.png
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3lwW65MwzS4V3ZHsW6sWQd338yctpW5_L5Vn3CJ20qW3rzmHd3LSpHQW3yp8qn3s5QLcW60LYTw1mDTffW8VzGF260R1HxW8WBFjS8xRjM9W2KSKHk6LJvHFW61VRTK1zTVGqW55TzTJ2y5dB_W7Rn05x5ny_kHW6tPS5Y49F3Y0W2x4F_w484yZMN93Q3DHpvcHtW667bpK55RgCbW3SwBYZ6K3861N5L_Q_6Nmfb6W6DB1hN6g5_KrW2bbR-P58rPzFW79J_gy44zsFMN5GvZPHZKtKff145XkT04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw35K71tQXAWuC4lzvbAJOPK
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3lCN2ckK7YYmT_BW7Zx_qP2mLWJGW3bZQb13cWL0PMBNmJ39KCw9W5f8lYV2V5Jl2VCcpyM4dFdMSW8_Rcdn6f-Nb1W85yv2C74FDqxW5j7JLz6Jdr8VW65QNJj1_PxGMN1p64HWV54cTW1Vtwdn43dhT2W34jHpW8DL8lGW5xRdKg5knZy3N8Jz7pjkCrxJW8XnXWP2T7CM-V811364BczYgW38KGCD4Wxhf6W5ycHdR36hjTjW5wPdpw6kfH3xN6Mv47kM0ZFsW5qkhCY6fG3_1f5CYHXb04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw0-to9Bui32tZ29PrRRLB1i
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlv3m2ndW69sMD-6lZ3kGVZfgyv37MFtTW59j96D7QWlL7N5nwZnsDxB1NW3YM0Ht5kLK3CN2X9vNrWDBzKVQ4LLd83TbssW83fvqv7Lxy1TN55nt8VLwDbzW5nmt363HzJgxW1VdS9R389G7VW1YJlR74x2VYBW8RGRML9jDKKGW7XM_2v5BSWxFW2-B0Pc6H-q35VLLVPD5vR3-fW8DqL_s8wl-WDVPwYls7sTfKkW2ZxMm62m45mYVTb7Sp8mW0XRW2TfFjx3wDvz9f7_KNXK04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw1RAep1u0BAJ5EM4b689AeM
+  - http://www.gcloudbackup.com/
+  - https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlv3m2ndW69sMD-6lZ3kRW7F_3g7474D-NW5HRGxd4jKFW0W58rtS86hxHYCW4vp87S8fs853W1Jbx-F1dswVYW1X7PKc1MBq-RVvwDL54kvlt5N6PS6WHBXSGJW98yV4F71Z8pSW5V_JSD94fhlJW1JLPJl7NRHdCW1cNR1y5cXQpHW22dHq041K4FRW8Ks-3F8pVTBwW5nSTYB95nDYKW3CG6RV4_Ypb5W4PnGfV4NshpVN4X1YfM_W5NfV-L-sp4h3_GwN8mdnClYdXDzf8hKqfP04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw1ZI9fGGGOME6V2IDdISSRY
+  - illuvium.io
+  - https://ci6.googleusercontent.com/proxy/B8uavVUcbBHyomwMGBdM2URmYLWmx9FHA5UWnFvZkD2SZ41BMEw_Tcxa45fL9M8q6skErjt__3fTYGC0jixl5pDKADs2xO6hGvQpG767tl_NnbCsm2Ajrh6Qg6qv16vGFUlPkfRbGKzMT8a5_We0pmRXrcT2lc8wXOdgGtiCzeTScoi8ANOqtcJKIv0J7iFdN2wPOtlL5vDPBg5Ht8hHBzE=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(1).png?width=300&amp;upscale=true&amp;name=Untitled%20design%20(1).png
+
+DECODED TEXT CONTENT:
+------------------------------
+&nbsp; Announcing the Partnership into the esports realm featuring Illuvium x Team Liquid, who are legends on the scene!&nbsp; &nbsp; &nbsp; &nbsp; Dear Illuvium user, As a distinguished member of the Illuvium beta testing community, we invite you to mint your Illuvials for free! Mint Your Illuvials: Click the button below to mint your exclusive Illuvials. Access Code to the Overworld: Upon successfully minting your Illuvials, you will receive an access code to the Illuvium Overworld. This code grants you exclusive access to the game, allowing you to explore its immersive features. Ѕtагt Your 7-Day Adventure: Use the provided access code to dive into the Illuvium Overworld and embark on a 7-day gaming adventure. Ready to Mint Your Illuvials? &nbsp; &nbsp; Mint Now &nbsp; How to Get Started: 1. Visit Illuvium Beta Access Page and connect you main wallet. 2. Claim your Illuvials. 3. Download the beta version of Illuvium. Important Notes: Remember, this exclusive offer is available only to the&nbsp; beta testers. Fight for Eth Illuvium 2023, All rights reserved. Please email&nbsp; support@illuvium.io &nbsp;if you have questions. &nbsp; &nbsp; Forget Password link If you don't want to change your password, just ignore this message. Regards, G Cloud Team www.gcloudbackup.com &nbsp; Copyright © Genie9
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><br> <div>
+<div>&nbsp;</div>
+</div>
+<div style="margin: 0px; padding: 0px !important;
+color: #23496d; font-family: Arial,sans-serif;
+font-size: 15px;">
+<div style="color: #10003d; line-height: 1px;
+overflow: hidden; font-size: 1px; display: none;
+max-height: 0px; max-width: 0px; opacity:
+0;">Announcing the Partnership into the esports
+realm featuring Illuvium x Team Liquid, who are
+legends on the scene!&nbsp;</div>
+<div style="background-color: #10003d;">
+<table style="margin: 0px; padding: 0px; width:
+100% !important; height: 100% !important;
+border-collapse: collapse; min-width: 320px
+!important; border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;" valign="top">
+<div>
+<div style="padding-top: 20px; padding-right:
+10px; padding-left: 10px;">
+<div style="width: 100%; margin-right: auto;
+margin-left: auto; border-collapse: collapse;
+min-width: 280px; max-width: 600px;
+border-spacing: 0; background-color: #050413;">
+<div>
+<div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px; text-align: center;
+color: #23496d; font-family: Arial,sans-serif;
+font-size: 0px; border-collapse: collapse;" align="center" valign="top"><img style="font-size:
+16px; text-decoration: none; max-width: 100%;
+outline-style: none;" src="https://ci6.googleusercontent.com/proxy/vCu-bcRhtytV0AZe42gbzx_Ujn1Im3OmpFRilaZ0iBfixvFKaX2FIVBSr_doJapdQvvCw9UgZvamC4T_kFJi0b9OxKB7l4yMZ32dZnszEzLNSxi8gVyMCLbOkpP4eOn7encpGkThPRJpDXc9NssgldQGaMoVHM1uk7oIwuoTzvAV1XsNAk8LpUasCjucvXMltxML_sJFzSkztMTI-LMQzQg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(1).png?width=520&amp;upscale=true&amp;name=Untitled%20design%20(1).png" alt="Untitled design (1)" width="260" height="69" align="middle" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 10px 20px; text-align: center;
+color: #23496d; font-family: Arial,sans-serif;
+font-size: 0px; border-collapse: collapse;" align="center" valign="top"><img style="width:
+562px; height: 312px;" src="https://ci4.googleusercontent.com/proxy/sPKBJivATEtsYTD2HGIbUWumPxR-o22N4nZdsmabpd2GAklVZwXJvL9Nd5_y5ZLwEZyB-yR2CQ4DUGaZ8qF7VlvvS4Z-zqHa4FfbKqGCObLHZkLhHozB9fJqN-xPjNekO_UwvNu2d4yHmafDXv06tENjE9pAKq86BK82XDC7NRrSwppoQQA-NdDkY95JGf1h6QGzjYxN1bjJsXOp9E2A_OaxxzS5uBkNb-Ll9u6qsvM=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/capture-trade-illuvials-mobile.png?width=1120&amp;upscale=true&amp;name=capture-trade-illuvials-mobile.png" width="1119" height="443">&nbsp;
+<div dir="ltr" style="left: 983px; top: 380px;
+opacity: 0.01;">
+<div tabindex="0" aria-label="Download attachment" data-tooltip="Download" data-tooltip-="">
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px 0px 10px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div><img style="border-width: 0px; margin: 0px;
+width: 100%; height: 10px; text-decoration: none;
+max-width: 800px; outline-style: none;" src="https://ci4.googleusercontent.com/proxy/Cbh_HMyY8PLqA2SPRZHuDLU2l7xiVlYdqSZ5d_bO5aNA8aLrT7CBSseOjD82MfhL2XoIqbtGH8exQENYQl2IcfaU_TI2AGMVx0lfN7h66fGICSDxKB0hR1T2QFbcmc_9pt0WX3gEZ17uQjLf00WyocUzwMId9LOIqRPPe-lwLp1CWmslLm02EVmlbOnETV8iSivMnEtwE-e8oKXv0ot4X-Qf=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/raw_assets/public/bulldogs-email/divider.png?height=20&amp;upscale=true&amp;name=divider.png" width="286" height="10" data-bit="iit"></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px 40px 10px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div>
+<div>
+<p style="line-height: 175%; font-size:
+13px;">&nbsp;</p>
+<p style="line-height: 175%; font-size:
+13px;"><span style="color: #ffffff; font-size:
+8pt;">Dear Illuvium user,<br><br><br>As a
+distinguished member of the Illuvium beta testing
+community, we invite you to mint your Illuvials
+for free!<br><br><br>Mint Your Illuvials:
+Click the button below to mint your exclusive
+Illuvials.<br><br>Access Code to the
+Overworld:<br><br>Upon successfully minting
+your Illuvials, you will receive an access code to
+the Illuvium Overworld. This code grants you
+exclusive access to the game, allowing you to
+explore its immersive features.<br><br>Ѕtагt Your 7-Day Adventure: Use the provided
+access code to dive into the Illuvium Overworld
+and embark on a 7-day gaming adventure.<br><br>Ready to Mint Your Illuvials?</span></p>
+&nbsp;
+<p>&nbsp;</p>
+<div>
+<table style="border-collapse: separate
+!important; border-spacing: 0 !important;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="border-radius: 4px; width: 150px;
+color: #23496d; font-family: Arial,sans-serif;
+font-size: 15px; border-collapse: collapse;
+background-color: #490980;" align="center" valign="middle" bgcolor="#490980"><a style="margin: 0px; padding: 12px 18px; color:
+#00a4bd; text-transform: none; font-family:
+Arial,sans-serif; font-size: 13px;
+text-decoration: none; display: block;" href="https://url6691.getjobber.com/ls/click?upn=Gx6Pf38gonqBsndfmYW-2BgZurnm8RdPXay1XZoqaeN-2FkkE35IF-2Bx8n7gQFlWjyJGNC1cLeWSuGkima5JpzI84rA-3D-3DzTfh_YJUIMbyV4jc7sUgdD7aGKFC4pJIg68PzT3fZjx-2FxPL5Ws51RdA5o0Amzr-2FZmPfGafyLEM5M87kmbjY5J5QCGDJTiuX-2FPvh6djZCqukvXNs67tzqtIHUJ2-2F-2BR-2FXxxIlMuT7kz6eGSbFbqXUVx1AeuVEhFzlonoC-2BwJUzPyejCr-2BY9itPOEa6vzrrU6K0HB-2BH9xvLV2nsjtZwBYNki-2FGuGwzWy1yLaiSB1I8-2BG-2BjHWc-2FvOttOidTgj0INm0MtemrT7JvXDhPVZSIyRPVn6CdylHLtaFbDxw3DnTPTRh6JUi7bmujJQv6aFmB8DpSx02zCPK4WEMfQ4MzNfnTQ2pI8JBLm4Xx6EUtHG6b0-2BFfmOdUY-3D"><strong style="color: #ffffff; font-style: normal;
+font-weight: bold; text-decoration: none;">Mint
+Now </strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="line-height: 175%; font-size:
+13px;">&nbsp;</p>
+<p style="line-height: 175%; font-size:
+13px;"><span style="color: #ffffff; font-size:
+8pt;">How to Get Started:<br>1. Visit Illuvium
+Beta Access Page and connect you main wallet.<br>2. Claim your Illuvials.<br>3. Download the
+beta version of Illuvium.<br><br><br>Important Notes:<br>Remember, this exclusive
+offer is available only to the&nbsp; beta
+testers.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div style="padding-right: 10px; padding-bottom:
+20px; padding-left: 10px;">
+<div style="width: 100%; margin-right: auto;
+margin-left: auto; border-collapse: collapse;
+min-width: 280px; max-width: 600px;
+border-spacing: 0; background-color: #050413;">
+<div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px 40px 10px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div><img style="border-width: 0px; margin: 0px;
+width: 100%; height: 10px; text-decoration: none;
+max-width: 558px; outline-style: none;" src="https://ci4.googleusercontent.com/proxy/Cbh_HMyY8PLqA2SPRZHuDLU2l7xiVlYdqSZ5d_bO5aNA8aLrT7CBSseOjD82MfhL2XoIqbtGH8exQENYQl2IcfaU_TI2AGMVx0lfN7h66fGICSDxKB0hR1T2QFbcmc_9pt0WX3gEZ17uQjLf00WyocUzwMId9LOIqRPPe-lwLp1CWmslLm02EVmlbOnETV8iSivMnEtwE-e8oKXv0ot4X-Qf=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/raw_assets/public/bulldogs-email/divider.png?height=20&amp;upscale=true&amp;name=divider.png" width="286" height="10" data-bit="iit"></div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 25px 35px 25px 40px; color:
+#23496d; font-family: Arial,sans-serif; font-size:
+15px; border-collapse: collapse;">
+<div>
+<div>
+<p style="text-align: center; line-height: 175%;
+font-size: 13px; font-weight: bold;" align="center"><span style="color: #ffffff;">Fight
+for Eth</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 0px 20px; text-align: center;
+color: #23496d; font-family: Arial,sans-serif;
+font-size: 0px; border-collapse: collapse;" align="center" valign="top"><img style="font-size:
+16px; text-decoration: none; max-width: 100%;
+outline-style: none;" src="https://ci6.googleusercontent.com/proxy/B8uavVUcbBHyomwMGBdM2URmYLWmx9FHA5UWnFvZkD2SZ41BMEw_Tcxa45fL9M8q6skErjt__3fTYGC0jixl5pDKADs2xO6hGvQpG767tl_NnbCsm2Ajrh6Qg6qv16vGFUlPkfRbGKzMT8a5_We0pmRXrcT2lc8wXOdgGtiCzeTScoi8ANOqtcJKIv0J7iFdN2wPOtlL5vDPBg5Ht8hHBzE=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(1).png?width=300&amp;upscale=true&amp;name=Untitled%20design%20(1).png" alt="Untitled design (1)" width="150" height="40" align="middle" data-bit="iit"></td>
+</tr>
+</tbody>
+</table>
+</div>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 10px 20px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div>
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3mwW3t6l_W2XxKNRW2JLK5C5xjcysW8D48Zv6H_k7gW8vdPgd5K4JYtW2h_hY936bKwZW8NhGkh93qH6MW8Pm_4D51cDw5N6SsZ9R8xxN8W52qCrz9dVyQnW4wfKNT363fS6W65nBK19bgbBFW7bpgdD1BsbS7W4dDhCy1hb6X0W8TvgvH65KQTLW93PrLD4y1ZXhW25dXWy5g6S_bW8MflS033drsBVklKtq6vSGf6VDvbdV7KqslZW51gL5C8LGFpQW3FTTbl678MSCW93XL1w7DZfqwf44Wstv04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw0Djw6ru5nfeAcZlaPw89tG"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci6.googleusercontent.com/proxy/dfNW6X1qp4kOSnlcDh3awGEKt7AgUGXV9BHmcsyu1vFDoogXj1YTUdhHoev4yDjX07Lf5qveaFDUtLVWwSzLhkp3t4vkODi2zkUUdCafGRKaHvG60ua19L6pzlIAZePOyfaKyiuHC0OTpLIggjl0zwUWYASLrWaxUuOr2FYeK38=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/discord.png?height=50&amp;upscale=true&amp;name=discord.png" alt="discord" height="25" data-bit="iit">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlv3m2ndW69sMD-6lZ3kRW7F_3g7474D-NW5HRGxd4jKFW0W58rtS86hxHYCW4vp87S8fs853W1Jbx-F1dswVYW1X7PKc1MBq-RVvwDL54kvlt5N6PS6WHBXSGJW98yV4F71Z8pSW5V_JSD94fhlJW1JLPJl7NRHdCW1cNR1y5cXQpHW22dHq041K4FRW8Ks-3F8pVTBwW5nSTYB95nDYKW3CG6RV4_Ypb5W4PnGfV4NshpVN4X1YfM_W5NfV-L-sp4h3_GwN8mdnClYdXDzf8hKqfP04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw1ZI9fGGGOME6V2IDdISSRY"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci5.googleusercontent.com/proxy/GwQVwGPF8-rPKGawKSLBn7ukCsM2-BsufDD9RW4K3e02EiLcfk5CbtflsqXnmwoStR7TBSw9rheZY7wz18-ARFH9ViXJ8OjGUdn5FvcdZ_N9YHB9I1uqQEobFbUKzFQgiEm6XJL_b5nCEhRdfnFIJxLem24HixmBeTkOat55i06ClNkF9hRcinao=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/newshub_icon.png?height=50&amp;upscale=true&amp;name=newshub_icon.png" alt="newshub_icon" height="25" data-bit="iit">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlv3m2ndW69sMD-6lZ3kGVZfgyv37MFtTW59j96D7QWlL7N5nwZnsDxB1NW3YM0Ht5kLK3CN2X9vNrWDBzKVQ4LLd83TbssW83fvqv7Lxy1TN55nt8VLwDbzW5nmt363HzJgxW1VdS9R389G7VW1YJlR74x2VYBW8RGRML9jDKKGW7XM_2v5BSWxFW2-B0Pc6H-q35VLLVPD5vR3-fW8DqL_s8wl-WDVPwYls7sTfKkW2ZxMm62m45mYVTb7Sp8mW0XRW2TfFjx3wDvz9f7_KNXK04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw1RAep1u0BAJ5EM4b689AeM"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci5.googleusercontent.com/proxy/P9V1ViiMpTu-Vp6dncpVGWL-6M82pTIkHuxRms4EUMc45zsMZk769XrgFcCUtYNC9tMGq0F1a4NmxVhW2rSPthHvq37X3TF6MBPbeUdQf7dfkixgi1PPc3dM4BivDPMvQBAKNAkIFW__NEZnsewDocMqQJd3P1PIfAJ4y0nWm896jg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/telegram.png?height=50&amp;upscale=true&amp;name=telegram.png" alt="telegram" height="25" data-bit="iit">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3lwW65MwzS4V3ZHsW6sWQd338yctpW5_L5Vn3CJ20qW3rzmHd3LSpHQW3yp8qn3s5QLcW60LYTw1mDTffW8VzGF260R1HxW8WBFjS8xRjM9W2KSKHk6LJvHFW61VRTK1zTVGqW55TzTJ2y5dB_W7Rn05x5ny_kHW6tPS5Y49F3Y0W2x4F_w484yZMN93Q3DHpvcHtW667bpK55RgCbW3SwBYZ6K3861N5L_Q_6Nmfb6W6DB1hN6g5_KrW2bbR-P58rPzFW79J_gy44zsFMN5GvZPHZKtKff145XkT04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw35K71tQXAWuC4lzvbAJOPK"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci4.googleusercontent.com/proxy/BtVwyTgDrbe_qiUw-T7MxRRzloIa5X98_hrx6rGfqFi8ynCbS4qKHnMej13QqUfWrCQpkZVv8lKzUBJTvugU0lyXq2D0u_pE9-pOMJCpOf_2qM77cFkXQM4Jc9jAuI4bmrgwYkhhuI-ock-k7Uk1fxq5JRipsSHCDBFkZkhivr0=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/twitter.png?height=50&amp;upscale=true&amp;name=twitter.png" alt="twitter" height="25" data-bit="iit">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3mGW1_3tkc7q6hQPN252SC13yHPCVCy_725NjDNhW2q_8SZ6V1MWxW6mLkCd2GBLKxN60DXh-Z8STZW5q3s7q3zB7fSW638HCs3XzWDTW4scDlH98BhlqW8RQBtH3XH2k5W8sFszt5CB0G6W9h4gqB2bmh1FW3NvtkS7y7lV4N10pYSpD5k6CW3nD2sL24ywz8W1zshYQ1Nz5GBN57g6Ms4y509W142FSl4vHTmnW1jn0kQ4ckD1cW1Rksbf7TQqJGW8P1vWh1bQ-9PW3Zh3rw3Ty9n9f6N0Q1T04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw2NWxN24M5I8wp_Pvzv3X_5"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci6.googleusercontent.com/proxy/19gYPJB2nv4Nh89me7UVwPC7B26JCzqXyO3wW9JO7KwcsDwAMWgwWC9QyRYNt-ljkBbicZ74YV6HpwfL5GzddxN-A60YMqF6V00ItFFKg6DRrwYGkWQ7kRk_PD6-p_wwjr0uil5RHNbLdYfJbXW89BiQ2dHkR5tdKjnZs7py5JMrnnD9AA-lp-KOrrcYAtpIgajahcn8wEKdHxF9xcLqVS0=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(6).png?height=50&amp;upscale=true&amp;name=Untitled%20design%20(6).png" alt="Untitled design (6)" height="25" data-bit="iit"> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="color: #23496d; font-family:
+Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<table style="width: auto; text-align: center;
+border-collapse: collapse; border-spacing: 0
+!important;" align="center">
+<tbody>
+<tr align="center">
+<td style="padding: 8px 5px; color: #23496d;
+line-height: 1; font-family: Arial,sans-serif;
+font-size: 15px; vertical-align: middle;
+border-collapse: collapse;" valign="middle"><a style="color: #00a4bd; text-decoration: none
+!important;" href="#" data-saferedirecturl="https://www.google.com/url?q=https://d2G78g04.na1.hubspotlinks.com/Ctc/UC%2B113/d2G78g04/VW9F-V1Jgk38W5hj_mJ66X0gKW58c1_756srVMMtGxlP3m2ndW6N1vHY6lZ3lCN2ckK7YYmT_BW7Zx_qP2mLWJGW3bZQb13cWL0PMBNmJ39KCw9W5f8lYV2V5Jl2VCcpyM4dFdMSW8_Rcdn6f-Nb1W85yv2C74FDqxW5j7JLz6Jdr8VW65QNJj1_PxGMN1p64HWV54cTW1Vtwdn43dhT2W34jHpW8DL8lGW5xRdKg5knZy3N8Jz7pjkCrxJW8XnXWP2T7CM-V811364BczYgW38KGCD4Wxhf6W5ycHdR36hjTjW5wPdpw6kfH3xN6Mv47kM0ZFsW5qkhCY6fG3_1f5CYHXb04&amp;source=gmail&amp;ust=1701815648994000&amp;usg=AOvVaw0-to9Bui32tZ29PrRRLB1i"><img style="width: auto !important; height: 25px
+!important; text-decoration: none; vertical-align:
+middle; outline-style: none;" src="https://ci3.googleusercontent.com/proxy/VRvH83iQ58E6fb3AlepWqiHjaH0Z1w0v4YRRGdFt4vPhC_mw2EnFBbybZDWSrYo70z_CyN6FPGBLbIOhaHpKdcm0FFG7CXoGmKbbOctltMJGtfExtlNbO_Z9RtHzEUUWESr5XCxU6CDNPDN4OnIwG-Nt0Hoao6bjp1cTAcvxGDLZmFJVmdVxQ0ozLPtNvBp7ixbwbMCZ5V5GB6YKdIEE9zg=s0-d-e1-ft#https://hs-22538210.f.hubspotemail.net/hub/22538210/hubfs/Untitled%20design%20(5).png?height=50&amp;upscale=true&amp;name=Untitled%20design%20(5).png" alt="Untitled design (5)" height="25" data-bit="iit"> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 10px 20px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div>
+<div>
+<h2 style="margin: 0px; text-align: center;
+line-height: 175%; font-size: 11px;" align="center"><span style="color:
+#ffffff;">Illuvium 2023, All rights
+reserved.</span></h2>
+<p style="text-align: center; line-height: 175%;
+font-size: 9px;" align="center"><span style="color: #ffffff;">Please email&nbsp;<a href="mailto:support@illuvium.io">support@illuvium.io</a>&nbsp;if
+you have questions.</span></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse;
+border-spacing: 0 !important;" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 10px 20px; color: #23496d;
+font-family: Arial,sans-serif; font-size: 15px;
+border-collapse: collapse;">
+<div>&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<table style="width: 632px; color: #242424;
+text-transform: none; letter-spacing: normal;
+font-family: 'Segoe UI', 'Segoe UI Web (West
+European)', 'Segoe UI', -apple-system,
+BlinkMacSystemFont, Roboto, 'Helvetica Neue',
+sans-serif; font-size: 15px; font-style: normal;
+font-weight: 400; word-spacing: 0px; white-space:
+normal; orphans: 2; widows: 2; font-stretch:
+inherit; font-feature-settings: inherit;
+background-color: #ffffff; font-variant-ligatures:
+normal; font-variant-caps: normal;
+-webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial;
+text-decoration-style: initial;
+text-decoration-color: initial;
+font-variant-numeric: inherit;
+font-variant-east-asian: inherit;
+font-variant-alternates: inherit;
+font-variant-position: inherit;
+font-optical-sizing: inherit; font-kerning:
+inherit; font-variation-settings: inherit;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr style="color: #383838; font-family: Tahoma,
+Geneva, sans-serif; font-size: 14px;">
+<td style="white-space: normal !important;" align="center">
+<table style="border: 1px solid #d9d9d9; width:
+632px; font-size-adjust: inherit; font-stretch:
+inherit;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="height: 40px; padding-left: 33px;
+border-bottom-color: #d9d9d9; border-bottom-width:
+1px; border-bottom-style: solid; white-space:
+normal !important;" align="left">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 33px; color: #333333;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+font-size: 14px; white-space: normal !important;
+background-color: #ffffff;" align="left"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br aria-hidden="true"><br aria-hidden="true">
+<div style="margin: 0px; padding: 0px;
+vertical-align: baseline; font-size-adjust:
+inherit; font-stretch: inherit;" align="center"><strong><a style="margin: 0px;
+padding: 0px; color: #2b7fb6; vertical-align:
+baseline; font-size-adjust: inherit; font-stretch:
+inherit;" href="https://gcloud.zoolz.com/Account/ResetPassword?GvNnM5AG2iSX5S/g4HiW0JriBs7wcENnzpV/V0vs6ojL9TOIujNc4WsjMS4Qr9EOUdY9M11hWH4=" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Forget Password
+link</a></strong></div>
+<br aria-hidden="true">If you don't want to
+change your password, just ignore this message.<br aria-hidden="true"><br aria-hidden="true"><span style="margin: 0px; padding: 0px;
+font-family: inherit; font-size: 14px;
+vertical-align: baseline; font-stretch: inherit;
+font-feature-settings: inherit;
+font-optical-sizing: inherit; font-kerning:
+inherit; font-variation-settings:
+inherit;">Regards,</span><br aria-hidden="true">G Cloud Team<br aria-hidden="true"><a style="margin: 0px; padding: 0px; color: #2b7fb6;
+vertical-align: baseline; font-size-adjust:
+inherit; font-stretch: inherit;" href="http://www.gcloudbackup.com/" rel="noopener
+noreferrer" data-auth="NotApplicable" data-linkindex="1">www.gcloudbackup.com</a>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="height: 50px; color: #888888;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana;
+font-size: 11px; white-space: normal !important;" align="left"><br style="line-height: 5px;" aria-hidden="true">Copyright © Genie9</td>
+</tr>
+</tbody>
+</table><br><br>
+

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "RE:phishing@pot, wir haben versucht Sie zu erreichen, leider ohne Erfolg.",
+    "from": "MEDIAMARKT Zustellung, MEDIAMARKT Zustellung <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 19 Jul 2024 06:58:34 +0000",
+    "message_id": "<612788449565562.3.YQA5555873782@hamham.uk.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://fullnf.com/4QnOEO46239AnGq929xdcaifchch1742HFBIKKPWPXWCCLV746JUTJ34365a9",
+      "http://fullnf.com/6toXxs46239NUTK929vniotdrixa1742YZCMMHRFJLHERQE746IRWT34365x9",
+      "http://www.w3.org/1999/xhtml",
+      "http://fullnf.com/track/3TfSNd46239rvtx929tnfohvjzjc1742DYSKOZMFNDGRXWK746XNUZ34365d9",
+      "https://sf22.sendsfx.com/admin/temp/user/2/mm-s23-header-de.jpg",
+      "http://fullnf.com/4iyQAy46239UcRL929qhzgxkrted1742KHRTQBHGCTAXHBZ746MKUU34365Z9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1674,
+    "html_length": 9798,
+    "has_text": true,
+    "has_html": true
+  }
+}

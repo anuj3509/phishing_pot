@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Join the SIMPSON Airdrop",
+    "from": "Homer Simpson <support@kyanisale.whereismine.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 08 Jun 2024 00:45:39 +0000",
+    "message_id": "<VF5WPANWANU4.BLRL1I0T1JWB@kyanisale.whereismine.com>",
+    "content_type": "multipart/alternative; boundary=\"=-V8pbq3edX5j6X/JH3YEhyA==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-V8pbq3edX5j6X/JH3YEhyA==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "http://www.w3.org/1999/xhtml",
+      "a.es-button,",
+      "button.es-button",
+      "tr.es-desk-hidden,",
+      "https://google.ee/amp/s/rb.gy/dy6npe",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      "https://imgtr.ee/images/2024/05/25/e43c96d0d1e10a63d4809ffda0714a45.png",
+      "table.es-desk-hidden",
+      "https://google.jo/amp/s/rb.gy/dy6npe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 749,
+    "html_length": 18843,
+    "has_text": true,
+    "has_html": true
+  }
+}

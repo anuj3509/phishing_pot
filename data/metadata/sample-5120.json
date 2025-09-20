@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Your Bittrex Account contains substantial holdings – Final Reminder!",
+    "from": "Bittrex Global <kitsapcounty@public.govdelivery.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 27 Mar 2025 02:11:09 +0000",
+    "message_id": "<01000195d55e1c7b-bfc8be60-6348-4cfd-a496-41bbea9170ec-000000@us-east-1.messagingfabric.com>",
+    "content_type": "multipart/mixed; boundary=\"===============0011138759199641049==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============0011138759199641049==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://content.govdelivery.com/images/govd-logo-dark.png",
+      "https://links-1.govdelivery.com/CL0/https:%2F%2Fsubscriberhelp.granicus.com%2F/1/01000195d55e1c7b-bfc8be60-6348-4cfd-a496-41bbea9170ec-000000/Iet52PvVNfDMsF7rLrd8gapJifbQDP2GfZADWn9s_6k=398",
+      "https://links-1.govdelivery.com/CI1/01000195d55e1c7b-bfc8be60-6348-4cfd-a496-41bbea9170ec-000000/Za-rDgVTK3xulhS-AtROyFcwywt4ZxQ595Fj_EZ4osI=398",
+      "http://www.w3.org/1999/xhtml",
+      "https://links-1.govdelivery.com/CL0/https:%2F%2Ft.co%2FjrVO9DRo2Z/1/01000195d55e1c7b-bfc8be60-6348-4cfd-a496-41bbea9170ec-000000/bgsswskYc41NnMVkFGd4h6-Os6PU_7fJKGoei3--BZs=398",
+      "https://subscriberhelp.granicus.com/",
+      "https://t.co/jrVO9DRo2Z"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1413,
+    "html_length": 7318,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Confirm your information",
+    "from": "Microsoft Personal <noreply@m-energies.fr>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Oct 2023 15:30:18 +0000",
+    "message_id": "<ff669f61-941e-9df7-b0eb-f8627e3e0b53@m-energies.fr>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bing.com/ck/a?!&amp;&amp;p=8b91620976398f42JmltdHM9MTY5ODI3ODQwMCZpZ3VpZD0wYzU3NmY3OC0zYTQ1LTZiY2MtM2NlOC03Y2U1M2I1NTZhN2QmaW5zaWQ9NTIzOQ&amp;ptn=3&amp;hsh=3&amp;fclid=0c576f78-3a45-6bcc-3ce8-7ce53b556a7d&amp;psq=mykidsdentist.com.au&amp;u=a1aHR0cDovL3d3dy5teWtpZHNkZW50aXN0LmNvbS5hdS9sb3NpbmctYmFieS10ZWV0aC8&amp;ntb=1DQONHLSXAP",
+      "hotmail.com",
+      "https://images.ecomm.microsoft.com/cdn/mediahandler/azure-emails-templates/production/shared/images/templates/shared/microsoft-2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 491,
+    "html_length": 3186,
+    "has_text": true,
+    "has_html": true
+  }
+}

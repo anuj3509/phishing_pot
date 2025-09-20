@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Zou graag even met je willen praten",
+    "from": "Sakara <oNz9zBXS@r.medium-cartomancy.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Jan 2023 22:59:21 +0000",
+    "message_id": "<0.0.0.0.1D930477F380EF6.2862@778057.cn>",
+    "content_type": "text/html; charset=\"UTF-8\"s"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\"s"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://secure-netcloud.com/?a=73&amp;c=143&amp;s1=24JANNLHOT&amp;email=phishing@pot",
+      "http://secure-netcloud.com/?a=73&amp;c=143&amp;s1=24NLHOT&amp;email=phishing@pot",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2377,
+    "html_length": 9271,
+    "has_text": true,
+    "has_html": true
+  }
+}

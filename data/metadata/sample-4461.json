@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Ol�� phishing@potfp, Regularize a Taxa da Sua Encomenda! 410",
+    "from": "Financeiro dos Correios <no-reply@taxacorreios410>",
+    "to": "phishing@pot",
+    "date": "Mon,  2 Dec 2024 15:56:34 +0000 (UTC)",
+    "message_id": "<20241202155634.5421D4742F@Ubuntu-mrne-1vcpu-1gb-35gb-intel>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://suanataxacao.com/taxas/gomeuspontos410"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 712,
+    "html_length": 3196,
+    "has_text": true,
+    "has_html": true
+  }
+}

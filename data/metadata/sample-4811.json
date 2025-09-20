@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Wir gratulieren Dir recht herzlich!",
+    "from": "Milka <phishing@pot>, Milka <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 1 Feb 2025 01:18:55 +0100",
+    "message_id": "<H5Evyib.0.0.H5Evyib.9.H5Evyib@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://getclients.us/R2JMRk4wR2hLbE4yelYvQkpIMXhPSWFQc09Nc1o2dTk1R3BtVkRVdXROVE5LeEdzRk4wbmFKYWhReG5ldy9DZ1Rxb3M2OXRGQWxoVUU1citrYUFtTmc9PQ__",
+      "http://getclients.us/ZXI1SFgwR3pYUVNqQVB2d1JVdGNUVitFMDBPRzM2elo1WmlLb1NBTHkwclNsdXJSWVo1Z25WenZ2U3V2OGl0cm1TelVNRjJvblNaSFVjQVRoWGNmMWc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/39/fmm9.jpg",
+      "https://lifeinsureand.com/?a=7790&amp;oc=22629&amp;c=59691&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1712,
+    "html_length": 9259,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Important Update About Your Ledger Account",
+    "from": "Ledger <noreply@info.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 9 Jun 2025 19:35:20 +0000",
+    "message_id": "<20250609193520.6BF949B1AD48CA41@info.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "security alert",
+      "immediate action required"
+    ],
+    "urls": [
+      "https://secure-ledger-access.s3.us-east-1.amazonaws.com/logo.png",
+      "https://secure-ledger-access.s3.us-east-1.amazonaws.com/recovery.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 890,
+    "html_length": 3686,
+    "has_text": true,
+    "has_html": true
+  }
+}

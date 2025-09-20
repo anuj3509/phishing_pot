@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Attention.Ok.",
+    "from": "\"Antony Blinken\" <>",
+    "to": "Recipients <>",
+    "date": "Wed, 11 Sep 2024 00:29:43 -0700",
+    "message_id": "<SANASRV22gjlmfqbRpD001c0b68@SANASrv22>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2801,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

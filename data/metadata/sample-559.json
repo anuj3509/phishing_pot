@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "Ether <williamsfamjhon@icloud.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Wed, 05 Apr 2023 16:27:59",
+    "message_id": "<2K4N094E3UE7VPN984N8BLVTY9U0TFUI60C75BLNNP228K10ZMJNXI1X4UHH@us-west-2.amazonses.com>",
+    "content_type": "multipart/alternative; boundary=\"_1003_H3X48L6H81YC53EQZD7D5T9O5D9KFHN0FF2N90988F8301J1MTT523M09H54_\"\r\n  \r\n  "
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_1003_H3X48L6H81YC53EQZD7D5T9O5D9KFHN0FF2N90988F8301J1MTT523M09H54_\"\r\n  \r\n  "
+  },
+  "attachments": [
+    {
+      "filename": "pBDp08qj9IiC6.pdf",
+      "content_type": "application/pdf",
+      "size": 60262
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9,
+    "html_length": 84,
+    "has_text": true,
+    "has_html": true
+  }
+}

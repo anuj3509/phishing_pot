@@ -1,0 +1,149 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Seu pedido foi bloqueado !
+From: Correios <alfandega@correios.com.br>
+To: RODRIGO-F-P@HOTMAIL.COM
+Date: Tue, 8 Oct 2024 18:00:03 +0000
+Message_Id: <351072f333b0cb3f7789548339146982@patraoluis.com.br>
+Content_Type: text/html; charset="iso-8859-1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="iso-8859-1"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://qlpgroup.com.br/correios8927/?cliente=RODRIGO-F-P@HOTMAIL.COM
+  - HOTMAIL.COM
+
+DECODED TEXT CONTENT:
+------------------------------
+Notificação de Encomenda Retida - Correios body { font-family: 'Arial', sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; } .container { max-width: 600px; margin: 40px auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); } .header { background-color: #014169; /* Azul Correios */ color: #ffffff; padding: 20px; text-align: center; } .header img { width: 120px; margin-bottom: 10px; } .header h1 { font-size: 26px; margin: 0; } .content { padding: 30px; text-align: center; color: #333; } .content h2 { font-size: 22px; color: #014169; margin-bottom: 20px; } .content p { font-size: 16px; margin-bottom: 20px; line-height: 1.6; } .content .tracking-info { background-color: #FFCC00; /* Amarelo Correios */ padding: 15px; border-radius: 8px; margin-bottom: 30px; color: #0033A0; font-size: 18px; font-weight: bold; } .content .tracking-info p { margin: 0; } .content .deadline { background-color: #eaf1f8; padding: 15px; border-radius: 8px; margin-bottom: 30px; color: #014169; font-size: 16px; } .button { display: inline-block; padding: 15px 30px; background-color: #014169; color: #ffffff; text-decoration: none; border-radius: 5px; font-size: 18px; transition: background-color 0.3s ease; } .button:hover { background-color: #014169; } .footer { background-color: #FFCC00; /* Amarelo Correios */ color: #0033A0; padding: 15px; text-align: center; font-size: 14px; } .footer p { margin: 0; } Notificação de Encomenda Retida Prezado(a) RODRIGO-F-P@HOTMAIL.COM A sua encomenda possui tributo e/ou taxa de Correios a serem pagos. Após a confirmação do pagamento, a mesma seguirá para distribuição. Clique na opção abaixo para visualizar a encomenda e efetuar o pagamento dos tributos. O prazo para pagamento da taxa alfandegaria é até 12/10/2024 . Após essa data, sua encomenda poderá ser devolvida ao remetente. Acompanhar encomenda © 2024 Correios - Todos os direitos reservados.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Encomenda Retida - Correios</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #014169; /* Azul Correios */
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        .header img {
+            width: 120px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            font-size: 26px;
+            margin: 0;
+        }
+        .content {
+            padding: 30px;
+            text-align: center;
+            color: #333;
+        }
+        .content h2 {
+            font-size: 22px;
+            color: #014169;
+            margin-bottom: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        .content .tracking-info {
+            background-color: #FFCC00; /* Amarelo Correios */
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #0033A0;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content .tracking-info p {
+            margin: 0;
+        }
+        .content .deadline {
+            background-color: #eaf1f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #014169;
+            font-size: 16px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #014169;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #014169;
+        }
+        .footer {
+            background-color: #FFCC00; /* Amarelo Correios */
+            color: #0033A0;
+            padding: 15px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Notificação de Encomenda Retida</h1>
+        </div>
+        <div class="content">
+            <h2>Prezado(a) RODRIGO-F-P@HOTMAIL.COM
+</h2>
+            <p>A sua encomenda possui tributo e/ou taxa de Correios a serem pagos. Após a confirmação do pagamento, a mesma seguirá para distribuição.
+			Clique na opção abaixo para visualizar a encomenda e efetuar o pagamento dos tributos.</p>
+            
+            <div class="deadline">
+                <p>O prazo para pagamento da taxa alfandegaria é até <strong>12/10/2024</strong>. Após essa data, sua encomenda poderá ser devolvida ao remetente.</p>
+            </div>
+            <a href="https://qlpgroup.com.br/correios8927/?cliente=RODRIGO-F-P@HOTMAIL.COM
+" class="button">Acompanhar encomenda</a>
+        </div>
+        <div class="footer">
+            <p>© 2024 Correios - Todos os direitos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+

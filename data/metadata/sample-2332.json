@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot Wir gratulieren Ihnen sehr herzlich.",
+    "from": "Fressnapf friends gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Dec 2023 10:47:27 +0100",
+    "message_id": "<rlA7U1e.0.0.rlA7U1e.9.rlA7U1e@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/49/c4fh.jpg",
+      "http://gutschein.theowensfamily.info/V2xIZVdDMEh3UEFNSkZ2NUZUemFrWVNhdFUwZWdDeWJOb3BMYmVlM1RnZ1doWFlwRTZTNFFmSVRaNzgzNWJlUnZ3YXdsQzEwRlR6cGc3ZHlhU2pvUnptc2NWbnk2Y2I1MVJMWXVXdEp1MlU9",
+      "www.zupimages.net/up/23/49/c4fh.jpg",
+      "https://fnnl-check.com/?a=6073&amp;oc=19822&amp;c=53640&amp;m=3&amp;s1=",
+      "http://gutschein.theowensfamily.info/ekVWRmJQQlRUWlpaaXE2N0MwUzNsUVg2SEdVeHZSTVlQOTBLaVJYZTlmSUxtWXhJRm5ra3lEdUZ3QkJic2tUaDc2MGh0WDZtdFhBckVLZ0lMdmIzOHZTWFZlQXFnOUM4SG5NSGZOOWxFT009"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8583,
+    "has_text": true,
+    "has_html": true
+  }
+}

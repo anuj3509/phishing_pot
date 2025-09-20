@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "YOUR URGENT ATTENTION IS NEEDED.REF/400BR/134",
+    "from": "\"Mr. Charles Koch\" <admin@office.org>",
+    "to": "Undisclosed recipients:;",
+    "date": "Fri, 23 Feb 2024 11:01:09 -0800",
+    "message_id": "<32968f2d-e9ac-43ca-8b17-dcfa28e17105@PHSHPDCLSTR001B.HPDWINAD.HPD>",
+    "content_type": "text/html; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)",
+      "http://en.wikipedia.org/wiki/David_H._Koch"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 811,
+    "html_length": 1469,
+    "has_text": true,
+    "has_html": true
+  }
+}

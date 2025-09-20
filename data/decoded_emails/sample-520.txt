@@ -1,0 +1,75 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Fw: Goodday
+From: phishing@pot <phishing@pot>
+To: "phish.me.again@gmail.com" <Phish.me.again@gmail.com>
+Date: Mon, 27 Mar 2023 12:37:18 +0000
+Message_Id: 
+ <SA0PR04MB737028717CFE67A3EB8084DAB38B9@SA0PR04MB7370.namprd04.prod.outlook.com>
+Content_Type: multipart/alternative;
+	boundary="_000_SA0PR04MB737028717CFE67A3EB8084DAB38B9SA0PR04MB7370namp_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_000_SA0PR04MB737028717CFE67A3EB8084DAB38B9SA0PR04MB7370namp_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - nils.haberzettl@stud.evhn.de&gt;
+  - nils.haberzettl@stud.evhn.de
+
+DECODED TEXT CONTENT:
+------------------------------
+
+________________________________
+De: Juliette Lamour <nils.haberzettl@stud.evhn.de>
+Enviado: segunda-feira, 27 de março de 2023 05:24
+Assunto: Goodday
+
+
+
+--
+       This private memo means that you have been approved for a relief
+package from the JULIETTE LAMOUR RELIEF PROGRAM. Kindly reply to get
+more details about your pending package.
+
+Yours sincerely,
+Marc Janssens (Announcer)
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div></div>
+<br>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>De:</b> Juliette Lamour &lt;nils.haberzettl@stud.evhn.de&gt;<br>
+<b>Enviado:</b> segunda-feira, 27 de março de 2023 05:24<br>
+<b>Assunto:</b> Goodday</font>
+<div>&nbsp;</div>
+</div>
+<div class="BodyFragment"><font size="2"><span style="font-size:11pt;">
+<div class="PlainText"><br>
+<br>
+-- <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This private memo means that you have been approved for a relief <br>
+package from the JULIETTE LAMOUR RELIEF PROGRAM. Kindly reply to get <br>
+more details about your pending package.<br>
+<br>
+Yours sincerely,<br>
+Marc Janssens (Announcer)<br>
+</div>
+</span></font></div>
+</body>
+</html>
+

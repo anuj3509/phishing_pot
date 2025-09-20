@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Re: \"Your McAfee Subscription may have ENDED. 60% OFF NOW!\"",
+    "from": "Anti-Virus Protection <pusxa@proteschip.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 06 Nov 2022 22:31:01 +0000",
+    "message_id": "\r\n <15c63422-872c-42a2-8c94-3dd17f749651@BN8NAM12FT011.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/dcTIDNI.png",
+      "https://i.imgur.com/X0OkO1W.png",
+      "https://rb.gy/4ydc8v",
+      "https://rb.gy/cbzums"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8393,
+    "html_length": 10850,
+    "has_text": true,
+    "has_html": true
+  }
+}

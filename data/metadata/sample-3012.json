@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Guten Tag phishing@pot-f-p,",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Mar 2024 11:06:50 +0100",
+    "message_id": "<poMf86P.0.0.poMf86P.9.poMf86P@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/22/19/4hts.jpg",
+      "https://www.zupimages.net/up/22/19/4hts.jpg",
+      "https://directfwd-2.com/?a=7991&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=1&amp;s2=1",
+      "http://jumiausa.shop/TTFVMGl2cFo4dFMxcHEvV09rME5WNE9jdHlla3dFakNDaHZUS0V6UHFYb2RPNlFmQS9uTklPMDI5dGllWXpUS2JnUFlidEZpNGpIZEgzQkxNWHdaUFE9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "http://jumiausa.shop/akQ2SG1UcThTZTFpaGduM3dwNkEwNjNvZzNLWVpnbnhCQWIwN0NlcGxlb1VscTdoSCt0VVo5eWdJUVZPRnBESFVscHlGNXJKWjBjbzUwcFh6Y21IdWc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8541,
+    "has_text": true,
+    "has_html": true
+  }
+}

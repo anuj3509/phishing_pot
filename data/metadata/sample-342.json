@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Your wallet is about to be suspended",
+    "from": "MetaMask <integration@crowdskout.com>",
+    "to": "phish@pot",
+    "date": "Sun, 19 Feb 2023 21:25:23 +0000",
+    "message_id": "<010001866b913296-7230937d-51ac-42e5-8cc0-1ea6ecabe07e-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_2265378_1654556209.1676841923212\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_2265378_1654556209.1676841923212\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/ad0d61769970917c7cc7a2795fd94588f5e15938.png",
+      "http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/317ec339913b4a1cd93cab73ae9eb8cef6c0070f.png",
+      "pwc.com",
+      "https://links.iterable.com/u/click?_t=3e212efd173743f687f2c6077ac89d05&_m=c1102b21ae5240839150878619e57ae5&_e=AejBylUAAGbhWV9Yao87CSZDPOoRfVfWZUJh_4epm28ZRo94W5koAo_UJipFPeqUmad3UTK78e6u8zHdjJgn8X--TgJ7IJXFhHV5AX7cYlMPjSEZFsB9BJCP8Sh9k-0nb4Rxc-tKFeGt8oC-otaSin1fdJ9flCfWRviq9Rx58kRnWmOPQ01X97XV3r_W-KcraI-qOHQVaXFEqYkr4ZcZkFGrrK8HfEgQLCEJtl2oMjk%3D",
+      "https://links.iterable.com/e/eo?_t=3e212efd173743f687f2c6077ac89d05&amp;_m=c1102b21ae5240839150878619e57ae5&amp;_e=koxYW5tRO0wZk5J0i5VR88kyPHD7otL90Iag6OvuKavwjWR3rO4N7k-Zdv5sLjzBhJIlFbQSoEZloIHnMy6WonA7o34OMcSTxwROQZMzcT6Ys2vPKbw_cIy99OlBUyzuRxS74BDDy0maJgYA3olXLA%3D%3D",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://network.mymetas.info/kyc/app/index.php",
+      "https://verification.metamask.io/KYC?id=000#64841111326",
+      "https://links.iterable.com/e/encryptedUnsubscribe?_r=3e212efd173743f687f2c6077ac89d05&_s=c1102b21ae5240839150878619e57ae5&_t=koxYW5tRO0wZk5J0i5VR88kyPHD7otL90Iag6OvuKavwjWR3rO4N7k-Zdv5sLjzBhJIlFbQSoEZloIHnMy6WonA7o34OMcSTxwROQZMzcT7NKGfHkDTGN-sPTRnaQQYJ",
+      "http://www.w3.org/1999/xhtml",
+      "https://verification.",
+      "metamask.io/KYC?id=000#64841111326",
+      "https://links.iterable.com/u/click?_t=3e212efd173743f687f2c6077ac89d05&_m=c1102b21ae5240839150878619e57ae5&_e=AejBylUAAGbhWV9Yao87CZI-D42U-jgQgBruvj6jA_oCNbOpKdZy-_ZHLdl6da34JgBOLTvAiK9CIyn85DNcSgxFfUcafhHoFpX2fJ3RYW1W3ROM2ILFsYgfERR7YaIut6Z0rpqDucpp6d5Q6DRbuuveT8SVAYfRqPMCSSUeb6HNLN6XTD4U4h9n3Ab46LfM-EHdgOlj0sYthkKcoJXy3pwb_FH4ZPLaOsKVMUZauNk%3D",
+      "http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/c50aaf2746dfa9ae04df9c8dbe0a7dcd3596384d.png",
+      "http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/76d3c4010b9dd8043e4f1ebaa79e210bbd853a57.png",
+      "https://a47.verifycontract.info/kyc/app/index.php",
+      "https://links.iterable.com/u/click?_t=3e212efd173743f687f2c6077ac89d05&_m=c1102b21ae5240839150878619e57ae5&_e=AejBylUAAGbhWV9Yao87CSZDPOoRfVfWZUJh_4epm28ZRo94W5koAo_UJipFPeqUmad3UTK78e6u8zHdjJgn8Qsiy6PzQrtft-8rlCcY7a7hv2hg8ayr9RpnrGH5uaR962dYuoE2o7DIJwUcqRBEd-FXGfPfUQgPwW145Pf1amuouomazvQGOt35f_slWa8uM69Kj9nxXhD0rJSJxY481U0iBIIcZ1VP0h6T6kzHjqk%3D",
+      "http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/bded7189d484b714539d4ca7e9d3a9d46cff6d89.png",
+      "https://links.iterable.com/u/click?_t=3e212efd173743f687f2c6077ac89d05&_m=c1102b21ae5240839150878619e57ae5&_e=AejBylUAAGbhWV9Yao87CSZDPOoRfVfWZUJh_4epm28ZRo94W5koAo_UJipFPeqUmad3UTK78e6u8zHdjJgn8a_qEjQxCfGoGcoS6-VuuRluPCtBXdi2YyGhEzKPpFcqupPU_XMnqLf7HftHpr2mbhUWpp2MsEfq75xhLM6sz6nAfIKASUlyee6IySyEzowjYYMsXTRu7eHouSbZjHDzRmdGqzL4Dgp4ll7thJnXVIk%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1627,
+    "html_length": 46173,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: Você acaba de receber um bônus de 695.250 MIL pontos que precisam ser resgatados até amanhã! Identificação: 64380230",
+    "from": "Bradesco <seginfomail881833@bradesco>",
+    "to": "phishing@pot",
+    "date": "Sat, 22 Jun 2024 07:40:46 +0000",
+    "message_id": "<00c238d7e9bd6b7f36c5d9b1736f6fda@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_00c238d7e9bd6b7f36c5d9b1736f6fda\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_00c238d7e9bd6b7f36c5d9b1736f6fda\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/GpPrN0R/marcador.png",
+      "https://i.ibb.co/StnMdLc/logo.png",
+      "https://resgatarseguropontos.com/clienteseguranca",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 7343,
+    "has_text": true,
+    "has_html": true
+  }
+}

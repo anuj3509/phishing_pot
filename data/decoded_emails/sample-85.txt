@@ -1,0 +1,282 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Alerta de seguranca: houve um acesso de um novo dispositivo na sua conta. Protocolo: 689320153
+From: Mercado Pago <Mplogin@mercadopagoberssl.xyz>
+To: phishing@pot
+Date: Mon,  3 Oct 2022 16:17:43 +0300 (MSK)
+Message_Id: <20221003131743.1FA8BA64D1@mercadopagoberssl.xyz>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.mercadopago.com.br
+  - https://u9647731.ct.sendgrid.net/wf/open?upn=h3EYRiceYmcE2w0m2fAsUTxwCrEdA2-2FPUE9BXzRqeJEXSk6pD0nzjJvm13Eb5c-2BYona8AwZZKUcUElC-2FutFq7EWRuVC0agJkvoO42hotQPkTMwQdptsGp4FWhWHx8bHepEtO7jl7Wv1nZ-2F7sB8PUeJD-2Fih9oIX3Mg0HmdpPA7N-2Be95WZ8-2BvcdmobxQPVR3z39To41I-2BWEIEYii0xWFJUL33bSHKIoSmPWOvX2BqfGis09DGgwO6hXzN5bG9s4jqnVq5H4eZDyqt-2BwteIWn3Fh1FZW8I-2FfJjNhZ9m2ad1TTz-2FoYoZvTMHG04vwyZylxa3-2F6oaUiXSPg6F2T4NWTuhKkCmoCWoBle2PtwmQN-2FBsWAXtyp0vl6x6jZKbut7HtZr-2BHQKCh5oXvDD2hznhV8YZ-2Bo3bmV4GXjYJIRMsbhoPvu7Bppv1yD7PzwGuiWMVJyIF2XSiAZhGw4SSJdO0fSDXVBZ1J10rAfdsMh-2B0TuXAO1wj-2F-2FQDCLqTFMrM-2Fxm-2BB8erOwubhPPRLDuw0q4-2FaMgn26zPPLCbnQ2Tu7vfUFymxn8yEn-2Buqav6hnNhLY281RCAuD1qCrlK6hosfAvilP9B5kxtCzd6zq5DSgTWC3LSUL3NVmCvqDA-2BD1tftEeWkjTx-2B2-2B87eA3IMlb-2F3XV-2F7JO1svB1YTkHxTbLwqCBimHqj1RnXxOQ0D9bjEPiuFwqPDWheAO2vegLXmNwPz7byEXA-3D-3D
+  - https://i.postimg.cc/7L68Mhcn/mplogo22-removebg-preview.png
+  - https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+ram &nbsp; &nbsp; rodrigo-f-p@hotmail.com &nbsp; &nbsp; rodrigo-f-p@hotmail.com detectamos um novo acesso à sua conta &nbsp; Data Hoje às 10:17 h. Dispositivo IPhone de Professor, (IPhone 8) Não reconheço este acesso Se foi você, por favor, desconsidere este e-mail. Não tem certeza? Recomendamos que você&nbsp; clique em não reconheço este acesso . &nbsp; Precisa de ajuda?&nbsp; Fale conosco &nbsp; &nbsp; &nbsp; &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>ram</title>
+
+	</head>
+
+	<body>
+
+		<div style="text-align: center;">
+
+			<table border="0" cellpadding="0" cellspacing="0" style="font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: &quot;Proxima Nova&quot;, Helvetica, Arial; margin: 0px auto; color: rgb(32, 31, 30); background-color: rgb(255, 255, 255); padding: 0px; width: 620px; max-width: 620px; border-spacing: 0px !important;">
+
+				<tbody>
+
+					<tr>
+
+						<td colspan="3" height="1" style="padding: 0px; margin: 0px; font-size: 1px; height: 1px;">
+
+							&nbsp;</td>
+
+					</tr>
+
+					<tr>
+
+						<td style="padding: 0px; margin: 0px; font-size: 1px;">
+
+							&nbsp;</td>
+
+						<td style="padding: 0px; margin: 0px;" width="590">
+
+							<table border="0" cellpadding="0" cellspacing="0" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; border-spacing: 0px !important;" width="100%">
+
+								<tbody>
+
+									<tr>
+
+										<td class="x_logo" style="padding: 11px 15px 8px;">
+
+											<a href="https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre"><img alt="" src="https://i.postimg.cc/7L68Mhcn/mplogo22-removebg-preview.png" style="width: 122px; height: 31px; float: left;"></a></td>
+
+										<td class="x_logo" style="font-family: &quot;Proxima Nova&quot;, Helvetica, Arial, sans-serif; padding: 11px 23px 8px 15px; float: right; font-size: 12px; line-height: 1; color: rgb(102, 102, 102) !important;">
+
+											<p style="float: right;">
+
+												rodrigo-f-p@hotmail.com
+</p>
+
+										</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+							<table bgcolor="#009ee3" border="0" cellpadding="0" cellspacing="0" class="x_table-header__color" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; border-spacing: 0px !important;" width="100%">
+
+								<tbody>
+
+									<tr>
+
+										<td class="x_mail__header-top-space" height="0">
+
+											&nbsp;</td>
+
+									</tr>
+
+									<tr>
+
+									</tr>
+
+									<tr>
+
+										<td class="x_mail__header-bottom-space" height="0">
+
+											&nbsp;</td>
+
+									</tr>
+
+									<tr>
+
+										<td align="center" class="x_title x_bold" style="width: 524px; padding: 63px 33px;">
+
+											<span class="x_mail__title" style="border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: 26px; line-height: 1.2; font-family: &quot;Proxima nova&quot;, Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; vertical-align: baseline; width: 409.766px; display: inline-block; overflow: hidden; color: rgb(255, 255, 255) !important;">rodrigo-f-p@hotmail.com
+ detectamos um novo acesso à sua conta</span></td>
+
+									</tr>
+
+									<tr>
+
+										<td style="padding: 0px;">
+
+											<div class="x_responsive-width" id="x_responsive-width" style="border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; padding: 0px; vertical-align: baseline; color: inherit; display: none; width: 459.016px; background-color: rgb(251, 238, 0) !important;" width="78.2% !important">
+
+												<div aria-hidden="true" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; padding: 0px; vertical-align: baseline; color: inherit; height: 50px; border: 0px solid rgb(239, 239, 239) !important; background-color: rgb(255, 255, 255) !important;">
+
+													&nbsp;</div>
+
+											</div>
+
+										</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+							<div class="x_div-table-wrapper" id="x_div-table-wrapper" style="border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; padding: 0px; vertical-align: baseline; color: inherit;">
+
+								<table align="center" bgcolor="#ffffff" border="0" cellpadding="0" cellspacing="0" class="x_main-card-shadow" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; border-width: initial; border-style: none; border-color: initial; padding: 48px 33px 0px; width: 461.375px; margin: 0px auto !important; border-spacing: 0px !important;">
+
+									<tbody>
+
+										<tr>
+
+											<td align="center">
+
+												<div style="border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; color: inherit;">
+
+													<p style="margin: 0px; color: rgb(102, 102, 102) !important; font-size: 18px;">
+
+														Data</p>
+
+													<p style="margin: 0px; color: rgb(51, 51, 51) !important; font-size: 18px; font-weight: 600;">
+
+														Hoje às 10:17 h.</p>
+
+													<p style="margin: 10px 0px 0px; color: rgb(102, 102, 102) !important; font-size: 18px;">
+
+														Dispositivo</p>
+
+													<p style="margin: 0px; color: rgb(51, 51, 51) !important; font-size: 18px; font-weight: 600;">
+
+														IPhone de Professor, (IPhone 8)</p>
+
+												</div>
+
+											</td>
+
+										</tr>
+
+										<tr>
+
+											<td align="center">
+
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="x_mail__buttons-container" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 32px auto; table-layout: fixed; max-width: 70%; height: 48px; border-radius: 4px; width: 240px; border-spacing: 0px !important;" width="200">
+
+													<tbody>
+
+														<tr>
+
+															<td bgcolor="#009EE3" style="font-family: &quot;Proxima nova&quot;, Helvetica, Arial, sans-serif; border-radius: 4px; height: 30px;">
+
+																<a data-auth="NotApplicable" data-linkindex="0" href="https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre" rel="noopener noreferrer" style="border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 16px; line-height: inherit; font-family: Arial, Helvetica, sans-serif; margin: 0px; padding: 10px 3px; vertical-align: baseline; display: block; text-decoration-line: none; text-align: center; color: rgb(255, 255, 255) !important;" target="_blank" title="https://www.mercadopago.com.br">Não reconheço este acesso</a></td>
+
+														</tr>
+
+													</tbody>
+
+												</table>
+
+											</td>
+
+										</tr>
+
+										<tr>
+
+											<td align="center">
+
+												<p class="x_mail__text-card x_bold" style="line-height: 16px; font-family: &quot;Proxima Nova&quot;, Arial, Helvetica, sans-serif; max-width: 390px; width: 390px; margin: 0px auto; font-size: 14px; color: rgb(153, 153, 153) !important;">
+
+													Se foi você, por favor, desconsidere este e-mail.</p>
+
+												<p class="x_mail__text-card x_bold" style="line-height: 16px; font-family: &quot;Proxima Nova&quot;, Arial, Helvetica, sans-serif; max-width: 390px; width: 390px; margin: 0px auto 44px; font-size: 14px; color: rgb(153, 153, 153) !important;">
+
+													Não tem certeza? Recomendamos que você&nbsp;<a data-auth="NotApplicable" data-linkindex="1" href="https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre" rel="noopener noreferrer" style="border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; text-decoration-line: none; font-family: &quot;Proxima Nova&quot;, Helvetica, Arial !important; color: rgb(52, 131, 250) !important;" target="_blank">clique em não reconheço este acesso</a>.</p>
+
+											</td>
+
+										</tr>
+
+									</tbody>
+
+								</table>
+
+							</div>
+
+							<table align="center" border="0" cellpadding="0" cellspacing="0" style="font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px auto; border-spacing: 0px !important;" width="100%">
+
+								<tbody class="x_mail__img-footer">
+
+									<tr>
+
+										<td align="center" colspan="3" height="48">
+
+											&nbsp;</td>
+
+									</tr>
+
+									<tr>
+
+										<td align="center" colspan="3" style="font-family: &quot;Proxima Nova&quot;, Arial, Helvetica, sans-serif; font-size: 13px; line-height: 1.08; color: rgb(153, 153, 153) !important;">
+
+											Precisa de ajuda?&nbsp;<a data-auth="NotApplicable" data-linkindex="2" href="https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre" rel="noopener noreferrer" style="border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline; text-decoration-line: none; font-family: &quot;Proxima Nova&quot;, Helvetica, Arial !important; color: rgb(52, 131, 250) !important;" target="_blank">Fale conosco</a></td>
+
+									</tr>
+
+									<tr>
+
+										<td align="center" colspan="3" height="48">
+
+											&nbsp;</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+						</td>
+
+						<td style="padding: 0px; margin: 0px; font-size: 1px;">
+
+							&nbsp;</td>
+
+					</tr>
+
+					<tr>
+
+						<td colspan="3" height="1" style="padding: 0px; margin: 0px; font-size: 1px; height: 1px;">
+
+							&nbsp;</td>
+
+					</tr>
+
+				</tbody>
+
+			</table>
+
+			<img alt="" border="0" data-imagetype="External" height="1" src="https://u9647731.ct.sendgrid.net/wf/open?upn=h3EYRiceYmcE2w0m2fAsUTxwCrEdA2-2FPUE9BXzRqeJEXSk6pD0nzjJvm13Eb5c-2BYona8AwZZKUcUElC-2FutFq7EWRuVC0agJkvoO42hotQPkTMwQdptsGp4FWhWHx8bHepEtO7jl7Wv1nZ-2F7sB8PUeJD-2Fih9oIX3Mg0HmdpPA7N-2Be95WZ8-2BvcdmobxQPVR3z39To41I-2BWEIEYii0xWFJUL33bSHKIoSmPWOvX2BqfGis09DGgwO6hXzN5bG9s4jqnVq5H4eZDyqt-2BwteIWn3Fh1FZW8I-2FfJjNhZ9m2ad1TTz-2FoYoZvTMHG04vwyZylxa3-2F6oaUiXSPg6F2T4NWTuhKkCmoCWoBle2PtwmQN-2FBsWAXtyp0vl6x6jZKbut7HtZr-2BHQKCh5oXvDD2hznhV8YZ-2Bo3bmV4GXjYJIRMsbhoPvu7Bppv1yD7PzwGuiWMVJyIF2XSiAZhGw4SSJdO0fSDXVBZ1J10rAfdsMh-2B0TuXAO1wj-2F-2FQDCLqTFMrM-2Fxm-2BB8erOwubhPPRLDuw0q4-2FaMgn26zPPLCbnQ2Tu7vfUFymxn8yEn-2Buqav6hnNhLY281RCAuD1qCrlK6hosfAvilP9B5kxtCzd6zq5DSgTWC3LSUL3NVmCvqDA-2BD1tftEeWkjTx-2B2-2B87eA3IMlb-2F3XV-2F7JO1svB1YTkHxTbLwqCBimHqj1RnXxOQ0D9bjEPiuFwqPDWheAO2vegLXmNwPz7byEXA-3D-3D" style="border-style: initial; border-color: initial; border-image: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: &quot;Proxima Nova&quot;, Helvetica, Arial; vertical-align: baseline; color: rgb(32, 31, 30); background-color: rgb(255, 255, 255); border-width: 0px !important; margin: 0px !important; padding: 0px !important; height: 1px !important; width: 1px !important;" width="1"></div>
+
+		<p>
+
+			&nbsp;</p>
+
+	</body>
+
+</html>
+

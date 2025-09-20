@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "🎉 Winning announcement for you Fname",
+    "from": "The Casino Team  <afzender@123enprint.nl>",
+    "to": "phishing@pot",
+    "date": "Tue, 6 Sep 2022 13:43:18 +0000",
+    "message_id": "<0.0.0.0.1D8C1F69F1C6506.14EDA@eboutfas.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.wrapper-mobile",
+      ".column.of-3",
+      "table.wrapper",
+      ".column.of-4",
+      "a.bulletproof-button",
+      "http://www.w3.org/1999/xhtml",
+      "img.max-width",
+      "https://belvoirty.com/?a=2395&amp;oc=15380&amp;c=42584&amp;m=3&amp;s1=lkt",
+      "http://cdn.mcauto-images-production.sendgrid.net/0de931a957bc9632/19c388c2-29ef-469a-aa55-0dd40c6fae5f/260x233.png",
+      "http://cdn.mcauto-images-production.sendgrid.net/0de931a957bc9632/c1e9794e-870c-476d-b95f-48dbbad3c900/448x100.png",
+      ".column.of-2",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2325,
+    "html_length": 65052,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,62 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your latest User Agreement
+From: Microsoft Privacy <nepasrepondre@iso-renov.com>
+To: phishing@pot
+Date: Mon, 11 Sep 2023 17:46:56 +0000
+Message_Id: <b38ea12d-35a3-2b03-b321-cbb6c0d96e08@iso-renov.com>
+Content_Type: text/html; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - schema.org/ViewAction
+  - https://www.bing.com/ck/a?!&amp;&amp;p=64f15bfe3ce1cc60JmltdHM9MTY5MTM2NjQwMCZpZ3VpZD0zYWU1OTgxNC1kZjliLTY4NTktMWFmMC04YjRjZGVjZDY5YTcmaW5zaWQ9NTE4OA&amp;ptn=3&amp;hsh=3&amp;fclid=3ae59814-df9b-6859-1af0-8b4cdecd69a7&amp;u=a1aHR0cHM6Ly9zYW1heWFhd29ybGRzcGEuY29tL2Fib3V0LXVzLw&amp;ntb=128648145581683145328
+  - http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png
+  - hotmail.com
+  - schema.org/EmailMessage
+  - https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0
+
+DECODED TEXT CONTENT:
+------------------------------
+Your Latest User Agreement phishing@pot@hotmail.com We’re updating our user agreement for our customers effective Tuesday, 12 Sep 2023. If you continue to use a Microsoft account after that date, then you must agree and comply with the new user agreement to continue using your account. Update my agreement You are receiving this email because you have a latest user agreement.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr">
+<div style="background-color:white;margin:0;padding:0;"><table lang="en" width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="min-width:348px;">
+<tbody><tr style="height:32px;">
+<td></td></tr>
+<tr align="center">
+<td>
+<div itemscope="" itemtype="//schema.org/EmailMessage">
+<div itemscope="" itemprop="action" itemtype="//schema.org/ViewAction"><link href="https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0" itemprop="url"><meta itemprop="name" content="Review Activity"></div></div><table border="0" cellspacing="0" cellpadding="0" style="max-width:516px;padding-bottom:20px;min-width:220px;">
+<tbody><tr>
+<td style="width:8px;"></td>
+<td>
+<div align="center" style="border-radius:8px;padding:40px 20px;border:2px solid #DADCE0;"><img data-imagetype="External" src="http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png" width="114" height="28" alt="Google" aria-hidden="true" style="margin-bottom:16px;"> 
+<div style="color: black; font-family: Google Sans, Roboto, RobotoDraft, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-bottom: 24px; border-bottom: 2px solid rgb(218, 220, 224); word-break: break-word; line-height: 32px;">
+<div style="font-size:24px;">Your Latest User Agreement </div><table align="center" style="margin-top:8px;">
+<tbody><tr style="line-height:normal;">
+<td><a style="color:black;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;line-height:20px;">phishing@pot@hotmail.com</a></td></tr></tbody></table></div>
+<div style="color: black; font-size: 14px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-top: 20px; line-height: 20px;">We’re updating our user agreement for our customers effective Tuesday, 12 Sep 2023. If you continue to use a Microsoft account after that date, then you must agree and comply with the new user agreement to continue using your account. 
+<div style="text-align:center;padding-top:32px;"><a href="https://www.bing.com/ck/a?!&amp;&amp;p=64f15bfe3ce1cc60JmltdHM9MTY5MTM2NjQwMCZpZ3VpZD0zYWU1OTgxNC1kZjliLTY4NTktMWFmMC04YjRjZGVjZDY5YTcmaW5zaWQ9NTE4OA&amp;ptn=3&amp;hsh=3&amp;fclid=3ae59814-df9b-6859-1af0-8b4cdecd69a7&amp;u=a1aHR0cHM6Ly9zYW1heWFhd29ybGRzcGEuY29tL2Fib3V0LXVzLw&amp;ntb=128648145581683145328" target="_blank" rel="noopener noreferrer" data-auth="VerificationFailed" originalsrc="https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0" shash="l8SDt4kB+9uh6kp6qrq4yTqr0WXqIkXvw5iiWas+UskpkC3XR9NbmbEJGuykcNSNMww/i+/lEmmhK0dhcUJR8L0YsziNU8VAtWh73yOI8S/3TxDGk0uCaZxUyZSAQqxl1H9bovTHFHV85fNI49QHHN0wf4Csckla1yFudd4eZT8=" style="color:white;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:400;background-color:#4184F3;display:inline-block;text-decoration:none;border-radius:5px;padding:10px 24px;min-width:90px;line-height:16px;" title="" data-linkindex="1">Update my agreement</a></div></div>
+</div>
+<div style="text-align:left;">
+<div style="color: rgba(0, 0, 0, 0.57); font-size: 11px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-top: 12px; line-height: 18px;">
+<div>You are receiving this email because you have a latest user agreement.</div>
+</div></div></td>
+<td style="width:8px;"></td></tr></tbody></table></td></tr>
+<tr style="height:32px;">
+<td></td></tr></tbody></table></div></div>
+

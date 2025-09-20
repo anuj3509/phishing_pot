@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Prezado(a) phishing@pot, Seu convite para ser PRIME! [Protocolo: 99137]",
+    "from": "Bradesco Prime <sac8240@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 10 Jun 2024 06:04:44 +0000",
+    "message_id": "<20240610060444.160653FE67@uxei2uka2rib.g92fenut1eis>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1717999484167154543\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1717999484167154543\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "banco.brad",
+      "https://iwb2bradescoappcom-br.one/ibpfloginnovo-conviteprime-para-voce-com-br/?conviteprime=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2002,
+    "html_length": 11875,
+    "has_text": true,
+    "has_html": true
+  }
+}

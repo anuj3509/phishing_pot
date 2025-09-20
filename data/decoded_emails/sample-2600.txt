@@ -1,0 +1,268 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot votre bon d���achat Leclerc est pr��t !
+From: Bon d'achat, <tele_loisirs@ml.tv-news.fr>
+To: phishing@pot
+Date: Sun, 14 Jan 2024 22:07:20 +0100
+Message_Id: <12RPxSd.0.0.12RPxSd.9.12RPxSd@ml.tv-news.fr>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://soldering-on.co.uk/bUxuWEhPdjlhN2paa3dQd0tZSi9CQXVpcEZ1N3ZIaGluSDMxamJtRStMRVRiZUViaDlQdEVVWUpYT1owTGRCd28wMGpBZGg0bG4zK0E1UXhVaFN2WUlDaU52VDRaUWoyemRrNmVEVTNYbE09
+  - www.zupimages.net/up/23/37/kv4p.png
+  - www.zupimages.net/up/24/02/4bmb.png
+  - http://www.w3.org/1999/xhtml
+  - https://www.zupimages.net/up/24/02/4bmb.png
+  - https://www.zupimages.net/up/23/37/kv4p.png
+  - http://soldering-on.co.uk/YWh2ajZvOWRVVGtTektobVVENUhWRjlMTm8yV3dTNDMyeVl1WkQ1ZXVMdHlIQ3BDbkhaQ3dHY1RUUWZRd00vbldXV3ZuL1FKWkNLdkpyazg5WmczNXlmSmZMTERDRTRqb1k1NlEyN1gxNE09
+  - https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=
+
+DECODED TEXT CONTENT:
+------------------------------
+MASTER MONO body { margin: 0 auto; padding: 0; font-family: Arial, Helvetica, sans-serif !important; line-height: normal; } h1 { font-family: Arial, Helvetica, sans-serif !important; font-weight: 600; line-height: 1; } h2, h3, h4 { font-family: Arial, Helvetica, sans-serif !important; font-weight: 400; line-height: 1; } .paragraph { text-align: left; font-size: 18px; line-height: 30px; } table { border-spacing: 0 !important; border: none; } td { border-spacing: 0px; } tr { border-spacing: 0px; } /* Client-specific Styles */ #outlook a { padding: 0; } /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody { width: 100%; } .ExternalClass { width: 100%; } /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } /* Force Hotmail to display normal line spacing */ body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } /* Prevent WebKit and Windows mobile changing default text sizes */ table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } /* Remove spacing between tables in Outlook 2007 and up */ img { -ms-interpolation-mode: bicubic; } @media screen and (max-width: 480px) { h1 { font-size: larger; } h2 { font-size: larger; } } Gagnez 1000€ d'achat Leclerc! Bonjour phishing@pot, En ce moment, nous distribuons 10 bons d'achat Leclerc . Nous sommes heureux de vous annoncer que vous êtes sélectionné en tant que gagnant potentiel ! Vous pouvez utiliser ce bon d'achat dans le supermarché plus proche de chez vous . Inscrivez-vous maintenant pour tenter votre chance ! Cliquez pour confirmer votre participation. Soyez rapide! Vous n'avez que 3 jours pour le réclamer. Participer click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html
+   PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="format-detection" content="telephone=no">
+      <meta name="format-detection" content="date=no">
+      <meta name="format-detection" content="address=no">
+      <meta name="format-detection" content="email=no">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <title>MASTER MONO</title>
+      <style type="text/css">
+         body {
+            margin: 0 auto;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif !important;
+            line-height: normal;
+         }
+
+         h1 {
+            font-family: Arial, Helvetica, sans-serif !important;
+            font-weight: 600;
+            line-height: 1;
+         }
+
+         h2,
+         h3,
+         h4 {
+            font-family: Arial, Helvetica, sans-serif !important;
+            font-weight: 400;
+            line-height: 1;
+         }
+
+         .paragraph {
+            text-align: left;
+            font-size: 18px;
+            line-height: 30px;
+         }
+
+         table {
+            border-spacing: 0 !important;
+            border: none;
+         }
+
+         td {
+            border-spacing: 0px;
+         }
+
+         tr {
+            border-spacing: 0px;
+         }
+
+         /* Client-specific Styles */
+         #outlook a {
+            padding: 0;
+         }
+
+         /* Force Outlook to provide a "view in browser" message */
+         .ReadMsgBody {
+            width: 100%;
+         }
+
+         .ExternalClass {
+            width: 100%;
+         }
+
+         /* Force Hotmail to display emails at full width */
+         .ExternalClass,
+         .ExternalClass p,
+         .ExternalClass span,
+         .ExternalClass font,
+         .ExternalClass td,
+         .ExternalClass div {
+            line-height: 100%;
+         }
+
+         /* Force Hotmail to display normal line spacing */
+         body,
+         table,
+         td,
+         a {
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+         }
+
+         /* Prevent WebKit and Windows mobile changing default text sizes */
+         table,
+         td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+         }
+
+         /* Remove spacing between tables in Outlook 2007 and up */
+         img {
+            -ms-interpolation-mode: bicubic;
+         }
+
+         @media screen and (max-width: 480px) {
+            h1 {
+               font-size: larger;
+            }
+
+            h2 {
+               font-size: larger;
+            }
+         }
+      </style>
+   </head>
+
+   <body bgcolor="#D8E2E9">
+
+      <!-- Iraklis: Main Email Container  -->
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="table-layout: fixed;">
+
+         <!-- CONTAINER -->
+         <tr>
+            <td align="center" valign="top">
+               <table cellpadding="0" cellspacing="0" border="0" style="background: #fff" bgcolor="#fff">
+
+                  <!-- HEADLINE -->
+                  <tr>
+                     <td width="600" align="center" valign="top">
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background: #fff; color: #0b70b5;" bgcolor="#fff">
+                           <tr>
+                              <td width="100%" align="center" valign="middle" style="padding: 0 0px;">
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                       <td width="100%" align="center" valign="middle">
+					<span style="font-weight:bold;font-size:20px; margin-top:10px">
+<img src="https://www.zupimages.net/up/23/37/kv4p.png" width="150" style="float:right; margin-top:-17px; margin-right:-21px">
+<img src="//www.zupimages.net/up/23/37/kv4p.png" width="150" style="float:right; margin-top:-17px; margin-right:-21px">
+<br></span>
+												<br>
+                                          <h1 style="text-transform: uppercase;">
+                                             Gagnez 1000€ d'achat Leclerc!
+                                          </h1>
+                                       </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <!-- end of HEADLINE -->
+
+                  <!-- HEADER IMAGE -->
+                  <tr>
+                     <td width="600" align="center" valign="top">
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                           <tr>
+                              <td width="100%" align="center" valign="middle" style="padding: 0 0px;">
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                       <td width="100%" align="center" valign="middle">
+                                          <a href="https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=">
+                                             <img src="https://www.zupimages.net/up/24/02/4bmb.png" border="0" width="560" style="width: 100%; max-width: 560px; height: auto; display:block; margin: 0 auto; padding-bottom: 15px">
+                                             <img src="//www.zupimages.net/up/24/02/4bmb.png" border="0" width="560" style="width: 100%; max-width: 560px; height: auto; display:block; margin: 0 auto; padding-bottom: 15px">
+                                          </a>
+                                       </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <!-- end of HEADER IMAGE -->
+
+                  <!-- CONTENT -->
+                  <tr>
+                     <td width="600" align="center" valign="top">
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                           <tr>
+                              <td width="100%" align="center" valign="middle" style="padding: 0 0px;">
+                                 <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                    <tr>
+                                       <td width="100%" align="left" valign="middle" style="padding: 20px 40px; font-family: Arial, Helvetica, sans-serif !important; text-align:center; font-size:15px; line-height: 24px;color:#666666">
+                                         Bonjour phishing@pot,<br><br>
+En ce moment, nous distribuons <a href="https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=" target="_blank" style="color:#012d76"><b>10 bons d'achat   Leclerc</b></a>.<br>
+					Nous sommes heureux de vous annoncer que vous êtes sélectionné en tant que gagnant potentiel !<br>
+					<b>Vous pouvez utiliser ce bon d'achat dans le supermarché plus proche de chez vous</b>.<br>
+					<br>
+					Inscrivez-vous maintenant pour tenter votre chance !<br>
+					<a href="https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=" target="_blank" style="color:#000000"><b>Cliquez</b></a> pour confirmer votre participation.<br>
+					<br>
+					Soyez rapide! Vous n'avez que 3 jours pour le réclamer.<br>									
+					<br>                   </a>
+
+                                       </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                        </table>
+                     </td>
+                  </tr>
+                  <!-- end of CONTENT -->
+
+                  <!-- BUTTON -->
+                  <tr>
+                     <td align="center" valign="top" style="padding-bottom: 20px;">
+                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: separate !important;" width="70%">
+                           <tbody>
+                              <tr>
+                                 <td style="background-color: #ff9100; padding: 15px; text-align: center;">
+                                    <a href="https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=" style="color:#fff;text-decoration:none;font-size: 22px;font-weight:bold;font-family: Arial, Helvetica, sans-serif;" target="_blank">
+                                       Participer
+                                    </a>
+                                 </td>
+                              </tr>
+                           </tbody>
+                        </table>
+                     </td>
+                  </tr>
+                  <!-- end of BUTTON -->
+
+               </table>
+            </td>
+         </tr>
+         <!-- end of CONTAINER -->
+
+      </table>
+      <!-- Iraklis: Main Email Container  -->
+
+   </body>
+
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://soldering-on.co.uk/bUxuWEhPdjlhN2paa3dQd0tZSi9CQXVpcEZ1N3ZIaGluSDMxamJtRStMRVRiZUViaDlQdEVVWUpYT1owTGRCd28wMGpBZGg0bG4zK0E1UXhVaFN2WUlDaU52VDRaUWoyemRrNmVEVTNYbE09">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://soldering-on.co.uk/YWh2ajZvOWRVVGtTektobVVENUhWRjlMTm8yV3dTNDMyeVl1WkQ1ZXVMdHlIQ3BDbkhaQ3dHY1RUUWZRd00vbldXV3ZuL1FKWkNLdkpyazg5WmczNXlmSmZMTERDRTRqb1k1NlEyN1gxNE09" width="1px" height="1px" style="visibility:hidden">
+

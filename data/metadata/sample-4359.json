@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Create a password for DEMETER ICT PTE. LTD.",
+    "from": "\"DEMETER ICT Co. Ltd\" <support@pdi-demeter.zendesk.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 03 Nov 2024 03:37:33 +0000",
+    "message_id": "<6726effdd1647_3c395836193f0_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6726effdd772a_3c395836194b5\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6726effdd772a_3c395836194b5\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pdi-demeter.zendesk.com/verification/email/FrefMzJKUkmahUijwdXkZMiLDmhexm4S"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 300,
+    "html_length": 397,
+    "has_text": true,
+    "has_html": true
+  }
+}

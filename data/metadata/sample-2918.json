@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Please update your payment details",
+    "from": "Netflix <ophelie_millen_64605@sonia.hlima.store >",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 20:38:02 +0000",
+    "message_id": "<iXkKPJNbWq.5SNUm6StlhJAGr.OtI2PRScLUqnyMmNF.iXkKPJNbWq.zJHtT9VZz@OtI2PRScLUqnyMmNF.DTN.mail.kfc.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#4MwlNV759oAXy6ayoedtewsn187XDOFQOSDTNYWBEG371842GHGZ462590d11",
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#4zhccQ759DPpo6losepzabjp187QPUAGNTLFQWMYLZ371842AMFZ462590x11",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#5IYdSp759lAga6ypiduhvrws187MJAENMXTOSQZBPJ371842BSGC462590R11",
+      "http://203.161.53.177/track/3BxFhf759waRp6fmtqgicnuz187OUXVMVHEDVRALTW371842BZTL462590m11"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 513,
+    "html_length": 3790,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Saudações querida,",
+    "from": "\"Mrs. Monica Edward\" <13291@tsb3.ac.th>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 24 Mar 2024 18:24:27 +0000",
+    "message_id": "<CABTcxL8FL7Q3fm8MyqHrb-ajdgpcYdXWau_ycKEq=hEZvVrGKA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000a7492f06146c2bba\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000a7492f06146c2bba\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1460,
+    "html_length": 1614,
+    "has_text": true,
+    "has_html": true
+  }
+}

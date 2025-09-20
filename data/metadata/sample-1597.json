@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben versucht, Sie zu erreichen - Bitte antworten Sie!",
+    "from": "Benachrichtigung  , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Oct 2023 10:42:10 +0200",
+    "message_id": "<SERxxxu.78891.581.zmt@psm.knowbe4.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/Ds8qOa6.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://jorfouj.xyz/M1RxU3B5TTRrWExDZUNFdnBlaWdtYVpJWkwwRTdvcUpobUoyeEFEZk5USUxKN3JlMDQrK21wR1FqSHFHb1ppa3cvZ21BMlJIcWxsd1JveWowRFpHNVE9PQ__",
+      "i.imgur.com/Ds8qOa6.png",
+      "http://jorfouj.xyz/UFp0RG81bHU1c21IcjZ0Rk5GZTF2TjgvMUhrajNVbFQ0QzZBNEdVZGovL1g3eE00L0Vzb0hYRkMzQ3lYRUYxeE1NdjFRRFRHR1JBMHFYNi9mS3pCUnc9PQ__",
+      "http://jorfouj.xyz/QjNUaTdCUFEvVGt0T2NlKy9Kak5JZS8xQWhzYVZzL3Q0Q3czdlc4Q2N3NzJaTjN0U1BFem9INWF2SmtrcEdyRzl3ZkxONTVhL1lmajNFU1MwUjRqRDFodXlQZlE2eGdTYVZLUkMwOHh5TzQ9",
+      "http://jorfouj.xyz/b2E5alJUUHlCamFVWG53Q29odUVsSm1YTkR4bkF6UnlQRUdkSDdyeWJuNU0zVzArTGFlMTBURXc3eDFPdVA2VS9pbHJRWlZMeVlFRjBmWi81U0dOdUE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2006,
+    "html_length": 9603,
+    "has_text": true,
+    "has_html": true
+  }
+}

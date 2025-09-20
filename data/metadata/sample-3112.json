@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Atenciosamente convidado ao mundo exclusivo docartão black",
+    "from": "Bradesco <contato@bradesco.banco>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Mar 2024 17:41:21 +0000",
+    "message_id": "<ed49d60e-234c-83f8-6489-558cf721336b@bradesco.banco>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "tisoprincipe.htm",
+      "Muro-Maxim-Whiton-FINAL-version.pdf",
+      ".alert.alert-warning",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=7baf9687260546f88171d9f17162b9fb&amp;t1=bra",
+      ".alert.alert-bad",
+      "6.1.Conclusão",
+      ".alert.alert-good",
+      "httpsdoi.org10.1590S0104-40362020002803115",
+      "httpsdoi.org10.1007s00146-020-01059-y"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 79442,
+    "html_length": 146217,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,76 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Advisory: Recent Infrastructure Breach – Your Review is Required Case: 28220
+From: Ledger Support <ledger@elcontainer.cl>
+To: phishing@pot
+Date: Sun, 6 Apr 2025 22:34:37 +0000
+Message_Id: <010001960d3dd35f-2d22079b-f97a-45cb-a1b1-2c77fb1a6bd1-000000@email.amazonses.com>
+Content_Type: text/html;
+	charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+	charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://privaterecovery.s3.us-east-1.amazonaws.com/recovery.html
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+  - ledger.com/support
+  - https://www.ledger.com/support
+
+DECODED TEXT CONTENT:
+------------------------------
+Security Notice – Ledger Account Advisory Security Notice: Action Required We are reaching out to inform you of a recent incident that may have impacted part of our user infrastructure. While no unauthorized access to Ledger hardware wallets has been detected, there is a risk that recovery-related metadata connected to certain accounts may have been exposed. Out of an abundance of caution, we strongly recommend that you review the status of your current recovery setup. This verification process is a preventive step to ensure your assets remain safe. The process is simple, and only takes a few moments. Start Secure Review If this message does not apply to your setup, no action is required. This notice has been sent as a precautionary measure. Support available at ledger.com/support © 2025 Ledger SAS
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Security Notice – Ledger Account Advisory</title>
+</head>
+<body style="margin:0;padding:0;background:#0f0f0f;color:#e4e4e4;font-family:'Segoe UI',Arial,sans-serif;">
+	<table width="100%" cellpadding="0" cellspacing="0" style="max-width:620px;margin:auto;background:#1b1b1b;border-radius:8px;">
+		<tr>
+			<td style="padding:24px;text-align:center;background:#000;">
+				<img src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" width="140" alt="Ledger Logo" style="display:block;margin:auto;" height="79">
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:32px 26px;">
+				<h2 style="color:#ffffff;margin:0 0 20px;font-size:22px;">Security Notice: Action Required</h2>
+				<p style="font-size:15px;line-height:1.6;margin:0 0 18px;color:#dddddd;">
+					We are reaching out to inform you of a recent incident that may have impacted part of our user infrastructure. While no unauthorized access to Ledger hardware wallets has been detected, there is a risk that recovery-related metadata connected to certain accounts may have been exposed.
+				</p>
+				<p style="font-size:15px;line-height:1.6;margin:0 0 18px;color:#dddddd;">
+					Out of an abundance of caution, we strongly recommend that you review the status of your current recovery setup. This verification process is a preventive step to ensure your assets remain safe.
+				</p>
+				<p style="font-size:15px;line-height:1.6;margin:0 0 24px;color:#dddddd;">
+					The process is simple, and only takes a few moments.
+				</p>
+				<div style="text-align:center;margin:36px 0;">
+					<a href="https://privaterecovery.s3.us-east-1.amazonaws.com/recovery.html" style="background-color:#f17c04;color:#fff;padding:14px 28px;text-decoration:none;font-weight:bold;border-radius:6px;font-size:15px;box-shadow:0 3px 6px rgba(0,0,0,0.3);display:inline-block;">Start Secure Review</a>
+				</div>
+				<p style="font-size:13px;color:#888;text-align:center;">
+					If this message does not apply to your setup, no action is required. This notice has been sent as a precautionary measure.
+				</p>
+			</td>
+		</tr>
+		<tr>
+			<td style="padding:20px;text-align:center;background:#101010;color:#666;font-size:12px;">
+				<p style="margin:6px 0;">Support available at <a href="https://www.ledger.com/support" style="color:#f17c04;text-decoration:none;">ledger.com/support</a></p>
+				<p style="margin:0;">© 2025 Ledger SAS</p>
+			</td>
+		</tr>
+	</table>
+</body>
+</html>
+

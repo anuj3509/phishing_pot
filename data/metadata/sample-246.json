@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "ENC: Este e-mail será bloqueado.",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:04:34 +0000",
+    "message_id": "\r\n <SA0PR04MB7370BCE5C7D135566A13901AB3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370BCE5C7D135566A13901AB3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370BCE5C7D135566A13901AB3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com&gt;",
+      "outlook.com",
+      "http://ec2-3-138-125-44.us-east-2.compute.amazonaws.com/bfgs4w3/yubnyu6/?hash=bWVyY2lheWFubWFjdEBob3RtYWlsLmNvbQ0K"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 700,
+    "html_length": 5047,
+    "has_text": true,
+    "has_html": true
+  }
+}

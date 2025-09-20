@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Última chamada: Pendências encontradas em sua declaração de renda. Regularize agora. Protocolo: 01070653.",
+    "from": "Comunicado Receita Federal <receita@regularizacao613936>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 29 May 2025 22:46:35 +0000",
+    "message_id": "<794668b2a6ba16391aff13ed848e4540@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_794668b2a6ba16391aff13ed848e4540\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_794668b2a6ba16391aff13ed848e4540\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://elsp-327258313254.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6698,
+    "has_text": true,
+    "has_html": true
+  }
+}

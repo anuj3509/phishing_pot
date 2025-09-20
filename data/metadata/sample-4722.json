@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Rapid Response Needed: Suspension Bulletin",
+    "from": "Jakob Glass <teresa.icaza@disipaing.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 8 Jan 2025 03:13:44 +0000",
+    "message_id": "<cae7ca9a-e7df-4e61-856d-7e73ab75e83e@AM1PEPF000252DF.eurprd07.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1716949150396431670==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1716949150396431670==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "confirm",
+      "update",
+      "urgent action"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "http://epconind.com/0/?r=iyyfs",
+      "http://www.w3.org/1999/xhtml",
+      "http://epconind.com/m.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 935,
+    "html_length": 2478,
+    "has_text": true,
+    "has_html": true
+  }
+}

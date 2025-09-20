@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Your Ticket 2291183 payment is processed",
+    "from": "kirwarmithlesh@gmail.com",
+    "to": "phishing@pot",
+    "date": "Mon, 05 May 2025 08:51:37 -0700 (PDT)",
+    "message_id": "<6818de89.170a0220.209b32.40e4@mx.google.com>",
+    "content_type": "text/plain"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 445,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

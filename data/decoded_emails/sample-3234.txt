@@ -1,0 +1,66 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot, Proposta Notredame Intermédica - Nova tabela 2024 disponível
+From: Convênio Notredame_Intermédica <contato@e.planosdesaude-e.com>
+To: phishing@pot
+Date: Sat, 4 May 2024 13:50:05 +0000
+Message_Id: <0102018f43de7b67-7cc1c214-ff02-4d52-a501-5423303ead9b-000000@eu-west-1.amazonses.com>
+Content_Type: Multipart/alternative; boundary="02532719_242F4C3C_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="02532719_242F4C3C_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://web.e-segurohelp.com/app-c/lnk.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32343735
+  - https://web.e-segurohelp.com/app-c/rem.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32343735
+
+DECODED TEXT CONTENT:
+------------------------------
+mlrch-754519463eae707d80bebd0 body{margin:0;padding:0;} phishing@pot, Proposta promocional&nbsp; exclusiva no plano NotreDame Intermédica &nbsp; Cote online um plano de saúde que cabe no seu bolso * &nbsp;Aproveite a tabela promocional de preços 2024 ATUALIZADA Tenha acesso de forma gratuita, rápida e online ao melhor custo-benefício para você, sua família ou sua empresa. Reduza o custo do seu plano de saúde individual, familiar ou empresarial. Não tem plano de saúde?&nbsp; Então, Agora é a sua oportunidade!&nbsp; *Carência zero para os&nbsp;procedimentos de&nbsp;urgência e de emergência, 24 horas após vigência do seu plano. Tenha acesso a uma ampla rede própria e credenciada de hospitais, clínicas e unidades de medicina preventiva. Para fazer uma cotar&nbsp; é rápidinho, Leva só 30 segundos . faça sua cotação &nbsp; &nbsp; Clique aqui para remover seu email desta lista.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<title>mlrch-754519463eae707d80bebd0</title>
+	<style type="text/css">body{margin:0;padding:0;}
+	</style>
+</head>
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 580px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p><strong><strong><strong><strong><span style="color: #ff0000;"><span style="color: #000000;">phishing@pot,<br><br><strong><strong><strong><strong><strong><strong><strong><strong>Proposta promocional&nbsp;<strong>exclusiva no plano </strong></strong></strong></strong></strong></strong></strong></strong></strong><span style="text-decoration: underline; color: #ff9900;">NotreDame Intermédica</span><br>&nbsp;<br>Cote online um plano de saúde que cabe no seu bolso</span><br></span></strong></strong></strong></strong><span style="text-decoration: underline; color: #000000;"><span style="text-decoration: underline;">*</span><span style="text-decoration: underline;">&nbsp;Aproveite a tabela promocional de preços 2024 ATUALIZADA</span></span><strong><strong><strong><strong><span style="color: #ff0000;"><br><br><span style="color: #000000;">Tenha acesso de forma gratuita, rápida e online ao melhor custo-benefício para você, sua família ou sua empresa.</span><br></span></strong></strong></strong></strong><br>Reduza o custo do seu plano de saúde individual, familiar ou empresarial.</p>
+<p><strong>Não tem plano de saúde?&nbsp;</strong>Então, Agora é a sua oportunidade!&nbsp;<br><br><strong>*Carência zero </strong>para os&nbsp;procedimentos de&nbsp;urgência e de emergência, 24 horas após vigência do seu plano.<br><br>Tenha acesso a uma ampla rede própria e credenciada de hospitais, clínicas e unidades de medicina preventiva.</p>
+<p>Para fazer uma cotar&nbsp;<strong>é rápidinho, Leva só 30 segundos</strong>.</p>
+<p style="text-align: center;"><a style="display: block; background-color: #ff9900; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="https://web.e-segurohelp.com/app-c/lnk.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32343735"><span style="font-size: x-large;">faça sua cotação</span><br></a></p>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px dotted #6d6d6d;" height="80">
+<p>&nbsp;</p>
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;"><a href="https://web.e-segurohelp.com/app-c/rem.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32343735">Clique aqui</a> para remover seu email desta lista.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

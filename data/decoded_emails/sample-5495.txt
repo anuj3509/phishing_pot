@@ -1,0 +1,88 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Electrum Release New Features for Desktop & Browser
+From: Electrum <hello@electrumteamnews.online>
+To: phishing@pot
+Date: Tue, 27 May 2025 09:29:43 +0000 (UTC)
+Message_Id: <0fd0aa84-9ae6-1298-bc73-ce1a6eff3201@electrumteamnews.online>
+Content_Type: text/plain; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/plain; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, confirm, update
+URLs found:
+  - https://download.electrumupdate.store/
+
+DECODED TEXT CONTENT:
+------------------------------
+Hello users,
+
+We’re pleased to announce that an updated version of the Electrum wallet is  available. This update brings enhanced functionality, broader platform support, and key security improvements. Read on for details and follow the instructions at the end to download and install the update.
+
+What’s  in this release
+
+* Cross-platform compatibility
+
+  * Full support for Microsoft Windows (7, 8, 10, 11)
+  * Native installers for macOS (10.14 and later)
+  * Linux packages for Ubuntu, Fedora, Debian, and other distributions
+* Chromium-based browser extension
+
+  * Seamless integration with Chrome, Edge, Brave, Vivaldi, and other Chromium browsers
+  * Using  your Electrum wallet without leaving your browser
+* Performances and stability improvements
+
+  * Faster startup and transaction synchronization
+  * Reduced memory usage when handling large address sets
+  * Optimized network requests for smoother SPV syncing
+* Enhanced security features
+
+  * Hardened seed-generation algorithm
+  * Improved SSL certificate validation for Electrum servers
+  * Optional two-factor authentication plugin (via YubiKey or TOTP)
+* User-interface refinements
+
+  * Redesigned transaction history layout with filter and search options
+  * Clearer fee-selection slider with real-time fee estimates
+  * Dark-mode toggle, synced with your OS setting
+* Updated plugin ecosystem
+
+  * Coin-control plugin with address tagging and label import/export
+  * Pricing-ticker plugin supporting multiple exchanges
+  * Offline-signing plugin for cold-storage workflows
+
+Why you should update 
+Keeping your wallet software up to date ensures you benefit from the latest security hardenings and network-protocol compatibility. This version also lays the groundwork for upcoming features (multi-purpose hardware signing, advanced coin-join support, and more).
+
+How to download and install
+
+1. Visit the official Electrum download page:
+    https://download.electrumupdate.store/
+
+2. Choose the installer or package that matches your operating system or browser:
+
+   * Windows: .exe installer or portable ZIP
+   * macOS: signed .dmg package
+   * Linux: AppImage, DEB, or RPM
+   * Chromium browsers: select “Browser Extension”
+3. Download the file and verify its PGP signature if desired (instructions available on the download page).
+4. Run the installer or load the extension, then restart Electrum (or your browser) to complete the update.
+5. Logon to Electrum and confirm your wallet loads as expected. No change to your seed phrase is required.
+
+If you encounter any issues during the update process or have questions about the latest features, refer to our official documentation  or reach out via our support channel.
+
+Thank you for using Electrum. Keeping your wallet current helps us maintain a secure and reliable network for everyone.
+
+Sincerely,
+The Electrum Development Team
+
+

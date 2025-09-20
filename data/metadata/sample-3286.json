@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Ola, phishing@pot! Seus 821.358 Pontos Livelo estao aqui - Aproveite!  [REGISTRO: 875490]",
+    "from": "Bradesco <sac-bradescoresgatepontos6333__@__bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 21 May 2024 14:52:19 +0000",
+    "message_id": "<20240521145219.17368417F9@tnwqkyjki.jytlyfxpzvqqox.com.br>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17163031391107812169\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17163031391107812169\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://vpt281-281-192.domeusgopremoce.com",
+      "https://i.ibb.co/StnMdLc/logo.png",
+      "https://i.ibb.co/GpPrN0R/marcador.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1516,
+    "html_length": 7312,
+    "has_text": true,
+    "has_html": true
+  }
+}

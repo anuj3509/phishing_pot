@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Beneficios disponivel para pagamento Resgate.",
+    "from": "\"Banco Bradesco S.A.\" <nao-responder@bradescoprime.com.br>",
+    "to": "RODRIGO-F-P@HOTMAIL.COM",
+    "date": "Mon, 7 Oct 2024 21:18:17 +0000",
+    "message_id": "<189385e3424a9c9ae3ad3552cb00c19e@patraoluis.com.br>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/CSB%2FPRD756936%2FSKU830486%2FLARGE%2F55399279%2FApple-iPhone-15-Plus-128-GB--Rosa.jpeg",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/Reclameaqui_Livelo_Banner_Faixa_APP.png",
+      "https://shopping.livelo.com.br/apple-iphone-15-plus-128gb-rosa/produto/PRD756936?skuId=SKU830486&amp;algoliaQueryIdSourceIndex=catalog",
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/MZL%2FPRD3075558%2FSKU3790835%2FLARGE%2F296865276%2FNotebook-ASUS-VivoBook-Go-15-E1504GANJ447-Intel-Core-i3-4GB-RAM-SSD-256GB-156-Full-HD-Linux-90NB0ZT1M00PS0-Cinza.jpeg",
+      "S3-W09AA31C.EB2GAM1",
+      "https://mtecnet.com.br/ib2www/?cliente=%EMAIL%",
+      "parent.formatPoints($data.x_salePrice())",
+      "https://i.ibb.co/7nKZsgq/EXT-PRD55351-SKU47343-LARGE-800945-Smart-TV-60-LG-4-K-UHD-60-UQ8050-Wi-Fi-Bluetooth-HDR-Nvidia-GEFOR.jpg",
+      "https://mtecnet.com.br/ib2www/?cliente=RODRIGO-F-P@HOTMAIL.COM",
+      "https://shopping.livelo.com.br/smart-tv-60-lg-4k-uhd-60uq8050-com-wifi-bluetooth-hdr-nvidia-geforce-now-thinq-ai-smart-magic-google-alexa/produto/PRD55351?skuId=SKU47343&amp;algoliaQueryIdSourceIndex=catalog",
+      "https://shopping.livelo.com.br/ar-condicionado-lg-voice-dual-inverter-ia-9000-btus-220v-quente-e-frio-s3-w09aa31c-eb2gam1/produto/PRD896745?skuId=SKU971090&amp;algoliaQueryIdSourceIndex=catalog",
+      "https://shopping.livelo.com.br/notebook-asus-vivobook-go-15-e1504ga-nj447-intel-core-i3-4gb-ram-ssd-256gb-15-6-full-hd-linux-90nb0zt1-m00ps0/produto/PRD3075558?skuId=SKU3790835&amp;algoliaQueryIdSourceIndex=catalog",
+      "https://catalog-media-storage-prd.s3.sa-east-1.amazonaws.com/IFA%2FPRD896745%2FSKU971090%2FLARGE%2F273774937%2FAr-Condicionado-LG-Voice-Dual-Inverter-IA-9000-BTUs-220V-Quente-e-Frio-S3W09AA31CEB2GAM1-220V.jpg",
+      "HOTMAIL.COM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1222,
+    "html_length": 16113,
+    "has_text": true,
+    "has_html": true
+  }
+}

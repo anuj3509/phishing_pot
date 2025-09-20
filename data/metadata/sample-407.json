@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Request for Quotation",
+    "from": "Mike McDermott <wwebweb2@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 28 Feb 2023 07:59:24 +0200",
+    "message_id": "<CANgRz58fD+fdpCAqpG4-wgi+3SU9UWjPXm7Vy+YVAzqPakwtxQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000d9f40505f5bc4c68\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000d9f40505f5bc4c68\""
+  },
+  "attachments": [
+    {
+      "filename": "Request for Quotation.pdf",
+      "content_type": "application/pdf",
+      "size": 163492
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pfizerservice-nv.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 766,
+    "html_length": 1013,
+    "has_text": true,
+    "has_html": true
+  }
+}

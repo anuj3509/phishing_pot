@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ID: 400241587",
+    "from": "Bradesco <Bradesco@vmi1152785.contaboserver.net>",
+    "to": "phishing@pot",
+    "date": "Mon,  9 Jan 2023 05:01:13 +0000 (GMT)",
+    "message_id": "<20230109050113.5A449BC151D@vmi1152785.contaboserver.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://uploaddeimagens.com.br/images/004/289/025/full/bradesadasd.jpg?1673234493",
+      "https://www.bradesco.com.br",
+      "https://imgur.com/kYFohD1.jpg",
+      "https://southamerica-east1-jovial-monument-372917.cloudfunctions.net/descco"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 918,
+    "html_length": 5116,
+    "has_text": true,
+    "has_html": true
+  }
+}

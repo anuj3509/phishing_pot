@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Reporter verliert 16,3 kg in 4 Wochen.",
+    "from": "KetoPlus, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Dec 2023 13:40:11 +0100",
+    "message_id": "<99GUL4Y.0.0.99GUL4Y.9.99GUL4Y@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://superkoran.info/UjAzQXF6K2RzNHFUbkJQY0xaYjhWWW5aL3RydnhFeUVZY3FiNC9OUGVBRjlrQnBqVW9LYzlPbW42QjlkZHFDc21SeE5BdkprdEpuUWZuLzlucnBHWHc9PQ__",
+      "http://c/SEY2em1hNEU5Qk1raDV0R3BWM2pDeHFod1orMFlyNXJiUysvOTFVOXFMdnJBZXRRME8xaDJXaEM1L01XbGFrV2tCbzlXVjYwWFRXRnZIL3R5OENQOHpHUHlpdUJaQWdhRWZFbDNUb1R6bkE9",
+      "https://www.zupimages.net/up/23/51/fush.png",
+      "www.zupimages.net/up/23/51/fush.png",
+      "IAbqeUR.27115.598.tobIAbqeUR.27115.598.tobIAbqeUR.27115.598.tobIAbqeUR.27115.598.tob-IAbqeUR.27115.598.tobIAbqeUR.27115.598.tob",
+      "https://fnnl-check.com/?a=6073&amp;oc=17607&amp;c=47878&amp;m=3&amp;s1=",
+      "IAbqeUR.27115.598.tobIAbqeUR.27115.598.tobIAbqeUR.27115.598.tobIAbqeUR.27115.598.tob-IAbqeUR.27115.488699"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 668,
+    "html_length": 1507,
+    "has_text": true,
+    "has_html": true
+  }
+}

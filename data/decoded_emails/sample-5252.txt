@@ -1,0 +1,252 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Comunicado urgente: Irregularidade detectada em seu CPF junto à Receita Federal. Bloqueio em 24h! Código: 98797108.
+From: Comunicado Receita Federal <regularizacao790592@receita>
+To: <phishing@pot>
+Date: Wed, 7 May 2025 19:03:46 +0000
+Message_Id: <7bd249e855a761458f3e7561bbb965f8@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_7bd249e855a761458f3e7561bbb965f8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_7bd249e855a761458f3e7561bbb965f8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com
+  - https://rcta-608096400629.southamerica-east1.run.app/
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Irregularidade CPF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 25px auto;
+            background-color: #ffffff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 18px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        .header img {
+            height: 60px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #005293;
+            font-size: 24px;
+            letter-spacing: 0.5px;
+        }
+        .header p {
+            margin: 5px 0 0;
+            font-size: 13px;
+            color: #666;
+        }
+        .alert-banner {
+            background-color: #d9534f;
+            color: white;
+            padding: 12px;
+            text-align: center;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 25px;
+        }
+        .section-title {
+            color: #005293;
+            margin-top: 0;
+            font-size: 18px;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+        }
+        .status-box {
+            background-color: #f8f9fa;
+            border-left: 5px solid #dc3545;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .status-title {
+            font-weight: bold;
+            color: #dc3545;
+            margin: 0 0 10px 0;
+            font-size: 16px;
+        }
+        .status-details {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .warning-text {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 12px;
+            margin: 20px 0;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .deadline-notice {
+            background-color: #f8d7da;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            padding: 12px;
+            margin: 20px 0;
+            border-radius: 4px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .button-container {
+            text-align: center;
+            margin: 30px 0 15px;
+        }
+        .action-button {
+            display: inline-block;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            padding: 14px 30px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .action-button:hover {
+            background-color: #218838;
+        }
+        .info-text {
+            font-size: 13px;
+            color: #666;
+            line-height: 1.5;
+            margin: 20px 0;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #777;
+            border-top: 1px solid #eaeaea;
+        }
+        .official-seal {
+            width: 100%;
+            max-width: 150px;
+            margin: 0 auto 10px;
+            display: block;
+            opacity: 0.8;
+        }
+        @media (max-width: 640px) {
+            .container {
+                margin: 10px;
+                width: auto;
+            }
+            .content {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+                <div style="text-align: center;">
+                    <span style="font-size: 32px; font-weight: bold;">
+                        <span style="color: #009c3b">B</span><span style="color: #ffdf00">R</span><span style="color: #002776">A</span><span style="color: #009c3b">S</span><span style="color: #ffdf00">I</span><span style="color: #002776">L</span>
+                    </span>
+                    <div style="font-size: 12px; color: #666; margin-top: 3px;">MINISTÉRIO DA FAZENDA</div>
+                    <div style="font-size: 11px; color: #888; margin-top: 2px;">RECEITA FEDERAL</div>
+                </div>
+            </div>
+            <h1>NOTIFICAÇÃO OFICIAL</h1>
+            <p>Sistema de Administração Tributária Nacional</p>
+        </div>
+        
+        <div class="alert-banner">
+            IRREGULARIDADE DETECTADA NO CPF - RESTRIÇÃO INICIADA
+        </div>
+        
+        <div class="content">
+            <h2 class="section-title">Informação de Irregularidade Cadastral</h2>
+            
+            <p>Prezado(a) <strong>rodrigo-f-p@hotmail.com</strong>,</p>
+            
+            <p>Informamos que foi detectada uma <strong>irregularidade fiscal</strong> relacionada ao seu Cadastro de Pessoa Física (CPF) junto à Receita Federal do Brasil.</p>
+            
+            <div class="status-box">
+                <div class="status-title">STATUS ATUAL: RESTRIÇÃO ATIVA</div>
+                <p class="status-details">
+                    <strong>Protocolo:</strong> RFB-72890534<br>
+                    <strong>Data da detecção:</strong> 28/04/2025<br>
+                    <strong>Natureza:</strong> Pendência de Declaração e Divergência Cadastral<br>
+                    <strong>Situação:</strong> Em processo de suspensão
+                </p>
+            </div>
+            
+            <p>Nosso sistema identificou ausência de declarações obrigatórias e inconsistências cadastrais que precisam ser regularizadas imediatamente para evitar:</p>
+            
+            <ul style="padding-left: 20px; margin: 15px 0; color: #444;">
+                <li>Bloqueio completo do CPF</li>
+                <li>Suspensão de benefícios governamentais</li>
+                <li>Restrições em operações bancárias e financeiras</li>
+                <li>Impossibilidade de emissão de documentos oficiais</li>
+                <li>Inclusão em cadastros de inadimplência (SPC/SERASA)</li>
+            </ul>
+            
+            <div class="warning-text">
+                <strong>Atenção:</strong> A atual legislação determina que cadastros com irregularidades não sanadas serão automaticamente suspensos e poderão ser cancelados definitivamente.
+            </div>
+            
+            <div class="deadline-notice">
+                PRAZO PARA REGULARIZAÇÃO: <strong>15/05/2025</strong><br>
+            </div>
+            
+            <p>Para regularizar sua situação e evitar a suspensão do seu CPF, clique no botão abaixo e siga as instruções:</p>
+            
+            <div class="button-container">
+                <a href="https://rcta-608096400629.southamerica-east1.run.app/" class="action-button">REGULARIZAR SITUAÇÃO CADASTRAL</a>
+            </div>
+            
+            <div class="info-text">
+                Após a regularização, o sistema processará as informações em até 24 horas e você receberá um comprovante de situação regular por e-mail. Em caso de dúvidas, não responda este e-mail, acesse o portal e-CAC ou dirija-se a uma unidade da Receita Federal.
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Esta é uma comunicação oficial do Governo Federal.<br>
+            Receita Federal do Brasil - CNPJ: 00.394.460/0058-87<br>
+            Esplanada dos Ministérios, Bloco P - Brasília/DF - CEP: 70048-900<br>
+            © 2025 - Todos os direitos reservados</p>
+        </div>
+    </div>
+</body>
+</html>

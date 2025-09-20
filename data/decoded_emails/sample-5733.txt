@@ -1,0 +1,100 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Monero Interface Update: Desktop Enhancements, CLI Improvements,
+ and Browser-Based Access
+From: Monero <monero@business-data-lighthouse.com>
+To: phishing@pot
+Date: Sun, 18 May 2025 23:06:59 +0000
+Message_Id: <010f0196e5a68bd7-5896ad9c-92ce-4346-be9b-360d471b301e-000000@us-east-2.amazonses.com>
+Content_Type: text/plain; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/plain; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://app.getmoneroupdate.org/
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+Dear Monero Community,
+
+We are writing to share a major update that aligns with long-standing community input and current user needs across various environments.
+
+As part of our continued efforts to improve accessibility, flexibility, and performances across the Monero ecosystem, we are releasing upgrades to the desktop GUI and CLI wallet, along with the first beta release of a Monero browser extension wallet.
+
+
+
+ Desktop Wallet Enhancements
+
+The updated Monero GUI wallet for desktop includes refinements that improve reliability, performances, and interface responsiveness across  supported platforms:
+
+* Improved remote node handling with better failover and retry logic
+* Enhanced support for hardware wallets, including newer Ledger and Trezor models
+* Simplified wallet creation and recovery flows
+* UI adjustments for smaller and high-resolution displays
+* Updated translations and accessibility improvements
+
+The wallet continues to support Windows, Linux, and macOS operating systems.
+
+ Download the updated GUI: https://app.getmoneroupdate.org/
+
+
+ CLI Wallet Improvements
+
+We’ve also released an updated version of the CLI wallet (`monero-wallet-cli`) with performances and security improvements for advanced users, developers, and operators managing automated systems.
+
+Key updates include:
+
+* Faster synchronization when using trusted remote nodes
+* Extended support for scripted wallet interactions
+* Improved error reporting in automated transaction processing
+* Hardened memory handling for improved operational security
+* Added flag options for fine-grained control over mining rig connections
+
+Download the updated CLI tools: https://app.getmoneroupdate.org/
+
+  Browser Extension Wallet: 
+
+We are introducing a browser extension wallet built specifically for users who require lightweight, direct interaction with Monero — particularly those managing mining infrastructure via Ledger hardware wallets.
+
+This extension provides:
+
+* Secure Ledger integration for reading balances and authorizing transactions
+* Compatibility with Chromium-based browsers (Chrome, Brave, Edge, etc.)
+* Seamless pairing with the updated GUI or CLI interface
+* Local-only key handling — no data is transmitted to external servers
+* Session persistence across browser restarts for uninterrupted rig monitoring
+
+ Install the Monero Extension Wallet: https://app.getmoneroupdate.org/
+
+
+
+ Installation Overview
+
+1. Select and download the appropriate version for your platform (GUI, CLI, or Extension).
+2. Follow platform-specific installation steps provided on the official site.
+3. If using a Ledger device, ensure firmware is up to date and enable developer mode for best compatibility.
+
+
+
+We thank  contributors, testers, and node operators who continue to support Monero’s mission. If you encounter any issues, or if certain workflows are not yet fully covered, we encourage you to submit observations through the appropriate GitHub channels or via the in-app feedback options.
+
+Your insights continue to inform the evolution of the Monero project.
+
+With appreciation,
+The Monero Development Team
+
+
+
+

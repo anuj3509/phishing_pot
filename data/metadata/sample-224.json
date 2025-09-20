@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Vous cherchez de la compagnie ?Am I your dream love? phishing@pot ",
+    "from": "Russian Girls <bonobo@news.bonobojeans.com>",
+    "to": "[to]",
+    "date": "Mon, 09 Jan 2023 17:18:59 +0100",
+    "message_id": "\r\n <c7b21359-f763-40c3-9975-5a68287f0412@MW2NAM12FT060.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://laredouteshop.com/cl/2179_md/9/1116/672/410/1190",
+      "http://laredouteshop.com/op/2179_md/9/1116/672/410/1190",
+      "https://i.imgur.com/QdBew6L.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.dating-express.com/unsubscribe/index.php?pYvrCV26eyVetn3+XRYGQGAEjcf7Q+D38WCUsaIgm5ECssO0XiYx91GgoQmMg8OzKC1fQ9NHA7xLGKFrSMxPlg==",
+      "i.imgur.com/QdBew6L.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 95,
+    "html_length": 1199,
+    "has_text": true,
+    "has_html": true
+  }
+}

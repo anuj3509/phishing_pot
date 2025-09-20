@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Boarding Pass NFT is ready!",
+    "from": "KaratDAO <tesfaye_fekadu@ethiostarlocalization.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 18 Jun 2024 21:04:21 -0700",
+    "message_id": "<00420ba05490bab5268cc5c460a5bbb8e7df@ethiostarlocalization.com>",
+    "content_type": "multipart/alternative; boundary=\"a10b42e91dd9f74c6fc526dd28d8f74ff7\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"a10b42e91dd9f74c6fc526dd28d8f74ff7\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "https://karatdao.s3.ap-south-1.amazonaws.com/logo.png",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap",
+      "https://karatdao.s3.ap-south-1.amazonaws.com/pictures.png",
+      "http://youngtop.info/cgi-bin/out.cgi?id=114&amp;l=top01&amp;t=100t&amp;u=https://financewizard.site?id=1214443865253"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1070,
+    "html_length": 14077,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[ lRS : Report ] - Your refund is ready to be proceed.",
+    "from": "Annual Tax - Report <report-bwtbsxgwnhtivgbzu@jembawuks.travelincentralamerica.com>",
+    "to": "statement345.alert@irs.official.com",
+    "date": "Sun, 10 Dec 2023 22:09:19 +0700",
+    "message_id": "<CAOWiGPeZQ4SW2PvwtbKuRwTo4s-+KKYn5cTstzp_Eq68yFs-0g@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000005c87c6060c293418\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000005c87c6060c293418\""
+  },
+  "attachments": [
+    {
+      "filename": "Informations.pdf",
+      "content_type": "application/pdf",
+      "size": 88373
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 83,
+    "html_length": 216,
+    "has_text": true,
+    "has_html": true
+  }
+}

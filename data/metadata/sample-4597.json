@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "���� Super Angebote warten auf Sie bei Kaufland ��� Jetzt entdecken! ",
+    "from": "Kaufland <Kaufland.de>, Kaufland <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Dec 2024 03:02:21 +0000",
+    "message_id": "<SmGYrHu.0.0.SmGYrHu.9.SmGYrHu@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://blog.afridox.com/aTVEUDZvL3ZzOGU5UEVtcjdmNE03MGNZajVIK09mclZTK3lGdHVILzJka0RQL1RVdU1MNjRUd1BXalN2dkJrTmhycDBicHY2aDFWQlFSZTNCdlJGRUFaL2gvb2VqUEV6OXdkZ3ljZ0xmOEk9",
+      "www.zupimages.net/up/23/29/rk4l.png",
+      "http://blog.afridox.com/amFMMENKaXRrdUhueFNpWG1hNEc0V2I4RS9keGptNjZyUUU1MC8rMW1WVWlXdTFRQkROZVZyckI4WWhrUFZ2a3hYRFdFRU94MElJV2UyWHgrdENqN0M5a3I3MEJQSXR2a3FuenRuNXhJdXM9",
+      "http://blog.afridox.com/UGdEWkFwVTkyRUdJeTZaWWc0TlhIVVQzMTM3UnFIY1RRWC9NV3lVRm1NbmRtSTlWZ2NYUVZhNXpLWlBvUThZeXgyS3JtdkM4RTNsMUxXQUVYYm04bzRPd3JzZFN6VG9OMzdzLzJvL1N0c009",
+      "https://www.zupimages.net/up/23/29/rk4l.png",
+      "https://trk2.de/3ro7p7ly"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 596,
+    "html_length": 5600,
+    "has_text": true,
+    "has_html": true
+  }
+}

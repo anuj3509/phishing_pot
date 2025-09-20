@@ -1,0 +1,55 @@
+{
+  "headers": {
+    "subject": "[Important] Unlock your wallet to avoid suspension",
+    "from": "Trust Wallet <informes.admision.sp@ucv.edu.pe>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Sep 2023 03:41:33 -0300 (-03)",
+    "message_id": "<9dW-c682c55cd9-q@embluemail.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============2954318834099878163==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============2954318834099878163==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.embluemail.com/Confirm/TermsAndConditions_ES.html?data=HCMVVGmxOfLBasezLp13YYG5QE6gdJJQqsKD9lmuhhPizZd5cGy8Ck23puDdTC86nmxnEzuGoh%2FCVi2UVDs06ml1J1vBNfVkJCpcEWAKorDCo0w9vb2iU9sLGZzLMcWG!-!6a9fl,6",
+      "https://app.embluemail.com/Confirm/PedidoDesuscripcion_ES.html?data=2VEI4foeS%2FP28LpFwUYIxfslbuaAZKIUqDzjwD3aql%2B70Om7FyqLt%2FRKfW6OmPT3O3xXmFBfe290kWJN3Xr5lg%3D%3D!-!a7ZFQLtn9/1pxKG0HlrpYAozIGifSREJfQJmB4gUUG48fPKJvEU9nhH+ecAq8SFd",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      ".slot-spacing.CENTER",
+      "https://app.embluemail.com/Services/Interaccion.svc/GetvCard?data=58269-25614",
+      "https://nts.embluemail.com/p/cl?data=EpE3F4T8fe9bR7vMF2VAAMgI%2BsuXepMeJm6wgVgdss%2BUdBT3UOkfqiA6PvjZUbF9%2FJkGDW%2Bi7naOQaMG2QYRs7u9S9BL8YLtmlrvyBiTZj0%3D!-!6a9fl,6!-!https%3A%2F%2Ftrustwallet.com%2Faccounts%2Fwallet-verification%3D42869Zvs4189275FZH9h19hksja57h5E2js0a71%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=paris%26utm_content=paris--%5BImportant%5D+Unlock+your+wallet+to+avoid+suspension%26utm_term=0101--7--none--0-10--ENVIO+SIMPLE",
+      "hotmail.com",
+      "img.not-resized",
+      "https://trustwallet.com/accounts/wallet-verification=42869Zvs4189275FZH9h19hksja5j8hz5E2js0a71",
+      "informes.admision.sp@ucv.edu.pe)",
+      "https://i.embluejet.com/ImagenesMoxie/emblue/images/logo.jpg",
+      "https://app.embluemail.com/Online/VON.aspx?data=HCMVVGmxOfLBasezLp13YYG5QE6gdJJQqsKD9lmuhhPizZd5cGy8Ck23puDdTC86nmxnEzuGoh%2FCVi2UVDs06ml1J1vBNfVkJCpcEWAKorDCo0w9vb2iU9sLGZzLMcWG!-!a7ZFQLtn9/1pxKG0HlrpYAozIGifSREJfQJmB4gUUG48fPKJvEU9nhH+ecAq8SFd",
+      ".slot.TWO_THIRDS",
+      "https://nts.embluemail.com/p/cl?data=l%2FwegbMrJy8mlbIW7rWYnXrLSxVVKNpE5JHZkEeDatprP2p%2F8nLQQyzkJgbiPP%2F5ehTuHCUp6eotu1iKzdKtVSNjkHIMk%2BVYK4JOgKIaEjE%3D!-!6a9fl,6!-!https%3A%2F%2Farbat-service54.ru%2Fwp%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=paris%26utm_content=paris--%5BImportant%5D+Unlock+your+wallet+to+avoid+suspension%26utm_term=0101--7--none--0-10--ENVIO+SIMPLE",
+      "https://nts.embluemail.com/p/op?data=%2FsKXwn7T2MXDXAUFVmuvPwfAppA9In2QIy6iLm2XyUFfeW7dqXYsYdItxycJC9aSc4uNuB1%2BrR%2FTpfTQmtQ89g%3D%3D!-!6a9fl,6",
+      "https://cdn.designer-images.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png",
+      ".component.text-component",
+      "http://embluemail.com/terminos-y-condiciones.html",
+      "https://moosendimages.imgix.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=712",
+      ".slot.FULL",
+      ".slot.ONE_FOURTH",
+      "https://app.embluemail.com/Online/VON.aspx?data=wcrJjpcVZzSEZzXstwZhWwMJ7AwVS6b7W7CDenAey6lN0QgbC1jD99rUImGxde6oVNXmhRoQjdKr%2BpUfJJnE0UgfV3fn%2Bw1WOqlzAwg5fEWkrH1dZPkXlh789xyQY6VY!-!a7ZFQLtn9/1pxKG0HlrpYAozIGifSREJfQJmB4gUUG48fPKJvEU9nhH+ecAq8SFd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 29742,
+    "has_text": true,
+    "has_html": true
+  }
+}

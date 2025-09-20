@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Ol�� phishing@potfp Aviso: Sua Encomenda Est�� Retida Regularize o Pagamento Imediatamente para Libera����o!",
+    "from": "Correios <taxascorreios@atendimento1301>",
+    "to": "phishing@pot",
+    "date": "Sat, 21 Sep 2024 11:07:08 +0000 (UTC)",
+    "message_id": "<20240921110708.2726547912@hqdpxcwky.vyciojeglkgnkq.com.br>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ednvendas.com.br/taxa"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1757,
+    "html_length": 3325,
+    "has_text": true,
+    "has_html": true
+  }
+}

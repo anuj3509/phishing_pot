@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Esta es tu oportunidad de recibir un premio Nespresso",
+    "from": "\"Nespresso\" ,FNQ <newsletter@newsmail.volksfreund.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 04:15:32 -0500 (EST)",
+    "message_id": "\r\n <be8ff4e9-9520-4d0f-bbdd-5f9adeaa8a11@HE1EUR04FT062.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/r5oD9zl.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1b80exvkOQxcRmZuXzLfFGpDHqC1R15PAJmDFC0LpqiaR2pBTgAuGT2y-98ySU5V09djXOFL-bAQN6pDg95kMDIwaKqmTbt8GjE7F_WxyvbiVHqD6LIf_LVo9KJI_bvbPosLXUx2PH6cOHQlTpmzZQI_KA==",
+      "i.imgur.com/r5oD9zl.png",
+      "https://i.imgur.com/YjdTmfX.png",
+      "http://tracks.o2.co.uk/9mrSc4Vu.kdja?gAAAAABl1b80p_U9AmJqQH2ECcZC6U-5K6Dany2HxhTjmHraNt7-iLOJQ723Is6jubse6UgH_uF762N_dZfdzhGh3s71zz07h5uf-DwZCTGDNnajngg8dkS9KixmJxNypowb7_aZc4rI3LGr7SiF0vxs-6dmEAXRhw====",
+      "https://i.imgur.com/wXo7uwz.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1b80vhbREU0Ma_D7Yalb2KOAQRL61adK2OCn34FjSuqbn8eWQV52wWR91ORxCFFeWSOiP3iIPe7BqcXbrLjn0_b-1AxaLhrFnBsTi1sPjqXlwArVZjwD6xrVvPg2GRITIVvVveELn84NeHjvOtt7MZqZFw==",
+      "i.imgur.com/wXo7uwz.png",
+      "i.imgur.com/YjdTmfX.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1b80l1AuvACsA3BR10FZucGKO1ACNRh038IBlGUaHXEmatqAXnaVTtjuKcJL_6oVObCwoaciXsNIpe-cXv-r_T8n-BmirGplcYytkIUVAWMljcRaux1C_t-Ddbxo_JQVxtOoOH6ed_8T76JmOL_vrY_fOg=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2840,
+    "has_text": false,
+    "has_html": true
+  }
+}

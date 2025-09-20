@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "VORHERSAGEN IM HOROSKOP DER ENGEL",
+    "from": "Medium Celeste, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Sep 2023 11:32:27 +0200",
+    "message_id": "\r\n <71515831-b4f0-42ff-9daf-8f5e4c11e44b@DM6NAM10FT061.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://77.91.100.82/oop/345_md/2010/11/41/23/2459859",
+      "http://77.91.100.82/media/b3d711c0a3d8452.gif",
+      "http://77.91.100.82/media/92006a1b036aa8c.jpg",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://77.91.100.82/media/e97698112aaebcd.jpg",
+      "http://www.federerensemble.com/tracking/cpm.php?ids=1425&amp;idv=3525&amp;sid=",
+      "http://77.91.100.82/cl/345_md/2010/11/41/23/2459859",
+      "www.ONCF-Voyages.ma",
+      "http://77.91.100.82/media/1cc48ff7888ea43.jpg",
+      "surwww.oncf-voyages.ma",
+      "http://77.91.100.82/media/6bc67212994d10c.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5338,
+    "html_length": 9633,
+    "has_text": true,
+    "has_html": true
+  }
+}

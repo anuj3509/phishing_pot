@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "USPS® Item being held, addressee being notified CY1022030750US",
+    "from": "USPS Tracking Status <social201612216@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Sun, 3 Dec 2023 08:33:53 -1000",
+    "message_id": "<wc4Io20kjecIXt7QKIk6mBlcoy5otZXx1NMZ1hsO0h0@fr5>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.zupimages.net/up/23/48/dlm5.jpg",
+      "https://share.polymail.co/v1/z/b/NjU2YzZkNTJhOWEx/OpRqfZjjC0Sz_il0hGmq4dvE4PMHyGF39l1QaeruzU__9sD3lFniAztDG8MHBlh_6-LnlH1awm3D143lVy4oYzchHI6ORpwaJl4oWmZNy7hagpF5mO_QPXaR4yijhsfGduxFtDW_Sa8GmrOR7gENOSwsGhS4bLHWuC1mX947-sdcXSDMHRj2ezU0whME"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 815,
+    "html_length": 11582,
+    "has_text": true,
+    "has_html": true
+  }
+}

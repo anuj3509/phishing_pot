@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 186190942",
+    "from": "Mercado Livre <contato@mercadolivre.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 20 Nov 2023 15:33:17 +0000",
+    "message_id": "<479c2048-026a-e98f-e497-868a387b9500@mercadolivre.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://b-a4qxna7jwq-rj.a.run.app/k/?tr=2a8ae32a9a184c1087eff294b4fc6a04&amp;t1=ml",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 571,
+    "html_length": 10323,
+    "has_text": true,
+    "has_html": true
+  }
+}

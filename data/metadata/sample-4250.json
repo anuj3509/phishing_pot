@@ -1,0 +1,65 @@
+{
+  "headers": {
+    "subject": "Your latest security info",
+    "from": "M̶icrosoft Safe <no-reply@sbtjapan.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Oct 2024 19:32:59 +0000",
+    "message_id": "<01000192deeabe70-f9602cf7-d868-446e-b100-3f8306c7d346-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-64411b3e1acfb932-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-64411b3e1acfb932-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=0sund7ma53r5ehb9d4ah623f3kq1f8b7ichiq8aiqusls6snshbg",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/icons/x-green_20x20.png",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBUDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=hupm5ajvs5n9s7851kmimic2po53cvj01odaacjckul4lik1rjig",
+      "https://linknox.com/mntzk",
+      "https://cloud.carbonite.com/pub/as?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWOaB0BccMGqIlLl7o1z_-Dww_hr1rRWlImupRq2IGtcy6NXdhEwlN_4ScTPd6HPSyCW4REu7Z8NIAQG-6gR1GXd7eDJHC25FRfgeoc73k-QZDwMtJZg6Z41pBA.",
+      "https://logincdn.msauth.net/16.000.28230.00/images/microsoft_logo.svg?x=ee5c8d9fb6248c938fd0dc19370e90bd",
+      "span.MsoHyperlinkFollowed{",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYYY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=t000rr1f99iuon0r26evdurp1elms167cc21ujmlq3eucp2ud6fg",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&amp;_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&amp;_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBWSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=e0r5jpbkefdlagap8qe44sg1qpjscehegjnvrkm005m04qnb0n1g",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ej8s83istav80qos3dlqghlnsb06jdqm834i2f8gqasab9f24d00",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWDY&amp;_ei_=EOwPQ42l-mBFJGD0ZPxQdvm3_IjeWIwpJE9r6Uui0eAC_7BKqPubbLGX9pWuCxaKoZln3NDgQ_sgxCwHfcnhVYwKTjO00VuM8spgFghQ-eM2Lqz25tiezEoYBRWqQPDfVUtvIMa0ruMzoM__6_NIZay9cc0tvwe-OGcgS-2-z0v624Vn4KmP2OO6lkpLq5YJEwVDsDx659pxLGbf459if0iV1jU.&amp;_di_=vk9vu2dpsk6qlq7bt01qkna4lje94jnfijvhmk6o24q2hbtjgkl0",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ccsrv4e00pigbge1fnq5pqihq3e8nmm78j5ccrcu4te2ic1uabhg",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBWBY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=mkepn8urob7is6np51qd1rk84foe8vnnrn6jevd75tntrfvuqteg",
+      "http://www.w3.org/1999/xhtml",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg",
+      "hotmail.com",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=3gigepo3d1llmlupfncr8n7bjtnuh31f4f3bkpfm4310vpsh4df0",
+      "www.microsoft.com",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2022template/icons/wr-fb-light.png",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=dka8lqe0hs0jkgspidmma2jr179f45lo5b7st6jvs3fmeqlecme0",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBYSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=v3fe3084c99v3ipaebm6nbg9vh1s68o6rkg4jcih2upl57qnnm4g",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/in.png",
+      "span.MsoHyperlink{",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYBY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=khbl44qabl97ku8cb8f9tgqatjl8o1ehk7bouud8cng2q471tr40",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2022template/icons/wr-linkedin-light.png",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/x-blue_20x20.png",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBWDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=a25l6bbg090chlj258ap15r2g6vnlt5kpise4e88drq2597m0kt0",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAWBWYY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=k0pdm09353n7d9h9feg0ps9b986bggkidjv5p3715vnv2g6tgm90",
+      "https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWBY&amp;_ei_=ENmIPj3ca0LF8wDBAiaGyJCKthWDtt06oyPRiCY5oLkUFX3Xqmlmtvsdmt4RSLj6l1XKoy1wgkzh8M9Usvcktxml1-glYBucwjt18rmUaEq0v3yi62FBWxg2cO5TZYhIs83shAwmm5UKBkfxAfjN3OVEnX0k13qcXjI12CpwsO4ORkykOJXE6REEA9XLQ3dYN0.&amp;_di_=bsbd9omgmq451mbld7tujes3fme8l9ovem01uvs1cntmndte2nbg",
+      "fonts.googleapis.com/css?family=Open+Sans",
+      "https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/fa.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 18,
+    "html_length": 41046,
+    "has_text": true,
+    "has_html": true
+  }
+}

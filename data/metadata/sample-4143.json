@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 76726836.",
+    "from": "Correios <alfandega926927@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Sep 2024 19:35:08 +0000",
+    "message_id": "<ec93072f45dc556356a5c2c8b4fd0d93@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ec93072f45dc556356a5c2c8b4fd0d93\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ec93072f45dc556356a5c2c8b4fd0d93\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://alfandegaclientesrastreamento.co.ua/rastreamento/taxas256",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3675,
+    "has_text": true,
+    "has_html": true
+  }
+}

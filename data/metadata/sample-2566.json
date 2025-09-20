@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "������������������������������������ ������������ ���������������������������� ������������ ���������������� - �������������������� ��������������������������������",
+    "from": "\"phishing@pot\"  <noreply@digid.nl>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 13 Jan 2024 12:23:02 +0100",
+    "message_id": "<mnlegnuewbshtycs-a2i7lbl4-LZVE-9119-adol-4ZDgD2uCKAb9@VI1EUR05FT037.eop-eur05.prod.protection.outlook.com ' '>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://[an_10]@bit.ly/4aU6Wau#bEfqOZyyuTSeQqlHhBpNykYwLuC4M3I",
+      "https://[an_10]@bit.ly/4aU6Wau#cl/2647_md/1/1253/756/143/138728",
+      "https://i.imgur.com/Vm03xpr.jpg",
+      "i.imgur.com/Vm03xpr.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14970,
+    "html_length": 16918,
+    "has_text": true,
+    "has_html": true
+  }
+}

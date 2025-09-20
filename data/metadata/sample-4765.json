@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Ihre Chance auf einen gro��en Gewinn!",
+    "from": "Temu,(<noreply@team.mobile.de>)",
+    "to": "<phishing@pot>",
+    "date": "Wed, 8 Jan 2025 12:31:33 +0000",
+    "message_id": "<XQSZMBJBMKSXEQ8AU9KYO1L@dhl.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg",
+      "http://wmasurvey.com/4HGVld42606DuME1267xrocvonsxr14302BPUZGBTCLUBWDGN2WNHL17444r10",
+      "http://www.w3.org/1999/xhtml",
+      "http://wmasurvey.com/5RDOWk42606DTaE1267xoaumuacej14302KVKFLJQIEKFVPWN2RAVZ17444J10",
+      "http://wmasurvey.com/4uAZDg42606VlDZ1267xhabmbswko14302NCSNJRWVBDACHJL2WBGN17444t10",
+      "http://wmasurvey.com/6Uvstw42606SMBO1267afmapaequj14302ONYZWRNAJSCTELK2XOIJ17444r10",
+      "https://mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1798,
+    "html_length": 8060,
+    "has_text": true,
+    "has_html": true
+  }
+}

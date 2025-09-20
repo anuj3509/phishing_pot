@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "wir vergeben deinen NETTO Gutschein an einen anderen Teilnehmer",
+    "from": "Netto 250 Voucher, Netto 250 Voucher, <newsletter@news.veepee.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 21 Dec 2024 17:16:17 +0000",
+    "message_id": "<FBSUFWKFOQCRYQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4kksyK41788MdfC552szgeolxmhw14302UCBQKSXGRNNYSXH2IQZM17292S10",
+      "sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://topmarktingplace.com/5xySZX41788YFPq552blutgsyqha14302RVEOHDLGOTQSOSY2JDRL17292y10",
+      "http://topmarktingplace.com/4MHcCG41788sIPF552spxgknqdxe14302JEKBXNQWVZIBCBR2BRUY17292y10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/6KTmYN41788oYoG552gdtnhflagg14302ZHJBMDJOBFFZKHE2KZWZ17292g10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://topmarktingplace.com/4lnZMp41788FtLJ552wnipkanflv14302VYYITSQPSOKJXIA2TOTY17292A10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1940,
+    "html_length": 9407,
+    "has_text": true,
+    "has_html": true
+  }
+}

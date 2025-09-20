@@ -1,0 +1,94 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Acesso Indevido - OUN0LDWG6ZBLIV06A1
+From: "Conta Microsft - Atendimento: BPXBN1ZK8AHW4KLM7L" <orestrezubak@gmail.com>
+To: phishing@pot
+Date: Mon, 05 Aug 2024 12:01:19 -0700 (PDT)
+Message_Id: <66b1217f.050a0220.138bd9.b5c1@mx.google.com>
+Content_Type: multipart/mixed; boundary="===============2702109012565834557=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="===============2702109012565834557=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://livesmail.blog
+
+DECODED TEXT CONTENT:
+------------------------------
+Verificação de Atividade body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; } .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); } .header { text-align: center; padding-bottom: 20px; } .header h1 { color: #333333; } .content { text-align: center; color: #555555; } .button { display: inline-block; margin-top: 20px; padding: 10px 20px; color: #ffffff; background-color: #0078d4; text-decoration: none; border-radius: 4px; } .footer { text-align: center; padding-top: 20px; color: #999999; } Verificação de Atividade Sua conta Microsoft foi acessada a partir de um novo dispositivo. Entre com seu e-mail e senha para verificar a atividade. Você está recebendo este e-mail para garantir que foi realmente você quem fez o acesso. Verificar Atividade Se você não reconhece essa atividade, por favor, entre em contato com o suporte.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Verificação de Atividade</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .header h1 {
+            color: #333333;
+        }
+        .content {
+            text-align: center;
+            color: #555555;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            color: #ffffff;
+            background-color: #0078d4;
+            text-decoration: none;
+            border-radius: 4px;
+        }
+        .footer {
+            text-align: center;
+            padding-top: 20px;
+            color: #999999;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Verificação de Atividade</h1>
+        </div>
+        <div class="content">
+            <p>Sua conta Microsoft foi acessada a partir de um novo dispositivo.</p>
+            <p>Entre com seu e-mail e senha para verificar a atividade.</p>
+            <p>Você está recebendo este e-mail para garantir que foi realmente você quem fez o acesso.</p>
+            <a href="https://livesmail.blog" class="button">Verificar Atividade</a>
+        </div>
+        <div class="footer">
+            <p>Se você não reconhece essa atividade, por favor, entre em contato com o suporte.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+

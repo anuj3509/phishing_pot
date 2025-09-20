@@ -1,0 +1,820 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Com Claro passaporte, você se conecta + com o que ama.
+From: MINHA CLARO <relacionamento@minhaclaro.com.br>
+To: phishing@pot
+Date: Thu, 09 May 2024 01:50:30 +0000
+Message_Id: <63QJAC490NU4.LOGHXF6Z47KL2@d5238b096451>
+Content_Type: multipart/mixed; boundary="=-K3TNB9wgZEJSVz/wNmobuQ=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="=-K3TNB9wgZEJSVz/wNmobuQ=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/globo.png
+  - https://mondrian.claro.com.br/brands/nosvg/favicon-32x32.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0ABOgdNmPosuEMUdhGM3EY5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdoYBmZjGkfx%2bQesM0%2bdIcAAnD4BhMKUEAr7zrdzN2hnaoJNXIxLHB4jvlXNFNJAnb5JmVilWuj%2ba05S%2bup9Fo1FAodXIL5%2bzgIwguFlCmnor4%2foIaGgRYRRxaSJciMBQvCoMoTkk8eALSMtYwg2ksN8slIpkYM6Cre2gysThfhtd8l9TfJOkPHiZ%2b2UI2f2NR3421asuC9t2NAnYczrt%2bvX
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0m052E7I%2br3xrAKBX8aZGBpc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskE5TvUBfcyIDK%2fDnEE2ZAeK1V6rruG481y%2fuxBoD4jFbju9FbpmME7YIt33u2fHeNBhP8eIM3PnF1rFCZ1bvITtV0pznLVi3olvpYCQ1qnfKq6CWWAp1q%2fEkEbwjBGJHMknO9IAmP%2bcIGyBQ4eLOZHZ1aMPvkQFLkNeSVwDq2SZmc%3d
+  - td.mj-full-width-mobile
+  - https://mondrian.claro.com.br/brands/nosvg/android-icon-192x192.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/youtube.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA08b43f444P1SWhkVg5aVvapc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdo75AKLO6fs6mgTtYSCtm7HTdCR%2bYwTU%2bYLHCUvnOjJAy16SG%2fG2drQVB2K4yDdKyCQF%2f%2fCklESquPFXb2bc5m9nsBj6BF0vDtg%2fNVrbYMTFNjbbBIxe9dofbbjB9p03N6Dba5Y8OSXAdxvg5gsaA1nqNpt%2fnMmD4BVzYJ3CE6a8NXcXByZWQsW9sbwu%2fV5V6pkQnUN82LsJFrsnNSQPfhS
+  - https://claro-optout.plusoftdtm.com/?hash=3SY02oWvy7B7ZQ69MUsWw%2fsbaUo%2fb9MJrfFBbwzoImuB8WGR0gG2ffkeZ9eAVNR2MrW9Dre7DvAl1eGq524QMZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE1z0Y263CHDtGpOS792N06F46gSFXcBAlUK%2fj2WfHmbIqQlOO%2fYJqdBCAsmPJYwajxGVs1GmvLpmwEBEKDcZSnd68tpBdqap%2bZ8QVq7I4keghHuuq%2bdLIQRSeXkzwbxHAECW8MEZws0gN8fxDwYAg0BBTk0R1WONk45YO%2bLfMVUQ6
+  - http://www.w3.org/1999/xhtml
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0ruzivd9GSYVFAbvUUkKUJ5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskEbGmaWzigLWO%2bkbkOhy3TE2v8oSXpAb4Kp3KMh8Evvz3M3Bc%2fLDJVTnR9WvZEtja3Ba8zyJDNkTqSOYAbsSm2wooBaTY1BUhaRES4hrhGoXxvrRVNVQY8ZZICMHE1FPMUgEHIgccw%2bV4fJPyYIFs4I4%2fS5djRjm82Y7DPIbCI2do%3d
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/tv.png
+  - https://mondrian.claro.com.br/brands/nosvg/favicon-16x16.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/telefone-fixo.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0GpIr8nYddqOXsysUIJLef5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqzodE9pDMCiO%2fGsr7FC4UsJy1Gis6p4wWkgRcZOSUL1ZND1kOJJ3%2fVxBAHXj038Nju9FbpmME7YIt33u2fHeNBhP8eIM3PnF1rFCZ1bvITtV0pznLVi3olvpYCQ1qnfKq6CWWAp1q%2fEkEbwjBGJHMknO9IAmP%2bcIGyBQ4eLOZHZ5fQxNjf4NLl6aiUXGJzCgM%3d
+  - https://mondrian.claro.com.br/fonts/mondrian-fonts-latest.css);
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzD3hBOu2nnsXRcny7FvC2IQZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqPmFWk6O7bIGvyU9cPPn1pLTAOfY17zWWuDmR7iBPD7Cg5wbTegt4JcIZVwtZP1EvMlO53UJs15HR%2f75TcL7Uk905QZ9NWmAqWUFIkRf6vq%2bACKJUToHPI1a6v4y3q%2fMSw6%2fvgB%2b2ScfPB4p7Fv8GFmDkmgS9jCFy2p%2bp2HDAytAMOr2k%2fnI0VWMkDgi2JG%2bA%3d
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/instagram.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/celular.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0VoxcT6XtPP%2byd02a1j6Qrpc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdo75AKLO6fs6mgTtYSCtm7HTdCR%2bYwTU%2bYLHCUvnOjJAy16SG%2fG2drQVB2K4yDdKyCQF%2f%2fCklESquPFXb2bc5m9nsBj6BF0vDtg%2fNVrbYMTFNjbbBIxe9dofbbjB9p03N6Dba5Y8OSXAdxvg5gsaA1nqNpt%2fnMmD4BVzYJ3CE6a8NXcXByZWQsW9sbwu%2fV5V6pkQnUN82LsJFrsnNSQPfhS
+  - https://mondrian.claro.com.br/brands/nosvg/assinatura-claro.png
+  - claro.com.br
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=IjqK7XssfEXpbeXf58ZlrPsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0BHhByf9bhk7ic1s4IsPSPrCfKQeYxuPTHjwdiGnn6mQFsGv6xprRfj6taBlr61GcBYv1bSjUGfsSD%2ft8Zw2S%2byL19iwS4fdx0JGvxvQ1ldX44r%2fF5vC5fZqANcKOa2ZvjvrvGdUePfs%2bKKBFkPP2TZOfkinYBFMnih7Cg3L5KGvGhRdAgmj06I4kItJ83DV5KBshOzPdG5KtTxo87oA00K6tU%2fq8H%2ftYgYE63hNTMVLXdV4xgwHFxM6fyhBGztiCAOCwnGhrMIYqdhSSw7NypEGgykApVBCRHmNnLyB4yhwAPxOTULQam6XAKOt5Oi6S
+  - https://www.claro.com.br/static/email/202404/05195402/images/oferta.png
+  - https://www.claro.com.br/static/email/202404/05195402/images/btn.png
+  - claro.com.br/passaporte
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/wifi.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0bKUh1aqVyJ7CMzZwcCvcIZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdpiW5m3qLEHDvcu6ieHDndkHSz1%2f1AGHPxWOBg1pUUuCQKQTYtyspYzEUwuIKcFgC5r%2fKEl6QG%2bCqdyjIfBL789zNwXPywyVU50fVr2RLY2twWvM8iQzZE6kjmAG7EptsKKAWk2NQVIWkREuIa4RqF8b60VTVUGPGWSAjBxNRTzFIBByIHHMPleHyT8mCBbOCMs1WiHg3lzsMGGp8GfpTHj
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Template?hash=%2bVJx6HMQImFsyEe%2f1A%2bBefsbaUo%2fb9MJrfFBbwzoImuB8WGR0gG2ffkeZ9eAVNR2KDi0nh6T73gT84AxLFOmLJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE1z0Y263CHDtGpOS792N06F46gSFXcBAlUK%2fj2WfHmbIqQlOO%2fYJqdBCAsmPJYwajxGVs1GmvLpmwEBEKDcZSnd68tpBdqap%2bZ8QVq7I4keghHuuq%2bdLIQRSeXkzwbxHAECW8MEZws0gN8fxDwYAg0BBlIE7xNwKCcfNzJganIiwr
+  - https://mondrian.claro.com.br/brands/nosvg/favicon-96x96.png
+  - https://www.claro.com.br/static/email/202404/05195402/images/banner.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/twitter.png
+  - https://mondrian.claro.com.br/brands/horizontal/inverse/claro@3x.png
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDm9bBBtbvOh29o8mQmTnuCZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskEmXqlxJ1RNWdxs2rzZBoI3Fzw2DVV%2b2WBgb1GbNv1pBI27jBh7hg1WVWHmt59016M54OBXHoVNBvcCCoy607YeWoh0GbzoV7FtxiSgMY4TiR00wMYKulYJperXXvPLJji2g%2bZZrojYvCeIXNJf8UHYAYv7GRDSAK3yjwF%2fKng4tqu5opoe8FPqnK9Ckzun%2bpN9Snt9PhQBm0y2HJr0lZbgA%3d%3d
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDpflv4tq6%2bRY4zOq3xjkWsJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdoHb6s%2f%2bCpatOFFM%2f6IFyqQrABCYrV2yn4hvwiFj9wXYzARV1UZZ%2fRxh9%2f1TtsG0ZNksRx6vGumPBhUp6cOzFM8fZt7uxBecWbHXvoagRGkohk%2fHwm4YwJv4cjgns0DDRodCGoOykEcDhCrnwPzbKiJQ%2bCBag%2b8FSPLLNw1ftLpd2Ks78ja7DLjEthZ8HlcaVk%3d
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDPL4h4xBpohiof13VQi5CyJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqRrbZux3xAtg6fcKpkjUaz1PBO4BeN%2b8Dwxh4IbFrIBJjM5ZE%2fbwmYB0KuQjPAvOh8B98Ul31b95g2OEdF3VkqosEPprAXdBCfbR4722NLODpJEcOoHQBiGWiuA%2fp3qfgMOMDuXzeI4wmud9ji9FxlbOz47V7revd4416qflKMn0ip6e9BQq4WWXZNKPGDr%2fPUaKXqOk6ZoT1VAq3St3fy5COscXc9MFxD7D6CKwO0QPqzqY4qgVRlB8VV1X%2bInWwnsevYsaMK2FbS2a%2fq%2fd8DQ9hdzaqG%2byEvlCiToIiQzx%2fI%2byc7%2bkuUtVd1ANUerzeaWJ48xzQKuQYcWemj0%2bYk1i3t%2fN5sK6abQKVEJIXzkdhgL5SW1fzHvHol0aUcFCQSxGqyaGmJ1gPmNioItIL4hWKa1vY8YlXIMfE%2bwNdno%2fZCK5sRTFAppJpkkTxWtZRSKoDUbqCSQLvpjn1T1%2byqRG2QrWVXcC85JFh2O8HISjSUtFDalTXSRQZEnIwOm9lHgEiX3d%2f3ipHq33ye1kV5uDnuTSlVFiB8pHzaTrbkw0mZWKVa6P5rTlL66n0WjUUCh1cgvn7OAjCC4WUKaeivj%2bghoaBFhFHFpIlyIwFC8KgyhOSTx4AtIy1jCDaSw3yyUimRgzoKt7aDKxOF%2bG13yX1N8k6Q8eJn7ZQjZ%2fY1HS4VoUSMJe8Fe5wSmvCSM6w%3d
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/play-preenchido.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/linkedIn.png
+  - noinput.mj-menu-checkbox
+  - td.hero
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/tik-tok.png
+  - https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/facebook.png
+  - table.mj-full-width-mobile
+  - https://mondrian.claro.com.br/fonts/mondrian-fonts-latest.css
+  - https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvBvk8Butezqo%2fSj26ECHwGicujETeOb48rY%2feprG5wipc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdq6bVCmyuuuy4hae%2bkQS57uY6IsZhsMdyZOu8Dr5tPnVZ%2bLDJpGskuVrDAGVu6u5F%2b63VP0uLKlM2DO8%2fCbbJR2LlYjWO%2fhk0DXGuio%2bUTRQjDH6VfI6HEco1233K0eFfvgv3sq%2fnxz9Ix7Fk6MvDPimN1eUpg0Z%2bxzqb7CI%2b5ly7%2b63m9S%2bZZBMw%2bftiqnk8w%3d
+
+DECODED TEXT CONTENT:
+------------------------------
+Claro #outlook a { padding:0; } body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; } table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; } img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; } p { display:block;margin:13px 0; } 96 .mj-outlook-group-fix { width:100% !important; } @import url(https://mondrian.claro.com.br/fonts/mondrian-fonts-latest.css); @media only screen and (min-width:480px) { .mj-column-per-17 { width:17% !important; max-width: 17%; } .mj-column-per-45 { width:45% !important; max-width: 45%; } .mj-column-per-38 { width:38% !important; max-width: 38%; } .mj-column-per-100 { width:100% !important; max-width: 100%; } .mj-column-per-30 { width:30% !important; max-width: 30%; } .mj-column-per-40 { width:40% !important; max-width: 40%; } .mj-column-per-80 { width:80% !important; max-width: 80%; } } .moz-text-html .mj-column-per-17 { width:17% !important; max-width: 17%; } .moz-text-html .mj-column-per-45 { width:45% !important; max-width: 45%; } .moz-text-html .mj-column-per-38 { width:38% !important; max-width: 38%; } .moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; } .moz-text-html .mj-column-per-30 { width:30% !important; max-width: 30%; } .moz-text-html .mj-column-per-40 { width:40% !important; max-width: 40%; } .moz-text-html .mj-column-per-80 { width:80% !important; max-width: 80%; } @media only screen and (max-width:479px) { table.mj-full-width-mobile { width: 100% !important; } td.mj-full-width-mobile { width: auto !important; } } noinput.mj-menu-checkbox { display:block!important; max-height:none!important; visibility:visible!important; } @media only screen and (max-width:479px) { .mj-menu-checkbox[type="checkbox"] ~ .mj-inline-links { display:none!important; } .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-inline-links, .mj-menu-checkbox[type="checkbox"] ~ .mj-menu-trigger { display:block!important; max-width:none!important; max-height:none!important; font-size:inherit!important; } .mj-menu-checkbox[type="checkbox"] ~ .mj-inline-links > a { display:block!important; } .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-menu-trigger .mj-menu-icon-close { display:block!important; } .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-menu-trigger .mj-menu-icon-open { display:none!important; } } strong { font-weight: 700; } .logo > * { filter: invert(1) !important; } .smooth { -webkit-font-smoothing: antialiased; } .paragraph a { color: #00818F !important; } .tag-highlight > * { color: #da291c !important; } .li { text-indent: -18px; margin-left: 24px; display: inline-block; } .footer a { color: #ffffff !important; } .inverse > * { color: #ffffff !important; } .footer-adress > * { color: #ffffff !important; } .dark-mode { display: none; } .code { display: none; } @media (min-width:480px) { td.hero { padding-left: 24px !important; padding-right: 24px !important; } .img-inline { display: inline-block !important; } } @media (prefers-color-scheme: dark) { body > * { background-color: #333 !important; } .logo > * { filter: invert(1) !important; } .logo > img { filter: invert(1) !important; } .paragraph > *, .paragraph a, .li > div { color: #ffffff !important; } .footer-adress > * { color: #ffffff !important; } .inverse > * { color: #ffffff !important; } .text-alert > * { color: #525252 !important; } .tag-highlight > * { color: #fc867f !important; } .footer-line > * { border-color: #fc867f !important; } .dark-mode { display: inherit; } .code { display: block; } .light-mode { display: none; } } Caso não consiga visualizar clique aqui Caso não esteja visualizando o e-mail abaixo, clique aqui Na Claro você pode usar seu celular no exterior como se estivesse no Brasil! Aproveite! É simples e rápido fazer a portabilidade do seu número para o Claro controle! Faça a contratação do plano e deixe o resto com a gente! Tudo ocorre de forma automática e a entrega do seu novo chip é GRATUITA e RÁPIDA!​ Siga @clarobrasil Politica de Privacidade Portal de Privacidade ©2024 Claro. Todos os direitos reservados CNPJ: 40.432.544/0001-47 Rua Henri Dunant, 780 - São Paulo - SP O benefício do Whatsapp ilimitado não contempla a função acesso a links e será ilimitado apenas enquanto a franquia principal estiver vigente. Oferta de R$99,90/mês válida para clientes pessoa física mediante cadastro em débito automático e fatura digital no plano Claro Conta 50GB (25GB Plano + 25GB p/ Redes e Vídeos), até 30/4/24.&nbsp;Oferta sujeita à fidelização, análise de crédito e multa contratual.&nbsp;Consulte mais informações sobre o Passaporte Américas, tarifas, países elegíveis no regulamento completo em&nbsp; claro.com.br/passaporte . Consulte cobertura em sua localidade, mais informações sobre a oferta plano Conta e restrições no regulamento da promoção em&nbsp; claro.com.br &nbsp;ou ligue para 1052. Caso não queira mais receber nossos e-mails clique aqui
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Claro</title>
+    <!--[if !mso]><!-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--<![endif]-->
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://mondrian.claro.com.br/brands/nosvg/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://mondrian.claro.com.br/brands/nosvg/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://mondrian.claro.com.br/brands/nosvg/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://mondrian.claro.com.br/brands/nosvg/favicon-16x16.png">
+        <link rel="shortcut icon" href="https://mondrian.claro.com.br/brands/nosvg/favicon-16x16.png">
+    <style type="text/css">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+    <!--[if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+    <!--[if lte mso 11]>
+    <style type="text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+    
+      <!--[if !mso]><!-->
+        <link href="https://mondrian.claro.com.br/fonts/mondrian-fonts-latest.css" rel="stylesheet" type="text/css">
+        <style type="text/css">
+          @import url(https://mondrian.claro.com.br/fonts/mondrian-fonts-latest.css);
+        </style>
+      <!--<![endif]-->
+
+    
+    
+    <style type="text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-17 { width:17% !important; max-width: 17%; }
+.mj-column-per-45 { width:45% !important; max-width: 45%; }
+.mj-column-per-38 { width:38% !important; max-width: 38%; }
+.mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-30 { width:30% !important; max-width: 30%; }
+.mj-column-per-40 { width:40% !important; max-width: 40%; }
+.mj-column-per-80 { width:80% !important; max-width: 80%; }
+      }
+    </style>
+    <style media="screen and (min-width:480px)">
+      .moz-text-html .mj-column-per-17 { width:17% !important; max-width: 17%; }
+.moz-text-html .mj-column-per-45 { width:45% !important; max-width: 45%; }
+.moz-text-html .mj-column-per-38 { width:38% !important; max-width: 38%; }
+.moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-30 { width:30% !important; max-width: 30%; }
+.moz-text-html .mj-column-per-40 { width:40% !important; max-width: 40%; }
+.moz-text-html .mj-column-per-80 { width:80% !important; max-width: 80%; }
+    </style>
+    
+  
+    <style type="text/css">
+    
+    
+
+    @media only screen and (max-width:479px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+  
+
+      noinput.mj-menu-checkbox { display:block!important; max-height:none!important; visibility:visible!important; }
+
+      @media only screen and (max-width:479px) {
+        .mj-menu-checkbox[type="checkbox"] ~ .mj-inline-links { display:none!important; }
+        .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-inline-links,
+        .mj-menu-checkbox[type="checkbox"] ~ .mj-menu-trigger { display:block!important; max-width:none!important; max-height:none!important; font-size:inherit!important; }
+        .mj-menu-checkbox[type="checkbox"] ~ .mj-inline-links > a { display:block!important; }
+        .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-menu-trigger .mj-menu-icon-close { display:block!important; }
+        .mj-menu-checkbox[type="checkbox"]:checked ~ .mj-menu-trigger .mj-menu-icon-open { display:none!important; }
+      }
+    
+    </style>
+    <style type="text/css">
+    strong {
+          font-weight: 700;
+        }
+        .logo > * {
+          filter: invert(1) !important;
+        }
+        .smooth {
+          -webkit-font-smoothing: antialiased;
+        }
+        .paragraph a {
+          color: #00818F !important;
+        }
+        .tag-highlight > * {
+          color: #da291c !important;
+        }
+        .li {
+          text-indent: -18px;
+          margin-left: 24px;
+          display: inline-block;
+        }
+        .footer a {
+          color: #ffffff !important;
+        }
+        .inverse > * {
+          color: #ffffff !important;
+        }
+        .footer-adress > * {
+          color: #ffffff !important;
+        }
+        .dark-mode {
+          display: none;
+        }
+        .code {
+          display: none;
+        }
+        @media (min-width:480px) {
+          td.hero {
+            padding-left: 24px !important;
+            padding-right: 24px !important;
+          }
+          .img-inline {
+            display: inline-block !important;
+          }
+        }
+        @media (prefers-color-scheme: dark) {
+          body > * {
+            background-color: #333 !important;
+          }
+          .logo > * {
+            filter: invert(1) !important;
+          }
+          .logo > img {
+            filter: invert(1) !important;
+          }
+      
+          .paragraph > *, .paragraph a, .li > div {
+            color: #ffffff !important;
+          }
+          .footer-adress > * {
+            color: #ffffff !important;
+          }
+          .inverse > * {
+            color: #ffffff !important;
+          }
+          .text-alert > * {
+            color: #525252 !important;
+          }
+          .tag-highlight > * {
+            color: #fc867f !important;
+          }
+          .footer-line > * {
+            border-color: #fc867f !important;
+          }
+          .dark-mode {
+            display: inherit;
+          }
+          .code {
+            display: block;
+          }
+          .light-mode {
+            display: none;
+          }
+        }
+    </style>
+    <meta name="color-scheme" content="light dark"><meta name="supported-color-schemes" content="light dark">
+  </head>
+  <body style="word-spacing:normal;"> <center style="font-family:arial;font-size:12px">Caso não consiga visualizar <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Template?hash=%2bVJx6HMQImFsyEe%2f1A%2bBefsbaUo%2fb9MJrfFBbwzoImuB8WGR0gG2ffkeZ9eAVNR2KDi0nh6T73gT84AxLFOmLJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE1z0Y263CHDtGpOS792N06F46gSFXcBAlUK%2fj2WfHmbIqQlOO%2fYJqdBCAsmPJYwajxGVs1GmvLpmwEBEKDcZSnd68tpBdqap%2bZ8QVq7I4keghHuuq%2bdLIQRSeXkzwbxHAECW8MEZws0gN8fxDwYAg0BBlIE7xNwKCcfNzJganIiwr">clique aqui</a> </center><br> 
+<p align="center"><span style="font-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #000;">Caso não esteja visualizando o e-mail abaixo, <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDm9bBBtbvOh29o8mQmTnuCZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskEmXqlxJ1RNWdxs2rzZBoI3Fzw2DVV%2b2WBgb1GbNv1pBI27jBh7hg1WVWHmt59016M54OBXHoVNBvcCCoy607YeWoh0GbzoV7FtxiSgMY4TiR00wMYKulYJperXXvPLJji2g%2bZZrojYvCeIXNJf8UHYAYv7GRDSAK3yjwF%2fKng4tqu5opoe8FPqnK9Ckzun%2bpN9Snt9PhQBm0y2HJr0lZbgA%3d%3d">clique aqui</a></span></p>
+    
+    
+      <div style="">
+        
+      
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#da291c" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div style="background:#da291c;background-color:#da291c;margin:0px auto;max-width:600px;">
+        
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#da291c;background-color:#a81015;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:16px 24px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:93.84px;" ><![endif]-->
+            
+      <div class="mj-column-per-17 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tbody>
+          <tr>
+            <td style="vertical-align:top;padding-top:0px;">
+              
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+        <tbody>
+          
+              <tr>
+                <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                  
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td style="width:89px;">
+              
+      <img src="https://mondrian.claro.com.br/brands/horizontal/inverse/claro@3x.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="89" height="auto">
+    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:248.4px;" ><![endif]-->
+            
+      <div class="mj-column-per-45 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+        <tbody>
+          
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td><td class="" style="vertical-align:top;width:209.76px;" ><![endif]-->
+            
+      <div class="mj-column-per-38 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+        <tbody>
+          <tr>
+            <td style="vertical-align:top;padding-top:0px;padding-right:0px;padding-bottom:0px;">
+              
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="" width="100%">
+        <tbody>
+          
+              <tr>
+                <td align="center" style="font-size:0px;word-break:break-word;">
+                  
+        
+        <div class="mj-inline-links" style="">
+        
+    <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/celular.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/globo.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/tv.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/telefone-fixo.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/wifi.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td><td style="padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;" class="" ><![endif]-->
+  
+        
+      <a class="mj-link" target="_blank" style="display:inline-block;color:#000000;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:13px;font-weight:600;line-height:22px;text-decoration:none;text-transform:uppercase;padding:15px 10px;padding-top:8px;padding-right:0px;padding-bottom:0px;">
+        <img width="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/play-preenchido.png" alt="">
+      </a>
+    
+        
+    <!--[if mso | IE]></td></tr></table><![endif]-->
+  
+        </div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="smooth-outlook" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      
+      <div class="smooth" style="margin:0px auto;max-width:600px;">
+        
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0px;text-align:center;">
+
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+            
+      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+        <tbody>
+          
+              <tr>
+                <td align="center" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td style="width:600px; background:#b4040e;">
+              
+      <img src="https://www.claro.com.br/static/email/202404/05195402/images/banner.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600" height="auto">
+    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+      
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="smooth-outlook" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      
+      <!--Conteúdo-->
+      
+      <div class="smooth" style="margin:0px auto;max-width:600px;background-image: ">
+      
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;background: #b4040e;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0 44px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:552px;" ><![endif]-->
+            
+      <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+        <tbody>
+          
+              <tr>
+                <td style="font-size:0px;word-break:break-word;">
+                  
+      <div style="height:24px;line-height:24px;"> </div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                                                                           
+                                                                        </tr>
+
+
+              <tr>
+                <td align="left" class="paragraph" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+      <div style="font-family:AMX, Arial, Helvetica, sans-serif;margin-top:20px;font-size:20px;font-weight:500;line-height:130%;text-align:center;color:#fff;">
+     Na Claro você pode <strong>usar seu celular no exterior</strong> como se estivesse no Brasil! Aproveite!     
+      </div></td>
+              </tr>
+            
+              <tr>
+                <td style="font-size:0px;word-break:break-word;">
+                  
+      <div style="height:24px;line-height:24px;"> </div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="left" class="paragraph" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+
+                      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:19px;font-weight:400;line-height:130%;text-align:left;color:#fff;">
+                      
+                      </div>
+
+                      <div style="margin-top:30px;margin-bottom:40px;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:16px;font-weight:500;line-height:130%;text-align:left;color:#1f1d1d;">
+                                                                    
+                         <img width="100%" src="https://www.claro.com.br/static/email/202404/05195402/images/oferta.png">
+                                                                           
+                      </div>
+
+                      <div style="margin-top:40px;margin-bottom:40px;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:16px;font-weight:500;line-height:130%;text-align:center;color:#1f1d1d;">
+                       <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDPL4h4xBpohiof13VQi5CyJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqRrbZux3xAtg6fcKpkjUaz1PBO4BeN%2b8Dwxh4IbFrIBJjM5ZE%2fbwmYB0KuQjPAvOh8B98Ul31b95g2OEdF3VkqosEPprAXdBCfbR4722NLODpJEcOoHQBiGWiuA%2fp3qfgMOMDuXzeI4wmud9ji9FxlbOz47V7revd4416qflKMn0ip6e9BQq4WWXZNKPGDr%2fPUaKXqOk6ZoT1VAq3St3fy5COscXc9MFxD7D6CKwO0QPqzqY4qgVRlB8VV1X%2bInWwnsevYsaMK2FbS2a%2fq%2fd8DQ9hdzaqG%2byEvlCiToIiQzx%2fI%2byc7%2bkuUtVd1ANUerzeaWJ48xzQKuQYcWemj0%2bYk1i3t%2fN5sK6abQKVEJIXzkdhgL5SW1fzHvHol0aUcFCQSxGqyaGmJ1gPmNioItIL4hWKa1vY8YlXIMfE%2bwNdno%2fZCK5sRTFAppJpkkTxWtZRSKoDUbqCSQLvpjn1T1%2byqRG2QrWVXcC85JFh2O8HISjSUtFDalTXSRQZEnIwOm9lHgEiX3d%2f3ipHq33ye1kV5uDnuTSlVFiB8pHzaTrbkw0mZWKVa6P5rTlL66n0WjUUCh1cgvn7OAjCC4WUKaeivj%2bghoaBFhFHFpIlyIwFC8KgyhOSTx4AtIy1jCDaSw3yyUimRgzoKt7aDKxOF%2bG13yX1N8k6Q8eJn7ZQjZ%2fY1HS4VoUSMJe8Fe5wSmvCSM6w%3d" target="_blank">
+                                                                                    <img src="https://www.claro.com.br/static/email/202404/05195402/images/btn.png" width="135" height="auto" alt="Contrate" class="img-responsive">
+                                                                                </a>
+                      </div>
+
+                      <div style="margin-top:40px;font-family:Roboto, Arial, Helvetica, sans-serif;font-size:16px;font-weight:500;line-height:130%;text-align:left;color:#fff;">
+                       
+                           É simples e rápido fazer a portabilidade do seu número para o Claro controle! Faça a contratação do plano e deixe o resto com a gente! Tudo ocorre de forma automática e a entrega do seu novo chip é <strong>GRATUITA e RÁPIDA!​</strong>
+                      </div>
+          
+                          
+                </td>
+              </tr>
+
+
+            
+              <tr>
+                <td style="font-size:0px;word-break:break-word;">
+                  
+      <div style="height:24px;line-height:24px;"> </div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+      </div>
+    
+     
+    
+      
+   
+    
+      
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="smooth-outlook" role="presentation" style="width:600px;" width="600" bgcolor="#da291c" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+    
+      <!--Footer-->
+
+      <div class="smooth" style="background:#da291c;background-color:#da291c;margin:0px auto;max-width:600px;">
+        
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#da291c;background-color:#da291c;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:480px;" ><![endif]-->
+            
+      <div class="mj-column-per-80 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+        
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+        <tbody>
+          
+              <tr>
+                <td align="center" style="font-size:0px;padding:0 8px;word-break:break-word;">
+                  
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;">
+        <tbody>
+          <tr>
+            <td style="width:50px;">
+              
+      <img src="https://mondrian.claro.com.br/brands/nosvg/assinatura-claro.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="50" height="auto">
+    
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" class="footer-adress" style="font-size:0px;padding:0;padding-top:16px;padding-bottom:8px;word-break:break-word;">
+                  
+      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:12px;font-weight:500;line-height:120%;text-align:center;color:#000000;">Siga @clarobrasil</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" style="font-size:0px;padding:10px 25px;padding-top:0px;word-break:break-word;">
+                  
+      
+     <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzD3hBOu2nnsXRcny7FvC2IQZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqPmFWk6O7bIGvyU9cPPn1pLTAOfY17zWWuDmR7iBPD7Cg5wbTegt4JcIZVwtZP1EvMlO53UJs15HR%2f75TcL7Uk905QZ9NWmAqWUFIkRf6vq%2bACKJUToHPI1a6v4y3q%2fMSw6%2fvgB%2b2ScfPB4p7Fv8GFmDkmgS9jCFy2p%2bp2HDAytAMOr2k%2fnI0VWMkDgi2JG%2bA%3d" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/facebook.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvuS2mNukVhjDNKKt2NKJzDpflv4tq6%2bRY4zOq3xjkWsJc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdoHb6s%2f%2bCpatOFFM%2f6IFyqQrABCYrV2yn4hvwiFj9wXYzARV1UZZ%2fRxh9%2f1TtsG0ZNksRx6vGumPBhUp6cOzFM8fZt7uxBecWbHXvoagRGkohk%2fHwm4YwJv4cjgns0DDRodCGoOykEcDhCrnwPzbKiJQ%2bCBag%2b8FSPLLNw1ftLpd2Ks78ja7DLjEthZ8HlcaVk%3d" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/twitter.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoImvBvk8Butezqo%2fSj26ECHwGicujETeOb48rY%2feprG5wipc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdq6bVCmyuuuy4hae%2bkQS57uY6IsZhsMdyZOu8Dr5tPnVZ%2bLDJpGskuVrDAGVu6u5F%2b63VP0uLKlM2DO8%2fCbbJR2LlYjWO%2fhk0DXGuio%2bUTRQjDH6VfI6HEco1233K0eFfvgv3sq%2fnxz9Ix7Fk6MvDPimN1eUpg0Z%2bxzqb7CI%2b5ly7%2b63m9S%2bZZBMw%2bftiqnk8w%3d" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/instagram.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0bKUh1aqVyJ7CMzZwcCvcIZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdpiW5m3qLEHDvcu6ieHDndkHSz1%2f1AGHPxWOBg1pUUuCQKQTYtyspYzEUwuIKcFgC5r%2fKEl6QG%2bCqdyjIfBL789zNwXPywyVU50fVr2RLY2twWvM8iQzZE6kjmAG7EptsKKAWk2NQVIWkREuIa4RqF8b60VTVUGPGWSAjBxNRTzFIBByIHHMPleHyT8mCBbOCMs1WiHg3lzsMGGp8GfpTHj" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/youtube.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0ABOgdNmPosuEMUdhGM3EY5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdoYBmZjGkfx%2bQesM0%2bdIcAAnD4BhMKUEAr7zrdzN2hnaoJNXIxLHB4jvlXNFNJAnb5JmVilWuj%2ba05S%2bup9Fo1FAodXIL5%2bzgIwguFlCmnor4%2foIaGgRYRRxaSJciMBQvCoMoTkk8eALSMtYwg2ksN8slIpkYM6Cre2gysThfhtd8l9TfJOkPHiZ%2b2UI2f2NR3421asuC9t2NAnYczrt%2bvX" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/linkedIn.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td><td><![endif]-->
+              <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
+                <tbody>
+                  
+      <tr>
+        <td style="padding:4px;vertical-align:middle;">
+          <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:24px;">
+            <tbody>
+              <tr>
+                <td style="font-size:0;height:24px;vertical-align:middle;width:24px;">
+                  <a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0GpIr8nYddqOXsysUIJLef5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqzodE9pDMCiO%2fGsr7FC4UsJy1Gis6p4wWkgRcZOSUL1ZND1kOJJ3%2fVxBAHXj038Nju9FbpmME7YIt33u2fHeNBhP8eIM3PnF1rFCZ1bvITtV0pznLVi3olvpYCQ1qnfKq6CWWAp1q%2fEkEbwjBGJHMknO9IAmP%2bcIGyBQ4eLOZHZ5fQxNjf4NLl6aiUXGJzCgM%3d" target="_blank">
+                    <img height="24" src="https://mondrian.clarobrasil.mobi/assets/mondrian-emails/icons/tik-tok.png" style="border-radius:3px;display:block;" width="24">
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+        
+      </tr>
+    
+                </tbody>
+              </table>
+            <!--[if mso | IE]></td></tr></table><![endif]-->
+    
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" class="inverse" style="font-size:0px;padding:0 0 10px 0;word-break:break-word;">
+                  
+      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:12px;font-weight:500;line-height:120%;text-align:center;color:#ffffff;"><a class="inverse" href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0VoxcT6XtPP%2byd02a1j6Qrpc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdo75AKLO6fs6mgTtYSCtm7HTdCR%2bYwTU%2bYLHCUvnOjJAy16SG%2fG2drQVB2K4yDdKyCQF%2f%2fCklESquPFXb2bc5m9nsBj6BF0vDtg%2fNVrbYMTFNjbbBIxe9dofbbjB9p03N6Dba5Y8OSXAdxvg5gsaA1nqNpt%2fnMmD4BVzYJ3CE6a8NXcXByZWQsW9sbwu%2fV5V6pkQnUN82LsJFrsnNSQPfhS" style="margin-right:10px;color:#ffffff">Politica de Privacidade</a><a class="inverse" href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA08b43f444P1SWhkVg5aVvapc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2Rdzdo75AKLO6fs6mgTtYSCtm7HTdCR%2bYwTU%2bYLHCUvnOjJAy16SG%2fG2drQVB2K4yDdKyCQF%2f%2fCklESquPFXb2bc5m9nsBj6BF0vDtg%2fNVrbYMTFNjbbBIxe9dofbbjB9p03N6Dba5Y8OSXAdxvg5gsaA1nqNpt%2fnMmD4BVzYJ3CE6a8NXcXByZWQsW9sbwu%2fV5V6pkQnUN82LsJFrsnNSQPfhS" style="color:#ffffff">Portal de Privacidade</a></div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" class="footer-adress" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:12px;font-weight:500;line-height:120%;text-align:center;color:#000000;">©2024 Claro. Todos os direitos reservados</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" class="footer-adress" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:12px;font-weight:500;line-height:120%;text-align:center;color:#000000;">CNPJ: 40.432.544/0001-47</div>
+    
+                </td>
+              </tr>
+            
+              <tr>
+                <td align="center" class="footer-adress" style="font-size:0px;padding:0;word-break:break-word;">
+                  
+      <div style="font-family:Roboto, Arial, Helvetica, sans-serif;font-size:12px;font-weight:500;line-height:120%;text-align:center;color:#000000;">Rua Henri Dunant, 780 - São Paulo - SP</div>
+    
+                </td>
+              </tr>
+            
+        </tbody>
+      </table>
+    
+      </div>
+    
+          <!--[if mso | IE]></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+
+           <!-- texto legal -->
+    </table><table width="100%" bgcolor="#FFFFFF" style="max-width: 100%;" border="0" cellspacing="0" cellpadding="5" align="center" class="responsive-table mobile-100">
+        <tr>
+            <td style="font-family: 'Roboto'; padding-top: 20px; padding-bottom:20px; color:#444444;font-size: 11px;line-height: 1.25;text-align: justify">
+                             
+                O benefício do Whatsapp ilimitado não contempla a função acesso a links e será ilimitado apenas enquanto a franquia principal estiver vigente. Oferta de R$99,90/mês válida para clientes pessoa física mediante cadastro em débito automático e fatura digital no plano Claro Conta 50GB (25GB Plano + 25GB p/ Redes e Vídeos), até 30/4/24.&nbsp;Oferta sujeita à fidelização, análise de crédito e multa contratual.&nbsp;Consulte mais informações sobre o Passaporte Américas, tarifas, países elegíveis no regulamento completo em&nbsp;<a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0m052E7I%2br3xrAKBX8aZGBpc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskE5TvUBfcyIDK%2fDnEE2ZAeK1V6rruG481y%2fuxBoD4jFbju9FbpmME7YIt33u2fHeNBhP8eIM3PnF1rFCZ1bvITtV0pznLVi3olvpYCQ1qnfKq6CWWAp1q%2fEkEbwjBGJHMknO9IAmP%2bcIGyBQ4eLOZHZ1aMPvkQFLkNeSVwDq2SZmc%3d">claro.com.br/passaporte</a>. Consulte cobertura em sua localidade, mais informações sobre a oferta plano Conta e restrições no regulamento da promoção em&nbsp;<a href="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=Fxnd%2fPWyvbi0Fig4R5DeI%2fsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0ruzivd9GSYVFAbvUUkKUJ5c0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE10FSy%2fTLDttKXyF8k2RdzdqCBAItVU2GT%2fFxXiLOgskEbGmaWzigLWO%2bkbkOhy3TE2v8oSXpAb4Kp3KMh8Evvz3M3Bc%2fLDJVTnR9WvZEtja3Ba8zyJDNkTqSOYAbsSm2wooBaTY1BUhaRES4hrhGoXxvrRVNVQY8ZZICMHE1FPMUgEHIgccw%2bV4fJPyYIFs4I4%2fS5djRjm82Y7DPIbCI2do%3d">claro.com.br</a>&nbsp;ou ligue para 1052.
+                
+           </td>
+        </tr>
+
+    </table>
+
+        
+        
+      </div>
+    
+
+      
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    
+    
+      </div>
+    
+  <img style="display: none !important;" src="https://api-gateway.plusoftdtm.com/effmail-callback-claro/api/v1/Callback?hash=IjqK7XssfEXpbeXf58ZlrPsbaUo%2fb9MJrfFBbwzoIms%2bE09%2flwkhSKOud4msLhA0BHhByf9bhk7ic1s4IsPSPrCfKQeYxuPTHjwdiGnn6mQFsGv6xprRfj6taBlr61GcBYv1bSjUGfsSD%2ft8Zw2S%2byL19iwS4fdx0JGvxvQ1ldX44r%2fF5vC5fZqANcKOa2ZvjvrvGdUePfs%2bKKBFkPP2TZOfkinYBFMnih7Cg3L5KGvGhRdAgmj06I4kItJ83DV5KBshOzPdG5KtTxo87oA00K6tU%2fq8H%2ftYgYE63hNTMVLXdV4xgwHFxM6fyhBGztiCAOCwnGhrMIYqdhSSw7NypEGgykApVBCRHmNnLyB4yhwAPxOTULQam6XAKOt5Oi6S" width="1" height="1"><center style="font-family:arial;font-size:12px">Caso não queira mais receber nossos e-mails <a href="https://claro-optout.plusoftdtm.com/?hash=3SY02oWvy7B7ZQ69MUsWw%2fsbaUo%2fb9MJrfFBbwzoImuB8WGR0gG2ffkeZ9eAVNR2MrW9Dre7DvAl1eGq524QMZc0it3%2fWBXKSSF07A0Iq964UPVyohOLrUqpD%2bMTOBqj3iVCC0ZRa7%2fjKpya0LN5YDbHakRyPZLiJSypy%2bvJPmnzBswtSo%2bNiZ%2fNgT7g8z0LR9HacRk5fMwPjVknmUBE1z0Y263CHDtGpOS792N06F46gSFXcBAlUK%2fj2WfHmbIqQlOO%2fYJqdBCAsmPJYwajxGVs1GmvLpmwEBEKDcZSnd68tpBdqap%2bZ8QVq7I4keghHuuq%2bdLIQRSeXkzwbxHAECW8MEZws0gN8fxDwYAg0BBTk0R1WONk45YO%2bLfMVUQ6">clique aqui</a> </center></body> <div> <center style="font-family:arial;font-size:12px"></center> </div> 
+</html>
+  

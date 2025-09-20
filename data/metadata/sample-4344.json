@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Edeka Einkaufsgutschein im Wert von 500��� ausgew��hlt!",
+    "from": "Dies ist Ihre Chance!,(<newsletter@mail.toom.de>)",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Nov 2024 14:40:58 +0000",
+    "message_id": "<PLDRJTXXQHAIIQ8AU9KYO1L@stayfriends.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/6xieRM38072nBkb1165nlieufyxbd14302NOGPCVUYFLQDRZP2UYJF3phishing@potZ10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://topmarktingplace.com/5AbpBI38072hLuY1165wkfxmjbrii14302LILPVGPTBJSCMZB2VHTU3phishing@poty10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4ETzgX38072rWsU1165euiqosqwsu14302YRSZCEEPLPUVKZO2LQGT3phishing@potn10",
+      "http://topmarktingplace.com/4byiAr38072EbcB1165wybesiasct14302SSLWXLWCLRXLURR2LCXQ3phishing@pott10",
+      "sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2049,
+    "html_length": 9288,
+    "has_text": true,
+    "has_html": true
+  }
+}

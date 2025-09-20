@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r ADAC-Kunden!.",
+    "from": "Message from ADAC, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Sep 2024 10:43:48 +0100",
+    "message_id": "<411JQoI.0.0.411JQoI.9.411JQoI@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "https://fnnl-fwd.com/?a=8096&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "http://limecastle.co.uk/WkpFNmE2MEE4K2hCTFRHeXBXRXltZlp5MDY5WjdCUDdQZTB3WXRYYktTamY5TGxNUnBFbkwzNGFpeEZyMlhTazk2bmI0UGsvbEgwWTVlSVFxNCtwVGxkRU1rbGphVmFpZmEwWldqNFhmcHM9",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/37/y0fz.png",
+      "www.zupimages.net/up/24/36/2cef.png",
+      "http://limecastle.co.uk/dDFrZFptMTNLRGNKUkUweHF5RUNFN2d5SHdvUEZZS0xRdlJ3eEpmSTR2SFpEY0V5Wld0M1FRMFI1UlU1aXlBdmRvUVV4aVBUdVR3bTBWWGs2TXNKT1E9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5178,
+    "html_length": 12810,
+    "has_text": true,
+    "has_html": true
+  }
+}

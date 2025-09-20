@@ -1,0 +1,337 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Please Update Your Information Payment
+From: Mic󠄹ros󠄹o󠄹ft Service <mail.info.gv@lancerleather.com>
+To: <security-4720@microsoft.com>
+Date: Wed, 7 May 2025 12:24:17 +0000
+Message_Id: <5080923659.14787555325@AMS0EPF0000019E.eurprd05.prod.outlook.com>
+Content_Type: multipart/mixed;
+	boundary="inmixoa9Zd7FfEkbKbsmzRz9EXZFNhdPqiuGkQDKR4uo"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixoa9Zd7FfEkbKbsmzRz9EXZFNhdPqiuGkQDKR4uo"
+
+ATTACHMENTS:
+--------------------
+- email-fastpakco.mobileconfig (application/octet-stream, 6126 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://apps.lancerleather.com/
+  - icloud.com
+
+DECODED TEXT CONTENT:
+------------------------------
+<div style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><img style="border: 0px; display: block; outline: none; text-decoration: none; height: 39px; width: 160px; font-size: 13px;" src="data:image/png;base64,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" width="118" height="auto" data-imageproxyendpoint="/actions/ei" data-imagetype="External" /></div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<h2 data-olk-copy-source="MessageBody"><span style="color: #3366ff;">Yo󠄹ur off󠄹ice365 ren󠄹ewal fai󠄹led</span></h2>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">We are reac󠄹hing out to kindly request that you update your account information to ensure we have the most accurate and current details on file.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">To change your payment method at any time in the Bil󠄹ling section of your Of󠄹fic󠄹e365 account.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><a style="font-size: 14px; text-decoration: none; font-family: Arial,Helvetica,Sans Serif; width: 171px; font-weight: 600; color: #ffffff; text-align: center; display: inline-block; line-height: 35px; background-color: #3366ff; border-radius: 12px;" title="https://apps.lancerleather.com/" href="https://apps.lancerleather.com/" target="_blank" rel="noopener noreferrer" data-linkindex="0" data-auth="NotApplicable">Billing Details</a></div>
+</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Your automatic payments have been turned off because your payment did not process. To re-enroll in automatic payments, please&nbsp;update your payment.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">I have attached the drafts of the Postnup and Will.&nbsp; Please review and have any changes ready at the meeting.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Sincerely,</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">- The Mic󠄹ros󠄹o󠄹ft Te󠄹am</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><hr /></div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">THIS IS A SERVICE-RELATED EMAIL</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">@ 2025 Mic󠄹ros󠄹o󠄹ft. A󠄹ll rights reserved.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Hi John,</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">It&rsquo;s great to see these details. Thanks..!</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Attached is an Assembly Drawing which we should add.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Also, please use the sample sketch to better highlight to vapor barrier and air barrier paths.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><br />
+<div>
+<div dir="auto" style="color: black; text-transform: none; text-indent: 0; text-decoration: none; white-space: normal; word-wrap: break-word; line-break: after-white-space; letter-spacing: normal; word-spacing: 0px;">
+<div dir="auto" style="color: black; text-transform: none; text-indent: 0; text-decoration: none; white-space: normal; word-wrap: break-word; line-break: after-white-space; letter-spacing: normal; word-spacing: 0px;">
+<div>
+<div>Josh</div>
+<div>&nbsp;</div>
+<div><span style="color: #aac606;"><strong><span style="font-size: small;">Joshua Reyneveld</span><span style="font-size: 12px; font-family: Arial;">&nbsp;</span><span style="font-size: 12px; font-style: normal;">AIA PE</span></strong></span></div>
+<div><span style="font-family: Arial;"><span style="color: #3b3d27;"><span style="font-size: 11px;">Seattle, WA 98109&nbsp;</span></span></span></div>
+<div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;"><br /> </span></span></div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;">E-mail&nbsp;</span></span><span style="color: #a7be5f; font-size: 12px;">|&nbsp;</span><span style="color: #3b3d27; font-size: 11px;"><a id="LPlnk911633" title="mailto:jreyneveld@icloud.com" href="mailto:jreyneveld@icloud.com" data-linkindex="0">jreyneveld@icloud.com</a></span></div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;">Phone&nbsp;</span></span><span style="color: #a7be5f; font-size: 12px;">|&nbsp;</span><span style="color: #3b3d27; font-size: 11px;">206.902.6347</span></div>
+<div style="font-family: Arial;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><img style="border: 0px; display: block; outline: none; text-decoration: none; height: 39px; width: 160px; font-size: 13px;" src="data:image/png;base64,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" width="118" height="auto" data-imageproxyendpoint="/actions/ei" data-imagetype="External"></div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<h2 data-olk-copy-source="MessageBody"><span style="color: #3366ff;">Yo󠄹ur off󠄹ice365 ren󠄹ewal fai󠄹led</span></h2>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">We are reac󠄹hing out to kindly request that you update your account information to ensure we have the most accurate and current details on file.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">To change your payment method at any time in the Bil󠄹ling section of your Of󠄹fic󠄹e365 account.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><a style="font-size: 14px; text-decoration: none; font-family: Arial,Helvetica,Sans Serif; width: 171px; font-weight: 600; color: #ffffff; text-align: center; display: inline-block; line-height: 35px; background-color: #3366ff; border-radius: 12px;" title="https://apps.lancerleather.com/" href="https://apps.lancerleather.com/" target="_blank" rel="noopener noreferrer" data-linkindex="0" data-auth="NotApplicable">Billing Details</a></div>
+</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Your automatic payments have been turned off because your payment did not process. To re-enroll in automatic payments, please&nbsp;update your payment.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">I have attached the drafts of the Postnup and Will.&nbsp; Please review and have any changes ready at the meeting.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Sincerely,</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">- The Mic󠄹ros󠄹o󠄹ft Te󠄹am</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><hr></div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">THIS IS A SERVICE-RELATED EMAIL</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">@ 2025 Mic󠄹ros󠄹o󠄹ft. A󠄹ll rights reserved.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Hi John,</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">It’s great to see these details. Thanks..!</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Attached is an Assembly Drawing which we should add.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">Also, please use the sample sketch to better highlight to vapor barrier and air barrier paths.</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;"><br>
+<div>
+<div dir="auto" style="color: black; text-transform: none; text-indent: 0; text-decoration: none; white-space: normal; word-wrap: break-word; line-break: after-white-space; letter-spacing: normal; word-spacing: 0px;">
+<div dir="auto" style="color: black; text-transform: none; text-indent: 0; text-decoration: none; white-space: normal; word-wrap: break-word; line-break: after-white-space; letter-spacing: normal; word-spacing: 0px;">
+<div>
+<div>Josh</div>
+<div>&nbsp;</div>
+<div><span style="color: #aac606;"><strong><span style="font-size: small;">Joshua Reyneveld</span><span style="font-size: 12px; font-family: Arial;">&nbsp;</span><span style="font-size: 12px; font-style: normal;">AIA PE</span></strong></span></div>
+<div><span style="font-family: Arial;"><span style="color: #3b3d27;"><span style="font-size: 11px;">Seattle, WA 98109&nbsp;</span></span></span></div>
+<div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;"><br> </span></span></div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;">E-mail&nbsp;</span></span><span style="color: #a7be5f; font-size: 12px;">|&nbsp;</span><span style="color: #3b3d27; font-size: 11px;"><a id="LPlnk911633" title="mailto:jreyneveld@icloud.com" href="mailto:jreyneveld@icloud.com" data-linkindex="0">jreyneveld@icloud.com</a></span></div>
+<div style="font-family: Arial;"><span style="font-size: 12px; color: #3b3d27;"><span style="color: #aac606;">Phone&nbsp;</span></span><span style="color: #a7be5f; font-size: 12px;">|&nbsp;</span><span style="color: #3b3d27; font-size: 11px;">206.902.6347</span></div>
+<div style="font-family: Arial;">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+

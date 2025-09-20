@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "New Order from Indonesia",
+    "from": "Indra Hanafi <contact@jae.co.jp>",
+    "to": "wpx@protonmail.com",
+    "date": "21 Apr 2023 04:03:16 -0700",
+    "message_id": "<20230421040316.CBCC2CA7BF9EBE68@jae.co.jp>",
+    "content_type": "multipart/mixed;boundary=---------------------d83cd990b7a1cd484c810254055c2a0b"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------d83cd990b7a1cd484c810254055c2a0b"
+  },
+  "attachments": [
+    {
+      "filename": "PO#198945.html",
+      "content_type": "text/html",
+      "size": 128843
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "jae.co.jp",
+      "kaken.co.jp",
+      "https://ci6.googleusercontent.com/proxy/O_ih4S5xnHxCOzOFiFAm37_aOM7snTPxhLbKuOsHH6mOIcBiDd_im1A2alxvIXO5ifM0K6vTJlLIbNn7mVOgBlXEcvYEi_x_lWmSBQNTPg=s0-d-e1-ft#https://mail-online.nosdn.127.net/qiyelogo/defaultAvatar.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 475,
+    "html_length": 5406,
+    "has_text": true,
+    "has_html": true
+  }
+}

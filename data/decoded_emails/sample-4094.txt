@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [rf-peixoto/black_veil] IMPORTANT! Security Vulnerability Detected in
+ your Repository (Issue #2)
+From: aprigel7r7 <notifications@github.com>
+To: rf-peixoto/black_veil <black_veil@noreply.github.com>
+Date: Wed, 18 Sep 2024 13:35:57 -0700
+Message_Id: <rf-peixoto/black_veil/issues/2@github.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_66eb39ad34308_a11cfc10163b";
+ charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_66eb39ad34308_a11cfc10163b";
+ charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://github.com/notifications/unsubscribe-auth/AMAXO5IZIQCWTAJHM5EZ3QLZXHP23AVCNFSM6AAAAABOOPVTQKVHI2DSMVQWIX3LMV43ASLTON2WKOZSGUZTINRXGYZDCOI
+  - http://schema.org
+  - github.com
+  - https://github.com/notifications/beacon/AMAXO5OPKGQAT3ZGI6DSK2LZXHP23A5CNFSM6AAAAABOOPVTQKWGG33NNVSW45C7OR4XAZNFJFZXG5LFVJRW63LNMVXHIX3JMTHJOFAW7M.gif
+  - https://github.com/rf-peixoto/black_veil/issues/2
+  - https://github-scanner.com
+  - https://github.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Hey there!
+
+We have detected a security vulnerability in your repository. Please contact us at https://github-scanner.com to get more information on how to fix this issue.
+
+Best regards,
+Github Security Team
+
+-- 
+Reply to this email directly or view it on GitHub:
+https://github.com/rf-peixoto/black_veil/issues/2
+You are receiving this because you are subscribed to this thread.
+
+Message ID: <rf-peixoto/black_veil/issues/2@github.com>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p></p>
+<p dir="auto">Hey there!</p>
+<p dir="auto">We have detected a security vulnerability in your repository. Please contact us at <a href="https://github-scanner.com" rel="nofollow">https://github-scanner.com</a> to get more information on how to fix this issue.</p>
+<p dir="auto">Best regards,<br>
+Github Security Team</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">—<br>Reply to this email directly, <a href="https://github.com/rf-peixoto/black_veil/issues/2">view it on GitHub</a>, or <a href="https://github.com/notifications/unsubscribe-auth/AMAXO5IZIQCWTAJHM5EZ3QLZXHP23AVCNFSM6AAAAABOOPVTQKVHI2DSMVQWIX3LMV43ASLTON2WKOZSGUZTINRXGYZDCOI">unsubscribe</a>.<br>You are receiving this because you are subscribed to this thread.<img src="https://github.com/notifications/beacon/AMAXO5OPKGQAT3ZGI6DSK2LZXHP23A5CNFSM6AAAAABOOPVTQKWGG33NNVSW45C7OR4XAZNFJFZXG5LFVJRW63LNMVXHIX3JMTHJOFAW7M.gif" height="1" width="1" alt=""><span style="color: transparent; font-size: 0; display: none; visibility: hidden; overflow: hidden; opacity: 0; width: 0; height: 0; max-width: 0; max-height: 0; mso-hide: all">Message ID: <span>&lt;rf-peixoto/black_veil/issues/2</span><span>@</span><span>github</span><span>.</span><span>com&gt;</span></span></p>
+<script type="application/ld+json">[
+{
+"@context": "http://schema.org",
+"@type": "EmailMessage",
+"potentialAction": {
+"@type": "ViewAction",
+"target": "https://github.com/rf-peixoto/black_veil/issues/2",
+"url": "https://github.com/rf-peixoto/black_veil/issues/2",
+"name": "View Issue"
+},
+"description": "View this Issue on GitHub",
+"publisher": {
+"@type": "Organization",
+"name": "GitHub",
+"url": "https://github.com"
+}
+}
+]</script>

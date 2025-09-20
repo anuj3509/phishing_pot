@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Trust Wallet",
+    "from": "\"noreply\" <stainless@midnightmagicevents.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 12 Dec 2022 09:56:36 +0100",
+    "message_id": "<5348421712496313174540@WIN-HM6FI4VOIEP>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/assets/images/media/preview/horizontal_blue.png",
+      "https://climovil.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 348,
+    "html_length": 2788,
+    "has_text": true,
+    "has_html": true
+  }
+}

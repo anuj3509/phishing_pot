@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Alerta de seguranca: houve um acesso a sua conta em um novo dispositivo",
+    "from": "Mercado Pago <atendimento_mercado_pago@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue,  3 Oct 2023 08:25:44 +0000 (UTC)",
+    "message_id": "<20231003082544.DC4E3464F1@EFGEEEWFWEWFGEWEWEF>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw3eMM7vvCNqwaspXxHrCiOH",
+      "http://maladireta.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2",
+      "https://www.mercadopago.com.br",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-politicas_194&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw2s7RckEyYzxD9dE2B1OA6V",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/accountrecovery/feedback/unrecognized?notificationId%3Dfb9a3c63-6395-4822-bca1-65e762a31bb9%26source%3DEMAIL&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw21q-Mmb3lFa9_ZEleyIrwe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 424,
+    "html_length": 13547,
+    "has_text": true,
+    "has_html": true
+  }
+}

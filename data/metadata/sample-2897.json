@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "__--Tenemos una sorpresa para los clientes de Carrefour.",
+    "from": "\"Carrefour\" ,ZHH <orders@72.communifi.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 04:57:45 -0500 (EST)",
+    "message_id": "<E1020004-17IE3PE726917266-kx4q0zgz@shopify.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://m.buddyspizza.com/r60ff.php?gAAAAABl1ckZXxfQOyc16b6Fenz5OJimAjfRgdAAmFMn89DhALovWrT-XGAPtyX1EO8Nnb8hq8l5GcjNWJWz1xoGkaRMMoEMOJTUqSuDHBPblgYckteJDVkdg6nQ5qW5pY59AC4Uc4oYCmnRyICi4PjOvZL8AzSt9Q==",
+      "https://i.imgur.com/vaTGFpN.png",
+      "https://i.imgur.com/xqlwo1W.png",
+      "http://m.buddyspizza.com/r60ff.php?gAAAAABl1ckZA3E6lY122GFGmvnrC34R4p3npVSD0CWcOBWGgyQIxYpb6Zt0jMykwQyHOfb95PoBxe7WdBe-FtyGLZPabUgs4z_oNw5tZdQfQhRH2M-iGhVDjAwNcRi0NO-xFjZcpx6c8YSiCD-ZoxxAROZB9r1Aww==",
+      "http://m.buddyspizza.com/r60ff.php?gAAAAABl1ckZhP4wh_XAT36ghwnX_qUgGdYJVSWUKrjI-cbxh3o0JIpHJgKA_Q0ii8ySujK1bQ2N6PFPgNTMcUmM2VoFVz3PlfFxRtrfrVV_dGcboxdZufWgabR7e6GDDYSZmD651n8fD7XISUF55bkXtIlnq8OZhg==",
+      "http://m.buddyspizza.com/r60ff.php?gAAAAABl1ckZbxFf6u_55kVc1YomUDWggThaMIIX58K1xPfg6DbJutGHUGOVL22XgNFvTH_bsGWz2Dxm5vmXTDRz3yvI5Nf-LvqN8Fbd4-rqcEpgbGMg5dH-NmwTz-ilk-Ryw4jJRoX3jARbO3Hp9Ao3lwFdWC7xUQ=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 6202,
+    "has_text": false,
+    "has_html": true
+  }
+}

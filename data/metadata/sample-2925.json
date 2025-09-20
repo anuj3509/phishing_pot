@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "��� Congratulazioni! Siete state selezionate per Hypnotic Poison di Dior!",
+    "from": "Buono Sephora, <message@my.zalando.it.>, Office, <message@my.zalando.it>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 20:05:20 +0100",
+    "message_id": "<lu6cmp9.0e62h.ht5.ht5@ewevajtbpmatdme.waa>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/9b6602e0-8330-4551-8b9a-4eb63bbbc1b7/test-bee-id/65sd1c5s6d1c651s6dc5s65dc15sd1c.shtml#cl/6310_md/4049/25716/1252/143/149762",
+      "bgasdfasdfa.jpg",
+      "eu1-us1.ckcdnassets.com/448/creatives/53933/logo.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/53933/product.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/53933/logo.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/9b6602e0-8330-4551-8b9a-4eb63bbbc1b7/test-bee-id/65sd1c5s6d1c651s6dc5s65dc15sd1c.shtml#oop/6310_md/4049/25716/1252/143/149762",
+      "eu1-us1.ckcdnassets.com/448/creatives/53933/product.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5170,
+    "html_length": 12369,
+    "has_text": true,
+    "has_html": true
+  }
+}

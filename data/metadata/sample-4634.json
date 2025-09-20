@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 35192047.",
+    "from": "Entrega Correios <alfandega953419@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Dec 2024 23:36:35 +0000",
+    "message_id": "<91044f91f2fb322dc04c3182629f7dff@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_91044f91f2fb322dc04c3182629f7dff\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_91044f91f2fb322dc04c3182629f7dff\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreiofiscaliza.com/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3702,
+    "has_text": true,
+    "has_html": true
+  }
+}

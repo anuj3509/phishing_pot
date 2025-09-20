@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Nachricht f��r dich!",
+    "from": "Fgehen69, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Sep 2023 12:05:32 +0200",
+    "message_id": "\r\n <854f2edf-224f-460d-9ef0-0137e6ee3a89@BN8NAM11FT058.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/cl/319_md/2010/2/1/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://easilett.com/oop/319_md/2010/2/1/23/2459859",
+      "https://i.imgur.com/ZRttt0z.jpg",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "i.imgur.com/ZRttt0z.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5307,
+    "html_length": 9442,
+    "has_text": true,
+    "has_html": true
+  }
+}

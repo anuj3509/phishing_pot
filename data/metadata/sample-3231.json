@@ -1,0 +1,65 @@
+{
+  "headers": {
+    "subject": "[Cloud Wallet] Account activation - 2024-04-27 14:10:07(UTC)",
+    "from": "Cloud Wallet <info@mycloudwallet.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Apr 2024 14:10:08 +0000",
+    "message_id": "<0100018f1fe45259-e1ab3474-9628-44f4-81d2-443a5331b88a-000000@email.amazonses.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.alignCenter,",
+      ".highlight.pdLf0,",
+      ".highlight.pdBt16,",
+      ".eBody.pdLf16,",
+      ".highlight.pdTp0,",
+      ".highlight.pdRg16,",
+      ".priceColumn.recommend",
+      ".eBody.pdBt16,",
+      "table.alignLeft,",
+      ".priceColumn.recommend,",
+      ".width132.alignRight,",
+      ".eBody.alignCenter",
+      "Outlook.com",
+      ".highlight.alignRight,",
+      "http://www.w3.org/1999/xhtml",
+      ".eBody.alignLeft",
+      "https://wax.io",
+      ".eBody.alignRight",
+      ".messageOptions.alignRight",
+      ".highlight.pdLf16,",
+      "p.MsoNormal",
+      ".invoiceTable2.twcoList",
+      ".highlight.alignLeft,",
+      ".eBody.pdRg16,",
+      ".eBody.pdLf0,",
+      "https://api-login.wax.io/v1/register/verify?token=e5a3082253c61560206c21c2b63df7b45c6b59b284aefb43ca85f9f736a7405d",
+      "https://api-login.wax.io/assets/mycloudwallet-logo.png",
+      ".eBody.pdTp0,",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+      "table.alignRight,",
+      ".highlight.pdTp32,",
+      "https://ci6.googleusercontent.com/proxy/IAqdCQ1OkzoL2RAWvGLCvS5Cflkcwx0mMAkmYPRQpug_SQ8qwd2pFjddR48B1CmfHDrwXFeASgwpz_G_7hiiTPD6UD0nspawVn1hCkScZgSrOdbmHT0Wu2SZFpQhWSzdDdGrwVdxrMgGZ48Cd1HPmg51jcLPXLvxtoaLBRi1fKGv2_cq-j0NVPOiZgGNV4cmV0Wjc0Go-y-PAiLBjyqdlFh5yynQ8SlA7eUU_Gw=s0-d-e1-ft#https://discord.com/api/science/406367266041495552/326a0122-de9b-4927-a330-0cb47b1f5024.gif?properties=eyJlbWFpbF90eXBlIjogInVzZXJfaXBfYXV0aG9yaXplIn0%3D",
+      ".eBody.pdTp32,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 29144,
+    "html_length": 41268,
+    "has_text": true,
+    "has_html": true
+  }
+}

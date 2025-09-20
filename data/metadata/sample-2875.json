@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Data Breach",
+    "from": "Ledger <luke@canix.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 19 Feb 2024 15:21:45 +0000",
+    "message_id": "<5da25878ff2eb343122436614.55341744aa.20240219152134.71281491c1.24eefe56@mail158.suw14.mcdlv.net>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_MCPart_1593002775\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_----------=_MCPart_1593002775\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledger.critical-update.com)",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1",
+      "https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&id=14bb8dcfc2&t=b&e=55341744aa&c=71281491c1)",
+      "https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D",
+      "https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;t=b&amp;e=55341744aa&amp;c=71281491c1",
+      "https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)",
+      "https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1",
+      "hotmail.com",
+      "https://getcanix.us19.list-manage.com/track/click?u=5da25878ff2eb343122436614&amp;id=6ff6051fc8&amp;e=55341744aa",
+      "https://getcanix.us19.list-manage.com/track/open.php?u=5da25878ff2eb343122436614&amp;id=71281491c1&amp;e=55341744aa",
+      "hotmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1972,
+    "html_length": 16798,
+    "has_text": true,
+    "has_html": true
+  }
+}

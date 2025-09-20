@@ -1,0 +1,73 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Atenção! Último dia antes do cancelamento de seus serviços
+From: "HostGator Brasil" <contatos0@f2moto.com.br>
+To: <phishing@pot>
+Date: Wed, 29 May 2024 02:04:19 -0300
+Message_Id: <2911202405040291AE75FCDB-6D68BA1E07@f2moto.com.br>
+Content_Type: multipart/mixed; boundary="U9tCJnKIJUJ56=_SkcLNxKyYhioO6b472E"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="U9tCJnKIJUJ56=_SkcLNxKyYhioO6b472E"
+
+ATTACHMENTS:
+--------------------
+- Fatura.pdf (application/pdf, 146471 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - table.tableType
+  - https://www.hostgator.com.br/hospedagem-de-sites
+  - hostgator.com.br
+  - table.deviceWidth
+  - hotmail.com!
+  - img.imageMobile{
+  - https://suporte.hostgator.com.br/hc/pt-br
+  - table.deviceWidth{
+  - table.tableType{
+
+DECODED TEXT CONTENT:
+------------------------------
+
+    
+
+
+ Olá, hotmail.com!
+
+Precisamos da sua atenção: sua fatura venceu em 15/05/2024 e ainda não recebemos a confirmação de pagamento.
+Queremos garantir que você continue aproveitando todos os nossos serviços da melhor maneira possível. Para que seus serviços não sejam suspensos, é importante realizar o pagamento até 29/05/2024
+Resumo da fatura - 414808675
+Status:                                                                                                    
+ Vencida                                                                                                    
+Vencimento:                                                                                          
+ 15/05/2024
+Serviço(s):                                                                                              
+ Plano Turbo hospedagem de site + Pacote Empresa Segura por 3 anos - registro de dominio.
+
+Para sua comodidade, o documento foi anexado a este e-mail.
+Para mais detalhes, por favor, consulte o documento em anexo.
+Em caso de dúvidas ou necessidade de suporte, acesse nossa central de ajuda.
+
+                                           Atenciosamente,
+                                           HostGator Brasil
+                                           hostgator.com.br
+Rua Lauro Linhares, 589 - ÁTICO - Trindade,Florianópolis - SC | CEP: 88036-000 - Brasil
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Atenção! Último dia antes do cancelamento de seus serviços</title>
+ </head>
+ <body><!-- 7ECC3D7AA1FF094EB01540612BB36316 --> <meta name="viewport" content="width=device-width"> <style type="text/css">table{ margin: 0px auto !important; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;}table td, table tr{ border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;} @media screen and (max-width: 600px) {table.deviceWidth{ width: 100% !important; min-width: 100% !important;}table.deviceWidth td{ display: block !important; clear: both !important; width: 100% !important; text-align: center !important; padding: 0px !important; min-width: 100% !important; margin: 0 auto !important;}table.tableType{ min-width: 100%; width: 100% !important; margin: 0 auto !important;}table.tableType td{ display: table-cell !important; min-width: auto !important; width: auto !important;}img.imageMobile{ width: 100% !important; height: auto !important;}*.hideThis { display: none !important; }*.to90 { width: 93%; }}</style> &nbsp;&nbsp;&nbsp;<table class="deviceWidth" cellspacing="0" cellpadding="0" width="653" align="center" bgcolor="#f2f2f2" border="0"> <tr><td style="FONT-SIZE: 0px; MARGIN: 0px; LINE-HEIGHT: 0px" bgcolor="#ffffff" valign="top" width="657"><table cellspacing="0" cellpadding="0" width="100%" align="center" border="0"> <tr><td style="FONT-SIZE: 0px; MARGIN: 0px; LINE-HEIGHT: 0px" bgcolor="#ffffff" align="center"> <p><img class="imageMobile" src="cid:64A16D55EE3B68179F50@DESKTOPJUULPG" width="296" align="middle" height="51"></p></td></tr></table><table cellspacing="0" cellpadding="0" width="100%" border="0"> <tr><td style="FONT-SIZE: 0px; MARGIN: 0px; LINE-HEIGHT: 0px" align="center"></td></tr></table><table cellspacing="0" cellpadding="0" width="565" align="center" border="0"> <tr><td style="FONT-SIZE: 14px; FONT-FAMILY: Trebuchet MS, Navy, sans-serif; COLOR: #6d6e71; -MS-TEXT-SIZE-ADJUST: none; TEXT-ALIGN: left !important; LINE-HEIGHT: 20px; -webkit-text-size-adjust: none; mso-line-height-rule: exactly" width="563" align="left"> <p>&nbsp;</p><p><font color="#000000"><font size="5">&nbsp;<strong>Olá, hotmail.com!</strong></font></font></p><p>&nbsp;</p><p><font size="3"><font color="#000000"><strong>Precisamos da sua atenção:</strong> sua fatura venceu em 15/05/2024 e ainda não recebemos a confirmação de pagamento.</font></font></p><p><font color="#000000" size="3">Queremos garantir que você continue aproveitando todos os nossos serviços da melhor maneira possível. <strong>Para que seus serviços não sejam suspensos, é importante realizar o pagamento até 29/05/2024</strong></font></p><p><font color="#000000" size="5"><strong>Resumo da fatura - 414808675</strong></font></p><p><font color="#000000" size="3"><strong><font style="BACKGROUND-COLOR: #fab005" size="4"><font style="BACKGROUND-COLOR: #ffffff">Status:</font><font style="BACKGROUND-COLOR: #ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></font></strong></font></p><p><font color="#000000"><font style="BACKGROUND-COLOR: #ff8080" size="3"><strong>&nbsp;Vencida</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></p><p><font color="#000000" size="3"><strong><font style="BACKGROUND-COLOR: #ff9122" size="4"><font style="BACKGROUND-COLOR: #ffffff">Vencimento:</font><font style="BACKGROUND-COLOR: #ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font></font></strong></font></p><p><font size="3"><font color="#000000"><strong>&nbsp;</strong></font><font color="#000000">15/05/2024</font></font></p><p><font style="BACKGROUND-COLOR: #ff9122" color="#000000" size="4"><strong><font style="BACKGROUND-COLOR: #ffffff">Serviço(s):</font><font style="BACKGROUND-COLOR: #ffffff">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></strong></font></p><p><font size="3"><font color="#000000">&nbsp;Plano Turbo hospedagem de site&nbsp;+ Pacote Empresa&nbsp;Segura por 3 anos&nbsp;- registro de dominio.</font></font></p><p>&nbsp;</p><p><font color="#000000" size="3">Para sua comodidade, o documento foi anexado a este e-mail.</font></p><p><font color="#000000" size="3">Para mais detalhes, por favor, consulte o documento em anexo.</font></p><p><font color="#000000" size="3">Em caso de dúvidas ou necessidade de suporte, acesse nossa <font color="#0443d8"><a href="https://suporte.hostgator.com.br/hc/pt-br">central de ajuda.</a></font></font></p><font size="3"> <p>&nbsp;</p><p><strong><font color="#000000">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Atenciosamente,</font><br></strong><font color="#000000"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HostGator Brasil<br></strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.hostgator.com.br/hospedagem-de-sites"><strong>hostgator.com.br</strong></a></font></p><p><font size="2">Rua Lauro Linhares, 589 - ÁTICO - Trindade,Florianópolis - SC | CEP: 88036-000 - Brasil</font><br><br></p></font></td></tr></table><table> <tr><td><IMG< body=""></td></tr></table></td></tr></table></td></tr></table><br>&nbsp;&nbsp;<br>&nbsp;&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;<br></body>
+ </html>
+

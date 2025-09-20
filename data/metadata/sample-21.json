@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Het begint weer warm te worden",
+    "from": "Ariana<newsmail@app9l.serenitepure.fr>",
+    "to": "phishing@pot.org",
+    "date": "Sat, 27 Aug 2022 09:42:09 +0000",
+    "message_id": "<0.0.0.0.1D8B9F946FF8880.279D@EngineeredLiningSystems.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://secure-netcloud.com/?a=71&amp;c=76&amp;s1=dadaa&amp;email=phishing@pot.org",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2380,
+    "html_length": 9263,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 303137816",
+    "from": "Mercado Livre <notificacoes@mercadolivre.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 05 Dec 2022 23:23:23 +0000",
+    "message_id": "<72529aa3-c593-c846-a763-5c3e69c950e4@mercadolivre.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ii-dnuqnaqtnq-rj.a.run.app/a/?tr=8e1a2d9c77934910aa31c494be62ba9f",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 413,
+    "html_length": 8696,
+    "has_text": true,
+    "has_html": true
+  }
+}

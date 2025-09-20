@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Prezado, phishing@pot! Bem-vindo ao Bradesco Prime Digital.  [Protocolo: 257169]",
+    "from": "Bradesco <sac-email5940@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 22 Aug 2024 19:20:29 +0000",
+    "message_id": "<20240822192029.450A280F5@mqqdljfyu.tahugdqhiuajel.com.br>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17243544291810579553\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17243544291810579553\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "banco.brad",
+      "https://myopenstacklocal.com/acessar.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2042,
+    "html_length": 11825,
+    "has_text": true,
+    "has_html": true
+  }
+}

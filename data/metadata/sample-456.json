@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Fw: Unusual_activity_on_your_Account",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Thu, 9 Mar 2023 17:26:49 +0000",
+    "message_id": "\r\n <SA0PR04MB73705BAED9E316E8B261DE2FB3B59@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73705BAED9E316E8B261DE2FB3B59SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73705BAED9E316E8B261DE2FB3B59SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com?cc=fwrakib03@gmail.com&amp;subject=-Report",
+      "https://i.ibb.co/zFZRPxv/myW8.png%20alt=]",
+      "funko.com&gt;",
+      "gmail.com?cc=fwrakib03@gmail.com&subject=-Report%20User%20Now.",
+      "https://i.ibb.co/zFZRPxv/myW8.png",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "funko.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 390,
+    "html_length": 958,
+    "has_text": true,
+    "has_html": true
+  }
+}

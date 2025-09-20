@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Security Alert – Immediate Verification of Your Recovery Phrase Required",
+    "from": "Support Ledger <no-reply@info.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Jun 2025 12:49:26 +0000",
+    "message_id": "<20250627124926.D51F5AA838102B39@info.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "https://my-secure-access.s3.eu-north-1.amazonaws.com/recovery.html",
+      "https://support.ledger.com",
+      "https://my-secure-access.s3.eu-north-1.amazonaws.com/logo-long.png",
+      "https://secure.ledger.com/unsubscribe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 810,
+    "html_length": 4161,
+    "has_text": true,
+    "has_html": true
+  }
+}

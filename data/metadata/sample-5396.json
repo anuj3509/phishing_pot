@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Tether Announcement",
+    "from": "Official Tether <claim@snuifduif.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 17 Apr 2025 07:50:24 +0200",
+    "message_id": "<248d3d1eea2e040f2c827bd024e1ebe1d6b61a74@snuifduif.com>",
+    "content_type": "multipart/alternative; boundary=\"02a7ee45b1755f50c369208a5e9ba5dcc93b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"02a7ee45b1755f50c369208a5e9ba5dcc93b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://perfect-official.sbs",
+      "https://cdn.freelogovectors.net/svg08/tether_logo-freelogovectors.net_.svg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 315,
+    "html_length": 2532,
+    "has_text": true,
+    "has_html": true
+  }
+}

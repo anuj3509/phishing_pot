@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. [891847]",
+    "from": "Mercado Pago <noreply@seguranca20487.-1>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 16 Jul 2025 14:01:34 +0800",
+    "message_id": "<202507160601.56G61YZk003054@j4cdfjnl.vm>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 517,
+    "html_length": 2422,
+    "has_text": true,
+    "has_html": true
+  }
+}

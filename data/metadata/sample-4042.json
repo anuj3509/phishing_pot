@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Its time to upgrade your wallet",
+    "from": "no-reply@verizonconnect.com",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Sep 2024 04:30:49 +0000 (UTC)",
+    "message_id": "<Vmmv7Ym6RJOspOojAcF1SQ@geopod-ismtpd-8>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "http://trustuser.simple-url.com",
+      "https://work2.fleetmatics.com/OpenEmail/AStarHeatAirInc083112/rodrigo-f-p@hotmail.com/jobcards-50870397",
+      "http://work-email.fleetmatics.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUfNqHLvdlnqxWTYJbt4xl976cvJlbtsLfW0MEgQ6rILC-2Bk9yaPoZIHUoB3cfvN01OpNQ-2FIvrpRyDheZNxOxMDkwOFCcEb89qq8t7LAznext3g6KaCIjW8pAvqeBqaZoxeJi1fphEqyY91RoWbiSDtn59awx8P-2B0mjxMLjvord6Dw-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1160,
+    "html_length": 2667,
+    "has_text": true,
+    "has_html": true
+  }
+}

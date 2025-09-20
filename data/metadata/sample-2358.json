@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "No Deposit Needed  Your $31 Free Chip",
+    "from": "Congratulations",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Dec 2023 07:45:04 +0100",
+    "message_id": "\r\n <954ad5e8-37cd-44ca-a670-0510397cddf8@MW2NAM04FT025.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Work+Sans:400",
+      "http://healthduty.servequake.com/op/6879_md/25/1648/1122/118/124776",
+      "i.redd.it/b80n9rpzq87c1.png",
+      "http://healthduty.servequake.com/un/6879_md/25/1648/1122/118/124776",
+      "http://healthduty.servequake.com/oop/6879_md/25/1648/1122/118/124776",
+      "http://healthduty.servequake.com/cl/6879_md/25/1648/1122/118/124776",
+      "https://i.redd.it/b80n9rpzq87c1.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2181,
+    "html_length": 5950,
+    "has_text": true,
+    "has_html": true
+  }
+}

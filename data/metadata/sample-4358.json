@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Confirme o Pagamento e Receba sua Encomenda em Breve!",
+    "from": "ganine <noreply@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Nov 2024 07:06:38 +0000",
+    "message_id": "<07d4f380-de9a-3f58-33e1-4784d43f06bc@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodejens.icu/?mailID=YPu_gCg3H-78hHlmJ1nT0EzcTss18_jy9yuDyGJsjV_PeI4PM-AcEC2VXkcPxWx5IcWXiocq5jlE4R6agbz_SQhuC5WY09-DAy-fuBQY4G73p6sJ_J0XcV3TQ3rGUtthZj5hoGxXgk5_jrpn0mhEGLx-_mNgtChYRMTqsXaOdP8Sp0C7Db2iQpdOJKoBjnSHGCaClFIiRi8I443CCOfaihn-GdQGf-wvwxKPtA7qL9tZ8ycDLARILe-Yf4cQM67MO6G2SnxNLmnBNWacL48KcxvGp3wn8bnCINBVV2UC9NCGrR1YH7wXbFAHDckRCo3eLzLygmdr4FJdXcE",
+      "newspaper.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 30494,
+    "html_length": 54111,
+    "has_text": true,
+    "has_html": true
+  }
+}

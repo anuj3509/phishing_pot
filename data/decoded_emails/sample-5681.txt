@@ -1,0 +1,142 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Mutuelle : comparez avant de payer
+From: Conseil Santé <Mutuellecomparezavantdepayer@thinkebiz.net>
+To: phishing@pot
+Date: Mon, 14 Jul 2025 04:37:20 +0000
+Message_Id: <0100019807391e69-4e110e3a-8cd3-425f-8f5c-b9c191030be1-000000@email.amazonses.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://n5rt4ehrxto5n6jdvyq.s3.us-east-1.amazonaws.com/indexm.html
+  - https://desabonner.s3.us-east-1.amazonaws.com/desabonner.html
+  - img.logo
+  - https://www.maxredirect.com/scripts/direct/index/6861a802b97e5/6861a802ceb49
+  - https://www.maxredirect.com/comparateur-mutuelle/comparateur-mutuelle.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Votre mutuelle a augment&eacute; ? Agissez d&egrave;s maintenant ! body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } .container { width: 100%; max-width: 600px; margin: auto; background-color: #ffffff; padding: 20px; text-align: center; } .btn { display: inline-block; background-color: #0083DD; color: #ffffff; padding: 15px 30px; text-decoration: none; font-weight: bold; border-radius: 5px; } img.logo { width: 180px; max-width: 100%; height: auto; display: block; margin: 0 auto 15px auto; } h1 { color: #0083DD; font-size: 24px; font-weight: bold; line-height: 1.4; } p { font-size: 18px; line-height: 1.5; color: #333333; } Si vous ne voyez pas ce message correctement, cliquez-ici Votre partenaire pour une mutuelle abordable Votre mutuelle a augment&eacute; ? Agissez d&egrave;s maintenant ! Gr&acirc;ce &agrave; la r&eacute;siliation infra-annuelle, vous pouvez changer de mutuelle &agrave; tout moment et &eacute;conomiser sur vos cotisations. Comparez et trouvez une meilleure offre d&egrave;s maintenant ! Demandez votre devis gratuit en quelques clics. Comparer les prix Se d&eacute;sabonner
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+
+<html><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Votre mutuelle a augment&eacute; ? Agissez d&egrave;s maintenant !</title>
+  <style type="text/css">
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .btn {
+      display: inline-block;
+      background-color: #0083DD;
+      color: #ffffff;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+
+    img.logo {
+      width: 180px;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 15px auto;
+    }
+
+    h1 {
+      color: #0083DD;
+      font-size: 24px;
+      font-weight: bold;
+      line-height: 1.4;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+      color: #333333;
+    }
+  </style>
+</head>
+<body style="font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4">
+
+<p style="font-size: 18px;
+      line-height: 1.5;
+      color: #333333" align="center">
+  <em>Si vous ne voyez pas ce message correctement,
+    <font color="#0606f9"><strong><a href="https://n5rt4ehrxto5n6jdvyq.s3.us-east-1.amazonaws.com/indexm.html">cliquez-ici</a></strong></font>
+  </em>
+</p>
+
+<div style="width: 100%;
+      max-width: 600px;
+      margin: auto;
+      background-color: #ffffff;
+      padding: 20px;
+      text-align: center" class="container">
+  <img style="width: 180px;
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 15px auto" class="logo" alt="Logo" src="https://www.maxredirect.com/comparateur-mutuelle/comparateur-mutuelle.png" width="180" height="30">
+  <p style="font-size: 18px;
+      line-height: 1.5;
+      color: #333333"><em>Votre partenaire pour une mutuelle abordable</em></p>
+  <h1 style="color: #0083DD;
+      font-size: 24px;
+      font-weight: bold;
+      line-height: 1.4">Votre mutuelle a augment&eacute; ? Agissez d&egrave;s maintenant !</h1>
+  <span style="font-size: 17.3px;">Gr&acirc;ce &agrave; la r&eacute;siliation infra-annuelle, vous pouvez changer de mutuelle &agrave; tout moment et &eacute;conomiser sur vos cotisations.</span><br><br>
+  Comparez et trouvez une meilleure offre d&egrave;s maintenant !<br><br>
+  Demandez votre devis gratuit en quelques clics.
+  <p style="font-size: 18px;
+      line-height: 1.5;
+      color: #333333"><br></p>
+  <a style="display: inline-block;
+      background-color: #0083DD;
+      color: #ffffff;
+      padding: 15px 30px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px" class="btn" href="https://www.maxredirect.com/scripts/direct/index/6861a802b97e5/6861a802ceb49">Comparer les prix</a><br><br><br>
+  <font color="#0717f8"><a href="https://desabonner.s3.us-east-1.amazonaws.com/desabonner.html">Se d&eacute;sabonner</a></font>
+</div>
+
+
+
+    <div style="width: 421px; height: 2230px;"></div> <p style="font-size: 18px;
+      line-height: 1.5;
+      color: #333333"></p>
+</body></html>
+

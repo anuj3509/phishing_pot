@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "hlj789l7",
+    "from": "postmaster@mg.tiledesk.com",
+    "to": "phishing@pot",
+    "date": "Thu, 24 Aug 2023 13:29:36 +0000",
+    "message_id": "<375d337f-608b-6c00-e0f8-dbf0bd64926c@mg.tiledesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-3f1beabdfb082be7-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-3f1beabdfb082be7-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://forms.yandex.ru/cloud/64e74e633e9d080457e27e3b/",
+      "https://tiledesk.com/wp-content/uploads/2023/05/tiledesk-solo_logo_new_gray.png",
+      "Tiledesk.com",
+      "img.CToWUd",
+      "http://www.w3.org/1999/xhtml",
+      "http://schema.org/EmailMessage",
+      "http://email.mg.tiledesk.com/u/eJwcycEOgyAMANCv0VtNV6CwA4d9im2pkmlYnP-fJTs_q0mdksx7JRJvGqzQmrLwSvLIzAExOuekZe415GQhZAfGIsCKCA29gImjGMcnsU4Rz225-9Gsfd-LjnO-6jXs6tsAh88UcR_3ufbjb3ed6PULAAD___JXJ54",
+      "https://tiledesk.com/wp-content/uploads/2023/01/tiledesk_log_email_200.png",
+      "http://www.tiledesk.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9390,
+    "html_length": 8859,
+    "has_text": true,
+    "has_html": true
+  }
+}

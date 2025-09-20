@@ -1,0 +1,80 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: I have delivered Your Order on Monday, 24 March 2025
+From: "Paid Customer" <ahmedzian.md1995@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Mon, 24 Mar 2025 06:27:11 -0700 (PDT)
+Message_Id: <67e15daf.a70a0220.c3e53.e24d@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============7012719928732998516=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============7012719928732998516=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm, update
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #062ED7; } .auto-style2 { color: #077EF6; } Pay Pal Money sale receipt date: Monday, 24 March 2025 CST 07:27 Money sale receipt no: 5323900-965522 Confirming Your Recent Order Hey Paid Customer, We have received your recent order, at BTC-Crypto Currency (Coinbase inc.) store. Thank you for choosing us for your shopping needs. Here are all the details: Money sale receipt Summary: Money sale receipt: Bitcoin (BTC) Gateway: PayPal Quantity: 1x Customer Id: 591-FCRP-5146 Total Charges: $1492.93 We are currently processing your order and will keep you updated on the status of your shipment. You can expect to receive a shipping confirmation email with tracking information once your order has been dispatched. If you have any questions or concerns about your order, please don't hesitate to contact us. Our customer service team is always happy to assist you. 1.888.350.7185 Happy writing! PayPal, Inc. Telephone: 1.888.350.7185 Copyright © 2024 Company. All rights reserved. 420 N Washington Avenue Fl Parkersburg West Virginia 18766 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #062ED7;
+}
+.auto-style2 {
+	color: #077EF6;
+}
+</style>
+</head>
+
+<body>
+
+<h2><strong><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></strong></h2>
+Money sale receipt date: Monday, 24 March 2025 CST 07:27<br>
+Money sale receipt no: 5323900-965522<h4>Confirming Your Recent Order</h4>
+Hey Paid Customer,<br>
+We have received your recent order, at BTC-Crypto Currency (Coinbase inc.) store. Thank you for choosing 
+us for your shopping needs. Here are all the details:<br>
+<br>
+<strong>Money sale receipt Summary:</strong><br>
+Money sale receipt: Bitcoin (BTC)<br>
+Gateway: PayPal<br>
+Quantity: 1x<br>
+Customer Id: 591-FCRP-5146<br>
+Total Charges: $1492.93<br>
+<br>
+We are currently processing your order and will keep you updated on the status 
+of your shipment. You can expect to receive a shipping confirmation email with 
+tracking information once your order has been dispatched.<br>
+<br>
+If you have any questions or concerns about your order, please don't hesitate to 
+contact us. Our customer service team is always happy to assist you. 1.888.350.7185<br>
+<br>
+Happy writing!<br>
+PayPal, Inc.<br>
+Telephone: 1.888.350.7185<br>
+<br>
+Copyright © 2024 Company. All rights reserved.<br>
+420 N Washington Avenue Fl Parkersburg West Virginia 18766 USA
+
+</body>
+
+</html>

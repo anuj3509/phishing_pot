@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Your latest User Agreement",
+    "from": "Microsoft Privacy <nepasrepondre@iso-renov.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Sep 2023 17:46:56 +0000",
+    "message_id": "<b38ea12d-35a3-2b03-b321-cbb6c0d96e08@iso-renov.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "schema.org/ViewAction",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=64f15bfe3ce1cc60JmltdHM9MTY5MTM2NjQwMCZpZ3VpZD0zYWU1OTgxNC1kZjliLTY4NTktMWFmMC04YjRjZGVjZDY5YTcmaW5zaWQ9NTE4OA&amp;ptn=3&amp;hsh=3&amp;fclid=3ae59814-df9b-6859-1af0-8b4cdecd69a7&amp;u=a1aHR0cHM6Ly9zYW1heWFhd29ybGRzcGEuY29tL2Fib3V0LXVzLw&amp;ntb=128648145581683145328",
+      "http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png",
+      "hotmail.com",
+      "schema.org/EmailMessage",
+      "https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 377,
+    "html_length": 3830,
+    "has_text": true,
+    "has_html": true
+  }
+}

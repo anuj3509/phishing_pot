@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your account has been flagged for unusual activity.",
+    "from": "Outlook Support Team <218304422@ms.daihocthudo.edu.vn>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 22 Feb 2025 21:20:19 +0000",
+    "message_id": "<cebMEL2cLwFAvcKh8nADdv31qTw7mRo01hUdLBWDlI@ip-172-31-17-225>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "unusual activity"
+    ],
+    "urls": [
+      "https://i.ibb.co/B2ySj3HD/14.png",
+      "https://shorturl.asia/iNkl1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 791,
+    "html_length": 5658,
+    "has_text": true,
+    "has_html": true
+  }
+}

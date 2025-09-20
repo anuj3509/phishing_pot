@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Schnell handeln: phishing@pot, erneuern Sie Ihr Total AV-Abonnement sofort!",
+    "from": "\"Sicherheitsmitteilung\"  <secure@barkhanlobule.de>",
+    "to": "<phishing@pot@outlook.com>",
+    "date": "Wed, 11 Sep 2024 11:43:12 +0000",
+    "message_id": "<APowYuniH3K26ME2LikJdNbeuD@email.amazonses.com>",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&name=small",
+      "https://t.co/MG4irRnuRC",
+      "https://pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&name=small",
+      "https://t.co/d8U9aGwbKT"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1112,
+    "html_length": 7674,
+    "has_text": true,
+    "has_html": true
+  }
+}

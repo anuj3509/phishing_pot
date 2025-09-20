@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Arabian Tea] Login Details
+From: WordPress <wordpress@arabiantea.in>
+To: <phishing@pot>
+Date: Sun, 1 Jun 2025 11:46:33 +0000
+Message_Id: <U92gL1lEUCTYF7BvcmorEBN7lj8OcP0Ds0AAghTQ@arabiantea.in>
+Content_Type: text/plain; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://arabiantea.in/wp-login.php?action=rp&key=G7LppKQsv7wlOeGtp4yg&login=www.dhfjkq.blogspot.com%20-%201.312%20BTC%20BINANCE
+  - www.dhfjkq.blogspot.com
+  - https://arabiantea.in/wp-login.php
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.dhfjkq.blogspot.com - 1.312 BTC BINANCE
+
+To set your password, visit the following address:
+
+https://arabiantea.in/wp-login.php?action=rp&key=G7LppKQsv7wlOeGtp4yg&login=www.dhfjkq.blogspot.com%20-%201.312%20BTC%20BINANCE
+
+https://arabiantea.in/wp-login.php
+
+
+

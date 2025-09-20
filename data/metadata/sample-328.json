@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fw: Your Urgent Notice",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Thu, 16 Feb 2023 16:47:48 +0000",
+    "message_id": "\r\n <SA0PR04MB7370D7717A4E206B40444C79B3A09@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370D7717A4E206B40444C79B3A09SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370D7717A4E206B40444C79B3A09SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mail.com",
+      "mail.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4264,
+    "html_length": 5061,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Nur heute verlosen wir 5 Camper. Jetzt einen Camper sichern.",
+    "from": "Selektiert!,(<message@my.zalando.de>)",
+    "to": "phishing@pot",
+    "date": "Fri, 09 Aug 2024 14:40:30 +0000",
+    "message_id": "<CJAEHOCONLXAZQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5eOwsw27978gmBW584jrgoqtwdlx14302EJWJMSDRRYNDDCS2JTED2618i10",
+      "http://topmarktingplace.com/4OxNYS27978joAO584temouhagjg14302VHETPHNAJJCVGIS2WSNR2618a10",
+      "http://topmarktingplace.com/4jlPFO27978CvmI584vkacfmkvju14302QKARYVVEDZSJDPJ2MYML2618h10",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4CyJHV27978QeFL584qiskyllfxp14302BPUOSVCMOUOGAAI2XBAI2618q10",
+      "http://topmarktingplace.com/4CydWm27978ODZT584twimazxdwr14302MIURMWWHZFSUHBB2JTWL2618M10",
+      "http://topmarktingplace.com/4Hiwhq27978eMlx584tiervbuffw14302ZOZOXBLUZJQVITJ2KRDH2618i10",
+      "sf22.sendsfx.com/admin/temp/user/2/amaz-img02.jpg",
+      "http://topmarktingplace.com/4iJtqV27978MokY584cpveczcrez14302OBBISMHGVLAZMRN2XZYW2618Z10",
+      "http://topmarktingplace.com/4NiNcf27978TnjM584dfmcghxjxk14302UHRYXWCWVAWUQOJ2GTPR2618j10",
+      "http://topmarktingplace.com/4piMWD27978Qnkr584qhufgqqapu14302FBWQXCEXFOZXXBH2EOMP2618n10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6FJQxW27978JWNt584zifzcdjmyn14302KDXXZCEGRCTRZSQ2KCEQ2618f10",
+      "http://topmarktingplace.com/4vncLp27978QPhE584ndqnmxelnk14302NKYLVEWRJZLCJZU2PLYH2618j10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/amaz-img02.jpg",
+      "http://topmarktingplace.com/4WmuDV27978XYOu584mxsnnqxfdc14302ZZGLHVZKYZHHGLJ2SWRP2618h10",
+      "sf22.sendsfx.com/admin/temp/user/2/amaz-de.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/amaz-footer-de.jpg",
+      "sf22.sendsfx.com/admin/temp/user/2/amaz-footer-de.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/amaz-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1350,
+    "html_length": 11469,
+    "has_text": true,
+    "has_html": true
+  }
+}

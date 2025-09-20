@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Alerts Casef901fbeab45672fb9cbc25a31e0a4b83.",
+    "from": "MetaMaskTeam <metateam@mjegps.dk>",
+    "to": "phishing@pot",
+    "date": "Tue, 7 Feb 2023 23:35:59 +0000",
+    "message_id": "<JQ7dDdlLVSoKe0Eafmr7JiqHnK5HITbl3bH8S6qVKs@mjegps.dk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://is.gd/WeLc9z"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 740,
+    "html_length": 1334879,
+    "has_text": true,
+    "has_html": true
+  }
+}

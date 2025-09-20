@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Attention : Your Wallet Has been Blocked !",
+    "from": "MetaMask <ceo@growforme.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 30 Mar 2023 19:16:58 +0000",
+    "message_id": "<20230330191658.954291c5d2790a1c@cio59945.growforme.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"17934b3dcf69ffd85a07a95b93dab7f01c32ad6ad3c00f4a59012af0f133\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"17934b3dcf69ffd85a07a95b93dab7f01c32ad6ad3c00f4a59012af0f133\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://e.customeriomail.com/e/o/eyJlbWFpbF9pZCI6ImRnVE0td1VEQUplbEdaYWxHUUdITS1rSFBwS2dfTUFwV3JWaFJIZz0ifQ==",
+      "http://track.customer.io/unsubscribe/dgTM-wUDAJelGZalGQGHM-kHPpKg_MApWrVhRHg=",
+      "https://userimg-assets.customeriomail.com/images/client-env-97740/1680200146885_zab_01GWSVQ90ZCGN77J76P9ZV9P7S.png",
+      "https://e.customeriomail.com/unsubscribe/dgTM-wUDAJelGZalGQGHM-kHPpKg_MApWrVhRHg=",
+      "https://fonts.googleapis.com/css?family=Lato",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack",
+      "https://e.customeriomail.com/e/c/eyJlIjo5Nzc0MCwiZW1haWxfaWQiOiJleGFtcGxlIiwiaHJlZiI6Imh0dHBzOi8vc29rb25hLW9uZS5jb20vemphemVlbG1vaGFtZWRAaG90bWFpbC5jb20iLCJ0IjoxNjgwMjAxMzg2fQ/82fdf7121c774fa46def9a1824882a752a1b8e9816664b7b749675acf3274e29"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 760,
+    "html_length": 11106,
+    "has_text": true,
+    "has_html": true
+  }
+}

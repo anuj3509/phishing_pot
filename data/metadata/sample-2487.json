@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Please verify your Trust Wallet.",
+    "from": "\"Trust Wallet\" <noreply@support-trustwallet.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 2 Jan 2024 03:24:31 -0800",
+    "message_id": "<2900405396280232501446@WIN-8OALKS1CA13>",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_3D31_65B061CF.484E1126\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_3D31_65B061CF.484E1126\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://joulink.com",
+      "https://www.help-tw-validation.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 670,
+    "html_length": 2450,
+    "has_text": true,
+    "has_html": true
+  }
+}

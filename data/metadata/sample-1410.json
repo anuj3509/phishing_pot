@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "You Could Speak 36 Different Languages ",
+    "from": "Enence Translator, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Sep 2023 09:27:00 +0200",
+    "message_id": "\r\n <8ed46498-de09-48fa-a994-eea5a34f830e@DM6NAM04FT029.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://77.91.100.82/un/408_md/31/11/70/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap",
+      "www.ONCF-Voyages.ma",
+      "http://77.91.100.82/oop/408_md/31/11/70/23/2459859",
+      "surwww.oncf-voyages.ma",
+      "http://77.91.100.82/op/408_md/31/11/70/23/2459859",
+      "http://77.91.100.82/cl/408_md/31/11/70/23/2459859",
+      "http://77.91.100.82/media/6cdc5a8505c2e16.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4482,
+    "html_length": 6776,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Notificacao ao cliente-ZGWWYaVnFLl0OB0",
+    "from": "\"Banco do Brasil\" <gillloriye88@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Sep 2023 11:49:18 -0700 (PDT)",
+    "message_id": "<65074a2e.630a0220.a0ae4.38bc@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_1607_93da7ed3-32a7-4a41-b042-f0181f5ac813"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_1607_93da7ed3-32a7-4a41-b042-f0181f5ac813"
+  },
+  "attachments": [
+    {
+      "filename": "ZGWWYaVnFL.pdf",
+      "content_type": "application/octet-stream",
+      "size": 110531
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 170,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

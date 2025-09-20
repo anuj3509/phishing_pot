@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Growth, development, and transparency",
+    "from": "Ripple <host@kreativeexhaust.com.au>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Feb 2024 19:02:08 +0000",
+    "message_id": "<M72SHRDQ8MU4.RHRJ91UQ2UX@kreativeexhaust.com.au>",
+    "content_type": "multipart/alternative; boundary=\"=-QJYyseIO0z5slC5MkXUhlA==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-QJYyseIO0z5slC5MkXUhlA==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://google.com/amp/s/insights-ripple.com",
+      "https://ripple.com/static/96dd1d6916b3110f8de7a7c42b2fe1b6/2621d/logo-ripple.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 474,
+    "html_length": 1787,
+    "has_text": true,
+    "has_html": true
+  }
+}

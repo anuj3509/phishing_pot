@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "RE: YOUR URGENT PAYMENT NOTIFICATION,",
+    "from": "United Nations <unitednationsliaisonoffice0@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 31 Mar 2025 08:52:17 -0700",
+    "message_id": "<CAHxE5i_5k8ishYkTr4MB+5qSORgNDCGTE0ZmB9hCt69mR2ABMw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000002ff86f0631a56845\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000002ff86f0631a56845\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com",
+      "https://ci3.googleusercontent.com/mail-sig/AIorK4wgyR6I93IrY7_fOvNVHrARCJX-HwWC_4GTeHICiuUbVVmgsUGbLOy7hQZ-wjBhKnAjG3eGKRFZThU0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1217,
+    "html_length": 2110,
+    "has_text": true,
+    "has_html": true
+  }
+}

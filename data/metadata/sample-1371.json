@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "VORHERSAGEN IM HOROSKOP DER ENGEL",
+    "from": "Medium Celeste, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Sep 2023 18:53:30 +0200",
+    "message_id": "\r\n <3650ebb9-e132-4936-8f7f-47f5f8734523@AM6EUR05FT056.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/media/1cc48ff7888ea43.jpg",
+      "http://easilett.com/cl/194_md/31/2/41/23/2459859",
+      "http://easilett.com/media/6bc67212994d10c.jpg",
+      "http://easilett.com/media/92006a1b036aa8c.jpg",
+      "http://easilett.com/oop/194_md/31/2/41/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://easilett.com/media/e97698112aaebcd.jpg",
+      "http://www.federerensemble.com/tracking/cpm.php?ids=1425&amp;idv=3525&amp;sid=",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://easilett.com/media/b3d711c0a3d8452.gif"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5338,
+    "html_length": 9600,
+    "has_text": true,
+    "has_html": true
+  }
+}

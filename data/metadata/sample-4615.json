@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <noreply@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Dec 2024 07:21:35 +0000",
+    "message_id": "<fd3c23e3-ead2-3165-927b-55c322678722@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "co.uk20010315apple_abandons_cube",
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35168,
+    "html_length": 60716,
+    "has_text": true,
+    "has_html": true
+  }
+}

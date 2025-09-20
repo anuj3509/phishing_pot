@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 246909546",
+    "from": "Status Entrega - Rastreio <no-2913-reply@%Encomenda-online.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 30 Jun 2025 20:10:41 +0000",
+    "message_id": "<20250630201041.1EA7847269@vmarthurdias324xxxjwtawwat8v>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wwa246909546w.34y33gr3g34h.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com",
+      "https://wwww246909546sedexsedexpac.34y33gr3g34h.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2229,
+    "html_length": 4164,
+    "has_text": true,
+    "has_html": true
+  }
+}

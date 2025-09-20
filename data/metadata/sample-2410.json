@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot Wie man wirklich reich wird von Bitcoins.",
+    "from": "Bitcoin-Billionaire, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Dec 2023 01:46:37 +0100",
+    "message_id": "<xFF1Pvl.0.0.xFF1Pvl.9.xFF1Pvl@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://cutt.ly/ewFuCw9I",
+      "a.mcnButton{",
+      "www.zupimages.net/up/23/52/ger5.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://bitcoin.theowensfamily.info/MnNZbmIyaVZQMEJwVlJoNEpYNkovNlVCVVFHTXJiZHNtQnFHTUIvSkg2TEJ4SEc5RFpLTlo5VlAvZFZWNC9yVURneEh0dEtuZHA2My81ZDlocnBWSFluOFM4N2NLckFrMFJtcVBPZ3djU0k9",
+      "http://superkoran.info/dm9LNUZMdFZiRE45QTBzMEs5UVI3ZFBKbnBzVjEyZEpNVy8xN1VDOG9acVhvTTYxaXRCZ25icjI2RXR5TVhkTjM1cm1Pb2lMZWxteXJHdlQ1RlpIZGFJamNzL042anVjWkJOK29jdlVTbzQ9",
+      "https://www.zupimages.net/up/23/52/ger5.png",
+      "http://xkhsnv.qqnycixsjbdgmu.asp/T3lwWWZITURXc1NJZ2pPV1N0ZnVHd1BkOE5YY3lDenoyVTlJTnV1akxqWm5zMk52dEw5NE1tYjdBTklaWHVSZkFNdUdvbDZiVUhOWEY4d0VBZC9wS055UTRhMHVia1R3d1I2NFQzNTBiTDA9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14395,
+    "html_length": 27022,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Hallo phishing@pot,",
+    "from": "Xmas Deal, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Dec 2023 02:59:03 +0100",
+    "message_id": "<ursEnLa.0.0.ursEnLa.9.ursEnLa@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://superkoran.info/NkNpOU96bklLNlhaS01TNTRZQnE4ZC94Z3R5SVpDZkRDbWZWM2MwWUpsSkxZcGNJZFB4UEdYMVowcEdrYWsrNjhPbjZ6Z2lhWm5WSTdGU2Y2cHFTYUE9PQ__/d3FOb0Q2US9YOUxLNE1UMWIwcVpVWGR2Vng5Nkt6ZzFSNlBmc2phQlh5WGVvZVFJZk5vWjVZaFc3VjNXUWowSGl5djJuV0lDY05YZU5UZ2F1dUJsVVMwcUFiS0dkVTllT0xrN1d2cWRibG89",
+      "https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=",
+      "table.icons-inner",
+      "https://www.zupimages.net/up/23/51/u7ll.jpg",
+      "https://fnnl-check.com/?a=6073&oc=19636&c=53095&m=3&s1=",
+      "www.zupimages.net/up/23/51/u7ll.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1281,
+    "html_length": 12102,
+    "has_text": true,
+    "has_html": true
+  }
+}

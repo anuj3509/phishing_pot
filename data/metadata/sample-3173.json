@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Important !",
+    "from": "Apple <Appleverification@zonnet.nl>",
+    "to": "phishing@pot",
+    "date": "3 Apr 2024 19:41:55 -0400",
+    "message_id": "<20240403194155.A75DC8B7819A5AEC@zonnet.nl>",
+    "content_type": "text/html;\r\n\tcharset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.apple.com/legal/internet-services/icloud/ww/",
+      "https://www.apple.com/support/icloud/ww",
+      "https://statici.icloud.com/emailimages/v4/common/footer_gradient_web.png&quot;);",
+      "https://www.apple.com/legal/privacy/nl/",
+      "https://statici.icloud.com/emailimages/v4/common/icloud_footer_signoff@2x.png",
+      "https://is.gd/cAsH7e",
+      "https://appleid.apple.com/choose-your-country/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 780,
+    "html_length": 14450,
+    "has_text": true,
+    "has_html": true
+  }
+}

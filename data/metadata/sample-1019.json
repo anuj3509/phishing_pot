@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Crédito IR Liberado - v5V0ZVRe1HjazliqQoYz",
+    "from": "\"[BB] - Comunicado ao cliente - Cod.  3391350884491727\" <sel553r@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 29 Jul 2023 18:08:24 +0000",
+    "message_id": "<d21e5a021950b9fdf1aab7fa0c059612@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"81e056e5d29c9d85783e6140000d7511\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"81e056e5d29c9d85783e6140000d7511\""
+  },
+  "attachments": [
+    {
+      "filename": "U1vn48GmdQr.pdf",
+      "content_type": "application/pdf",
+      "size": 99717
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 280,
+    "html_length": 640,
+    "has_text": true,
+    "has_html": true
+  }
+}

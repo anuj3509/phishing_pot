@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "We have an important message for you!",
+    "from": "Client ID:47148-1514 , <no-replay@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Fri, 10 Feb 2023 18:57:10 +0100",
+    "message_id": "\r\n <1e927dab-692a-4e14-b674-cf24122ba22d@BN7NAM10FT080.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "i.imgur.com/7JaB0y4.png",
+      "http://laredouteshop.com/oop/3197_md/22222/1558/1759/410/1190",
+      "http://www.w3.org/1999/xhtml",
+      "http://laredouteshop.com/cl/3197_md/22222/1558/1759/410/1190",
+      "http://laredouteshop.com/op/3197_md/22222/1558/1759/410/1190",
+      "http://laredouteshop.com/un/3197_md/22222/1558/1759/410/1190",
+      "https://i.imgur.com/7JaB0y4.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 107,
+    "html_length": 1405,
+    "has_text": true,
+    "has_html": true
+  }
+}

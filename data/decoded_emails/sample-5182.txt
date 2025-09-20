@@ -1,0 +1,158 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Convite Especial: Bradesco American Express Business Platinum. Autorização: 18766670.
+From: "Banco.Bradesco" <conviteamex680489@bradesco>
+To: <phishing@pot>
+Date: Sun, 16 Mar 2025 03:50:11 +0000
+Message_Id: <ed275d2eb7c718a8a66145da27053689@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_ed275d2eb7c718a8a66145da27053689"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_ed275d2eb7c718a8a66145da27053689"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://function-12-1062496865825.us-central1.run.app/
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convite Exclusivo: Bradesco American Express® Business Platinum</title>
+    <style>
+        body { 
+            font-family: 'Open Sans', sans-serif; 
+            background-color: #f7f6f2; 
+            margin: 0; 
+            padding: 0; 
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+        }
+        .container { 
+            width: 100%;
+            max-width: 700px; 
+            margin: 20px; 
+            background-color: #fff; 
+            padding: 20px; 
+            border-radius: 10px; 
+            box-shadow: 0px 0px 10px #ccc; 
+        }
+        .header { 
+            background-color: #175195; 
+            padding: 15px; 
+            text-align: center; 
+            color: #fff; 
+            border-radius: 5px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            padding: 10px 0;
+            font-weight: bold;
+        }
+        .title { 
+            font-size: 24px; 
+            color: #175195; 
+            font-weight: bold; 
+            text-align: center; 
+            margin-top: 20px; 
+        }
+        .subtitle { 
+            font-size: 16px; 
+            color: #303030; 
+            text-align: center; 
+            margin-bottom: 20px; 
+        }
+        .benefits-box { 
+            background-color: #f1f1f1; 
+            padding: 20px; 
+            border-radius: 10px; 
+            margin: 20px 0; 
+        }
+        .benefits-box p { 
+            font-size: 16px; 
+            color: #303030; 
+            margin: 10px 0; 
+        }
+        .benefits-box span { 
+            background-color: #175195; 
+            color: #fff; 
+            padding: 3px 8px; 
+            font-size: 13px; 
+            font-weight: 400; 
+            margin-right: 5px; 
+            border-radius: 3px;
+        }
+        .cta { 
+            text-align: center; 
+            margin: 30px 0; 
+        }
+        .cta a { 
+            background-color: #175195; 
+            color: #fff; 
+            padding: 12px 25px; 
+            text-decoration: none; 
+            font-size: 16px; 
+            border-radius: 5px; 
+            display: inline-block;
+        }
+        .cta a:hover {
+            background-color: #0e3b72;
+        }
+        .footer { 
+            font-size: 12px; 
+            color: #5a5a5a; 
+            text-align: center; 
+            margin-top: 20px; 
+        }
+        
+        @media (max-width: 740px) {
+            .container {
+                margin: 10px;
+                padding: 15px;
+            }
+            .benefits-box {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Convite Especial: Bradesco American Express® Business Platinum</h1>
+        </div>
+        <p class="title">Parabéns, você foi selecionado!</p>
+        <p class="subtitle">Devido ao seu excelente relacionamento com o Bradesco, convidamos você a fazer parte do seleto grupo de clientes do <strong>American Express® Business Platinum</strong>.</p>
+        
+        <div class="benefits-box">
+            <p><span>✔</span> Acesso ilimitado a Salas VIP em aeroportos internacionais.</p>
+            <p><span>✔</span> Acúmulo de pontos Livelo em todas as compras.</p>
+            <p><span>✔</span> Benefícios exclusivos em hotéis de luxo e viagens.</p>
+            <p><span>✔</span> Atendimento personalizado 24h.</p>
+            <p><span>✔</span> Troque seus pontos Livelo por saldo.</p>
+        </div>
+        
+        <div class="cta">
+            <a href="https://function-12-1062496865825.us-central1.run.app/" target="_blank">Solicite Agora</a>
+        </div>
+        <p class="footer">Esta mensagem foi enviada automaticamente. Caso não reconheça esta comunicação, entre em contato pelo telefone oficial do Bradesco.</p>
+    </div>
+</body>
+</html>

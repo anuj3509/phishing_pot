@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "100 % BIS ZU ���4,000 + 300 FREISPIELEN",
+    "from": "Eine Chance, Eine Chance, <reply@telekom.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Sep 2024 17:23:08 +0000",
+    "message_id": "<SCHZCRBQMAXAQQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG",
+      "http://topmarktingplace.com/4kxJlO35339qviN987vdyvovdqqk14302IHTSZIZCEJXEMUL2QVLZ6311T10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/6YmwIq35339Fgtd987qtxbvatazg14302SREYWHBVDAXRZKZ2IKAL6311S10",
+      "http://topmarktingplace.com/4puBYC35339YZlZ987mdqezbspgx14302JVHKJUYNPUUQQVB2OXEZ6311Z10",
+      "ontsWebfontsKit.css",
+      "table.center-on-narrow",
+      "http://topmarktingplace.com/5ggMiN35339bpQA987tiihhctdjx14302UIHVPWRURGPRXPG2UWKM6311D10",
+      "span.preheader",
+      "staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4837,
+    "html_length": 14716,
+    "has_text": true,
+    "has_html": true
+  }
+}

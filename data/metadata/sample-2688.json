@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot EDEKA Einkaufsgutschein im Wert von 500 ���",
+    "from": "Edeka gift card, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 21 Jan 2024 18:41:59 +0100",
+    "message_id": "<IyTCxHD.0.0.IyTCxHD.9.IyTCxHD@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/23/37/kv4p.png",
+      "www.zupimages.net/up/24/03/d7kv.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://directfwd-2.com/?a=7790&amp;oc=18379&amp;c=49902&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/23/37/kv4p.png",
+      "http://soldering-on.co.uk/M0wxT0FzeTRSMWNISU1NaFJScXdHZkZkV3kxNnBGNkc3ZDhHcGVIL04reEEvMWtraXpoQlFLVmwydktVL2dGaW5GN1BWVjBDc3NvTjRqWG5GMWJhOG1aL3ZrcjJraXdFZTFqVkVIZmxlVm89",
+      "http://soldering-on.co.uk/ZUpTVExBOGFpMHc0TW5HVmhnbDdHWDd1dEZ2YS8ycFJwZmdXSnM3aUx5Rm4wZkE2anVxM3lDR1FtS09Kc0Y0TnZCbE9rQzBYN1Bnd211bkxDZjBCUm9aZGs4aklaUER0THZLbFZ0UjFBK0U9",
+      "https://www.zupimages.net/up/24/03/d7kv.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1597,
+    "html_length": 9510,
+    "has_text": true,
+    "has_html": true
+  }
+}

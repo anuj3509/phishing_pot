@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Bom dia,",
+    "from": "Mr Mohammad Fayaz <mrmohammadfaya0@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 8 Feb 2023 11:40:22 +0000",
+    "message_id": "<CADCE07M=FQJ6D34YDgOKQ7XR8q+-agdCbSAVcZOCFrkgKvqrxw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000d5152e05f42ebeda\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000d5152e05f42ebeda\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "s.Se",
+      "Sr.Mohammad"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1283,
+    "html_length": 1391,
+    "has_text": true,
+    "has_html": true
+  }
+}

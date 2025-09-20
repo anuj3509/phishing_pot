@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "New Blog Post : Earn Up to 15% Rewards on Your XRP Holdings!",
+    "from": "Ripple<blog@ripple.net>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 21 Jan 2025 19:45:50 -0300",
+    "message_id": "<20250121224551.0910D46EBA1F@mail.jljempresas.com.br>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============2415597598873602573==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============2415597598873602573==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ipfs.io/ipfs/QmVhtTwr5xgcHMVsntG1fYMsguo8zX394xk78rbGx2Zuz5"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1796,
+    "html_length": 3511,
+    "has_text": true,
+    "has_html": true
+  }
+}

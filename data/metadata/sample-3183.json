@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Die Tickets schicken wir, direkt zu dir nach Hause.",
+    "from": "MoviePark, <service@stayfriends.de.>, MoviePark,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 11 Apr 2024 11:07:13 +0200",
+    "message_id": "<ly3mw8b.qreob.eh6.eh6@vpxddswnbbvjgcd.ssb>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/50941/moviepark.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/50941/hero1.png",
+      "eu1-us1.ckcdnassets.com/448/creatives/50941/hero1.png",
+      "https://trk2.de/0q5eeffz",
+      "table.icons-inner",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/7752_md/4049/25896/1222/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/7752_md/4049/25896/1222/281/76468",
+      "eu1-us1.ckcdnassets.com/448/creatives/50941/moviepark.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1330,
+    "html_length": 12426,
+    "has_text": true,
+    "has_html": true
+  }
+}

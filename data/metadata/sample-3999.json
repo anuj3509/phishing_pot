@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <devops@webnomate.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Sep 2024 10:17:53 -0700",
+    "message_id": "<a29fd66ae9f1dbd467cd8423a7624645d44c@webnomate.com>",
+    "content_type": "multipart/alternative; boundary=\"00ca833fbca48e813298d176f2371363d0bd\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00ca833fbca48e813298d176f2371363d0bd\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057_copy%26googlePIDR=phishing@pot%26id_list=WztMlRLYWKVWyqKsyRVKWl",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057_copy%26googlePIDR=phishing@pot@hotmail.com%26id_list=WztMlRLYWKVWyqKsyRVKWl",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057%26googlePIDR=phishing@pot%26id_list=zZVolpwWvlvKMotTnpuWMYKlO"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1048,
+    "html_length": 5198,
+    "has_text": true,
+    "has_html": true
+  }
+}

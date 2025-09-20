@@ -1,0 +1,90 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Announcement : Withdraw Process is Authorized Now !
+From: FTXinsurance <noreplye@promotix.com>
+To: phishing@pot
+Date: Thu, 7 Sep 2023 15:17:24 +0000
+Message_Id: <0100018a70382d83-8d5c6231-bc2a-4cee-865b-f388923cb7df-000000@email.amazonses.com>
+Content_Type: multipart/related;
+	boundary="----=_NextPart_000_0012_699C765E.7B03808F"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related;
+	boundary="----=_NextPart_000_0012_699C765E.7B03808F"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm, update
+URLs found:
+  - http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&amp;returnurl=http://taurus-online.ch/wp/pf/
+  - thumbnailcpp.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Email de Confirmation body { background-color: #AEECF8; font-family: Arial, sans-serif; margin: 0; padding: 0; } .container { max-width: 600px; margin: 0 auto; padding: 20px; background-color: #fff; border-radius: 15px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { text-align: center; margin-bottom: 20px; } .button-container { text-align: center; margin-top: 30px; } .button { display: inline-block; padding: 10px 20px; background-color: #019DB6; color: #fff; border-radius: 10px; text-decoration: none; } Withdrawals are now available Dear customer, You have been identified as an eligible client to begin withdrawing digital assets from your FTX account. Withdrawals will be dispatched in USD-C matched to the balance of digital assets held in your Wallet account at the time of the platform pause. You can now withdraw to an external ERC-20 wallet on a by clicking the Withdraw Now button below. Wallet account balances were calculated based on the digital assets held in your Wallet account at the time of the platform pause. If you initiated a trade, transfer, or withdrawal request after the platform pause, these transactions have been updated as displayed in the &#8220;Transaction History&#8221; section of the dashboard page in your account. Please note that, due to the high volume of requests, withdrawals may take 90 days or more to process once submitted. FTX will process withdrawals as quickly as possible while maintaining security protocols. You can check the status of your withdrawal request in the Transaction History section of your FTX account dashboard page upon connecting an ERC-20 wallet. Additionally, withdrawals are subject to any applicable third-party transaction fees and/or withdrawal fees, which are based on transaction processing costs and may be adjusted from time to time based on market conditions, as set forth in the FTX Terms of Service. Withdraw Now We are grateful for your willingness to assist us in navigating this process. Should you have any queries or require additional information, our customer service representatives are available to provide assistance. We thank you for your consideration on this matter. FTX EU Ltd (ex.K-DNA Financial Services Ltd) is a company authorized and regulated by the Cyprus Securities and Exchange Commission (license no. 273/15) with Registered Office at 23 Spyrou Kyprianou Protopapas Building 3rd floor 4001, Limassol, Cyprus
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>Email de Confirmation</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+        body {
+            background-color: #AEECF8;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 15px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 30px;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #019DB6;
+            color: #fff;
+            border-radius: 10px;
+            text-decoration: none;
+        }
+    </style>
+
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>
+<p align="center" style="color: rgb(1, 157, 182);"><font size="4"><strong style="font-size: x-large;"><u><img align="baseline" alt="" src="cid:thumbnailcpp.png" border="0" hspace="0"><br>Withdrawals are now available</u></strong></font></p></h1>
+<p align="left"><em>Dear customer,</em><br><br></p>
+<p align="left"><strong>You have been identified as an eligible client to begin withdrawing digital assets from your FTX account.</strong><br><br><span style="font-size: medium;">
+Withdrawals will be dispatched in USD-C matched to the balance of digital assets held in your Wallet account at the time of the platform pause. You can now withdraw to an external ERC-20 wallet on a by clicking the Withdraw Now button below. Wallet account balances were calculated based on the digital assets held in your Wallet account at the time of the platform pause. If you initiated a trade, transfer, or withdrawal request after the platform pause, these transactions have been updated as 
+displayed in the &#8220;Transaction History&#8221; section of the dashboard page in your account.</span></p>
+<p align="left"><br>Please note that, due to the high volume of requests, withdrawals may <strong>take 90 days or more</strong>
+ to process once submitted. FTX will process withdrawals as quickly as possible while maintaining security protocols. You can check the status of your withdrawal request in the Transaction History section of your FTX account dashboard page upon connecting an ERC-20 wallet. Additionally, withdrawals are subject to any applicable third-party transaction fees and/or withdrawal fees, which are based on transaction processing costs and may be adjusted from time to time based on market conditions, as 
+set forth in the FTX Terms of Service.<br><br></p>
+<p align="center"><a class="button" href="http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&amp;returnurl=http://taurus-online.ch/wp/pf/">
+</a><div align="left"><a class="button" href="http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&amp;returnurl=http://taurus-online.ch/wp/pf/">Withdraw Now</a></div>
+<p></p>
+<p><em>We are grateful for your willingness to assist us in navigating this process. Should you have any queries or require additional information, our customer service representatives are available to provide assistance. We thank you for your consideration on this matter.<br></em></p>
+<p style="color: rgb(192, 192, 192); font-size: xx-small;">FTX EU Ltd (ex.K-DNA Financial Services Ltd) is a company authorized and regulated by the Cyprus Securities and Exchange Commission (license no. 273/15) with Registered Office at 23 Spyrou Kyprianou Protopapas Building 3rd floor 4001, Limassol, Cyprus</p></div></div></body></html>

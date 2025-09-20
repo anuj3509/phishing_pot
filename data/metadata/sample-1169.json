@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Password Expiry Notification for phishing@pot",
+    "from": "\"proton.me Helpdesk\" <proton.me@medimovil.com.mx>",
+    "to": "phishing@pot",
+    "date": "18 May 2023 12:06:39 +0200",
+    "message_id": "<20230518120629.D7E6F3DC9B412CD0@medimovil.com.mx>",
+    "content_type": "multipart/mixed;boundary=---------------------85f0501f77632a6c0377afe2b9fa57c2"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------85f0501f77632a6c0377afe2b9fa57c2"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.contianer.best/international.html?look=phishing@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 556,
+    "html_length": 1192,
+    "has_text": true,
+    "has_html": true
+  }
+}

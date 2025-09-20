@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "50 % Rabatt auf handgefertigte Messer!",
+    "from": "HUUSK-MESSER, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 13:43:35 +0200",
+    "message_id": "\r\n <f64507e7-85ce-42fa-905a-b759b272dc57@DB5EUR02FT053.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/382/22w34-pagal-veikiancius-huusk-07-191x1.jpg",
+      "http://Easilett.com/un/154_md/2010/66/7/23/2459859",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "http://easilett.com/cl/154_md/2010/66/7/23/2459859",
+      "huuskstore.com",
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/20/Huusk_black__3_.png",
+      "https://fonts.googleapis.com/css?family=Ubuntu",
+      "http://easilett.com/op/154_md/2010/66/7/23/2459859",
+      "http://easilett.com/oop/154_md/2010/66/7/23/2459859",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1620,
+    "html_length": 11893,
+    "has_text": true,
+    "has_html": true
+  }
+}

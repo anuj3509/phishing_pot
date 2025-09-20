@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Welcome to the World of Luxury Black Card",
+    "from": "Bradesco Prime <notificacoes@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Mar 2024 01:00:47 +0000",
+    "message_id": "<17f3a5fe-65d4-d3f3-6e0b-40e9da4ed82b@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpswww.britannica.comtechnologyDENDRAL",
+      "tisoprincipe.htm",
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=4c9b349c454241b4a9fb15325ed9831a&amp;t1=bra",
+      "de.uas",
+      "httpwww.workhouses.org.ukindex.html?StMaryleboneStMarylebone.shtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 109792,
+    "html_length": 197627,
+    "has_text": true,
+    "has_html": true
+  }
+}

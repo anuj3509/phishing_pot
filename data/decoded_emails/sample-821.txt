@@ -1,0 +1,133 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ENC: Resgate seu Saldo-wpZWNNPdm85ZwJ6s
+From: Rodrigo Lima <rodrigo.gama94@live.com>
+To: "phish.me.again@gmail.com" <phish.me.again@gmail.com>
+Date: Tue, 6 Jun 2023 19:27:24 +0000
+Message_Id: 
+ <SA1PR05MB87079EE5C4BEB937A6A5ACEBE052A@SA1PR05MB8707.namprd05.prod.outlook.com>
+Content_Type: multipart/mixed;
+	boundary="_004_SA1PR05MB87079EE5C4BEB937A6A5ACEBE052ASA1PR05MB8707namp_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_004_SA1PR05MB87079EE5C4BEB937A6A5ACEBE052ASA1PR05MB8707namp_"
+
+ATTACHMENTS:
+--------------------
+- EldBOp4bP2IfIEVzt.pdf (application/pdf, 116961 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - rodrigo.gama94@live.com&nbsp;
+  - gmail.com&gt;
+  - http://schemas.microsoft.com/office/2004/12/omml
+  - rodrigo.gama94@live.com
+  - gmail.com
+  - https://go.microsoft.com/fwlink/?LinkId=550986
+  - p.MsoNormal,
+  - li.MsoNormal,
+  - div.WordSection1
+  - span.MsoHyperlink
+  - div.MsoNormal
+  - rodrigo.gama94@live.com&gt;
+  - http://www.w3.org/TR/REC-html40
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+Enviado do Email<https://go.microsoft.com/fwlink/?LinkId=550986> para Windows
+
+________________________________
+De: BB-Saldo Disponível 056895534138462 <wat573105@gmail.com>
+Enviado: Tuesday, June 6, 2023 12:53:02 PM
+Para: rodrigo.gama94@live.com <rodrigo.gama94@live.com>
+Assunto: Resgate seu Saldo-wpZWNNPdm85ZwJ6s
+
+________________________________
+
+Prezado Cliente,
+
+Você seu saldo está disponível para resgate.
+
+Siga as instruções do arquivo em anexo para concluir o resgate.
+
+Senha do Arquivo em Anexo: 123
+
+
+
+E-mail do Cliente: rodrigo.gama94@live.com
+
+Protocolo do E-mail: 9302400978327470331
+
+________________________________
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang="PT-BR" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Enviado do <a href="https://go.microsoft.com/fwlink/?LinkId=550986">
+Email</a> para&nbsp;Windows</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>De:</b> BB-Saldo Disponível 056895534138462 &lt;wat573105@gmail.com&gt;<br>
+<b>Enviado:</b> Tuesday, June 6, 2023 12:53:02 PM<br>
+<b>Para:</b> rodrigo.gama94@live.com &lt;rodrigo.gama94@live.com&gt;<br>
+<b>Assunto:</b> Resgate seu Saldo-wpZWNNPdm85ZwJ6s</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<hr>
+<p style="text-align:center">Prezado Cliente,</p>
+<p style="text-align:center">Você seu saldo está disponível para resgate.&nbsp;</p>
+<p style="text-align:center">Siga as instruções do arquivo em anexo para concluir o resgate.</p>
+<p style="text-align:center">Senha do Arquivo em Anexo: <strong>123</strong></p>
+<p style="text-align:center">&nbsp;</p>
+<p style="text-align:center"><strong>E-mail do Cliente:&nbsp;</strong>rodrigo.gama94@live.com&nbsp;</p>
+<p style="text-align:center"><strong>Protocolo do E-mail:&nbsp;</strong>9302400978327470331</p>
+<hr>
+</div>
+</body>
+</html>
+

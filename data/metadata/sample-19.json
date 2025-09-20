@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "AW",
+    "from": "Karen Simser <ksimser@rmh.org>",
+    "to": "\"support@hbprct.online\" <support@hbprct.online>",
+    "date": "Wed, 31 Aug 2022 11:05:25 +0000",
+    "message_id": "<1e9d96084a424ab6a74378c03e878dc0@rmh.org>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_1e9d96084a424ab6a74378c03e878dc0rmhorg_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_1e9d96084a424ab6a74378c03e878dc0rmhorg_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "span.MsoHyperlinkFollowed",
+      "p.xmsonormal,",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "span.EmailStyle19",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "li.xmsonormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "https://t.me/+pGV6aj_DOkQ1OWI0",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40",
+      "div.xmsonormal"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 691,
+    "html_length": 3156,
+    "has_text": true,
+    "has_html": true
+  }
+}

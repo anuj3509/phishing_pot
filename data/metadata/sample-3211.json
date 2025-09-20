@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Take advantage of your 5% off coupon.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <ex.pharmacy.online5@outlook.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Fri, 19 Apr 2024 14:52:44 +0200",
+    "message_id": "<852DC03C.34520D91@outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=I",
+      ".button.yes",
+      "http://107.180.18.17/f.html",
+      ".button.no",
+      "ex.pharmacy.online2@gmail.com?subject=No&amp;body=No,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3856,
+    "html_length": 6613,
+    "has_text": true,
+    "has_html": true
+  }
+}

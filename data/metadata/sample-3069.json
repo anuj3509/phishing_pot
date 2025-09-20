@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "Mandatory Activation of Two-Factor Authentication by 14/03/2024",
+    "from": "\"LEDGER\" <info@updates-ledger.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Mar 2024 13:54:35 -0500",
+    "message_id": "<20240313185520.27574.728804274.swift@258179027.updates-ledger.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-13118410565f1f66b568142.52748052_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-13118410565f1f66b568142.52748052_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://content.app-us1.com/cdn-cgi/image/width=650,dpr=2,fit=scale-down,format=auto,onerror=redirect/ZawMz/2024/03/12/8677b628-7b55-4c35-8740-95351225f3a9.jpeg",
+      "https://258179027.updates-ledger.com/proc.php?nl=1&amp;c=4&amp;m=6&amp;s=d7cff94b3be8b1982087d660abba59da&amp;act=unsub",
+      "td.es-desk-menu-hidden",
+      "https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i",
+      "td.es-desk-hidden,",
+      "button.es-button",
+      "a.es-button,",
+      "tr.es-desk-hidden,",
+      "https://updates-ledger.com/activate-2fa/",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      "hotmail.com",
+      "https://258179027.updates-ledger.com/Prod/link-tracker?nl=1&amp;c=4&amp;m=6&amp;s=d7cff94b3be8b1982087d660abba59da&amp;l=open&amp;account=258179027.activehosted.com&amp;a=92560674",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2468,
+    "html_length": 20491,
+    "has_text": true,
+    "has_html": true
+  }
+}

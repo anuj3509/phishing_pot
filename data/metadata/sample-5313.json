@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Seu CPF esta em processo de cancelamento! Autenticação: 80112513.",
+    "from": "gov <regularizacao368327@govbr>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 4 Apr 2025 03:41:58 +0000",
+    "message_id": "<3badf498a9c3b0ad597db9abaeb12e04@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_3badf498a9c3b0ad597db9abaeb12e04\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_3badf498a9c3b0ad597db9abaeb12e04\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://darf-764586658187.us-central1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3557,
+    "has_text": true,
+    "has_html": true
+  }
+}

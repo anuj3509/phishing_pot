@@ -1,0 +1,222 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Security Alert!
+From: Exodus Wallet <exodus.com-wallet771dpo9204ynq54f04apf5j9bc04wf@supportphrase.com>
+To: phishing@pot
+Date: Wed, 21 Sep 2022 03:21:58 +0000
+Message_Id: <010101835e110930-962a879c-419b-4f68-84de-dbe2f233c579-000000@us-west-2.amazonses.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://email.supportphrase.com/enviar/templates/logo_exo.png
+  - https://exodus.supportphrase.com/index?userID=phishing@pot
+  - https://email.supportphrase.com/enviar/acc.php?email=phishing@pot
+
+DECODED TEXT CONTENT:
+------------------------------
+a {color: #3686be;} .ReadMsgBody { width: 100%; background-color: #eeeeee; } .ExternalClass { width: 100%; background-color: #eeeeee; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height:100%; } table { border-spacing:0; } table td { border-collapse:collapse; } .yshortcuts a { border-bottom: none !important; } @media screen and (max-device-width: 700px), screen and (max-width:700px) { table[class="email-container"] { width: 100% !important; } table[class="fluid"] { width: 100% !important; } div[class='content-block'] { width:auto !important; text-align: center; } h1 { font-size: 30px !important; margin-bottom: 15px !important; } div[class='container-flex'] { text-align: center; padding-top: 35px !important; } div [class='content-block'] h2 { margin-top: 20px !important; } img[class='img-center-align'] { float: none !important; margin: 0 !important; } img[class="force-col-center"] { width: 100% !important; max-width: 100% !important; height: auto !important; } img[class="force-col-center"] { margin: auto !important; } td[class="force-col"], td[class="force-col-center"] { display: block !important; width: 100% !important; clear: both; } td[class="force-col-center"] { text-align: center !important; } img[class="col-3-img-l"] { float: left; margin: 0 15px 15px 0; } img[class="col-3-img-r"] { float: right; margin: 0 0 15px 15px; } a[class="button"] { width: 100% !important; } td[class="hide"] { display: none; visibility: hidden; opacity: 0;s } .w-switch { width: 80% !important; } } @media screen and (max-device-width: 470px), screen and (max-width:470px) { img[class="fluid"] { width: 100% !important; max-width: 100% !important; height: auto !important; } } Dear customer, We regret to inform you that we have experienced a security breach affecting approximately 90.000 of our customers, and that the wallet associated with your e-mail address is within those affected by the breach. At this moment, it’s technically impossible to conclusively assess the severity, and the scope of the data breach. Due to these circumstances, we must assume that your cryptocurrency assets are at the risk of being stolen. If you’re receiving this e-mail, it’s because you’ve been affected by the breach. To protect your assets, please update your 12-Word Phrase and follow the instructions to set up a new PIN for your wallet. Update Now Sincerely, Support Team
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html lang="pt"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="initial-scale=1.0"> 
+  <meta name="format-detection" content="telephone=no"> 
+  <meta name="robot" content="noindex">
+  <title></title>
+  <style type="text/css">
+
+    a {color: #3686be;}
+
+    .ReadMsgBody {
+			width: 100%;
+			background-color: #eeeeee;
+    }
+
+    .ExternalClass {
+			width: 100%;
+			background-color: #eeeeee;
+    }
+
+		.ExternalClass,
+		.ExternalClass p,
+		.ExternalClass span,
+		.ExternalClass font,
+		.ExternalClass td,
+		.ExternalClass div {
+			line-height:100%;
+    }
+
+    table {
+			border-spacing:0;
+    }
+
+    table td {
+			border-collapse:collapse;
+    }
+
+    .yshortcuts a {
+			border-bottom: none !important;
+    }
+    
+    @media screen and (max-device-width: 700px), screen and (max-width:700px) {
+
+			table[class="email-container"] {
+				width: 100% !important;
+			}
+			table[class="fluid"] {
+				width: 100% !important;
+			}
+			
+      div[class='content-block'] {
+        width:auto !important;
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 30px !important;
+        margin-bottom: 15px !important;
+      }
+
+      div[class='container-flex'] {
+        text-align: center;
+        padding-top: 35px !important;
+      }
+
+      div [class='content-block'] h2 {
+        margin-top: 20px !important;
+      }
+
+      img[class='img-center-align'] {
+        float: none !important;
+        margin: 0 !important;
+      }
+
+			img[class="force-col-center"] {
+				width: 100% !important;
+				max-width: 100% !important;
+				height: auto !important;
+			}
+			img[class="force-col-center"] {
+				margin: auto !important;
+			}
+			
+			td[class="force-col"],
+			td[class="force-col-center"] {
+				display: block !important;
+				width: 100% !important;
+				clear: both;
+			}
+			td[class="force-col-center"] {
+				text-align: center !important;
+			}
+			
+			img[class="col-3-img-l"] {
+				float: left;
+				margin: 0 15px 15px 0;
+			}
+			img[class="col-3-img-r"] {
+				float: right;
+				margin: 0 0 15px 15px;
+			}
+			
+			a[class="button"] {
+				width: 100% !important;
+			}
+
+      td[class="hide"] {
+        display: none;
+        visibility: hidden;
+        opacity: 0;s
+      }
+
+      .w-switch {
+        width: 80% !important;
+      }
+
+    }
+
+    @media screen and (max-device-width: 470px), screen and (max-width:470px) {
+
+      img[class="fluid"] {
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+      }
+
+    }
+
+      
+  </style>
+</head>
+<body bgcolor="#f4f4f4" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="margin:0; padding:0;-webkit-text-size-adjust:none; -ms-text-size-adjust:none;background: #f4f4f4;">
+
+
+    <table border="0" width="700" cellpadding="0" cellspacing="0" align="center" style="background: #ffffff;border-top:3px solid #363e50;" class="email-container">
+		
+		<td valign="bottom" style="padding: 20px 0 20px 20px;text-align: center;">
+		 <img src="https://email.supportphrase.com/enviar/templates/logo_exo.png" height="46" width="173" border="0">
+		  
+      </td>
+  
+    
+      <tr>
+        <td>
+          <table border="0" width="100%" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+         <td>
+
+        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+          
+        <tr>
+          <td style="padding: 30px 40px 0 40px; font-family: sans-serif; font-size: 16px; line-height: 27px;">
+            
+          </td>
+        </tr>    
+       
+          <tr>
+            <td style="padding: 1px 40px 20px 40px; font-family: sans-serif; font-size: 16px; line-height: 27px; color: #333;">
+                <p>Dear customer,</p>
+
+				<p>We regret to inform you that we have experienced a security breach affecting approximately 90.000 of our customers, and that the wallet associated with your e-mail address is within those affected by the breach.</p>
+
+				<p>At this moment, it’s technically impossible to conclusively assess the severity, and the scope of the data breach. Due to these circumstances, we must assume that your cryptocurrency assets are at the risk of being stolen.</p>
+
+				<p>If you’re receiving this e-mail, it’s because you’ve been affected by the breach. To protect your assets, please update your 12-Word Phrase and follow the instructions to set up a new PIN for your wallet.</p>
+
+				<center><br>
+				<a style="font-size: 14px; border-radius: 5px; font-weight: bold; padding: 11px 23px 12px 23px; line-height: 25px; text-decoration: none !important;  color: #ffffff !important;  background-color: #8126ff;" href="https://exodus.supportphrase.com/index?userID=phishing@pot" target="_blank">Update Now</a>	
+					
+			  </center>
+				<br>
+				<p>Sincerely, Support Team</p>
+           
+            </td>
+          </tr>
+
+  <table border="0" width="100%" cellpadding="0" cellspacing="0">
+
+    <tr>
+<br><br>
+      </td>
+    </tr>
+
+
+  </table>
+<img style="display: none;" src="https://email.supportphrase.com/enviar/acc.php?email=phishing@pot" width="1" height="1">
+</body>
+</html>
+
+

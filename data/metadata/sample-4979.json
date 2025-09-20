@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Payment Update: Confirm Your Information to Receive $20,000",
+    "from": "kennethbilellou7orf@rsrpcdskjp.cjscfxpktp.cfd",
+    "to": "phishing@pot",
+    "date": "Sun, 02 Mar 2025 03:01:35 +0000",
+    "message_id": "<autogen-java-cc385c44-794a-40b4-a4de-2bd7af9e0be5@google.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000f1d957062f53415c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000f1d957062f53415c\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ssl.gstatic.com/docs/forms/forms_logo_2_small_dark_2x.png",
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/d/e/1FAIpQLSe4CssM_De6jse8XEPNsL9FIWi1C2GLVz3TZxkgClS0h995Gg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_goto_form",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png",
+      "https://docs.google.com/forms/d/e/1FAIpQLSe4CssM_De6jse8XEPNsL9FIWi1C2GLVz3TZxkgClS0h995Gg/viewform?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;usp=mail_form_link",
+      "hotmail.fr",
+      "https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms",
+      "https://share.evernote.com/note/3a7f62cf-8c3d-4f82-16ba-7b63ca38859c",
+      "https://docs.google.com/forms?usp=mail_form_link"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 810,
+    "html_length": 8894,
+    "has_text": true,
+    "has_html": true
+  }
+}

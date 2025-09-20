@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Você ganhou! Não perca essa chance.",
+    "from": "\"Caixa Misteriosa\" <envio@panfletovirtual.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Mar 2023 18:21:26 +0000",
+    "message_id": "<72eec5904eaf7ee42f393c7f8da20d82@www.petrolinadigital.com.br>",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_378cebe8eb9359d5feed698fd008fd89\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_378cebe8eb9359d5feed698fd008fd89\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".block-6.paragraph_block",
+      ".block-3.paragraph_block",
+      "https://www.petrolinadigital.com.br/VT2021/open.php?M=60318973&amp;L=188&amp;N=10061&amp;F=H&amp;image=.jpg",
+      "https://www.petrolinadigital.com.br/VT2021/vaza.php?M=60318973&amp;C=68c8ec7cd02b4011e031b94835c78265&amp;L=188&amp;N=10061",
+      "table.icons-inner",
+      "http://www.petrolinadigital.com.br/imagens/bee.png",
+      "https://www.petrolinadigital.com.br/VT2021/link.php?M=60318973&amp;N=10061&amp;L=18507&amp;F=H",
+      "td.pad",
+      "https://www.petrolinadigital.com.br/VT2021/link.php?M=60318973&amp;N=10061&amp;L=18511&amp;F=H",
+      ".block-1.paragraph_block",
+      "https://www.megawoow.com.br/products/caixa-misteriosa-edicao-limitada-desconto?utm_source=panfleto_virtual&utm_medium=panfleto_virtual&utm_campaign=caixa_misteriosa&utm_id=panfleto_virtual",
+      "http://www.petrolinadigital.com.br/imagens/CaixaMisteriosa_FEV.jpg",
+      "img.big,",
+      ".block-4.paragraph_block"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 41,
+    "html_length": 10693,
+    "has_text": true,
+    "has_html": true
+  }
+}

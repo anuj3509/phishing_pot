@@ -1,0 +1,71 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Fw: Salutations, Mr. poppet.
+From: M365-E5-Sec-TEST <M365-E5-Sec-TEST@poettke-heizung.de>
+To: "phish.me.again@gmail.com" <Phish.me.again@gmail.com>
+Date: Wed, 4 Oct 2023 21:07:55 +0200
+Message_Id: <2d44c7bb-54d2-bfba-6c75-b6b29dbde455@poettke-heizung.de>
+Content_Type: multipart/alternative;
+ boundary="------------OayFsl0N0csuoLGhVTinTFXB"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="------------OayFsl0N0csuoLGhVTinTFXB"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - mjfashiongroup.com
+  - gmail.com
+  - mjfashiongroup.com&gt;
+  - hotmail.com&gt;
+
+DECODED TEXT CONTENT:
+------------------------------
+
+------------------------------------------------------------------------
+*De:* Darya <support@mjfashiongroup.com>
+*Enviado:* sábado, 26 de agosto de 2023 21:21
+*Para:* phishing@pot <phishing@pot>
+*Assunto:* Salutations, Mr. poppet.
+Greet. are you there? I hope you can chat! I'm a solitary savory female. 
+Where r You from and how old r You?
+I'll reply to You my photo;)
+Write at cuasperweahlgren92@gmail.com
+Have a good day
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  </head>
+  <body>
+    <br>
+    <hr style="display:inline-block;width:98%" tabindex="-1">
+    <div id="divRplyFwdMsg" dir="ltr"><font style="font-size:11pt" face="Calibri, sans-serif" color="#000000"><b>De:</b> Darya
+        <a class="moz-txt-link-rfc2396E" href="mailto:support@mjfashiongroup.com">&lt;support@mjfashiongroup.com&gt;</a><br>
+        <b>Enviado:</b> sábado, 26 de agosto de 2023 21:21<br>
+        <b>Para:</b> phishing@pot <a class="moz-txt-link-rfc2396E" href="mailto:phishing@pot">&lt;merciayanmact@hotmail.com&gt;</a><br>
+        <b>Assunto:</b> Salutations, Mr. poppet.</font>
+      <div>&nbsp;</div>
+    </div>
+    <div class="BodyFragment"><font size="2"><span style="font-size:11pt;">
+          <div class="PlainText">Greet. are you there? I hope you can
+            chat! I'm a solitary savory female. Where r You from and how
+            old r You?<br>
+            I'll reply to You my photo;)<br>
+            Write at <a class="moz-txt-link-abbreviated" href="mailto:cuasperweahlgren92@gmail.com">cuasperweahlgren92@gmail.com</a><br>
+            Have a good day<br>
+            <br>
+          </div>
+        </span></font></div>
+  </body>
+</html>
+

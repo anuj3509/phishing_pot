@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Nous avons une offre surprise pour vous-ouvrez-la maintenant!",
+    "from": "Disney - offres, <webmestre@ccmp.daf-mag.fr>",
+    "to": "phishing@pot",
+    "date": "Sun, 24 Dec 2023 17:07:55 +0100",
+    "message_id": "<fd898ct.utyzv.fki.fki@qilesbropzvmgva.fbs>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.ibb.co/v1f1nwf/j185.jpg",
+      "https://i.ibb.co/v1f1nwf/j185.jpg",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1378522/zz33.shtml#eFR6blhMc3RTVllFUXkxaUlodmpzQXY0OEdhNnRGN01LWk04MEZmSjNidUUza0UwbnFFZm5WbW92Y1YrQ2hsa29NRyswdUZoSlgxazVNWWhsOHJIL0xpVUFhckhrQWRhL2R4NGdCb0s3WDlvdDFISjZTdlQ0WDZTdWFSVVlXN1M2QS9vMVdxQmtITHdDQ0JHNDI4VXV3PT0_",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1378522/zz33.shtml#SHNhNXJQVmRjOEFBQ3g1OWJVQ29QL1pPWnhpank1eUVnb0VNcUpwNFpqeDJYbkEvZUZreTlvSzd6YW4xeUE0KzZzMXY3ZzJFejlCSjBKRXdaVG80VmpWOStwWW81a3ZTbHFjYUFXS3VJMk9kWTFlWEpoaUVjeE4xZ0o1c0ZrV2U_",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "http://revision-online.info/ejlNU0pFWEdqQzhEN0VGd2JkQ05sbzVKS2ZLamtIczMwVHlPMmFFWVg4L3Flck9VQVBpZUxTMmNxWHRhTXJwTUtNNlBrOTE3eWsrN2dmUDA1czBjaTdFVFVOdnlNQnZrcHlzQU5DMkhMR1dHVTQ4RjVJT2k5cHkwSCtiT2VKWC8_",
+      "img.big,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1052,
+    "html_length": 20893,
+    "has_text": true,
+    "has_html": true
+  }
+}

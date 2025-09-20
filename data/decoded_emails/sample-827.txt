@@ -1,0 +1,66 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: RE: You received 1 NFT 0N1 FORCE
+From: OpenSea Token <customer.service@universe.app>
+To: phishing@pot
+Date: Sat, 24 Jun 2023 09:10:26 +0000
+Message_Id: <01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000@us-west-2.amazonses.com>
+Content_Type: multipart/alternative; boundary="2B5B3B7DDDE64B968BE7479605C25AD6"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="2B5B3B7DDDE64B968BE7479605C25AD6"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://pulsar.universe.app/CL0/https:%2F%2Fleenytoons.tk%2F.x%2Fasez20.php/1/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/PSGZiSeqDvz85VIhY8okrVkIDHhIXO5wYsjSXX7rGiM=306
+  - https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).svg
+  - http://pulsar.universe.app/CI0/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/uq3Em6DN_bYk0jTOhfUkZ3nfJxxyOtzzzcAsQlxCKHU=306
+  - https://storage.googleapis.com/opensea-static/Logomark/Logomark-White.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Hi ! You have been drawn from our database to win an NFT! Retrieve your NFT by following one of the following links : &nbsp; Claim now &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><center style="width: 100%;">
+<div style="max-width: 600px; margin: auto;"><br>
+<table style="max-width: 600px; height: 470px;" border="0" width="403" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr style="height: 552px;">
+<td style="height: 552px; width: 399px;"><img src="https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).svg" alt="" width="214" height="49">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="text-align: left; padding: 40px 40px 20px 40px; font-family: sans-serif; font-size: 15px; line-height: 20px; color: #555555;">
+<p>Hi ! You have been drawn from our database to win an NFT! Retrieve your NFT by following one of the following links :</p>
+<p>&nbsp;</p>
+<table style="margin: auto;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="border-radius: 3px; background: #3888c3; text-align: center;"><span style="color: #ffffff; font-size: 13px;"><a style="background: #1e81e2; border: 15px solid #1e81e2; font-family: sans-serif; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold; color: #ffffff;" href="https://pulsar.universe.app/CL0/https:%2F%2Fleenytoons.tk%2F.x%2Fasez20.php/1/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/PSGZiSeqDvz85VIhY8okrVkIDHhIXO5wYsjSXX7rGiM=306" target="_blank" rel="noopener" data-saferedirecturl="&amp;source=gmail&amp;ust=1687395371558000&amp;usg=AOvVaw1STSTSecaQvIQMgRpJewdp">Claim now </a></span></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td style="padding: 20px 10px 40px 10px; width: 100%; font-size: 12px; font-family: sans-serif; line-height: 18px; text-align: center; color: #888888;"><img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-White.png" alt="" width="40" height="40">&nbsp; &nbsp; <img src="data:image/png;base64,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" alt="" width="33" height="33">&nbsp; &nbsp; &nbsp;&nbsp;<img src="data:image/png;base64,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" alt="" width="31" height="31"></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</center><img alt="" src="http://pulsar.universe.app/CI0/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/uq3Em6DN_bYk0jTOhfUkZ3nfJxxyOtzzzcAsQlxCKHU=306" style="display: none; width: 1px; height: 1px;">
+

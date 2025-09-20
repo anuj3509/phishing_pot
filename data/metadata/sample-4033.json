@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Você possui pedidos aguardando taxa de recolhimento da fiscalização alfandegária! ",
+    "from": "Correios SA <alfandega060994@correios>",
+    "to": "phishing@pot",
+    "date": "Wed, 11 Sep 2024 14:32:50 +0000",
+    "message_id": "<96a42e41ada90c8e7a78d597506187fa@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_96a42e41ada90c8e7a78d597506187fa\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_96a42e41ada90c8e7a78d597506187fa\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://retirada-rastreamentocorreios.com.ua/rastreamento/taxa825",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3626,
+    "has_text": true,
+    "has_html": true
+  }
+}

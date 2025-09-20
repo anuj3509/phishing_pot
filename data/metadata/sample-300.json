@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nouveau message privé de votre fille ukrainienne",
+    "from": "Rencontrer des beautés ukrainiennes , <no-replay@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Wed, 08 Feb 2023 01:10:57 +0100",
+    "message_id": "\r\n <d4545b28-3216-451c-8dd2-e614fd10ea21@DM3NAM02FT051.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://laredoutee.online/un/3109_md/22222/1474/559/410/1190",
+      "http://laredoutee.online/cl/3109_md/22222/1474/559/410/1190",
+      "http://laredoutee.online/op/3109_md/22222/1474/559/410/1190",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/8JPK2vh.jpg",
+      "https://i.imgur.com/8JPK2vh.png",
+      "laredoutee.online/oop/3109_md/22222/1474/559/410/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 120,
+    "html_length": 1405,
+    "has_text": true,
+    "has_html": true
+  }
+}

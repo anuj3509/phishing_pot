@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Bonnes affaires dans les magasins.",
+    "from": "Expédition en attente! <bonobo@news.bonobojeans.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 28 Mar 2023 01:04:28 +0200",
+    "message_id": "<20230326142102.C3EDC43239@chamarisco.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://trackin.iptesetxkeys.com/oop/4665_md/22222/1721/1758/410/1190",
+      "https://i.imgur.com/O10rl84.png",
+      "https://trackin.iptesetxkeys.com/un/4665_md/22222/1721/1758/410/1190",
+      "https://trackin.iptesetxkeys.com/cl/4665_md/22222/1721/1758/410/1190",
+      "http://iptesetxkeys.com/op/4665_md/22222/1721/1758/410/1190",
+      "i.imgur.com/O10rl84.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 108,
+    "html_length": 6273,
+    "has_text": true,
+    "has_html": true
+  }
+}

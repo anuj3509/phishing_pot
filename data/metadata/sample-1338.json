@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Don���t Suffer When You Sit!",
+    "from": "Klaudena Seat Cushion, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Sep 2023 01:52:06 +0200",
+    "message_id": "\r\n <84b0ec74-eae0-46c5-985b-5e971c4987d6@VE1EUR01FT045.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/cl/21_md/31/17/9/4/383653",
+      "http://easilett.com/oop/21_md/31/17/9/4/383653",
+      "CPA.png",
+      "https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap",
+      "https://sensiloedper.com/bizgstorage/16112",
+      "http://easilett.com/op/21_md/31/17/9/4/383653",
+      "http://easilett.com/un/21_md/31/17/9/4/383653"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 310,
+    "html_length": 2918,
+    "has_text": true,
+    "has_html": true
+  }
+}

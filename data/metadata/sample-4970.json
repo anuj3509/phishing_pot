@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Notificação urgente do seu pacote nos Correios.",
+    "from": "Correios <contato@correios>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 13 Mar 2025 00:53:58 +0000",
+    "message_id": "<523cac24-b07f-434b-43bc-de2de27694cb@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4129,
+    "html_length": 7726,
+    "has_text": true,
+    "has_html": true
+  }
+}

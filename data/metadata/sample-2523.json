@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "herzlichen Gl��ckwunsch! Sie wurden ausgew��hlt! ���",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 06 Jan 2024 01:38:44 +0100",
+    "message_id": "<efshcwe.i0t8m.5lz.5lz@cipqoufwzpnnwie.nmf>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "pet-ck-500.iumfragen.com/images/questions/656d928fcfb37.png",
+      "table.icons-inner",
+      "http://pcapps.store/op/4979_md/4049/25655/1147/143/149762",
+      "https://trk2.de/907qb982",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#cl/4979_md/4049/25655/1147/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#oop/4979_md/4049/25655/1147/143/149762",
+      "https://pet-ck-500.iumfragen.com/images/questions/656d928fcfb37.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1442,
+    "html_length": 13338,
+    "has_text": true,
+    "has_html": true
+  }
+}

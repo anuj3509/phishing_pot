@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Tem uma (1) encomenda pendente de entrega. Utilize o seu código para a acompanhar e recebe....~",
+    "from": "\"~Correios~\"  <info.hrofutrj@news.fansided.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Wed, 29 Nov 2023 07:13:28 -0500 (EST)",
+    "message_id": "<0.1.C3.A9F.ZWcYxQikfB.8797@sunnyportal.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "https://support.tiktok.com/",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?dPHGF2dcVmsBcyWgQccc8ccKcFf4YjXZCcbbb4V==",
+      "https://zupimages.net/up/23/48/9bep.png",
+      "http://choigroup.yonsei.ac.kr/MOcKgAwn.25rm2qw?dPHGF2bcVmsBcyWgQccc8ccKcFf4YjXZCcbbb4V==",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?dPHGF2ccVmsBcyWgQccc8ccKcFf4YjXZCcbbb4V==",
+      "https://zupimages.net/up/23/35/sv8d.png",
+      "https://zupimages.net/up/23/12/e413.png",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?dPHGF2fcVmsBcyWgQccc8ccKcFf4YjXZCcbbb4V=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 720,
+    "html_length": 1881,
+    "has_text": true,
+    "has_html": true
+  }
+}

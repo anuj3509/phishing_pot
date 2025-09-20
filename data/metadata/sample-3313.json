@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Pontos expiram em breve",
+    "from": "Atendimento <livepoint@envio.antoniomiranda.com.br>",
+    "to": "phish@pot",
+    "date": "Tue, 04 Jun 2024 18:06:48 -0300",
+    "message_id": "<0.5.0.111.1DAB6C31D2EBC74.261E0@mail27200.hm8307.lwdlv.com.br>",
+    "content_type": "multipart/mixed;boundary=---------------------02764adf5638e8df2ef29c50e6d956ac"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------02764adf5638e8df2ef29c50e6d956ac"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://market.antoniomiranda.com.br/accounts/192419/unsubscribes/1/214300?emkt_c=1717525175&amp;emkt_v=d2JrczRAcHJvdG9ubWFpbC5jaA&amp;envelope_id=1",
+      "http://www.w3.org/1999/xhtml",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "http://market.antoniomiranda.com.br/accounts/192419/messages/1/clicks/214300/1?envelope_id=1",
+      "http://market.antoniomiranda.com.br/accounts/192419/messages/1/openings/214300?envelope_id=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1474,
+    "html_length": 6939,
+    "has_text": true,
+    "has_html": true
+  }
+}

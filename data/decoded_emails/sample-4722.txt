@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Rapid Response Needed: Suspension Bulletin
+From: Jakob Glass <teresa.icaza@disipaing.com>
+To: <phishing@pot>
+Date: Wed, 8 Jan 2025 03:13:44 +0000
+Message_Id: <cae7ca9a-e7df-4e61-856d-7e73ab75e83e@AM1PEPF000252DF.eurprd07.prod.outlook.com>
+Content_Type: multipart/alternative; boundary="===============1716949150396431670=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="===============1716949150396431670=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, confirm, update, urgent action
+Suspicious phrases: immediate action required
+URLs found:
+  - http://epconind.com/0/?r=iyyfs
+  - http://www.w3.org/1999/xhtml
+  - http://epconind.com/m.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Immediate Action Required: Suspension Alert To enhance security and comply with global regulations, it's essential to update your wallet As Soon As Possible. This step is critical to protect your assets and meet AML and CTF standards. Why updating my wallet? It verifies your identity, secures your assets, and protects your privacy. Urgent Action Needed: Please update immediately to maintain access to your wallet. Delay may lead to restricted access. To update: Visit the update Activation page via your private access link using the button below . Look out for a confirmation notification. UPDATE NOW What if I don't complete the wallet update? You will lose all of your assets if you don't upgrade your wallet. All users must validate their wallets before they can use our service again. Your cooperation in these security enhancements is vital. Thank you for your prompt action. ©2024 MetaMask • A Consensys Formation Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="charset" content="utf-8"><title></title></head>
+<body style="background-color: #f7f9fb;">
+<table width="440" border="0" cellspacing="0" cellpadding="0" style="font-size:16px;line-height:1.6;font-family: Euclid Circular B, sans-serif; margin:0 auto;"><tbody>
+<tr><td width="20" height="10"> </td><td width="400">
+<img width="180px" src="http://epconind.com/m.png"></a>
+</td><td width="20"> </td></tr>
+<tr><td width="20" height="10"> </td><td width="400"> </td><td width="20"> </td></tr>
+<tr><td width="20" style="background-color: #fff;"> </td><td width="400" style="background-color: #fff;"><br>
+<span style="font-size:16px;font-weight:bold">Immediate Action Required: Suspension Alert</span><br><br>
+To enhance security and comply with global regulations, it's essential to update your wallet As Soon As Possible. This step is critical to protect your assets and meet AML and CTF standards.<br><br>
+<strong>Why updating my wallet?</strong><br><br>
+It verifies your identity, secures your assets, and protects your privacy.<br><br>
+<strong>Urgent Action Needed:</strong><br><br>
+Please update immediately to maintain access to your wallet. Delay may lead to restricted access.<br><br>
+<strong>To update:</strong><br><br>
+Visit the update Activation page via your private access link <strong>using the button below</strong>. Look out for a confirmation notification.<br><br>
+<a style="background:#037dd6;color:#fff;cursor:pointer;padding:8px 20px;border-radius:999px;font-size:16px;line-height:1.3;text-decoration:none;" href="http://epconind.com/0/?r=iyyfs"><span>UPDATE NOW</span></a><br><br><br>
+<strong>What if I don't complete the wallet update?</strong><br><br>
+You will lose all of your assets if you don't upgrade your wallet. <strong>All users must validate</strong> their wallets before they can use our service again.<br><br>
+Your cooperation in these security enhancements is vital.
+Thank you for your prompt action.<br><br><br><br>
+</td><td width="20" style="background-color: #fff;"> </td></tr>
+<tr><td width="20" height="10"> </td><td width="400"><br><br></td><td width="20"> </td></tr>
+<tr><td width="20" height="10"> </td><td width="400" style="text-align:center;font-size:12px;color:#24292e">©2024 MetaMask • A Consensys Formation<br>Unsubscribe</td><br><br><td width="20"> </td></tr>
+</tbody></table>
+</body>
+</html>

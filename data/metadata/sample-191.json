@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Money.transfer.0.7495.Bitcoin",
+    "from": "Donna Edwards <helenwhitekpf8@gmail.com>",
+    "to": "spd2192@gmail.com",
+    "date": "Mon, 26 Dec 2022 12:30:07 -0800",
+    "message_id": "<CADzO3MteF91voJJeipuLCsNLf40rTxfWOSmQpfuEDAFnqK9MSw@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000004e67ca05f0c10070\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000004e67ca05f0c10070\""
+  },
+  "attachments": [
+    {
+      "filename": "Bitcoin__Transfer__0.7495__BTCfDG7GY898945mtp3KFiTAz9upoVAjIbjmbLMNh4r.pdf",
+      "content_type": "application/pdf",
+      "size": 83157
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 124,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

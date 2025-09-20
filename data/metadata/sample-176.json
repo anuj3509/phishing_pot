@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Join today and she will contact you",
+    "from": "Christmas Flirt <newstvtune@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Wed, 21 Dec 2022 13:46:57 +0100",
+    "message_id": "< [an10]. [an6].[anl12] [an11]@cpfl.com.br>",
+    "content_type": "multipart/alternative; boundary=d49e7757eba6c9830e97d259a278709888679cfa7f827d74ade7dcc8626b"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=d49e7757eba6c9830e97d259a278709888679cfa7f827d74ade7dcc8626b"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://ahlens.xyz/un/1782_md/22222/924/700/410/1190)",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/vZ1TmwE.jpg",
+      "http://ahlens.xyz/oop/1782_md/22222/924/700/410/1190)",
+      "http://ahlens.xyz/cl/1782_md/22222/924/700/410/1190",
+      "http://ahlens.xyz/oop/1782_md/22222/924/700/410/1190",
+      "http://ahlens.xyz/un/1782_md/22222/924/700/410/1190",
+      "https://i.imgur.com/vZ1TmwE.png",
+      "http://ahlens.xyz/op/1782_md/22222/924/700/410/1190",
+      "http://ahlens.xyz/cl/1782_md/22222/924/700/410/1190)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 409,
+    "html_length": 1406,
+    "has_text": true,
+    "has_html": true
+  }
+}

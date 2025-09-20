@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Voce possui 9.819,00 mil reais autorizado. 5399043678",
+    "from": "Pontos Bradesco <resgatar__5400livelo@Atendimento5400resgate__livelo.com.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 11 Aug 2024 03:09:55 +0000 (UTC)",
+    "message_id": "<20240811030955.09FA84258F@cb675610-3d40-40ca-aff4-b7874a32f0d0>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rssegupont.kyiv.ua\\d3w\\hzzcc.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1512,
+    "html_length": 7489,
+    "has_text": true,
+    "has_html": true
+  }
+}

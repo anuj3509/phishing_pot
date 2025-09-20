@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "HELLO",
+    "from": "\" Peter D.Cheng\"<info@j-wca.or.jp>",
+    "to": "pecheng@firemail.de",
+    "date": "Thu, 24 Aug 2023 12:11:48 -0700",
+    "message_id": "\r\n <b9986958-dd82-4610-af39-ab90ef9ec43e@DBAEUR03FT058.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "2.CONTACT",
+      "3.TELEPHONE:",
+      "1.YOUR",
+      "D.Cheng"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 650,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

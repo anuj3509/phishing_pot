@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Attention: XRP Distribution Active",
+    "from": "Ripple <xrp@appointments.adhi4u.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 23 Nov 2023 06:29:14 +0000",
+    "message_id": "<20231123062914.ed036e36b6ca3d16@appointments.adhi4u.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://emailserv75-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "https://fonts.gstatic.com/s/sourcesanspro/v10/toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff)",
+      "https://i.imgur.com/JvNKo5H.png",
+      "https://i.imgur.com/pz9qiXy.png",
+      "https://emailserv75-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://fonts.gstatic.com/s/sourcesanspro/v10/ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2673,
+    "html_length": 9639,
+    "has_text": true,
+    "has_html": true
+  }
+}

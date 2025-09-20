@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo-f-p 🎉 Claim Your Cashback Airdrop Today! 🚀",
+    "from": "Tether Cashback <support@kandypens.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Mon, 25 Sep 2023 16:40:21 +0000",
+    "message_id": "<MYN7DWE45KV_6511b7f526d84_3e468c8367965_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6511b7f54ac2e_3e468c8368085\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6511b7f54ac2e_3e468c8368085\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://bing.com",
+      "http://schema.org/ViewAction",
+      "https://kandypens.zendesk.com/hc/requests/308319",
+      "http://schema.org/EmailMessage",
+      "https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=Kandypens&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification",
+      "https://kandypens.zendesk.com/images/2016/default-avatar-80.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1323,
+    "html_length": 4663,
+    "has_text": true,
+    "has_html": true
+  }
+}

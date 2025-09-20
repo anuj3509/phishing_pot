@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Cadastrado em seu CPF",
+    "from": "adm.dnit.prf0123@smtplw-08.com",
+    "to": "<phishing@pot>",
+    "date": "Mon, 11 Nov 2024 15:50:49 +0000",
+    "message_id": "<20241111155049847771F579$754639608D@hotmail.com>",
+    "content_type": "multipart/alternative; boundary=\"a9womGev=_FPVx6RMHxBzJ4wvTk7ZqV1pE\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"a9womGev=_FPVx6RMHxBzJ4wvTk7ZqV1pE\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mcnTextContent,td.mcnBoxedTextContentContainer",
+      "a.mcnButton{",
+      "https://consult.verifica-online.com/",
+      "td.mcnTextContent",
+      "td.mcnTextContent,td#templateHeader",
+      "table.mcnBoxedTextContentContainer",
+      "td.mcnTextContent,td#templateFooter",
+      "td.mcnTextContent,td#templateBody",
+      "https://open-click.smtplw.com.br/openings/m/97d9c6c652134057a8536aaa875ec223-1731340253.89/a/97d9c6c652134057a8536aaa875ec223/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/6c35523c6e94725e9a6010f7b7835c4c7848463a"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 458,
+    "html_length": 15414,
+    "has_text": true,
+    "has_html": true
+  }
+}

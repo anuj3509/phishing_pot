@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "USPS® Item being held, addressee being notified CY1022030750US.",
+    "from": "Tracking Status <20142214@fue.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Tue, 13 Feb 2024 01:23:05 -1000",
+    "message_id": "<JSe9NxdicraVqGbwK1fCqvPXXZCz3oFGGQ07KfazYg@vultr>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://urlz.fr/pxgy",
+      "https://i.imgur.com/tEsXaGk.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 817,
+    "html_length": 11972,
+    "has_text": true,
+    "has_html": true
+  }
+}

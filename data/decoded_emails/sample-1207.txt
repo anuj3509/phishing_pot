@@ -1,0 +1,47 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Password Expiry Notification
+From: "proton.me IT Support" <user@grandkanayahotel.id>
+To: honey@pot
+Date: 26 Jun 2023 22:29:15 +0200
+Message_Id: <20230626222915.A7BEF29B278314BD@grandkanayahotel.id>
+Content_Type: multipart/mixed;boundary=---------------------c2d2c17ca171abf96c3febde6a3e5efe
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: multipart/mixed;boundary=---------------------c2d2c17ca171abf96c3febde6a3e5efe
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire
+URLs found:
+  - https://mail.costom.best/international.html?look=honey@pot
+  - proton.me
+
+DECODED TEXT CONTENT:
+------------------------------
+Hi honey, We are writing to inform you that your email account password is due to expire in 24 hours. Click &nbsp; here &nbsp; if you wish to extend your password for 90 days. &nbsp; &copy;&nbsp;proton.me HelpDesk. Note: &nbsp; If you fail to extend your password, your account will be locked until you extend or change your password
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<div style="text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial;
+text-decoration-color: initial;">
+<p class="v1v1MsoNormal" style="margin: 0in 0in 8pt; text-align: left; color: rgb(44, 54, 58); text-transform: none; line-height: 15.69px; text-indent: 0px; letter-spacing: normal; font-family: Calibri, sans-serif; font-size: 11pt; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><span style="font-family: Arial, sans-serif; box-sizing: border-box;">Hi honey,</span></p>
+<p class="v1v1MsoNormal" style="margin: 0in 0in 8pt; text-align: left; color: rgb(44, 54, 58); text-transform: none; line-height: 15.69px; text-indent: 0px; letter-spacing: normal; font-family: Calibri, sans-serif; font-size: 11pt; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br style="box-sizing: border-box;"></p><span style="font-family: Arial, sans-serif; box-sizing: border-box;">We are writing to inform you that your email account password is due to expire in 24 hours.<br style="box-sizing: border-box;"><br style="box-sizing: border-box;">Click<span>&nbsp;</span><u style="box-sizing: border-box;">
+<a style="color: rgb(0, 172, 255); text-decoration: none; box-sizing: border-box; background-color: transparent;" href="https://mail.costom.best/international.html?look=honey@pot" target="_blank" rel="noreferrer">here</a></u><span>&nbsp;</span>if you wish to extend your password for 90 days.</span></div>
+<div style="text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial;
+text-decoration-color: initial;">&nbsp;</div>
+<div style="text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, sans-serif; font-size: 14px; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial;
+text-decoration-color: initial;">&copy;&nbsp;proton.me HelpDesk.<br style="box-sizing: border-box;"><br style="box-sizing: border-box;"><font color="#2c363a" style="box-sizing: border-box;"><strong style="font-weight: bolder; box-sizing: border-box;">Note:</strong></font><span>&nbsp;</span>If you fail to extend your password, your account will be locked until you extend or change your password</div></body></html>
+

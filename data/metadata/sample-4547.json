@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Congrats! phishing@pot, You've received a CashApp gift card reward! ���� ID#1000-US",
+    "from": "\"  CashApp® \" <admin@bimboys.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 11 Dec 2024 03:15:10 +0000",
+    "message_id": "<yfebwfqlwqljoxD_4oh962176212672834936764196808288496140208256316262912474083406560476182393193341411972753858500823429711626473652975345040404895405179564283804531568664144424115635690059416571179289.1.YY3JZ1W8ZDCJRSBJIQFTXHphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expiring",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://scoutly.online/t/4ChMcy6486yZFs192yrapdofidw143OHVHUHMQKTWDJBX62UNON14390N17",
+      "http://scoutly.online/t/4hzCoR6486pihE192rudkuhwvzs143VPKJBJWAZFLLFTD62VTCH14390X17",
+      "http://scoutly.online/t/track/3wxfnW6486qnKw192cpnohnkxyp143JLMDOQWXYVIHWGX62UAWU14390z17",
+      "https://scoutly.online#5hYkMQ6486OYVD192siaqzqpbri143RARQNDRPFIEOCPO62IEHC14390V17",
+      "http://scoutly.online/t/4HWuBf6486Qbsx192iwzqzeerrr143QXJSDKFQKUXCJUE62JFZZ14390Q17",
+      "http://scoutly.online/t/4toDwm6486CcxX192eonisaucdw143NLPBJUMQSCKXOQO62AARM14390l17",
+      "http://scoutly.online/t/4hqixm6486hZBE192ztguxkmzbz143OANSLTDXVRVHXTZ62KKCM14390X17"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 298,
+    "html_length": 5978,
+    "has_text": true,
+    "has_html": true
+  }
+}

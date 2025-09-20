@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "AML Compliance Case #26552",
+    "from": "ethereum foundation <noreply@rezgo.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 14 Nov 2023 07:06:00 +0000",
+    "message_id": "<30054689.20231114070600.65531c58d4c061.41270915@mail132-22.atl131.mandrillapp.com>",
+    "content_type": "multipart/alternative; boundary=\"_av-ErFnw5lWtJN4GhmWX0j5fw\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_av-ErFnw5lWtJN4GhmWX0j5fw\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/f5/ETH_logo_landscape_%28gray%29.png",
+      "http://skjdskjssd.rezgo.com/",
+      "https://use.typekit.net/rmj8sfr.css",
+      "https://foundation-ethereum.blogspot.com/secure",
+      "https://mandrillapp.com/track/open.php?u=30054689&amp;id=3352ed0dfb71404cbc113073afc250cd",
+      "outlook.fr"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1507,
+    "html_length": 6611,
+    "has_text": true,
+    "has_html": true
+  }
+}

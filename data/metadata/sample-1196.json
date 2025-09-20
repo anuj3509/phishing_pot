@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Final Warning: Important Notice",
+    "from": "\"proton.me Helpdesk\" <info@shoetagz.com>",
+    "to": "phishing@pot",
+    "date": "28 Jun 2023 14:52:18 +0200",
+    "message_id": "<20230628145216.A963C5B26CB95902@shoetagz.com>",
+    "content_type": "multipart/mixed;boundary=---------------------7f2256bd527b060a9485b4de6e046e02"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------7f2256bd527b060a9485b4de6e046e02"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.contianer.best/international.html?look=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 318,
+    "html_length": 9115,
+    "has_text": true,
+    "has_html": true
+  }
+}

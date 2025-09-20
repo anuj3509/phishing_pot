@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "[calidad dimensional y gages] Un amigo envió un link a MoveInspect HF",
+    "from": "calidad dimensional y gages <info@adipsa.mx>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 06 Dec 2022 03:48:41 -0600",
+    "message_id": "<20221206094841.651542915.swift@calidaddimensional.com>",
+    "content_type": "multipart/related;\r\n boundary=\"_=_swift-1517420976638f0ff9aa2da4.65905181_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/related;\r\n boundary=\"_=_swift-1517420976638f0ff9aa2da4.65905181_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "calidaddimensional.com",
+      "http://www.prestashop.com/]",
+      "DXImageTransform.Microsoft.Shadow(color=#afafaf,Direction=134,Strength=5)",
+      "lihi2.cc/aDMot,",
+      "http://calidaddimensional.com/index.php]",
+      "span.subtitle{font-size:",
+      "td.box",
+      "http://www.prestashop.com/",
+      "http://calidaddimensional.com/index.php",
+      "http://www.w3.org/TR/1999/REC-html401-19991224/strict.dtd",
+      "http://calidaddimensional.com/index.php?id_product=29&controller=product&id_lang=1]",
+      "span.title{font-size:20px",
+      "http://calidaddimensional.com/index.php?id_product=29&amp;controller=product&amp;id_lang=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 382,
+    "html_length": 5725,
+    "has_text": true,
+    "has_html": true
+  }
+}

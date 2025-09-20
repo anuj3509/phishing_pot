@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P,, você alcançou o cartão Black, mas há algo que você nãopode perder! Bem-vindo ao Bradesco Prime",
+    "from": "Bradesco Prime <naoresponder@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 08 Apr 2024 19:30:32 +0000",
+    "message_id": "<becf6625-151b-64ed-169a-56dac178dac1@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpwww.msnbc.msn.comid12168872",
+      "casamento.Ao",
+      ".alert.alert-warning",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=3ddecbd95c9f4209a16dcf9629219136&amp;t1=bra",
+      ".alert.alert-bad",
+      "www.fas.orgoneworldindex.html",
+      ".alert.alert-good",
+      "tcnettogmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 168864,
+    "html_length": 297429,
+    "has_text": true,
+    "has_html": true
+  }
+}

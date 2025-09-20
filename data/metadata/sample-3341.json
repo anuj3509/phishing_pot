@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "[#14] Bagon | backup domains",
+    "from": "Bagon <tickets@bagon-i89a7l.p.tawk.email>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Sat, 15 Jun 2024 12:14:51 +0000",
+    "message_id": "\r\n <001001901bd263b8-0300-784535fd-4f2a-4568-a352-eb58780d9074-dbe87350-2b10-11ef-b1ab-7b1a0e8126cc@bagon-i89a7l.p.tawk.email>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-6378764652e77481-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-6378764652e77481-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.tawk.to/?utm_source=ticketing&amp;utm_medium=email&amp;utm_campaign=ticket-link",
+      "tawk.to",
+      "http://www.w3.org/1999/xhtml",
+      "table.message_footer_table",
+      "td.padding_cell",
+      "http://www.emailonacid.com/forum/viewthread/43/",
+      "br.hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 269,
+    "html_length": 6397,
+    "has_text": true,
+    "has_html": true
+  }
+}

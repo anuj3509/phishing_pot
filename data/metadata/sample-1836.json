@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Gl��ckwunsch! Jetzt Gewinndaten eintragen ������������",
+    "from": "PayPal, PayPal <news@my.esprit-friends.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 07 Nov 2023 06:17:02 +0100",
+    "message_id": "<CCCjZSM.47879.364+=phishing@pot@service@newsletter.otto.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "imgur.com/1ganv65.jpg",
+      "https://t.co/147gpL3Pb2",
+      "http://myhealthyliving.life/ZDNrT1pIMFVqTk5VZGR5eHVUQTM1Vkw1ZzQ1bWs4TXNNMDh0Sy9HV1ZjNWFHU2dYYkRqTVc3d0ZBSGFPYThqN1lKSFV5cnBaNGRCRjVtTms5WWNodVE9PQ__",
+      "https://1.2.3",
+      "http://myhealthyliving.life/cUVaVDY5eHJ1cEpSMGpGUzhYZ1BDeXhxTVB1QTZ0MFZUUGhrMmhWVWRQdlowa1V0VzdwNWU4VlJxTitEQXdNU3dmM1lWU2h0ZFBYa25Hb3c1QkNMQ1E9PQ__",
+      "http://myhealthyliving.life/VGRSR0FnT1h4OTU3VU5JYkM2UVA5NG9BNUZVQXRKYjV3ZXdEY3BoWlNNRStId1FKQTBKV2tPd0hqM2IzWm5SQkpVdisxUGtWbVRibjhLM0lsNTdoa1E9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 359,
+    "html_length": 5772,
+    "has_text": true,
+    "has_html": true
+  }
+}

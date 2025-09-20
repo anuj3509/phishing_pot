@@ -1,0 +1,68 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sua Encomenda Foi Taxada: Pague Agora e Regularize a Entrega! 952
+From: Fiscalizacao Correios <no-reply@correioscontato952>
+To: math.kichuu@hotmail.com
+Date: Sat, 26 Oct 2024 17:00:45 +0000 (UTC)
+Message_Id: <20241026170045.D4A4E3FD89@Ubuntu-ribq-1vcpu-1gb-35gb-intel>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://gomegasuastaxas.com/suas/taxas/gomeuspontos952
+
+DECODED TEXT CONTENT:
+------------------------------
+Ação Imediata - Liberação de Encomenda ⚠ Ação Imediata Necessária ⚠ Olá, Mathkichuu , Informamos que sua encomenda está retida pela Receita Federal devido ao não pagamento das taxas alfandegárias obrigatórias . ⚠ Prazo Final: O prazo para pagamento está quase no fim! Caso não seja quitada, sua encomenda será devolvida ao remetente . Evite taxas extras e atrasos! Regularize agora o pagamento clicando no botão abaixo: Pagar Agora Última Chance de Pagamento A data limite para o pagamento é 30/10/2024 . Atrasos adicionais podem gerar custos extras e a devolução da encomenda. Correios 2024 - Todos os direitos reservados. Este e-mail foi enviado automaticamente. Por favor, não responda.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ação Imediata - Liberação de Encomenda</title>
+</head>
+<body style="font-family: 'Arial', sans-serif; background-color: #f4f4f9; margin: 0; padding: 0;">
+
+<!-- Container Principal -->
+<div style="max-width: 600px; margin: 40px auto; background-color: #fff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); border-radius: 8px; overflow: hidden;">
+
+    <!-- Cabeçalho -->
+    <div style="background-color: #FF5733; color: #fff; text-align: center; padding: 25px;">
+        <h1 style="font-size: 26px; margin: 0;">⚠ Ação Imediata Necessária ⚠</h1>
+    </div>
+
+    <!-- Conteúdo -->
+    <div style="padding: 30px; background-color: #0047BB; color: white; text-align: center;">
+        <p style="font-size: 18px; line-height: 1.6;">Olá, <strong style="color: #FFD700;">Mathkichuu</strong>,</p>
+        <p style="font-size: 18px; line-height: 1.6;">Informamos que sua encomenda está <strong>retida</strong> pela Receita Federal devido ao não pagamento das <strong>taxas alfandegárias obrigatórias</strong>.</p>
+        <p style="font-size: 18px; line-height: 1.6;">⚠ <strong>Prazo Final:</strong> O prazo para pagamento está quase no fim! Caso não seja quitada, sua encomenda será <strong>devolvida ao remetente</strong>.</p>
+        <p style="font-size: 18px; line-height: 1.6;"><strong>Evite taxas extras e atrasos!</strong> Regularize agora o pagamento clicando no botão abaixo:</p>
+        <a href="https://gomegasuastaxas.com/suas/taxas/gomeuspontos952" style="display: inline-block; margin-top: 20px; padding: 15px 35px; font-size: 20px; font-weight: bold; background-color: #FFD700; color: #0047BB; text-decoration: none; border-radius: 6px;">Pagar Agora</a>
+    </div>
+
+    <!-- Urgência -->
+    <div style="background-color: #FFD700; color: #0047BB; padding: 15px; font-size: 18px; text-align: center;">
+        <strong style="display: block; margin-bottom: 10px;">Última Chance de Pagamento</strong>
+        A data limite para o pagamento é <strong>30/10/2024</strong>. Atrasos adicionais podem gerar custos extras e a devolução da encomenda.
+    </div>
+
+    <!-- Rodapé -->
+    <div style="background-color: #F0F0F0; color: #333; padding: 15px; text-align: center; font-size: 14px;">
+        <p style="margin: 5px 0;">Correios 2024 - Todos os direitos reservados.</p>
+        <p style="margin: 5px 0;">Este e-mail foi enviado automaticamente. Por favor, não responda.</p>
+    </div>
+</div>
+
+</body>
+</html>

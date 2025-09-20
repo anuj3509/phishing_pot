@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta aguardando.",
+    "from": "Correios <notifica@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Jan 2025 08:41:25 +0000",
+    "message_id": "<9b413626-6951-382d-1d7b-5c5c3a1d5b67@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 40028,
+    "html_length": 73040,
+    "has_text": true,
+    "has_html": true
+  }
+}

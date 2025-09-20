@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: - Sua carteira de motorista esta prestes a ser suspensa - Protocolo - ID M3OWGRFR5O
+From: - Aviso Multa pendente <61700@%detran.com.br>
+To: <phishing@pot>
+Date: Sat, 11 Jan 2025 02:06:52 +0000
+Message_Id: <913a8b8b4f6c76de68d6e58e64e47824@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_913a8b8b4f6c76de68d6e58e64e47824"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_913a8b8b4f6c76de68d6e58e64e47824"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - Gov.br
+  - https://hotm.art/validar-CNH
+
+DECODED TEXT CONTENT:
+------------------------------
+Texto alternativo para o e-mail.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Suspensão - CNH</title>
+</head>
+<body style="font-family: Arial, Helvetica, sans-serif; background-color: #f2f2f2; margin: 0; padding: 0; color: #343a40; line-height: 1.6;">
+    <div style="max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); overflow: hidden;">
+        <div style="background-color: #0056b3; color: white; text-align: center; padding: 20px;">
+            <h1 style="margin: 0; font-size: 24px;">Alerta de Suspensão de CNH</h1>
+            <p>Detran - Gov.br</p>
+        </div>
+        <div style="padding: 20px;">
+            <h2 style="color: #dc3545; margin-bottom: 15px;">⚠️ Por questões de segurança, confirme as informações abaixo:</h2>
+            <p><strong>CNH:</strong> <strong>EM PROCESSO DE SUSPENSÃO</strong></p>
+            <p><strong>ATENÇÃO:</strong> Infração de trânsito cometida e não contestada a tempo no valor de <strong>R$149,56</strong> em seu CPF.</p>
+            <p><strong>Data da infração:</strong> <strong>14/05/2024</strong></p>
+            <p><strong>Situação:</strong> <strong>VENCIDA</strong></p>
+            <p>🔔 <strong>Regularize agora para evitar a suspensão da sua CNH!</strong> 🔔</p>
+            <div style="text-align: center; margin-top: 20px;">
+                <a href="https://hotm.art/validar-CNH" style="display: inline-block; padding: 12px 20px; background-color: #28a745; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">REGULARIZAR</a>
+            </div>
+        </div>
+        <div style="background-color: #0056b3; color: white; text-align: center; padding: 10px;">
+            <p>Detran - Gov.br</p>
+        </div>
+    </div>
+</body>
+</html>

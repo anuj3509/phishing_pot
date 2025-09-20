@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Trust Wallet Verification 2025",
+    "from": "Trust Wallet <none@allinone.io>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Dec 2024 19:13:13 +0000",
+    "message_id": "<0107019413d63793-2812c68f-308e-47e3-b060-f33a365f59e5-000000@eu-central-1.amazonses.com>",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://jpxxj3y3.r.eu-central-1.awstrack.me/L0/https:%2F%2Ftrust-activate.com%2F/2/0107019413d63793-2812c68f-308e-47e3-b060-f33a365f59e5-000000/ix49HXRvf9FKLj3Z8UpSnOz53o4=187",
+      "https://logos-world.net/wp-content/uploads/2023/12/Trust-Wallet-New-Logo.png",
+      "https://jpxxj3y3.r.eu-central-1.awstrack.me/L0/https:%2F%2Ftrust-activate.com%2F/3/0107019413d63793-2812c68f-308e-47e3-b060-f33a365f59e5-000000/dD5Pp8CPZ7vMlWmnS7iwE4P5faA=187",
+      "https://joulink.com",
+      "https://jpxxj3y3.r.eu-central-1.awstrack.me/I0/0107019413d63793-2812c68f-308e-47e3-b060-f33a365f59e5-000000/qE_7kBBWsDTcQBNu-9su31PG9Vc=187",
+      "https://jpxxj3y3.r.eu-central-1.awstrack.me/L0/https:%2F%2Ftrust-activate.com%2F/1/0107019413d63793-2812c68f-308e-47e3-b060-f33a365f59e5-000000/Not8IRUWq0zJvL4eTr4OIRpmrB4=187"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 580,
+    "html_length": 4892,
+    "has_text": true,
+    "has_html": true
+  }
+}

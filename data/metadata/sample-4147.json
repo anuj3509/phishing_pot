@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi taxado e bloqueado pela fiscalização alfandegária! Protocolo: 53273253.",
+    "from": "Correios <alfandega016306@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Sep 2024 11:05:21 +0000",
+    "message_id": "<3212de328bda7c5d69c4a118c67fe866@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3212de328bda7c5d69c4a118c67fe866\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3212de328bda7c5d69c4a118c67fe866\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://fiscalizacaoaduaneira.co.ua/rastreamento/taxas256"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3757,
+    "has_text": true,
+    "has_html": true
+  }
+}

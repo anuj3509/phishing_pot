@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "phishing@pot, ���� Weihnachtsgeschenk f��r dich: Gewinne einen LIDL Gutschein im Wert von 500���!",
+    "from": "LIDL Gutschein,(<newsletter@news.veepee.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Dec 2024 14:06:00 +0000",
+    "message_id": "<YHLSWZGQPVJKLQ8AU9KYO1L@my.zalando.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "leaadpersons.com/biz/GutscheinLidl5002.png",
+      "http://topmarktingplace.com/4CfuhN41944iygR1164osobwaaxus14302PWXYFBGDFOCKLTO2DEHR17281R12",
+      "https://leaadpersons.com/biz/GutscheinLidl5002.png",
+      "http://topmarktingplace.com/5CuFgr41944eFDS1164yerizoorjw14302FVLKMADTZVPHONC2CNUL17281j12"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1493,
+    "html_length": 3551,
+    "has_text": true,
+    "has_html": true
+  }
+}

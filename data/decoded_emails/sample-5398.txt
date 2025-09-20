@@ -1,0 +1,74 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Policy Renewal is Required
+From: Microsoft Operation <notifications@mail-service2.rschooltoday.net>
+To: phishing@pot
+Date: Sun, 20 Apr 2025 22:19:54 +0000
+Message_Id: <20250420221954.01290ceeb5aad029@mail-service2.rschooltoday.net>
+Content_Type: multipart/alternative; boundary="===============0633947336624633679=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="===============0633947336624633679=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+Suspicious phrases: click here
+URLs found:
+  - table.info
+  - https://support.roku.com/
+  - https://loswe.co.ke/wp-admin/plugin/uEtaYd?_mac=B7CFEE4EB8CDB2ADACD5A8E4&amp;id=385659
+
+DECODED TEXT CONTENT:
+------------------------------
+This body
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style type="text/css">
+	@media only screen and (max-width:480px) {
+		table.info td {
+			display: block;
+		}
+	}
+</style>
+<table style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222;">
+	<tr>
+		<td style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+						<p style="font-size: 20px; font-family: Calibri, sans-serif, Arial; color: #707970; margin: 16px 0px;font-weight:bold;">
+				Microsoft account
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<p style="font-size: 35px; font-family: Calibri, sans-serif, Arial; color: #4182F1; margin: 0px 0px;font-weight:100">
+				Your Policy Update Required
+			</p>
+			<p style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+				Our system shows your account is still pending acceptance of the required policy update..
+			</p>
+          <p style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+				These changes are essential to maintain the security, compliance, and operational integrity of your account and the platform as a whole.
+			</p>
+			<p style="font-size: 15px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 30px 0px;">
+				<a href="https://loswe.co.ke/wp-admin/plugin/uEtaYd?_mac=B7CFEE4EB8CDB2ADACD5A8E4&amp;id=385659" role="button" style="padding: 4px 12px; background-color: #4182F1; border-radius: 2px; color:#fff; text-decoration:none;">Accept now</a>
+			</p>
+			<p style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+				To opt out or change where you receive security notifications, <a href="https://support.roku.com/">click here</a>
+			</p>
+			<p style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+				Thanks,
+			</p>
+			<p style="font-size: 16px; font-family: Calibri, sans-serif, Arial; color: #222222; margin: 16px 0px;">
+				The Operation Team
+			</p>
+		</td>
+	</tr>
+</table>

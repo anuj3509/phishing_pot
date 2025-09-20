@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "RE: YOUR URGENT PAYMENT NOTIFICATION,",
+    "from": "Chris Rhodes <rhodeschris745@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 16 Feb 2025 13:05:49 -0800",
+    "message_id": "<CAMpOLkiZGoVzFEJCrX9gifcUuDOq8f3EfN1prtcowttbHjgJ-w@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000042898d062e48c6f0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000042898d062e48c6f0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1226,
+    "html_length": 1689,
+    "has_text": true,
+    "has_html": true
+  }
+}

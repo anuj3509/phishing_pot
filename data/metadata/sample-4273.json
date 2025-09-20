@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Access Your stETH Allocation Today- Claim ID: 21951",
+    "from": "Lido Community <reklamacje@kuchniavikinga.pl>",
+    "to": "phishing@pot",
+    "date": "Sat, 09 Nov 2024 02:23:12 +0000 (UTC)",
+    "message_id": "<20241109022312.337B5F0A5F25A0E3@kuchniavikinga.pl>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lidostaker.s3.us-east-1.amazonaws.com/index.html",
+      "https://google.com/unsubscribe?email=phishing@pot",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 728,
+    "html_length": 3421,
+    "has_text": true,
+    "has_html": true
+  }
+}

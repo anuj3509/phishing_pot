@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "email list and database for sell",
+    "from": "leads email list <reply@4lead.cf>",
+    "to": "wpx@protonmail.com",
+    "date": "Sun, 23 Jul 2023 13:51:17 +0100",
+    "message_id": "<n2v5Ev6pJNmEXaucilkN3fvVeKsUGXTKAHp0y78VZLk@4lead.cf>",
+    "content_type": "multipart/mixed;boundary=---------------------adf537159698e0da3ecfdbceaf5e4889"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/mixed;boundary=---------------------adf537159698e0da3ecfdbceaf5e4889"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "https://4lead.cf/mail/index.php?manage=campaign&adata=modify&action=click&c=1&r=47147&link=https://lead10.tk/mail/index.php?manage=campaign&adata=modify&action=unsubscribe&c=1&r=47147",
+      "https://4lead.cf/mail/index.php?manage=campaign&adata=modify&action=click&c=1&r=47147&link=https://t.me/sell_email_list",
+      "t.me/usa_email",
+      "https://t.me/sell_email_list",
+      "https://4lead.cf/mail/index.php?manage=campaign&adata=modify&action=track&c=1&r=47147"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2177,
+    "html_length": 12956,
+    "has_text": true,
+    "has_html": true
+  }
+}

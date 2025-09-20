@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [My Key Supply] Login Details
+From: My Key Supply <email@mykeysupply.com>
+To: <phishing@pot>
+Date: Sun, 27 Jul 2025 21:16:39 +0000
+Message_Id: <wosnGdyhQ6Qv2OM3L8usFGgLmtz1DSgseWHVH9X5RU@mykeysupply.com>
+Content_Type: text/plain; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.xdxngr.blogspot.com
+  - https://www.mykeysupply.com/wp-login.php
+  - https://www.mykeysupply.com/wp-login.php?login=www.xdxngr.blogspot.com%20-%20BINANCE%20133%20287%20EURO&key=kE9we1Bnx9mZtJnSLUcD&action=rp
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.xdxngr.blogspot.com - BINANCE 133 287 EURO
+
+To set your password, visit the following address:
+
+https://www.mykeysupply.com/wp-login.php?login=www.xdxngr.blogspot.com%20-%20BINANCE%20133%20287%20EURO&key=kE9we1Bnx9mZtJnSLUcD&action=rp
+
+https://www.mykeysupply.com/wp-login.php
+
+
+

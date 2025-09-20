@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Sie haben (1) Paket, das zur Zustellung ansteht.verschicken!",
+    "from": "MediaMarkt 1000, MediaMarkt 1000, <newsletter@news.veepee.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Sep 2024 16:32:20 +0000",
+    "message_id": "<YUPGCGXKYKZGDQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4tEnIw35226FHtJ8kklttjgkol14302MJZLODQDQKEBSFT2FTGC6305E10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6txEKE35226UfVV8ywyfxbkhtk14302KOEQAZWIDOVUIQA2QRJN6305T10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5NaAxW35226lRIt8ecgplrhski14302FBTVPGDFOTKNWWT2AIXK6305G10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4fXjzG35226wCNu8uwnbvbzrst14302ZYRKGILRXCBBWGD2UNJB6305B10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/mm_iphone14-de.jpg",
+      "sf22.sendsfx.com/admin/temp/user/2/mm_iphone14-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1772,
+    "html_length": 9908,
+    "has_text": true,
+    "has_html": true
+  }
+}

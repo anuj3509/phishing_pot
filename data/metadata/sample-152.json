@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Bekijk deze mail alleen als je volwassen bent",
+    "from": "\"Serena\" <newsmail@appg6.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 7 Dec 2022 22:27:55 +0000",
+    "message_id": "<0.0.0.0.1D90A8B2720B6AA.2830@Ulyanovsk.net>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nospamlink.com/ebc449f0-c9ef-41fb-bc65-2183719864bc/",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "http://smarttrck.com/?a=77&amp;c=14&amp;s1=rebha5&amp;email=phishing@pot",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2358,
+    "html_length": 9439,
+    "has_text": true,
+    "has_html": true
+  }
+}

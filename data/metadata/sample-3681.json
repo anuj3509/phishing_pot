@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificaci��n de Citaci��n: Respuesta Necesaria (77541672)",
+    "from": "Marisol Lopez <ejecucionfiscal@vps-f44897b3.vps.ovh.ca>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Aug 2024 09:36:58 +0000 (UTC)",
+    "message_id": "<20240820093658.0B2BE9564E@vps-56e061e0.vps.ovh.net>",
+    "content_type": "multipart/mixed; boundary=\"5cfebc1988d1c4810124127ea17a1807\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/mixed; boundary=\"5cfebc1988d1c4810124127ea17a1807\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://121.227.205.92.host.secureserver.net/?XtUlsqyiQP=YVfPDcm9kcmlnby1mLXBAaG90bWFpbC5jb20=",
+      "https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1449,
+    "html_length": 2517,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "headers": {
+    "subject": "Easy. Secure. Built into iPhone.",
+    "from": "Apple Pay <applepay@insideapple.apple.com>",
+    "to": "wpx@protonmail.com",
+    "date": "Tue, 8 Aug 2023 15:40:56 +0000 (GMT)",
+    "message_id": "<1845150637.5878820.1691509256715@insideapple.apple.com>",
+    "content_type": "multipart/mixed;boundary=---------------------168b1d03d21a2081977b38bfd99b006e"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------168b1d03d21a2081977b38bfd99b006e"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://is2-ssl.mzstatic.com/image/thumb/k_GGiuVQF-gNUn-KQSzRKg/828x464bb-90.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/8sYzfa4gHTW8Zn4tKgXVtg/828x464bb-90.png",
+      "https://is3-ssl.mzstatic.com/image/thumb/jQ04r5AathyJLRU66p5Q6Q/1472x828bb-90.png",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNP5oRsh%2BYZ9XZR8PheSNmCuM6%2B32nx6uHCFGhwdOy%2B%2BrdPaE0Rum5tEiQ8WwlTdIAPvXaJkuH5orqsZ6P9upblUFU5AFQoVnIZDV5jCVb4cCMPC5nMHdZ1%2B2CcAA%2Bof6Bd5O4UdPhtRwFOB0QBm%2F5z4Kyto%2FQuVUY%2F8hq8cDS5zl34XHxfHEmvYh02%2BSfdOzcWuxAHW%2B7ZD%2BZGehYvmHGq4l0fRLLfezUNf2Ypm2WIWV9gD7Y1wVN1Bq8nu439adbQ",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPwzi0ftPhwNuIpq7qZQZBQLGwu09%2FlWYQ%2BNRvnhR2fYMnelhN6Uufa1UAbyAZBhyaOWC53xO%2BQh8hojuGATfAkK1GWB8AmS01pptyBrA4XyunU3ElvZR8IYcWwJAIr1ny776haenj7dE2YFtyHRw24m9j7qDKPG%2FCfcbNpTY38ZtT%2FNPithOOYQnFdBA%2FNIWYgV1tn7nldiq4VUvRTbQ3TJRMIsaFtKB2FAxW0a9nvF3y0RHsHH3G3NsGvzc4%2BdvrZz0rT%2BeQjkad%2B7sB%2FTe22Q%3D%3D",
+      "https://is4-ssl.mzstatic.com/image/thumb/kh05FZUuGn3Aycp6aoOU4w/1472x828bb-90.png",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDAvFgY8S19GphZrTGorsGo24yRCNPqgllCmap8oGYEj5Tfm63C2qQRNiQBtfh%2BTXLVYxW1P1yTxZ3wA1QNKwgDrci6s3eym6hBgdSfJPPcMTq9CM7r7%2Fr%2BvAFXFmbc7trl4yV8UwZ3dStubH%2FB1DdpjF8eT6pTUR6%2BlSbx6yVZYmyJ71VniAWnCL9bOj%2BtQ13bDePCQ1sdRlYf%2FClOL5%2BdzC9xW1fUn%2BcelAmkDHilbom2AMVHFNAQqwu5U%2BNfm3dn4xT0mrjjSx%2BVzWxG4xnWg%3D%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPqZc%2F%2BAN9gTsWGE%2FSwR8m4jb4ay3sRgrYAE6gzUh7wDPDU408CaFMTdy%2FdqqcfnG%2FHUIVI5U3FIiF0eFWNBxfPmStc%2BYCJkTJhwMyguW8ue8VeIdaxjimEcP6DIS0DLt7TaphF1CUvZTE58UBMQqzKkpNVR%2BFNxu%2F8FU03A%2Bnq2HrGbezHbhpwSiUPinxa8ZVY475Wthbem0YI2ommyBw4%2Fy6WgfK%2Bs%2FuRexE2FFA1DD8blfrOsg0Y%2B3pMnIqK%2FEioLz2fT8W57TWhPEiYdgyxA%3D%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQTL0VV0Q4xwKdhbVqwtXMDzUmKFyIo6%2BZs9zpuAjSVJ7kt2%2FgGvjOpiLupdz1efPnjuXh1Tew%2BbYEqVlNZIqVCT2Eiez43nJ4R7D%2F%2FDQsNRYoT4L3qnfX0kGerdFt%2BydkRwQGf59bDXqYs%2Bx9JZdGxo0Y%2F20Yy5JtuWDoqhdZgcSQANnoj2My8aSMVofdJDd85QgRzy5Tom3jj0qOEkUHdB58%2B1qHnEA3WCp4PwPyYZYgW2pfV1GLE0FvClKzHpTOSZh3m4X2fJROTvHwyOFptMctslPCN%2FGFdENfDea%2B%2BSQ%3D%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR4gazf%2F7FEPJJhTn4jVTm9J234dx4zEikaMOvGN6JTQQ6nFkURJh906Xax3m9596B0s2xdxpP3TNDqKfCAExrX2P8C05y8lUIvoyJWiZpJlZC6fbiLv7iaVR%2Fj%2BK6JNOex0GBa8dBk4XEcEdpDQZRoDjdqankGYu%2BRMKT6UpqYT1sULEI0FVK4opIRypDezEr9Vie6vy3fdmd4sro80gn1z2bA6tjxkEmwoIkE2pSDpK9EDgaBad21bTv3v7u9CdwzOoJVnxGVjck81EPiZuFwzm3BheggHvf%2F%2BqztR2Pu%2B0lweLXa5tZGxq3oej9Pxew%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BQTysx%2Fq0%2FtQAXeqYCnAwlwUC6HRponvFeeUqJokD8Acps0twn5th%2FurFe2r8S6l4QMuJPqgHtvNomC7%2Fmpm1%2FEByZ%2BojeLND3cCarYc39lkS%2B9AIaNUWrKQpecG7wfFSRrTU0TBqObosbwfACt0uKjzesLkYZkjhieoTI27Pxoeg%2F89ottCElLRcl0Dc8McENtjI7OaS7cry38G7KPbwcCdxt33c91rG0%2Fm0yxERCZlcPZEZyJV8xD6%2FetoGAIklvg4%2BlJmT0v7KSOPKa86Ceg%3D%3D",
+      "https://is3-ssl.mzstatic.com/image/thumb/yi2fBFBvYD4O_yxhdsFAKA/112x73bb-90.png",
+      "https://static-its-images.apple.com/images/eds/chiclets/200px/Wallet.png",
+      "https://static-its-images.apple.com/images/eds/wordmarks/white_container/2x/Pay2x.png",
+      "https://is2-ssl.mzstatic.com/image/thumb/CaAQ6H9F3qUrJ59HxcGTyg/828x464bb-90.png",
+      "https://is4-ssl.mzstatic.com/image/thumb/mRqwJXKFHQDLt0B3bmbJug/828x464bb-90.png",
+      "https://www.apple.com/uk/ios/feature-availability/",
+      "https://is2-ssl.mzstatic.com/image/thumb/5z4IS93_lPY_HmMtnG9Q1w/1472x828bb-90.png",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeT5do4iP4mdVQCQ8fmHvuP%2BruALUGAzbIr%2FDo5%2Bd%2B0Fc3RwwDWKsdXuEXLcRIIpaX6WH4W97KnnLk%2FeLCBSEgUX4RtTOvJDTvHf1Ni60tVgG8frS%2FkKUVXF%2BwLJ5nAdUUOGkMLxYKRoEnzWmNteOk5ewhYFP65fp3PZ3WPWOuihg4Fk7IRfGPsv7GvQTGWS6iXtLLSqpIXNOu1GkL8iEGAcIqrwArMRd107qZJE8d2XXfkZxmqJ1ZJznD602omwEvFt68m99E6iuCDvHnZT7649K7QJJmdP51Q9klPixHkutA%3D%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeR660vdOzKorNdeDdKnncNPFLv8vTc924DarlOb1AB9hITogAEBQXE5NAl68Uq6vUYOMP0WZRa3fDhU8N80tFk30QyQ6oliP5vWZM7aWqYV%2BMpfPcH%2Bs%2F2%2FWIyhe5ei5GyxyBJ%2FqZ%2F74vOxN8S1ikAA0S5oqWM7PlZCSspY8VZ646KBC4APGWX7T%2FqEflmPujdoWzOT9mhRX0tXOb0gyC0OeOI6jmNBadR%2BZ3wmZQu6zjx7azWOFY0ZtYka1oIIBtY0YFda3QBQlv5JTQptX6%2F09gvLfFIYgXORT52cinXDWMKauhWsttB%2Bykgq38UmqPg%3D",
+      "https://is4-ssl.mzstatic.com/image/thumb/UZOqbAUSxHTYn8UOtMj2LA/230x158bb-90.jpg",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeQaL%2FPaUN20C6PlWAijkcmAzeN6puYxdoVMn3AyXDSQXX3kpbShETswkQNg5mKyuptkFKfAXuOWtqhl%2BrFmkX8%2BPgPk55S5Sb5eb7emKuLQm%2BJK1rETF49MTBWn%2BXbhm8hVCGO%2Bptm9IN7xJ6lFXUnYTn02H5nm0RdubRb6bsj%2FQuquFKEP9Qz5n%2BLfY4eC4mGxXnsV7mNdtvrj0%2FGJcIYT7R3ad9bzvflwHFf6lVZfr%2BBiZMvtoJHIQ%2F0PrDa8uSXrsaf3e5tmaqJmzREAOYSw3rLeWOih02VyTOG8sKnOa3xEwu4gM0%2B3s8OlXBPjm%2F69x%2F0IP%2F4Oz%2Bb7uv8hHsy6",
+      "https://static-its-images.apple.com/images/icons/eds-icn-caret-right.png",
+      "https://is3-ssl.mzstatic.com/image/thumb/Features114/v4/da/ba/f6/dabaf645-339c-0d0a-4008-e3cab91d0c31/mza_10658919598781407931.png/66x66bb-90.png",
+      "https://is1-ssl.mzstatic.com/image/thumb/tgXL0RtgdSr8SwyUrz3zcA/1472x828bb-90.png",
+      "h1.appl_oversize",
+      "https://c.apple.com/r?v=2&a=8ps6Ok0qKWiF37xoxStPOmTNGs51zlivdjtcXTFjpLnVfNVUW3O2%2Fg0FsgBl8SdvTx20IK997Wb6cow2ElFVnSXa0eh3jKVBY5vns7boGnl4cbwnMM5uW0e7kxUinOF6bVOCv1SCip01GuzSlsuVT6u7kZT1H41dUrFqQ95VISJBK14DV28mnfGYJ%2FX2n9kHs7mqUlLGj5raNi09u0Co5f%2Fvs8SYOAsuntgSvvw7kNQ7OuYle1FAnmP13RepRIUDuMf4YeG2tU%2FVLu0Wa2BwbuiHpMReAj2mp%2FHDAEm4FnWBILUS39MmWL9YMOBL%2BLCa5c3CFah5OtYvhBSr48O%2F9jr8FOhsGHQNR8eBhCGTECVKQZSY1lV5NuJcpVxgFqQdMNnvJLQuCyZxe%2Fe8AFeH%2BTXe%2BbHKwUYtGYz8o6i0kDTRL%2FdXqdkSMvTUcl9v5tEYGczV%2Bfzs6aIZrJN9yTwu%2F2vSpTl3KN98NNiDDbmDEo1GFyHZDEKLn0Nw0elzcWA2eRsnNUkJQ9JjFV7PTgnLVQ%3D%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeSbYloQ1PcKNmGeB02VppAfYzYEsRJ9O4l6n516FtPegy1LlkNkhQ2Otw4m68CLM%2BlRLa1%2B03XA2CaoM81tGhixSDWCL7WVRQZc%2BNRx4RHozoK0DBSxoCmkMj1hAt8sts4Db%2BYf9v0DjLB3y3MPFHx1d7cyMKgWoC01kyvSu3MIdVeXC2updJXXo1KEL1za9oUe%2BmgqgH%2Fpux0Vx5%2Bhfggd5vtJ%2F9C6lI84aYClBd0ZMefmm%2B5u%2Bz18f%2BE3d3atXJ07oJ4AThOHQyg5ZnDZFnL%2BQVTfGE61H2Rlunk0QDbeajwiGCASK9FYoB9rb5gdlDE%3D",
+      "https://c.apple.com/r?v=2&a=LFGBuluglt%2BfjzVMkbjDFMLNeD9DPNki7J5ZDIJQZeRlvLP1tBfNF5CjxjHMntadR9u3NLvaKcA26sVYbddm3gFMqn3IjO0ejtcg9xHR1dW%2FGI1RE85YdZZvjtsXtHcb77UV%2F1DJIYC2IA0IT9yNH1LkvIclFIc673FoDkEX5fmH8exr2VGB6hNP9N%2B54J%2BwQ1QcWCd5NO1gWrF%2BxRZSAnIZkqKzgPakyUgr5CX8EElynjQnDvk8RP0O7yYDoHc3gVkKX6AyvlnG1xI%2BdMNnm9O7v%2BRAy1qMgCWshDKsi7VJE4%2Bhr%2B9sUa4mJjSW1Z7AqiNtI1iaos%2FzuCawUNUmiODRnadzLvv7HYbs8PP4tC9uVorMGnkhhi1a9DHFhYdg6ruKmAyLsWBFR3N7FGVcLVYaLg8MBcWjl9K49NyMSlE%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9333,
+    "html_length": 37019,
+    "has_text": true,
+    "has_html": true
+  }
+}

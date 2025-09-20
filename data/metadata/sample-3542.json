@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 04 Aug 2024 12:50:51 +0100",
+    "message_id": "<Y6gmsNy.0.0.Y6gmsNy.9.Y6gmsNy@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://limecastle.co.uk/ZmM4K0dKL21tZDNHWmY5OHR5dUo0akJqc3M3RzZhRExQa3FVQjNsWXExampxeEZ0ck15OUprRXpwUVo0eXFwUHNRcXpaQnFQY2pHN3FWYXJLbUVoa0E9PQ__",
+      "https://www.zupimages.net/up/24/21/df6g.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://limecastle.co.uk/MUN4REZ6M2EyeVcya2h4STZROCt0emxSd0c4ZVRyengzMUp4ck9sNGNGdEJjTzJ0TjRnU1R2WHRJcFo4UmRxVDg0ZzFldU1iRERwc1p3eHpUbnJVQUE9PQ__",
+      "https://wear-prodct.com/?a=8096&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/21/df6g.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8665,
+    "has_text": true,
+    "has_html": true
+  }
+}

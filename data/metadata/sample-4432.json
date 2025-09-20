@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "AVISO: A importacao do seu pedido esta pendente devido ao pagamento da taxa de importacao. Regularize a sua situacao. 150794069",
+    "from": "Taxa.Alfandegaria <taxalfandega@%atendimento.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 18 Nov 2024 12:11:57 +0000 (UTC)",
+    "message_id": "<20241118121157.74AD253F83@6100-patient-morning>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://hotm.art/P0UdVB1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 479,
+    "html_length": 1636,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "[Wallеt Suspеnded] You May losе all your Assets",
+    "from": "\"МеtaМask\" <post@sb1ostlandet.no>",
+    "to": "phishing@pot",
+    "date": "Fri, 28 Jul 2023 16:16:09 +0200",
+    "message_id": "<0E9E3B42EF2E4A5F98904ADBF1399C6A@sb1ostlandet.no>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----5D4142AB93EB41F783D592C83619D193\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----5D4142AB93EB41F783D592C83619D193\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://epost.sb1ostlandet.no/newsletterweb/48425F4171404A594076404359/444650447043425C457543455C4571",
+      "http://tr2.epost.sb1ostlandet.no/x1exEpKh4Q1i491fEvFn7cpmlS49vxIEE2FGNyNsbmK7S0B8zEa6knxVKAka2Xcsed6FsjeLnhv-4Kgm3i8_WKe0w/x1evzpB7DTSB9zhvM1QLpdUBvaidGjIff0rDize3P0HU0wLwa_YkQe7eXurM2agiLsQyg9EfrjLwkUZEPeEr3VHwmQfTH7OyvJFPYndcMDjgAe37Bh5DcA7U1y-sSDToKpdzWCqA_cgBZQeK8nPX-onDg/x1e4yan9PGUA3jeYe61QVSaZQ/",
+      "http://tr2.epost.sb1ostlandet.no/x1eoqXFM56tdj81GNw3yd7wwBYMJTpyJEhGpLRQGyH_N9fwRM6HNSqlq2UhhoBw-DVAdW8FhW7yqg96lq0z0J_3JA/",
+      "https://images-apac.apsis.one/ec7f34f3-ee7c-466a-ac09-1e62fc852e89.png",
+      "http://epost.sb1ostlandet.no/oa/32678100/444650447043425C457543455C4571"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 323,
+    "html_length": 5432,
+    "has_text": true,
+    "has_html": true
+  }
+}

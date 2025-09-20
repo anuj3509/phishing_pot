@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Looking for some company? ",
+    "from": "-MeetHotRussian.com  <info@livingsocial.co.uk>",
+    "to": "phishing@pot",
+    "date": "Mon, 19 Sep 2022 02:30:34 +0200",
+    "message_id": "<QSHabvuZ.zR0O.KtzRVn.QSHabvuZ@email.nexxt.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://esetupkeys.xyz/cl/11592_md/3/5010/5876/681/1190",
+      "https://i.imgur.com/5ZjxxQr.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://esetupkeys.xyz/oop/11592_md/3/5010/5876/681/1190",
+      "https://esetupkeys.xyz/op/11592_md/3/5010/5876/681/1190",
+      "i.imgur.com/5ZjxxQr.jpg",
+      "https://www.dating-express.com/unsubscribe/index.php?eIT9Ue/+DBKGLwSBNzrE/c2do3m6ymtRiu1GXvlvkLo="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8582,
+    "html_length": 11924,
+    "has_text": true,
+    "has_html": true
+  }
+}

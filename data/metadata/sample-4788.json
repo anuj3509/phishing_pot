@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Create a password for Xponential Fitness Support",
+    "from": "support@xponentialsprint.zendesk.com",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Jan 2025 03:50:55 +0000",
+    "message_id": "<6795b11f18a01_64393011139b_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_6795b11f1d550_64393011145f\";\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_6795b11f1d550_64393011145f\";\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://xponentialsprint.zendesk.com/verification/email/xzSlkVfJoqNe5OmOe7PXlI9B5nnW0zSv"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 301,
+    "html_length": 401,
+    "has_text": true,
+    "has_html": true
+  }
+}

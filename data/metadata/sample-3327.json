@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Re:Hello ?",
+    "from": "\"Stella Michael\" <m.mariucci@experiagroup.it>",
+    "to": "Recipients <m.mariucci@experiagroup.it>",
+    "date": "Sat, 08 Jun 2024 06:46:31 -0700",
+    "message_id": "<20240608134638.83FF3212749EE@zimbra8.vinf.it>",
+    "content_type": "multipart/alternative; boundary=\"===============1882880883==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1882880883==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 118,
+    "html_length": 763,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "[Spam]\n  my subject",
+    "from": "aodev@interior.gov.pk",
+    "to": "Recipients <aodev@interior.gov.pk>",
+    "date": "Fri, 04 Jul 2025 01:32:50 -0700",
+    "message_id": "<A3.FF.14430.595CB686@symantec3.comsats.net.pk>",
+    "content_type": "multipart/mixed;boundary=---------------------271c08bb0066793250fd70024eff1fb7"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------271c08bb0066793250fd70024eff1fb7"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 221,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

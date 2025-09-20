@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Your Wallet Faces Potential Losses!",
+    "from": "Trust Wallet\n\t<newsletter@return-email.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 11 May 2025 00:20:58 +0300",
+    "message_id": "<18154daa-0c07-4e86-a1b5-2d710c23fa47@CY4PEPF0000E9D2.namprd03.prod.outlook.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"Boundary_(ID_314f8e90-4969-4d2e-be7d-240dcf0e0639)\";\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"Boundary_(ID_314f8e90-4969-4d2e-be7d-240dcf0e0639)\";\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "verify",
+      "update",
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AA61A304050DC5956251036F9B15D8344251E84B18BF5E3C58FCEAB65F9813EDD75065AD3D6B95F7B3481B3A72DA82797A/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AA61A304050DC5956251036F9B15D834426106F5BF0576853D82B5958A7C1437169B71049B765B9EDD43E7650B38654A86/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AAE483D301FFC640D8888AC98BDCDB55DFF36B0F937BABAE7399471A61B78C0F0EB79BC0E94D14F09B42BEC5FFB0DB75BA/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AAC6DDD657C7F7516D6CD909168814F77918A369F85E3805E18E8EF0789D000004/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AA3B14B477A3CAF2B6C7D09A1F98F5BC21014C515639557EA0BD28032A40E099DA/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AA1F93F19510737493C932F209B2DC017AC649FB2DF6071140F39495B412579059/show.aspx",
+      "https://webversion.net/DC506AD191BF39736C4D31B2AF18D9AAA204DCA6129173F9B5F699CADA0AD9B9FBFF4134CAAAC89CF91888E22986801D/show.aspx"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 144,
+    "html_length": 4472,
+    "has_text": true,
+    "has_html": true
+  }
+}

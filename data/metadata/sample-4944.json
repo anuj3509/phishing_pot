@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "phishing@pot: Lieferung in Bearbeitung: Best��tigen Sie Ihre Versanddetails",
+    "from": "\"Zustellung des Pakets\" <Department-client-n01262@alhayatschool.mail.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 25 Feb 2025 16:45:28 +0000",
+    "message_id": "<2f37bad7-9b20-4159-aa6f-661bd67d7dec@DU6PEPF0000A7DE.eurprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "http://www.w3.org/1999/xhtml",
+      "https://urly.fi/3Ly1?MRRVHaOyaaAY2Grc1omgTlTZlrt1Rv1yPylMeXlejyyMwPskw8b0IM2jx1b2Q89VP88VNUZlJsJ3wUownkTp4y",
+      "https://i.imgur.com/yF5Giem.png",
+      "https://urly.fi/3Ly1?krLEFLB6x5qVeKQWVcn6Io6NDdKMrNmWt4JwbuqW7nRM4V6hXwSzfz78gWl6m5YJz3oE4a2AZMZBcMnv7EsTyY",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "shippingsupport.com",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://urly.fi/3Ly1?4tRjOwJJpQNxAEjgfYAmKusk1Zb2FZZHxolavQ68P7GJOPTr7U3qLZewEfFwhW2kVjIaaHRFGlN23QRzPMoxNy",
+      "i.imgur.com/yF5Giem.png",
+      "https://urly.fi/3Ly1?RhxPVTCFJjnOL4RctHTJz0aM3YF1Gw1KxciJFNgEiyoamdh3rhrdxgpRzq5xarFZaAlH5QcWp1CIw5zCZ5UIAt",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4337,
+    "html_length": 16381,
+    "has_text": true,
+    "has_html": true
+  }
+}

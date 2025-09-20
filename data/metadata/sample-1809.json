@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Ihr Gratis Lidl Gutschein, phishing@pot",
+    "from": "LidL , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 06 Nov 2023 03:34:39 +0100",
+    "message_id": "<BpXdvET.90121.308.Qas@jhnsfourhgroup.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://getlevsgt.online/ei9aSjUzdjN6d0hBRU9KcXdHQ0RaZllsSExkdkcyUTdwNzBVWmdWZUtENVJPSkZnWDNvNFMyVXB5dkJRc3UxR3d2TGlwUTJBckZUL3NxQnI5dFVoTXc9PQ__",
+      "i.imgur.com/npBIHKm.png",
+      "https://i.imgur.com/npBIHKm.png",
+      "i.imgur.com/tGmYyZi.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://getlevsgt.online/Z08ySVdDRFFoVjB4Nml6Z01jc285L0FUUHFRZU1xM2xiR1RQQXVuUTJEU0NsKyt3eExqVkZndXo2amk1OW5uMTRyUnJ0K0FiellPNjFUTDJCWG4vL29sUzNQQUdHaFNsYnVobmFNdFVyUTQ9",
+      "http://getlevsgt.online/V29nWm94YitQUGtKKzlDWGVKeC9HMUJLMmZOTzhSY2Z6L0w4WXlNMHhWNE5zcGtrdHo3cEcvTjNUOHVwYXdLN2JVTkhzVjB6WjNscGsxOXpKWDVLMlE9PQ__",
+      "http://getlevsgt.online/dzRrM1Izc1Bnb09tOGRxa0JDNXF2ZXF3K2hHb25JZ0x1bGs4RWxSZ29ZM3lYT2FzOTl4QzgzNmc1WXYyWlVEZ1l5RHp0QzFaZ013clZKamdvNXlFTGc9PQ__",
+      "https://i.imgur.com/tGmYyZi.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 600,
+    "html_length": 5481,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "RE: \"\"Someone tried to Iog in To Your Account, User lD : 3638230970\"",
+    "from": "''Meta-support'' <info@weareknitters.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Feb 2023 22:26:37 +0000",
+    "message_id": "\r\n <f02bc023-257e-4777-994c-7805963863f0@DB5EUR01FT030.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=PART_1995_123456789vms2"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=PART_1995_123456789vms2"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bit.ly/41wiPPt",
+      "gmail.com?cc=chaggori@gmail.com&amp;subject=Report"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3399,
+    "html_length": 293,
+    "has_text": true,
+    "has_html": true
+  }
+}

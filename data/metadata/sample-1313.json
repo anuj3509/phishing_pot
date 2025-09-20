@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Voyager Priority Claim Instructions",
+    "from": "Voyager Team <notice@1office.vn>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Sep 2023 23:08:42 +0000",
+    "message_id": "<0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000@eu-west-1.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_BD12FC74.9203D2F5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_BD12FC74.9203D2F5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://google.com/unsubscribe?email=phishing@pot@hotmail.com",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/87ec06b7f42042a1a932f89d037643d0/Voyager_Only_logo.png",
+      "https://google.com/privacy-policy",
+      "https://newjerseysigninstallation.com/withdraw?email=phishing@pot&amp;amount="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3,
+    "html_length": 3992,
+    "has_text": true,
+    "has_html": true
+  }
+}

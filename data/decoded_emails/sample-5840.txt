@@ -1,0 +1,111 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Security Notice – Recent Data Exposure Detected
+From: Ledger <do-not-reply@maildbx.com>
+To: phishing@pot
+Date: Wed, 27 Aug 2025 11:45:52 +0000
+Message_Id: <4238a566-b2b9-46ed-8d31-019487788dad@mtasv.net>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, verify, confirm
+URLs found:
+  - https://ea.pstmrk.it/open?m=v3_1.AM0roZN_kVUYNVIL1R_VLw.X-H2Ln_jtEMlZnFeKKDsgQlP1M3IRgpHPEbRvzICHvl8fw3WfQIeacpmqjyOA3YquRqsOV2XrGDeOvMVzTf03p2c16pxM_sfDIg3bTrhm9BZFOZzItOMBlBJB5dQtMMd7VTuYg_QUZa0vJlaVBgNXMKOZEnH4iWT3XDr8SImPdxa40_R6cpDvTui20mt217qFUB-6-F9wQxmkdUUml9BpUq54zYfw219wPS1-ydjLlZGLApQ9SQOdrkyQzX9MPTFwWgDMdLCksHy4uo1HJVyq_9hpyjTfddVemSODFoGiS_Wm31_obEqXxeNpvCXamRevVhhtLwe7V8VEL35EWSNqDhatCSI9QyD05OfJtV2-abCnLa2RbCdaBkPaGb99blZnbtOVlImvwF3MorhcuP6ZWpJgoxDygdUmb9xxN3E25FnnzyIDI6nMpdhtznGY3JadKK2O1VdqesRu32Bbtd2NnJa_dChd0SAoFWAh2gbWK6lEeIYa1W0Cr6YM5o6zmfITEG0x8gEnU8eX9VM0GSYkUuHC8m0Am1MLk6gHNmfsz4
+  - https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/QqO-AQ/AQ/4238a566-b2b9-46ed-8d31-019487788dad/1/KN_usgBAs_
+  - https://track.pstmrk.it/3s/my-recover-check.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/QqO-AQ/AQ/4238a566-b2b9-46ed-8d31-019487788dad/2/210CBR8hjY
+  - https://subscriptions.pstmrk.it/unsubscribe?m=1.14Rzdz7HR-YlsPrC_UTwZQ.SbpmMVUGj5SFUXQAQtqjDSeofnOSzR7XuEURWxA_QKY7xDUlFpmBLxRJYbPYKhbPqxmZzKVDEbu925n8FZvoPPCOduV9oqhTPwUNBO5f_12fHKrVfXJFqz381O-EkCVUyO-0PfYccbm_BmZhECs2mtPv9iIB0sPG_B-WJ_UR_8HPJrZEGpuu48RhhlhHyIWJTUtzVtj9lGfjZkYui5DCFkD34-49YB04kRkbMmypx6YwoQodpzyR0MWWveO44ewDmQjYXTNccCDEfSqRlXRPdSRwGUsSLpYpJkZCateD8vP5dRBNoIL9WuvChRFK9Tj5yvVQvHI0KnTEzaF8dnYsFUgdiVOYPlfeDB-WkjAzJfskHxbDhRZXpMpnNiiVsnH0Pq2LyAcJGVopJ2FqWbKufb4BC7VL1kspsqC63K-hfhnqlYOon1WJcTk75A0PWDN_RsYItjl_9BGgeVDXmRbiie5DeEacmzdvryGEd9qhaOYKjOcRSATKg_3YHYl96Vkp_i7pooVaQVWlcJZ5z-H5qdOP6-RPZdAxyb6yJPMOSliNlNA_cgsCukPMERqnfGgMqvNFWSZSNSNU8V0CUTK9Ng
+  - https://my-recover-check.s3.eu-north-1.amazonaws.com/logo-ldg.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Important Security Notification from Ledger Security Notice: Data and Recovery Exposure On August 16, 2025 , Ledger’s security team identified unauthorized access to part of our customer database. This incident led to the exposure of certain contact information , including: Email addresses Phone numbers And in a limited number of cases: recovery phrases While most sensitive data remains secure, the partial exposure of recovery phrases poses a significant risk. Because recovery phrases are the ultimate keys to your digital assets, Ledger has urgently deployed a Recovery Verification System to protect affected users. We strongly advise you to verify your recovery setup immediately . This process will confirm whether your phrase has been impacted and ensure that your wallet remains secure against potential misuse or targeted attacks. Verify My Recovery Phrase The verification is secure, takes less than 2 minutes, and is essential to confirm the integrity of your Ledger setup. Ignoring this step may leave your wallet exposed to threats if your recovery phrase was among those compromised. For additional information, please visit our Help Center . Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France © 2025 Ledger. All rights reserved. Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <title>Important Security Notification from Ledger</title>
+</head>
+<body style="margin: 0px; padding: 0px; font-family: Arial, sans-serif; background-color: rgb(245, 248, 251);">
+
+  <table width="100%" style="background-color: rgb(245, 248, 251);" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td align="center">
+        <table width="600" style="margin: 40px auto; border-radius: 8px; border: 1px solid rgb(229, 229, 229); border-image: none; background-color: rgb(255, 255, 255);" cellspacing="0" cellpadding="0">
+
+          <!-- Header -->
+          <tbody><tr>
+            <td style="background: rgb(255, 255, 255); padding: 25px; text-align: center;">
+              <img style="width: 130px; height: auto;" alt="Ledger Logo" src="https://my-recover-check.s3.eu-north-1.amazonaws.com/logo-ldg.png">
+            </td>
+          </tr>
+
+          <!-- Main Content -->
+          <tr>
+            <td style="padding: 35px 30px; color: rgb(51, 51, 51);">
+              <h1 style="margin: 0px 0px 25px; text-align: center; color: rgb(0, 0, 0); font-size: 22px;">Security Notice: Data and Recovery Exposure</h1>
+
+              <p style="margin: 0px 0px 20px; line-height: 1.6; font-size: 16px;">
+                On <strong>August 16, 2025</strong>, Ledger’s security team identified unauthorized access to part of our customer database. This incident led to the exposure of certain <strong>contact information</strong>, including:
+              </p>
+
+              <ul style="margin: 0px 0px 20px; color: rgb(68, 68, 68); line-height: 1.6; font-size: 15px;">
+                <li>Email addresses</li>
+                <li>Phone numbers</li>
+                <li>And in a limited number of cases: <strong>recovery phrases</strong></li>
+              </ul>
+
+              <p style="margin: 0px 0px 20px; line-height: 1.6; font-size: 16px;">
+                While most sensitive data remains secure, the partial exposure of recovery phrases poses a significant risk. Because recovery phrases are the ultimate keys to your digital assets, Ledger has urgently deployed a <strong>Recovery Verification System</strong> to protect affected users.
+              </p>
+
+              <p style="margin: 0px 0px 20px; line-height: 1.6; font-size: 16px;">
+                We strongly advise you to <strong>verify your recovery setup immediately</strong>. This process will confirm whether your phrase has been impacted and ensure that your wallet remains secure against potential misuse or targeted attacks.
+              </p>
+
+              <!-- CTA -->
+              <div style="margin: 35px 0px; text-align: center;">
+                <a style="background: rgb(0, 0, 0); padding: 16px 34px; border-radius: 6px; color: rgb(255, 255, 255); font-size: 17px; font-weight: bold; text-decoration: none; display: inline-block;" href="https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/QqO-AQ/AQ/4238a566-b2b9-46ed-8d31-019487788dad/1/KN_usgBAs_">
+                  Verify My Recovery Phrase
+                </a>
+              </div>
+
+              <p style="text-align: center; color: rgb(102, 102, 102); line-height: 1.6; font-size: 14px;">
+                The verification is secure, takes less than 2 minutes, and is essential to confirm the integrity of your Ledger setup. Ignoring this step may leave your wallet exposed to threats if your recovery phrase was among those compromised.
+              </p>
+
+              <p style="text-align: center; color: rgb(85, 85, 85); line-height: 1.6; font-size: 14px; margin-top: 30px;">
+                For additional information, please visit our <a style="color: rgb(0, 0, 0); text-decoration: none;" href="https://track.pstmrk.it/3s/my-recover-check.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/QqO-AQ/AQ/4238a566-b2b9-46ed-8d31-019487788dad/2/210CBR8hjY">Help Center</a>.
+              </p>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="padding: 20px; text-align: center; color: rgb(136, 136, 136); font-size: 12px; background-color: rgb(241, 241, 241);">
+              Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France<br>
+              © 2025 Ledger. All rights reserved.<br>
+              <a style="color: rgb(136, 136, 136); text-decoration: none;" href="https://subscriptions.pstmrk.it/unsubscribe?m=1.14Rzdz7HR-YlsPrC_UTwZQ.SbpmMVUGj5SFUXQAQtqjDSeofnOSzR7XuEURWxA_QKY7xDUlFpmBLxRJYbPYKhbPqxmZzKVDEbu925n8FZvoPPCOduV9oqhTPwUNBO5f_12fHKrVfXJFqz381O-EkCVUyO-0PfYccbm_BmZhECs2mtPv9iIB0sPG_B-WJ_UR_8HPJrZEGpuu48RhhlhHyIWJTUtzVtj9lGfjZkYui5DCFkD34-49YB04kRkbMmypx6YwoQodpzyR0MWWveO44ewDmQjYXTNccCDEfSqRlXRPdSRwGUsSLpYpJkZCateD8vP5dRBNoIL9WuvChRFK9Tj5yvVQvHI0KnTEzaF8dnYsFUgdiVOYPlfeDB-WkjAzJfskHxbDhRZXpMpnNiiVsnH0Pq2LyAcJGVopJ2FqWbKufb4BC7VL1kspsqC63K-hfhnqlYOon1WJcTk75A0PWDN_RsYItjl_9BGgeVDXmRbiie5DeEacmzdvryGEd9qhaOYKjOcRSATKg_3YHYl96Vkp_i7pooVaQVWlcJZ5z-H5qdOP6-RPZdAxyb6yJPMOSliNlNA_cgsCukPMERqnfGgMqvNFWSZSNSNU8V0CUTK9Ng">Unsubscribe</a>
+            </td>
+          </tr>
+
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+
+
+
+<img src="https://ea.pstmrk.it/open?m=v3_1.AM0roZN_kVUYNVIL1R_VLw.X-H2Ln_jtEMlZnFeKKDsgQlP1M3IRgpHPEbRvzICHvl8fw3WfQIeacpmqjyOA3YquRqsOV2XrGDeOvMVzTf03p2c16pxM_sfDIg3bTrhm9BZFOZzItOMBlBJB5dQtMMd7VTuYg_QUZa0vJlaVBgNXMKOZEnH4iWT3XDr8SImPdxa40_R6cpDvTui20mt217qFUB-6-F9wQxmkdUUml9BpUq54zYfw219wPS1-ydjLlZGLApQ9SQOdrkyQzX9MPTFwWgDMdLCksHy4uo1HJVyq_9hpyjTfddVemSODFoGiS_Wm31_obEqXxeNpvCXamRevVhhtLwe7V8VEL35EWSNqDhatCSI9QyD05OfJtV2-abCnLa2RbCdaBkPaGb99blZnbtOVlImvwF3MorhcuP6ZWpJgoxDygdUmb9xxN3E25FnnzyIDI6nMpdhtznGY3JadKK2O1VdqesRu32Bbtd2NnJa_dChd0SAoFWAh2gbWK6lEeIYa1W0Cr6YM5o6zmfITEG0x8gEnU8eX9VM0GSYkUuHC8m0Am1MLk6gHNmfsz4" width="1" height="1" border="0" alt=""></body></html>
+

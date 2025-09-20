@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Darty �� l'occasion du Black Friday.",
+    "from": "Message de Darty, <webmestre@ccmp.daf-mag.fr.>, Message de Darty,\r\n\t<webmestre@ccmp.daf-mag.fr>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 09:56:41 +0100",
+    "message_id": "<rPL0PBY.0.0.rPL0PBY.9.rPL0PBY@ccmp.daf-mag.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://stabrino.info/oop/5389_md/1995/978/2032/222/428764",
+      "https://imgur.com/P34S1rz.png",
+      "http://stabrino.info/cl/5389_md/1995/978/2032/222/428764",
+      "imgur.com/Wn89n4z.png",
+      "https://imgur.com/Wn89n4z.png",
+      "bgasdfasdfa.jpg",
+      "http://stabrino.info/op/5389_md/1995/978/2032/222/428764",
+      "imgur.com/P34S1rz.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5121,
+    "html_length": 11868,
+    "has_text": true,
+    "has_html": true
+  }
+}

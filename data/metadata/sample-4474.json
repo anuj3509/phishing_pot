@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Hi Dear phishing@pot , We have been trying many times to reach you - Please respond!  ",
+    "from": "\"State Farm\"<admin@vans-schuhe.com.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Nov 2024 20:14:35 +0000",
+    "message_id": "<wrbpfmbunbwwkdD_4oh997864676468627790417514844080444115688067640602759070413000995784390465217058959199192350898055665680774114728365067121271865589850323733268162619799651246290111774649944926019562.1.NJLQZQ6AIQUXVORN7YYS72phnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://storage.googleapis.com/communicationio/url.education.html",
+      "http://0x33c3770d/4ZqjXa6136vwJm247bveokbnvmt143AMOJEJDOMEHNALV62UIST218N17",
+      "i.imgur.com/kzNXEaa.png",
+      "i.imgur.com/ehu97qr.png",
+      "http://0x33c3770d/4Pjbta6136Bezt247yxbbjkvugy143ZHJZNCQOVAYJOTU62CMJR218G17",
+      "http://0x33c3770d/4mwtyH6136FmFc247icfayuqxjo143KJFAIHNENOMGITT62OXFX218T17",
+      "https://i.imgur.com/kzNXEaa.png",
+      "https://i.imgur.com/ehu97qr.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 91,
+    "html_length": 1673,
+    "has_text": true,
+    "has_html": true
+  }
+}

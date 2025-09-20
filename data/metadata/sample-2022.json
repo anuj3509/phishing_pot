@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "RE: It's Annual Rewards Day !",
+    "from": "Cointracker <cointracker@email.salonized.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 25 Nov 2023 04:47:38 +0000",
+    "message_id": "<20231125044738.58f2e786252f95c4@email.salonized.com>",
+    "content_type": "multipart/mixed;\r\n boundary=\"f999e3a34a617026619944e3234c6b34e8256b4271157c38d34994a6fb74\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"f999e3a34a617026619944e3234c6b34e8256b4271157c38d34994a6fb74\""
+  },
+  "attachments": [
+    {
+      "filename": "Appointment.ics",
+      "content_type": "text/calendar",
+      "size": 679
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u30897028.ct.sendgrid.net/ls/click?upn=5e8pkuLLOVey2yXMU-2FBnBrQ7aM8Wld7FYjKBScoJhUT3-2B-2B4e5yDN0nh95XNj1nsC9TPf_YdCLMySP4kmMY-2Ba7kRYiTn4CQgtPhHTpTnhgUidRkj4RBPyVMV-2FwHyoBcYrClD82SthyDW5W8xTuZCigwW7iziC-2FP7-2FVxcvh8Z8z6yJn0gJAzdIOx-2BXUSjgWOqb-2Fl9jBBu-2BOq5hWjLe6TB3zaaetV8vRr-2BKdpVf2GDIpsfyII-2B9EBZgQfX6Jb-2B7om8Jxlxd2Uq26XDuONmpLgwyUK1d-2FTQ-3D-3D",
+      "https://login.cointracker.io/u/email-verification?ticket=p07AtjtjSXL8TGEl9uxBGFmMkSWxXYkh#",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fsecure.tutorcruncher.com%2Fstatic%2Femail-resources%2Ffooter.b5a1c7a3e80c.png&amp;t=1700873065&amp;ymreqid=d41d8cd9-8f00-b204-1cff-ed006a01d700&amp;sig=f3ZXbbcnRFSzYny8i.vaCQ--~D",
+      "https://secure.tutorcruncher.com/",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2Ftutorcruncher-public.s3.amazonaws.com%2Fcointracker%2Flogos%2Fpage_logo_231124215227.jpg.240x240_q95.jpg&amp;t=1700873065&amp;ymreqid=d41d8cd9-8f00-b204-1cff-ed006a01d700&amp;sig=ejH46OOItf3bi1_Lv2Sg0w--~D",
+      "http://tutorcruncher.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60,
+    "html_length": 5508,
+    "has_text": true,
+    "has_html": true
+  }
+}

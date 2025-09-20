@@ -1,0 +1,62 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Latest User Agreement. Tuesday, July 4, 2023
+From: Microsoft Privacy <noreply@argus-mail.de>
+To: phishing@pot
+Date: Tue, 04 Jul 2023 20:17:54 +0000
+Message_Id: <24421fd5-a058-360f-9514-dccf711ec41e@argus-mail.de>
+Content_Type: multipart/alternative;
+ boundary="--_NmP-778d4f7a53f98e04-Part_1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="--_NmP-778d4f7a53f98e04-Part_1"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://www.bing.com/ck/a?!&&p=244ed82c953082a2JmltdHM9MTY4ODI1NjAwMCZpZ3VpZD0zNDUzZTllNC0zZjE5LTZkNjUtMDEwZC1mYWRhM2U0ZjZjZGYmaW5zaWQ9NTI1NA&ptn=3&hsh=3&fclid=3453e9e4-3f19-6d65-010d-fada3e4f6cdf&u=a1aHR0cHM6Ly9zb3ZhbGNvbnN1bHRvcmVzLmNsL2F2YW56YXItaGFjaWEtdW5hLWVkdWNhY2lvbi1kZS1jYWxpZGFkLw&ntb=BD2AhlNdUIp50RtsW4fd
+  - schema.org/ViewAction
+  - http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png
+  - hotmail.com
+  - schema.org/EmailMessage
+  - https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0
+
+DECODED TEXT CONTENT:
+------------------------------
+ini versi text nya
+
+DECODED HTML CONTENT:
+------------------------------
+<div dir="ltr">
+<div style="background-color:white;margin:0;padding:0;"><table style="min-width:348px;" width="100%" lang="en" height="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr style="height:32px;">
+<td></td></tr>
+<tr align="center">
+<td>
+<div itemscope="" itemtype="//schema.org/EmailMessage">
+<div itemscope="" itemprop="action" itemtype="//schema.org/ViewAction"><link href="https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0" itemprop="url"><meta itemprop="name" content="Review Activity"></div></div><table style="max-width:516px;padding-bottom:20px;min-width:220px;" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td style="width:8px;"></td>
+<td>
+<div style="border-radius:8px;padding:40px 20px;border:2px solid #DADCE0;" align="center"><img data-imagetype="External" src="http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png" alt="" aria-hidden="true" style="margin-bottom:16px;" width="120" height="28"> 
+<div style="color: black; font-family: Google Sans, Roboto, RobotoDraft, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-bottom: 24px; border-bottom: 2px solid rgb(218, 220, 224); word-break: break-word; line-height: 32px;">
+<div style="font-size:24px;">Microsoft Latest User Agreement </div><table style="margin-top:8px;" align="center">
+<tbody><tr style="line-height:normal;">
+<td><a style="color:black;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;line-height:20px;">phishing@pot@hotmail.com</a></td></tr></tbody></table></div>
+<div style="color: black; font-size: 14px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-top: 20px; line-height: 20px;">On Tuesday, July 4, 2023. We updated our Terms of Service to help make it clearer and easier for you to understand what to expect when you use the service. <br><br>At your earliest convenience, please update the latest User Agreement. You'll need to update the new terms to continue using our services.
+<div style="text-align:center;padding-top:32px;"><a href="https://www.bing.com/ck/a?!&&p=244ed82c953082a2JmltdHM9MTY4ODI1NjAwMCZpZ3VpZD0zNDUzZTllNC0zZjE5LTZkNjUtMDEwZC1mYWRhM2U0ZjZjZGYmaW5zaWQ9NTI1NA&ptn=3&hsh=3&fclid=3453e9e4-3f19-6d65-010d-fada3e4f6cdf&u=a1aHR0cHM6Ly9zb3ZhbGNvbnN1bHRvcmVzLmNsL2F2YW56YXItaGFjaWEtdW5hLWVkdWNhY2lvbi1kZS1jYWxpZGFkLw&ntb=BD2AhlNdUIp50RtsW4fd" target="_blank" rel="noopener noreferrer" data-auth="VerificationFailed" originalsrc="https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0" shash="l8SDt4kB+9uh6kp6qrq4yTqr0WXqIkXvw5iiWas+UskpkC3XR9NbmbEJGuykcNSNMww/i+/lEmmhK0dhcUJR8L0YsziNU8VAtWh73yOI8S/3TxDGk0uCaZxUyZSAQqxl1H9bovTHFHV85fNI49QHHN0wf4Csckla1yFudd4eZT8=" style="color:white;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:400;background-color:#4184F3;display:inline-block;text-decoration:none;border-radius:5px;padding:10px 24px;min-width:90px;line-height:16px;" title="" data-linkindex="1">Update terms</a></div></div></div>
+<div style="text-align:left;">
+<div style="color: rgba(0, 0, 0, 0.57); font-size: 11px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-top: 12px; line-height: 18px;">
+<div>You are receiving this email because you have a latest Microsoft user agreement. </div>
+<div style="direction:ltr;">Microsoft Corporation, One Microsoft Way, Redmond, WA 98052 USA.</div></div></div></td>
+<td style="width:8px;"></td></tr></tbody></table></td></tr>
+<tr style="height:32px;">
+<td></td></tr></tbody></table></div></div>

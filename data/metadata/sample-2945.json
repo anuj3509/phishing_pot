@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Please update your payment details",
+    "from": "Netflix <Galloway_James_13784@lucy.westbaymusic.org >",
+    "to": "phishing@pot",
+    "date": "Fri, 23 Feb 2024 03:11:59 +0000",
+    "message_id": "<ijeisTWKn8.3vbs4JSLy1Vi7F.c4o9fvVT5Cj2Wr0Qv.ijeisTWKn8.GSeGnRhEb@c4o9fvVT5Cj2Wr0Qv.Dgy.mail.kfc.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://203.161.53.177/track/3TkMSp852CBVe6mmtjlyjzhy187CHOKYKAOQGTJEZA371842VRUN582044I11",
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#4FgbQz852ShUI6rsyxpfyajf187BHTEVULHHFUPNNS371842XQGC582044w11",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#5WVZAE852RFEL6nhuxbnsiru187ZDPDENQSQRXYFTA371842TEFE582044Q11",
+      "https://storage.googleapis.com/educatione/washingtonpost.com%20(2).html#4jaOWm852pTAU6xahscigntp187MBJJYKLHUYXGTOF371842BQUC582044F11"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 513,
+    "html_length": 3790,
+    "has_text": true,
+    "has_html": true
+  }
+}

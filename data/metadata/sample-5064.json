@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 23005277.",
+    "from": "Correios <rastreamento835594@correios>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 10 Mar 2025 19:16:56 +0000",
+    "message_id": "<88f271afefdc657df251c998d4a2d068@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_88f271afefdc657df251c998d4a2d068\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_88f271afefdc657df251c998d4a2d068\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function1-693052856049.us-central1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2586,
+    "has_text": true,
+    "has_html": true
+  }
+}

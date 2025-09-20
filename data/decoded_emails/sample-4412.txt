@@ -1,0 +1,214 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Suspensao da sua CNH em andamento, acesse agora e evite bloqueio. 5597754245
+From: NOTIFICACAO EXTRAJUDICIAL <detran@%avisos.com>
+To: phishing@pot
+Date: Sat, 23 Nov 2024 07:00:29 +0000 (UTC)
+Message_Id: <20241123070029.963525BBAB@6141-autumn-star>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://hotm.art/Sv07bE/
+  - Gov.br
+  - https://www.google.com.br
+
+DECODED TEXT CONTENT:
+------------------------------
+Notificação de Suspensão - CNH body { font-family: Arial, Helvetica, sans-serif; background-color: #f2f2f2; margin: 0; padding: 0; color: #343a40; line-height: 1.6; } .container { max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); overflow: hidden; } .header { background-color: #0056b3; /* Azul forte */ color: white; text-align: center; padding: 20px; } .header h1 { margin: 0; font-size: 24px; } .content { padding: 20px; } .content h2 { color: #dc3545; /* Vermelho */ margin-bottom: 15px; } .content p { margin: 10px 0; } .button-container { text-align: center; /* Centraliza o botão */ margin-top: 20px; /* Espaçamento superior */ } .link { padding: 12px 20px; background-color: #28a745; /* Verde */ color: white; text-decoration: none; border-radius: 5px; font-weight: bold; /* Negrito */ transition: background-color 0.3s; /* Efeito de transição */ } .link:hover { background-color: #218838; /* Verde escuro ao passar o mouse */ } .footer { background-color: #0056b3; /* Azul forte */ color: white; text-align: center; padding: 10px; } .footer p { margin: 5px 0; font-size: 12px; } Alerta de Suspensão de CNH Detran - Gov.br ⚠️ Por questões de segurança, confirme as informações abaixo: CNH: EM PROCESSO DE SUSPENSÃO ATENÇÃO: Infração de trânsito cometida e não contestada a tempo no valor de R$119,35 em seu CPF. Data da infração: 14/05/2024 Situação: VENCIDA 🔔 Regularize agora para evitar a suspensão da sua CNH! 🔔 REGULARIZAR Detran - Gov.br
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Notificação de Suspensão - CNH</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, Helvetica, sans-serif;
+
+            background-color: #f2f2f2;
+
+            margin: 0;
+
+            padding: 0;
+
+            color: #343a40;
+
+            line-height: 1.6;
+
+        }
+
+        .container {
+
+            max-width: 600px;
+
+            margin: 20px auto;
+
+            background: #ffffff;
+
+            border-radius: 10px;
+
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+
+            overflow: hidden;
+
+        }
+
+        .header {
+
+            background-color: #0056b3; /* Azul forte */
+
+            color: white;
+
+            text-align: center;
+
+            padding: 20px;
+
+        }
+
+        .header h1 {
+
+            margin: 0;
+
+            font-size: 24px;
+
+        }
+
+        .content {
+
+            padding: 20px;
+
+        }
+
+        .content h2 {
+
+            color: #dc3545; /* Vermelho */
+
+            margin-bottom: 15px;
+
+        }
+
+        .content p {
+
+            margin: 10px 0;
+
+        }
+
+        .button-container {
+
+            text-align: center; /* Centraliza o botão */
+
+            margin-top: 20px; /* Espaçamento superior */
+
+        }
+
+        .link {
+
+            padding: 12px 20px;
+
+            background-color: #28a745; /* Verde */
+
+            color: white;
+
+            text-decoration: none;
+
+            border-radius: 5px;
+
+            font-weight: bold; /* Negrito */
+
+            transition: background-color 0.3s; /* Efeito de transição */
+
+        }
+
+        .link:hover {
+
+            background-color: #218838; /* Verde escuro ao passar o mouse */
+
+        }
+
+        .footer {
+
+            background-color: #0056b3; /* Azul forte */
+
+            color: white;
+
+            text-align: center;
+
+            padding: 10px;
+
+        }
+
+        .footer p {
+
+            margin: 5px 0;
+
+            font-size: 12px;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="header">
+
+            <h1>Alerta de Suspensão de CNH</h1>
+
+            <p>Detran - Gov.br</p>
+
+        </div>
+
+        <div class="content">
+
+            <h2>⚠️ Por questões de segurança, confirme as informações abaixo:</h2>
+
+            <p><strong>CNH:</strong> <strong>EM PROCESSO DE SUSPENSÃO</strong></p>
+
+            <p><strong>ATENÇÃO:</strong> Infração de trânsito cometida e não contestada a tempo no valor de <strong>R$119,35</strong> em seu CPF.</p>
+
+            <p><strong>Data da infração:</strong> <strong>14/05/2024</strong></p>
+
+            <p><strong>Situação:</strong> <strong>VENCIDA</strong></p>
+
+            <p>🔔 <strong>Regularize agora para evitar a suspensão da sua CNH!</strong> 🔔 </p>
+
+            <div class="button-container">
+
+                <a href="https://hotm.art/Sv07bE/" class="link">REGULARIZAR</a> <!-- Exemplo: https://www.google.com.br -->
+
+            </div>
+
+        </div>
+
+        <div class="footer">
+
+            <p>Detran - Gov.br</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>

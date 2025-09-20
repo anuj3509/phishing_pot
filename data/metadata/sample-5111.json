@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot  , Ihr Tupperware Super Dicer wird vorbereitet",
+    "from": "\"Penny dankt Ihnen!\" <Department-client-n47941@organizationmv.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 17 Mar 2025 18:13:23 +0000",
+    "message_id": "<3aed0657-1405-40ca-8e07-995198bbc782@MA1PEPF00007264.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://did.li/HYYTY?phtISW7ik1rXbsSG2TDarHR3i5GMmfA72uU4NAkMCn1DlP1dVppxpvi4ivQRF237WL17QQJqgyCPBiwQOUWYdt?2wmKmqqZ70yl9SLb4PKzDiJzvRt331j3WLnEoZHyYTWkm5tGWytPrLdfmgIWSxP1NKUijeL0VbIM7oZuCVdpq7",
+      "www.zupimages.net//up/25/12/x6c4.png",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/25/12/szwv.png",
+      "https://did.li/HYYTY?YKvFjh38xtI0OaaPzwtn4DMWxBPqVAYRc9jOKQBao5mqBFDhH9LYRge6G3UVC6oInsGkIQf5phYSws1PH29z05?wiQwNhxyOXX2f1xvq8R3mbqKC3ZfgnNb1i34hdVloFFxcs9SrgJAJ17voXeDpWyTnQRaP8dl2EoxUJgG4IwSTq",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "hotmail.com,",
+      "https://did.li/HYYTY?linYnxG41s6I8H4taOgHcfFIw3zi0IDPTwfyoJqOJnyrgPRxbq8ECuuwTcyhwbhd7r19Er8V5a6LsnijYcxy9G?yGU4pEm4rAhKUZQRnfvz8qpqRN6l4nun0MJeCHnNDB8pluGTQkgbL8CeBq5h5gRlpljSliKfm4ylwla6IJLEaW",
+      "https://privacy.microsoft.com/en-GB/privacystatement",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 131841,
+    "html_length": 146072,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "\\_INFORME-BB_/:Caro Cliente, você possui (_PONTOS_LIVELO_) vinculados em seu cartão prestes a expirar.* - ID KJW5GWJGNM",
+    "from": "\"\\\\|BANCO*DO*BRASIL|/\" <b077195@bbatendimento.lb>",
+    "to": "phishing@pot",
+    "date": "Tue, 8 Aug 2023 04:50:35 +0000",
+    "message_id": "<ec2cd3a6fe59be435c7d905d6da6b871@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ec2cd3a6fe59be435c7d905d6da6b871\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ec2cd3a6fe59be435c7d905d6da6b871\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mykisel.com/assets/js/pages/jss/",
+      "https://i.imgur.com/jAW6J2f.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2176,
+    "has_text": true,
+    "has_html": true
+  }
+}

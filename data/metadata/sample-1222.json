@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "USDT Withdrawal Request Received",
+    "from": "Coinbase <sqortas@piscolart.anerysinteriors.com.au>",
+    "to": "phishing@sky.com, phishing@telenet.be, phishing@interject.io,\r\n  phishing@stayexpress.com, phishing@cellphonemayorista.com,\r\n  phishing@protonmail.com, phishing@moving-frame.com, phishing@skiff.town,\r\n  phishing@zinnlegal.com,\r\n  virtualcurrency-gemini-confirmation@madicetea.me",
+    "date": "Sat, 5 Aug 2023 05:00:14 +0000",
+    "message_id": "<01000189c4114ae8-b3f288ca-890e-40cb-adec-96027de6befd-000000@email.amazonses.com>",
+    "content_type": "multipart/mixed;boundary=---------------------e1b62f7dd93f080b032d44c47342b30d"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------e1b62f7dd93f080b032d44c47342b30d"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://bevakasha.org/",
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/3aca56371967418192255878e9689713/coinbase_logo.png",
+      "http://www.w3.org/1999/xhtml",
+      "button.es-button",
+      "a.es-button,",
+      "tr.es-desk-hidden,",
+      "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&amp;display=swap",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://cloud-api.schail.com/static/email/split-line.jpg);background-color:#f7f7f7;background-repeat:repeat-x;background-position:bottom",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5817,
+    "html_length": 10350,
+    "has_text": true,
+    "has_html": true
+  }
+}

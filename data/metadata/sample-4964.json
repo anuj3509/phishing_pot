@@ -1,0 +1,62 @@
+{
+  "headers": {
+    "subject": "Pontos Livelo viram viagens, serviços e mais!​",
+    "from": "\"Livelo\" <livelo@mail.pontolivelo.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 20 Feb 2025 15:12:14 -0600",
+    "message_id": "<051e87f9-1df5-4c0a-bc88-8dd4a7aad58b@iad4s12mta302.xt.local>",
+    "content_type": "multipart/alternative;\n\tboundary=\"a11yAGZwMtqh=_?:\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"a11yAGZwMtqh=_?:\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://click.mail.pontolivelo.com.br/profile_center.aspx?qs=68be2cc9a1fdcf95293e757eebf39e097e5ecd6be42a8bac6045f75f2ea00547fef922fdf6a06638c32f96d98d92f7b034937dc7e894aa7c3465d0f52486c732",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/200225_autenticacao_c02.jpg",
+      "https://view.mail.pontolivelo.com.br/?qs=74d6c55d6f57c9883d56c51e3fb3e7623b6d9ca0603f7f3da119faa21a3c3a5fb62c733fa2ebf4b793da636649951e6faa517b89043e1897f81773f5f7f35311fccc1d6bf0e4d13d5a92a3d853b40368",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d934573e758a81b642a9ed66581dbc36995495723cd7e38982e47586908b5ac6262512da06bf06b14c7815ceac11ef690878f7d58de961908",
+      "https://click.mail.pontolivelo.com.br/profile_center.aspx?qs=68be2cc9a1fdcf95293e757eebf39e097e5ecd6be42a8bac6045f75f2ea00547fef922fdf6a06638c32f96d98d92f7b073e72c836c6569fcb7b66601abacbde2",
+      "https://click.mail.pontolivelo.com.br/subscription_center.aspx?qs=68be2cc9a1fdcf957c442df0377f74a39e9a1ce574dfe86b93421c28fcf2214d3f2b681f1786e70af6c8edbda68a037521c45b23636fb66e3cb31f078271b9ac",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d7eecb89db5625e5bd9760d5a320f316810c0c2023bf61cac2145b1b5cada926ec2e9d0e43fd22f7205d933ceb9c937bec8238cba2f26f6dd",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d3b53ae439337813f44e8e5444487b77abddd3d93ea022af4e93048af865c19b4334bf2f7e046f4fc3fb843c713361598c34b9ceb215a839c",
+      "http://www.w3.org/TR/html4/loose.dtd",
+      "https://click.mail.pontolivelo.com.br/subscription_center.aspx?qs=68be2cc9a1fdcf957c442df0377f74a39e9a1ce574dfe86b93421c28fcf2214d3f2b681f1786e70af6c8edbda68a03753c367f0fa9d71143c743835ef95313a8",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681db245752b2d59862f5a8be41043e14c124c32b4b55dd9712ba4537aad4c06ecc3fbf18e842d6e249590b6a3f892ca4d5b3d215ff945c59d70",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681dda493013fc3051ce39967d5592f59871b7e10c5266ab0404525588a3ac23ec70a1e5cbd9e39b3838c32b72c8cd96f1e5210f31882ea49601",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d5ba7e0e67e92e295ef967fda8875e79b52994c7c4df05e5f3abcadee0b3ce9420928801c443895c7dcfbcd6abf4b5c7b51258a2ce3362c7e",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/200225_autenticacao_c01.jpg",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d63fed91a91529ea6f70faba9dcac8139e2ad03536a9c6085d690e61e5e8546003601b2cfadd23e1850fe2e50ad288af50dd9ebfe5f26229b",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/200225_autenticacao_b02.gif",
+      "https://click.mail.pontolivelo.com.br/unsub_center.aspx?qs=68be2cc9a1fdcf957c442df0377f74a39e9a1ce574dfe86b93421c28fcf2214da96e9c9a3d283d66adeb121c23950bde162fcaa4180504cb653a0d81eb7ac176eb1b5b1a3a4b1aeb",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/logo_livelo_pink.png",
+      "https://click.mail.pontolivelo.com.br/unsub_center.aspx?qs=68be2cc9a1fdcf957c442df0377f74a39e9a1ce574dfe86b93421c28fcf2214da96e9c9a3d283d66adeb121c23950bde162fcaa4180504cb59c05654794975e556c498ecd334e1ab",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681dc3e24321c53fc9441c8a9ad7ea812633c1534d563cbc54d030c21fae461001c779c9a1a1063427c79607327e2395debde40aa4c0ed2b4c43",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d4dc221700409c35c0cb93f8dd4ff2fa03bfbe82b853300d1c6b83d13b617cdef2028c94b37ac274da54554b8531314827cf77f2a43d8d34e",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681daaa3761b5fe7ee6a230c547bde3265cbf8519fa218f3c6bd373acc6e4d2ebfdd75bf48b20150346a1c5c00d485e9c1cd8cb61820401dcf0f",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681da85ae5f4a30122761385aafb00c05130b379fad6434895b0d26b4a9a856a1242e598f24f959bc8f599de34fc03a87166419d9aed5e8074e4",
+      "https://click.mail.pontolivelo.com.br/open.aspx?ffcb10-fef71179756307-fe2415717367027c7c1c78-fe3811737164047d751374-ffc912-fe2f16727465067a7d1677-ff2716767c63&amp;d=120025&amp;bmt=0",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/footer_seguranca_2024.png",
+      "http://www.image-map.net/",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681df0f33430a2d63111494eb6a83064e64980fe27b54be9ac6dcc6630e6b238da33e46304ba7e90df09c3dfde50c3b1dac9727553be5b6fe9be",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/footer_fale_branco.png",
+      "div.preheader",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d6a65258833ea302d7e1d3224e4d07109b9fcffc8f1eac0e7e0f57e7e573be10f8b694c03a8d8dd44ace300b445ce560903946c6e7526af05",
+      "https://click.mail.pontolivelo.com.br/?qs=a85521c2a15b681d840c79fe08748f3f7dfad3b1acbd17f6e39631895c54ef490592afe753d2050d2d21a8d124a21c7bd1a008350b2f41e508be5484c9b1065a",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Ubuntu:wght@400;700&display=swap",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/footer_pink_2024.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2189,
+    "html_length": 23741,
+    "has_text": true,
+    "has_html": true
+  }
+}

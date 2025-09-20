@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Receive your Stealth Airdrop now, ending soon!",
+    "from": "Web3 Gifts <live.unic.ac.cy@epsi-usa.net>",
+    "to": "phishing@pot",
+    "date": "Thu, 30 Nov 2023 17:40:31 +0000",
+    "message_id": "<0102018c215165e2-b1f9dff0-4c03-47a3-adba-188d8ebacf23-000000@eu-west-1.amazonses.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://dataviarp.com.br/mde/upload.php",
+      "https://i.ibb.co/r5gMmcV/gi.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 507,
+    "html_length": 11521,
+    "has_text": true,
+    "has_html": true
+  }
+}

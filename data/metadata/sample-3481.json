@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Online",
+    "from": "SSA <info@mindzer.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 20 Jul 2024 23:27:22 +0000",
+    "message_id": "<01020190d278acbe-dbadcc52-2db9-4cbf-b860-d1ae0419e4c4-000000@eu-west-1.amazonses.com>",
+    "content_type": "multipart/mixed; boundary=\"===============0200367730850754863==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============0200367730850754863==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ap.lc/mwkEz"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1242,
+    "html_length": 5184,
+    "has_text": true,
+    "has_html": true
+  }
+}

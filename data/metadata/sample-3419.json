@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Promo Code#6748 +$1,000.",
+    "from": "Typeform Notifications <notifications@typeform.com>",
+    "to": "jessicagorton87@gmail.com, johncesc123@gmail.com, phishing@pot, spartang01@gmail.com, jake871@gmail.com",
+    "date": "Fri, 05 Jul 2024 11:51:50 +0000",
+    "message_id": "<20240705115150.c688daa39555695a@typeform.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.typeform.com/help/report-abuse/",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=dropsys.com.br/autentica/go/login.php?click=mix",
+      "https://admin.typeform.com/form/O2S3ED7l/create?notification-settings=show"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 885,
+    "html_length": 1457,
+    "has_text": true,
+    "has_html": true
+  }
+}

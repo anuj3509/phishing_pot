@@ -1,0 +1,57 @@
+{
+  "headers": {
+    "subject": "Meine neuesten Bilder - Willst du sehen?",
+    "from": "Allein zuhause, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Oct 2023 17:21:39 +0200",
+    "message_id": "\r\n <5413653c-8a0f-48ba-a85c-a544bcd5a39a@DB8EUR05FT042.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "td.es-desk-menu-hidden",
+      "button.es-button",
+      "www.oncf2255.ma.",
+      "tr.es-desk-hidden,",
+      "https://fonts.googleapis.com/css2?family=Montserrat&amp;display=swap",
+      "http://easilett.com/cl/782_md/31/5/112/23/2459859",
+      "http://easilett.com/media/6f26a59da0b45e2.png",
+      "http://easilett.com/media/c5eee789be6dac9.png",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "td.es-desk-hidden,",
+      "http://easilett.com/un/782_md/31/5/112/23/2459859",
+      "tr.es-desk-hidden",
+      "surwww.oncf-voyages.ma",
+      "http://easilett.com/media/8d88568b0a883f1.png",
+      "https://leaadpersons.com/biz/01%20(1).pn",
+      "a.es-button,",
+      "table.es-table-not-adapt,",
+      "table.es-social",
+      "www.ONCF-Voyages.ma",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8704,
+    "html_length": 27793,
+    "has_text": true,
+    "has_html": true
+  }
+}

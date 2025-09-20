@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Verify wallet",
+    "from": "Trust Wallet <info@umayiot.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 18 Mar 2025 17:34:58 +0000",
+    "message_id": "<010c0195aa52a972-4f23fda1-66f0-435f-92e2-dd5017f1c9f9-000000@ap-northeast-2.amazonses.com>",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\n\tcharset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "20112.html",
+      "https://www.tw-access.com/",
+      "TRUST2024.html#"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 670,
+    "html_length": 136935,
+    "has_text": true,
+    "has_html": true
+  }
+}

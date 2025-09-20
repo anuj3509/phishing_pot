@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "You're Eligible for stETH Rewards",
+    "from": "Lido Finance <noprely@lido.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 28 Oct 2024 12:07:24 +0000 (UTC)",
+    "message_id": "<20241028120724.C673BB8238C6D17A@lido.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cloudfla.s3.us-east-1.amazonaws.com/index.html",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1564,
+    "html_length": 3855,
+    "has_text": true,
+    "has_html": true
+  }
+}

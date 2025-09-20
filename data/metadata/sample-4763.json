@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Foi identificado um registro de infração de trânsito pendente associado à sua CNH. Identificação: 86869292.",
+    "from": "Carteira Digital - DETRAN <comunicado063550@detran>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 23 Jan 2025 10:18:43 +0000",
+    "message_id": "<17efb61fa72e0c9603c325b3fd9725c8@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_17efb61fa72e0c9603c325b3fd9725c8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_17efb61fa72e0c9603c325b3fd9725c8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.sso.cidadania.gov.br-appcnh016604020@sso2gov-regularizarcnh.co.ua/identificacao/regularizar671",
+      "gov.br",
+      "hotmail.com,",
+      "https://detran.gov.br/",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4011,
+    "has_text": true,
+    "has_html": true
+  }
+}

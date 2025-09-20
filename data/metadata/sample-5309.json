@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Atenção: Seu CPF pode ser cancelado em breve! Protocolo: 38436102.",
+    "from": "\"Gov.br\" <alertaCpf767@darfgovbr>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 13 Apr 2025 10:14:51 +0000",
+    "message_id": "<9fc636c6-1896-4f63-86af-f01f810705e1@MW4PR20MB4545.namprd20.prod.outlook.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_20a6222b612d28c04bc07bbe8cc2f4b6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_20a6222b612d28c04bc07bbe8cc2f4b6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://darf-pag-198737163400.us-central1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3561,
+    "has_text": true,
+    "has_html": true
+  }
+}

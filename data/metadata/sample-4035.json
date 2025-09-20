@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "We have a surprise for ADAC customers.",
+    "from": "Message from ADAC, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Sep 2024 04:10:42 +0200",
+    "message_id": "<QwQeZdJ.0.0.QwQeZdJ.9.QwQeZdJ@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://magicmotorworks.info/op/766_md/1/2385/1233/30/123038",
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "http://magicmotorworks.info/un/766_md/1/2385/1233/30/123038",
+      "http://magicmotorworks.info/oop/766_md/1/2385/1233/30/123038",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "https://inspirects.com/?a=8101&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/37/y0fz.png",
+      "www.zupimages.net/up/24/36/2cef.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5178,
+    "html_length": 12263,
+    "has_text": true,
+    "has_html": true
+  }
+}

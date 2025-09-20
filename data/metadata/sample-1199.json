@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "THE PRIME",
+    "from": "send plus <amandastaples353@gmail.com>",
+    "to": "username@hotmail.com",
+    "date": "Mon, 24 Jul 2023 09:14:54 -0700",
+    "message_id": "<CA+b2QgQh3=9wJxbyTmCq9Sapx9mAuRCCyz31_nvBNrqNL13_pw@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------f24b442e587dd39181d860fac86a7066"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------f24b442e587dd39181d860fac86a7066"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://protonmail-6e3725.webflow.io/",
+      "http://skymesh.com.au/",
+      "rotonMail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 304,
+    "html_length": 2005,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "[Yellow Fly Deer Fly Dog Fly Bug Repellent]: Please activate your account",
+    "from": "Bite Stopper Pro <no-reply@bitestopperpro.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 1 Jun 2025 19:14:45 +0000",
+    "message_id": "<aJg8VBMsbXE6wvrr8HjrCpy0F2qzl32Cpmreqe4ixKg@bitestopperpro.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://bitestopperpro.com/my-account/?alg_wc_ev_verify_email=eyJpZCI6MjIzNCwiY29kZSI6IjY0M2IzNGZhYjFhZmY5ZTRjMTk5ZmY4NTMzZmJhOWVlIn0-",
+      "bitestopperpro.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 85,
+    "html_length": 662,
+    "has_text": true,
+    "has_html": true
+  }
+}

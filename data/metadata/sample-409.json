@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Request for Quotation",
+    "from": "Mike McDermott <carlpone2021@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 28 Feb 2023 11:58:14 +0200",
+    "message_id": "<CAJmuefsJPKYrFZExvG64j4JfmCO0koZ6ye3Zdbwr5u6cpEbeZQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000000be79b05f5bfa356\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000000be79b05f5bfa356\""
+  },
+  "attachments": [
+    {
+      "filename": "Request for Quotation.pdf",
+      "content_type": "application/pdf",
+      "size": 163492
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pfizerservice-nv.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 796,
+    "html_length": 910,
+    "has_text": true,
+    "has_html": true
+  }
+}

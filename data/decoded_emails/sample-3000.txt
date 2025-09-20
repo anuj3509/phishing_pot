@@ -1,0 +1,145 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: An offer has just been submitted on an item on your listing [0xDa161b]
+From: OpenSea <noreply@jfp.events>
+To: phishing@pot
+Date: Fri, 1 Mar 2024 21:49:55 +0000
+Message_Id: <010e018dfbfec94a-c0664961-6fd8-453c-9ef1-0d056dcd6939-000000@ap-southeast-1.amazonses.com>
+Content_Type: text/html;
+	charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+	charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://google
+  - https://fonts.googleapis.com/icon?family=Material
+  - http://www.sureingenieria.com.ar/sax/ZeroBot.php
+
+DECODED TEXT CONTENT:
+------------------------------
+New offer of 2.4875 ETH on your item #738498 You have received a new offer on one of your listed NFTs. Offer Details: Offer Details: 0x73MD83j4P Offered by: DiamondsF Offered Pricee : 2.4875 ETH Review Offer Opensea, 228 Park Ave South #22014, New York, NY 10003 Privacy Policy | Terms of Service @2018-2024 OpenSea
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="fr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><html lang="fr"><head>
+
+
+
+
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/icon?family=Material Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material Icons Outlined" rel="stylesheet">
+                
+            <link href="https://fonts.googleapis.com/icon?family=Material Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material Icons Outlined" rel="stylesheet">
+                
+            <link href="https://fonts.googleapis.com/icon?family=Material Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material Icons Outlined" rel="stylesheet">
+                
+            </head>
+<body style="background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; background: 100% 5px no-repeat;
+        margin-top: 0;
+        max-width: none:
+        min-height: 180px;
+        padding: 30px 0 15px; margin: 0px; padding: 0px; font-family: Arial, sans-serif; background-color: rgb(233, 236, 239);">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<table width="100%" style="margin: 0px auto;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top" style="padding: 10px; background-color: rgb(233, 236, 239);">
+<table width="100%" style="margin: auto; border-radius: 8px; display: block; max-width: 550px; box-shadow: 0px 0px 5px rgba(0,0,0,0.2); background-color: rgb(255, 255, 255);" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="padding: 20px; text-align: center; border-bottom-color: rgb(212, 218, 223); border-bottom-width: 0px; border-bottom-style: solid;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<table width="100%" style="margin: 0px auto; border-radius: 5px; max-width: 600px;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="left"><br><p align="center"><img width="434" height="116" style="width: 208px; height: 57px;" src="data:image/png;base64,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"><div align="left"></div><p></p><br></td>
+</tr>
+<tr>
+<td align="left" style="padding: 0px; font-size: 19px; font-weight: bold;">
+<p style="margin-left: 30px;">New offer of 2.4875 ETH on your item #738498</p>
+</td>
+</tr>
+<tr>
+<td align="left" style="color: black; padding-bottom: 0px;">
+<p style="font-size: 18px; margin-left: 35px;">You have received a new offer on one of your listed NFTs.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="font-size: 19px; margin-left: -5px;"><b>Offer Details:</b></p>
+<ul>
+<li style="font-size: 19px; margin-left: 38px;"><b>Offer Details:</b> <a href="https://google"><a style="text-decoration: underline;" href="http://www.sureingenieria.com.ar/sax/ZeroBot.php">0x73MD83j4P</a></li>
+<li style="font-size: 19px; margin-left: 38px;"><b>Offered by:</b> DiamondsF</li>
+<li style="font-size: 19px; margin-left: 38px;"><b>Offered Pricee : </b>2.4875 ETH<b><br></b></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 30px;"><a style="padding: 15px 20px; border-radius: 9px; color: rgb(255, 255, 255); font-weight: bold; text-decoration: none; margin-left: 7px; display: block; max-width: 90%; background-color: rgb(35, 142, 249);" href="http://www.sureingenieria.com.ar/sax/ZeroBot.php">Review Offer</a></td>
+</tr>
+<tr>
+<td align="left" style="padding-top: 20px;"></td>
+</tr>
+<tr>
+<td align="left" style="padding: 20px; color: rgb(37, 37, 37); font-size: 15px; margin-bottom: 30px;"><br><br>Opensea, 228 Park Ave South #22014, New York, NY 10003</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="margin: auto; padding: 15px; border-radius: 12px; width: 415px; text-align: center; color: rgb(102, 102, 102); line-height: 10px; font-size: 12px; border-top-color: rgb(221, 221, 221); border-top-width: 0px; border-top-style: solid; display: block; background-color: rgb(248, 248, 248);">Privacy Policy | Terms of Service
+<p>@2018-2024 OpenSea</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
+

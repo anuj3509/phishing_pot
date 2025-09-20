@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Score released: 💶 +$276 date 2023.12.21 time 06:57 ",
+    "from": "fatdeluja@gmail.com",
+    "to": "phishing@pot",
+    "date": "Fri, 22 Dec 2023 05:59:55 +0000",
+    "message_id": "<autogen-java-faea054a-9fa1-4eb7-9f4b-9d2c782fe64c@google.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000efc1fc060d12ec7c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000efc1fc060d12ec7c\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfuOeOtj_qtG7T1t75CaSz-7YSQZ2EL6FAKEJiQQ6o5TiyeWg/viewscore?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;viewscore=AE0zAgBegF3w_oXFO070Bhu9PaicpKPaMlxCnJHJDeQKGL25bZIBBs6TkwgvlgBmo9Gws7I",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 983,
+    "html_length": 3554,
+    "has_text": true,
+    "has_html": true
+  }
+}

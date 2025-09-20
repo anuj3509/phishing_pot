@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Weihnachtsangebot: Wollen Sie Ihre Reinigungszeit verk��rzen? 50% Rabatt auf eine neue Reinigungsmethode!",
+    "from": "Ihr Reinigungspartner, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Dec 2023 20:55:52 +0100",
+    "message_id": "<GMi6Xu4.0.0.GMi6Xu4.9.GMi6Xu4@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://superkoran.info/UVdqUk8vL2N5Sm9pa3AzaVY0R0ZwSGdNeVl1QVN5T3VZVjJRZFdMNUUreDdrVnptdEV1dGM2Z2lpQ3RTSVRKTlNTQXJKSXVUWUhXNzhueTBtNURpUldVdEdyNWY1RE9pQWZqTkZKdUpJazA9",
+      "www.zupimages.net/up/23/50/tst8.png",
+      "ZERCQyc.21671.758.kGcZERCQyc.21671.758.kGcZERCQyc.21671.758.kGcZERCQyc.21671.758.kGc-ZERCQyc.21671.088152",
+      "https://fnnl-check.com/?a=6073&amp;oc=18990&amp;c=51361&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/23/50/tst8.png",
+      "ZERCQyc.21671.758.kGcZERCQyc.21671.758.kGcZERCQyc.21671.758.kGcZERCQyc.21671.758.kGc-ZERCQyc.21671.758.kGcZERCQyc.21671.758.kGc"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 668,
+    "html_length": 1308,
+    "has_text": true,
+    "has_html": true
+  }
+}

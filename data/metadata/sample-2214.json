@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "���Do not pay your electric bill until you read this. ",
+    "from": "Elon Musk, jehd <mail@sendfoxmail.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Dec 2023 16:24:40 +0100",
+    "message_id": "\r\n <bb2890d1-bc1b-4e03-bd53-45412a293e46@DB3EUR04FT029.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/7ce5fd1c6cd047f.jpeg",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5201_md/2009/1488/365/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/5201_md/2009/1488/365/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/7ce5fd1c6cd047f.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5775,
+    "html_length": 17689,
+    "has_text": true,
+    "has_html": true
+  }
+}

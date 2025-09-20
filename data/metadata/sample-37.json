@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Security@ledger.com",
+    "from": "Ledger Update <info@madmultimedia.net>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Aug 2022 05:55:11 +0000",
+    "message_id": "<01030182ed516646-05ddede5-69a7-48fb-873b-572370c7d181-000000@sa-east-1.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_48c35cb9de31c57be1a1bcb57950ae0a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_48c35cb9de31c57be1a1bcb57950ae0a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://fonts.googleapis.com/css?family=Roboto:400,500,700);",
+      "http://www.w3.org/1999/xhtml",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Ledger-logo-long.svg/800px-Ledger-logo-long.svg.png",
+      "https://live-ledger.eu/update",
+      "https://fonts.googleapis.com/css?family=Roboto:400,500,700",
+      "table.mj-full-width-mobile",
+      "ledger.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7349,
+    "html_length": 27546,
+    "has_text": true,
+    "has_html": true
+  }
+}

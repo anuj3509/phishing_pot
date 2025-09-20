@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "congrats, you've been selected ",
+    "from": "Lowes    ,_<oug7s@eibo9nhytt.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Oct 2023 18:12:17 +0000",
+    "message_id": "\r\n <05f8b8e1-e963-43c4-803a-dfb91a437c07@VI1EUR05FT030.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.imgur.com/jWB3l1Z.jpg",
+      "http://vertuoldmuneted.com/track/o47269FVzRC27537896uAge1371191dKy68899BHRF3346",
+      "https://t.co/IxLv5pcfjq",
+      "http://dtherhproblem.us/su47269ceKLq27537896ssLW1371191cvJ68899CrGX3346",
+      "i.imgur.com/jWB3l1Z.jpg",
+      "https://t.co/VHYJ8XWMO6"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 390,
+    "html_length": 8832,
+    "has_text": true,
+    "has_html": true
+  }
+}

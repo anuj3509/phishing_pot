@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ihre Chance auf einen neuen Audi A7! ",
+    "from": "Audi A7 ,<angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 08:36:08 +0100",
+    "message_id": "<jvuARHA.85994.107.bUc@fgjhvcjbfjb.uk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://veystvick.shop/M0JSQkJhVzl3a2ZpZ2NaRXN1cjIya1EvOENyR2o5L3ZOWDZwWUVHRUhNOXZLYzE1SmdkYnM2TnVENm8wUjRMcW11c0FvSVdQRnQyR29lTVI5a3lDZkZid0VTalhHaVVadUxLa3N0a2xIYVU9",
+      "http://veystvick.shop/ZGQ1Y2oyMUdjM3o3ekJBMTNyNDNXL0RNUW8wZTZiVjFXbkhDWnFxVmFCTXc2dDVpdlpPL1lwdkpaOXhBN1VTd2JJM3ZyQVpEUzlyYUN1NGQvRFRJYXc9PQ__",
+      "http://veystvick.shop/MVJXbHVxck10V1VMOEdDcGhPbThmOTlSRWcxNUQ1djZqbnRuL1NxcjROdy94RmRNTkZyUTlkMFRDcXRncHpjU1ZQRWt4SE5RR3E0Y0NmRjAyLy9SekE9PQ__",
+      "i.imgur.com/rEoQRvw.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://veystvick.shop/T2k5OTEvYVloalVBRS9nYXIxaThaL0hxa0RKWm4wSXNpbkU3ZzgzV0kzVWdYVThhS0tpb3JOa3hja0Z3V2NobEp3UDhaVmF3SXp3eXFyR1dKd2ZrM1E9PQ__",
+      "https://i.imgur.com/rEoQRvw.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1919,
+    "html_length": 9068,
+    "has_text": true,
+    "has_html": true
+  }
+}

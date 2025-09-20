@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "GGT457BV95526:10:55:39 AM",
+    "from": "\"ASP111KJ8136\" <ashleydhilea531@gmail.com>",
+    "to": "\"Dear Customer\" <phishing@pot>",
+    "date": "Thu, 17 Nov 2022 10:54:41 +1300",
+    "message_id": "<028bb749-44882-06f94553209954@admin0006>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://unlayer.com/",
+      "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+      "https://cdn.templates.unlayer.com/assets/1636133257312-bg.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://cdn.templates.unlayer.com/assets/1636131886922-topbg2.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4247,
+    "html_length": 35984,
+    "has_text": true,
+    "has_html": true
+  }
+}

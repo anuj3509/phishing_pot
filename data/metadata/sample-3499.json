@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "My Sincere Regards-",
+    "from": "Omar Ousman <mromarousman@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 20 Jul 2024 10:34:48 -0700",
+    "message_id": "<CA+RCccO-sHLbQ1nxEU7wAKGsiw64N6W-v8TYqFUg7Hdujoeu2g@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000dde096061db13aba\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000dde096061db13aba\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 503,
+    "html_length": 646,
+    "has_text": true,
+    "has_html": true
+  }
+}

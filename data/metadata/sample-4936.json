@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "���� phishing@pot Your Protection Has Expired Renew TotalAV Immediately",
+    "from": "TotalAV <protection@fashionpromd.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 7 Mar 2025 13:39:15 +0000",
+    "message_id": "<IW9KRIWE.IW9KRIWE.IW9KRIWE.JavaMail.tomcat@pdr8-services-05v.totalav.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&amp;name=small",
+      "https://t.co/F4vcC4Y11c",
+      "https://pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&amp;name=small",
+      "https://t.co/UqG8lovsC4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1071,
+    "html_length": 7379,
+    "has_text": true,
+    "has_html": true
+  }
+}

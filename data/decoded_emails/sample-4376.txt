@@ -1,0 +1,86 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Pedido parado na alf��ndega 325846: 
+From: Tributo Alfandegario <avisoalfandega@inform-gov.com.br>
+To: phishing@pot
+Date: Tue, 12 Nov 2024 01:06:23 -0500 (EST)
+Message_Id: <20241112060623.43332C95B@jhgffg.net-2>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com
+  - https://correio-taxa.serve.co.ua/alfandega/
+
+DECODED TEXT CONTENT:
+------------------------------
+Aviso Importante dos Correios Olá, rodrigo-f-p@hotmail.com , Seu pedido foi temporariamente bloqueado pela alfândega devido à pendência no pagamento de taxas obrigatórias. Para evitar o cancelamento da entrega, regularize o pagamento das taxas no prazo de 3 dias úteis. Clique no botão abaixo para acessar o portal de pagamento e liberar sua entrega: Efetuar Pagamento ©️ Correios 2024 - Todos os direitos reservados Este é um e-mail automático. Não responda a esta mensagem.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="text-align: center;">
+
+  <div class="container" style="width: 100%; max-width: 650px; margin: 50px auto; background-color: #f4f4f4; border-radius: 10px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px; font-family: Arial, sans-serif;">
+
+    
+
+    <!-- Cabeçalho -->
+
+    <div class="header" style="background-color: #ffcc00; color: #0033a0; padding: 30px; border-bottom: 4px solid #0033a0;">
+
+      <h1 style="text-align: center; margin: 0; font-size: 28px;">Aviso Importante dos Correios</h1>
+
+    </div>
+
+    
+
+    <!-- Conteúdo -->
+
+    <div class="content" style="padding: 25px; color: #333333; text-align: left; line-height: 1.6;">
+
+      <p style="margin: 20px 0;">Olá, rodrigo-f-p@hotmail.com,</p>
+
+      <p style="margin: 20px 0;">Seu pedido foi temporariamente bloqueado pela alfândega devido à pendência no pagamento de taxas obrigatórias.</p>
+
+      <p style="margin: 20px 0;">Para evitar o cancelamento da entrega, regularize o pagamento das taxas no prazo de 3 dias úteis.</p>
+
+      <p style="margin: 20px 0;">Clique no botão abaixo para acessar o portal de pagamento e liberar sua entrega:</p>
+
+      
+
+      <!-- Botão de Pagamento -->
+
+      <div style="text-align: center; margin-top: 25px;">
+
+        <a class="button" style="display: inline-block; padding: 15px 30px; color: #ffffff; background-color: #0033a0; text-decoration: none; border-radius: 5px; font-size: 16px; font-weight: bold;" href="https://correio-taxa.serve.co.ua/alfandega/">Efetuar Pagamento</a>
+
+      </div>
+
+    </div>
+
+    
+
+    <!-- Rodapé -->
+
+    <div class="footer" style="background-color: #0033a0; color: #ffffff; padding: 15px; font-size: 12px;">
+
+      <p style="margin: 0;">©️ Correios 2024 - Todos os direitos reservados</p>
+
+      <p style="margin: 5px 0;">Este é um e-mail automático. Não responda a esta mensagem.</p>
+
+    </div>
+
+  </div>
+
+</div>
+

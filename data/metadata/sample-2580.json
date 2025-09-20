@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual signin activity",
+    "from": "Microsoft account team ,_<2cz1k@dskr2o5ldq.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Jan 2024 06:29:46 +0000",
+    "message_id": "\r\n <f0d8edd0-b048-467e-856b-74d47286c031@MW2NAM10FT064.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "espaccessacc.com?&amp;cc=info@espaccessacc.com&amp;Subject=Report+The+User",
+      "sign.in",
+      "http://thebandalisty.com/track/o53961FOTbh27539914bKMk1547817lRg70443nlRp176",
+      "espaccessacc.com?&amp;cc=info@espaccessacc.com&amp;subject=unusual",
+      "espaccessacc.com?&amp;cc=info@espaccessacc.com&amp;Subject=Unsubscribe+me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15253,
+    "has_text": true,
+    "has_html": true
+  }
+}

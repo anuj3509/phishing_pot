@@ -1,0 +1,63 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Alert]: New update!
+From: "Metamask.io"<customer_service@tpg.com.au>
+To: Recipients <customer_service@tpg.com.au>
+Date: Fri, 26 Jan 2024 13:06:57 +0100
+Message_Id: 
+ <a9c97aa2-6cfa-4dad-b9d2-f81696bad110@MW2NAM12FT073.eop-nam12.prod.protection.outlook.com>
+Content_Type: multipart/alternative; boundary="===============0061041175=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="===============0061041175=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://rb.gy/61696p
+  - Meta.Mask
+  - https://cdnl.iconscout.com/lottie/premium/thumb/transfer-dollars-from-metamask-to-wallet-5663371-4719020.gif
+
+DECODED TEXT CONTENT:
+------------------------------
+
+ Dear user,
+    We regret to inform you that your wallet has been frozen due to invalid activity.   Our system has detected unauthorized transactions and we have taken the necessary steps to protect your funds. To ensure the security of your account,   we have temporarily closed your wallet.   To restore access to your wallet as soon as possible, please follow the steps in the link below:   
+    Recovery
+ Thank you for trusting us,
+ Meta Service,
+   (C) Copyright © 2024 Meta.Mask All rights reserved. Ledger.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body><p><img style="HEIGHT: 332px; WIDTH: 348px" alt="Ledger on X: " src="https://cdnl.iconscout.com/lottie/premium/thumb/transfer-dollars-from-metamask-to-wallet-5663371-4719020.gif" width="449" height="450" data-imagetype="External"></p>
+<p><span style="COLOR: #ff9900"><strong>Dear user,</strong></span></p>
+<div id="x_tab-8" class="x_page-tab x_step-tab">
+<div class="x_step-side">
+<div aria-hidden="true" class="x_step-img">&nbsp;We regret to inform you that your wallet has been frozen due to invalid activity.</div>
+<div aria-hidden="true" class="x_step-img">&nbsp;</div>
+<div class="x_step-img">Our system has detected unauthorized transactions and we have taken the necessary steps to protect your funds.</div>
+<div class="x_step-img">To ensure the security of your account,</div>
+<div aria-hidden="true" class="x_step-img">&nbsp;</div>
+<div class="x_step-img">we have temporarily closed your wallet.</div>
+<div aria-hidden="true" class="x_step-img">&nbsp;</div>
+<div class="x_step-img">To restore access to your wallet as soon as possible, please follow the steps in the link below:</div>
+<div aria-hidden="true" class="x_step-img">&nbsp;</div></div></div>
+<table cellspacing="0" cellpadding="0" width="130" border="0">
+<tbody>
+<tr>
+<td class="x_x_v-container-padding-padding" align="left">
+<div><a href="https://rb.gy/61696p"><strong>Recovery</strong></a></div></td></tr></tbody></table>
+<p><strong>Thank you for trusting us,</strong></p>
+<p><span style="COLOR: #ff9900"><strong><span class="markts9h30zll" data-ogsb="" data-ogsc="" data-ogab="" data-ogac="" data-markjs="true">Meta Service</span></strong>,</span></p>
+<div>
+<div>
+<p>(C) Copyright © 2024&nbsp;Meta.Mask All rights reserved.&nbsp;<span class="markts9h30zll" data-ogsb="" data-ogsc="" data-ogab="" data-ogac="" data-markjs="true">Ledger</span>.</p></div></div></body></html>

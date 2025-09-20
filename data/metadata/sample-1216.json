@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 01 Sep 2023 07:33:54 +0200",
+    "message_id": "\r\n <c8e49ecf-e7da-4a58-8e39-8f06c2a0c593@AM6EUR05FT057.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://77.91.100.118/oop/10_md/31/19/663/3/315429",
+      "http://77.91.100.118/cl/10_md/31/19/663/3/315429",
+      "https://audi.com/user/verify/GGMIeWtIkljxCoJ7aBEUnxMnw2f29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://77.91.100.118/media/2bc8a96495af6bc.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://77.91.100.118/op/10_md/31/19/663/3/315429",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "unileverfoodsolutions.at",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6099,
+    "html_length": 12764,
+    "has_text": true,
+    "has_html": true
+  }
+}

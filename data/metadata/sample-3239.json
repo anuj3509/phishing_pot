@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Sie haben es GESCHAFFT ��� SIE sind dabei!",
+    "from": "Temu, <service@stayfriends.de>, Office, <service@stayfriends.de>, Temu,\r\n\t<service@stayfriends.de.>",
+    "to": "phishing@pot",
+    "date": "Fri, 03 May 2024 10:19:22 +0200",
+    "message_id": "<iqywevu.ypblf.zxy.zxy@zrlypwzxyjwtafi.raw>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://imgsupload.com/nl/879/btn.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8778_md/4049/26058/1381/281/76468",
+      "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "imgsupload.com/nl/879/header.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/8778_md/4049/26058/1381/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/8778_md/4049/26058/1381/281/76468",
+      "https://imgsupload.com/nl/879/header.png",
+      "imgsupload.com/nl/879/btn.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 378,
+    "html_length": 4167,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "📝 Form Received! Were Excited to Start Your Application Approval Journey 🚀",
+    "from": "Humphrey Shurley (via Apresentações Google) <drive-shares-noreply@google.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Dec 2024 10:06:36 +0000",
+    "message_id": "<autogen-java-42562f2b-413e-429f-9dc0-192f77c2f4e2@google.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000e129c90629ed2687\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000e129c90629ed2687\""
+  },
+  "attachments": [
+    {
+      "filename": "Open 52.pdf",
+      "content_type": "application/pdf",
+      "size": 33046
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "arljitvqcvd.zeqifeku.quest",
+      "xxx.ff",
+      "https://docs.google.com/drawings/d/1N68lWVSm2NzfRy9I7vwxDBL1L9qw3EHQ60Lpf_eUDNE/preview",
+      "52.pdf",
+      "https://docs.google.com/",
+      "https://workspace.google.com/",
+      "https://lh3.googleusercontent.com/a/ACg8ocLllRt7i61NRakMpWz7gycCL1Br1cWEd5tGIDxjr202cLi4cA=s64",
+      "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_presentation_x64.png",
+      "https://www.gstatic.com/docs/documents/share/images/googleworkspace_logo_192x80.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1050,
+    "html_length": 5213,
+    "has_text": true,
+    "has_html": true
+  }
+}

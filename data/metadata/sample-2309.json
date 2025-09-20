@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Prezado, corvolino! Seus 269.628 MIL pontos expiram em 72 horas! [Protocolo:\r\n 184817]",
+    "from": "Bradesco <nao-responder9985@livelo.com.br>",
+    "to": "phish@pot",
+    "date": "Mon, 27 Nov 2023 07:13:52 +0000",
+    "message_id": "<20231127071352.B227443B7C@ejdepsgae.nssuscosijddqj.com.br>",
+    "content_type": "multipart/mixed;boundary=---------------------dfbbc0b6cc50049ac7eabd5b9f5311a9"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=---------------------dfbbc0b6cc50049ac7eabd5b9f5311a9"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "https://www.bradesco.com.br/livelo-resgate",
+      "https://us-east4-black-octagon-376806.cloudfunctions.net/ambienteseguro?bra=Y29ydm9saW5vQHByb3Rvbm1haWwuY29tDQo="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1608,
+    "html_length": 11462,
+    "has_text": true,
+    "has_html": true
+  }
+}

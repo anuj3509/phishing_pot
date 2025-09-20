@@ -1,0 +1,67 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Marketplace event related to your NFT NFT_471074. Offer might expire soon.
+From: OpenSea <postmaster@renttennesseecabins.com>
+To: phishing@pot
+Date: Thu, 12 Jun 2025 08:30:06 +0000
+Message_Id: <20250612083006.163ede7d8f7cead6@renttennesseecabins.com>
+Content_Type: text/html; charset=ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+Suspicious phrases: click here
+URLs found:
+  - https://www.seamaldives.com/wp-content/plugins/cmd?accesstoken=885944
+  - http://talk.hyvor.com/media/website/12825/40amSzXK55wfFtQxM4oMmbCvvBhtUgV63c1caVeV.png
+  - https://opensea.io
+
+DECODED TEXT CONTENT:
+------------------------------
+Updated Bid Received Someone just detected on one of your listings. Check details below. Offer Amount: 1.19 ETH Offered By: RareGhost Review Offer You are receiving this email because you are subscribed to notifications from OpenSea . To unsubscribe, click here . For support, please contact us .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333333; margin: 0; padding: 0;">
+
+    <div style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); padding: 20px;">
+        
+        <div style="text-align: center; padding: 20px 0;">
+            <img src="http://talk.hyvor.com/media/website/12825/40amSzXK55wfFtQxM4oMmbCvvBhtUgV63c1caVeV.png" alt="Logo" style="width: 50%; height: auto;">
+        </div>
+
+        <div style="text-align: center; color: #555555;">
+            <h1 style="font-size: 22px; margin-bottom: 10px;">Updated Bid Received</h1>
+            <p style="font-size: 16px; margin-bottom: 20px;">Someone just detected on one of your listings. Check details below.</p>
+        </div>
+
+        <div style="background-color: #f4f4f4; border-radius: 8px; padding: 15px; margin: 20px 0; text-align: left;">
+            <p style="margin: 5px 0; color: #333333;"><strong>Offer Amount:</strong> 1.19 ETH</p>
+            <p style="margin: 5px 0; color: #333333;"><strong>Offered By:</strong> RareGhost</p>
+        </div>
+
+        <div style="text-align: center;">
+            <a href="https://www.seamaldives.com/wp-content/plugins/cmd?accesstoken=885944" style="display: inline-block; padding: 12px 25px; background-color: #007bff; color: #ffffff; text-decoration: none; border-radius: 6px; font-size: 16px;">Review Offer</a>
+        </div>
+
+        <div style="font-size: 12px; color: #999999; text-align: center; margin-top: 20px;">
+            <p style="margin: 0;">You are receiving this email because you are subscribed to notifications from <a href="https://opensea.io" style="color: #007bff; text-decoration: none;">OpenSea</a>. To unsubscribe, <a href="#" style="color: #007bff; text-decoration: none;">click here</a>. For support, please <a href="#" style="color: #007bff; text-decoration: none;">contact us</a>.</p>
+        </div>
+    </div>
+
+</body>
+</html>
+

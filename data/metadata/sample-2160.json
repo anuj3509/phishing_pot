@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hi",
+    "from": "Bernard <bernardarnaultb1949@gmail.com>",
+    "to": "phishing@pot",
+    "date": "08 Dec 2023 00:25:23 +0100",
+    "message_id": "<20231208002523.9CA65E7A93A32524@gmail.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 214,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

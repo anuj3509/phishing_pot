@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Cobrança fiscal registrada para seu CPF. Quitação imediata necessária. Protocolo: 44599758.",
+    "from": "Comunicado Receita Federal <regularizacao423176@receita>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 9 Mar 2025 22:51:11 +0000",
+    "message_id": "<c845119b2f3012c78f1690208f73e07d@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c845119b2f3012c78f1690208f73e07d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c845119b2f3012c78f1690208f73e07d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://function-5-1062496865825.us-central1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3503,
+    "has_text": true,
+    "has_html": true
+  }
+}

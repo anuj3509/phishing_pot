@@ -1,0 +1,218 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Gewinnen Sie einen Rewe-Gutschein im Wert von 500 Euro!
+From: Ihr Gewinner-Team, jehd <service@stayfriends.de>
+To: phishing@pot
+Date: Sat, 16 Sep 2023 04:07:43 +0200
+Message_Id: 
+ <fafb8907-041a-401c-ac70-81e1d5a89b46@SN1NAM02FT0019.eop-nam02.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://easilett.com/media/5891e071f010537.jpg
+  - http://easilett.com/cl/35_md/31/17/21/4/383653
+  - http://easilett.com/media/a2e939f25d32196.jpg
+  - http://www.w3.org/1999/xhtml
+  - http://easilett.com/media/b8d0ce38892eefe.jpg
+  - http://easilett.com/oop/35_md/31/17/21/4/383653
+  - http://easilett.com/op/35_md/31/17/21/4/383653
+
+DECODED TEXT CONTENT:
+------------------------------
+newsletter ReadMsgBody { width: 100%; background-color: #e6e6e6; } ExternalClass { width: 100%; line-height: 100%; background-color: #e6e6e6; } html, body { margin:0; padding:0; } sizer { width:500px; } header_image { width:500px; height:275px; background-color: #cd1316; display:block; } text { width:90%; color:#1e2944; font-family: Helvetica, Arial, sans-serif; font-size: 15px; line-height: 21px; } button_image { width:326px; height:52px; background-color: #cd1316; } footer_image { width:500px; height:290px; background-color: #cd1316; display:block; } side { width:5%; background-color:#ffffff; } @media screen and (max-width: 500px) { .sizer { max-width:500px; width:100%; } .header_image { max-width:500px; width:100%; height:auto!important; min-height:20px; max-height:275px; } .button_image { max-width:326px; width:100%; height:auto!important; min-height:10px; max-height:52px; margin: 0 auto; } .footer_image { max-width:500px; width:100%; height:auto!important; min-height:20px; max-height:290px; } } Rewe-Gutschein zu gewinnen! Ist diese E-Mail nicht richtig lesbar? Hier geht es zur Online Version » Gewinne einen Rewe-Gutschein im Wert von 500 Euro Hallo phishing@pot, Sie sind einer unserer möglichen Finalisten für einen REWE Gutschein. Nehmen Sie jetzt gratis teil und gewinnen Sie mit etwas Glück einen Rewe-Gutschein im Wert von 500 Euro . Hoffentlich können wir Ihnen damit eine kleine Freude machen. Ihre Julia Vetter (Kundenbetreuung) click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>newsletter</title>
+<style type="text/css">
+ReadMsgBody {
+	width: 100%;
+	background-color: #e6e6e6;
+}
+ExternalClass {
+	width: 100%;
+    line-height: 100%;
+	background-color: #e6e6e6;
+}
+html, body {
+	margin:0;
+	padding:0;
+}
+sizer {
+	width:500px;
+}
+header_image {
+	width:500px;
+	height:275px;
+    background-color: #cd1316;
+	display:block;
+}
+text {
+	width:90%;
+	color:#1e2944;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+}
+button_image {
+	width:326px;
+	height:52px;
+    background-color: #cd1316;
+}
+footer_image {
+	width:500px;
+	height:290px;
+    background-color: #cd1316;
+	display:block;
+}
+side {
+	width:5%;
+	background-color:#ffffff;
+}
+@media screen and (max-width: 500px) {
+	.sizer {
+		max-width:500px;
+		width:100%;
+	}
+	.header_image {
+		max-width:500px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:275px;
+	}
+    .button_image {
+		max-width:326px;
+		width:100%;
+		height:auto!important;
+		min-height:10px;
+		max-height:52px;
+        margin: 0 auto;
+	}
+ 	.footer_image {
+		max-width:500px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:290px;
+	}
+}
+</style>
+</head>
+<body bgcolor="#e6e6e6">
+<div ems:preheader="" style="display:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all">Rewe-Gutschein zu gewinnen!</div>
+
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#e6e6e6">
+	<tr>
+    	<td align="center">
+           
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#2f2f2f; font-size:11px; background-color: #e6e6e6">
+                <tr>
+                    <td align="center">Ist diese E-Mail nicht richtig lesbar? Hier geht es <a style="color:#2f2f2f" href="http://easilett.com/cl/35_md/31/17/21/4/383653" target="_blank">zur Online Version »</a><br><br></td>
+                </tr>
+            </table>
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#ffffff; font-size:26px; background-color: #1a2332">
+                <tr>
+                    <td align="center">
+                        <br>
+                        <strong>Gewinne einen Rewe-Gutschein</strong>
+                        <br>
+                        <span style="font-size: 22px">im Wert von 500 Euro</span>
+                        <br><br>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1">
+                        <a href="http://easilett.com/cl/35_md/31/17/21/4/383653">
+                            <img class="header_image" src="http://easilett.com/media/a2e939f25d32196.jpg" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                        Hallo phishing@pot, 
+                        <br><br>
+                        Sie sind einer unserer möglichen Finalisten für einen REWE Gutschein. Nehmen Sie jetzt <strong>gratis</strong> teil und gewinnen Sie mit etwas Glück einen <strong><a href="http://easilett.com/cl/35_md/31/17/21/4/383653">Rewe-Gutschein  </a></strong> im Wert von <strong>500 Euro</strong>.
+                        <br>
+                   	</td>
+            		<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" align="center" style="border-collapse:collapse;text-align:center;">
+                        <br>
+                        <a href="http://easilett.com/cl/35_md/31/17/21/4/383653">
+				            <img class="button_image" src="http://easilett.com/media/5891e071f010537.jpg" alt="">
+				        </a>
+                        <br>
+                   	</td>
+                	<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+			 <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                       Hoffentlich können wir Ihnen damit eine kleine Freude machen. <br> <br>
+Ihre Julia Vetter (Kundenbetreuung)<br><br>
+                   	</td>
+            		<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+			
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1">
+                        <a href="http://easilett.com/cl/35_md/31/17/21/4/383653">
+                            <img class="footer_image" src="http://easilett.com/media/b8d0ce38892eefe.jpg" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#a0a0a0; font-size:11px; background-color: #1a2332">
+                <tr>
+                    <td align="center">
+                        
+                        <br><br>
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+        </td>
+  	</tr>
+</table>
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://easilett.com/oop/35_md/31/17/21/4/383653">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://easilett.com/op/35_md/31/17/21/4/383653" width="1px" height="1px" style="visibility:hidden">
+

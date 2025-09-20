@@ -1,0 +1,805 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Unusual Two-Factor Authentication (2FA) Activity
+From: Mi󠄹cr󠄹oso󠄹ft Sup󠄹por󠄹󠄹t <mail.apps-ag@datamartinc.net>
+To: <customer@microsoft.com>
+Date: Tue, 3 Jun 2025 00:37:51 +0000
+Message_Id: <74119384.216985768220.9648260489638057.934971214@priva80.privatednsorg.com>
+Content_Type: multipart/mixed;
+	boundary="inmixBMlG88NIvUuwXwpwZCPS8qbITsoGfc30TvXgQ91ijXY"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixBMlG88NIvUuwXwpwZCPS8qbITsoGfc30TvXgQ91ijXY"
+
+ATTACHMENTS:
+--------------------
+- email-microsoft.mobileconfig (application/octet-stream, 5502 bytes)
+- carddav-microsoft.mobileconfig (application/octet-stream, 5340 bytes)
+- caldav-microsoft.mobileconfig (application/octet-stream, 6436 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://mail.datamartinc.net:2080/calendars/sureprimeco/calendar
+  - datamartinc.net
+  - https://mail.datamartinc.net:2080/addressbooks/sureprimeco/addressbook
+  - http://mail.datamartinc.net:2079
+  - http://mail.datamartinc.net:2079/calendars/sureprimeco/calendar
+  - http://mail.datamartinc.net:2079/addressbooks/sureprimeco/addressbook
+  - https://mail.datamartinc.net:2080
+  - Mail.app®
+  - Mail.app&reg;
+  - ioh.ac.us”
+  - ioh.ac.us&rdquo;
+  - mail.datamartinc.net
+
+DECODED TEXT CONTENT:
+------------------------------
+<p>&nbsp;</p>
+<!-- [if mso]>
+    <style type="text/css">
+    body, table, td, a, span {font-family: Arial, sans-serif !important;}
+    </style>
+    <![endif]-->
+<div lang="en" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #fafafa;" role="article" aria-roledescription="email">
+<table style="width: 100%; border: none; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 25px 0;" align="center">
+<table style="width: 600px; border-spacing: 0; border-collapse: separate; margin: 0 auto; background-color: #ffffff; border: 1px solid #E1E1E1; border-radius: 4px;" role="presentation"><!-- Header -->
+<tbody>
+<tr>
+<td style="padding: 30px 30px 20px 30px;">
+<table style="width: 100%; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr style="vertical-align: middle;">
+<td style="vertical-align: middle;" width="phishing@pot">
+<table role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #f25022;">&nbsp;</td>
+<td style="width: 2px; padding: 0;">&nbsp;</td>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #7fba00;">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 2px; padding: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #00a4ef;">&nbsp;</td>
+<td style="width: 2px; padding: 0;">&nbsp;</td>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #ffb900;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 5px;"><span style="font-family: 'Segoe UI', Arial, sans-serif; color: #000000; font-size: 20px; font-weight: 600; line-height: 15px; letter-spacing: -0.2px;">Microsoft</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Content -->
+<tr>
+<td style="padding: 0 30px;">
+<h1 style="margin: 0 0 20px 0; font-family: Arial, sans-serif; font-size: 20px; line-height: 32px; color: #000000; font-weight: bold;">Unusual Two-Factor Authentication (2FA) activity</h1>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 20px;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 15px; background-color: #f0f6ff; border-left: 4px solid #0078D4;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000;">Important Account Notification.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 20px; background-color: #f8f8f8;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 20px;">
+<p style="margin: 0 0 10px 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000; font-weight: bold;">We noticed a change to the Two-Factor Authentication (2FA) on your account from a device located in the Netherlands:</p>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">&bull; The change in your account&rsquo;s security settings from a device in the Netherlands may suggest that someone else has accessed your account.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">&bull; If your account was accessed by an unauthorised party, they could have had the chance to view or modify personal details linked to your account.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">&bull; With this recent update, your account may be at greater risk for additional attempts to access related services or information.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">&bull; Acting promptly to review and secure your account can help reduce the possibility of any further unwanted changes or concerns.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 25px;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 15px; background-color: #fff4e1; border-radius: 4px;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000;"><strong>If you did not make this change, please contact us right away at <a id="LPlnk592184" style="vertical-align: middle; text-transform: capitalize; font-weight: bold; line-height: 1.2; margin: 0; text-align: left; color: #0052ff; font-family: sans-serif; font-size: 14px; text-decoration: none;" href="tel:+18886372731" target="_blank" rel="noopener noreferrer" data-linkindex="0" data-auth="NotApplicable">+1 888 637 2731</a> to safeguard your account.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Footer -->
+<table style="width: 100%; border-spacing: 0; margin-top: 30px; border-top: 1px solid #E1E1E1;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 20px 0;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 16px; color: #666666;">This is an automated system notification from Microsoft. Please do not reply.</p>
+<p style="margin: 8px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 16px; color: #666666;">Microsoft Corporation &bull; One Microsoft Way &bull; Redmond, WA 98052</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for &ldquo;sureprimeco&rdquo;.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@datamartinc.net</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@datamartinc.net</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">sureprimeco</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.datamartinc.net:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.datamartinc.net:2080/calendars/sureprimeco/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.datamartinc.net:2080/addressbooks/sureprimeco/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">sureprimeco</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.datamartinc.net:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.datamartinc.net:2079/calendars/sureprimeco/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.datamartinc.net:2079/addressbooks/sureprimeco/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS&reg; Mail.app&reg; for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of &ldquo;221.101.23.11&rdquo; through the &ldquo;cpanel&rdquo; service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: &ldquo;IOH B2B&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: &ldquo;For abuse and spam report please contact abuse@ioh.ac.us&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25" /></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright&copy;&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>&nbsp;</p>
+<!-- [if mso]>
+    <style type="text/css">
+    body, table, td, a, span {font-family: Arial, sans-serif !important;}
+    </style>
+    <![endif]-->
+<div lang="en" style="-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; background-color: #fafafa;" role="article" aria-roledescription="email">
+<table style="width: 100%; border: none; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 25px 0;" align="center">
+<table style="width: 600px; border-spacing: 0; border-collapse: separate; margin: 0 auto; background-color: #ffffff; border: 1px solid #E1E1E1; border-radius: 4px;" role="presentation"><!-- Header -->
+<tbody>
+<tr>
+<td style="padding: 30px 30px 20px 30px;">
+<table style="width: 100%; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr style="vertical-align: middle;">
+<td style="vertical-align: middle;" width="phishing@pot">
+<table role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #f25022;">&nbsp;</td>
+<td style="width: 2px; padding: 0;">&nbsp;</td>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #7fba00;">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 2px; padding: 0;">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #00a4ef;">&nbsp;</td>
+<td style="width: 2px; padding: 0;">&nbsp;</td>
+<td style="width: 15px; height: 15px; padding: 0; background-color: #ffb900;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="padding-left: 5px;"><span style="font-family: 'Segoe UI', Arial, sans-serif; color: #000000; font-size: 20px; font-weight: 600; line-height: 15px; letter-spacing: -0.2px;">Microsoft</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- Content -->
+<tr>
+<td style="padding: 0 30px;">
+<h1 style="margin: 0 0 20px 0; font-family: Arial, sans-serif; font-size: 20px; line-height: 32px; color: #000000; font-weight: bold;">Unusual Two-Factor Authentication (2FA) activity</h1>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 20px;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 15px; background-color: #f0f6ff; border-left: 4px solid #0078D4;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000;">Important Account Notification.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 20px; background-color: #f8f8f8;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 20px;">
+<p style="margin: 0 0 10px 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000; font-weight: bold;">We noticed a change to the Two-Factor Authentication (2FA) on your account from a device located in the Netherlands:</p>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">• The change in your account’s security settings from a device in the Netherlands may suggest that someone else has accessed your account.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">• If your account was accessed by an unauthorised party, they could have had the chance to view or modify personal details linked to your account.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">• With this recent update, your account may be at greater risk for additional attempts to access related services or information.</td>
+</tr>
+<tr>
+<td style="padding: 6px 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 20px; color: #666666;">• Acting promptly to review and secure your account can help reduce the possibility of any further unwanted changes or concerns.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 100%; border-spacing: 0; border-collapse: separate; margin-bottom: 25px;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 15px; background-color: #fff4e1; border-radius: 4px;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 14px; line-height: 20px; color: #000000;"><strong>If you did not make this change, please contact us right away at <a id="LPlnk592184" style="vertical-align: middle; text-transform: capitalize; font-weight: bold; line-height: 1.2; margin: 0; text-align: left; color: #0052ff; font-family: sans-serif; font-size: 14px; text-decoration: none;" href="tel:+18886372731" target="_blank" rel="noopener noreferrer" data-linkindex="0" data-auth="NotApplicable">+1 888 637 2731</a> to safeguard your account.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- Footer -->
+<table style="width: 100%; border-spacing: 0; margin-top: 30px; border-top: 1px solid #E1E1E1;" role="presentation">
+<tbody>
+<tr>
+<td style="padding: 20px 0;">
+<p style="margin: 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 16px; color: #666666;">This is an automated system notification from Microsoft. Please do not reply.</p>
+<p style="margin: 8px 0 0 0; font-family: Arial, sans-serif; font-size: 12px; line-height: 16px; color: #666666;">Microsoft Corporation • One Microsoft Way • Redmond, WA 98052</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for “sureprimeco”.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@datamartinc.net</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@datamartinc.net</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.datamartinc.net
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">sureprimeco</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.datamartinc.net:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.datamartinc.net:2080/calendars/sureprimeco/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.datamartinc.net:2080/addressbooks/sureprimeco/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">sureprimeco</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.datamartinc.net:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.datamartinc.net:2079/calendars/sureprimeco/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.datamartinc.net:2079/addressbooks/sureprimeco/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS® Mail.app® for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of “221.101.23.11” through the “cpanel” service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: “IOH B2B”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: “For abuse and spam report please contact abuse@ioh.ac.us”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25"></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright©&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+

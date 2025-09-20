@@ -1,0 +1,249 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: A nota fiscal do seu pedido foi emitida! 
+From: Prefeitura Municipal <no-reply@suanotadisponivel.com.br>
+To: phishing@pot
+Date: Tue, 29 Aug 2023 20:05:52 +0000 (UTC)
+Message_Id: <20230829200552.2C101207AB@localhost.members.linode.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.nfe.fazenda.gov.br
+  - https://i.imgur.com/ouD8REx.png
+  - span.link{text-decoration:
+  - https://i.imgur.com/H78GkpR.png
+  - hotmail.com
+  - https://i.imgur.com/pKdTVca.png
+  - http://188.106.205.92.host.secureserver.net/NotaFiscal
+  - https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap
+
+DECODED TEXT CONTENT:
+------------------------------
+Documento @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap'); *{font-family: "Lato", "Segoe UI", sans-serif;} .center{width: 700px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;} .header{background: #000;display: block;padding: 15px 0;} .header .logo{width: 206px;background: #000;} .header .logo h4{margin: 0;color: #fff;z-index: -1;font-size: 15px;} .header .logo img{z-index: 10;margin-top: -15px;width: 150px;} .header .right{color: #fff;border: 1px solid rgba(255,255,255,.5);border-radius: 25px;padding: 5px 15px;font-weight: 600;font-size: 11px;cursor: pointer;} .header .right span{color: #0a8bc5;} .main{display: block;margin: 40px 0;} .main .center{flex-direction: column;align-items: flex-start;} .main .title{display: block;width: 100%;} .main .title h1{margin: 0;font-size: 22px;color: #024591;} .main table tr{border-bottom: 1px solid #ccc;} .footer{background: #000;padding: 10px 0;display: block;margin: 60px 0 0 0;} .footer .center{flex-direction: column;} .footer p{color: #999;font-size: 12px;text-align: center;} .footer p span.link{text-decoration: underline;cursor: pointer;color: #09f;} .footer img{width: 150px;} Nota Fiscal Eletrônica Nota Fiscal + Digital A sua nota fiscal já está disponível! Este e-mail é referenciado e emitido pelo prestador de serviços listado abaixo, autenticada pela Sefaz (Secretária da fazenda). Você também poderá consultar esta nota fiscal no site da fazenda Utilizando estes dados: Razão Social Prefeitura Municipal Inscrição Municipal 4.78244-1 CNPJ 61.486.650/0001-83 Email comprador rodrigo-f-p@hotmail.com Arquivos NF-e Baixar Nota Fiscal Eletrônica Cod. Autenticação 0708SSPSP14182023 Valor da Nota R$ 3.557,99 Esta é uma mensagem automática, favor não responder! Portal da Nota Fiscal Eletrônica, www.nfe.fazenda.gov.br
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<title>Documento</title>
+
+
+
+	<style>
+
+		@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+		*{font-family: "Lato", "Segoe UI", sans-serif;}
+
+
+
+		.center{width: 700px;margin: 0 auto;display: flex;justify-content: space-between;align-items: center;}
+
+
+
+		.header{background: #000;display: block;padding: 15px 0;}
+
+		.header .logo{width: 206px;background: #000;}
+
+		.header .logo h4{margin: 0;color: #fff;z-index: -1;font-size: 15px;}
+
+		.header .logo img{z-index: 10;margin-top: -15px;width: 150px;}
+
+		.header .right{color: #fff;border: 1px solid rgba(255,255,255,.5);border-radius: 25px;padding: 5px 15px;font-weight: 600;font-size: 11px;cursor: pointer;}
+
+		.header .right span{color: #0a8bc5;}
+
+
+
+		.main{display: block;margin: 40px 0;}
+
+		.main .center{flex-direction: column;align-items: flex-start;}
+
+		.main .title{display: block;width: 100%;}
+
+		.main .title h1{margin: 0;font-size: 22px;color: #024591;}
+
+
+
+		.main table tr{border-bottom: 1px solid #ccc;}
+
+
+
+		.footer{background: #000;padding: 10px 0;display: block;margin: 60px 0 0 0;}
+
+		.footer .center{flex-direction: column;}
+
+		.footer p{color: #999;font-size: 12px;text-align: center;}
+
+		.footer p span.link{text-decoration: underline;cursor: pointer;color: #09f;}
+
+		.footer img{width: 150px;}
+
+	</style>
+
+</head>
+
+<body style="margin: 0;padding: 0;">
+
+
+
+<div class="header">
+
+	<div class="center">
+
+		<div class="logo">
+
+			<h4>Nota Fiscal Eletrônica</h4>
+
+			<img src="https://i.imgur.com/pKdTVca.png" alt="">
+
+		</div>
+
+		<div class="right">Nota Fiscal + <span>Digital</span></div>
+
+	</div>
+
+</div>
+
+
+
+<div class="main">
+
+	<div class="center">
+
+		<div class="title">
+
+			<h1>A sua nota fiscal já está disponível!</h1>
+
+			<img src="https://i.imgur.com/ouD8REx.png" alt="">
+
+		</div>
+
+		<div class="info">
+
+			<p>
+
+				Este e-mail é referenciado e emitido pelo prestador de serviços listado abaixo, autenticada pela Sefaz (Secretária da fazenda).
+
+				Você também poderá consultar esta nota fiscal no site da fazenda Utilizando estes dados:
+
+			</p>
+
+			<table style="display: block;width: 100%;border: 1px solid #ccc;" border="1" cellpadding="5">
+
+				<tr>
+
+					<td width="300px" style="color: #666;">Razão Social</td>
+
+					<td width="400px" style="color: #000;font-weight: 700;">Prefeitura Municipal</td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">Inscrição Municipal</td>
+
+					<td style="color: #000;font-weight: 700;">4.78244-1</td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">CNPJ</td>
+
+					<td style="color: #000;font-weight: 700;">61.486.650/0001-83</td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">Email comprador</td>
+
+					<td style="color: #000;font-weight: 700;">rodrigo-f-p@hotmail.com
+</td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">Arquivos NF-e</td>
+
+					<td style="color: #000;font-weight: 700;"><a href="http://188.106.205.92.host.secureserver.net/NotaFiscal">Baixar Nota Fiscal Eletrônica</a></td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">Cod. Autenticação</td>
+
+					<td style="color: #000;font-weight: 700;">0708SSPSP14182023</td>
+
+				</tr>
+
+				<tr>
+
+					<td style="color: #666;">Valor da Nota</td>
+
+					<td style="color: #000;font-weight: 700;">R$ 3.557,99</td>
+
+				</tr>
+
+			</table>
+
+		</div>
+
+	</div>
+
+</div>
+
+
+
+<div class="pre-footer">
+
+	<div class="center">
+
+		<img src="https://i.imgur.com/H78GkpR.png" alt="Orgãos e entidades" style="cursor: pointer;">
+
+	</div>
+
+</div>
+
+
+
+<div class="footer">
+
+	<div class="center">
+
+		<p>
+
+			Esta é uma mensagem automática, favor não responder! <br>
+
+			Portal da Nota Fiscal Eletrônica, <span class="link">www.nfe.fazenda.gov.br</span><br><br><br>
+
+		</p>
+
+		<img src="https://i.imgur.com/pKdTVca.png" alt="Nota Fiscal Eletrônica">
+
+		<br>
+
+	</div>
+
+</div>
+
+
+
+</body>
+
+</html>

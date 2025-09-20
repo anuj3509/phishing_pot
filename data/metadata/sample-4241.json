@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Exclusive Update: Your stETH Rewards are Ready!",
+    "from": "Lido <hello@lido.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 26 Oct 2024 14:31:22 +0000 (UTC)",
+    "message_id": "<20241026143122.F1610CCA3708CF11@lido.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC3e6mkjaFQDj4SwnZijEpTQPjCg8IyMV5GFjPgJhoaZAqEO_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMU4ueGHqxV3tNuxc1I-2Bl6XLjuiAVlwFidGeOxYdpKu-2BGz-2BsJguscFHPqNlhphLlD1yBMRHvHNdon16toHKh4Ssd-2B2-2BhUaOZI8NPtzIOLQB2YcmPF9D18Vw3y4CLSUoo6-2BEQ-3D-3D",
+      "https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoV1iNkm3hNIGnxe1wqjGHHsqYSZ8O0Otojge-2BJvnpN84Zijhmsyp8xQ4iSQgljjDjKPkwJZHSjdWV8rh0rMpp6m16j0H4uaSdU9VIyA59YrtpMfJAIfOAhPeTggTBlzlJJdcJJJM-2FFGtvIf-2BN6aHySWeU-2FX5p9PsqqS0MKjQ0riyI0DlUbZHM-2Btia4-2FjhiYcaE-3D",
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qJZqga1sN3QA-2FOSogamFUmY7IBhNwLJSN12K5L-2FkOHB5QjRUAEqItSJ1TZdSMA4jkQ-3D-3Drr32_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMUxsfaG3bvzEFkuHo8tvCKssl16fwDOwUscVwhfI4FysnA-2FdBuV2ya255KXkRzPo6EhhH382wBUbhAU7TnS7y8dVSjIqpXjlwvvEU4p1WWStBU-2FPv99oy6G5Bd6TbPXrJVA-3D-3D",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1420,
+    "html_length": 4908,
+    "has_text": true,
+    "has_html": true
+  }
+}

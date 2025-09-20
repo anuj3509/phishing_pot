@@ -1,0 +1,163 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ����Car Emergency Kit
+From: AAA <support@aaa>
+To: <phishing@pot>
+Date: Mon, 30 Jun 2025 21:18:20 +0000
+Message_Id: <05352269-bb2b-44f5-98cf-defb1ffbf9ec@SJ1PEPF000026C3.namprd04.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Montserrat:wght@400;700&amp;family=Lato:wght@400;700&amp;family=Poppins:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Open+Sans:wght@400;700&amp;family=Roboto:wght@400;700&amp;family=Raleway:wght@400;700&amp;family=Ubuntu:wght@400;700&amp;family=Source+Sans+Pro:wght@400;700&amp;family=Merriweather:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Lora:wght@400;700&amp;family=EB+Garamond:wght@400;700&amp;family=Georgia:wght@400;700&amp;family=Fira+Code:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;family=IBM+Plex+Mono:wght@400;700&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap
+  - zupimages.net/up/24/36/ax9x.png
+  - http://jRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/4jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209
+  - https://zupimages.net/up/24/41/r0ce.png
+  - zupimages.net/up/25/22/2vhu.png
+  - https://zupimages.net/up/24/36/ax9x.png
+  - http://jRWBZQipNiPiQGu9h5JijRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/6jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209
+  - https://zupimages.net/up/25/22/2vhu.png
+  - http://jRWBZQipNiPiQGu9h5JijRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/5jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209
+  - http://rIdQzJZQmZbDUfXQipNiPiQGu9h5JirIdQzJZQmZbDUfX.healthspherespace.site/track/3jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209
+  - zupimages.net/up/24/41/r0ce.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Promotion Decathlon body { font-family: "Montserrat", sans-serif; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; margin: 0; } .container { border-radius: 1px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center; max-width: 450px; } .header { font-size: 24px; font-weight: bold; color: #333; font-family: "Poppins", sans-serif; } .subheader { font-size: 20px; color: #555; margin: 10px 0; } .product { font-size: 26px; color: #222; margin: 10px 0; } .description { font-size: 18px; margin: 10px 0; padding: 20px; } .year { font-size: 16px; color: #333; margin: 10px 0; } .button { background-color: #000; color: #fff; padding: 10px 40px; border: none; border-radius: 1px; cursor: pointer; font-size: 16px; } congratulation! YOU HAVE BEEN SELECTED! to win a brand new Car Emergency Kit! Customer feedback has always been key to improving the AAA experience. Take a quick survey for a chance to win a fantastic prize, and let us know how you really feel. Let's Go If you no longer wish to receive these emails, you may unsubscribe by clicking here. If you no longer wish to receive this offer, you may unsubscribe by clicking here.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promotion Decathlon</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Montserrat:wght@400;700&amp;family=Lato:wght@400;700&amp;family=Poppins:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Open+Sans:wght@400;700&amp;family=Roboto:wght@400;700&amp;family=Raleway:wght@400;700&amp;family=Ubuntu:wght@400;700&amp;family=Source+Sans+Pro:wght@400;700&amp;family=Merriweather:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Lora:wght@400;700&amp;family=EB+Garamond:wght@400;700&amp;family=Georgia:wght@400;700&amp;family=Fira+Code:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;family=IBM+Plex+Mono:wght@400;700&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: "Montserrat", sans-serif;
+        background-color: #f0f0f0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+      }
+      .container {
+        border-radius: 1px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        max-width: 450px;
+      }
+      .header {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        font-family: "Poppins", sans-serif;
+      }
+      .subheader {
+        font-size: 20px;
+        color: #555;
+        margin: 10px 0;
+      }
+      .product {
+        font-size: 26px;
+        color: #222;
+        margin: 10px 0;
+      }
+      .description {
+        font-size: 18px;
+        margin: 10px 0;
+        padding: 20px;
+      }
+      .year {
+        font-size: 16px;
+        color: #333;
+        margin: 10px 0;
+      }
+      .button {
+        background-color: #000;
+        color: #fff;
+        padding: 10px 40px;
+        border: none;
+        border-radius: 1px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="http://jRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/4jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209" style="text-decoration: none; color: inherit">
+        <div>
+
+          <div style="padding: 10px 20px">
+            <div class="header">
+              <img src="//zupimages.net/up/24/36/ax9x.png" width="200px">
+              <img src="https://zupimages.net/up/24/36/ax9x.png" width="200px">
+            </div>
+            <h5>congratulation!</h5>
+            <div class="subheader">YOU HAVE BEEN SELECTED!</div>
+            <div class="product">to win a brand new Car Emergency Kit!</div>
+          </div>
+          <img src="//zupimages.net/up/24/41/r0ce.png" style="max-width: 80%">
+          <img src="https://zupimages.net/up/24/41/r0ce.png" style="max-width: 80%">
+          <div class="description">
+            Customer feedback has always been key to improving the AAA experience. Take a quick survey for a chance to win a fantastic prize, and let us know how you really feel. 
+          </div>
+
+          <div style="margin: -20px auto 40px auto">
+
+
+            <!--Button-->
+            <a href="http://jRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/4jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209">
+              <div style="
+                  color: #fff;
+                  min-width: 260px;
+                  font-size: 20px;
+                  margin-top: 20px;
+                  font-size: 22px;
+                  font-weight: bold;
+                  line-height: 1;
+                  text-transform: uppercase;
+                  background: rgb(64, 202, 236);
+                  display: inline-block;
+                  padding: 16px 10px;
+                  text-decoration: none;
+                  border-radius: 20px;
+                  margin: 30px 0px;
+                  text-align: center;
+                ">
+              Let's Go             </div>
+            </a>
+            <!--Button-->
+            
+          <img src="//zupimages.net/up/25/22/2vhu.png" width="100%">
+          <img src="https://zupimages.net/up/25/22/2vhu.png" width="100%">
+          </div>
+        </div>
+      </a>
+      <div style="margin-top: 600px;"></div>
+      <p style="font-size: 12px; color: #797979; max-width: 600px; line-height: 1.4;">
+        If you no longer wish to receive these emails, you may unsubscribe by <a href="http://jRWBZQipNiPiQGu9h5JijRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/6jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209" style="color:#666;text-decoration:none;">clicking here.</a>
+    </p>
+
+    <br>
+    <p style="font-size: 12px; color: #797979; max-width: 600px; line-height: 1.4;">
+      If you no longer wish to receive this offer, you may unsubscribe by <a href="http://jRWBZQipNiPiQGu9h5JijRWBZQipNiPiQGu9h5JijRWBZ.healthspherespace.site/5jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209" style="color:#666;text-decoration:none;">clicking here.</a>
+  </p>
+    </div>
+  </body>
+  <img src="http://rIdQzJZQmZbDUfXQipNiPiQGu9h5JirIdQzJZQmZbDUfX.healthspherespace.site/track/3jRWBZ29154ULzq167najhfplvuf3761VHQFWIGJRJTOVIN56526KRLQ1431g209" width="0" height="0" style="position: absolute; visibility: hidden" border="0">
+</html>
+
+
+

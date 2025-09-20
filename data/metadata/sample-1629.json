@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Notice: Wholesale Survey Offer expiring soon!",
+    "from": "Venmo Stores ,_<r9rld@eqbfet2k81.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Oct 2023 03:24:29 +0000",
+    "message_id": "\r\n <36c6f370-2557-40b9-91bd-ca43ad2dc336@BL6PEPF0001AB51.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/8OUzGqZ8ZQ",
+      "http://anuspamsom.com/track/3FBPMr207CCZm14wktjbmgkab65DRIYTXRYKBQDITW1371191/10181j9",
+      "i.imgur.com/Jqdocps.png",
+      "https://t.co/GAPqZJGDf8",
+      "http://dtherhproblem.us/6AmrTN207OBSk14emdsmfckhw65GFLCHITVTHFPDWX1371191/10181e9",
+      "https://i.imgur.com/Jqdocps.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 301,
+    "html_length": 8748,
+    "has_text": true,
+    "has_html": true
+  }
+}

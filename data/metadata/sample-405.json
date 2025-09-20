@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Directaxis loan @ 5% Rates Offer",
+    "from": "Online Advert <directaxiscustomerservices002@outlook.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Sun, 26 Feb 2023 07:03:05 +0000",
+    "message_id": "\r\n <1e36350b6cb948a18820aab5fac1f9780cb79a10f2f04c3a85a79f46f52b774fd2099b089b224f378827e0e1db9f7889DB7PR09MB2506F7D8FB72265FB563E8EFEAA59@DB7PR09MB2506.eurprd09.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_1e36350b6cb948a18820aab5fac1f9780cb79a10f2f04c3a85a79f4_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_1e36350b6cb948a18820aab5fac1f9780cb79a10f2f04c3a85a79f4_\""
+  },
+  "attachments": [
+    {
+      "filename": "Welcome_To_Direct_Axis.pdf",
+      "content_type": "application/pdf",
+      "size": 486356
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 404,
+    "html_length": 1498,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda aguarda o pagamento da taxa de importação! Protocolo: 20276191.",
+    "from": "Correios SA <alfandega990472@correios>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Fri, 4 Oct 2024 12:12:09 +0000",
+    "message_id": "<25e3d75bd78616c79c9b46e96e85c8f0@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_25e3d75bd78616c79c9b46e96e85c8f0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_25e3d75bd78616c79c9b46e96e85c8f0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://importacoes-rastreamentocorreios.com.ua/rastreamento/taxa575",
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3629,
+    "has_text": true,
+    "has_html": true
+  }
+}

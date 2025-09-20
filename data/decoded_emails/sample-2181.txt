@@ -1,0 +1,236 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Confirm your email
+From: Gemography Team <jobs@gemography.com>
+To: phishing@pot
+Date: Tue, 12 Dec 2023 16:50:35 +0000 (UTC)
+Message_Id: <nvJvtGNuQcmabVGzC2NKEg@geopod-ismtpd-4>
+Content_Type: multipart/alternative; boundary=1b100ab47a50cb3a2cb013d8cd923e44dcc26823088eb12e92b48cdeb79c
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary=1b100ab47a50cb3a2cb013d8cd923e44dcc26823088eb12e92b48cdeb79c
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, verify, confirm
+URLs found:
+  - https://forms.yandex.com/cloud/6578893743f74f42d1c6421e/?j04mua1j,
+  - table.wrapper-mobile
+  - https://app.gemography.com/verify?code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvZHJpZ28tZi1wQGhvdG1haWwuY29tIiwiZW1haWxWZXJpZmljYXRpb25Db2RlIjoiNDA2YmVlNjktNzg3YS00MTRiLWI2MjUtNDQwMWUwNTJhNDY4IiwiZXhwaXJlc0F0IjoiMjAyMy0xMi0xOVQxNjo1MDozNC44MDBaIiwiaWF0IjoxNzAyMzk5ODM0fQ.x83tVAU3tVkV1n-C9rS-991ReTF46BRaPtqF8fZOrrM
+  - .column.of-3
+  - http://www.w3.org/1999/xhtml
+  - table.wrapper
+  - .column.of-4
+  - a.bulletproof-button
+  - img.max-width
+  - http://url4111.gemography.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkBRaOzfE7F8CYKPKCZV-2Fm0mMFrFRBpMZpYB-2Bv-2FFT70k-2FBV3BojRO4sirWwd3HnufgkeCqUPYan0eaQgBYtMMTpVPOmrUGNOb3jzBlru4QMo3kDnKO7mXBmrBHiNeqpJRmnbLH3y1y8E8Krlnp919Vv
+  - .column.of-2
+  - http://url4111.gemography.com/wf/unsubscribe?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkV-2B0K8aypG6c6FuGz-2Bxw72kOaRSoWR5-2F3sTj5fA1LJvOGD-2BWpLyb9NycIFeUFlkPhJKpyZ6CziJEPUPy235dcDYa6uZJyU-2BrIVNmRq5BV3Q3a6oV1OZ1K-2F-2F2JS-2Bl8XQcuSIUvrACq445cQ9itU3Jw8VHSm8-2BLc3owpK2uryHuHVg-3D-3D
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+Hello ✅   +$1,989 ➡️ https://forms.yandex.com/cloud/6578893743f74f42d1c6421e/?j04mua1j,
+
+Thanks for applying to Gemography. To get started, we kindly ask you to confirm your email address by clicking the link below:
+
+Confirm your email ( https://app.gemography.com/verify?code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvZHJpZ28tZi1wQGhvdG1haWwuY29tIiwiZW1haWxWZXJpZmljYXRpb25Db2RlIjoiNDA2YmVlNjktNzg3YS00MTRiLWI2MjUtNDQwMWUwNTJhNDY4IiwiZXhwaXJlc0F0IjoiMjAyMy0xMi0xOVQxNjo1MDozNC44MDBaIiwiaWF0IjoxNzAyMzk5ODM0fQ.x83tVAU3tVkV1n-C9rS-991ReTF46BRaPtqF8fZOrrM )
+
+(The confirmation link above will expire after 7 days)
+
+— Gemography Team
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+      <!--[if !mso]><!-->
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+      <!--<![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+      <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+      <style type="text/css">
+    body, p, div {
+      font-family: arial,helvetica,sans-serif;
+      font-size: 14px;
+    }
+    body {
+      color: #000000;
+    }
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+    p { margin: 0; padding: 0; }
+    table.wrapper {
+      width:100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+    img.max-width {
+      max-width: 100% !important;
+    }
+    .column.of-2 {
+      width: 50%;
+    }
+    .column.of-3 {
+      width: 33.333%;
+    }
+    .column.of-4 {
+      width: 25%;
+    }
+    ul ul ul ul  {
+      list-style-type: disc !important;
+    }
+    ol ol {
+      list-style-type: lower-roman !important;
+    }
+    ol ol ol {
+      list-style-type: lower-latin !important;
+    }
+    ol ol ol ol {
+      list-style-type: decimal !important;
+    }
+    @media screen and (max-width:480px) {
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+      .columns {
+        width: 100% !important;
+      }
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+      .social-icon-column {
+        display: inline-block !important;
+      }
+    }
+  </style>
+    <style>
+      @media screen and (max-width:480px) {
+        table\0 {
+          width: 480px !important;
+          }
+      }
+    </style>
+      <!--user entered Head Start--><!--End Head user entered-->
+    </head>
+    <body>
+      <center class="wrapper" data-link-color="#1188E6" data-body-style="font-size:14px; font-family:arial,helvetica,sans-serif; color:#000000; background-color:#FFFFFF;">
+        <div class="webkit">
+          <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#FFFFFF">
+            <tr>
+              <td valign="top" bgcolor="#FFFFFF" width="100%">
+                <table width="100%" role="content-container" class="outer" align="center" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td width="100%">
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td>
+                            <!--[if mso]>
+    <center>
+    <table><tr><td width="600">
+  <![endif]-->
+                                    <table width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%; max-width:600px;" align="center">
+                                      <tr>
+                                        <td role="modules-container" style="padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor="#FFFFFF" width="100%" align="left"><table class="module preheader preheader-hide" role="module" data-type="preheader" border="0" cellpadding="0" cellspacing="0" width="100%" style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+    <tr>
+      <td role="module-content">
+        <p></p>
+      </td>
+    </tr>
+  </table><table class="module" role="module" data-type="text" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="02313423-1832-4cad-9aa7-61ab9ef065a6" data-mc-module-version="2019-10-22">
+    <tbody>
+      <tr>
+        <td style="padding:18px 0px 18px 0px; line-height:22px; text-align:inherit;" height="100%" valign="top" bgcolor="" role="module-content"><div><div style="font-family: inherit; text-align: left">Hello ✅   +$1,989 ➡️ https://forms.yandex.com/cloud/6578893743f74f42d1c6421e/?j04mua1j,<br>
+<br>
+Thanks for applying to Gemography. To get started, we kindly ask you to confirm your email address by clicking the link below:&nbsp;</div>
+<div style="font-family: inherit; text-align: start"><br></div>
+<div style="font-family: inherit; text-align: start"><a href="https://app.gemography.com/verify?code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvZHJpZ28tZi1wQGhvdG1haWwuY29tIiwiZW1haWxWZXJpZmljYXRpb25Db2RlIjoiNDA2YmVlNjktNzg3YS00MTRiLWI2MjUtNDQwMWUwNTJhNDY4IiwiZXhwaXJlc0F0IjoiMjAyMy0xMi0xOVQxNjo1MDozNC44MDBaIiwiaWF0IjoxNzAyMzk5ODM0fQ.x83tVAU3tVkV1n-C9rS-991ReTF46BRaPtqF8fZOrrM"><span style="box-sizing: border-box; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; font-family: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; font-size: 14px; vertical-align: baseline; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: initial; border-top-color: initial; border-right-color: initial; border-bottom-color: initial; border-left-color: initial; border-image-source: initial; border-image-slice: initial; border-image-width: initial; border-image-outset: initial; border-image-repeat: initial; outline-color: initial; outline-style: none; outline-width: initial; color: #1188e6; text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; transition-duration: 0.3s; transition-timing-function: initial; transition-delay: initial; transition-property: color; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; -webkit-text-stroke-width: 0px"><u>Confirm your email</u></span></a></div>
+<div style="font-family: inherit; text-align: inherit"><br></div>
+<div style="font-family: inherit; text-align: inherit"><span style="caret-color: rgb(0, 0, 0); color: #000000; font-family: arial, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">(The confirmation link above will expire after 7 days)&nbsp;</span></div>
+<div style="font-family: inherit; text-align: inherit"><br></div>
+<div style="font-family: inherit; text-align: inherit"><span style="caret-color: rgb(0, 0, 0); color: #000000; font-family: arial, helvetica, sans-serif; font-size: 14px; font-style: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-line: none; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline">— Gemography Team</span></div><div></div></div></td>
+      </tr>
+    </tbody>
+  </table></td>
+                                      </tr>
+                                    </table>
+                                    <!--[if mso]>
+                                  </td>
+                                </tr>
+                              </table>
+                            </center>
+                            <![endif]-->
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+        </div>
+      </center>
+    <center>
+<p style="color: rgb(170, 170, 170); font-style: italic;"><small><code><samp><a href="http://url4111.gemography.com/wf/unsubscribe?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkV-2B0K8aypG6c6FuGz-2Bxw72kOaRSoWR5-2F3sTj5fA1LJvOGD-2BWpLyb9NycIFeUFlkPhJKpyZ6CziJEPUPy235dcDYa6uZJyU-2BrIVNmRq5BV3Q3a6oV1OZ1K-2F-2F2JS-2Bl8XQcuSIUvrACq445cQ9itU3Jw8VHSm8-2BLc3owpK2uryHuHVg-3D-3D"> Unsubscribe </a></samp></code></small></p>
+</center>
+<img src="http://url4111.gemography.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkBRaOzfE7F8CYKPKCZV-2Fm0mMFrFRBpMZpYB-2Bv-2FFT70k-2FBV3BojRO4sirWwd3HnufgkeCqUPYan0eaQgBYtMMTpVPOmrUGNOb3jzBlru4QMo3kDnKO7mXBmrBHiNeqpJRmnbLH3y1y8E8Krlnp919Vv" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+  </html>

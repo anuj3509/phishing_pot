@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "[Action required] Verify your identity to continue using your\r\n account #707641",
+    "from": "V‍e‍‍‍n‍m‍o‍ S‍‍‍u‍p‍p‍‍‍‍‍o‍r‍t‍‍‍‍‍ ‍‍ ‍‍ ‍‍<mailsuspremdeusmachine24395@dev.kuroit.co.uk>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Feb 2023 17:20:09 +0000",
+    "message_id": "<b69143d8-863f-0d6a-12c9-9b8490e4b3be@dev.kuroit.co.uk>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-054e26d46dd41867-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-054e26d46dd41867-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.linkedin.com/slink?code=gzq-mDRH?mwmw158386",
+      "https://www.linkedin.com/slink?code=gzq-mDRH?mwmw119300",
+      "table.icons-inner",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6,
+    "html_length": 34162,
+    "has_text": true,
+    "has_html": true
+  }
+}

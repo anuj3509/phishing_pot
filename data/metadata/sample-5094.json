@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Suspensão da CNH em curso: acesse e evite restrições. Registro: 79230750.",
+    "from": "DETRAN - Aviso Urgente <comunicado703025@detran>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 18 Mar 2025 11:28:01 +0000",
+    "message_id": "<39a5df6c261cd3e49fe2bff8895c5ae1@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_39a5df6c261cd3e49fe2bff8895c5ae1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_39a5df6c261cd3e49fe2bff8895c5ae1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://function-1-765775392619.us-central1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4112,
+    "has_text": true,
+    "has_html": true
+  }
+}

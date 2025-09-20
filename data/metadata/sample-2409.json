@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Até 10 produtos na Edição Limitada Dezembro 2023",
+    "from": "\"Receba a Caixa Misteriosa\" <envio@panfletovirtual.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Sat, 23 Dec 2023 01:01:22 +0000",
+    "message_id": "<b771c5fb2b85fc7aaba830114eafe24e@www.petrolinadigital.com.br>",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_d4e0e8d8da3612238fd5ca62474ef6d7\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_d4e0e8d8da3612238fd5ca62474ef6d7\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://assets-mail-marketing.s3.amazonaws.com/caixa/Sem-Titulo-2_1_2.png",
+      "https://www.petrolinadigital.com.br/PV2023/vaza.php?M=9884667&amp;C=cbd7ab4c4905bd5623a14ef26c4274bc&amp;L=26&amp;N=1195",
+      "table.icons-inner",
+      "https://www.petrolinadigital.com.br/PV2023/link.php?M=9884667&amp;N=1195&amp;L=676&amp;F=H",
+      "https://www.petrolinadigital.com.br/PV2023/open.php?M=9884667&amp;L=26&amp;N=1195&amp;F=H&amp;image=.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 57,
+    "html_length": 8096,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Rodrigo a mensalidade do seu plano de saúde foi reajustado",
+    "from": "\"Maria Fernanda\" <cotar@e.planos-compare.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 6 Jan 2024 01:54:24 -0300",
+    "message_id": "\r\n <0S6T002QSPMSGDJ0@rmta-ad3-fd2-302-us-ashburn-1.rmtaad3.vcndpiad.oraclevcn.com>",
+    "content_type": "Multipart/alternative; boundary=\"0068BEFF_4E2732BD_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"0068BEFF_4E2732BD_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.seguro-auto.com/app-d/lnk.php?id=322C33322C726F647269676F2D662D7040686F746D61696C2E636F6D2C31313232",
+      "table.MsoNormalTable"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1405,
+    "html_length": 38518,
+    "has_text": true,
+    "has_html": true
+  }
+}

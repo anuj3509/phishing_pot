@@ -1,0 +1,173 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot , 🎉 You’re Just One Step Away from Your New iPhone 15!
+From: "Trend'n Daily Rewards"<admin@vans-schuhe.com.de>
+To: phishing@pot
+Date: Wed, 27 Nov 2024 03:50:59 +0000
+Message_Id: <ipitxsjeosdtiaD_4oh557269040982484769976902936971782432367758747481180230712109966492463801076257454127650552459325367480658384825037701388360179333843321679380153932603460590918118656675737288662911.1.RICMP18BNIKL46XYB9XRTZphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>
+Content_Type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: binary
+content_type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm, limited time
+URLs found:
+  - http://0x33c3770d/4QdeOV6127TVoO244dsleglfjxu143NCPNWJIQUGVRRSO62ISPH219D17
+  - http://0x33c3770d/t/5RtTPj6127ykEK244xbfmopmspg143GQDETBZNYWPLQBA62OCCX219C17
+  - http://0x33c3770d/t/track/3DmPkf6127GilG244kqgufxwzpu143LPGDHAVXZRXKSPU62BQFC219E17
+  - http://0x33c3770d/4bFERc6127yhBp244khhvmlbdks143MTPSMLDMITPXJLR62WVTL219i17
+
+DECODED TEXT CONTENT:
+------------------------------
+body { margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f5f7; } .container { max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1); border: 1px solid #e3e6ea; } .header { background: linear-gradient(90deg, #4caf50, #3c91e6); text-align: center; padding: 40px 20px; color: #ffffff; } .header .logo { font-size: 30px; font-weight: bold; text-transform: uppercase; background-color: #ffffff; color: #4caf50; padding: 10px 20px; display: inline-block; border-radius: 5px; margin-bottom: 15px; } .header h1 { font-size: 28px; margin: 0; line-height: 1.4; } .body { padding: 25px; text-align: center; color: #333333; } .body h2 { font-size: 24px; color: #4caf50; margin-bottom: 10px; } .body p { font-size: 16px; line-height: 1.8; color: #666666; } .body .cta-button { display: inline-block; padding: 15px 30px; font-size: 18px; color: #ffffff; background-color: #4caf50; border-radius: 5px; text-decoration: none; font-weight: bold; margin: 20px 0; transition: background-color 0.3s ease; } .body .cta-button:hover { background-color: #3c91e6; } .image-section { padding: 20px; background-color: #f8f9fb; } .image-section img { max-width: 100%; border-radius: 8px; } .footer { background: #f4f5f7; text-align: center; padding: 15px 20px; font-size: 14px; color: #777777; } .footer a { color: #3c91e6; text-decoration: none; } .footer a:hover { text-decoration: underline; } Trend'n Daily Your Chance to Win a Brand-New iPhone 15! You're One Step Away! Imagine holding the latest iPhone 15 in your hands—sleek design, cutting-edge technology, and all yours! You’ve been exclusively selected to claim this amazing opportunity. Simply confirm your email address, and you’ll be entered to win. It takes less than 30 seconds to secure your chance to own the best smartphone of the year! Confirm My Email Now Don’t wait! This exclusive offer is only available for a limited time. Be part of the future. Be the lucky one. This email was sent by Trend'n Daily. If you have questions, contact us . © 2024 Trend'n Daily. All rights reserved. UNSUBSCRIBE
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f5f7;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e3e6ea;
+        }
+        .header {
+            background: linear-gradient(90deg, #4caf50, #3c91e6);
+            text-align: center;
+            padding: 40px 20px;
+            color: #ffffff;
+        }
+        .header .logo {
+            font-size: 30px;
+            font-weight: bold;
+            text-transform: uppercase;
+            background-color: #ffffff;
+            color: #4caf50;
+            padding: 10px 20px;
+            display: inline-block;
+            border-radius: 5px;
+            margin-bottom: 15px;
+        }
+        .header h1 {
+            font-size: 28px;
+            margin: 0;
+            line-height: 1.4;
+        }
+        .body {
+            padding: 25px;
+            text-align: center;
+            color: #333333;
+        }
+        .body h2 {
+            font-size: 24px;
+            color: #4caf50;
+            margin-bottom: 10px;
+        }
+        .body p {
+            font-size: 16px;
+            line-height: 1.8;
+            color: #666666;
+        }
+        .body .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            font-size: 18px;
+            color: #ffffff;
+            background-color: #4caf50;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+            margin: 20px 0;
+            transition: background-color 0.3s ease;
+        }
+        .body .cta-button:hover {
+            background-color: #3c91e6;
+        }
+        .image-section {
+            padding: 20px;
+            background-color: #f8f9fb;
+        }
+        .image-section img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .footer {
+            background: #f4f5f7;
+            text-align: center;
+            padding: 15px 20px;
+            font-size: 14px;
+            color: #777777;
+        }
+        .footer a {
+            color: #3c91e6;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- Header Section -->
+        <div class="header">
+            <div class="logo">Trend'n Daily</div>
+            <h1>Your Chance to Win a Brand-New iPhone 15!</h1>
+        </div>
+        
+        <!-- Image Section -->
+        <div class="image-section">
+     
+        
+        <!-- Body Section -->
+        <div class="body">
+            <h2>You're One Step Away!</h2>
+            <p>
+                Imagine holding the latest <strong>iPhone 15</strong> in your hands—sleek design, cutting-edge technology, and all yours! 
+                You’ve been exclusively selected to claim this amazing opportunity.
+            </p>
+            <p>
+                Simply confirm your email address, and you’ll be entered to win. It takes less than 30 seconds to secure your chance to own the best smartphone of the year!
+            </p>
+            <a href="http://0x33c3770d/4QdeOV6127TVoO244dsleglfjxu143NCPNWJIQUGVRRSO62ISPH219D17" class="cta-button">Confirm My Email Now</a>
+            <p>
+                Don’t wait! This exclusive offer is only available for a limited time. Be part of the future. Be the lucky one.
+            </p>
+        </div>
+        
+        <!-- Footer Section -->
+        <div class="footer">
+            <p>
+                This email was sent by Trend'n Daily. If you have questions, <a href="http://0x33c3770d/4bFERc6127yhBp244khhvmlbdks143MTPSMLDMITPXJLR62WVTL219i17">contact us</a>.
+            </p>
+            <p>© 2024 Trend'n Daily. All rights reserved.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+<br><br><br><br><br><br><br><br><a href="http://0x33c3770d/t/5RtTPj6127ykEK244xbfmopmspg143GQDETBZNYWPLQBA62OCCX219C17" style="color:#666;text-decoration:none;">UNSUBSCRIBE</a></p>
+						</td>
+					</tr>
+
+
+<img src="http://0x33c3770d/t/track/3DmPkf6127GilG244kqgufxwzpu143LPGDHAVXZRXKSPU62BQFC219E17" width="1px" height="1px" style="visibility:hidden"> </html>
+
+

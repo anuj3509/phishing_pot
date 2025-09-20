@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Boas Festas",
+    "from": "Amf Estopas <vendedorandre@amfestopas.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Dec 2023 10:57:56 -0300",
+    "message_id": "<0.6.0.7A.1DA3803872C21D2.3C9B8@hm1720-emkt13-4.locaweb.com.br>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_658adbea2c590_19983f8f16fa703c11798084\";\r\n charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_658adbea2c590_19983f8f16fa703c11798084\";\r\n charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://assets.mktnaweb.com/heisenberg/img-facebook-white.png",
+      "http://assets.mktnaweb.com/heisenberg/img-instagram-white.png",
+      "http://emailmarketing.locaweb.com.br/accounts/130541/unsubscribes/211/2411977?emkt_c=1660150474&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=197",
+      "notinline.css.map",
+      "div.he-col",
+      "http://www.w3.org/1999/xhtml",
+      "https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/355?envelope_id=197",
+      "div.he-col.he-three,",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/244/original_a-amf-estopas-celebra-33-anos%20%282%29.png?1703252642",
+      "http://emailmarketing.locaweb.com.br/accounts/130541/messages/211/openings/2411977?envelope_id=197",
+      "div.he-col.he-two-dot-four.he-last",
+      "table.he-image",
+      "http://emailmarketing.locaweb.com.br/accounts/130541/messages/211?email=phishing@pot&amp;c=1703252508&amp;contact_id=2411977&amp;envelope_id=197",
+      "outlook.css.map",
+      "div.he-col.he-two,",
+      "media.css.map",
+      "fonts.googleapis.com/css?family=Comfortaa",
+      "div.he-col.he-two-dot-four",
+      "div.he-col.he-two-dot-four:last-child",
+      "https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/354?envelope_id=197"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 251,
+    "html_length": 9685,
+    "has_text": true,
+    "has_html": true
+  }
+}

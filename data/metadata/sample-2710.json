@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Compra Pré-Aprovada. Nota Fiscal em Análise.",
+    "from": "\"Suporte Nubank - Autoatendimento Online. 0722909249435598\" <elvisoaecarleton378@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 31 Jan 2024 21:13:34 +0000",
+    "message_id": "<dc635e148acd548f427c2ea41663a811@gmail.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"38f1b5828eaf4c48ccd6fb870001a170\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"38f1b5828eaf4c48ccd6fb870001a170\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 232,
+    "html_length": 481,
+    "has_text": true,
+    "has_html": true
+  }
+}

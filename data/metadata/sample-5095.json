@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "taxa de regulariza����o da CNH PENDENTE! PROTOCOLO: 820753395",
+    "from": "Aviso Detran <atendimentodetran@online23875%gov.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 19 Mar 2025 04:06:25 +0800",
+    "message_id": "<20250318200625.9EE40466@ibsgnh49.vm>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://processocnh.gov-detran.co.ua/processo/?hash={rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1542,
+    "html_length": 3188,
+    "has_text": true,
+    "has_html": true
+  }
+}

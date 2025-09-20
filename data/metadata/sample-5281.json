@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Important: New Device Wallet Restoration Detected",
+    "from": "Ledger Support <noreply@ledger-ap.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 2 May 2025 23:40:34 +0000",
+    "message_id": "<01020196935f8c46-23f4d34b-2417-4757-9cdf-ed5efc7dd8cc-000000@eu-west-1.amazonses.com>",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledger-ap.com/check/",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 564,
+    "html_length": 3193,
+    "has_text": true,
+    "has_html": true
+  }
+}

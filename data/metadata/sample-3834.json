@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Wir haben eine wichtige Nachricht f��r Sie!",
+    "from": "Ihre Chance!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Aug 2024 04:18:54 +0200",
+    "message_id": "<5U5PL2N.0.0.5U5PL2N.9.5U5PL2N@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://magicmotorworks.info/op/575_md/1/2043/1223/30/123038",
+      "https://wear-prodct.com/?a=8101&amp;oc=21608&amp;c=57359&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/17/cv6t.png",
+      "www.zupimages.net/up/24/17/cv6t.png",
+      "http://magicmotorworks.info/oop/575_md/1/2043/1223/30/123038",
+      "http://magicmotorworks.info/un/575_md/1/2043/1223/30/123038",
+      "https://www.zupimages.net/up/24/32/65nb.png",
+      "www.zupimages.net/up/24/32/65nb.png",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5171,
+    "html_length": 12257,
+    "has_text": true,
+    "has_html": true
+  }
+}

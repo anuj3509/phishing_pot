@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Score released: 💸 +$91 date 2024.01.14 time 10:32 ",
+    "from": "xebsalabi@gmail.com",
+    "to": "phishing@pot",
+    "date": "Mon, 15 Jan 2024 09:34:44 +0000",
+    "message_id": "<autogen-java-1edccd4e-3be6-403d-b59c-178ff5a1d794@google.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000559fa5060ef8b9b4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000559fa5060ef8b9b4\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfrEwVyJ6E3M4i5pAoQ543Q0qUy0gHo8QxaYly8bQVMVoSBBA/viewscore?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;viewscore=AE0zAgDJ7hwgZwL1OPBPTs6jzoQmNyFJCUvAVzN5zflr3ZKP46OZhq0ebACPV8Df7V3CCyM",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 992,
+    "html_length": 3563,
+    "has_text": true,
+    "has_html": true
+  }
+}

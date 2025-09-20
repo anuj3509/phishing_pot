@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "��� Herzlichen Gl��ckwunsch,phishing@pot-f-p",
+    "from": "Netto-Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 23 Feb 2024 02:45:29 +0100",
+    "message_id": "<ej8eyo6.dso9w.3jp.3jp@rygudjrjpfsdrgx.hkb>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://viputtenweiler.com/op/6348_md/4049/25636/1199/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "http://viputtenweiler.com/oop/6348_md/4049/25636/1199/143/149762",
+      "https://sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://viputtenweiler.com/un/6348_md/4049/25636/1199/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1998,
+    "html_length": 9259,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Final warning\r\n  - Action Required",
+    "from": "\"proton.me Helpdesk\" <back-up@jookutsu.id>",
+    "to": "phishing@pot",
+    "date": "2 Jun 2023 11:17:40 +0200",
+    "message_id": "<20230602111740.BD31554A9E006EEE@jookutsu.id>",
+    "content_type": "multipart/mixed;boundary=---------------------df15a4f27cfbaf353e867a00c5604e0d"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------df15a4f27cfbaf353e867a00c5604e0d"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.costom.best/international.html?look=phishing@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 281,
+    "html_length": 3302,
+    "has_text": true,
+    "has_html": true
+  }
+}

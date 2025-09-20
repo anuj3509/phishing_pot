@@ -1,0 +1,215 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Hallo phishing@pot Sie sind einer unserer m��glichen Finalisten f��r einen REWE Gutschein.
+From: Gewinner Team, <service@stayfriends.de>
+To: phishing@pot
+Date: Thu, 14 Dec 2023 16:48:00 +0100
+Message_Id: <FuXDWwo.0.0.FuXDWwo.9.FuXDWwo@stayfriends.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://lovvisadvertising.go2cloud.org/aff_i?offer_id=799&amp;file_id=5904&amp;aff_id=1315
+  - www.zupimages.net/up/23/50/wofz.png
+  - https://www.zupimages.net/up/23/08/jev8.jpg
+  - http://rewe-groupe.superkoran.info/a1RRb1FGREg0Rzd0S2ltWU1OMi8rME5zZXJQRklibCtJSVNtNzlvYlMvSVNLQjM3SE4wQm5GWWdGbjRrMDdZVWxMNkJhZ2dydHU5c2V0alhMdFFvUW1ZMm9aZmJyUzRkK0tQRjlneE1LSlk9
+  - http://www.w3.org/1999/xhtml
+  - https://www.zupimages.net/up/23/50/ugn9.png
+  - http://rewe-groupe.superkoran.info/MHZVVldHTDNjY2o1WDJncUVJZ01HQUVETUNHS0pPYmNMNmgzRURYd1NKaVJ4b25GZWNPUVd5OStTWDBqS0I1U3ZzUjIxWURQaTNBbk9CeEtMU2taVU84UWM0Z1FTdkZid0hZV3Y5MlBIQmc9
+  - https://www.zupimages.net/up/23/50/wofz.png
+  - www.zupimages.net/up/23/08/jev8.jpg
+  - http://rewe-groupe.superkoran.info/UDF3Yi9NVHRQQ2ZPaWd1eE00SGxMTWJMT2ZJNk4yR1NXcDdKRFlrMm9sNitWTUR1OXZ3MG9QcWJJb0h4WU9haHhsMXIyRUNEYTVDYlhiNDBUMzgrN3k3SmZqei9aTlBnSXo1R1ByMGxkVlU9
+  - https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=
+  - www.zupimages.net/up/23/50/ugn9.png
+
+DECODED TEXT CONTENT:
+------------------------------
+newsletter ReadMsgBody { width: 100%; background-color: #e6e6e6; } ExternalClass { width: 100%; line-height: 100%; background-color: #e6e6e6; } html, body { margin:0; padding:0; } sizer { width:500px; } header_image { width:auto; height:auto; background-color: #cd1316; display:block; } text { width:100%; color:#1e2944; font-family: Helvetica, Arial, sans-serif; font-size: 15px; line-height: 21px; } button_image { width:326px; height:52px; background-color: #cd1316; } footer_image { width:500px; height:290px; background-color: #cd1316; display:block; } side { width:5%; background-color:#ffffff; } @media screen and (max-width: 500px) { .sizer { max-width:500px; width:100%; } .header_image { max-width:auto; width:auto; height:auto!important; min-height:20px; max-height:275px; } .button_image { max-width:326px; width:100%; height:auto!important; min-height:10px; max-height:52px; margin: 0 auto; } .footer_image { max-width:500px; width:100%; height:auto!important; min-height:20px; max-height:290px; } } Rewe-Gutschein zu gewinnen! Gewinne einen Rewe-Gutschein im Wert von 500 Euro Hallo phishing@pot, Sie sind einer unserer möglichen Finalisten für einen REWE Gutschein. Nehmen Sie jetzt gratis teil und gewinnen Sie mit etwas Glück einen Rewe-Gutschein im Wert von 500 Euro . Hoffentlich können wir Ihnen damit eine kleine Freude machen. Ihre Julia Vetter (Kundenbetreuung) click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>newsletter</title>
+<style type="text/css">
+ReadMsgBody {
+   width: 100%;
+   background-color: #e6e6e6;
+}
+ExternalClass {
+   width: 100%;
+    line-height: 100%;
+   background-color: #e6e6e6;
+}
+html, body {
+   margin:0;
+   padding:0;
+}
+sizer {
+   width:500px;
+}
+header_image {
+   width:auto;
+   height:auto;
+    background-color: #cd1316;
+   display:block;
+}
+text {
+   width:100%;
+   color:#1e2944;
+   font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+}
+button_image {
+   width:326px;
+   height:52px;
+    background-color: #cd1316;
+}
+footer_image {
+   width:500px;
+   height:290px;
+    background-color: #cd1316;
+   display:block;
+}
+side {
+   width:5%;
+   background-color:#ffffff;
+}
+@media screen and (max-width: 500px) {
+   .sizer {
+      max-width:500px;
+      width:100%;
+   }
+   .header_image {
+      max-width:auto;
+      width:auto;
+      height:auto!important;
+      min-height:20px;
+      max-height:275px;
+   }
+    .button_image {
+      max-width:326px;
+      width:100%;
+      height:auto!important;
+      min-height:10px;
+      max-height:52px;
+        margin: 0 auto;
+   }
+   .footer_image {
+      max-width:500px;
+      width:100%;
+      height:auto!important;
+      min-height:20px;
+      max-height:290px;
+   }
+}
+</style>
+</head>
+<body bgcolor="#e6e6e6">
+<div ems:preheader="" style="display:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all">Rewe-Gutschein zu gewinnen!</div>
+
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#e6e6e6">
+   <tr>
+      <td align="center">
+           
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#000; font-size:11px; background-color: #fff">
+                
+            </table>
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#000; font-size:26px; background-color: #fff">
+                <tr>
+                    <td align="center">
+                        <br>
+                        <strong>Gewinne einen Rewe-Gutschein</strong>
+                        <br>
+                        <span style="font-size: 22px">im Wert von 500 Euro</span>
+                        <br><br>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1" align="center" style="border-collapse:collapse;text-align:center;">
+                        <a href="https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=">
+                          <img class="footer_image" src="https://www.zupimages.net/up/23/50/ugn9.png" alt="">
+                            <img class="footer_image" src="//www.zupimages.net/up/23/50/ugn9.png" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+               <tr>
+                  <td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                        Hallo phishing@pot, 
+                        <br><br>
+                        Sie sind einer unserer möglichen Finalisten für einen REWE Gutschein. Nehmen Sie jetzt <strong>gratis</strong> teil und gewinnen Sie mit etwas Glück einen <strong><a href="http://rewe-groupe.superkoran.info/UDF3Yi9NVHRQQ2ZPaWd1eE00SGxMTWJMT2ZJNk4yR1NXcDdKRFlrMm9sNitWTUR1OXZ3MG9QcWJJb0h4WU9haHhsMXIyRUNEYTVDYlhiNDBUMzgrN3k3SmZqei9aTlBnSXo1R1ByMGxkVlU9">Rewe-Gutschein  </a></strong> im Wert von <strong>500 Euro</strong>.
+                        <br>
+                     </td>
+                  <td class="side">
+                    </td>
+                  </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+               <tr>
+                  <td class="side">
+                    </td>
+                    <td class="text" align="center" style="border-collapse:collapse;text-align:center;">
+                        <br>
+                        <a href="https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=">
+                        <img class="button_image" src="https://www.zupimages.net/up/23/50/wofz.png" alt="">
+                        <img class="button_image" src="//www.zupimages.net/up/23/50/wofz.png" alt="">
+                    </a>
+                        <br>
+                     </td>
+                  <td class="side">
+                    </td>
+                  </tr>
+            </table>
+          <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+               <tr>
+                  <td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                       Hoffentlich können wir Ihnen damit eine kleine Freude machen. <br> <br>
+Ihre Julia Vetter (Kundenbetreuung)<br><br>
+                     </td>
+                  <td class="side">
+                    </td>
+                  </tr>
+            </table>
+         
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1" align="center" style="border-collapse:collapse;text-align:center;">
+                        <a href="https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=">
+                            <img class="footer_image" src="https://www.zupimages.net/up/23/08/jev8.jpg" alt="">
+                            <img class="footer_image" src="//www.zupimages.net/up/23/08/jev8.jpg" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+        </td>
+   </tr>
+</table>
+<img src="https://lovvisadvertising.go2cloud.org/aff_i?offer_id=799&amp;file_id=5904&amp;aff_id=1315" width="0" height="0" style="position:absolute;visibility:hidden;" border="0"></body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://rewe-groupe.superkoran.info/a1RRb1FGREg0Rzd0S2ltWU1OMi8rME5zZXJQRklibCtJSVNtNzlvYlMvSVNLQjM3SE4wQm5GWWdGbjRrMDdZVWxMNkJhZ2dydHU5c2V0alhMdFFvUW1ZMm9aZmJyUzRkK0tQRjlneE1LSlk9">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://rewe-groupe.superkoran.info/MHZVVldHTDNjY2o1WDJncUVJZ01HQUVETUNHS0pPYmNMNmgzRURYd1NKaVJ4b25GZWNPUVd5OStTWDBqS0I1U3ZzUjIxWURQaTNBbk9CeEtMU2taVU84UWM0Z1FTdkZid0hZV3Y5MlBIQmc9" width="1px" height="1px" style="visibility:hidden">
+

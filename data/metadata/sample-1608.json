@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Seu código pix foi gerado",
+    "from": "Voa Brasil <noreply@voebrasilgov.com>",
+    "to": "Mateus <phishing@pot>",
+    "date": "Thu, 19 Oct 2023 21:20:51 +0000 (UTC)",
+    "message_id": "<NKzMKpLWQZe9AGT33QWqQg@geopod-ismtpd-24>",
+    "content_type": "multipart/alternative; boundary=aa10c59ba412dde4f426e06c54ecbfd97da69fbe4e0ca86ebcb858e532a7"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=aa10c59ba412dde4f426e06c54ecbfd97da69fbe4e0ca86ebcb858e532a7"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u10060318.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgMzwLa-2FEa-2FxdJ-2BtzcdttmD32TMSeowicEZVpSMEIDG0-2B-2BtxKLt-2FUj1u0WI3ggglLv5xe-2F-2BHh-2Bko9qCBGwstEpBcRXSiut-2Bufn8QwRGGURDZUv0rZlw6D9Gm0hByJaI0NR1iXo1s9tDck9SfXYXsf4y32Bah2IZ8RVwRKMYrc6tsWu3DfBymk0CeqZ6etV10Kt7Xm0OeDMyvtZgGpyXZ9uCn3vLnSL-2FsQUw3tzI13uV2YfVah8ptQPu8wjsRCsrn4RncJD-2Fkw39eP2BjjjwmcWDTm-2BQJz0XbskrPTx6VFgCoT0gAOV29KzeXrreLq9D2u2Q-3D-3D",
+      ".col.num6",
+      ".col.num4",
+      "https://cloudfox-digital-products.s3.amazonaws.com/uploads/public/products/Xwvl3F2uC9ufkymzw6ybNPv4bVxP0a3tz5ZgFyOX.png",
+      "img.fullwidthOnMobile",
+      "http://cdn.mcauto-images-production.sendgrid.net/1b082ee166c12f3d/5881f813-99c9-4f09-ac69-04d3b3abba7e/900x700.png",
+      ".no-stack.two-up",
+      ".col.num9",
+      "img.fullwidth,",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "https://pay.voebrasilgov.com/pix/aGnQnLdZ",
+      "https://cloudfox-digital-products.s3.amazonaws.com/uploads/public/products/qr7jzMCAL6kK1beL4zvyO4V5zUq0dDDCkOoGEGVq.png",
+      ".col.num8",
+      ".col.num3"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 618,
+    "html_length": 95074,
+    "has_text": true,
+    "has_html": true
+  }
+}

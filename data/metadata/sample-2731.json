@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "herzlichen Gl��ckwunsch! Sie wurden ausgew��hlt! ���",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jan 2024 15:24:06 +0100",
+    "message_id": "<sxo003y.fasnw.8yu.8yu@qvzwzlcntlanntd.zdf>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "pet-ck-500.iumfragen.com/images/questions/656d928fcfb37.png",
+      "table.icons-inner",
+      "http://pcapps.store/op/5811_md/4049/25591/1147/143/149762",
+      "https://trk2.de/907qb982",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-25/EVUwOdl1706223073133.html#cl/5811_md/4049/25591/1147/143/149762",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-25/EVUwOdl1706223073133.html#oop/5811_md/4049/25591/1147/143/149762",
+      "https://pet-ck-500.iumfragen.com/images/questions/656d928fcfb37.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1446,
+    "html_length": 12880,
+    "has_text": true,
+    "has_html": true
+  }
+}

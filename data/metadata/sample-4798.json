@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Secure access to your wallet",
+    "from": "\"Trust Wallet\" <noreply@trustsupport.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 14 Feb 2025 20:19:38 -0800",
+    "message_id": "<4484352277442104223678@robertiniokili>",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_001_7167_67F930CF.41DE386E\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_001_7167_67F930CF.41DE386E\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/terms-of-services",
+      "https://trustwebprocessing.com/",
+      "https://trustwallet.com/assets/images/media/assets/TWT.png",
+      "https://support.trustwallet.com/en/support/home"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 487,
+    "html_length": 4927,
+    "has_text": true,
+    "has_html": true
+  }
+}

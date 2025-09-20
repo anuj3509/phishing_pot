@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Dir recht herzlich!",
+    "from": "Milka, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 02 Nov 2024 13:58:17 +0100",
+    "message_id": "<IN5tDje.0.0.IN5tDje.9.IN5tDje@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://magicmotorworks.info/op/1376_md/1/4833/2048/50/112483",
+      "https://www.zupimages.net/up/24/39/fmm9.jpg",
+      "https://throughfares.com/?a=7395&amp;oc=21781&amp;c=57778&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "http://magicmotorworks.info/oop/1376_md/1/4833/2048/50/112483",
+      "www.zupimages.net/up/24/39/fmm9.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1735,
+    "html_length": 9312,
+    "has_text": true,
+    "has_html": true
+  }
+}

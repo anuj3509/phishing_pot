@@ -1,0 +1,50 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 📑Monthly Payable Summaries Now Available Thursday, March 16, 2023
+From: "no-reply@notifications.app.Mrv" <nicoles@wmiworldwide.com>
+To: Junia Galvão <junia@mrv.com.br>
+Date: Fri, 17 Mar 2023 08:44:59 +0000
+Message_Id: <20f082f4-481f-e2db-5c29-849c89f6e5b3@wmiworldwide.com>
+Content_Type: multipart/mixed;
+	boundary="_004_20f082f4481fe2db5c29849c89f6e5b3wmiworldwidecom_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_004_20f082f4481fe2db5c29849c89f6e5b3wmiworldwidecom_"
+
+ATTACHMENTS:
+--------------------
+- 📑Monthly Payable.htm (application/octet-stream, 3079266 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - mrv.com.br
+
+DECODED TEXT CONTENT:
+------------------------------
+Atenção: Este e-mail foi enviado de fora da nossa empresa. Não abra anexos ou clique em links a menos que você conheça o remetente e saiba que o conteúdo é confiável. Em caso de qualquer suspeita, encaminhe o e-mail como anexo para spam@mrv.com.br<mailto:spam@mrv.com.br>
+
+This e-mail transmission contains information intended only for the use of the recipient(s) named above. Further, it contains information that may be privileged and confidential. If you are not the intended recipient, you are hereby notified that any dissemination, distribution, or copying of this message (including any attachments) is strictly prohibited. If you have received this e-mail in error, please notify the sender by reply e-mail and then delete this message from your mail system. Thank you for your compliance.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<p style="color:rgb(247,105,10);">Atenção: Este e-mail foi enviado de fora da nossa empresa. Não abra anexos ou clique em links a menos que você conheça o remetente e saiba que o conteúdo é confiável. Em caso de qualquer suspeita, encaminhe o e-mail como anexo
+ para <a href="mailto:spam@mrv.com.br">spam@mrv.com.br</a> </p>
+<div>This e-mail transmission contains information intended only for the use of the recipient(s) named above. Further, it contains information that may be privileged and confidential. If you are not the intended recipient, you are hereby notified that any dissemination,
+ distribution, or copying of this message (including any attachments) is strictly prohibited. If you have received this e-mail in error, please notify the sender by reply e-mail and then delete this message from your mail system. Thank you for your compliance.</div>
+</body>
+</html>
+

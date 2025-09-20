@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Urgent: Verify Your Wallet to Prevent Suspension",
+    "from": "Act fast <help@ohalyycp.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Tue, 15 Aug 2023 05:27:05 +0000",
+    "message_id": "<42L7MG9VG2J_64db0ca990b3f_41468c1225ef_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64db0ca9b2789_41468c122690\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64db0ca9b2789_41468c122690\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://goubba.zendesk.com/images/2016/default-avatar-80.png",
+      "https://scamrobot.org/wp-content/uploads/2022/08/trust-wallet-review.jpg",
+      "https://scamrobot.org/wp-content/uploads/2022/08/trust-wallet-review.jpg)",
+      "https://scnv.io/mJnb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 559,
+    "html_length": 2828,
+    "has_text": true,
+    "has_html": true
+  }
+}

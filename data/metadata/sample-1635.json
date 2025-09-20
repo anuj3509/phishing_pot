@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Experience the power of our accelerator program",
+    "from": "Team Ripple <xinfoadminx@shopsoft.co.tz>",
+    "to": "phishing@pot",
+    "date": "Sun, 22 Oct 2023 17:19:48 +0000",
+    "message_id": "<XVmMl1WOs1pZCifLo2iWMAzr8AL2otTFOmC7WT1g@WIN-MBPYL0J13A>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_XVmMl1WOs1pZCifLo2iWMAzr8AL2otTFOmC7WT1g\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_XVmMl1WOs1pZCifLo2iWMAzr8AL2otTFOmC7WT1g\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "https://seekvectorlogo.com/wp-content/uploads/2018/12/ripple-vector-logo.png",
+      "a.es-button,",
+      "button.es-button",
+      "tr.es-desk-hidden,",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      ".es-button.es-button-1",
+      "https://google.com/amp/s/ripple.community",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3288,
+    "html_length": 20925,
+    "has_text": true,
+    "has_html": true
+  }
+}

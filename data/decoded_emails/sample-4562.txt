@@ -1,0 +1,204 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aten����o! Sua CNH est�� temporariamente suspensa, mas n��o se preocupe! Estamos aqui para ajudar voc�� a regularizar tudo e garantir que possa voltar a dirigir tranquilamente. Para mais informa����es, utilize o PROTOCOLO: 597646591.
+From: Detran - Urgente <atendimentodetrancnh@6806>
+To: phishing@pot
+Date: Mon, 16 Dec 2024 14:00:11 +0000 (UTC)
+Message_Id: <20241216140011.A9D2F2096E5@be28q.anacondabio.com.br>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.google.com.br-pt-detrancnh3595677635956776@hajuhahasi.in.ua/?=%25rand9%25/?email=rodrigo-f-p@hotmail.com
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Pagamento de Taxa - CNH body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; } .email-container { max-width: 600px; margin: 20px auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; } .email-header { background-color: #004aad; color: #ffffff; padding: 20px; text-align: center; } .email-body { padding: 20px; color: #333333; line-height: 1.6; } .email-body h1 { font-size: 24px; margin-bottom: 10px; } .email-body p { margin-bottom: 20px; } .cta-button { display: block; text-align: center; margin: 20px auto; padding: 15px 25px; background-color: #004aad; color: #ffffff; text-decoration: none; font-size: 18px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease; } .cta-button:hover { background-color: #00337e; } .email-footer { text-align: center; padding: 10px; background-color: #f4f4f4; color: #888888; font-size: 14px; } .email-footer a { color: #004aad; text-decoration: none; } 📄 Taxa CNH Pendente Olá, rodrigo-f-p@hotmail.com Identificamos que a sua taxa de regularização da CNH ainda não foi paga. Para garantir que sua solicitação não seja cancelada, você deve efetuar o pagamento **nos próximos 3 dias**. Para concluir o pagamento de forma rápida e segura, clique no botão abaixo: Pagar Agora Se você já efetuou o pagamento, desconsidere esta mensagem. Atenciosamente, Equipe de Regularização - DETRAN Este é um e-mail automático. Não responda. Precisa de ajuda? Acesse nosso suporte .
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Pagamento de Taxa - CNH</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            background-color: #f4f4f4;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+        .email-container {
+
+            max-width: 600px;
+
+            margin: 20px auto;
+
+            background-color: #ffffff;
+
+            border-radius: 8px;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+            overflow: hidden;
+
+        }
+
+        .email-header {
+
+            background-color: #004aad;
+
+            color: #ffffff;
+
+            padding: 20px;
+
+            text-align: center;
+
+        }
+
+        .email-body {
+
+            padding: 20px;
+
+            color: #333333;
+
+            line-height: 1.6;
+
+        }
+
+        .email-body h1 {
+
+            font-size: 24px;
+
+            margin-bottom: 10px;
+
+        }
+
+        .email-body p {
+
+            margin-bottom: 20px;
+
+        }
+
+        .cta-button {
+
+            display: block;
+
+            text-align: center;
+
+            margin: 20px auto;
+
+            padding: 15px 25px;
+
+            background-color: #004aad;
+
+            color: #ffffff;
+
+            text-decoration: none;
+
+            font-size: 18px;
+
+            border-radius: 5px;
+
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+
+            transition: background-color 0.3s ease;
+
+        }
+
+        .cta-button:hover {
+
+            background-color: #00337e;
+
+        }
+
+        .email-footer {
+
+            text-align: center;
+
+            padding: 10px;
+
+            background-color: #f4f4f4;
+
+            color: #888888;
+
+            font-size: 14px;
+
+        }
+
+        .email-footer a {
+
+            color: #004aad;
+
+            text-decoration: none;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="email-container">
+
+        <div class="email-header">
+
+            <h1>📄 Taxa CNH Pendente</h1>
+
+        </div>
+
+        <div class="email-body">
+
+            <h3>Olá, rodrigo-f-p@hotmail.com
+</h3>
+
+            <p>Identificamos que a sua taxa de regularização da CNH ainda não foi paga. Para garantir que sua solicitação não seja cancelada, você deve efetuar o pagamento **nos próximos 3 dias**.</p>
+
+            <p>Para concluir o pagamento de forma rápida e segura, clique no botão abaixo:</p>
+
+            <a href="https://www.google.com.br-pt-detrancnh3595677635956776@hajuhahasi.in.ua/?=%25rand9%25/?email=rodrigo-f-p@hotmail.com
+&amp;pedido=BR741392&amp;token=%randomToken%" class="cta-button">Pagar Agora</a>
+
+            <p>Se você já efetuou o pagamento, desconsidere esta mensagem.</p>
+
+            <p>Atenciosamente,<br><strong>Equipe de Regularização - DETRAN</strong></p>
+
+        </div>
+
+        <div class="email-footer">
+
+            <p>Este é um e-mail automático. Não responda.</p>
+
+            <p>Precisa de ajuda? <a href="https://www.google.com.br-pt-detrancnh3595677635956776@hajuhahasi.in.ua/?=%25rand9%25/?email=rodrigo-f-p@hotmail.com
+&amp;pedido=BR741392&amp;token=%randomToken%">Acesse nosso suporte</a>.</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+

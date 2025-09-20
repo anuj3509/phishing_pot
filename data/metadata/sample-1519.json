@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot, wir haben versucht Sie zu erreichen, leider ohne Erfolg",
+    "from": "MEDIAMARKT Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Oct 2023 15:32:47 +0200",
+    "message_id": "\r\n <f6ff600f-a72e-4fd0-83ee-19dacf725765@DM6NAM12FT068.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/un/620_md/31/4/99/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/cl/620_md/31/4/99/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://easilett.com/media/0b23d28c796a8b3.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6018,
+    "html_length": 13088,
+    "has_text": true,
+    "has_html": true
+  }
+}

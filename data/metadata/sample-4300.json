@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung von Zalando",
+    "from": "Nachricht von Zalando, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Nov 2024 18:15:29 +0100",
+    "message_id": "<qJwOW5J.0.0.qJwOW5J.9.qJwOW5J@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/24/39/r6av.png",
+      "http://lkabuif.servicecentre.info/aGRZTUR0VjNNbm9iUVBVTUxHdW4vTzhiM0t3QWdOYmdEZWF1d0NoQzZNdVVCUncwK3ZpYTd4bFU0KzJLQldJc2JKZHdCbTdnR3N1R1hpWnJveXlOVjlHNlpKSjVSbkRTR3h4RzVFODAvbms9",
+      "www.zupimages.net/up/24/40/t3qc.png",
+      "https://www.zupimages.net/up/24/39/r6av.png",
+      "https://www.zupimages.net/up/24/36/spzp.jpeg",
+      "www.zupimages.net/up/24/36/spzp.jpeg",
+      "https://www.zupimages.net/up/24/40/t3qc.png",
+      "https://lifeinsureand.com/?a=7790&amp;oc=21958&amp;c=58171&amp;p=r&amp;m=3&amp;s1=",
+      "http://servicecentre.info/OXdvelhVTjY5RnRKamkybHZLdjBCaGN5NWNSYzkvUGx4UlhTQXE5MGI0N3RBL1YwZ0FGZXQ2c0pqaHMrOXRlWXBIeEdHZ3hsL1BmV0RvaEt4YU5jc2c9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4963,
+    "html_length": 11284,
+    "has_text": true,
+    "has_html": true
+  }
+}

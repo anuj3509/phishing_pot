@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual signin activity",
+    "from": "Microsoft account team ,_<nueja@1ej60w6xjm.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 10 Jan 2024 07:58:54 +0000",
+    "message_id": "\r\n <0e05288c-578c-46ba-ac40-1d59444d7782@MW2NAM10FT023.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "sign.in",
+      "http://thebandalisty.com/track/o53825fepfp27539965VtXN12546TWp70113ZHfL176",
+      "yahoo.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15269,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,188 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Jusqu’à 70 % des frais pris en charge
+From: Rénovation <srjme+turff@stratum.ae>
+To: phishing@pot
+Date: Sun, 25 May 2025 15:07:08 +0000
+Message_Id: <010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000@ap-southeast-1.amazonses.com>
+Content_Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_9241A276.71C77531"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_9241A276.71C77531"
+
+ATTACHMENTS:
+--------------------
+- FR#8745FS.pdf (application/pdf, 402 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, confirm
+URLs found:
+  - http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/1/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/vcoFU7XuZQQMeklO_pTZUdbrLAg=212
+  - http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/2/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/0r5XSTWA7oYnv_iI73kP28Lua9U=212
+  - https://jvxq2c83.r.ap-southeast-1.awstrack.me/I0/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/EeOIaI4LgaLNNS_j6rXE6FdWhlA=212
+
+DECODED TEXT CONTENT:
+------------------------------
+Offre Solaire - Aide de l'État body { font-family: 'Verdana', sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; text-align: center; } .wrap { max-width: 680px; margin: 30px auto; background-color: #ffffff; padding: 25px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); } h1 { font-size: 21px; color: #222; } .emphasis { color: #0056b3; font-weight: 600; } .success { color: #2d862d; font-weight: bold; font-size: 16px; } .cta-link { display: inline-block; margin-top: 20px; padding: 12px 20px; background-color: #28a745; color: #ffffff !important; font-size: 17px; font-weight: bold; border-radius: 6px; text-decoration: none; } .cta-alt { background-color: #007bff; } img { max-width: 100%; height: auto; border: none; } table { border-spacing: 0; width: 100%; border-collapse: collapse; } L'État va installer des panneaux solaires sur votre toit si vous vivez dans l'une de ces 4 régions . Les Primes Solaires expirent fin 2025. Voir Les Détails Grâce au programme MaPrimeRénov 2025, l'État soutient l'énergie solaire avec une prime d’installation allant jusqu’à 10 000€ pour les foyers français afin de passer à l’autoconsommation d’électricité. Les fournisseurs d'électricité sont furieux de cette aide, mais ils ne peuvent pas vous empêcher d'en bénéficier. Depuis janvier, le gouvernement simplifie l’accès à ce dispositif pour offrir aux propriétaires éligibles un projet clé en main, rentable et sans tracas. Les propriétaires de certaines zones postales peuvent recevoir jusqu’à 10 000€ d’aides couvrant jusqu’à 100% des frais d’installation. Découvrez si votre domicile est éligible en répondant au questionnaire gratuit de 30 secondes et obtenez une réponse immédiate. Je Confirme
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="fr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Offre Solaire - Aide de l'État</title>
+  <style>
+    body {
+      font-family: 'Verdana', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center;
+    }
+
+    .wrap {
+      max-width: 680px;
+      margin: 30px auto;
+      background-color: #ffffff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    }
+
+    h1 {
+      font-size: 21px;
+      color: #222;
+    }
+
+    .emphasis {
+      color: #0056b3;
+      font-weight: 600;
+    }
+
+    .success {
+      color: #2d862d;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .cta-link {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background-color: #28a745;
+      color: #ffffff !important;
+      font-size: 17px;
+      font-weight: bold;
+      border-radius: 6px;
+      text-decoration: none;
+    }
+
+    .cta-alt {
+      background-color: #007bff;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border: none;
+    }
+
+    table {
+      border-spacing: 0;
+      width: 100%;
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+<body style="font-family: 'Verdana', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 0;
+      text-align: center">
+  <div style="max-width: 680px;
+      margin: 30px auto;
+      background-color: #ffffff;
+      padding: 25px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08)" class="wrap">
+    <table style="border-spacing: 0;
+      width: 100%;
+      border-collapse: collapse">
+      <tbody><tr>
+        <td align="center">
+          <!-- Placeholder for header image -->
+        </td>
+      </tr>
+    </tbody></table>
+
+    <br>
+    <p style="font-size: 17px;">
+      L'État va installer des <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">panneaux solaires</span> sur votre toit si vous vivez dans l'une de ces <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">4 régions</span>.
+    </p>
+
+    <p style="color: #2d862d;
+      font-weight: bold;
+      font-size: 16px" class="success">Les Primes Solaires expirent fin 2025.</p>
+
+    <table style="border-spacing: 0;
+      width: 100%;
+      border-collapse: collapse">
+      <tbody><tr>
+        <td align="center">
+          <!-- Placeholder for second image -->
+        </td>
+      </tr>
+    </tbody></table>
+
+    <a style="display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background-color: #28a745;
+      color: #ffffff !important;
+      font-size: 17px;
+      font-weight: bold;
+      border-radius: 6px;
+      text-decoration: none" class="cta-link" href="http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/1/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/vcoFU7XuZQQMeklO_pTZUdbrLAg=212">Voir Les Détails</a>
+
+    <p>
+      Grâce au programme MaPrimeRénov 2025, l'État soutient l'énergie solaire avec une <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">prime d’installation allant jusqu’à 10 000€</span> pour les foyers français afin de passer à l’autoconsommation d’électricité.
+    </p>
+
+    <p>Les fournisseurs d'électricité sont furieux de cette aide, mais ils ne peuvent pas vous empêcher d'en bénéficier.</p>
+
+    <p>Depuis janvier, le gouvernement simplifie l’accès à ce dispositif pour offrir aux <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">propriétaires éligibles</span> un projet clé en main, rentable et sans tracas.</p>
+
+    <p>Les propriétaires de certaines zones postales peuvent recevoir jusqu’à <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">10 000€ d’aides</span> couvrant jusqu’à 100% des frais d’installation.</p>
+
+    <p>Découvrez si votre domicile est éligible en répondant au <span style="color: #0056b3;
+      font-weight: 600" class="emphasis">questionnaire gratuit</span> de 30 secondes et obtenez une réponse immédiate.</p>
+
+    <a style="display: inline-block;
+      margin-top: 20px;
+      padding: 12px 20px;
+      background-color: #28a745;
+      color: #ffffff !important;
+      font-size: 17px;
+      font-weight: bold;
+      border-radius: 6px;
+      text-decoration: none; background-color: #007bff" class="cta-link cta-alt" href="http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/2/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/0r5XSTWA7oYnv_iI73kP28Lua9U=212">Je Confirme</a>
+  </div>
+
+
+<img alt="" src="https://jvxq2c83.r.ap-southeast-1.awstrack.me/I0/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/EeOIaI4LgaLNNS_j6rXE6FdWhlA=212" style="display: none; width: 1px; height: 1px;">
+</body></html>

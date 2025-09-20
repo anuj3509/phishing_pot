@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "���� Ihre einmalige Chance auf einen 500���-Gutschein!",
+    "from": "temu team. <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 14 Feb 2025 05:17:23 -0500",
+    "message_id": "<dbwzIGB.0.0.dbwzIGB.9.dbwzIGB@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "http://blog.afridox.com/aStQLzZlRWZ3WjVRbkMzUE90Y0kvWU5GeTZRV0FoQWl2NXM3ekZhVHl0bVNFak5IaXg3QmFMMDNydjVLYzV2dzNLQ3V2TWZ6MGNKOG9INlJjN0c3aWc9PQ__",
+      "https://www.zupimages.net/up/24/49/76so.jpg",
+      "https://www.zupimages.net/up/24/49/do0v.jpg",
+      "www.zupimages.net/up/24/49/76so.jpg",
+      "www.zupimages.net/up/24/49/do0v.jpg",
+      "http://blog.afridox.com/dklCQ2tZeHYvK1NrSjF0b1VkdHdDMVhsc3V5NmthVjNiOWpJRlEwQ0NMbDFDclk0SVFrblZhTXlzQnk1aUJlMGQ0SUpML0dSV0tvUkxLeE15KzNIY1E9PQ__",
+      "http://blog.afridox.com/RGZqUFllQS90aXFRUEF1dXB5RFF5UFdwanVxTnZyMVVnSWhrZ2JqV3dUS2ZYc3BTc1hwcVg3Rm0ybFhyNGZFR3p5bUxFRW1FME11VDJLNnNXUTZUcGc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1515,
+    "html_length": 11219,
+    "has_text": true,
+    "has_html": true
+  }
+}

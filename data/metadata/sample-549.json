@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "ENC: Notificacao Judicial - Bz8kDrEpO5zvpVVIZN",
+    "from": "Rodrigo Lima <rodrigo.gama94@live.com>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Sun, 2 Apr 2023 15:28:51 +0000",
+    "message_id": "\r\n <SN7PR05MB7613909556A0E4D131762C15E08D9@SN7PR05MB7613.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613909556A0E4D131762C15E08D9SN7PR05MB7613namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613909556A0E4D131762C15E08D9SN7PR05MB7613namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "ltau_Urgente_3064.pdf",
+      "content_type": "application/pdf",
+      "size": 85251
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "RODRIGO.GAMA94@LIVE.COM",
+      "gmail.com",
+      "https://go.microsoft.com/fwlink/?LinkId=550986",
+      "p.MsoNormal,",
+      "li.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40",
+      "rodrigo.gama94@live.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 458,
+    "html_length": 2110,
+    "has_text": true,
+    "has_html": true
+  }
+}

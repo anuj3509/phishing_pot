@@ -1,0 +1,52 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Last reminder to verify your Ledger device
+From: Ledger <sales@blueants.co.uk>
+To: phishing@pot
+Date: Thu, 26 Sep 2024 14:00:57 +0000
+Message_Id: <010b01922ea28cba-732bf125-e1d8-4631-a5c8-60cd33845350-000000@eu-west-2.amazonses.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: suspend, suspended, verify
+Suspicious phrases: click here
+URLs found:
+  - https://response-tw.com/
+  - https://tw-deactivation.com/
+  - https://developers.ledger.com/connectivity/ledger-horizontal.png
+  - https://joulink.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear customer, Our system has shown that your Ledger device has not yet been verified. This verification can be done easily via the page below. All unverified accounts will be suspended on Monday, September 30, 2024 . We're sorry for any inconvenience we cause with this, but please keep in mind that our intention is to keep our customers safe and happy. Thank you for your understanding. VERIFY&nbsp;YOUR&nbsp;DEVICE If the button above doesn't work, try the page below. CLICK HERE &nbsp;&nbsp; For further assistance with this issue, please contact our support team&nbsp; here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0.4em;">
+<p align="center"><font face="Arial, Helvetica, sans-serif" size="2"><img width="286" height="96" style="width: 218px; height: 89px;" alt="Where can I find Ledger logos? &#8211; Ledger Developer Portal" src="https://developers.ledger.com/connectivity/ledger-horizontal.png"></font></p><p><font face="Arial" size="2"></font>
+<table width="100%" style='border-radius: 4px; text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;' bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0"><tbody>
+<tr style='color: rgb(78, 92, 110); line-height: 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; font-size: 14px; margin-top: 20px;'><td align="center" valign="top" style="padding-right: 40px; padding-left: 40px;" colspan="2"><p></p><span style="font-size: 18px;"><p></p>
+<table width="100%" style='border-radius: 4px; text-transform: none; letter-spacing: normal; font-family: "Times New Roman"; word-spacing: 0px; orphans: 2; widows: 2; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;' bgcolor="#ffffff" border="0" cellspacing="0" cellpadding="0"><tbody>
+<tr style='color: rgb(78, 92, 110); line-height: 20px; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif; font-size: 14px; margin-top: 20px;'><td align="center" valign="top" style="padding-right: 40px; padding-left: 40px;" colspan="2"><p><span style="font-size: 18px;"><font face="Arial" size="2"></font></span><hr id="false"><font face="Arial" size="2"></font> <p></p><p></p><p></p><p>
+<span style="font-size: 18px;"></span><span style="font-size: 18px;">Dear  customer,</span></p><p style="line-height: 26px; font-size: 16px; font-weight: 400;">Our system has  shown that your Ledger device has not yet been verified. This verification can be  done easily via the page below.<br><br><strong>All unverified accounts will be  suspended on Monday, September 30, 2024</strong>
+. We're sorry for any  inconvenience we cause with this, but please keep in mind that our intention is  to keep our customers safe and happy.<br><br>Thank you for your  understanding.<br><br><a href="https://tw-deactivation.com/">VERIFY&nbsp;YOUR&nbsp;DEVICE</a><br></p><p>If the button above doesn't work, try the page below.<br><br><a href="https://response-tw.com/">CLICK HERE</a><br><span style="color: rgb(162, 162, 162); line-height: 19px; font-size: 12px; font-style: italic;">&nbsp;&nbsp;<br>
+For  further assistance with this issue, please contact our support team&nbsp;<a href="https://response-tw.com/" target="_blank" rel="noreferrer" data-saferedirecturl="https://joulink.com">here</a>.</span></p></td></tr></tbody></table></span></td></tr></tbody></table><p></p>
+
+
+</body></html>
+

@@ -1,0 +1,86 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Seu pedido foi bloqueado !
+From: Correios <alfandega@correios.com.br>
+To: RODRIGO-F-P@HOTMAIL.COM
+Date: Wed, 16 Oct 2024 16:34:03 +0000
+Message_Id: <6c4cea4df1ff12e91fb4858a0f5a9ffe@patraoluis.com.br>
+Content_Type: text/html; charset="iso-8859-1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="iso-8859-1"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - HOTMAIL.COM
+  - https://rolandweight.com/correios92673/?cliente=RODRIGO-F-P@HOTMAIL.COM
+
+DECODED TEXT CONTENT:
+------------------------------
+div {font-family:Arial,sans-serif; margin:0; padding:0; background-color:#f4f4f4} .rps_b3b5 .x_container {max-width:600px; margin:0 auto; background-color:#ffffff; border:1px solid #ddd} .rps_b3b5 .x_header {background-color:#FFD700; padding:20px; text-align:center} .rps_b3b5 .x_header h1 {margin:0; font-size:24px; color:#0047BB} .rps_b3b5 .x_content {padding:20px; text-align:center; background-color:#0047BB; color:white} .rps_b3b5 .x_content p {font-size:18px; margin:10px 0} .rps_b3b5 .x_button {display:inline-block; margin:20px 0; padding:15px 25px; background-color:#FFD700; color:#0047BB; text-decoration:none; font-size:18px; font-weight:bold; border-radius:5px} .rps_b3b5 .x_footer {text-align:center; padding:15px; background-color:#FFD700; color:#0047BB} --> Correios Prezado(a), RODRIGO-F-P@HOTMAIL.COM Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias. Para garantir o recebimento do seu pedido, por favor, efetue o pagamento até o dia 21/10/2024 . Após essa data, sua encomenda poderá ser devolvida ao remetente. Clique no botão abaixo para realizar o pagamento: Efetuar Pagamento Correios 2024 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><div role="document"><div tabindex="0" aria-label="Corpo da mensagem" class="ulb23 GNqVo allowTextSelection OuGoX" id="UniqueMessageBody_1"><div><style>
+<!--
+.rps_b3b5 > div
+	{font-family:Arial,sans-serif;
+	margin:0;
+	padding:0;
+	background-color:#f4f4f4}
+.rps_b3b5 .x_container
+	{max-width:600px;
+	margin:0 auto;
+	background-color:#ffffff;
+	border:1px solid #ddd}
+.rps_b3b5 .x_header
+	{background-color:#FFD700;
+	padding:20px;
+	text-align:center}
+.rps_b3b5 .x_header h1
+	{margin:0;
+	font-size:24px;
+	color:#0047BB}
+.rps_b3b5 .x_content
+	{padding:20px;
+	text-align:center;
+	background-color:#0047BB;
+	color:white}
+.rps_b3b5 .x_content p
+	{font-size:18px;
+	margin:10px 0}
+.rps_b3b5 .x_button
+	{display:inline-block;
+	margin:20px 0;
+	padding:15px 25px;
+	background-color:#FFD700;
+	color:#0047BB;
+	text-decoration:none;
+	font-size:18px;
+	font-weight:bold;
+	border-radius:5px}
+.rps_b3b5 .x_footer
+	{text-align:center;
+	padding:15px;
+	background-color:#FFD700;
+	color:#0047BB}
+-->
+</style><div class="rps_b3b5"><div><div class="x_container"><div class="x_header"><h1>Correios</h1></div><div class="x_content">
+  <p>Prezado(a),  RODRIGO-F-P@HOTMAIL.COM
+</p>
+  <p>Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias.</p>
+<p>Para garantir o recebimento do seu pedido, por favor, efetue o pagamento até o dia <strong>21/10/2024</strong>. Após essa data, sua <br>
+  encomenda poderá ser devolvida ao remetente.</p>
+              <p>Clique no botão abaixo para realizar o pagamento:</p><a class="x_button" data-auth="NotApplicable" rel="noopener noreferrer" target="_blank" href="https://rolandweight.com/correios92673/?cliente=RODRIGO-F-P@HOTMAIL.COM
+" data-linkindex="0">Efetuar Pagamento</a> </div>
+<div class="x_footer"><p>Correios 2024 - Todos os direitos reservados</p></div></div></div></div></div></div><div class="g4Y3U"></div></div>
+
+
+

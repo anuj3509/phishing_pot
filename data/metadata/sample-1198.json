@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Action Required: Password Expiry Notice!!!",
+    "from": "\"proton.me Helpdesk\" <proton.me@bernofarm.com>",
+    "to": "phishing@pot",
+    "date": "15 Jun 2023 12:37:49 +0200",
+    "message_id": "<20230615123749.A0F087DCCA6F9A27@bernofarm.com>",
+    "content_type": "multipart/mixed;boundary=---------------------2c4c2ee91106a42d35af46d2cb73ad3f"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------2c4c2ee91106a42d35af46d2cb73ad3f"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.costom.best/international.html?look=phishing@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 380,
+    "html_length": 12056,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "����Sie k��nnten einen Amazon-Gutschein im Wert von 500 ��� gewonnen haben!",
+    "from": "Amazon Gutschein <nachrichten@de.idealo.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 22 Feb 2025 04:21:49 -0500",
+    "message_id": "<2qW9Cyv.0.0.2qW9Cyv.9.2qW9Cyv@de.idealo.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://blog.afridox.com/eURNcktsTlZrd2RCOEx3UmNPRExodkN0YjlybHhiNDhTV2tLZWIvaUc0d05QTnlJQ3lkMUdTcTA0bDlqalRvS2M2OSt4by8xeWdsVHVwVDRBajNSUFE9PQ__",
+      "http://blog.afridox.com/VUxxcGV1eHlpcWE0cEs0R1JkOGlyTGdmTytVWnRsZ0xPNFFBS2hJMGxNS2w1RnU2ZStmVGpnTXZFclRXNnE4U2RJV3I0Uk9hSHpjN3hFaEFiLzlIMUE9PQ__",
+      "table.icons-inner",
+      "https://www.zupimages.net/up/25/08/sln0.png",
+      "https://trkme.eu/3iaq8pzt",
+      "http://blog.afridox.com/ZzNNc29GMjlrdmVYR2RPcHVQYlRCSm1PL080cDNRTW5CenRYcUwwRStVclo0RDBoZmVtSUtWMUN5T2VkMkRVRjJuNENUMHV2N01taGZxK3gzS3BkSHc9PQ__",
+      "www.zupimages.net/up/25/08/sln0.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1291,
+    "html_length": 12294,
+    "has_text": true,
+    "has_html": true
+  }
+}

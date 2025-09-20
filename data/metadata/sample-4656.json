@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Federal Bureau Investigation.",
+    "from": "\"Mr. Christopher A. Wray III\" <correo@protege.cll>",
+    "to": "Recipients <correo@protege.cll>",
+    "date": "Mon, 30 Dec 2024 20:38:52 -0800",
+    "message_id": "<87971933-b146-4e43-8b47-2cc7c118bd1d@200corpmxp002.lindt.net>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "you.This"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5921,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

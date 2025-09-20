@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Fw: You have been added as a guest to Fatih Sultan Mehmet Vakıf Üniversitesi in Microsoft Teams",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Mon, 11 Sep 2023 10:59:30 +0000",
+    "message_id": "\r\n <IA0PR02MB9779E9474B97EC3C83AE3960B3F2A@IA0PR02MB9779.namprd02.prod.outlook.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"_004_IA0PR02MB9779E9474B97EC3C83AE3960B3F2AIA0PR02MB9779namp_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"_004_IA0PR02MB9779E9474B97EC3C83AE3960B3F2AIA0PR02MB9779namp_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://statics.teams.skype.com/icons/img_videocalling.png",
+      "http://go.microsoft.com/fwlink/p/?LinkID=512132",
+      "https://urlshortener-emea.teams.microsoft.com/8DBB293E4001D60-2-0",
+      "emeaemail.teams.microsoft.com&gt;",
+      "https://statics.teams.microsoft.com/evergreen-assets/icons/icn_windows.png",
+      "https://urlshortener-emea.teams.microsoft.com/8DBB293E4001D60-2-0]",
+      "insta-club.netlify.app",
+      "https://statics.teams.skype.com/icons/icn_apple.png",
+      "https://login.microsoftonline.com/redeem?rd=https%3a%2f%2finvitations.microsoft.com%2fredeem%2f%3ftenant%3d096a1e6f-2b37-4a0a-b126-93e0c6a331ac%26user%3da3b7d7dd-ba1e-4292-83d1-da7e42b0eedf%26ticket%3dx%25252bS71A9vvYy6U1JimGqtaimbHNgbR3fqnX5d5krYD9E%25253d%26ver%3d2.0",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "https://statics.teams.skype.com/icons/img_tabs.png",
+      "https://statics.teams.skype.com/icons/icn_android.png",
+      "https://statics.teams.skype.com/icons/img_teams_channels.png",
+      "https://aka.ms/downloadteams",
+      "emeaemail.teams.microsoft.com",
+      "https://statics.teams.skype.com/icons/img_chat.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2308,
+    "html_length": 11262,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: Conclua o resgate dos seus pontos ainda hoje!",
+    "from": "\"Banco.Bradesco\" <229593@bradesco>",
+    "to": "phishing@pot",
+    "date": "Sat, 15 Jun 2024 12:45:40 +0000",
+    "message_id": "<8cc2e287e75fcbb61b46f11055ce5a58@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8cc2e287e75fcbb61b46f11055ce5a58\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8cc2e287e75fcbb61b46f11055ce5a58\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bradapontosdisponiveis.com/pontos0786324/disponiveis581070475?rdr=anom",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 5553,
+    "has_text": true,
+    "has_html": true
+  }
+}

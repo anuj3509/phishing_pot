@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Municipalidad Lo Espejo] Datos de acceso",
+    "from": "WordPress <wordpress@loespejo.cl>",
+    "to": "phishing@pot",
+    "date": "Wed, 4 Jun 2025 19:41:18 +0000",
+    "message_id": "<sKcWWdKBqz94URWaWrL0z7DdL9Hgf7AceBw7JEyc0q4@www.loespejo.cl>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.loespejo.cl/wp-login.php",
+      "www.hftiif.blogspot.fi",
+      "https://www.loespejo.cl/wp-login.php?action=rp&key=SsMnsvlY1jgQ5SzTrZWZ&login=www.hftiif.blogspot.fi%20-%201.364%20BTC%20BINANCE"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 295,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Resolva o problema relacionado a sua encomenda o mais rápido possível! Verifique agora. ID: 74176314",
+    "from": "Status Entrega - Correios <alfandega@312501%taxacorreios.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 10 May 2025 20:12:09 +0000",
+    "message_id": "<e83598ac2e6aa657115395a5647efc83@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_e83598ac2e6aa657115395a5647efc83\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_e83598ac2e6aa657115395a5647efc83\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://correbr-35567288776.southamerica-east1.run.app"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4163,
+    "has_text": true,
+    "has_html": true
+  }
+}

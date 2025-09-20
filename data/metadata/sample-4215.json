@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Ihr Paket befindet sich in der Warteschleife ��� schlie��en Sie die Zahlung ab, um fortzufahren ",
+    "from": "Kundendienstzentrum, <service@stayfriends.de.>, Kundendienstzentrum,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 18 Oct 2024 14:35:02 +0000",
+    "message_id": "<M2rgHC4.0.0.M2rgHC4.9.M2rgHC4@stayfriends.de>",
+    "content_type": "text/html; charset=[charse<!DOCTYPE html>"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=[charse<!DOCTYPE html>"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/42/46pd.png",
+      "http://afridox.com/WU5qWTI3bDBRN3N5U3AvZlJoUHI0YnRCQVlWWXVMbHladzhoWGZpbE5HdEVqQ0xBZ01ydjMrV1h6UlJXV0ttdHU5WTRIdCs5TWpoNHhIdFdDVktRMFE9PQ__",
+      "div.kl-row.colstack",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "www.zupimages.net/up/24/42/46pd.png",
+      "http://afridox.com/UlprTkdKK0lCNjZVaEhIdXVVY05XWXNkeFFOSHoyUzFhM0xNcnZOQ0xINkpvZXVEeVhuRmFoYWwwMEZXOEhoME9qNVFiNXBwbjFxNzRGTWYyQ2VOUEE9PQ__",
+      "http://afridox.com/K2hOWEszdFFnbGdkUGdFeVlaTDhEaldUY1VJSm0zNEpvc2Vlc050WkZMUmR2b0tzajl1SzczMG5sMUFRanhHazdUenZkbEdSRnBoOWYvQXpjMnZnanc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "td.mobile-only",
+      "http://afridox.com/YXhyRFppVGE2ekJYSXJIVmlyY1dTMUZsZTNkY2s2NXpiVnFXbitxWnN4aXdjeTRHMmxJbDNnT0xMS2VFVitVRVNleXQyWFZrTXhaNmVzb0JtVlN3bUE9PQ__",
+      "table.mobile-only",
+      "div.kl-column",
+      "content-padding.last",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4928,
+    "html_length": 17309,
+    "has_text": true,
+    "has_html": true
+  }
+}

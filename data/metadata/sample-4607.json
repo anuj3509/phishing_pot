@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Wir gratulieren Dir recht herzlich!!",
+    "from": "Kinder <phishing@pot>, Kinder <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Dec 2024 12:38:54 +0000",
+    "message_id": "<TokdSxN.0.0.TokdSxN.9.TokdSxN@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://whispeechless.com/?a=8616&amp;oc=22473&amp;c=59298&amp;m=3&amp;s1=",
+      "http://clientmagic.de/cTltbzN2K2RIcEJDWC9uRDhXQ3hXMVQ4NHdwOUE3dHphbUJHUmt2ZytoOXZTdXRxWFNqc1pXUUxiRzRNL1lVWDRXQWE2aFB4YWE0OGtpZGF3Q0Z4Unc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/51/8v1h.jpg",
+      "https://www.zupimages.net/up/24/51/8v1h.jpg",
+      "http://tmbhpdq.clientmagic.de/RkZ0RXhoMEFIb1BtekxITEdTSjV4K0dRcDgxWWZ2dFpWL3Bmc2xndDhTam0vSWNkOWhNLzlHWVBBcWVaWERIZXdVVUpGNXg1Vk1jUFZYd3ptRWNsWHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1752,
+    "html_length": 8413,
+    "has_text": true,
+    "has_html": true
+  }
+}

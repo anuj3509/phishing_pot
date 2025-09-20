@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "🔋 Zonnepanelen voor een goede prijs ",
+    "from": "\"Zonnepanelen installateur\" <zonnepaneel@appjj.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Thu, 3 Nov 2022 04:56:15 +0000",
+    "message_id": "<0.0.0.0.1D8EF409A5C12CE.37AA@dturm.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "div.preheader",
+      "http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190",
+      "https://i.imgur.com/sOPmaS3.png",
+      "https://i.imgur.com/Hr5TM3Y.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3487,
+    "html_length": 13346,
+    "has_text": true,
+    "has_html": true
+  }
+}

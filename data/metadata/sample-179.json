@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Trust Wallet",
+    "from": "\"noreply\" <jochoa@laconvencion.gob.pe>",
+    "to": "phishing@pot",
+    "date": "Sun, 25 Dec 2022 07:53:21 +0100",
+    "message_id": "<5816419606864150362175@WIN-HM6FI4VOIEP>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://f.ls/YXM92/qr"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 371,
+    "html_length": 3775,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "���� Win een Gazelle E-Bike!",
+    "from": "\"phishing@pot\" <EbikeGazelle@aprimarse.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 15 Dec 2024 15:02:04 +0000",
+    "message_id": "<LfwMwBt.37187.315.jXE@ids.aprimarse.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://click.sas.aprimarse.com/a24815174603f17.jpg",
+      "https://click.sas.aprimarse.com/cXpzMVBNbUF4MGt4d3l2ZTMxTnBhZEZ0aERVY2JhNFprWkl6TTdzU3FzT2VDSjVuQXY3amtYZXJTSFJOMGxJblpEbE5pcUx3aTYzRC9uTThqc3BqSVdBMFF5c280STZrZkNJQ01hMWtTNFU9",
+      "https://click.sas.aprimarse.com/006747343c6ca2e.png",
+      "https://click.sas.aprimarse.com/TFFqZzQ3NmZxbnBmTXA0SVV0UndtY3F6Q2tTRTQ1VFYzc1IxbXJ1RFIvM2YrNFovRHIyYkMxV1V1NXRMVGZaaFVSdi9RRG5xVXFiRHI5SkRvT2NoSWlsQmxIcUZNWnp0d25KN1d1MFdmdjg9",
+      "https://click.sas.aprimarse.com/UlY3aHRIeTErVnNzWm1pQmhHNDRVQVM0cS93NENuend0TDV1aVpSL3ZoZjFTRnFIeHdnbXNyNmI0Tm9KU1YyZlBiV01xZFFXTFAzVktOUzFMV2RKdzRtdTBWWlZwTzkwdEJMNWxpaVNuYkU9",
+      "click.sas.aprimarse.com/cXpzMVBNbUF4MGt4d3l2ZTMxTnBhZEZ0aERVY2JhNFprWkl6TTdzU3FzT2VDSjVuQXY3amtYZXJTSFJOMGxJblpEbE5pcUx3aTYzRC9uTThqc3BqSVdBMFF5c280STZrZkNJQ01hMWtTNFU9",
+      "https://click.sas.aprimarse.com/b218c08e18b83d6.jpg",
+      "click.sas.aprimarse.com/a24815174603f17.jpg",
+      "https://click.sas.aprimarse.com/dcef8772fa7a552.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1697,
+    "html_length": 15833,
+    "has_text": true,
+    "has_html": true
+  }
+}

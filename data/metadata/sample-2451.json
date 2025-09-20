@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Final Reminder: Don't Miss Out on Your XRP Tokens!",
+    "from": "Team Ripple <xinfoadmin@kanyigoadventure.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Dec 2023 12:28:02 +0000",
+    "message_id": "<753cjYPJsqlSsBcwhzKfG4vOc726VaQgZ8leL8X4ek@vultr-guest>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_753cjYPJsqlSsBcwhzKfG4vOc726VaQgZ8leL8X4ek\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_753cjYPJsqlSsBcwhzKfG4vOc726VaQgZ8leL8X4ek\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900",
+      "https://google.com/amp/s/t.co/7B8lv5rag1",
+      "https://drive.google.com/uc?id=1vf95C-zc7w5UY6F7K96GOZJYlj23_-q9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2332,
+    "html_length": 11334,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 95439993.",
+    "from": "Correios <notificacao024041@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 22 Oct 2024 18:33:43 +0000",
+    "message_id": "<64ed5378a4c7c899109f54a49bff43cb@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_64ed5378a4c7c899109f54a49bff43cb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_64ed5378a4c7c899109f54a49bff43cb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreamentofiscalizacao.com/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3523,
+    "has_text": true,
+    "has_html": true
+  }
+}

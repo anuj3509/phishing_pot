@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Important: Your X5vc26L9LI645t8zrh Confirmation - Time-Sensitive!
+From: "Paid Customer" <asadkhan71523@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Thu, 15 May 2025 07:23:29 -0700 (PDT)
+Message_Id: <6825f8e1.050a0220.29b080.7bc9@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============0189095915608398003=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============0189095915608398003=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #068ACC; } .auto-style2 { color: #022BDB; } Money receipt Number: ORD819462 Pay Pal Notification of Recently Issued Invoice We're happy to let you know that we're received your order. Once your package ships, we will send you an email with a tracking number and link so you can see the movement of your package. If you have any questions, contact us here or call us on 1.808.631.7590. We are here to help! Order Summary Seller: COINBASE EXCHANGE PVT LTD PAYMENT Product: Cronos-CRO Quantity: 1x Buyer: Paid Customer Wallet Id: de8694ef-ea84-4164-a4e9-95c494dbbcd0 Amount: $835.27 Returns: If you would like to return your product, please contact us 1.808.631.7590. Warmest Regards, PayPal, Inc. Copyright © 2024 Company. All rights reserved. Terms of Use | Privacy Policy | Sales and Refunds Our Mailing address is: W Broad Oh Peabody Massachusetts 41169 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #068ACC;
+}
+.auto-style2 {
+	color: #022BDB;
+}
+</style>
+</head>
+
+<body>
+
+Money receipt Number: ORD819462<h2><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></h2>
+<strong>Notification of Recently Issued Invoice</strong><br>
+<br>
+We're happy to let you know that we're received your order.<br>
+Once your package ships, we will send you an email with a tracking number and 
+link so you can see the movement of your package.<br>
+<br>
+If you have any questions, contact us here or call us on 1.808.631.7590.<br>
+We are here to help!<br>
+<br>
+<strong>Order Summary</strong><br>
+Seller: COINBASE EXCHANGE PVT LTD PAYMENT<br>
+Product: Cronos-CRO<br>
+Quantity: 1x<br>
+Buyer: Paid Customer<br>
+Wallet Id: de8694ef-ea84-4164-a4e9-95c494dbbcd0<br>
+Amount: $835.27<br>
+<br>
+Returns: If you would like to return your product, please contact us 1.808.631.7590.<br>
+<br>
+Warmest Regards,<br>
+PayPal, Inc.<br>
+<br>
+Copyright © 2024 Company. All rights reserved.<br>
+Terms of Use | Privacy Policy | Sales and Refunds<br>
+Our Mailing address is: W Broad Oh Peabody Massachusetts 41169 USA
+
+</body>
+
+</html>

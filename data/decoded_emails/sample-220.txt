@@ -1,0 +1,115 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Atualização Pendente.
+From: "santander" <compras@oftalmozonasul.com.br>
+To: phishing@pot
+Date: Fri, 6 Jan 2023 19:15:08 -0300
+Message_Id: 
+ <e49b2610-4c6b-43fd-b54a-1738825976af@VI1EUR06FT063.eop-eur06.prod.protection.outlook.com>
+Content_Type: multipart/alternative; boundary="QV991tPdewZd=_pW9fuvm9tCp9mCte062h0"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="QV991tPdewZd=_pW9fuvm9tCp9mCte062h0"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.avast.com
+  - https://s-install.avcdn.net/ipm/preview/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif
+  - https://conecte-way.online/painel_stone_esfera_way_nubank_/painel_stone_esfera_way_nubank_2.2/esfera/
+  - https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient
+  - ..session1
+
+DECODED TEXT CONTENT:
+------------------------------
+ - This mail is a HTML mail. Not all elements could be shown in plain text mode. -
+
+Form
+a:link {
+color: #09C;
+}
+a:visited {
+color: #09C;
+}
+a:hover {
+color: #09C;
+}
+a:active {
+color: #09C;
+}
+..session1 {font-family: Arial, Helvetica, sans-serif; font-size:0px; color: #FFF;}
+Banco Santander Cartes S.A.
+Carto de Crdito
+..
+Prezado(a)
+
+IMPORTANTE!
+
+Para garantir que seu carto crdito e debito continue ativo, atualize seus dados agora,
+com total comodidade e segurana.
+Para normalizao, ser necessrio efetuar a atualizao dos seus dados em nosso sistema.
+Alerta: A liberao do servio ocorrer somente aps a atualizao dos dados de cobrana.
+
+
+CLIQUE AQUI PARA   ATUALIZAR OS DADOS!
+
+P
+ara ns,  um
+a satisfao ter voc como cliente.
+At
+enciosam
+ente,
+Banco
+Sa
+ntander Cartes S.
+A.
+
+
+
+-- 
+This email has been checked for viruses by Avast antivirus software.
+www.avast.com
+
+DECODED HTML CONTENT:
+------------------------------
+<HTML><HEAD><TITLE>Form</TITLE></HEAD>
+<BODY>
+<STYLE type=text/css>
+a:link {
+color: #09C;
+}
+a:visited {
+color: #09C;
+}
+a:hover {
+color: #09C;
+}
+a:active {
+color: #09C;
+}
+..session1 {font-family: Arial, Helvetica, sans-serif; font-size:0px; color: #FFF;}		</STYLE>
+
+<DIV style="BORDER-TOP: rgb(204,204,204) 1px solid; HEIGHT: 451px; BORDER-RIGHT: rgb(204,204,204) 1px solid; WIDTH: 695px; BACKGROUND: rgb(204,0,0) 0% 50%; BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; BORDER-LEFT: rgb(204,204,204) 1px solid; MARGIN: 30px auto 0pt; PADDING-RIGHT: 2px; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial">
+<DIV style="FONT-SIZE: 16px; FONT-FAMILY: Arial; COLOR: rgb(255,255,255); MARGIN: 15px"><FONT style="FONT-SIZE: 15pt; FONT-WEIGHT: 700">Banco Santander Cartes S.A.</FONT></DIV>
+<DIV style="BORDER-TOP: rgb(204,204,204) 1px solid; BORDER-RIGHT: rgb(204,204,204) 1px solid; BACKGROUND: rgb(238,238,238) 0% 50%; MARGIN-TOP: 10px; BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(204,204,204) 1px solid; PADDING-RIGHT: 10px; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial">
+<DIV style="BORDER-TOP: rgb(204,204,204) 1px solid; BORDER-RIGHT: rgb(204,204,204) 1px solid; BACKGROUND: rgb(255,255,255) 0% 50%; BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(204,204,204) 1px solid; PADDING-RIGHT: 10px; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial">
+<DIV style="FONT-SIZE: 11px; BORDER-TOP: rgb(204,204,204) 1px solid; BORDER-RIGHT: rgb(204,204,204) 1px solid; BACKGROUND: rgb(238,238,238) 0% 50%; BORDER-BOTTOM: rgb(204,204,204) 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(204,204,204) 1px solid; PADDING-RIGHT: 10px; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial"><B><FONT style="FONT-SIZE: 10pt" color=#333333 face=Verdana>Carto de Crdito</FONT></B><SPAN style="FONT-SIZE: 10pt"><B>.</B></SPAN></DIV>
+<DIV style="FONT-SIZE: 12px; BORDER-TOP: rgb(204,204,204) 1px solid; FONT-FAMILY: Arial; BORDER-RIGHT: rgb(204,204,204) 1px solid; BACKGROUND: rgb(238,238,238) 0% 50%; MARGIN-TOP: 10px; BORDER-BOTTOM: rgb(204,204,204) 1px solid; COLOR: rgb(51,51,51); PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: rgb(204,204,204) 1px solid; PADDING-RIGHT: 10px; -moz-background-clip: initial; -moz-background-origin: initial; -moz-background-inline-policy: initial" align=justify><FONT style="FONT-SIZE: 10pt"><B>Prezado(a)</B> <FONT style="FONT-WEIGHT: bold" color=#cc0000></FONT><BR>&nbsp;</FONT> 
+<P style="MARGIN: 0px; LINE-HEIGHT: 15px"><FONT style="FONT-SIZE: 10pt" face=Arial>IMPORTANTE!<BR>&nbsp;<BR>Para garantir que seu carto crdito e debito continue ativo, atualize seus dados agora,</FONT></P>
+<P style="MARGIN: 0px; LINE-HEIGHT: 15px"><FONT style="FONT-SIZE: 10pt" face=Arial>com total comodidade e segurana.<BR><BR>Para normalizao, ser necessrio efetuar a atualizao dos seus dados em nosso sistema.<BR><BR>Alerta: A liberao do servio ocorrer somente aps a atualizao dos dados de cobrana.</FONT><BR>&nbsp;</P>
+<TABLE style="FONT-SIZE: 13px; FONT-FAMILY: arial; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(76,76,76); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px" cellSpacing=0 cellPadding=0 width="100%">
+<TBODY>
+<TR>
+<TD height=35 width=39 align=center>&nbsp;</TD>
+<TD style="BACKGROUND-COLOR: rgb(255,0,0)" bgColor=#222222 width=426 align=center>
+<P style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px"><A style="TEXT-DECORATION: none; COLOR: rgb(66,112,182)" href="https://conecte-way.online/painel_stone_esfera_way_nubank_/painel_stone_esfera_way_nubank_2.2/esfera/" rel=noreferrer target=_blank><FONT style="FONT-SIZE: 9pt" color=#ffffff face=Arial>CLIQUE AQUI PARA &nbsp; ATUALIZAR OS DADOS!</FONT></A></P></TD>
+<TD width=54 align=center>&nbsp;</TD></TR></TBODY></TABLE>
+<P style="MARGIN: 0px; LINE-HEIGHT: 15px"><BR><BR><FONT face=Arial><B style="BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit"><SPAN style="FONT-SIZE: 10pt">P</SPAN><SPAN style="FONT-SIZE: 10pt">ara ns,  um</SPAN></B><B style="FONT-SIZE: 10pt; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">a satisfao ter voc como cliente.</B></FONT><BR><FONT style="FONT-STYLE: normal" size=2 face=Arial>At</FONT><FONT style="FONT-STYLE: normal" size=2 face=Arial>enciosam</FONT><FONT style="FONT-SIZE: 9pt; FONT-STYLE: normal" size=2 face=Arial>ente,</FONT><BR><FONT color=#ff0000><B style="FONT-SIZE: 10pt; BORDER-TOP: 0px; FONT-FAMILY: inherit; BORDER-RIGHT: 0px; VERTICAL-ALIGN: baseline; BORDER-BOTTOM: 0px; FONT-WEIGHT: bold; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; font-stretch: inherit">Banco </B></FONT><SPAN style="FONT-WEIGHT: 700"><FONT color=#ff0000 size=2>Sa</FONT><FONT color=#ff0000 size=2>ntander Cartes S.</FONT><FONT style="FONT-SIZE: 9pt" color=#ff0000 size=2>A.</FONT></SPAN></P></DIV></DIV></DIV></DIV>
+<P>&nbsp;</P><div id="DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br /><table style="border-top: 1px solid #D3D4DE;"><tr><td style="width: 55px; padding-top: 13px;"><a href="https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient" target="_blank"><img src="https://s-install.avcdn.net/ipm/preview/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif" alt="" width="46" height="29" style="width: 46px; height: 29px;"/></a></td><td style="width: 470px; padding-top: 12px; color: #41424e; font-size: 13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Virus-free.<a href="https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient" target="_blank" style="color: #4453ea;">www.avast.com</a></td></tr></table><a href="#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width="1" height="1"> </a></div></BODY></HTML>
+

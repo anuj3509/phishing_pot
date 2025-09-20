@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Valor bloqueado por seguranca6n4i7B0COLI",
+    "from": "Nubank - suspeita de fraudeDM1sTWqpts <amandajohnson217248@gmail.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Fri, 15 Dec 2023 11:11:42 -0800 (PST)",
+    "message_id": "<657ca4ee.0c0a0220.b6d07.b516@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============8824206077095607350==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============8824206077095607350==\""
+  },
+  "attachments": [
+    {
+      "filename": "pdf_ciuVzBNv.pdf",
+      "content_type": "application/pdf",
+      "size": 198226
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 640,
+    "html_length": 768,
+    "has_text": true,
+    "has_html": true
+  }
+}

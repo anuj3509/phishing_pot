@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your 5% markdown voucher.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <best.pharmacy.online1@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 06 Aug 2024 17:20:25 +0200",
+    "message_id": "<84F42696.BCEEAAF1@hotmail.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=I",
+      ".button.yes",
+      ".button.no",
+      "http://insighttecnica.com/f.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4237,
+    "html_length": 6999,
+    "has_text": true,
+    "has_html": true
+  }
+}

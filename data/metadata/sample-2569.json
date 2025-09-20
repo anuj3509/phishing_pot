@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Celsius Account Update & Withdrawal Process",
+    "from": "Celsius Network <info@feedspot.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 13 Jan 2024 15:24:31 +0000",
+    "message_id": "<0101018d036cb217-784475ca-114f-4359-8166-753d555b9d8b-000000@us-west-2.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://dmnetstage.embackstage.com/cel/log.png",
+      "https://dmnetstage.embackstage.com/cel/",
+      "celsius.network.",
+      "https://celsiusnetwork.medium.com/celsius-distribution-faq-1cdd323251ef"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3320,
+    "html_length": 5699,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Congrats! it's your chance now !",
+    "from": "Home Depot <rewards@hd-promos,com>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Jun 2025 18:49:26 +0000",
+    "message_id": "<925516686449630.4.NJH1912257390@homedepotoffers.net",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/25/11/fys8.png",
+      "div.kl-row.colstack",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "http://YGwsVwRL4SARDshiYZ5XYGwsVwRL4SARDshiYZ5XYGwsV.financegurugateway.click/6YGwsV235614CQdi1498dfaukesufv28353BNTISDQNBABPZUP577662/5789G31",
+      "http://www.w3.org/1999/xhtml",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "content-padding.first",
+      "http://YGwsVwRL4SARDshiYZ5XYGwsVwRL4SARDshiYZ5XYGwsV.financegurugateway.click/5YGwsV235614CQdi1498dfaukesufv28353BNTISDQNBABPZUP577662/5789G31",
+      "table-mobile-only.inline-block",
+      "http://YGwsVwRL4SARDshiYZ5XYGwsV.financegurugateway.click/4YGwsV235614CQdi1498dfaukesufv28353BNTISDQNBABPZUP577662/5789G31",
+      "http://akNxsOhqDtfMPPcwRL4SARDshiYZ5XakNxsOhqDtfMPPc.financegurugateway.click/track/3YGwsV235614CQdi1498dfaukesufv28353BNTISDQNBABPZUP577662/5789G31",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "table.mobile-only",
+      "div.kl-column",
+      "content-padding.last",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5244,
+    "html_length": 19861,
+    "has_text": true,
+    "has_html": true
+  }
+}

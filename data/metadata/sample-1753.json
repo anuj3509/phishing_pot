@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "an urgent question for you",
+    "from": "Victoria at CareerFoundry <vik@careerfoundry.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 11:58:01 +0100",
+    "message_id": "<1698749753763.7b922108-f7bf-4275-9b4e-ef46d54801ed@bf56x.hubspotemail.net>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_6182129_1645610515.1698749881595\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_6182129_1645610515.1698749881595\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://email.careerfoundry.com/hs/manage-preferences/unsubscribe?languagePreference=en&amp;d=VndZ7Z8D-1ThW49PFWb3S-qwmW3LCFzn3R3cg5W3zbV8Y3Fbt5qW7s0f3R1fk4d_VkDd3K6ffWw1W66JMLz8-rcgpW5fpmqk4vVsJyN4JVpNBGKd_PV20N5V97nJx2W98MBBs3h14xSF9frhzdSBHk1&amp;v=3&amp;utm_campaign=Career%20Change%20OCT%202023&amp;utm_source=hs_email&amp;utm_medium=email&amp;utm_content=280560938",
+      "td.imageTableBottom",
+      "https://email.careerfoundry.com/e3t/Ctc/RD+113/c4m7Z04/MWjyhGkJv2KW4j2zpt2BN0GrW8GDvjX55hsymN5ZDtV83qg1qW7Y8-PT6lZ3njW8GyyHL4cZ2wMVZJHQc8hbgQNVF5MtG6lChNPW30r8dw21D3FKW2gzvWc2JKVW6VYhgKG8HXHWxW3c9D1H5f2Tj0VdyrTx3J_s1JW1LXR-j5hm56mW3_hbL_2WN6czW113X6b7NG0tTW3hXVMT8JX1QHV86XnD4XVtRrW5m5cYY3GnSWvW4gkPHl2mZWZvVlL0N1821KFvW8l_97T8w97SJW1TCHVl4HlF0tW4FlH_C3JCCwYN8_PNY66r235W1b8WKt2cLBr5W7c3vBm3JG15MW8fyK_Y854kb9W9g7qzr84bcDgW5sB0tm7VrwRDVzGsP17VVBG3dLWnhq04",
+      "td.imageTableLeft",
+      "https://email.careerfoundry.com/e3t/Ctc/RD+113/c4m7Z04/MWjyhGkJv2KW4j2zpt2BN0GrW8GDvjX55hsymN5ZDtV83pr48W7Y8-PT6lZ3pXW1CFgNX305GvFW74-5Jv4wxfQYW49_FgK7k015GN55wdMLNXlQ1W8Tsc-x8lFz98W4qjJ6f61LlTVW6rm7Hp22rc6rW6q8YvV40VHdZW6br8S04wL-JwW6bfj_53DH9nJW2qHq8240d3g9W1W9SF11nQ_DBW28gq-L1mNmJtW75rVfl3cwCYsW9kWV0T4XvsDMW8bNmnC7jLYL2W69fF4Z5Gl0cKW2M4Xbl2pL8DkW4xS7lh4dhyzWW3_MlkV12mW1qW34PyTx9fSnLZW6Qg-9W7Kc2SFVT0xh-2npsdrW9c-FbC2hBXG2W6Qy8SB98bjy1W8MfgJM8g6BB3f5s6Hxs04",
+      "td.column",
+      "https://email.careerfoundry.com/e3t/Cto/RD+113/c4m7Z04/MWjyhGkJv2KW4j2zpt2BN0GrW8GDvjX55hsymW5ZDtDF3Dhzfw103",
+      "http://www.w3.org/1999/xhtml",
+      "table.alignImageTable",
+      "td.imageTableTop",
+      "td.columnContent",
+      "td.imageTableRight",
+      "https://email.careerfoundry.com/hs/manage-preferences/unsubscribe?languagePreference=en&d=VndZ7Z8D-1ThW49PFWb3S-qwmW3LCFzn3R3cg5W3zbV8Y3Fbt5qW7s0f3R1fk4d_VkDd3K6ffWw1W66JMLz8-rcgpW5fpmqk4vVsJyN4JVpNBGKd_PV20N5V97nJx2W98MBBs3h14xSF9frhzdSBHk1&v=3",
+      "td.bodyContent",
+      "https://email.careerfoundry.com/-temporary-slug-eaa60bef-7e1d-4133-8585-b1b5f7b0c850",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1659,
+    "html_length": 13982,
+    "has_text": true,
+    "has_html": true
+  }
+}

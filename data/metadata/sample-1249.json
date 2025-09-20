@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Important security update",
+    "from": "LEDGER LIVE <mailsender@beteltecnologia.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 05 Sep 2023 11:09:38 +0000 (UTC)",
+    "message_id": "<ObU-9DsuRsaINT11igscIg@geopod-ismtpd-39>",
+    "content_type": "multipart/alternative; boundary=24bddca7a7abc405d23ec5568983546576ac1937e968297279dd9c9c2464"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=24bddca7a7abc405d23ec5568983546576ac1937e968297279dd9c9c2464"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledger-rectify.catalog.yampi.io/",
+      "https://upload-arquivos.s3-sa-east-1.amazonaws.com/img/logomarcas/337819/362696/mini_Matriz_07_08_38.png",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDZM34PHTz2IDlpo6jNf3QaJ9KudM8G0Otktw9THbVa-2BA-3D-3DxK68_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gv-2FhwmyWSAJHB7GiomNwlhFCh3bg06YV1k2je05E2NfFV8y2OxIFYhTzXlUpLMHBkj7ikrzLdkPr452LFqgB90cqavsmco0omJHAao5zTZR-2FGBv-2BSbr1Nqsps8hAVpaLYdq10bSHB2u31wBmL2Wx7ng-3D-3D",
+      "https://erp.clicksuite.com.br/proposta/V3W7aWx",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDZM34PHTz2IDlpo6jNf3QayOKhbDLfIbF-2BoUdtRGgoZw-3D-3DINs__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gcWVzrfNjzmp7wqQ2WN7W0P4cD3qticBTJf9ea4sfdobsbX-2BtFXwIGM2mLOZ6bSeCQ4comtUAcq-2FBCiQCBVtKb2Sdci0FrSMWtNROKAbbl6JQPjDIXPaVYE-2FYkRKsRRefUAe8dMC7rtWB2ls2n4yh4A-3D-3D",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDZM34PHTz2IDlpo6jNf3QayOKhbDLfIbF-2BoUdtRGgoZw-3D-3DTxyP_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gcWVzrfNjzmp7wqQ2WN7W0AePOFWOCwCMWEBxnlb8GNZYfY4nvYOjQWCt7JKltbgLYBq1lskVVO0O8xxtvJ5VsAw9O13GoketGVHdOdApciTJ9A74-2BhDBKgwHo17DXb04tXsJovVLs18vRimme6Ehdw-3D-3D",
+      "http://link.beteltecnologia.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FvfWIsQ1ScufOpCFW9JgQQnCdrbmrLNziI5o5KJQh-2BxSkD2ZE2QV-2F-2FLZflJ22jc-2FfVfsBRtifOFNHiJhFV4LcOaKi20csNc9BqkGlCFFSR-2FAlIo6DEnyDN8m12frQBUolSXejHMgRyEEGY2G5D5of0I7diQ5QRvyISNyqnA75riTQ4geYyp7OP8YsoAtgadng-3D",
+      "www.clicksuite.com.br",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDjmPvlulkWVysp98b7MGrqeANw7zYIijdmen0NVt225HUVpvSA6IUTDO3v7oc2FQ0b3oiNP6Qt7iaFWOV9PUqNWkD2_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gcWVzrfNjzmp7wqQ2WN7W0LQsLDNaCdA4YFMZPj-2FFVD3BR4a-2BHideVT-2BiT3rcMOE-2FFvTTUX-2FqoyxxdGWosNyqBTwGlSL4vFH3zBBCICwTNNemTuU5DCfAprPsLcT5z4K10pG-2BaUCw22vHkzO-2FKSkTmA-3D-3D",
+      "http://link.beteltecnologia.com/ls/click?upn=wxLPt-2Bijbp7dAECDiV4xSvE4SkSpx-2Fx-2FNsIgNcxsQP5z9cVujZNNZK8i71PD6on16Qcc_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gcWVzrfNjzmp7wqQ2WN7W0OWwSWKgx7aK0JF8sXd5H0XsZpBwxUrsNkggHaTpcbUXBz660qpycHZZFPkB-2FqpUzB7nv6XbMPKVcu3lcUEJYoLFiXv9pLwrQT4FfmjflZ-2FCXP7Z3BDKMEMlidorNjjyiw-3D-3D",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDjmPvlulkWVysp98b7MGrqeANw7zYIijdmen0NVt225HUVpvSA6IUTDO3v7oc2FQ0b3oiNP6Qt7iaFWOV9PUqNGe-y_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gv-2FhwmyWSAJHB7GiomNwlhNLwejycf9bPtA8Ji-2BZzVJ0wS6VeLMuVEWgrnk-2BnIrdsZ4shR-2Br-2Bi6Qc2gfS5gDRfQ5eN3DbkdZoBaZ0UVE2siV7KSvQE-2FfPtdmlQAbSdetFqzHeJxxd3ObvLk2VzWde1Q-3D-3D",
+      "ledger.com",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCttg4myyqEy-2FlW-2F9WKnzfgkDZM34PHTz2IDlpo6jNf3QaJ9KudM8G0Otktw9THbVa-2BA-3D-3D_0EU_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gv-2FhwmyWSAJHB7GiomNwlhL5Pna7IC227Fhe0tUWY5ubLv50KbsUIgmw6jVBvg2Doms6-2F8NmvLmiEKh5gADZKOF1lz8sV5jhjVYsP0-2BWss8vODTTYSp4ILPHK-2BHM6fq0Ori8N8wwuZeZOzmeqmVn3Kw-3D-3D",
+      "http://link.beteltecnologia.com/ls/click?upn=LidKcbaqPfCduzNuArPCtkhPlzjoWAAVPjOI2-2B6dwK-2BFSSeAIM1E2swRfpHScIq-2FFRLGgp8j-2FBCMbwS1O3r65A-3D-3DLk43_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmgvx4M3bzZnjglNTZ6bz3gv-2FhwmyWSAJHB7GiomNwlhAqsN6Gvfw2HhJvRoMUQn2RrGBPyMoy2OBdFfeE9lHfk7bf1PaiKgvRXQN7W2E7jidNAUgtLbQ3793rJvuYXl3XdfvxH6nHKq7wdWs9z0IOYIHHT8-2F0O-2BjbeDp1c8Khxrw-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5827,
+    "html_length": 7266,
+    "has_text": true,
+    "has_html": true
+  }
+}

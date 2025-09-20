@@ -1,0 +1,156 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Livelo Informa: Voce tem saldo disponivel para resgate expirando em breve!
+From: Livelo <no-replly@livelo.com>
+To: phishing@pot
+Date: Wed, 30 Aug 2023 19:38:29 +0200 (CEST)
+Message_Id: <20230830173829.BCB6B2206A@cwtizk847-jrlyd-cwtizk847>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire
+URLs found:
+  - https://imguol.com.br/p/webmail/v3/js/iframeResizer.contentWindow.min.js
+  - top.iframeAdjustSize(
+  - window.addEventListener(clickEventType,
+  - document.getElementsByTagName(
+  - document.ontouchstart!==null)?
+  - document.addEventListener(
+  - https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/primexclusive/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K
+  - body.blockImages
+  - hotmail.com
+  - https://banco.bradesco/resgates
+  - top.closeDropdown(e);
+  - logo.Encaminhado
+
+DECODED TEXT CONTENT:
+------------------------------
+html, body {position: relative !important;font-family: sans-serif;}a[href], a[xhref] { cursor: pointer; text-decoration: underline; color:blue; }.x_notviscode,.notviscode { display: none; height: 0px; visibility: hidden; width: 0px;}body.blockImages img[xsrc] {opacity: 0.5;background: #F0F0F0 !important;min-height: 15px;min-width: 15px;border: 1px dashed #888 !important;} &nbsp; BRADESCO &nbsp; Prezado cliente, Alertamos que seus Pontos Livelo Bradesco têm data de expiração em 31/08/2023. Resgate-os antes que expirem. Lembre-se, ao efetuar pagamentos com seu cartão Bradesco, seja no modo débito ou crédito, você sempre acumula pontos Livelo. Aproveite essa facilidade! &nbsp; &nbsp; Troque seus pontos por milhas aéreas Descontos de até 35% na fatura do cartão Seus pontos podem valer até R$ 7.000,00 427 mil PONTOS ACUMULADOS PRESTES A EXPIRAR. Resgatar Agora Resgate agora mesmo antes que eles expirem! Aproveite, Troque seus pontos por milhas aéreas, Descontos de até 25% no cartão ou milhares de prêmios em nosso Catálogo.Encaminhado a rodrigo-f-p@hotmail.com var calcCall = null, doc = document.getElementsByTagName("body")[0] var calcFn = function(){ if(false){ top.iframeAdjustSize("#mailBody"); } } var calc = function(e){ clearTimeout(calcCall); calcCall=setTimeout(function(){ calcFn(); }, 200); } var tap = function(e){ if(top){ top.closeDropdown(e); calcFn(); } } var clickEventType=((document.ontouchstart!==null)?"mousedown":"touchstart"); window.addEventListener(clickEventType, tap, false); document.addEventListener("mousemove", calc);
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.1, maximum-scale=5.0"><style>html, body {position: relative !important;font-family: sans-serif;}a[href], a[xhref] { cursor: pointer; text-decoration: underline; color:blue; }.x_notviscode,.notviscode { display: none; height: 0px; visibility: hidden; width: 0px;}body.blockImages img[xsrc] {opacity: 0.5;background: #F0F0F0 !important;min-height: 15px;min-width: 15px;border: 1px dashed #888 !important;}</style><script src="https://imguol.com.br/p/webmail/v3/js/iframeResizer.contentWindow.min.js"></script>
+
+</head>
+
+<body marginwidth="0" marginheight="0">
+
+
+
+
+
+<div style="WIDTH: 602px; PADDING-BOTTOM: 15px; PADDING-TOP: 15px; PADDING-LEFT: 15px; MARGIN: 0px auto; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #fff" id="bg">
+
+<div style="BOX-SIZING: border-box; BORDER-TOP: #e50091 2px solid; BORDER-RIGHT: #e50091 2px solid; WIDTH: 100%; BORDER-BOTTOM: #e50091 2px solid; PADDING-BOTTOM: 15px; PADDING-TOP: 0px; PADDING-LEFT: 15px; BORDER-LEFT: #e50091 2px solid; MARGIN: 0px auto; PADDING-RIGHT: 15px" id="bg">
+
+<div style="MARGIN-BOTTOM: 30px; TEXT-ALIGN: center">&nbsp;</div>
+
+<a style="border-style: solid; border-color: rgb(204, 9, 47);
+
+border-width: 15px 30px; background: rgb(204, 9, 47) none repeat
+
+scroll 0% 50%; -moz-background-clip: initial; -moz-background-origin:
+
+initial; -moz-background-inline-policy: initial; text-decoration:
+
+none; color: rgb(255, 255, 255); font-size: 50px; display: block;
+
+font-family: arial,'helvetica neue',helvetica,sans-serif; font-weight:
+
+normal; font-style: normal; line-height: 24px; width: auto;
+
+text-align: center;" href="https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/primexclusive/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K
+">BRADESCO</a>
+
+
+
+<div style="TEXT-ALIGN: center">
+
+<h1 style="FONT-SIZE: 26px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; MARGIN-TOP: 0px; FONT-WEIGHT: 700; COLOR: #cc0033; PADDING-TOP: 0px">&nbsp;</h1></div>
+
+<div>
+
+<div style="BOX-SIZING: border-box; FONT-SIZE: medium; OVERFLOW: hidden; BORDER-TOP: rgb(217,217,227) 0px solid; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; BORDER-RIGHT: rgb(217,217,227) 0px solid; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: rgb(217,217,227) 0px solid; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; BORDER-LEFT: rgb(217,217,227) 0px solid; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; flex: 1 1 0%" class="flex-1 overflow-hidden">
+
+<div style="BOX-SIZING: border-box; BORDER-TOP: rgb(217,217,227) 0px solid; HEIGHT: 184px; BORDER-RIGHT: rgb(217,217,227) 0px solid; WIDTH: 576px; BORDER-BOTTOM: rgb(217,217,227) 0px solid; POSITION: relative; BORDER-LEFT: rgb(217,217,227) 0px solid" class="react-scroll-to-bottom--css-ecxsj-79elbk h-full dark:bg-gray-800">
+
+<p align="center">Prezado cliente,</p>
+
+<p align="center">Alertamos que seus Pontos Livelo Bradesco têm data de expiração em 31/08/2023. Resgate-os antes que expirem.</p>
+
+<p align="center">Lembre-se, ao efetuar pagamentos com seu cartão Bradesco, seja no modo débito ou crédito, você sempre acumula pontos Livelo. Aproveite essa facilidade!</p></div></div>
+
+<div style="BOX-SIZING: border-box; FONT-SIZE: medium; BORDER-TOP: transparent 0px solid; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; BORDER-RIGHT: transparent 0px solid; WHITE-SPACE: normal; WORD-SPACING: 0px; BORDER-BOTTOM: transparent 0px solid; POSITION: absolute; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; LEFT: 0px; BORDER-LEFT: transparent 0px solid; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BOTTOM: 0px; BACKGROUND-COLOR: transparent; TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; justify-content: center" class="absolute bottom-0 left-0 w-full border-t md:border-t-0 dark:border-white/20 md:border-transparent md:dark:border-transparent md:bg-vert-light-gradient bg-white dark:bg-gray-800 md:!bg-transparent dark:md:bg-vert-dark-gradient pt-2 md:pl-2 md:w-[calc(100%-.5rem)]">
+
+
+
+<div style="BOX-SIZING: border-box; BORDER-TOP: rgb(217,217,227) 0px solid; HEIGHT: 112px; BORDER-RIGHT: rgb(217,217,227) 0px solid; BORDER-BOTTOM: rgb(217,217,227) 0px solid; POSITION: relative; BORDER-LEFT: rgb(217,217,227) 0px solid; DISPLAY: flex; flex: 1 1 0%; flex-direction: column; align-items: stretch" role="presentation" class="relative flex h-full flex-1 items-stretch md:flex-col">
+
+<div style="BOX-SIZING: border-box; BORDER-TOP: rgb(217,217,227) 0px solid; BORDER-RIGHT: rgb(217,217,227) 0px solid; BORDER-BOTTOM: rgb(217,217,227) 0px solid; BORDER-LEFT: rgb(217,217,227) 0px solid">&nbsp;</div></div></div><p style="BOX-SIZING: border-box; FONT-SIZE: 16px; BORDER-TOP: rgb(217,217,227) 0px solid; FONT-FAMILY: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; BORDER-RIGHT: rgb(217,217,227) 0px solid; WHITE-SPACE: pre-wrap; WORD-SPACING: 0px; BORDER-BOTTOM: rgb(217,217,227) 0px solid; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(55,65,81); FONT-STYLE: normal; BORDER-LEFT: rgb(217,217,227) 0px solid; ORPHANS: 2; WIDOWS: 2; MARGIN: 1.25em 0px 0px; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(247,247,248); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">&nbsp;</p></div>
+
+<div style="MARGIN-BOTTOM: 40px; BACKGROUND-COLOR: #2f237d; border-radius: 20px">
+
+<table cellpadding="0" cellspacing="0" width="100%">
+
+<tbody>
+
+<tr>
+
+<td style="PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 20px" width="60%">
+
+<p style="FONT-SIZE: 14px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 300; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px"><font color="#ffffff"><span style="FONT-WEIGHT: 500">Troque seus pontos por milhas aéreas</span> </font></p>
+
+<p style="FONT-SIZE: 14px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 300; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px"><font color="#ffffff"><span style="FONT-WEIGHT: 500">Descontos de até 35% na fatura do cartão</span> </font></p>
+
+<p style="FONT-SIZE: 14px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 300; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; LINE-HEIGHT: 18px; PADDING-RIGHT: 0px"><span style="FONT-WEIGHT: 500"><font color="#ffffff">Seus pontos podem valer até R$ 7.000,00</font></span></p></td>
+
+<td style="PADDING-RIGHT: 20px" width="40%">
+
+<div style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 40px; BORDER-LEFT: #fff 1px solid">
+
+<h2 style="FONT-SIZE: 36px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 700; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">427 mil</h2>
+
+<p style="FONT-SIZE: 10px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 300; COLOR: #fff; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px">PONTOS ACUMULADOS PRESTES A EXPIRAR.</p></div></td></tr></tbody></table></div>
+
+<div style="MARGIN-BOTTOM: 70px; TEXT-ALIGN: center"><a style="FONT-SIZE: 16px; TEXT-DECORATION: none; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 500; COLOR: #fff; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 40px; PADDING-RIGHT: 40px; BACKGROUND-COLOR: #005d82; border-radius: 20px" <a="" title="https://banco.bradesco/resgates" href="https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/primexclusive/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K
+">Resgatar Agora</a> </div>
+
+<div>
+
+<p style="FONT-SIZE: 12px; FONT-FAMILY: &quot;Signika&quot;, sans-serif; FONT-WEIGHT: 300; COLOR: #707070; LINE-HEIGHT: 18px">Resgate agora mesmo antes que eles expirem! Aproveite, Troque seus pontos por milhas aéreas, Descontos de até 25% no cartão ou milhares de prêmios em nosso Catálogo.Encaminhado a rodrigo-f-p@hotmail.com
+</p></div></div></div>
+
+<script>
+
+var calcCall = null, doc = document.getElementsByTagName("body")[0]
+
+
+
+var calcFn = function(){ if(false){ top.iframeAdjustSize("#mailBody"); } }
+
+var calc = function(e){ clearTimeout(calcCall); calcCall=setTimeout(function(){ calcFn(); }, 200); }
+
+var tap = function(e){ if(top){ top.closeDropdown(e); calcFn(); } }
+
+var clickEventType=((document.ontouchstart!==null)?"mousedown":"touchstart");
+
+window.addEventListener(clickEventType, tap, false);
+
+document.addEventListener("mousemove", calc);
+
+</script>
+
+
+
+<div style="clear: both; display: block; height: 0px;"></div></body></html>

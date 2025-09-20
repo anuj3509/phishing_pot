@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Please verify ",
+    "from": "Life Line Screening   ,_<2k2gy@gbpz2kzohr.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Oct 2023 06:01:58 +0000",
+    "message_id": "\r\n <3d1317d2-4df7-4e5a-bedc-439a02bf2dc5@AM0EUR02FT026.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/6zGHTY5QSe",
+      "https://i.imgur.com/nS0iA4T.jpg",
+      "https://t.co/z2YKEptOfL",
+      "i.imgur.com/nS0iA4T.jpg",
+      "http://dtherhproblem.us/su47379jSAew27537896Vvzp1371191voG68803EpaP3375"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 396,
+    "html_length": 8690,
+    "has_text": true,
+    "has_html": true
+  }
+}

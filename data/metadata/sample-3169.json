@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Você alcançou o cartão Black, mas há algo que você nãopode perder! Bem-vindo ao Bradesco Prime",
+    "from": "Bradesco <notificacoes@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 02 Apr 2024 15:02:52 +0000",
+    "message_id": "<5e9c6f18-614f-fd98-97fd-a35ae747a6de@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.univali.brdireitoepolitica",
+      "httpwww.sfgate.comcgi-inarticle.cgi?fca20070528MICROSOFT.TMP",
+      ".alert.alert-warning",
+      "https://bradesco.care/",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "Pets.com..",
+      "am.juntas",
+      "httpwww.ifoapplestore.comthe_stores.html",
+      "www.history-lab.org",
+      "www.mindcontrol-forums.comimagesMind94.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 164645,
+    "html_length": 293195,
+    "has_text": true,
+    "has_html": true
+  }
+}

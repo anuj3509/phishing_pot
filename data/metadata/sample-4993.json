@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Letzte Chance, Ihren 250���-Gutschein zu erhalten!",
+    "from": "\" Netto team.\" <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 25 Feb 2025 12:48:45 -0500",
+    "message_id": "<DEStihc.0.0.DEStihc.9.DEStihc@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://blog.afridox.com/WW5ONXVEcDl0cktiM2JCS3hkM3VVbzRkM21TNDFFbytBdTlSRndDa01aU3ZXTVd2Q0c5bFNYKzNpb0tFQmRqbnV6Ti93Wm1ENFBWSWlYbld0cjljcUE9PQ__",
+      "http://blog.afridox.com/bGJQc3l1UGN5eFY3a1Jpd3JjaDdlWFlPakkrdXMyTmVtcldFdEhQQXZpY213ZVRlajlpRXdHKzhHTVNqdlc2S0JqNFBTNXVBcUgrK3dTOGo5a1R1Z2c9PQ__",
+      "https://www.zupimages.net/up/23/36/ts2s.png",
+      "https://www.zupimages.net/up/23/36/l2jt.png",
+      "www.zupimages.net/up/23/36/ts2s.png",
+      "http://blog.afridox.com/aStEVDFvNS95Ymg0SGVxOHZ1dVVPSnhtNGJTSmppZ3V6eE9xT0htWG1KMllTbHBYQ05QcFhReHJRa1htYm1VMnZYLzljRmFURTJ6U2JhWXlTb1YrVlE9PQ__",
+      "www.zupimages.net/up/23/36/l2jt.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1556,
+    "html_length": 10584,
+    "has_text": true,
+    "has_html": true
+  }
+}

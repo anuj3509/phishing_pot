@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "SIE NEHMEN IN REKORDZEIT AB!���",
+    "from": "8 kg weniger in 1 Woche!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 22 Sep 2024 17:46:14 +0200",
+    "message_id": "<nYr1yVr.0.0.nYr1yVr.9.nYr1yVr@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/33/taxy.png",
+      "www.zupimages.net/up/24/33/i7jq.jpg",
+      "www.zupimages.net/up/24/33/s2hd.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&amp;family=Patrick+Hand&amp;display=swap",
+      "www.zupimages.net/up/24/33/3iag.png",
+      "www.zupimages.net/up/24/33/taxy.png",
+      "www.zupimages.net/up/24/33/0apd.png",
+      "http://magicmotorworks.info/",
+      "https://www.zupimages.net/up/24/33/s2hd.jpg",
+      "https://www.zupimages.net/up/24/33/3iag.png",
+      "https://www.zupimages.net/up/24/33/0apd.png",
+      "https://www.zupimages.net/up/24/33/i7jq.jpg",
+      "https://securemaildealzz.com/?a=8101&amp;oc=20815&amp;c=55780&amp;m=3&amp;s1=",
+      "http://magicmotorworks.info/op/879_md/1/2642/1248/50/112483"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2078,
+    "html_length": 25462,
+    "has_text": true,
+    "has_html": true
+  }
+}

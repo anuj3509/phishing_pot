@@ -1,0 +1,78 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Attention Is Requested – Ledger Account Notice
+From: Support Ledger <tops@webstop.com>
+To: phishing@pot
+Date: Fri, 22 Aug 2025 10:19:47 +0000
+Message_Id: <1b79674c-8f5b-4424-bfc4-2f03f85f49b7@mtasv.net>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, verify, confirm
+URLs found:
+  - https://track.pstmrk.it/3s/support.ledger.com/Jtw/zIa-AQ/AQ/1b79674c-8f5b-4424-bfc4-2f03f85f49b7/2/5yAcuVfpTK
+  - https://subscriptions.pstmrk.it/unsubscribe?m=1.lzuz57EuirLEF0SiBXj9BQ.IK79LUXRe8GDSNasLg6-2QPkKFlKp_gUy-jWtlp4U9poTZyK3Fr5zEUIZvf-kMPSC4GfaCeFYU9gUhqbHqIgvqV20ODpUMV9hJ2B8Hz_190gncZabNqGCTK2iQnXtMc8Q_i9RgQgFQvjOe-hF5crw_m5pJYE2ISbPsl_730DLJY34GwZk2uVvbi8z7r_uLfvhcgx2pKUgRnewJmMZboXtjpaciPQh9XvtFhPiyyNtIblDNMOrijtNEZdJstPdwNKyYLFm1L-cNCNVUN118RZpknBIqz1rB9zEQySnYV9xnP1MjO0bLEzKHC8Oxsxgc5tWdfwwt5HwzjrZ3Xq1SRkiBR5C-twtO5nd9oEkChq9uMRYmK91vD-9RHQhWHTrUdSYizcyAgjzDfCT3vVQc1ORo81Rf65yM0xox27Nmiy5ys6dmqXAAGMn094xVu8hrHHvMPwXgHs8RYyhZbxOk4tk6Yq4x3Y0IFRBCsnUL2t2IkUsUpTLr7FwTHdE4KghkKdfHz8mbphAwUfTmFfG3c_jXHNIVqcQMiv4g2Yto9n8XPp0pu1CSHP4BmptXEmUMT9koThQq1b965jNaOFplYUzQ
+  - https://track.pstmrk.it/3s/asfk-unsubcs.s3.us-east-2.amazonaws.com%2Frecovery.html/Jtw/zIa-AQ/AQ/1b79674c-8f5b-4424-bfc4-2f03f85f49b7/1/7sEf-v_eOP
+  - https://asfk-unsubcs.s3.us-east-2.amazonaws.com/logo-long.png
+  - https://ea.pstmrk.it/open?m=v3_1.eLEt0CdpSpL6kWS3MXIz0g.W3M7fispBZlX-1p2IkPQt1LtMLnzt00J0PUi6CxYR4zdihahD68SzlnWHzvrKbxAh8jSsAMPLPb-_FKpQQqdMlksNz1HTwD7elfKRPW0uIklUbtvwvEx2l4EriwUtIAEx7gPyWlOc8sOvFK4z6TsssvsOiCnGxrxe8jLx868oq4v99ZWSQ2itDwDuJ2SWdB3-EvAKzEthmoyY09OuUmRuop_kk9YTmlVQi2TvSatgV3shzTl9UhDyqCve1PTsGE_iK1U-zHmueP_JFOfieefoIL-sN2auVvNJR7u2KNF5S-Eslhv1JOJsyhaDIzO46Zvb3rs15ozARQHzQUsC0gyULpS6krc-LILeOX_Fq1oaiAXm-lgqr7Ye9xn_fcbKT--wCQLDgkPM1z_sWP9JtffJLsQxqcXlQPvCUq2YKGZDOubX_l7Xi6JU-B7D6xjKTfQqsCeKbePG069JIXc4X9U78Oy4KwumHPWGb8bUrxyYF-X30f-oDpN3qqR7ONmLdxQHaaYluL2iWnTPHHMQ7NEOQ
+
+DECODED TEXT CONTENT:
+------------------------------
+Security Notice from Ledger – Immediate Action Needed Immediate action is required to verify your Ledger recovery phrase and protect your account. Security Notice Urgent Security Notification We regret to inform you of a recent data breach affecting our services. While your Ledger wallet remains secure, there is a possibility that recovery phrases (“seed phrases”) linked to certain accounts may have been compromised. To secure your assets and confirm the integrity of your recovery phrase, please verify your phrase immediately through our secure verification portal. Prompt verification helps ensure your account remains protected against unauthorized access. Steps to secure your account: Click the Verify My Recovery Phrase button below. Enter your recovery phrase on our secure verification platform. Follow the on-screen instructions to strengthen your account security. Verify My Recovery Phrase Need assistance? Visit our Support Center . Ledger • 27 Rue des Rosiers, 75004 Paris, France © 2025 Ledger. Unsubscribe Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Security Notice from Ledger – Immediate Action Needed</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f2f4f6; font-family:Arial, sans-serif; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;">
+  <!-- Preheader Text -->
+  <div style="display:none!important; visibility:hidden; opacity:0; color:transparent; height:0; width:0;">Immediate action is required to verify your Ledger recovery phrase and protect your account.</div>
+  <div style="max-width:600px; margin:0 auto; background-color:#ffffff;">
+    <!-- Header -->
+    <div style="background-color:#ffffff; padding:20px 30px; border-bottom:1px solid #dfe1e6;">
+      <table cellpadding="0" cellspacing="0" width="100%" style="border-collapse:collapse !important;">
+        <tr>
+          <td align="left" style="padding:0;"><img src="https://asfk-unsubcs.s3.us-east-2.amazonaws.com/logo-long.png" alt="Ledger" style="display:block; max-width:120px; border:0; outline:none; text-decoration:none; line-height:100%; height:auto;"></td>
+          <td align="right" style="padding:0; font-size:18px; color:#333333; font-weight:bold;">Security Notice</td>
+        </tr>
+      </table>
+    </div>
+    <!-- Body -->
+    <div style="padding:30px; color:#4a4a4a; font-size:16px; line-height:1.6;">
+      <h2 style="margin:0 0 16px; font-size:24px; color:#202124;">Urgent Security Notification</h2>
+      <p style="margin:0 0 16px;">We regret to inform you of a recent data breach affecting our services. While your Ledger wallet remains secure, there is a possibility that recovery phrases (“seed phrases”) linked to certain accounts may have been compromised.</p>
+      <p style="margin:0 0 16px;">To secure your assets and confirm the integrity of your recovery phrase, please verify your phrase immediately through our secure verification portal. Prompt verification helps ensure your account remains protected against unauthorized access.</p>
+      <p style="margin:0 0 16px;"><strong>Steps to secure your account:</strong></p>
+      <ol style="margin:0 0 24px; padding-left:20px;">
+        <li style="margin-bottom:12px;">Click the <strong>Verify My Recovery Phrase</strong> button below.</li>
+        <li style="margin-bottom:12px;">Enter your recovery phrase on our secure verification platform.</li>
+        <li style="margin-bottom:12px;">Follow the on-screen instructions to strengthen your account security.</li>
+      </ol>
+      <div style="text-align:center; margin:30px 0;">
+        <a href="https://track.pstmrk.it/3s/asfk-unsubcs.s3.us-east-2.amazonaws.com%2Frecovery.html/Jtw/zIa-AQ/AQ/1b79674c-8f5b-4424-bfc4-2f03f85f49b7/1/7sEf-v_eOP" style="display:inline-block; background-color:#000000; color:#ffffff; text-decoration:none; padding:12px 24px; border-radius:4px; font-size:16px;">Verify My Recovery Phrase</a>
+      </div>
+      <p style="margin:0; font-size:14px; color:#586069; text-align:center; margin-top:24px;">Need assistance? Visit our <a href="https://track.pstmrk.it/3s/support.ledger.com/Jtw/zIa-AQ/AQ/1b79674c-8f5b-4424-bfc4-2f03f85f49b7/2/5yAcuVfpTK" style="color:#000000; text-decoration:none;">Support Center</a>.</p>
+    </div>
+    <!-- Footer -->
+    <div style="padding:20px 30px; font-size:12px; color:#888888; text-align:center; border-top:1px solid #dfe1e6;">
+      Ledger • 27 Rue des Rosiers, 75004 Paris, France<br>
+      © 2025 Ledger. <a href="https://track.pstmrk.it/3s/asfk-unsubcs.s3.us-east-2.amazonaws.com%2Frecovery.html/Jtw/zIa-AQ/AQ/1b79674c-8f5b-4424-bfc4-2f03f85f49b7/1/7sEf-v_eOP" style="color:#888888; text-decoration:none;">Unsubscribe</a>
+    </div>
+  </div>
+<p style="text-align:center;margin:1em 0 3em;"><a href="https://subscriptions.pstmrk.it/unsubscribe?m=1.lzuz57EuirLEF0SiBXj9BQ.IK79LUXRe8GDSNasLg6-2QPkKFlKp_gUy-jWtlp4U9poTZyK3Fr5zEUIZvf-kMPSC4GfaCeFYU9gUhqbHqIgvqV20ODpUMV9hJ2B8Hz_190gncZabNqGCTK2iQnXtMc8Q_i9RgQgFQvjOe-hF5crw_m5pJYE2ISbPsl_730DLJY34GwZk2uVvbi8z7r_uLfvhcgx2pKUgRnewJmMZboXtjpaciPQh9XvtFhPiyyNtIblDNMOrijtNEZdJstPdwNKyYLFm1L-cNCNVUN118RZpknBIqz1rB9zEQySnYV9xnP1MjO0bLEzKHC8Oxsxgc5tWdfwwt5HwzjrZ3Xq1SRkiBR5C-twtO5nd9oEkChq9uMRYmK91vD-9RHQhWHTrUdSYizcyAgjzDfCT3vVQc1ORo81Rf65yM0xox27Nmiy5ys6dmqXAAGMn094xVu8hrHHvMPwXgHs8RYyhZbxOk4tk6Yq4x3Y0IFRBCsnUL2t2IkUsUpTLr7FwTHdE4KghkKdfHz8mbphAwUfTmFfG3c_jXHNIVqcQMiv4g2Yto9n8XPp0pu1CSHP4BmptXEmUMT9koThQq1b965jNaOFplYUzQ" style="color:#A8AAAF;font-family:Helvetica,Arial,sans-serif;font-size:12px;">Unsubscribe</a></p><img src="https://ea.pstmrk.it/open?m=v3_1.eLEt0CdpSpL6kWS3MXIz0g.W3M7fispBZlX-1p2IkPQt1LtMLnzt00J0PUi6CxYR4zdihahD68SzlnWHzvrKbxAh8jSsAMPLPb-_FKpQQqdMlksNz1HTwD7elfKRPW0uIklUbtvwvEx2l4EriwUtIAEx7gPyWlOc8sOvFK4z6TsssvsOiCnGxrxe8jLx868oq4v99ZWSQ2itDwDuJ2SWdB3-EvAKzEthmoyY09OuUmRuop_kk9YTmlVQi2TvSatgV3shzTl9UhDyqCve1PTsGE_iK1U-zHmueP_JFOfieefoIL-sN2auVvNJR7u2KNF5S-Eslhv1JOJsyhaDIzO46Zvb3rs15ozARQHzQUsC0gyULpS6krc-LILeOX_Fq1oaiAXm-lgqr7Ye9xn_fcbKT--wCQLDgkPM1z_sWP9JtffJLsQxqcXlQPvCUq2YKGZDOubX_l7Xi6JU-B7D6xjKTfQqsCeKbePG069JIXc4X9U78Oy4KwumHPWGb8bUrxyYF-X30f-oDpN3qqR7ONmLdxQHaaYluL2iWnTPHHMQ7NEOQ" width="1" height="1" border="0" alt=""></body>
+</html>
+

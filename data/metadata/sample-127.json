@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "Mary Thomas <kekkanico89@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 25 Nov 2022 18:12:27 +0100",
+    "message_id": "<CAJWJRte=zoMX5Rv5ndvoCQ6D9TXvLt4Bs=TP5v4tE9t3ygaf3w@mail.gmail.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://drive.google.com/file/d/1vElzw_b0NA-o6YibMJYZSY1y2v3Pv_Oh/preview"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 75,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

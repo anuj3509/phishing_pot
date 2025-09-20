@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "D��sol��, nous vous avons manqu��.",
+    "from": "U.P.S <ne-pas-repondre@chronopost.fr.>, U.P.S\r\n\t<ne-pas-repondre@chronopost.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Feb 2024 21:03:48 +0100",
+    "message_id": "<nmtbllb.9wcg3.sku.sku@ajrdbwgxymdiurb.usa>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/35b9d59b9993abb.jpg",
+      "div.fullWidth",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/baf2385fac2fe6a.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/shipping-to-fr.png",
+      "table.icons-inner",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/baf2385fac2fe6a.png",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/35b9d59b9993abb.jpg",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/shipping-to-fr.png",
+      "http://jfhdh.chickenkiller.com/bTVDZ2dsR3c0NUxkLy9ESHFyVUNTb0llWWpjandiNUxFUVBMaXJLNndyMlZWdWtWZ0xzdzNtY2E1THZGckhGMkM4WW8wbFFONVdBWU1zRktxRm0yblRlVWEvSU13ODQ0cnJuZENnaVlXNjhtNWpwaDZHcFBWcGU2TWJId3V3NGY_",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/84aae97d2402063.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1409029/84aae97d2402063.png",
+      "http://jfhdh.chickenkiller.com/cGdGbVoxL0FORXpNaS9RaGFMU2VBdVIzRWRvRUxQZENhQ3IrVVNIYk1BZzF4dTNyUHhkUHhKa3BGUm93c1lKZUY2dU5UdHg3WmczNEVLYUdudFFIYVJzUTRaVHd4NWlsN2djVnJzU25qYnBKRSs0eXE3c2x3SUtTOVdvbS9zSi8_",
+      "http://jfhdh.chickenkiller.com/NHNDUVVlVGgyMmZ3czk4N3VOVGd5aVIxNWhpK0g4RTVzOXpmRk4xYVdiNW5TUnNjTXVUbnVReUxmT1lxNmxGV2VnK2dMMC9GTWFQRUx0OEgzL2wrcmIwbGh5bnBxMnRjZlY5dVcwQlBDQXgvV1FxMktoVGp2S3JHWXEzSVlyZTM_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1386,
+    "html_length": 21930,
+    "has_text": true,
+    "has_html": true
+  }
+}

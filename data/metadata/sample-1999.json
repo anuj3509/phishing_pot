@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Voc�� foi selecionado para ser um cliente Bradesco Prime ",
+    "from": "Bradesco Prime <contato@bradesco.com.br>",
+    "to": "heron_baruch@live.com",
+    "date": "Wed,  8 Nov 2023 12:40:14 +0000 (UTC)",
+    "message_id": "<20231108124014.D0FC74A302@ubuntu-s-1vcpu-512mb-10gb-nyc1-07>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://us-central1-vaulted-timing-403201.cloudfunctions.net/function-1888"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3754,
+    "html_length": 7148,
+    "has_text": true,
+    "has_html": true
+  }
+}

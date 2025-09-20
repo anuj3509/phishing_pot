@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Manta Airdrop : Claim your Airdrop Tokens Now!",
+    "from": "Manta Network <support@dreamhost.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jan 2024 05:22:04 -0800",
+    "message_id": "<edQH6ScFXXBAURiObMwWVyU4bCBGKzvox45TAkb4nE@vps4355.dreamhosters.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_edQH6ScFXXBAURiObMwWVyU4bCBGKzvox45TAkb4nE\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_edQH6ScFXXBAURiObMwWVyU4bCBGKzvox45TAkb4nE\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://coursera-assessments.s3.amazonaws.com/assessments/1706348808871/491d34ab-4a3f-41b8-a421-83b894d42c40/api.html?key=true",
+      "https://airdrop.manta.network/",
+      "https://pacific.manta.network/?utm_source=Press+Release&amp;utm_campaign=Polygon&amp;utm_medium=Organic&amp;utm_term=Global&amp;utm_content=Polygon+Press+Release",
+      "https://miro.medium.com/v2/resize:fit:700/1*0qqCOEI4kuG7-rerJlZZsw.jpeg",
+      "airdrop.manta.network"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4635,
+    "html_length": 4705,
+    "has_text": true,
+    "has_html": true
+  }
+}

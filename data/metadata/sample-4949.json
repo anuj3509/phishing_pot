@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot,  Wir haben eine ��berraschung f��r ADAC-Kunden",
+    "from": "\"ADAC-Gewinner \" <Department-client-n17244@tisceducom.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 20 Feb 2025 17:18:21 +0000",
+    "message_id": "<475719bb-ae20-4719-9374-85846344ab46@SG1PEPF000082E8.apcprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://lmy.de/msJro?pkqfadE3nWBeIXu5Z7zxZIARoFYzREvlxqQTEQhSLAuBaxtLox9Xce4aIeveckHeAzELNnb3bQPgmGl8IWDCn6",
+      "https://i.imgur.com/Wvk0VPP.jpeg",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "i.imgur.com/4TYuMjT.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://seeklogo.com/images/A/ADAC-logo-B1CCEF5103-seeklogo.com.png",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgur.com/4TYuMjT.png",
+      "ADAC-logo-B1CCEF5103-seeklogo.com.png",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7165,
+    "html_length": 22086,
+    "has_text": true,
+    "has_html": true
+  }
+}

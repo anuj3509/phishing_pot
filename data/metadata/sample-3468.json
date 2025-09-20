@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hello ",
+    "from": "\"Mrs. Deborah Grant\" <test@kcbgroup.com>",
+    "to": "Recipients <test@kcbgroup.com>",
+    "date": "Sat, 13 Jul 2024 18:16:34 -0700",
+    "message_id": "\r\n <d6fec909-4411-4267-a336-9b3255b61039@SN1PEPF0002636B.namprd02.prod.outlook.com>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 994,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

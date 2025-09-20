@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <shore@usachickenmanchester.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 18 Aug 2024 17:21:19 -0700",
+    "message_id": "<0459d8a0549b39a0832df45fab17fdf795b7aa6c@usachickenmanchester.com>",
+    "content_type": "multipart/alternative; boundary=\"8ae6af0f73250f00b3195083b77219711b0a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"8ae6af0f73250f00b3195083b77219711b0a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=uNKNUoxkRPsRRKWTtToWmy",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050%26googlePIDR=phishing@pot%26id_list=JspGlMmVwUXxWxkwTJgknWYiOUu",
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=uNKNUoxkRPsRRKWTtToWmy"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1036,
+    "html_length": 5164,
+    "has_text": true,
+    "has_html": true
+  }
+}

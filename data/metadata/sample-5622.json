@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Login from unfamiliar device",
+    "from": "LedgeLive - customerservice <yuusuke@sankyotrd.co.jp>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 8 Jun 2025 10:33:43 -0700",
+    "message_id": "<0aa2eb40ea163c3201abe22b4f8a928d9246@sankyotrd.co.jp>",
+    "content_type": "multipart/alternative;\n\tboundary=\"2389c035f93d12092a80ab90659398898d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"2389c035f93d12092a80ab90659398898d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://sportjeansmr.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 515,
+    "html_length": 3896,
+    "has_text": true,
+    "has_html": true
+  }
+}

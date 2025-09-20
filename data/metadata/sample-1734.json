@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "2nd attempt for phishing@pot",
+    "from": "Kohls    ,_<ayjqx@uc0e1bxaij.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Oct 2023 09:50:07 +0000",
+    "message_id": "\r\n <5891fb0a-ff1b-4a8d-b6fe-77c1aee4f697@MW2NAM10FT018.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/lPDw5z6Hfj",
+      "http://vertuoldmuneted.com/track/o47163dBRJH27537896YxAi1371191aED68393CqlS3343",
+      "http://dtherhproblem.us/su47163JpYHS27537896UQcZ1371191ccr68393mSqy3343",
+      "https://t.co/GAEzXoMQYl",
+      "https://i.imgur.com/sD6xZsA.jpg",
+      "i.imgur.com/sD6xZsA.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 464,
+    "html_length": 8904,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Fwd: A 750��� Amazon Gutschein gewinnen.. ",
+    "from": "Amazon Gutschein, <service@stayfriends.de.>, Amazon Gutschein,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jul 2024 11:59:35 -0400",
+    "message_id": "<ZgCBXp6.0.0.ZgCBXp6.9.ZgCBXp6@stayfriends.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://hyperdraz.info/U1B3NEo4Vm40OVJWNlZyZUorWklMWDA2WkpZajV3VEorVWd6V0Y4NUMyZHdwaEpZVW1GSk5SQ003TnM4ZFdQZURQbzRPcGYxRDNtM2N2c002cVRZMFE9PQ__",
+      "http://hyperdraz.info/dy9ZdVlUWVNGb2hTQXJiampQUGhlTjEzUlE5Sm9teXR5eWpiUjZ6MjdqdzNISzNnZ253a1dSTjc4NlRDRXVoOGhaVzJKR0ZvVEtwZmUxbzRHZS9JbGc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/47/as5n.jpg",
+      "http://hyperdraz.info/VDhkaUlLMkNqcS9hR1Z2eU01ZG1QZ015Yk5XMmdkMktaRkNiRmhaeFozZGJvRzFIMG5NSkVHRittakJqend3YVZ3cUI1QjJQVzVpRkRnSkI4LzIxM3c9PQ__",
+      "https://www.zupimages.net/up/23/47/1ovn.jpg",
+      "www.zupimages.net/up/21/21/n4zu.jpg",
+      "www.zupimages.net/up/23/47/as5n.jpg",
+      "https://www.zupimages.net/up/21/21/n4zu.jpg",
+      "www.zupimages.net/up/23/47/1ovn.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1312,
+    "html_length": 12636,
+    "has_text": true,
+    "has_html": true
+  }
+}

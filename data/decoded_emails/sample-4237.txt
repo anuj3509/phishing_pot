@@ -1,0 +1,75 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You're Invited! Discover Something Special
+From: Scroll Community <noreply@scrol.io>
+To: phishing@pot
+Date: Sun, 27 Oct 2024 02:24:42 +0000 (UTC)
+Message_Id: <20241027022442.0575993D12AA5FB8@scrol.io>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXrUI0PczkQrT0fPfmLypKwX0n2QFcC2rk3d5-2FmnXaIgAdjog2WHi35kD0NUmnFzjSQibfyhDA72a-2FLMI3ZTBogU11qV-2BFDIOGEdIH1hfj3F98A47Dn0vxEPEcReAMJyEtEdJpMSPp-2FUThn40XwBCqIaB8GsNBnh0NtL9FC80twww-3D-3D
+  - https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3D2xsD_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsiMJP-2BBCK2yhITV1rn7Jm0uMjMbJuxfGY0hLejMCkMQsRtO-2BRr62VCyzAeCE-2FKrghlWP-2B113-2FRdTfmIpQuo2JsvIG4DNnRHb6MbYK22CYgmbv60wgbS1vZ04V3JtGZgx4Rm-2FqwrsrT5X7DMF4qvY09e4QZXlz1yrljR1fV14Om9A-3D-3D
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6opCPXbJN1dTGGYtbIefgI0jy0Cwu0s4qJX1elD0bhh2-2BqUWKbPJgS5QsYlAf6xGySA-3D-3DKcag_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsiMJP-2BBCK2yhITV1rn7Jm0uMjMbJuxfGY0hLejMCkMQh4MlIuo2PRBX-2BT4JwnxdwB-2F3yzJI1dbPgGNbx038-2FnFVHKuv2q2X43kX8MDZo8Hc8pFpvFvlSm30nwctHTg4AASzCXb22yb-2F6tMD6bpetgTmTZ1-2FQ-2F7ROTLxuHbBdjOmw-3D-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+Your SCR Token Reward Your SCR Tokens Are Ready! Thank you for being an essential part of the Scroll community. To celebrate our journey towards a decentralized future, we are excited to offer you an allocation of SCR tokens. Claim Period: October 22, 2024, onwards Claim Your Tokens Together, we're building a future with global access and decentralized infrastructure. If you wish to unsubscribe, click here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your SCR Token Reward</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f5f5;">
+    <table width="100%" bgcolor="#f5f5f5" border="0" cellspacing="0" cellpadding="0" style="margin: 0; padding: 0;">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table width="600" style="max-width: 600px; margin: auto; padding: 20px; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="https://srcio.s3.us-east-1.amazonaws.com/scrolllogo.png" alt="Scroll Logo" width="100" style="display: block;" height="100">
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: #333333; text-align: center;">
+                            <h1 style="margin: 0 0 10px; color: #f56c42; font-size: 24px;">Your SCR Tokens Are Ready!</h1>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;">Thank you for being an essential part of the Scroll community. To celebrate our journey towards a decentralized future, we are excited to offer you an allocation of SCR tokens.</p>
+                            <p style="margin: 10px 0; color: #666666; font-size: 15px; line-height: 1.6;"><strong>Claim Period:</strong> October 22, 2024, onwards</p>
+                            <p style="text-align: center;">
+                                <a href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6opCPXbJN1dTGGYtbIefgI0jy0Cwu0s4qJX1elD0bhh2-2BqUWKbPJgS5QsYlAf6xGySA-3D-3DKcag_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsiMJP-2BBCK2yhITV1rn7Jm0uMjMbJuxfGY0hLejMCkMQh4MlIuo2PRBX-2BT4JwnxdwB-2F3yzJI1dbPgGNbx038-2FnFVHKuv2q2X43kX8MDZo8Hc8pFpvFvlSm30nwctHTg4AASzCXb22yb-2F6tMD6bpetgTmTZ1-2FQ-2F7ROTLxuHbBdjOmw-3D-3D" style="padding: 12px 30px; border-radius: 4px; color: #ffffff; font-size: 16px; text-decoration: none; display: inline-block; background-color: #f56c42;">Claim Your Tokens</a>
+                            </p>
+                        </td>
+                    </tr>
+                    <!-- Footer Section -->
+                    <tr>
+                        <td style="padding: 15px; text-align: center; color: #999999; font-size: 12px;">
+                            <p style="margin: 0 0 5px; color: #999999;">Together, we're building a future with global access and decentralized infrastructure.</p>
+                            <p style="margin: 5px 0; color: #999999;">If you wish to unsubscribe, <a href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3D2xsD_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsiMJP-2BBCK2yhITV1rn7Jm0uMjMbJuxfGY0hLejMCkMQsRtO-2BRr62VCyzAeCE-2FKrghlWP-2B113-2FRdTfmIpQuo2JsvIG4DNnRHb6MbYK22CYgmbv60wgbS1vZ04V3JtGZgx4Rm-2FqwrsrT5X7DMF4qvY09e4QZXlz1yrljR1fV14Om9A-3D-3D" style="color: #f56c42; text-decoration: none;">click here</a>.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<img src="https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXrUI0PczkQrT0fPfmLypKwX0n2QFcC2rk3d5-2FmnXaIgAdjog2WHi35kD0NUmnFzjSQibfyhDA72a-2FLMI3ZTBogU11qV-2BFDIOGEdIH1hfj3F98A47Dn0vxEPEcReAMJyEtEdJpMSPp-2FUThn40XwBCqIaB8GsNBnh0NtL9FC80twww-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "📈 Youre Entitled to a Refund: Dont Let It Slip Away! ⏰",
+    "from": "Caine Washabaugh (via Apresentações Google) <drive-shares-noreply@google.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 22 Dec 2024 23:00:20 +0000",
+    "message_id": "<autogen-java-80cf18d4-8b41-48c2-af83-d9f9bc8dd1ce@google.com>",
+    "content_type": "multipart/mixed; boundary=\"00000000000022c7510629e3d882\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"00000000000022c7510629e3d882\""
+  },
+  "attachments": [
+    {
+      "filename": "Open 32.pdf",
+      "content_type": "application/pdf",
+      "size": 33966
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://docs.google.com/",
+      "https://workspace.google.com/",
+      "fdrdgqky.tewusi.makeup",
+      "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_presentation_x64.png",
+      "https://www.gstatic.com/docs/documents/share/images/googleworkspace_logo_192x80.png",
+      "https://lh3.googleusercontent.com/a/ACg8ocJdIRe6qDAeY5SGlG5JbO10RdW1KydJH82YX8foEITn87vJmA=s64",
+      "https://docs.google.com/drawings/d/120RNSfGAAojs9sgIdFislF_SHSIXGOMnwLUvWD5i7zs/preview",
+      "32.pdf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 4614,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Cloud Storage
+From: "Mail_Inc" <massin838@gmail.com>
+To: honey@pot
+Date: Mon, 31 Jul 2023 16:37:38 -0700 (PDT)
+Message_Id: <64c845c2.630a0220.fe636.0781@mx.google.com>
+Content_Type: multipart/mixed;boundary=---------------------96e7ba018ce44f4ba1abb5eeebd68025
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;boundary=---------------------96e7ba018ce44f4ba1abb5eeebd68025
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://server-auth-protonme.webflow.io/
+
+DECODED TEXT CONTENT:
+------------------------------
+Hello honey@pot, Your mailbox cloud capacity is at 97%. kindly re-login with the attachment to&nbsp;ensure that your mailbox does not reach full capacity and continue to send and receive messages. Attached Re-login ProtonMe Inc Privacy|Copyright 2023
+
+DECODED HTML CONTENT:
+------------------------------
+<div>Hello honey@pot,</div>
+<div><br></div>
+<div>Your mailbox cloud capacity is at 97%. kindly re-login with the attachment to&nbsp;ensure that your mailbox does not reach full capacity and continue to send and receive messages.</div>
+<div><a href="https://server-auth-protonme.webflow.io/">Attached Re-login</a></div>
+<p><br></p>
+<div>ProtonMe Inc</div>
+<div>Privacy|Copyright 2023</div>

@@ -1,0 +1,165 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ������ United Airlines Traveler Survey ��� Claim Your Exclusive Reward!
+From: United Airlines Customer Rewards <noreply@thelocal,com>
+To: phishing@pot
+Date: Mon, 26 May 2025 19:03:08 +0000
+Message_Id: <230198723543391.2.NNN3256901028@discourse.vtk.org
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://GMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/4GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23
+  - zupimages.net/up/24/51/6yrs.png
+  - http://bitebliss.world/4GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23
+  - zupimages.net/up/25/21/6yu3.png
+  - http://mkslLrlBxbGoDIGPkO4bo5MAnqWPwJmkslLrlBxbGoDIG.bitebliss.world/track/3GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23
+  - http://GMvqEPkO4bo5MAnqWPwJGMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/5GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23
+  - http://GMvqEPkO4bo5MAnqWPwJGMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/6GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23
+
+DECODED TEXT CONTENT:
+------------------------------
+Visitor Reward Survey body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5; display: flex; justify-content: center; align-items: center; margin-top: 20px; } .container { background-color: white; width: 100%; max-width: 500px; text-align: center; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 30px; position: relative; } .header { font-size: 15px; margin-bottom: 15px; margin-top: -15px; } .footer { font-size: 12px; margin-bottom: 15px; margin-top: 50px; } .reward-icon { width: 40px; height: 40px; vertical-align: middle; } .image-container { margin: 25px 0; } .image-container img { width: 100%; border-radius: 0px; } .logo { width: 130px; margin: 15px 0; } .message { font-size: 22px; font-weight: bold; color: #333; margin: 25px 0; } .subtext { font-size: 18px; color: #666; margin-bottom: 20px; line-height: 1.6; } .cta-button { display: inline-block; background-color: #002F95; color: white; text-decoration: none; padding: 15px 30px; border-radius: 5px; font-weight: bold; font-size: 18px; transition: background-color 0.3s; } .cta-button:hover { background-color: #003d87; } .unsubscribe-container { text-align: center; margin-top: 40px; padding: 15px; font-size: 12px; color: #797979; line-height: 1.4; max-width: 500px; } ─ United Airlines Traveler Survey ─ Congratulations! Complete the short survey about United Airlines to select your exclusive offer of up to $100 cash value. GET STARTED Thank you, United Airlines Team If you no longer wish to receive these emails, you may unsubscribe by clicking here. This email has been sent to you from a commercial partner. Do you have problems unsubscribing or complaining about advertising? click the link here
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Visitor Reward Survey</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f5f5f5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+    .container {
+        background-color: white;
+        width: 100%;
+        max-width: 500px;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 30px;
+        position: relative;
+    }
+    .header {
+        font-size: 15px;
+        margin-bottom: 15px;
+        margin-top: -15px;
+    }
+    .footer {
+        font-size: 12px;
+        margin-bottom: 15px;
+        margin-top: 50px;
+    }
+    .reward-icon {
+        width: 40px;
+        height: 40px;
+        vertical-align: middle;
+    }
+    .image-container {
+        margin: 25px 0;
+    }
+    .image-container img {
+        width: 100%;
+        border-radius: 0px;
+    }
+    .logo {
+        width: 130px;
+        margin: 15px 0;
+    }
+    .message {
+        font-size: 22px;
+        font-weight: bold;
+        color: #333;
+        margin: 25px 0;
+    }
+    .subtext {
+        font-size: 18px;
+        color: #666;
+        margin-bottom: 20px;
+        line-height: 1.6;
+    }
+    .cta-button {
+        display: inline-block;
+        background-color: #002F95;
+        color: white;
+        text-decoration: none;
+        padding: 15px 30px;
+        border-radius: 5px;
+        font-weight: bold;
+        font-size: 18px;
+        transition: background-color 0.3s;
+    }
+    .cta-button:hover {
+        background-color: #003d87;
+    }
+    .unsubscribe-container {
+        text-align: center;
+        margin-top: 40px;
+        padding: 15px;
+        font-size: 12px;
+        color: #797979;
+        line-height: 1.4;
+        max-width: 500px;
+    }
+</style>
+</head>
+<body>
+
+<div class="container">
+    <img src="//zupimages.net/up/24/51/6yrs.png" alt="" class="logo">
+    <div class="header">
+        ─ United Airlines Traveler Survey ─
+    </div>
+    <div class="image-container">
+        <a href="http://bitebliss.world/4GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23">
+        <img src="//zupimages.net/up/25/21/6yu3.png" alt="Airplane Seat">
+        </a>
+    </div>
+    
+    <div class="message">Congratulations!</div>
+    <div class="subtext">
+        Complete the short survey about United Airlines to select your exclusive offer of up to <b>$100</b> cash value.
+    </div>
+    <!--Button--><center>
+
+
+<a href="http://GMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/4GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23"><div style="color:#fff;min-width: 260px;padding: 15px;font-size: 20px;margin-top: 20px;font-size: 19px;font-weight: bold;line-height: 1;text-transform: uppercase;background: #002F95;display: inline-block;padding: 16px 20px;text-decoration: none; border-radius: 0px;margin: 30px 0px;">GET STARTED</div></a>
+
+
+</!--Button-->
+    <div class="footer">Thank you,<br>
+        United Airlines Team
+    </div>
+    <div class="unsubscribe-container">
+    If you no longer wish to receive these emails, you may unsubscribe by <a href="http://GMvqEPkO4bo5MAnqWPwJGMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/5GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23" style="color:#666;text-decoration:none;">clicking here.</a>
+<br><br><br><br><br><center><p style="margin: 0;font-size: 12px; color: #797979;"><em>This email has been sent to you from a commercial partner. <br>Do you have problems unsubscribing or complaining about advertising?<br> click the link <a href="http://GMvqEPkO4bo5MAnqWPwJGMvqEPkO4bo5MAnqWPwJGMvqE.bitebliss.world/6GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23" style="color:#666;text-decoration:none;">here </a></em><br> <br><br></p>
+<center>
+</a></center><br>
+</div>
+</div>
+
+
+
+
+</body><img src="http://mkslLrlBxbGoDIGPkO4bo5MAnqWPwJmkslLrlBxbGoDIG.bitebliss.world/track/3GMvqE219170nQZp1703gnnwcjbvxl26691GQFPKTAJZJFYZXS316412/4986E23" width="0" height="0" style="position:absolute;visibility:hidden;" border="0">
+
+</html>
+

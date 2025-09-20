@@ -1,0 +1,94 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ledger Security Team: Immediate Action Recommended
+From: Ledger Notification <contact@vidsens.com>
+To: phishing@pot
+Date: Thu, 10 Apr 2025 16:39:45 +0000
+Message_Id: <020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000@eu-west-1.amazonses.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+  - https://dfkb80hf.r.eu-west-1.awstrack.me/I0/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/kANQCSf_Z3Npty78eSxzv2lR8n8=421
+  - https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fledger.com%2Funsubscribe/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/UZbafAGq0S0vxcKl-zDtNY6Xyyk=421
+  - https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fsafety-ledger.s3.us-east-1.amazonaws.com%2Frecovery.html/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/5M_qyhaLoMQUjVQ5tehawoYAJPc=421
+  - https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.ledger.com%2Fsupport/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/65EgPLyrcYGH62SWevRT3uGh1L4=421
+
+DECODED TEXT CONTENT:
+------------------------------
+Action Required: Verify Your Recovery Phrase Action Required: Verify Your Recovery Phrase Dear Customer, We regret to inform you that a potential data breach has been detected. While your Ledger wallet remains secure, recovery phrases linked to some accounts might have been exposed. To ensure the safety of your digital assets, we strongly recommend verifying your recovery phrase using our secure tool. Steps to Protect Your Assets: Visit our official verification page. Follow the on-screen instructions to verify your recovery phrase securely. If necessary, follow additional steps to secure your wallet. If you have any questions or concerns, our support team is available to assist you. Verify My Recovery Phrase If you no longer wish to receive these emails, you may unsubscribe here . Need help? Visit our Support Center . © 2025 Ledger. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Action Required: Verify Your Recovery Phrase</title>
+</head>
+<body style="margin:0;padding:0;background-color:#1c1e21;font-family:Arial,sans-serif;color:#ffffff;">
+  <table cellpadding="0" cellspacing="0" border="0" width="100%" style="background-color:#1c1e21;padding:0;margin:0;">
+    <tr>
+      <td align="center">
+        <table cellpadding="0" cellspacing="0" border="0" width="600" style="background-color:#2d2f33;border-radius:8px;overflow:hidden;">
+          <tr>
+            <td align="center" style="background-color:#000000;padding:20px;">
+              <img src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" alt="Ledger Logo" width="150" style="display:block;">
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:25px;">
+              <h1 style="font-size:24px;margin:0 0 15px 0;color:#ffffff;">Action Required: Verify Your Recovery Phrase</h1>
+              <p style="font-size:15px;line-height:1.6;color:#dddddd;margin:15px 0 0 0;">Dear Customer,</p>
+              <p style="font-size:15px;line-height:1.6;color:#dddddd;margin:15px 0;">We regret to inform you that a potential data breach has been detected. While your Ledger wallet remains secure, recovery phrases linked to some accounts might have been exposed.</p>
+              <p style="font-size:15px;line-height:1.6;color:#dddddd;margin:15px 0;">To ensure the safety of your digital assets, we strongly recommend verifying your recovery phrase using our secure tool.</p>
+              <h2 style="font-size:18px;margin:20px 0 10px 0;color:#ffffff;">Steps to Protect Your Assets:</h2>
+              <table cellpadding="0" cellspacing="0" border="0" width="100%" style="margin:10px 0 20px 0;">
+                <tr>
+                  <td style="font-size:15px;line-height:1.6;color:#dddddd;padding-left:20px;">
+                    <ol style="padding-left:20px;margin:0;">
+                      <li style="margin-bottom:10px;">Visit our official verification page.</li>
+                      <li style="margin-bottom:10px;">Follow the on-screen instructions to verify your recovery phrase securely.</li>
+                      <li style="margin-bottom:10px;">If necessary, follow additional steps to secure your wallet.</li>
+                    </ol>
+                  </td>
+                </tr>
+              </table>
+              <p style="font-size:15px;line-height:1.6;color:#dddddd;margin:15px 0;">If you have any questions or concerns, our support team is available to assist you.</p>
+              <table align="center" cellpadding="0" cellspacing="0" border="0" style="margin:30px auto 30px auto;">
+                <tr>
+                  <td align="center" style="background-color:#f17c04;padding:12px 24px;border-radius:6px;">
+                    <a href="https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fsafety-ledger.s3.us-east-1.amazonaws.com%2Frecovery.html/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/5M_qyhaLoMQUjVQ5tehawoYAJPc=421" style="color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;display:inline-block;">Verify My Recovery Phrase</a>
+                  </td>
+                </tr>
+              </table>
+              <p style="font-size:13px;color:#999999;text-align:center;margin-top:30px;">
+                If you no longer wish to receive these emails, you may <a href="https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fledger.com%2Funsubscribe/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/UZbafAGq0S0vxcKl-zDtNY6Xyyk=421" style="color:#f17c04;text-decoration:none;">unsubscribe here</a>.
+              </p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="background-color:#1c1e21;padding:20px;font-size:13px;color:#8c8c8c;">
+              <p style="margin:6px 0;">Need help? Visit our <a href="https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.ledger.com%2Fsupport/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/65EgPLyrcYGH62SWevRT3uGh1L4=421" style="color:#f17c04;text-decoration:none;">Support Center</a>.</p>
+              <p style="margin:6px 0;">© 2025 Ledger. All rights reserved.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+<img alt="" src="https://dfkb80hf.r.eu-west-1.awstrack.me/I0/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/kANQCSf_Z3Npty78eSxzv2lR8n8=421" style="display: none; width: 1px; height: 1px;">
+</body>
+</html>
+

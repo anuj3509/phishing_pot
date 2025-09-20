@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Sale",
+    "from": "noreply-omint <autorizacionesPFP@solariaenergia.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Apr 2024 12:16:54 +0000",
+    "message_id": "\r\n <PAXPR08MB75526A1EE411293D7D363509D9082@PAXPR08MB7552.eurprd08.prod.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"===============8023051145565180898==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============8023051145565180898==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.me/+7Nztou08Hb01ZDM0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1121,
+    "html_length": 7088,
+    "has_text": true,
+    "has_html": true
+  }
+}

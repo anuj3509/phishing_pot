@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Trouver les meilleures opportunités d'investissement",
+    "from": "Comparateur d'actions <bonobo@news.bonobojeans.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 29 Mar 2023 03:05:11 +0200",
+    "message_id": "\r\n <1270719c-2ea3-4b6b-b3ea-691830156fd7@DM6NAM04FT031.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.postimg.cc/fbF4p2Vp/Fire-Shot-Capture-128-Obtenez-un-avantage-concurrentiel-en-utilisant-notre-comparateur-d-acti.jpg",
+      "https://trackin.iptesetxkeys.com/[url]",
+      "https://trackin.iptesetxkeys.com/[open]",
+      "https://trackin.iptesetxkeys.com/[optout]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 50,
+    "html_length": 6166,
+    "has_text": true,
+    "has_html": true
+  }
+}

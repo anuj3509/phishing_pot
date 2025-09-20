@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hi ",
+    "from": "Bernard  Arnault <mrbernardarnaultbt1949@gmail.com>",
+    "to": "phishing@pot",
+    "date": "13 Dec 2023 10:44:28 +0000",
+    "message_id": "<20231213104428.45C508CEFB8245AC@gmail.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 217,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

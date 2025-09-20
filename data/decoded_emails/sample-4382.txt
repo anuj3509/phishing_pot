@@ -1,0 +1,133 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Lembrete: Correios informa que sua remessa ainda está pendente! Protocolo: 06308751.
+From: Correios S/A <rastreamento-encomendas003744@correios>
+To: phishing@pot
+Date: Sun, 17 Nov 2024 14:58:33 +0000
+Message_Id: <eca8e092afd189450a133009bfe4f156@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_eca8e092afd189450a133009bfe4f156"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_eca8e092afd189450a133009bfe4f156"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.office.com-pt-br748654497correios@paguealfandega.co.ua/rastreamento/taxa771
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #0071AD; /* Cor solicitada */
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #005b8a; /* Cor para hover */
+        }
+
+        .message-box {
+            background-color: #f0f4f8;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #d1e3ef;
+            color: #333;
+            font-size: 16px;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .additional-info {
+            background-color: #e9f1f8;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #cbdfe9;
+            font-size: 14px;
+            color: #333;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px;">
+    <div style="background-color: #ffffff; padding: 30px; border-radius: 10px; max-width: 600px; margin: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+        <div style="text-align: center; color: #0071AD; font-size: 28px; font-weight: bold; margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1.5px;">
+            Status de Entrega do Pedido
+        </div>
+        
+        <div style="position: relative; margin: 30px 0;">
+            <div style="position: absolute; top: 50%; left: 0; right: 0; background-color: #0071AD;"></div>
+            
+            <div style="display: flex; justify-content: space-between; position: relative;">
+                <div style="flex: 1; text-align: center; padding: 10px; background-color: #f4f4f4; border-radius: 5px; z-index: 1;">
+                    <div style="font-size: 24px; font-weight: bold; background-color: #ffffff; color: #0071AD; border: 3px solid #0071AD; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; margin: 0 auto;">
+                        1
+                    </div>
+                    <span style="display: block; font-size: 16px; margin-top: 5px;">Pedido Recebido</span>
+                </div>
+                <div style="flex: 1; text-align: center; padding: 10px; background-color: #f4f4f4; border-radius: 5px; z-index: 1;">
+                    <div style="font-size: 24px; font-weight: bold; background-color: #ffffff; color: #0071AD; border: 3px solid #0071AD; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; margin: 0 auto;">
+                        2
+                    </div>
+                    <span style="display: block; font-size: 16px; margin-top: 5px;">Pedido Despachado</span>
+                </div>
+                <div style="flex: 1; text-align: center; padding: 10px; background-color: #0071AD; color: #ffffff; border-radius: 5px; z-index: 1;">
+                    <div style="font-size: 24px; font-weight: bold; background-color: #0071AD; color: #ffffff; border: 3px solid #ffffff; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; margin: 0 auto;">
+                        3
+                    </div>
+                    <span style="display: block; font-size: 16px; margin-top: 5px;">Pagamento de Taxa Aduaneira</span>
+                </div>
+                <div style="flex: 1; text-align: center; padding: 10px; background-color: #f4f4f4; border-radius: 5px; z-index: 1;">
+                    <div style="font-size: 24px; font-weight: bold; background-color: #ffffff; color: #0071AD; border: 3px solid #0071AD; border-radius: 50%; width: 40px; height: 40px; line-height: 40px; margin: 0 auto;">
+                        4
+                    </div>
+                    <span style="display: block; font-size: 16px; margin-top: 5px;">Em Rota de Entrega</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="message-box">
+            Seu pedido está aguardando o pagamento da taxa aduaneira para continuar o processo de entrega. Realize o pagamento o quanto antes para evitar atrasos.
+        </div>
+
+        <div class="additional-info">
+            <p><strong>Informaçoes sobre o rastreamento:</strong></p>
+            <p><strong>Resultado da Fiscalização:</strong> Aguardando Pagamento</p>
+            <p><strong>Objeto encaminhado para:</strong> Fiscalização Aduaneira</p>
+            <p><strong>Objeto recebido em:</strong> Unidade dos Correios do Brasil</p>
+            <p><strong>Objeto para:</strong> Unidade de Tratamento internacional - BR</p>
+        </div>
+
+        <div style="text-align: center; margin-top: 20px;">
+            <a href="https://www.office.com-pt-br748654497correios@paguealfandega.co.ua/rastreamento/taxa771" class="button">Acompanhar encomenda</a>
+        </div>
+        
+        <div style="text-align: center; font-size: 14px; color: #777; margin-top: 30px;">
+            Caso tenha dúvidas, entre em contato com nossa central de atendimento.
+        </div>
+    </div>
+</body>
+</html>
+

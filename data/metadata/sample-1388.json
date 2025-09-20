@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "WOW TV Standard-Abo",
+    "from": "WOW TV, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Sep 2023 16:16:55 +0200",
+    "message_id": "\r\n <8b1e1b5f-341d-4c5c-8285-ac768428f46a@DM6NAM12FT006.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://5.252.23.201/oop/305_md/31/18/35/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://5.252.23.201/cl/305_md/31/18/35/23/2459859",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://5.252.23.201/media/0062fcd890a9399.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6294,
+    "html_length": 12799,
+    "has_text": true,
+    "has_html": true
+  }
+}

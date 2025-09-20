@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Personalisierte Prognose f��r schnellen Gewichtsverlust phishing@pot",
+    "from": "KetoXplode, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Oct 2023 11:15:01 +0200",
+    "message_id": "\r\n <8565e9fe-32a0-44a5-974f-7eddb2a018d4@CY4PEPF0000E9D1.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/cl/639_md/2010/68/100/23/2459859",
+      "a.mcnButton{",
+      "http://www.w3.org/1999/xhtml",
+      "http://licell.skin/23a9b2b0065f112.png",
+      "http://licell.skin/0bc12cd0e0bb72a.png",
+      "http://easilett.com/oop/639_md/2010/68/100/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14023,
+    "html_length": 25897,
+    "has_text": true,
+    "has_html": true
+  }
+}

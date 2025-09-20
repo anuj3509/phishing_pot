@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Order Confirmation",
+    "from": "\"Your Order # 5353\" <2000alfreddsgriffin@gmail.com>",
+    "to": "\"Dear Customer\" <phishing@pot>",
+    "date": "Thu, 23 Feb 2023 20:59:09 +0530",
+    "message_id": "<0417d5a4-44980-02f48750385764@desktop-n645bi3>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "img.fullwidthOnMobile",
+      "https://fonts.googleapis.com/css?family=Varela+Round",
+      "https://fonts.googleapis.com/css?family=Merriweather",
+      ".col.num10",
+      "https://fonts.googleapis.com/css?family=Abril+Fatface",
+      ".no-stack.two-up",
+      "img.fullwidth,",
+      "https://fonts.googleapis.com/css?family=Roboto",
+      ".col.num3",
+      ".col.num6",
+      ".col.num2",
+      ".img-container.big",
+      "https://fonts.googleapis.com/css?family=Cabin",
+      "https://fonts.googleapis.com/css?family=Lato",
+      "https://fonts.googleapis.com/css?family=Bitter",
+      "https://fonts.googleapis.com/css?family=Permanent+Marker",
+      ".col.num8",
+      ".col.num7",
+      ".col.num4",
+      "https://fonts.googleapis.com/css?family=Roboto+Slab",
+      ".col.num9",
+      ".col.num5"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2368,
+    "html_length": 30768,
+    "has_text": true,
+    "has_html": true
+  }
+}

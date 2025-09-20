@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hi",
+    "from": "Ronnie Terry <FMx91ZPe@dropdead.org>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 25 Apr 2025 08:53:41 +0000",
+    "message_id": "<e34bf715-fc7d-406b-83a1-2c11aeaa4ccb@SA2PEPF00003AE4.namprd02.prod.outlook.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============0571692442993059449==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============0571692442993059449==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6844,
+    "html_length": 8823,
+    "has_text": true,
+    "has_html": true
+  }
+}

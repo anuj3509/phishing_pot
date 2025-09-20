@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Finish the process",
+    "from": "\"support\" <jrodriguez70710@ufide.ac.cr>",
+    "to": "phish@pot",
+    "date": "5 Jun 2024 15:24:17 +0300",
+    "message_id": "\r\n <PH0PR11MB7564BDF2010B1F81F9BA4888A6F92@PH0PR11MB7564.namprd11.prod.outlook.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://forms.gle/swApmnQazhy2iu3y9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 337,
+    "html_length": 591,
+    "has_text": true,
+    "has_html": true
+  }
+}

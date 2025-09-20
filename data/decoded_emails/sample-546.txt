@@ -1,0 +1,40 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Are You Ready for Web Hacking 360°?
+From: avinash@comproavi.com
+To: phishing@pot
+Date: Thu, 30 Mar 2023 17:39:31 +0000
+Message_Id: <01000187339a6f6a-a3cc5135-79a7-4bc1-90ab-3043d6b353de-000000@email.amazonses.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://firebasestorage.googleapis.com/v0/b/onlinecoursehost-prod.appspot.com/o/EWCMtAhS9bQgqAhVHuI5wJwrR5r1%2FrichTextImages%2FkSlTHRGRe3n5h0DaiZtQ.jpg?alt=media&amp;token=fba64810-44d7-4238-a18c-ebffdd2a69ba
+  - hotmail.com
+  - https://youtu.be/Sg-y3dr6sZc
+  - https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fyoutu.be%2FSg-y3dr6sZc
+  - https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-open-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH
+  - https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSg-y3dr6sZc
+  - https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-unsubscribe-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;userId=jp3wlDc9AWNf2BzzxbLcEJXgIFK2
+
+DECODED TEXT CONTENT:
+------------------------------
+Hey pentesters, In my last email, I shared a detailed video on &quot;TOP 10 Ways To Monetize Your Ethical Hacking Skills&quot;. And at the end of that email, I asked people to reply with YES if they wanted an announcement video about my upcoming course &quot;Web Hacking 360°&quot; and I literally got MULTIPLE HUNDRED replies below that video. So, I knew it was the VERY RIGHT time to make an announcement now. I'm excited to announce that I'm in the process of creating a new course called Web Hacking 360 ° . This will be the world's most advanced, most complete, most beginner-friendly, and the most practical course on web hacking ever created , and I can't wait to share it with you. In this upcoming course, you'll learn how to break the web and uncover its secrets with confidence . Whether you're a beginner or an experienced penetration tester, Web Hacking 360° has something for everyone to take your penetration testing skills to the next level. (Click the image or go to link: https://youtu.be/Sg-y3dr6sZc ) To learn more about Web Hacking 360, I want you to check out my announcement video on YouTube (same link above) . It will also show you a way you can get weekly updates about the course release date, behind-the-scenes, and more if you are interested. I'm still in the process of creating the course , but I wanted to give you a sneak peek at what's to come. Thank you for your continued support, and I look forward to having you join me on this exciting journey. Reply back with YES &nbsp;if you would&nbsp; now&nbsp; like me to make a detailed podcast about How I would learn pentesting from scratch (if I could start over). Kind regards, Avinash Yadav ComproAvi School This mail was sent to phishing@pot | Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2>Hey pentesters,</h2><h2>In my last email, I shared a detailed video on &quot;TOP 10 Ways To Monetize Your Ethical Hacking Skills&quot;. <span style="color: rgb(255, 153, 0);">And at the end of that email, I asked people to reply with YES if they wanted an announcement video </span>about my upcoming course &quot;Web Hacking 360°&quot; and I literally got <em>MULTIPLE HUNDRED replies</em> below that video. So, I knew it was the VERY RIGHT time to make an announcement now.</h2><h2>I'm excited to announce that<strong> <u>I'm in the process of creating a new course called Web Hacking 360</u></strong><u>°</u>. This will be the<em> world's most advanced, most complete, most beginner-friendly, and the most practical course on web hacking ever created</em>, and I can't wait to share it with you.</h2><h2>In this upcoming course, you'll learn <strong>how to break the web and uncover its secrets with confidence</strong>. Whether you're a beginner or an experienced penetration tester, <u>Web Hacking 360° has something for everyone</u> to take your penetration testing skills to the next level.</h2><h2><a href="https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSg-y3dr6sZc" rel="noopener noreferrer" target="_blank"><img src="https://firebasestorage.googleapis.com/v0/b/onlinecoursehost-prod.appspot.com/o/EWCMtAhS9bQgqAhVHuI5wJwrR5r1%2FrichTextImages%2FkSlTHRGRe3n5h0DaiZtQ.jpg?alt=media&amp;token=fba64810-44d7-4238-a18c-ebffdd2a69ba" width="504"></a></h2><p>(Click the image or go to link: <a href="https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fyoutu.be%2FSg-y3dr6sZc" rel="noopener noreferrer" target="_blank">https://youtu.be/Sg-y3dr6sZc</a>)</p><h2>To learn more about Web Hacking 360, I want you to <strong><em><u>check out my announcement video on YouTube</u></em> (same link above)</strong>. It will also show you a way you can get weekly updates about the course release date, behind-the-scenes, and more if you are interested.</h2><h2><strong><u>I'm still in the process of creating the course</u>, but I wanted to give you a sneak peek at what's to come.</strong> Thank you for your continued support, and I look forward to having you join me on this exciting journey.</h2><h2><span style="color: rgb(230, 0, 0); background-color: transparent;">Reply back with YES</span><span style="color: rgb(0, 0, 0); background-color: transparent;">&nbsp;if you would&nbsp;</span><em style="color: rgb(0, 0, 0); background-color: transparent;">now&nbsp;</em><span style="color: rgb(0, 0, 0); background-color: transparent;">like me to make a detailed podcast about How I would learn pentesting from scratch (if I could start over).</span></h2><h2>Kind regards,</h2><h2>Avinash Yadav</h2><img style="display: none" src="https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-open-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH"><div style="border: 0; background-color: #ccc; margin: 10px 0; height: 1px"></div>
+                    <strong>ComproAvi School</strong>
+                    <div>This mail was sent to <a href="mailto:phishing@pot-p@hotmail.com">phishing@pot</a> | <a href="https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-unsubscribe-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;userId=jp3wlDc9AWNf2BzzxbLcEJXgIFK2">Unsubscribe</a></div>
+

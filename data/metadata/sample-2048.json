@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "~ ... Tem uma (1) encomenda pendente de entrega. Utilize o seu código para a acompanhar e recebe....~",
+    "from": "\"Correios~\"  <alert@aractdigital.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Tue, 28 Nov 2023 11:11:47 -0500 (EST)",
+    "message_id": "<0.1.C3.A9F.VkJGmuJENQ.0414@sunnyportal.com>",
+    "content_type": "text/html; charset=us-ascii;"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=us-ascii;"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "https://support.tiktok.com/",
+      "https://zupimages.net/up/23/48/9bep.png",
+      "https://zupimages.net/up/23/47/6jfe.png",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?vrqNFwnVmkYz=kCqxhpckJtGZ2bg9m0f03y5ta01o1q30115x1214xm3fg6xu9==",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?DpMJzpkbKMKT=TrLSCngQzNcF3bg9m0f03y5ta01o1q30115x1214xm3fg6xu9==",
+      "https://zupimages.net/up/23/12/e413.png",
+      "http://choigroup.yonsei.ac.kr/MOcKgAwn.25rm2qw?qyRDZLSmvtQM=JtrbFdBNlnSL0bg9m0f03y5ta01o1q30115x1214xm3fg6xu9==",
+      "http://choigroup.yonsei.ac.kr/KHlMJnrDvegwxKa.snrqvbq?mlcnwGzGtvgY=tbHQTGBbCPsZ1bg9m0f03y5ta01o1q30115x1214xm3fg6xu9=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1276,
+    "html_length": 2557,
+    "has_text": true,
+    "has_html": true
+  }
+}

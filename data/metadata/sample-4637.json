@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Deposit and withdrawal functionality in your account has been temporarily\r\n suspended.",
+    "from": "\"id-noreply\" <id-noreply@elisanet.fi>",
+    "to": "Recipients <id-noreply@elisanet.fi>",
+    "date": "Fri, 27 Dec 2024 01:05:04 +0000",
+    "message_id": "<9e11366e-c3ee-11ef-a18b-005056bdfda7.1735261511.212026@fgw23.mail.saunalahti.fi>",
+    "content_type": "multipart/mixed; boundary=\"===============1551026982==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1551026982==\""
+  },
+  "attachments": [
+    {
+      "filename": "Ledger Support..pdf",
+      "content_type": "application/pdf",
+      "size": 555455
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3,
+    "html_length": 126,
+    "has_text": false,
+    "has_html": true
+  }
+}

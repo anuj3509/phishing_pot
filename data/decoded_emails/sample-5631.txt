@@ -1,0 +1,98 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Action Required: Mandatory Ledger Firmware Update Before June 16
+From: Ledger Live <aihara-t@japritech.co.jp>
+To: <phishing@pot>
+Date: Mon, 9 Jun 2025 14:26:46 -0700
+Message_Id: <227f369d37cbe1ee3d97de1eea2f37601c66@japritech.co.jp>
+Content_Type: multipart/alternative;
+	boundary="0ba1e81dd1153bc0e3496bc035c39cb048"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="0ba1e81dd1153bc0e3496bc035c39cb048"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, update
+URLs found:
+  - www.ledger.com
+  - https://support.ledger.com
+  - https://orzaria.myonlineportal.org/
+  - https://www.ledger.com
+  - https://www.ledger.com/firmware-update
+
+DECODED TEXT CONTENT:
+------------------------------
+Mandatory Firmware Update Required
+
+A new firmware update is now available for all Ledger devices. This update is mandatory to maintain secure access and full functionality.
+
+Devices not updated by June 16, 2025 may lose compatibility with Ledger Live and could be exposed to security risks.
+
+Firmware version: 2.1.0
+
+Release date: June 9, 2025
+
+Status: Mandatory
+
+Please ensure your recovery phrase is securely backed up before updating. The process is quick and simple.
+
+Update Here
+
+📄 View update instructions
+🛠️ Need help? Visit Ledger Support 
+
+For your safety, always verify firmware updates through Ledger Live or our official website. Never trust links from unofficial emails.
+
+This message was sent by Ledger to inform you of required device maintenance.
+© 2025 Ledger • www.ledger.com 
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Mandatory Firmware Update</title>
+
+</head>
+<body style="FONT-FAMILY: Arial, sans-serif; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #f4f6f8">
+<table style="PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #f4f6f8" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="center">
+<table style="BORDER-TOP: #dcdcdc 1px solid; BORDER-RIGHT: #dcdcdc 1px solid; BORDER-BOTTOM: #dcdcdc 1px solid; BORDER-LEFT: #dcdcdc 1px solid; BACKGROUND-COLOR: #ffffff; border-radius: 5px" cellspacing="0" cellpadding="0" width="580"><!-- Header -->
+<tbody>
+<tr>
+<td style="BORDER-BOTTOM: #eeeeee 1px solid; PADDING-BOTTOM: 20px; PADDING-TOP: 20px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; BACKGROUND-COLOR: #ffffff">
+<h2 style="FONT-SIZE: 18px; COLOR: #333333; MARGIN: 0px">Mandatory Firmware Update Required</h2></td></tr><!-- Content -->
+<tr>
+<td style="FONT-SIZE: 14px; COLOR: #333333; PADDING-BOTTOM: 30px; PADDING-TOP: 30px; PADDING-LEFT: 30px; LINE-HEIGHT: 20px; PADDING-RIGHT: 30px">
+<p style="MARGIN: 0px 0px 15px">A new firmware update is now available for all Ledger devices. This update is <strong>mandatory</strong> to maintain secure access and full functionality. </p>
+<p style="MARGIN: 15px 0px">Devices not updated by <strong>June 16, 2025</strong> may lose compatibility with Ledger Live and could be exposed to security risks. </p>
+<table style="FONT-SIZE: 14px; MARGIN: 20px 0px" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td style="WIDTH: 150px; FONT-WEIGHT: bold; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">Firmware version:</td>
+<td>2.1.0</td></tr>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">Release date:</td>
+<td>June 9, 2025</td></tr>
+<tr>
+<td style="FONT-WEIGHT: bold; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px">Status:</td>
+<td style="COLOR: #cc0000"><strong>Mandatory</strong></td></tr></tbody></table>
+<p style="MARGIN: 20px 0px">Please ensure your recovery phrase is securely backed up before updating. The process is quick and simple. </p><!-- CTA Button -->
+<table style="MARGIN: 30px 0px" cellspacing="0" cellpadding="0" align="center" border="0">
+<tbody>
+<tr>
+<td style="border-radius: 4px" bgcolor="#007bff" align="center"><a style="FONT-SIZE: 14px; TEXT-DECORATION: none; COLOR: #ffffff; PADDING-BOTTOM: 12px; PADDING-TOP: 12px; PADDING-LEFT: 24px; DISPLAY: inline-block; PADDING-RIGHT: 24px; BACKGROUND-COLOR: #007bff; border-radius: 4px" href="https://orzaria.myonlineportal.org/" target="_blank">Update Here </a></td></tr></tbody></table><!-- Text Links -->
+<p style="FONT-SIZE: 13px; MARGIN: 10px 0px">📄 <a style="TEXT-DECORATION: underline; COLOR: #0066cc" href="https://www.ledger.com/firmware-update">View update instructions</a><br>🛠️ <a style="TEXT-DECORATION: underline; COLOR: #0066cc" href="https://support.ledger.com">Need help? Visit Ledger Support</a> </p>
+<p style="FONT-SIZE: 12px; MARGIN-TOP: 30px; COLOR: #777777">For your safety, always verify firmware updates through Ledger Live or our official website. Never trust links from unofficial emails. </p></td></tr><!-- Footer -->
+<tr>
+<td style="FONT-SIZE: 11px; COLOR: #999999; PADDING-BOTTOM: 20px; TEXT-ALIGN: center; PADDING-TOP: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BACKGROUND-COLOR: #f1f1f1">This message was sent by Ledger to inform you of required device maintenance.<br>© 2025 Ledger • <a style="TEXT-DECORATION: none; COLOR: #999999" href="https://www.ledger.com">www.ledger.com</a> </td></tr></tbody></table></td></tr></tbody></table></body></html>
+

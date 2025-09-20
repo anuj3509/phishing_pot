@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "You Have New Message In The Attached file",
+    "from": "non-reply<admin@ironville.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 23 Feb 2023 00:45:33 +0000",
+    "message_id": "<OHZYDHT1338eed09246597c0246a39bf.082f4d5345.20230223004528.41149b8bb8.bddd300e@mail201.wdc02.mcdlv.net>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_000_020A_01D8D337.6758E250"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_000_020A_01D8D337.6758E250"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 0,
+    "html_length": 0,
+    "has_text": false,
+    "has_html": false
+  }
+}

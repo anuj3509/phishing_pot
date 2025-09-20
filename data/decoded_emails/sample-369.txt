@@ -1,0 +1,80 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: NOVO ARQUIVO: # 19433250-CP-27207- revise os dados fornecidos
+From: Nina Mathieu <nina.mathieu@securefileshares.com>
+To: phish@pot
+Date: Thu, 23 Feb 2023 12:16:24 +0000
+Message_Id: <63f7591824256_1764f99c26097e5@sim-mail-05cb65d081f745a2b.nova.us-east-1.pmops.net.mail>
+Content_Type: text/html;
+ charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+ charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://AhV3cTpms4e.securefileshares.com/5/491050a7-0f30-4f87-90dd-59d1a28ed6e1.gif
+  - http://AhV3cTpms4e.securefileshares.com/3/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png
+  - http://AhV3cTpms4e.securefileshares.com/2/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png
+  - http://customer.securefileshares.com/107519/55fd98/491050a7-0f30-4f87-90dd-59d1a28ed6e1/?
+  - http://AhV3cTpms4e.securefileshares.com/1/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png
+  - http://AhV3cTpms4e.securefileshares.com/4/491050a7-0f30-4f87-90dd-59d1a28ed6e1.wav
+  - http://images.pmeimg.com/system/content_images/uploads/50b/0e3/5f-/original/bluefile-5f6ed0b5.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Untitled Document File Size: 456kb [File Format PDF MMR (G4)] VEJA AQUI
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+  <title>Untitled Document</title>
+</head>
+<body style="font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif';">
+<table align="center" bgcolor="#EEEEEE" cellpadding="0" cellspacing="0" height="450" width="550">
+  <tbody>
+    <tr>
+      <td>
+<!---------inner wrapper----------------->
+      <table align="center" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" height="400" width="500">
+        <tbody>
+          <tr>
+            <td>
+            <center>
+<a href="http://customer.securefileshares.com/107519/55fd98/491050a7-0f30-4f87-90dd-59d1a28ed6e1/?"><img alt="Image missing" class="preview" src="http://images.pmeimg.com/system/content_images/uploads/50b/0e3/5f-/original/bluefile-5f6ed0b5.png"></a>
+            <p style="font-weight:700;">File Size: 456kb<br>
+            <br>
+            [File Format PDF MMR (G4)]<br>
+            <br>
+            <a href="http://customer.securefileshares.com/107519/55fd98/491050a7-0f30-4f87-90dd-59d1a28ed6e1/?" style="color: #FF0000;">VEJA AQUI</a></p>
+            </center>
+            </td>
+          </tr>
+          <tr>
+          </tr>
+        </tbody>
+      </table>
+      <!-------------------------->
+</td>
+    </tr>
+  </tbody>
+</table>
+<img nosend="true" moz-do-not-send="true" border="0" height="2" width="2" alt="" lowsrc="http://AhV3cTpms4e.securefileshares.com/1/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png" src="http://AhV3cTpms4e.securefileshares.com/2/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png">
+<img src="http://AhV3cTpms4e.securefileshares.com/3/491050a7-0f30-4f87-90dd-59d1a28ed6e1.png" border="0" height="2" width="2" alt="">
+<bgsound volume="-100" alt="" src="http://AhV3cTpms4e.securefileshares.com/4/491050a7-0f30-4f87-90dd-59d1a28ed6e1.wav"></bgsound>
+<table height="2" width="1" border="0"><tr><td background="http://AhV3cTpms4e.securefileshares.com/5/491050a7-0f30-4f87-90dd-59d1a28ed6e1.gif"> </td></tr></table>
+</body>
+</html>
+

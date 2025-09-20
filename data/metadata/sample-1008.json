@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "[IMPORTANT] Your wallet is temporary Disabled!",
+    "from": "\"MetaМask\" <kundklubb@bergqvistskor.se>",
+    "to": "phishing@pot",
+    "date": "Thu, 27 Jul 2023 15:28:08 +0200",
+    "message_id": "<C462D89052BF47E5AD41C2FCA0A58FC8@bergqvistskor.se>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----95106438995A4D649A8CB780B97F7EEF\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----95106438995A4D649A8CB780B97F7EEF\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://one-lnk.com/x1exEpKh4Q1i491fEvFn7cpmrZJCSumMPSUEfNqevh6PnCyuWRKPcMpBimmJqn9Su3yTO0ce3roYdqf2YqRC05u8Q/x1ey6UoWM0Mx8xhvpp_ZbfV7IpLdnkC5kd9xwBf9BtbxYkInBupRYcNm3wuDjzxvsRpnVBR5eHp3LX-7n3dInjgXDVt4WYKJt6lWPp6qmpYCOHnnPPuCRLAvWg9JToRFWGKrXWEyPe9kDclXYsXxZSj5Q/x1e4yan9PGUA3jeYe61QVSaZQ/",
+      "https://www.anpdm.com/oa/32676916/444650477844415B437349405B4A71",
+      "https://one-lnk.com/x1eoqXFM56tdj81GNw3yd7wwH1rmt02pKqGJHsDUeq0uAATbyfwBptPcZo8NWLkvaTr0CN1XHaYDo25XM4V1oQSjQ/",
+      "https://images-apac.apsis.one/ec7f34f3-ee7c-466a-ac09-1e62fc852e89.png",
+      "https://www.anpdm.com/newsletterweb/48425F427641405A4378434159/444650477844415B437349405B4A71"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 308,
+    "html_length": 5408,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 03:21:26 +0200",
+    "message_id": "\r\n <cf7bb4ac-5a32-480c-9234-0cc495a06038@MW2NAM10FT056.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/oop/139_md/31/9/36/23/2459859",
+      "http://easilett.com/cl/139_md/31/9/36/23/2459859",
+      "http://easilett.com/media/9542d7c9993f20a.jpg",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8063,
+    "has_text": true,
+    "has_html": true
+  }
+}

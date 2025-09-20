@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 60738356.",
+    "from": "Aviso Correios <alfandega587025@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 6 Sep 2024 01:11:48 +0000",
+    "message_id": "<c6cc81c51755bc6dd7c0cadcd9e5be94@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_c6cc81c51755bc6dd7c0cadcd9e5be94\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_c6cc81c51755bc6dd7c0cadcd9e5be94\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cliente-rastreamentocorreios.co.ua/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2467,
+    "has_text": true,
+    "has_html": true
+  }
+}

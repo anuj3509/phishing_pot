@@ -1,0 +1,55 @@
+{
+  "headers": {
+    "subject": "Notice: Your Wallet is about to be suspended!",
+    "from": "MetaMask <marketing@colegiosantissima.com.br>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Oct 2023 10:04:08 +0000 (UTC)",
+    "message_id": "<WWfvSnD_Rq2YTYabo8fslA@geopod-ismtpd-7>",
+    "content_type": "multipart/alternative; boundary=a784214f7d225a78fbdd8a78349e0ed086ccf12921f9688a47d0d74b6618"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=a784214f7d225a78fbdd8a78349e0ed086ccf12921f9688a47d0d74b6618"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.es-desk-menu-hidden",
+      "https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=HHGkhq5jxk4mbUw60A3SnCExJ2-2Fcq1fWKvmyHlOs2I1RfgT2drXKtcJzAWxhUavoiHxUqWMdM-2Bg19JRlcqXt16qREedXZR-2B9rTdhOB9XNJvNgbHomrvm1-2BEHUbbVheymmAAuw47hoRmACQ2pvusYGA-3D-3Dbjn6_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMRAU3zzz-2FtQ7TtySDIiojaZ8Uyv34qKwBwMqRivQ2nX-2BYW8O-2FqpsRYU-2F-2BCxyxl6gYoT-2FecLRLnGt7sQivm3wel-2FCBJUmwAo4znNnKXmdzicnMbgqJP9N4rMODszlmvQTA7zAQ2H-2BcAIIzpCPdSLVtJaA-3D-3D",
+      "button.es-button",
+      "tr.es-desk-hidden,",
+      "http://clickemailmkt.colegiosantissima.com.br/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7skVVqnLBUrDZOnndYChLrwyvpMiAwYpWqhGv-2BMZbSm-2FrpOnnHKFAdo82TPf6Htlhp25k3DMY0-2BjctrSDC3lusfHaf2wKBI-2FRaJ-2FqKJZrgKs8ygoUDdYNujQ5-2FXOMe6rvygo4WI1uhs0mdOSZnTVwNX7z5TqSLk9O6Vlco3TKzenYFApvp21n4tPpwebJtaqjTMFSNjbQ9J-2F9KRxmegKDmSZRRw-2BueiajWq61kWvZ5woEUHxr1v-2FabiEbHRON-2BWDkIMyiPuR-2BUxooqRcDfFDu8S2I7qaLV-2BOKDeEECLtLmjZ6K9w4jczqUL83jYcoSUG0kh3jihwADP-2FfhNKJHIk-2F3y9ECcXZLekzobMSzxS4VWlmy1PNDZfzDzmyFc61kKPQeTWIz3ZskHKCpV3DVkPg6f9FI6oKvx3nrWOAEsvZ7s1910-2FMmVL-2FEEFOYzyoMxftCu9U4DsHxy7qzy6QGiHWVHibEOrhuLW9oVm80RQlb2T2jd20fQG5SBMPNBmXJTVWhruLUxBtI7sRo0CMxtORbbRZ5Nw6cy-2BChFMq7OKCiWFcJFU5HRbyZjYKJGhh9Q763ZmmGtdsP6w0arTPYVO8ehw-3D-3D",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=LPGXepyRy-2F8jG3zcGKrPDyuInHlkacFF0ftxqoBJCSRoJjUU1YXvqDPa-2FO7YI5klgwgjjgrvXCA8BYdmB4HBdIU2SW2aOpUC1w19JecPNWNQE50m1-2BRj23OazaKVuslxOj5i_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMRPsp1mRkDHT3avv5g-2BtZppMsnAOtQYLP-2FLQpFu-2FFI8dRtd1BynkI02KX-2BinYue-2FJMhdlyt2yCZG2I-2FxjP11k9VMtGT6vSgNBcTu4Hr3epOT2r5Sd0RjQl7Fx00ZxteVOE-2BKF7mwhvg5raqCwBtYbEng-3D-3D",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=LPGXepyRy-2F8jG3zcGKrPDyuInHlkacFF0ftxqoBJCSRUk8xXiU0EHxOJgAUXDxS3SUW8mIGZaBS0Bsb6X5HRypJTrcRDY3HQr-2BeSnqOKCJA-3D6AKR_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMRExuaHbUq1hWT5Q7DRlKxEZsKY2EPymNqUkcM4-2FU1-2FF9i0z0vsSnM3bz0UVhISPY8Ek1VAf92N-2FahzmukU4GLgG2FXAGOddur9n24n5Fqx1UuKuiDnbwoqxCHfWs0cpbcQtOPiTkc7706kyZr4tBu4Q-3D-3D",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://ebfahbh.stripocdn.email/content/guids/c97f5c32-63ca-4430-9993-216725e8639b/images/sfsdf.png",
+      "https://verification.metamask.io/KYC?id=180#64849851326",
+      "http://www.w3.org/1999/xhtml",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=HHGkhq5jxk4mbUw60A3SnCExJ2-2Fcq1fWKvmyHlOs2I1HFFxbcQYRXXLPH0BjHvQ9RSPA_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMRFngX3F7bz-2BHOucPJL-2FRV5kaTKw3IHggjWQVXJw-2Bu9Nt5zxuAqcI8l8-2F-2BGqkwfbaO5FcO0u0lOnLkvAJPZEHnFIk7-2FKUxPzyJNTIwUnHzfYTFL97L5wiN-2F5CRq9XKnDvnbrBtnZzqmLtq71IVGjjFYA-3D-3D",
+      "https://ebfahbh.stripocdn.email/content/guids/c97f5c32-63ca-4430-9993-216725e8639b/images/fd.gif",
+      "td.es-desk-hidden,",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=HHGkhq5jxk4mbUw60A3SnCExJ2-2Fcq1fWKvmyHlOs2I1RfgT2drXKtcJzAWxhUavoiHxUqWMdM-2Bg19JRlcqXt16qREedXZR-2B9rTdhOB9XNJvNgbHomrvm1-2BEHUbbVheymkoUEXNsX3cHeWwwyXrJGkXB8RmNt1Ds7nTSNnW8sAK4984BT00kAxtBW3EGxwZCnqxbLNxq-2Bqu4ozjA1WTA6sL3ULkrL-2FmHlf2ZuQF21TxE6EnXYZfTW-2Fm8XZzeFIhh4N6Q3_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMRZ8AXKbcBPB6QxTZGBl1JEyixIjsoXEiENngHiyIuLMRAMXVzy2OwqAUp8sW19nEWktgNxB4PuwjPof1p78PFS0s-2Blvzx5PpLnIt7cLJcLFINerX5e3uKU-2BxlSpE4XIzO-2FZW5iktZuWxrpeUnlYMqFg-3D-3D",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=HHGkhq5jxk4mbUw60A3SnCExJ2-2Fcq1fWKvmyHlOs2I1RfgT2drXKtcJzAWxhUavoiHxUqWMdM-2Bg19JRlcqXt16qREedXZR-2B9rTdhOB9XNJvNgbHomrvm1-2BEHUbbVheymmAAuw47hoRmACQ2pvusYGA-3D-3DIROD_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMR7mwJ-2FpDj58Zmt6ZoESF4s0fc1WOUPKoHpvue0dFPv-2B9jRNkfftZBGp2l-2FMOdE-2Fw5MucPHQVcsDAJ5zfdAmjRnvj-2BmNqqfR3ukjCOnNCixrqVRNp91aWgbOlgWTuFJBElBUW8qC7qIIp8-2BKO-2BDGgbcQ-3D-3D",
+      "tr.es-desk-hidden",
+      "a.es-button,",
+      "table.es-table-not-adapt,",
+      "table.es-social",
+      "table.es-desk-hidden",
+      "http://clickemailmkt.colegiosantissima.com.br/ls/click?upn=HHGkhq5jxk4mbUw60A3SnJjwarOBIyJ3WbN9ezPhNqlCirl5Z5zm47YL8Ut9J8spln4by6YbemIjgcPIrbc2RlVZZJ8rI2e9cgylwZJM-2F-2FTdO7-2FvkzxDq1vU46aEmdq9hVgie-2BTLzMwoa0Zdd7Y6qQ3sBzpayQmD-2BIMHceTlOyK7OCjqr5Hsj3HBzUOsDjnLsgKJ_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOHTbVu7vPnmVzwMILi5ABFXFvSw22jULX5SfL8quCjOboszaBgalEdM3JhcohnawJJX-2BmDSxLYNR2xftZlFiPgSck7aXaXWXTaf5yYQRIII-2BgYSv8IcrTjKbmnoZdrHcFDDrr8AeG2mrVQ8yjYhL7XY8tatw9J5CBTzEkn-2BHT-2BQS49ORelKek2y1yOxIQS-2FFxRV33RZ0evl9r9O1x-2FRwhwszfSO5Ot9dAkDpgksG49pvUgeU2uRpzuaMtjYrmK5QgkQmSii10R-2BVXHk-2FvJAsv69J2kZR1TV0PT7yeCRx3e1WWELmkuMx4ElT9nupUOcHIrxLv0ZVJkYez8vjwL4L817FzQpDqFOzrdH2a3KDwDqZlYyXStFa4PTM14JsvCnWjPZjnROOe3SMg4wL4wJ3fwMH5PuGo-2BRikRSxMqsIq5Uzio4CDmzEDyd27oeBfIZMR5Js8YQWyaSKErWlM8s2hf-2BPFla6lVoM6DZ4gCeOpuJ9BVzUeMoVbe1uohTNNnAdBlV51JWgiyN3JA8Pm0oodWgJ0VTqHvEsIu3t8avwT-2Bs74LMwHD-2FtADZ6xBHSMkyqaV-2Fzc9wJfGRBqE0tGX-2BpMkw-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3652,
+    "html_length": 27863,
+    "has_text": true,
+    "has_html": true
+  }
+}

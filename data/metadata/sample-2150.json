@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Registration No.6528788",
+    "from": "Aurelie Weber <olgarp_1@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 7 Dec 2023 23:59:53 +0300",
+    "message_id": "\r\n <AS8PR07MB8967A62BA6B3557B1B547545A68BA@AS8PR07MB8967.eurprd07.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"a1f442161dd9f733efbaf37baf6b4a784d49\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"a1f442161dd9f733efbaf37baf6b4a784d49\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cgforum.ru/go.php?url=aHR0cHM6Ly91LnRvL29Ha2xJQQ",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 211,
+    "html_length": 1060,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Ourocard - Ref. Fatura - G3ejrKKzNc30o7qJhZ",
+    "from": "\"[ Ourocard - Voce tem pontos ] Protocolo: 57188720698041\" <draftcag@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 09 Aug 2023 17:15:04 +0000",
+    "message_id": "<a1d6dd40625cf9f2b78faee105cda118@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"87bad6a81df0f8709b3ce359000e7a41\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"87bad6a81df0f8709b3ce359000e7a41\""
+  },
+  "attachments": [
+    {
+      "filename": "FaZXWy1kPmdkSXFDJ.pdf",
+      "content_type": "application/pdf",
+      "size": 130115
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 277,
+    "html_length": 680,
+    "has_text": true,
+    "has_html": true
+  }
+}

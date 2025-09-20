@@ -1,0 +1,80 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ol�� phishing@potfp, Regularize a Taxa da Sua Encomenda! 410
+From: Financeiro dos Correios <no-reply@taxacorreios410>
+To: phishing@pot
+Date: Mon,  2 Dec 2024 15:56:34 +0000 (UTC)
+Message_Id: <20241202155634.5421D4742F@Ubuntu-mrne-1vcpu-1gb-35gb-intel>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent
+URLs found:
+  - https://suanataxacao.com/taxas/gomeuspontos410
+
+DECODED TEXT CONTENT:
+------------------------------
+⚠ Ação Urgente Necessária ⚠ Ação Urgente Necessária ⚠ Evite a Devolução da Sua Encomenda Olá, Rodrigofp , Sua encomenda está temporariamente retida pela Receita Federal por falta de pagamento das taxas alfandegárias obrigatorias . ⚠ Prazo Final Imediato: Sua encomenda será devolvida se o pagamento não for realizado. Evite custos adicionais e atrasos! Regularize o quanto antes clicando no botão abaixo: Efetuar Pagamento Última Oportunidade de Pagamento A data limite para regularização é 04/12/2024 . Após essa data, podem ser aplicadas taxas adicionais e sua encomenda será devolvida ao remetente. Correios 2024 - Todos os direitos reservados. Este e-mail foi gerado automaticamente. Por favor, não responda.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚠ Ação Urgente Necessária</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;">
+    <!-- Container principal -->
+    <div style="max-width: 700px; margin: 40px auto; background-color: #ffc107; border-radius: 8px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); overflow: hidden;">
+        <!-- Cabeçalho -->
+        <div style="background-color: #003087; padding: 30px; text-align: center; color: #ffffff;">
+            <h1 style="margin: 0; font-size: 24px; font-weight: bold;">⚠ Ação Urgente Necessária ⚠</h1>
+            <p style="font-size: 18px; margin-top: 10px;">Evite a Devolução da Sua Encomenda</p>
+        </div>
+        
+        <!-- Corpo da mensagem -->
+        <div style="padding: 30px; background-color: #ffc107; color: #003087; text-align: center;">
+            <p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+                Olá, <strong>Rodrigofp</strong>,
+            </p>
+            <p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+                Sua encomenda está temporariamente <strong>retida pela Receita Federal</strong> por falta de pagamento das <strong>taxas alfandegárias obrigatorias</strong>.
+            </p>
+            <p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+                ⚠ <strong>Prazo Final Imediato:</strong> Sua encomenda será devolvida se o pagamento não for realizado. Evite custos adicionais e atrasos!
+            </p>
+            <p style="font-size: 18px; line-height: 1.6; font-weight: bold; margin-bottom: 30px;">
+                Regularize o quanto antes clicando no botão abaixo:
+            </p>
+            
+            <!-- Botão de ação -->
+            <a href="https://suanataxacao.com/taxas/gomeuspontos410" target="_blank" style="display: inline-block; padding: 15px 30px; font-size: 18px; font-weight: bold; color: #003087; background-color: #ffffff; text-decoration: none; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+                Efetuar Pagamento
+            </a>
+        </div>
+
+        <!-- Rodapé -->
+        <div style="background-color: #ffc107; padding: 20px; text-align: center; color: #003087;">
+            <p style="margin: 0; font-size: 18px; font-weight: bold;">Última Oportunidade de Pagamento</p>
+            <p style="margin: 10px 0 0; font-size: 16px;">
+                A data limite para regularização é <strong>04/12/2024</strong>. Após essa data, podem ser aplicadas taxas adicionais e sua encomenda será devolvida ao remetente.
+            </p>
+        </div>
+        <div style="padding: 15px; text-align: center; font-size: 14px; color: #666; background-color: #f4f4f4;">
+            <p style="margin: 0;">Correios 2024 - Todos os direitos reservados.</p>
+            <p style="margin: 5px 0 0;">Este e-mail foi gerado automaticamente. Por favor, não responda.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

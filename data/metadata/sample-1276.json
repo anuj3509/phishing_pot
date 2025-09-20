@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Final notice: garyb59@protonmail.com suspended!",
+    "from": "protonmail.com <service@pine.co.jp>",
+    "to": "garyb59@protonmail.com",
+    "date": "7 Aug 2023 03:51:01 +0000",
+    "message_id": "<20230807035101.C4E6C8A47FA62760@pine.co.jp>",
+    "content_type": "multipart/mixed;boundary=---------------------fe72587269d601d03c5a80a955ba892c"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------fe72587269d601d03c5a80a955ba892c"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://buylsdonline.io/login/index.html#garyb59@protonmail.com",
+      "protonmail.com",
+      "https://www.google.com/url?q=https://heyqnd.webwave.dev/lib/heyqnd/dew-lhg54umr.html%23%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1691450646312000&amp;usg=AOvVaw089bHQ-id-ZWQ0bWi8ADAz"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 326,
+    "html_length": 4016,
+    "has_text": true,
+    "has_html": true
+  }
+}

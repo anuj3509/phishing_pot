@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "RE",
+    "from": "\"Mr Stanley Edward.\" <muhammad.alfan.fs@um.ac.id>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 7 Jun 2025 01:41:43 +0100",
+    "message_id": "<CAD-=wBohKQB-cBDGytH_voiLSASjpXR0kWFBYezDZwqSf9v3gQ@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000002720f40636f09def\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000002720f40636f09def\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 710,
+    "html_length": 884,
+    "has_text": true,
+    "has_html": true
+  }
+}

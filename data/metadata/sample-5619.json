@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Dir recht herzlich!",
+    "from": "Milka <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 6 Jun 2025 14:31:55 -0400",
+    "message_id": "<Hpch51i.0.0.Hpch51i.9.Hpch51i@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1075046137408463\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1075046137408463\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/vIxKTlT.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://45.88.90.180/cl/563_md/1/1027/660/1/210122",
+      "http://45.88.90.180/oop/563_md/1/1027/660/1/210122",
+      "http://45.88.90.180/op/563_md/1/1027/660/1/210122"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1708,
+    "html_length": 8878,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Verpassen Sie diese Gelegenheit nicht!",
+    "from": "Bestes Angebot, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Aug 2024 18:19:34 +0000",
+    "message_id": "<nAMU0GL.0.0.nAMU0GL.9.nAMU0GL@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/13/6yz6.png",
+      "https://www.zupimages.net/up/24/13/gxa0.png",
+      "www.zupimages.net/up/24/13/gxa0.png",
+      "http://sklj.info/[optout]",
+      "https://wear-prodct.com/?a=8256&amp;oc=20407&amp;c=54947&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/13/6yz6.png",
+      "bgasdfasdfa.jpg",
+      "http://sklj.info/[open]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5189,
+    "html_length": 12869,
+    "has_text": true,
+    "has_html": true
+  }
+}

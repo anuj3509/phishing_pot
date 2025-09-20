@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Zeitkritische Arnung: phishing@pot, Ihr Paket wartet – Jetzt bestätigen, um Verlust tu vermeiden!",
+    "from": "\"FedEX\"  <track@steamo.de>",
+    "to": "<phishing@pot@outlook.com>",
+    "date": "Fri, 13 Sep 2024 05:24:13 +0000",
+    "message_id": "<vGkWY1Reno1Y9Rw8U3I5lXUJEK@email.amazonses.com>",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pbs.twimg.com/media/GJ2NtI0WcAAilM8?format=png",
+      "pbs.twimg.com/media/GJ76uUYXoAAfzPM?format=png",
+      "https://image.message.fedex.com/lib/fe921372756d067475/m/3/socialIcon_email_FY22.png",
+      "https://pbs.twimg.com/media/GJ2NtI0WcAAilM8?format=png",
+      "image.message.fedex.com/lib/fe921372756d067475/m/3/socialIcon_email_FY22.png",
+      "https://t.co/w8jwkhC121",
+      "https://pbs.twimg.com/media/GJ76uUYXoAAfzPM?format=png",
+      "https://t.co/0IcuclHz85",
+      "fedex.com."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1068,
+    "html_length": 10322,
+    "has_text": true,
+    "has_html": true
+  }
+}

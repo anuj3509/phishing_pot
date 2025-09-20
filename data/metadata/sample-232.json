@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "ENC: Amazing Sale! Get This Diet Product For a Huge Discount!",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 16:52:10 +0000",
+    "message_id": "\r\n <SA0PR04MB7370D3AD437719175B8D8364B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370D3AD437719175B8D8364B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370D3AD437719175B8D8364B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://substack.com/redirect/dce0d75a-4e9a-46d1-a20f-6a61e9779fe9?j=eyJ1IjoieWx5ZHMifQ.2CPDB8oli_CdVKIBjBkzwupkbCC7SI2EP6ttxFGsjws/#dmVYT1c4TDVYNHE3OHZPYnJUbExUd0ZsZytNeG5KOGpqV3BOaHdBVHFKanZCYWh6VDdkOUovczdGYzNzNXYwREFORmVadEQvTmoycU1EaXJRUTcrcGJRREg0cms4OWJxVGY0aXZmd2JWU0tQRVc1SWg3TWhkVkdMYlRnQzZ5VmdVc1BJRUcwUEdSVGJSbnlyVGRzVENRPT0_",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144545/9686de22-453e-472a-a6ac-3b1ac714123d.jpg",
+      "yapaetywosfi.com",
+      "yapaetywosfi.com&gt;",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144545/a2aa7078-3a42-4b75-bfa6-76da8eb079bf.jpg",
+      "https://substack.com/redirect/f437b0a3-eb6d-479b-8ff5-09a80cc066f0?j=eyJ1IjoieWx5ZHMifQ.2CPDB8oli_CdVKIBjBkzwupkbCC7SI2EP6ttxFGsjws/#ZGFOSzNEd05CS0FPSmt1RHJwSk94S0UwNVdsSDhtZHJlS1YzV1JsajJ5b0JzWjVZbjJBUkZsZGJVc0FBeWZENzBJZlZOMk1NUTZta0dEcnRHdGNIemZKZlp5SU9YWHBQZkRoUFp6MTYyMnhHeWRYazhhZjFOb0FOL2l0YmhoWU1zUWRiRUpZWEN1aVdYTGlMR1RoRG1BPT0_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2641,
+    "html_length": 5757,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Leider konnten wir Sie bisher nicht erreichen",
+    "from": "Ihre Julia Vetter vom Kundenservice, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 23 Feb 2024 16:31:53 +0100",
+    "message_id": "<Zg4Hbeg.0.0.Zg4Hbeg.9.Zg4Hbeg@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://directfwd-2.com/?a=7790&amp;oc=16704&amp;c=45663&amp;m=3&amp;s1=",
+      "http://theowensfamily.info/WFJkSzNhazZ0TUNXKzVHdGhjKzY1cWNtY3dxWTZHNDVkYUpYTVNzdWpIMU5RdTlSUVptR3B5WXlrclhMR1Q0dzU2NVpSRGJMSnh1K0VuNzc0SGs5Y0FRN3J6Nkh1TVpsVzdkT2pvQkxVN289",
+      "www.zupimages.net/up/23/29/rk4l.png",
+      "http://www.w3.org/TR/html4/loose.dtd",
+      "https://directfwd-2.com/?a=7790&oc=16704&c=45663&m=3&s1=",
+      "http://theowensfamily.info/OXVGM0s1VVhsR2UwMVNISW9sY0dScHNJTmVDV29Sbi9vQUN6K25QL0MzNXZZY3VCVEVmY1gxSGVVNWpNQUpxdjM3U29ITkQxQlo2aW5pd3dESldsYjBLenFMQ29jZkhZeFdPK01YYmhOcHM9",
+      "https://www.zupimages.net/up/23/29/rk4l.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 590,
+    "html_length": 4333,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "FW: Due Invoice Payment - protonmail.com - Wire Transfer Document",
+    "from": "Paolo Reggiani <Paol.Reggiani@moss.it>",
+    "to": "wpx@protonmail.com",
+    "date": "14 Jan 2020 00:06:05 -0800",
+    "message_id": "<20200114000605.14F3983143C82AAA@moss.it>",
+    "content_type": "multipart/mixed;boundary=---------------------481089ff168d9ab2d8d7d42e37da66da"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------481089ff168d9ab2d8d7d42e37da66da"
+  },
+  "attachments": [
+    {
+      "filename": "quotation.iso",
+      "content_type": "application/octet-stream",
+      "size": 114688
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "fosrich.com",
+      "protonmail.com.&nbsp;These",
+      "http://www.w3.org/TR/html4/loose.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 905,
+    "html_length": 1529,
+    "has_text": true,
+    "has_html": true
+  }
+}

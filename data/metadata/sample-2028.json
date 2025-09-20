@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, You have won an 170 Piece Stanley Tool Set ",
+    "from": "Ace Department - Thank You! ,_<jmrox@cutynaledriite.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Nov 2023 08:19:54 +0000",
+    "message_id": "\r\n <1f96b0bf-7d6a-43db-94cb-2b5f6a902ec6@DM6NAM11FT105.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/A8WkCX4.jpg",
+      "https://i.imgur.com/A8WkCX4.jpg",
+      "https://t.co/XcPt5nBQge",
+      "https://t.co/zvvK4r05lb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 499,
+    "html_length": 8743,
+    "has_text": true,
+    "has_html": true
+  }
+}

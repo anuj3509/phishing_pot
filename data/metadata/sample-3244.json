@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "HELLO",
+    "from": "Jack Joseph <jackfjosephv4@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 6 May 2024 12:23:54 +0200",
+    "message_id": "<CAOf7KPu=+epQV7YUOr159Nt9bRvBPDM2sZK7z=kWu73==2whHw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000003c2f610617c678e0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000003c2f610617c678e0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1779,
+    "html_length": 7286,
+    "has_text": true,
+    "has_html": true
+  }
+}

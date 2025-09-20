@@ -1,0 +1,166 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Suspensão de CNH em Andamento: Regularize a Situação Agora! Identificação: 14302714
+From: Consulta Detran <infracao412033@detrangovbr>
+To: <phishing@pot>
+Date: Mon, 26 May 2025 06:01:40 +0000
+Message_Id: <855e35f389c3a6af7a8d88aabae46cb4@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_855e35f389c3a6af7a8d88aabae46cb4"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_855e35f389c3a6af7a8d88aabae46cb4"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://detr-765775392619.southamerica-east1.run.app
+  - hotmail.com,
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Notificação de Infração de Trânsito</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif, serif, EmojiFont;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      overflow: hidden;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    .header {
+      background-color: #003087;
+      padding: 20px;
+      text-align: center;
+      color: #ffffff;
+    }
+    .header h1 {
+      margin: 0;
+      font-size: 22px;
+      font-weight: bold;
+    }
+    .header p {
+      margin: 5px 0 0;
+      font-size: 16px;
+    }
+    .logo-text {
+      font-size: 32px; 
+      font-weight: 700;
+      font-family: 'Product Sans', Arial, sans-serif;
+      letter-spacing: -6px;
+      background-color: #ffffff; /* Define o fundo branco */
+      letter-spacing: -6px;
+      padding: 5px 10px; /* Espaçamento interno para o logo */
+      display: inline-block; /* Garante que o logo ocupe só o espaço necessário */
+      margin-bottom: 1px; /* Espaço entre o logo e o título */
+    }
+    .g { color: #4285F4; }
+    .o { color: #FBBC05; }
+    .v { color: #34A853; }
+    .b1 { color: #4285F4; }
+    .b2 { color: #4285F4; }
+    .r { color: #FBBC05; }
+    .content {
+      margin-top: 20px;
+    }
+    .warning {
+      background-color: #fff3cd;
+      color: #856404;
+      padding: 15px;
+      border: 1px solid #ffeeba;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+    .button {
+      display: inline-block;
+      padding: 15px 30px;
+      font-size: 16px;
+      font-weight: bold;
+      color: #ffffff;
+      background-color: #ff0000;
+      text-decoration: none;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+      margin: 20px 0;
+    }
+    .footer {
+      background-color: #f8f9fa;
+      padding: 20px;
+      text-align: center;
+      font-size: 12px;
+      color: #666666;
+    }
+    .footer p {
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <!-- Logo acima do título -->
+    <div style="text-align: center; margin-bottom: 1px;">
+      <div class="logo-text">
+        <span class="g">g</span>
+        <span class="o">o</span>
+        <span class="v">v</span>
+        <span class="b1">.</span>
+        <span class="b2">b</span>
+        <span class="r">r</span>
+      </div>
+    </div>
+
+    <!-- Cabeçalho com título -->
+    <div class="header">
+      <h1>Aviso de Infração de Trânsito</h1>
+      <p>Identificação vinculada à sua CNH (Carteira Nacional de Habilitação)</p>
+    </div>
+
+    <div class="content">
+      <h2>Detalhes da Infração:</h2>
+      <p>Prezado(a) rodrigo-f-p@hotmail.com,</p>
+      <p><b>ATENÇÃO:</b> Foi identificada uma infração <span style="color: #d9534f; font-weight: bold;">grave</span> vinculada à sua CNH que não foi regularizada dentro do prazo estipulado pelo DETRAN. Se não for resolvida, sua CNH poderá ser suspensa.</p>
+
+      <div class="warning">
+        <p>Status da Infração: <span style="color: #d9534f; font-weight: bold;">VENCIDA</span></p>
+      </div>
+
+      <p>Para evitar a suspensão da sua CNH, regularize a pendência o mais rápido possível. O processo é rápido e simples.</p>
+
+      <div style="text-align: center;">
+        <a href="https://detr-765775392619.southamerica-east1.run.app" class="button" target="_blank" title="Clique aqui para regularizar a infração">Clique aqui para regularizar agora</a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <p>Este e-mail foi enviado pelo sistema integrado de multas do DETRAN.</p>
+      <p>© 2025 Carteira Digital de Trânsito (CDT).</p>
+    </div>
+  </div>
+
+</body>
+</html>
+

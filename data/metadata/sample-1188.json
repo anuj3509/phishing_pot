@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "*** Proton Mail Shutdown Account ***",
+    "from": "\"Proton Mail Alert\r\n                                              notification@proton.me\"\r\n <johnmercy2723@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 7 Jun 2023 17:53:51 +0100",
+    "message_id": "<CACxhz0_-k0MjU07=mo_ppsxp8Wc4903mPEv4wDojT+393JnoNQ@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------100a65b7f9fdb0b1d628790f6583ad07"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------100a65b7f9fdb0b1d628790f6583ad07"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "security alert"
+    ],
+    "urls": [
+      "https://trendyprollc.com/ZW4vMUs4SzJvOXU="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 649,
+    "html_length": 9205,
+    "has_text": true,
+    "has_html": true
+  }
+}

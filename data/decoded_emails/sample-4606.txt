@@ -1,0 +1,132 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot, ���� Weihnachtsgeschenk f��r dich: Gewinne einen LIDL Gutschein im Wert von 500���!
+From: LIDL Gutschein,(<newsletter@news.veepee.de>)
+To: phishing@pot
+Date: Tue, 24 Dec 2024 14:06:00 +0000
+Message_Id: <YHLSWZGQPVJKLQ8AU9KYO1L@my.zalando.de>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - leaadpersons.com/biz/GutscheinLidl5002.png
+  - http://topmarktingplace.com/4CfuhN41944iygR1164osobwaaxus14302PWXYFBGDFOCKLTO2DEHR17281R12
+  - https://leaadpersons.com/biz/GutscheinLidl5002.png
+  - http://topmarktingplace.com/5CuFgr41944eFDS1164yerizoorjw14302FVLKMADTZVPHONC2CNUL17281j12
+
+DECODED TEXT CONTENT:
+------------------------------
+Gewinne einen 500€ LIDL Gutschein body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5; color: #333; } .container { max-width: 600px; margin: 20px auto; background-color: #ffffff; border-radius: 10px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); } .header { background-color: #003b7a; color: #ffffff; text-align: center; padding: 30px 20px; } .header h1 { font-size: 28px; margin: 0; } .header p { font-size: 24px; margin: 10px 0 0; font-weight: bold; } .button { display: inline-block; background-color: #ffd700; color: #003b7a; text-decoration: none; padding: 15px 30px; margin-top: 20px; font-size: 18px; font-weight: bold; border-radius: 5px; transition: background-color 0.3s; } .button:hover { background-color: #ffc700; } .content { padding: 20px; text-align: center; } .content h2 { color: #003b7a; font-size: 22px; margin-bottom: 10px; } .content p { font-size: 16px; color: #555; margin: 10px 0; } .footer { background-color: #f1f1f1; text-align: center; padding: 15px; font-size: 12px; color: #888; } .footer a { color: #003b7a; text-decoration: none; } Gewinne einen 500€ LIDL Gutschein Beantworte die kurze Umfrage und sichere dir deine Chance! So funktioniert's: 1. Beantworte alle Fragen in der Umfrage. 2. Gib deine Kontaktdaten ein. 3. Gewinne mit etwas Glück einen 500€ LIDL Gutschein! JETZT MITMACHEN * Teilnahmebedingungen gelten. Nur für Teilnehmer aus Deutschland. © 2024 Lidl Promotion. Um dich abzumelden, klicke hier .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gewinne einen 500€ LIDL Gutschein</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #003b7a;
+            color: #ffffff;
+            text-align: center;
+            padding: 30px 20px;
+        }
+        .header h1 {
+            font-size: 28px;
+            margin: 0;
+        }
+        .header p {
+            font-size: 24px;
+            margin: 10px 0 0;
+            font-weight: bold;
+        }
+        .button {
+            display: inline-block;
+            background-color: #ffd700;
+            color: #003b7a;
+            text-decoration: none;
+            padding: 15px 30px;
+            margin-top: 20px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .button:hover {
+            background-color: #ffc700;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .content h2 {
+            color: #003b7a;
+            font-size: 22px;
+            margin-bottom: 10px;
+        }
+        .content p {
+            font-size: 16px;
+            color: #555;
+            margin: 10px 0;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 15px;
+            font-size: 12px;
+            color: #888;
+        }
+        .footer a {
+            color: #003b7a;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Gewinne einen 500€ LIDL Gutschein</h1>
+            <p>Beantworte die kurze Umfrage und sichere dir deine Chance!</p>
+        </div>
+        <center><img src="https://leaadpersons.com/biz/GutscheinLidl5002.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="500"></center><center><img src="//leaadpersons.com/biz/GutscheinLidl5002.png" style="display:block;outline:none;text-decoration:none;height:auto;font-size:13px;width:100%;" width="500"></center>
+        <div class="content">
+            <h2>So funktioniert's:</h2>
+            <p>1. Beantworte alle Fragen in der Umfrage.</p>
+            <p>2. Gib deine Kontaktdaten ein.</p>
+            <p>3. Gewinne mit etwas Glück einen 500€ LIDL Gutschein!</p>
+            <a href="http://topmarktingplace.com/4CfuhN41944iygR1164osobwaaxus14302PWXYFBGDFOCKLTO2DEHR17281R12" class="button">JETZT MITMACHEN</a>
+        </div>
+        <div class="footer">
+            <p>* Teilnahmebedingungen gelten. Nur für Teilnehmer aus Deutschland.<br>
+               © 2024 Lidl Promotion.<br>
+               Um dich abzumelden, <a href="http://topmarktingplace.com/5CuFgr41944eFDS1164yerizoorjw14302FVLKMADTZVPHONC2CNUL17281j12">klicke hier</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
+

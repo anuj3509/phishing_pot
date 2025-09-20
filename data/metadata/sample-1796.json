@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Jetzt haben Sie die Chance einen ���2000 TUI-Gutschein zugewinnen!",
+    "from": "Ihr Reise Team , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 06 Nov 2023 03:30:16 +0100",
+    "message_id": "<ExfoOrf.79046.074.XQO@jhnsfourhgroup.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://jhnsfourhgroup.com/dff7e725fe4d80b.jpg",
+      "http://jhnsfourhgroup.com/NWo1TEdkZ3AwYkJjdGhzd1lsNkJwSUtFVzZLdE50OThhU3hsWDhDVXE1ZFJMSXJmcDlSV1Yrb0doVkdwbjNFK1UvbEpVMnk3Smd4WVBibmxXb0t3bHc9PQ__",
+      "http://jhnsfourhgroup.com/WlFBOUczVkwzSzQ1a1hGWXpzcXZEMGtFL2d5cmdMdE1HSVdJRVExMHltRzZ5ZGU0WWgvTGswUERCUWxYSVNGQy8vdSt5TTIrdnFoRnBnQzNXRjludWh0cEROSWg3S0w1MzBLa3pKWVk1QjA9",
+      "https://trk2.de/3pevw7u5",
+      "http://jhnsfourhgroup.com/ba7d25b4fab6f3b.png",
+      "https://jooon-track.com/?a=6031&amp;oc=18016&amp;c=49049&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 556,
+    "html_length": 7322,
+    "has_text": true,
+    "has_html": true
+  }
+}

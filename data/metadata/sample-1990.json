@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Scheduled claim information Id:0926197",
+    "from": "CelsiusNetwork LLC Restructuring <restructuring@animaker.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 22 Nov 2023 14:30:51 +0000",
+    "message_id": "<0102018bf770deee-537f516d-7a41-4e2c-a4af-2d782002af85-000000@eu-west-1.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://viajesmivic.com/f/",
+      "https://www.swheritage.org.uk/devon-archives",
+      "help.celsius.network.",
+      "metoffice.gov.uk",
+      "https://support.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4531,
+    "html_length": 8733,
+    "has_text": true,
+    "has_html": true
+  }
+}

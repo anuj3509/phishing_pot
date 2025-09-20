@@ -1,0 +1,63 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: your parcel has been shipment
+From: <Confirnation@skyfon-varna.eu-NEW>
+To: phishing@pot
+Date: Fri, 22 Dec 2023 17:32:04 +0000 (UTC)
+Message_Id: <20231222173204.208978CC6C@skyfon-varna.eu-NEW>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://s.id/1Z4GK
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear Customer, We're sorry to let you know that your package which arrived on 20/24/2023 will be sent back. This may happen when the receiver's address is incorrect. To submit a redelivery for this package&nbsp; Review Your Package &nbsp; hat if a redelivery is not scheduled within 48 hours, you can't submit a redelivery again. The shipping and handling fees will not be refunded.. Privacy Operations Sincerely, Package Team
+
+DECODED HTML CONTENT:
+------------------------------
+<!-- 
+ Here we go some texte here to fuck security 165760e088f76be729a18658d17d93fa 
+ what do you think about itdfdcd593f09ffb4c533a50b15a82894b
+ --><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>Dear Customer,<br>We're sorry to let you know that your package which arrived on 20/24/2023 will be sent back.</p>
+<p>This may happen when the receiver's address is incorrect. To submit a redelivery for this package&nbsp;</p>
+<table class="x_module" style="height: 22px; width: 100%;" role="module" border="0" width="100%" cellspacing="0" cellpadding="0" data-role="module-button" data-type="button" data-muid="2541b755-1f0e-41b6-9c51-3f3a523ead0a">
+<tbody>
+<tr style="height: 22px;">
+<td class="x_outer-td" style="height: 22px;" align="center">
+<table class="x_wrapper-mobile" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="x_inner-td" align="center" bgcolor="#117aca"><a href="https://s.id/1Z4GK"><span style="color: #000000; background-color: #ffffff;">Review Your Package</span></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="x_module" role="module" border="0" width="100%" cellspacing="0" cellpadding="0" data-type="text" data-muid="85cc2934-9a13-4a30-8133-2a83a66d25fb" data-mc-module-version="2019-10-22">
+<tbody>
+<tr>
+<td role="module-content" valign="top" height="100%">
+<div>
+<div>&nbsp;</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>hat if a redelivery is not scheduled within 48 hours, you can't submit a redelivery again. The shipping and handling fees will not be refunded..<br>Privacy Operations</p>
+<p>Sincerely,<br>Package Team</p>
+

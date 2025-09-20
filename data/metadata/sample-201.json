@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "RE (2): You have a pending transaction !",
+    "from": "TrustWallet <noreply@medicomarketing.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Dec 2022 21:23:48 +0000",
+    "message_id": "<010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000@email.amazonses.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://img.myshopline.com/image/store/2003906387/1671930442726/9b7b9cb8065a449e94f904baa348d279.png?w=500&amp;h=250",
+      "p.disclaimer,",
+      "p.disclaimer",
+      "https://v8lsv193.r.us-east-1.awstrack.me/I0/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/eLxCUjLgUAPX8H7b8SsSfbefY0Q=302",
+      "p.disclaimer{",
+      "p.footer",
+      "https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Foyoshopbuisness.webshopapp.com%2Finfox/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/OP6tJxRDRlDwFjlhKioEGx2vq9k=302",
+      "https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Fapi.medicomarketing.com.br%2Fv2%2Fmarketing%2Fmailer-callback%3Ftoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU3M2NiNWJjLWVjYzctNGE4OC1hZGE5LTY2M2Q1Mzg2ZmJjYSIsImNsaW5pY0lkIjoyNjMxNDcsImlzVGVzdCI6dHJ1ZSwiaWF0IjoxNjcyMjYyNjI4fQ.tOknpJOOh-Q0DS9SNiBJUiceaMHB5L1zJzx0iWSAvog%26action=unsubscribe%26recipient=rodrigo-f-p%2540hotmail.com/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/Ray_j-yWBbH_AI6YdW9J6fDvHdg=302"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2131,
+    "html_length": 6968,
+    "has_text": true,
+    "has_html": true
+  }
+}

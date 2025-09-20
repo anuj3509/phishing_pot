@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "We willen u bedanken!",
+    "from": "Klantenservice <contact@fermcw.centobox22.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 24 Feb 2025 16:39:50 +0000",
+    "message_id": "<170158829138010.2.KUQ9534336595@fermcw.centobox22.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://t.co/q0CVEAaPyE",
+      "zupimages.net/up/25/05/blte.png",
+      "zupimages.net/up/25/06/ljc3.png",
+      "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+      "https://zupimages.net/up/25/06/ljc3.png",
+      "https://zupimages.net/up/25/05/blte.png",
+      "zupimages.net/up/25/08/nz5n.png",
+      "https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0",
+      "http://www.w3.org/1999/xhtml",
+      "https://hnerta.dondomatos.online/opt-out/t/6WrzSv0VeIN3ekqeukwdby0GVEWWOLHNBTNBGY0NXMR353959e0",
+      "https://zupimages.net/up/25/08/nz5n.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2257,
+    "html_length": 25938,
+    "has_text": true,
+    "has_html": true
+  }
+}

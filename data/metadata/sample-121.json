@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Ik hoop dat je die foto's leuk vindt: (8 foto's), (10 video's)..",
+    "from": "Stefanie <mYMsMVCL@r.medium-cartomancy.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 21 Nov 2022 16:26:39 +0000",
+    "message_id": "<0.0.0.0.1D8FDC6086249C6.592E@lisinoprilstore.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://lisinoprilstore.com/unsub?m=6IyHX94A%2FYpihWsZXSQvL3j34lwnjvOczmP40WVSWaI5jygciKF5AQlBCs0sfNPwS9HTCcHDQCAioDI9GDGzWJCIg0DlTYLWUoPd1d4M9MK7gYkU6YnkkeWnfH5jQpjk",
+      "td.mcnTextContent,td.mcnBoxedTextContentContainer",
+      "a.mcnButton{",
+      "http://www.w3.org/1999/xhtml",
+      "td.mcnTextContent,td#templateHeader",
+      "td.mcnTextContent",
+      "http://ukbusinessconsulting.com/t?u72GzVXewB1A=4gzvyVIC8vZ%2B9PBhhgM%2BY1HSdOVlEn1L6ylwAZX02lOXP9R9GIHBx6gzkZ%2F%2B1Fu1foF7CqCbHnuigNdr6VVWWdnqxoS1vB8eUe8NY0AuFFNkpUyfXmD8kChf4KrQZqRvvK3G8OLm1tj0cZHeu8inONgr3mCKjZ9BA1TfKjuqdZv2t%2BQOAU7%2FYtMcXXOvQLGzA4alsNS7ZE07O2KXoz5d1JZN3WvP%2FC877R8tJ2GWplYz1lZfZee9ibj7tbatRZ4gXQvw%2FvnFhVTyYRkWjxmTOG8h0QW83l89PYku6VxY2lL2dcEbCBPRRUIsiunLzmvu1ev0VSXg95dzKOih57IIqTyaQMqvv6hicWS0ViZYFM9D3m1RAzjHqxvT8v5r6myX",
+      "table.mcnBoxedTextContentContainer",
+      "td.mcnTextContent,td#templateFooter",
+      "td.mcnTextContent,td#templateBody"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 11706,
+    "html_length": 23094,
+    "has_text": true,
+    "has_html": true
+  }
+}

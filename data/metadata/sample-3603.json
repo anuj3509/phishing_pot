@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Herzliche Gl��ckw��nsche! Sie wurden ausgew��hlt!",
+    "from": "Nachricht von T-Online, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Aug 2024 14:59:25 +0000",
+    "message_id": "<CS7hv0X.0.0.CS7hv0X.9.CS7hv0X@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/37/blca.png",
+      "https://www.zupimages.net/up/24/23/v30x.png",
+      "https://www.zupimages.net/up/23/37/blca.png",
+      "http://sklj.info/[optout]",
+      "bgasdfasdfa.jpg",
+      "http://sklj.info/[open]",
+      "https://wear-prodct.com/?a=8256&amp;oc=21066&amp;c=56280&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/23/v30x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5188,
+    "html_length": 12560,
+    "has_text": true,
+    "has_html": true
+  }
+}

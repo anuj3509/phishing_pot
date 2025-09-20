@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Federal Bureau Of Investigation FBI. Washington, D.C.",
+    "from": "\"FBI.OFFICE\"<fbi.gov@myglnc.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Sat, 1 Feb 2025 22:08:36 -0000",
+    "message_id": "<9377bd84-b38c-44b3-a724-d43016f37e33@CY4PEPF0000E9CD.namprd03.prod.outlook.com>",
+    "content_type": "text/plain;\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "jerome.hpowell@usa.com",
+      "FBI.OFFICE",
+      "www.federalreserve.gov"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1357,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

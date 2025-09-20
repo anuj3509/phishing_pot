@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificação Oficial: Irregularidade fiscal detectada em seu CPF. Protocolo: 32605364.",
+    "from": "Receita Federal Comunica <infracao072384@receitafederal>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 28 Apr 2025 12:37:36 +0000",
+    "message_id": "<740dbf088b8962eac72a6852dd16b727@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_740dbf088b8962eac72a6852dd16b727\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_740dbf088b8962eac72a6852dd16b727\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://corre-765775392619.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3382,
+    "has_text": true,
+    "has_html": true
+  }
+}

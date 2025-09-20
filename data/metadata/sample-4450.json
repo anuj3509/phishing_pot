@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Spray-X wirkt schneller als andere Aphrodisiaka!",
+    "from": "DIE Lösung! Endlich!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Nov 2024 13:20:46 +0100",
+    "message_id": "<f4Ns2Gs.0.0.f4Ns2Gs.9.f4Ns2Gs@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://emailmarcomms.com/?a=3143&amp;oc=22356&amp;c=59045&amp;m=3&amp;s1=",
+      "i.goopics.net/mwo3j2.png",
+      ".block-4.button_block",
+      "https://rebrand.ly/6enlidh#oop/21846_md/1/5341/805/63/160880",
+      "http://ultrawave.net/5bf462897a3b3c6.png",
+      "https://i.goopics.net/mwo3j2.png",
+      ".block-1.image_block",
+      "i.goopics.net/fiw08f.png",
+      "https://INSERT_PROMO_LINK_HERE.com",
+      "https://i.goopics.net/fiw08f.png",
+      "td.pad"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1484,
+    "html_length": 9801,
+    "has_text": true,
+    "has_html": true
+  }
+}

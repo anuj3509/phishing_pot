@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Score released: 💳 +$349 date 2024.01.16 time 11:30 ",
+    "from": "a68851857@gmail.com",
+    "to": "phishing@pot",
+    "date": "Wed, 17 Jan 2024 10:32:45 +0000",
+    "message_id": "<autogen-java-d3f8be66-778a-4197-b3e7-01d141a3e585@google.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000007c22af060f21c4b0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000007c22af060f21c4b0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/u/0/d/e/1FAIpQLSdet8W1x8Xucf-GECR71wPeaf9_HeIi2nPyIvfJoQ0f43Af3w/viewscore?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;viewscore=AE0zAgBnU9DBVI77TaBv1r-CkCSag07FGlW52bSIFObTekm3tKO9iI9kw2bwunHTFoIbMwQ",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 991,
+    "html_length": 3562,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "-Erhalten Sie von 500 EUR bis 10.000 EUR",
+    "from": "creditron, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Oct 2023 12:11:44 +0200",
+    "message_id": "<x1ty8ls.qh4qc.hmt.hmt@hhpbqzmyfwgudjr.slk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/41/s5xp.png",
+      "http://revision-online.info/cl/2896_md/140695/573/797/35/462092",
+      "http://revision-online.info/oop/2896_md/140695/573/797/35/462092",
+      "http://revision-online.info/op/2896_md/140695/573/797/35/462092",
+      "DvjGoVe.03426.761.lNlDvjGoVe",
+      "https://www.zupimages.net/up/23/41/s5xp.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 279,
+    "html_length": 1102,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Oct 2023 20:11:43 +0200",
+    "message_id": "\r\n <bc3fd247-ad4c-4b56-8377-5d7eb289c267@MN1PEPF0000ECD5.namprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/cl/788_md/31/4/36/23/2459859",
+      "http://easilett.com/media/9542d7c9993f20a.jpg",
+      "http://easilett.com/oop/788_md/31/4/36/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5957,
+    "html_length": 12496,
+    "has_text": true,
+    "has_html": true
+  }
+}

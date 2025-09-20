@@ -1,0 +1,44 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Thank you for subscribing to Via Trading
+From: VIA Trading Team <groupm@viatrading.com>
+To: phishing@pot
+Date: Sat, 16 Dec 2023 01:56:35 +0530
+Message_Id: <waebcd17026659613065927@viatrading.com>
+Content_Type: multipart/alternative; boundary="_----------=_170267195298421632"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: binary
+content_type: multipart/alternative; boundary="_----------=_170267195298421632"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://delivery.viatrading.com/VMDHWG?id=88667=eRgGCAANA1AGS0MZExNCRBAYF0USEkUWRUITGRkZQkUWRBYYGBUVRhEXQxkTE0JEEAhLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==
+  - http://delivery.viatrading.com/VMDHWG?id=88667=dRgGCAANA1AGS1sJCwZQXQYJVFwEU1wPV1EKXQhdV1EBBgELXFBRBFNWVA4BC1RdVlpLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==&amp;fl=XhBCSAIaGhFGQE1PWlIWFlFcXgtVHAZZCE1BXF5QERFTFhhSUEFY
+  - https://forms.yandex.com/cloud/657cb5ef73cee71aef63602d/?jiihshhnr.
+
+DECODED TEXT CONTENT:
+------------------------------
+
+					Hi ✅   +$1,733 ➡️ https://forms.yandex.com/cloud/657cb5ef73cee71aef63602d/?jiihshhnr.
+					Thank you for subscribing to our mailing list
+					Please click here to Register in full and gain access to manifests, online quotes & more.
+					 
+					Via Trading Team
+				
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>Hi ✅   +$1,733 ➡️ https://forms.yandex.com/cloud/657cb5ef73cee71aef63602d/?jiihshhnr.</p>
+					<p>Thank you for subscribing to our mailing list</p>
+					<p>Please <a href="http://delivery.viatrading.com/VMDHWG?id=88667=dRgGCAANA1AGS1sJCwZQXQYJVFwEU1wPV1EKXQhdV1EBBgELXFBRBFNWVA4BC1RdVlpLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==&amp;fl=XhBCSAIaGhFGQE1PWlIWFlFcXgtVHAZZCE1BXF5QERFTFhhSUEFY">click here</a> to Register in full and gain access to manifests, online quotes &amp; more.</p>
+					<p>&nbsp;</p>
+					<p>Via Trading Team</p>
+				<img src="http://delivery.viatrading.com/VMDHWG?id=88667=eRgGCAANA1AGS0MZExNCRBAYF0USEkUWRUITGRkZQkUWRBYYGBUVRhEXQxkTE0JEEAhLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==" alt="">

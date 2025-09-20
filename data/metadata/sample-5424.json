@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "[Spam][!!Spam]RE:ATTN Beneficiary!!!.......",
+    "from": "Kristalina Georgieva",
+    "to": "Undisclosed recipients:;",
+    "date": "Sat, 26 Apr 2025 11:44:53 -0700",
+    "message_id": "<5862ca78-2107-4d7c-b401-1b870d7553d7@SRVShPSNPOST.sn.post>",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5217,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Milka-Paket mit deiner Lieblingsschokolade ��� Genuss pur!",
+    "from": "Milka-Paket <phishing@pot>, Milka-Paket <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 2 Mar 2025 17:38:59 +0100",
+    "message_id": "<yaxZQms.0.0.yaxZQms.9.yaxZQms@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.icons-inner",
+      "https://www.zupimages.net/up/25/09/7nt9.jpg",
+      "http://clientassistance.de/V1ZSS2hnNElNS0J5T0laU0Y1WkxDWFI3aGM2dWJPcmVIRTN1cFY2THRIZ3lVQk82UkVMck11WkMrdUFvZHAwbk9rSEgxRE41MkhuVE1sQVM2Q0hJdHc9PQ__",
+      "http://getclients.us/V25xTUdwSWcwYXhBRzIzdmliUjJFWEdYc216R3BYL1lOTTg3UCtxWUFOMWtsaStndzRQUVFFbUpZa0E4Zy9pcThjOGRHbEQ0Y1FBQWlNd0ZkSUIyQkE9PQ__",
+      "www.zupimages.net/up/25/09/7nt9.jpg",
+      "https://lifeinsureand.com/?a=7790&amp;oc=23135&amp;c=60810&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1748,
+    "html_length": 10661,
+    "has_text": true,
+    "has_html": true
+  }
+}

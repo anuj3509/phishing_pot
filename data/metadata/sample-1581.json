@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "500��� EDEKA-Gutschein erhalten",
+    "from": "EDEKA-Gutschein, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Oct 2023 11:17:11 +0200",
+    "message_id": "\r\n <2b00d089-9846-4bdd-ba3e-f10ec21a5f5d@BN8NAM04FT053.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://104.194.232.184/cl/913_md/31/68/23/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://104.194.232.184/oop/913_md/31/68/23/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://104.194.232.184/media/e2db76b5330a5b9.jpg",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6164,
+    "html_length": 12932,
+    "has_text": true,
+    "has_html": true
+  }
+}

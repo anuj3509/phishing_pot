@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Score released: 💷 +$256 date 2024.01.15 time 02:15 ",
+    "from": "onhakalij@gmail.com",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Jan 2024 01:17:37 +0000",
+    "message_id": "<autogen-java-21cc0533-2e7f-4cb0-a003-5242163ed234@google.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000005bdea1060f05e582\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000005bdea1060f05e582\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/u/0/d/e/1FAIpQLScl8Oo8IJkzhSllKsfn9w1CYx3NUoEa1cWqGVTu_rLZy_WQcA/viewscore?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;viewscore=AE0zAgCNcAiSAKEt7-ZSEbg47sqWGprW6X6Gx7nXegv2OhFApLXWyZwLYYBYFA25cWEi_iI",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 961,
+    "html_length": 3532,
+    "has_text": true,
+    "has_html": true
+  }
+}

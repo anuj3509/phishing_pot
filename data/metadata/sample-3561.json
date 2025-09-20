@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "<support@bridgensa.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jul 2024 16:25:25 +0000",
+    "message_id": "\r\n <4f16bbe7-457c-41ae-ae1f-9c2a54187c2d@CY4PEPF0000EE30.namprd05.prod.outlook.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.t6wer.pw",
+      "https://t6wer.top",
+      "www.t6wer.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 108,
+    "html_length": 2853,
+    "has_text": true,
+    "has_html": true
+  }
+}

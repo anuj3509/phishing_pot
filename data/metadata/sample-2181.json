@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Confirm your email",
+    "from": "Gemography Team <jobs@gemography.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Dec 2023 16:50:35 +0000 (UTC)",
+    "message_id": "<nvJvtGNuQcmabVGzC2NKEg@geopod-ismtpd-4>",
+    "content_type": "multipart/alternative; boundary=1b100ab47a50cb3a2cb013d8cd923e44dcc26823088eb12e92b48cdeb79c"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=1b100ab47a50cb3a2cb013d8cd923e44dcc26823088eb12e92b48cdeb79c"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://forms.yandex.com/cloud/6578893743f74f42d1c6421e/?j04mua1j,",
+      "table.wrapper-mobile",
+      "https://app.gemography.com/verify?code=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InJvZHJpZ28tZi1wQGhvdG1haWwuY29tIiwiZW1haWxWZXJpZmljYXRpb25Db2RlIjoiNDA2YmVlNjktNzg3YS00MTRiLWI2MjUtNDQwMWUwNTJhNDY4IiwiZXhwaXJlc0F0IjoiMjAyMy0xMi0xOVQxNjo1MDozNC44MDBaIiwiaWF0IjoxNzAyMzk5ODM0fQ.x83tVAU3tVkV1n-C9rS-991ReTF46BRaPtqF8fZOrrM",
+      ".column.of-3",
+      "http://www.w3.org/1999/xhtml",
+      "table.wrapper",
+      ".column.of-4",
+      "a.bulletproof-button",
+      "img.max-width",
+      "http://url4111.gemography.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkBRaOzfE7F8CYKPKCZV-2Fm0mMFrFRBpMZpYB-2Bv-2FFT70k-2FBV3BojRO4sirWwd3HnufgkeCqUPYan0eaQgBYtMMTpVPOmrUGNOb3jzBlru4QMo3kDnKO7mXBmrBHiNeqpJRmnbLH3y1y8E8Krlnp919Vv",
+      ".column.of-2",
+      "http://url4111.gemography.com/wf/unsubscribe?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8wXZV3MyXdejChMD7Dq4wGt-2FvM7LNcaeP004haTzFJgBp-2BvgWD3dYS3AagXyE8b6SBAXwaMtn-2FVT-2BIqUdaP1LBRGXhEzE9N-2FD7n2aOaMD85gnD-2F-2Fpab1ToJ6abOd-2FK-2BFLhA-2BK31lKaBjdH-2Bujn1dCM19uieHf-2FoTLEb94X5ky1yrHjJDl-2F5-2FamXrxupz1VIYkV-2B0K8aypG6c6FuGz-2Bxw72kOaRSoWR5-2F3sTj5fA1LJvOGD-2BWpLyb9NycIFeUFlkPhJKpyZ6CziJEPUPy235dcDYa6uZJyU-2BrIVNmRq5BV3Q3a6oV1OZ1K-2F-2F2JS-2Bl8XQcuSIUvrACq445cQ9itU3Jw8VHSm8-2BLc3owpK2uryHuHVg-3D-3D",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 649,
+    "html_length": 11276,
+    "has_text": true,
+    "has_html": true
+  }
+}

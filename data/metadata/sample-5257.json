@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 8700405803",
+    "from": "Mercado Pago <mercadopago@atendimento.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 1 Apr 2025 14:10:00 +0000",
+    "message_id": "<20250401141000.E64EB3F834@vmgo651778xxxvcpfmxysqd.openstacklocal>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://verifique.valid-count.co.ua/veri/?atendimento=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 517,
+    "html_length": 2502,
+    "has_text": true,
+    "has_html": true
+  }
+}

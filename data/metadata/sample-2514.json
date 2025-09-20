@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "phishing@pot - Voici votre chance de gagner une r��compense",
+    "from": "Message de Sephora, <tele_loisirs@ml.tv-news.fr>",
+    "to": "phishing@pot",
+    "date": "Fri, 05 Jan 2024 15:41:20 +0100",
+    "message_id": "<XFtwYjl.0.0.XFtwYjl.9.XFtwYjl@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://theowensfamily.info/d3J1OXNoRjJiVktxVzlQQW4rZTdSRFA1TExUaktrTUQ5UStQQ3lBL1NEL1JaVk5lV0NNUWNTQWtmeGdnc3FZMHJ0L3VJdUg4Vmo1OVVQTzRLdDVlOEF3RmJLKzkralhCaXdmanE2N0tqcmc9",
+      "gZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIr-gZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIr",
+      "https://www.zupimages.net/up/23/52/vqq6.png",
+      "gZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIrgZmwLqf.54001.311.oIr-gZmwLqf.54001.114065",
+      "https://www.zupimages.net/up/23/51/166r.png",
+      "www.zupimages.net/up/23/52/vqq6.png",
+      "www.zupimages.net/up/23/51/166r.png",
+      "bgasdfasdfa.jpg",
+      "http://tupperwareset.theowensfamily.info/MjVsLzdkcWpWZ3J1cDdlU2hsVkJXckR0eUZ4OVFWRTJlWTk3TkNqbW44dVFBeXo5V084citDYU1rWlVUVEtZSkJkaUFhT1VyVlpmMUhZc3BHNEFMajlWd2xRcGd4U3JXeXAwMGJ5cmQzMU09",
+      "https://fnnl-check.com/?a=6073&amp;oc=18770&amp;c=50823&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5419,
+    "html_length": 9592,
+    "has_text": true,
+    "has_html": true
+  }
+}

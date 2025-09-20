@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Order Confirmation",
+    "from": "\"Your Order #2548574\" <garikhosea@gmail.com>",
+    "to": "\"Dear Customer\" <phishing@pot>",
+    "date": "Fri, 8 Dec 2023 22:12:17 +0200",
+    "message_id": "<040fca2a-45268-07ba9258377662@desktop-mv450rp>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Oswald"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1288,
+    "html_length": 27198,
+    "has_text": true,
+    "has_html": true
+  }
+}

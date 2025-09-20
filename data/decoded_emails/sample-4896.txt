@@ -1,0 +1,122 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Boleto Vencendo Hoje RODRIGO FERREIRA
+From: contato@popvespamotosuzuki.cfd
+To: phishing@pot
+Date: Sun,  2 Feb 2025 13:32:45 -0300 (-03)
+Message_Id: <20250202163245.4AC67E812CE@box.popvespamotosuzuki.cfd>
+Content_Type: multipart/alternative; boundary="boundary123"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="boundary123"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://239.125.168.184.host.secureserver.net/phishing@pot/45626153000187
+
+DECODED TEXT CONTENT:
+------------------------------
+.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cobrança</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #ffffff;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        .field {
+            margin: 10px 0;
+        }
+        .label {
+            font-weight: bold;
+        }
+        .value {
+            display: block;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: #f1f1f1;
+        }
+        .button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            border: none;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        .button:hover {
+            background-color: #45a049;
+        }
+        .note {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 12px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Detalhes da Cobrança</h1>
+
+        <div class="field">
+            <span class="label">CNPJ:</span>
+            <span class="value">45.626.153/0001-87</span>
+        </div>
+
+        <div class="field">
+            <span class="label">Razão Social:</span>
+            <span class="value">RODRIGO FERREIRA PEIXOTO phishing@pot86868696</span>
+        </div>
+
+        <div class="field">
+            <span class="label">Endereço:</span>
+            <span class="value">RUA TEOFILO ANDRADE 321- CASA CASA DOS FUNDOS.</span>
+        </div>
+
+        <div class="field">
+            <span class="label">Bairro:</span>
+            <span class="value">CENTRO</span>
+        </div>
+
+        <a href="https://239.125.168.184.host.secureserver.net/phishing@pot/45626153000187" class="button" download="">Baixar Segunda Via do Boleto</a>
+
+        <p class="note">Observação:Tentamos contato pelo telefone +5531983216724 e nao tivemos resposta. O boleto está vencido desde 24/01/2025.</p>
+    </div>
+
+</body>
+</html>
+

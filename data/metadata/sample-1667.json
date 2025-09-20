@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Exciting News! You've Earned a $TIP Coins Airdrop. #WR5M",
+    "from": "Tipcoin Support & Rewards <RS5Q@valentinlopez.es>",
+    "to": "undisclosed-recipients:;",
+    "date": "Thu, 26 Oct 2023 08:38:58 +0200",
+    "message_id": "<9e9715ddda5fca73c2dd2f7a98cc2c17@valentinlopez.es>",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_15628ee32e9a043a892674816e56f398\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_15628ee32e9a043a892674816e56f398\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.apple.com/legal/itunes/no/terms.html#SALES",
+      "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/accountSummary?mt=8",
+      "http://www.apple.com/uk/support/itunes/contact/",
+      "http://support.apple.com/kb/HT207233",
+      "http://www.apple.com/legal/internet-services/itunes/no/rightofwithdrawal-no.pdf",
+      "https://thetipcoin.com",
+      "https://support.apple.com/en-gb/billing?cid=email_receipt",
+      "https://finance-app.itunes.apple.com/account/subscriptions?unsupportedRedirectUrl=https://apps.apple.com/NO/invoice",
+      "https://www.apple.com/no/legal/",
+      "https://support.apple.com/kb/HT204030?cid=email_receipt_itunes_article_HT204030",
+      "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/reportAProblem?a=6448611607&amp;cc=no&amp;d=16818758362&amp;o=i&amp;p=78055544336139&amp;pli=78076168513923&amp;s=1",
+      "https://www.apple.com/no/privacy/",
+      "https://urlz.fr/o9xb",
+      "https://s.mzstatic.com/email/images_shared/logo_apple_small_d-2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2936,
+    "html_length": 12291,
+    "has_text": true,
+    "has_html": true
+  }
+}

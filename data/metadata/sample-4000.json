@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <notificacoes@telemensagemtitanicdoamor.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 9 Sep 2024 17:12:59 -0700",
+    "message_id": "<87bc8b20c370868daa90d9728d795257bbdabc@telemensagemtitanicdoamor.com.br>",
+    "content_type": "multipart/alternative; boundary=\"a2763f830018323d8e246dcd09cce8209c0a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"a2763f830018323d8e246dcd09cce8209c0a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057_copy%26googlePIDR=phishing@pot%26id_list=SvlrvPmxnSvwXPMvvMOwOplZxwymvo",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057_copy%26googlePIDR=phishing@pot@hotmail.com%26id_list=SvlrvPmxnSvwXPMvvMOwOplZxwymvo",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=test.i-cosysteme.com/group/templates/auth/login.php?click=m_news_0057%26googlePIDR=phishing@pot%26id_list=yLLMrkryvNmlnWzXntPukPUUZOt"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1056,
+    "html_length": 5208,
+    "has_text": true,
+    "has_html": true
+  }
+}

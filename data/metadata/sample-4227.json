@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Be Part of the Scroll Ecosystem – Claim Your SCR",
+    "from": "Scroll Team <support@scrol.io>",
+    "to": "phishing@pot",
+    "date": "Fri, 25 Oct 2024 10:31:05 +0000 (UTC)",
+    "message_id": "<20241025103105.3EFF26B248993787@scrol.io>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://u9407390.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoX9B5aJ833zRz4G646QdUQKDgPRVgSKC7wwryZudAVVQ1GWUqTFKbu22kUem5-2F7TOauxHq7-2FCTfiSt5w9JIQ-2B89GdDGQxCG-2Fh5Vxdh3sQdPzlOUGvSSMw8Lt8zgmZ08FeU020cheRCQQcxYH6jvBmTVcu1-2BGAggjkIHOdiPjCx19TYBozhCrRCvt1paYQ-2BxasA-3D",
+      "https://u9407390.ct.sendgrid.net/ls/click?upn=u001.Uch9HOsun2gN4G13-2BdaVo-2FiqxwJ2FOnw8VPg76PLY-2B9-2FXsQ1JWh6JRS4gt7MzPg2D420Qc5yPmwA6gw1cqMVBo9JyBEyCUMcyg66Ou90l8A-3DJ8sH_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdctpM2T8kMNrWz5KeJ6g1MMLs-2F-2FgmBTGSKZCH94NxRwrQ4qd2Vltxh4nP68K7hPjKeergSoDjsNrYHLnW-2BewCaSqCrTDeYnLyW9qLws-2B7yFNx8UGAemK4V7GlBD8qf5KKfbqXTscXae-2FZdhCdTPHQH9KpOenljQRQywiP0zLryDf2F2nFFc-2BvsWA77hKYDy4UBA-3D",
+      "https://scrollportal.s3.us-east-1.amazonaws.com/scrolllogo.png",
+      "https://u9407390.ct.sendgrid.net/ls/click?upn=u001.Uch9HOsun2gN4G13-2BdaVo-2FiqxwJ2FOnw8VPg76PLY-2B9-2FXsQ1JWh6JRS4gt7MzPg2D420Qc5yPmwA6gw1cqMVBo9JyBEyCUMcyg66Ou90l8A-3DjPFh_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdctpM2T8kMNrWz5KeJ6g1MMLs-2F-2FgmBTGSKZCH94NxRwrQ7vDBY6n91qo7ZsOEPcyGQnyPeTvZe8TchYK-2BH0lN4GxlmAzP6RJMGElyAT65ZbOB-2BV-2F-2FMzxTqjrgc4Uu4MucxvOQ1rsKOqlIUhQn8kKspQhYNmd57ydNf7T-2FEG5pGPcMcDsaW6EzHtTP6Dp3BhHktU-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1589,
+    "html_length": 7152,
+    "has_text": true,
+    "has_html": true
+  }
+}

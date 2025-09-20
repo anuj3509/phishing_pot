@@ -1,0 +1,142 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Atenção, rodrigo-f-p! Aviso urgente: Irregularidade cadastral detectada. Bloqueio de serviços em andamento. Protocolo: 01032641.
+From: Central Receita Federal <info@regularizareceita704249>
+To: <phishing@pot>
+Date: Sat, 23 Aug 2025 16:27:02 +0000
+Message_Id: <ede9f73d03ffe7d14eac21b3ddb17ddb@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_ede9f73d03ffe7d14eac21b3ddb17ddb"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_ede9f73d03ffe7d14eac21b3ddb17ddb"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://alertarct-431107602190.southamerica-east1.run.app/
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="x-apple-disable-message-reformatting">
+  <title>Notificação de CPF</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f4f6f9; font-family: Arial, sans-serif;">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f4f6f9;">
+    <tr>
+      <td style="padding: 20px 0;">
+        <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="max-width: 650px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
+          
+          <!-- Header -->
+          <tr>
+            <td style="background-color: #002776; color: white; padding: 20px; text-align: center;">
+              <div style="font-size: 28px; font-weight: bold; letter-spacing: 1px; margin-bottom: 8px;">
+                <span style="color: #0052CC;">g</span><span style="color: #FFD700;">o</span><span style="color: #00D024;">v</span><span style="color: #0052CC;">.</span><span style="color: #0052CC;">b</span><span style="color: #FFD700;">r</span>
+              </div>
+              <div style="font-size: 14px; color: white; margin: 5px 0; font-weight: bold;">MINISTÉRIO DA FAZENDA</div>
+              <div style="font-size: 14px; color: white; margin: 5px 0; font-weight: bold;">RECEITA FEDERAL</div>
+              <div style="font-size: 18px; color: white; margin: 8px 0; font-weight: bold; letter-spacing: 1px;">NOTIFICAÇÃO OFICIAL</div>
+              <div style="font-size: 12px; color: #ccc; margin: 5px 0 0;">Sistema de Administração Tributária Nacional</div>
+            </td>
+          </tr>
+
+          <!-- Sub Header -->
+          <tr>
+            <td style="background-color: #e6ecf3; color: #002776; font-weight: bold; font-size: 16px; text-align: center; padding: 12px;">
+              IRREGULARIDADE DETECTADA NO CPF
+            </td>
+          </tr>
+
+          <!-- Content -->
+          <tr>
+            <td style="padding: 30px 25px;">
+              <h2 style="font-size: 18px; color: #002776; margin-bottom: 10px; border-bottom: 1px solid #ddd; padding-bottom: 4px;">Informação de Irregularidade</h2>
+              
+              <p style="margin: 15px 0; line-height: 1.5;">Prezado(a) <strong>rodrigo-f-p@hotmail.com</strong>,</p>
+              <p style="margin: 15px 0; line-height: 1.5;">Informamos que foi detectada uma <strong>irregularidade fiscal</strong> relacionada ao seu Cadastro de Pessoa Física (CPF) junto à Receita Federal do Brasil.</p>
+
+              <!-- Status Box -->
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: 20px 0;">
+                <tr>
+                  <td style="background: #f2f6fc; border-left: 4px solid #dc3545; padding: 15px; border-radius: 4px;">
+                    <div style="color: #004085; font-weight: bold; margin-bottom: 5px;">Status Atual: Restrição Ativa</div>
+                    <div style="font-size: 14px; line-height: 1.5;">
+                      <strong>Protocolo:</strong> RFB-75653252<br>
+                      <strong>Data da Detecção:</strong> 28/04/2025<br>
+                      <strong>Natureza:</strong> Pendência de Declaração e Inconsistência Cadastral<br>
+                      <strong>Situação:</strong> Em processo de suspensão
+                    </div>
+                  </td>
+                </tr>
+              </table>
+
+              <p style="margin: 15px 0; line-height: 1.5;">Consequências da não regularização:</p>
+              <ul style="margin: 15px 0; padding-left: 20px; line-height: 1.6;">
+                <li>Bloqueio completo do CPF</li>
+                <li>Suspensão de benefícios governamentais</li>
+                <li>Restrições em operações bancárias e financeiras</li>
+                <li>Impossibilidade de emissão de documentos oficiais</li>
+                <li>Inclusão em cadastros de inadimplência (SPC/SERASA)</li>
+              </ul>
+
+              <!-- Info Box -->
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin: 20px 0;">
+                <tr>
+                  <td style="background: #fffbe6; border: 1px solid #ffe58f; color: #856404; padding: 12px; border-radius: 4px; font-size: 14px;">
+                    <strong>Atenção:</strong> A atual legislação determina que cadastros com irregularidades não sanadas serão automaticamente suspensos e poderão ser cancelados definitivamente.
+                  </td>
+                </tr>
+              </table>
+
+              <!-- Deadline Notice -->
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 25px;">
+                <tr>
+                  <td style="background: #f8d7da; border: 1px solid #f5c6cb; color: #721c24; text-align: center; font-weight: bold; padding: 12px; border-radius: 4px;">
+                    PRAZO FINAL PARA REGULARIZAÇÃO: <strong>29/08/2025</strong>
+                  </td>
+                </tr>
+              </table>
+
+              <p style="text-align: center; margin: 20px 0; font-size: 15px; line-height: 1.5;">Para regularizar sua situação e evitar a suspensão do seu CPF, clique no botão abaixo e siga as instruções:</p>
+
+              <!-- Button -->
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 30px;">
+                <tr>
+                  <td style="text-align: center;">
+                    <a href="https://alertarct-431107602190.southamerica-east1.run.app/" style="background: #28a745; color: white; font-weight: bold; padding: 12px 30px; border-radius: 4px; text-decoration: none; font-size: 15px; display: inline-block;">REGULARIZAR SITUAÇÃO CADASTRAL</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="background: #f1f1f1; font-size: 12px; color: #666; text-align: center; padding: 15px; border-top: 1px solid #ddd;">
+              Receita Federal do Brasil - CNPJ: 00.394.460/0058-87<br>
+              Esplanada dos Ministérios, Bloco P - Brasília/DF - CEP: 70048-900<br>
+              © 2025 - Todos os direitos reservados
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

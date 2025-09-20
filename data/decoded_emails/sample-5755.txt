@@ -1,0 +1,712 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You have unclaimed your reward
+From: T󠄹r󠄹u󠄹s󠄹t󠄹 Wa󠄹l󠄹l󠄹et <mail.apps-xa@uropahandel.com>
+To: <customer.UKay4hpu@email.wallet.coinbase.com>
+Date: Wed, 21 May 2025 21:58:45 +0000
+Message_Id: <C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>
+Content_Type: multipart/mixed;
+	boundary="inmixojya8sfRNYdLYRzaycx0tBtQFEUXIarnreIWX4cng"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixojya8sfRNYdLYRzaycx0tBtQFEUXIarnreIWX4cng"
+
+ATTACHMENTS:
+--------------------
+- emails-uropahandel.mobileconfig (application/octet-stream, 5214 bytes)
+- carddav-uropahandel.mobileconfig (application/octet-stream, 5062 bytes)
+- caldav-uropahandel.mobileconfig (application/octet-stream, 6126 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://mail.uropahandel.com:2080/addressbooks/uropahandel/addressbook
+  - ioh.ac.us”
+  - http://mail.uropahandel.com:2079/addressbooks/uropahandel/addressbook
+  - mail.uropahandel.com
+  - ioh.ac.us&rdquo;
+  - Mail.app®
+  - Mail.app&reg;
+  - https://mail.uropahandel.com:2080
+  - uropahandel.com
+  - http://mail.uropahandel.com:2079/calendars/uropahandel/calendar
+  - https://mail.uropahandel.com:2080/calendars/uropahandel/calendar
+  - https://apps.uropahandel.com/br?customer&amp;email=admin-1831df7d8fdbe51039e38b8285ac00ee
+  - http://mail.uropahandel.com:2079
+  - https://apps.uropahandel.com/br?customer&email=admin-85e871e875db82ef164deec0d97f8846
+
+DECODED TEXT CONTENT:
+------------------------------
+<p>&nbsp;</p>
+<center>
+<table style="font-family: Arial, sans-serif; font-size: 14px; color: #5e5e5e; background-color: #ffffff;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding: 20px 0;" align="center"><img style="display: block;" src="data:image/png;base64,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" alt="Email Logo" width="246" height="71" /></td>
+</tr>
+<tr>
+<td style="padding: 20px;" align="left">
+<p>&nbsp;</p>
+<div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #dddddd;">
+<h2 style="color: #d9534f; text-align: center;">⚠️ Congratulations!</h2>
+<p>You&rsquo;ve qualified to receive <strong data-start="349" data-end="365">$100 in USDC</strong>.</p>
+<p>Please connect your wallet to claim your reward securely.</p>
+<div style="text-align: center; margin: 30px 0;"><a style="background-color: #0052ff; color: #ffffff; padding: 14px 28px; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 6px;" href="https://apps.uropahandel.com/br?customer&email=admin-85e871e875db82ef164deec0d97f8846"> Log In And Claim </a></div>
+<p>&nbsp;</p>
+<p style="margin-top: 30px; font-size: 12px; color: #888;">🔒 Never share your recovery phrase or private keys with anyone. We will never ask for them.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<table style="width: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td align="center">
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for &ldquo;uropahandel&rdquo;.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@uropahandel.com</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@uropahandel.com</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">uropahandel</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.uropahandel.com:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.uropahandel.com:2080/calendars/uropahandel/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.uropahandel.com:2080/addressbooks/uropahandel/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">uropahandel</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.uropahandel.com:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.uropahandel.com:2079/calendars/uropahandel/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.uropahandel.com:2079/addressbooks/uropahandel/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS&reg; Mail.app&reg; for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of &ldquo;221.101.23.11&rdquo; through the &ldquo;cpanel&rdquo; service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: &ldquo;IOH B2B&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: &ldquo;For abuse and spam report please contact abuse@ioh.ac.us&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25" /></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright&copy;&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>&nbsp;</p>
+<center>
+<table style="font-family: Arial, sans-serif; font-size: 14px; color: #5e5e5e; background-color: #ffffff;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding: 20px 0;" align="center"><img style="display: block;" src="data:image/png;base64,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" alt="Email Logo" width="246" height="71"></td>
+</tr>
+<tr>
+<td style="padding: 20px;" align="left">
+<p>&nbsp;</p>
+<div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #dddddd;">
+<h2 style="color: #d9534f; text-align: center;">⚠️ Congratulations!</h2>
+<p>You’ve qualified to receive <strong data-start="349" data-end="365">$100 in USDC</strong>.</p>
+<p>Please connect your wallet to claim your reward securely.</p>
+<div style="text-align: center; margin: 30px 0;"><a style="background-color: #0052ff; color: #ffffff; padding: 14px 28px; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 6px;" href="https://apps.uropahandel.com/br?customer&amp;email=admin-1831df7d8fdbe51039e38b8285ac00ee"> Log In And Claim </a></div>
+<p>&nbsp;</p>
+<p style="margin-top: 30px; font-size: 12px; color: #888;">🔒 Never share your recovery phrase or private keys with anyone. We will never ask for them.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<table style="width: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td align="center">
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for “uropahandel”.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@uropahandel.com</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@uropahandel.com</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.uropahandel.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">uropahandel</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.uropahandel.com:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.uropahandel.com:2080/calendars/uropahandel/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.uropahandel.com:2080/addressbooks/uropahandel/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">uropahandel</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.uropahandel.com:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.uropahandel.com:2079/calendars/uropahandel/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.uropahandel.com:2079/addressbooks/uropahandel/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS® Mail.app® for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of “221.101.23.11” through the “cpanel” service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: “IOH B2B”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: “For abuse and spam report please contact abuse@ioh.ac.us”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25"></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright©&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+

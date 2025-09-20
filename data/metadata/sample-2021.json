@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "subject": "Dies ist Ihre Chance, eine Belohnung zu erhalten",
+    "from": "Temu, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Nov 2023 09:44:23 +0100",
+    "message_id": "\r\n <198b77c8-ad3c-41bd-8507-c63a3f17832c@AM6EUR05FT027.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "div.kl-row.colstack",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "http://easilett.com/cl/3014_md/31/101/270/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "td.kl-img-base-auto-width",
+      "http://easilett.com/un/3014_md/31/101/270/23/2459859",
+      "div.mobile-only",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "http://easilett.com/oop/3014_md/31/101/270/23/2459859",
+      "https://leaadpersons.com/biz/prize.png",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "content-padding.last",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WvBJBB/custom_fonts.css);",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9998,
+    "html_length": 26362,
+    "has_text": true,
+    "has_html": true
+  }
+}

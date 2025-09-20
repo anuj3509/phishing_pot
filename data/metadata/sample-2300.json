@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "EDEKA Einkaufsgutschein im Wert von 500 ���",
+    "from": "Edeka gift card, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Dec 2023 10:59:41 +0100",
+    "message_id": "<zRBcwoR.0.0.zRBcwoR.9.zRBcwoR@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://linkingroutes6.com/?a=7395&amp;oc=18379&amp;c=49902&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "http://magicmotorworks.info/bHBwTjdlM09oRlhBUlc0TnZsaFJvVldqS1VrTzdCQ21XcnJqcDhWellPd09yUDBWYmd6RmVYVHE3eHdNeWxwbnNNSm83WkZiRVROQ2ljNFVHY3M3VHVyOUIzaWRsL09sMWhCRVJDejYxZzg9",
+      "www.zupimages.net/up/23/51/e89i.jpg",
+      "http://magicmotorworks.info/bFBPa1Q3T2N1OUNhZHRXejBJRVl4WkFRRVNldmVHSjNxN0RCQlZmWTZhK241Y3F6dlNzeW9IQytNL2kxODV5T2o0VzJ2Ui9zWmRkMW8xeER1clZmN2RrNUV3SmJvTDBIbGlkdUFMc1pVNHM9",
+      "https://www.zupimages.net/up/23/51/e89i.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1597,
+    "html_length": 9289,
+    "has_text": true,
+    "has_html": true
+  }
+}

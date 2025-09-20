@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "ENVIO INFRACCION461 ",
+    "from": "fotc.461@infracc24.ddns.net",
+    "to": "phishing@pot",
+    "date": "Mon, 12 Aug 2024 15:54:03 -0500",
+    "message_id": "<20240812205403.098A187FEC@infracc24.ddns.net>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17234960439021711689\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17234960439021711689\""
+  },
+  "attachments": [
+    {
+      "filename": "FotoCivicas.rCNuVDM3in.pdf",
+      "content_type": "application/pdf",
+      "size": 41706
+    },
+    {
+      "filename": "FotoCivicas.dsBsfqpJ3z.zip",
+      "content_type": "application/zip",
+      "size": 41698
+    },
+    {
+      "filename": "FotoCivicas.QvizC3Gvmj.png",
+      "content_type": "image/png",
+      "size": 62193
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 252,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

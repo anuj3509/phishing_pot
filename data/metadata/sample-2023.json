@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Kochen ohne Chemie",
+    "from": "EMURA, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Nov 2023 17:50:45 +0100",
+    "message_id": "\r\n <8bc907df-59bf-4e64-83ea-61953b320052@MW2NAM10FT020.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link9_2.html#un/3055_md/2009/137/269/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link9_2.html#cl/3055_md/2009/137/269/23/2459859",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/EmurnPanGerman.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link9_2.html#oop/3055_md/2009/137/269/23/2459859",
+      "oncf-voyages.ma",
+      "https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/EmurnPanGerman.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4482,
+    "html_length": 8269,
+    "has_text": true,
+    "has_html": true
+  }
+}

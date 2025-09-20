@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Bradesco Prime - Protocolo: C211XBYM32",
+    "from": "Bradesco  <074999@cefro.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Dec 2022 14:34:01 +0000",
+    "message_id": "<3ee4de85db08bfe2d7545ab12a564c6d@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3ee4de85db08bfe2d7545ab12a564c6d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3ee4de85db08bfe2d7545ab12a564c6d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.hlife-hotel.com//wp-content/themes/sailing/js/",
+      "http://www.hlife-hotel.com//wp-content/themes/sailing/js/logo.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 51,
+    "html_length": 4467,
+    "has_text": true,
+    "has_html": true
+  }
+}

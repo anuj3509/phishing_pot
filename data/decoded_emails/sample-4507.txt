@@ -1,0 +1,72 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Exclusivo: Black Friday LATAM com at�� 60% de desconto! 185
+From: Black Friday LATAM <no-reply@ofertasBlackFriday185>
+To: RODRIGO-F-P@HOTMAIL.COM
+Date: Wed,  4 Dec 2024 07:34:07 +0000 (UTC)
+Message_Id: <20241204073407.51D50424A0@Ubuntu-iqjh-1vcpu-1gb-35gb-intel>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - HOTMAIL.COM
+  - https://blackpaxlatam.com/passagem/gomeuspontos185
+
+DECODED TEXT CONTENT:
+------------------------------
+LATAM Airlines - Black Friday LATAM Airlines - Black Friday Você foi convidado especial! RODRIGO-F-P@HOTMAIL.COM A LATAM Airlines tem o prazer de oferecer a você uma oportunidade exclusiva para aproveitar a nossa Black Friday. Com descontos de até 60% em passagens aéreas e serviços, essa é sua chance de viajar mais e pagar menos. Por que aproveitar? Descontos reais em destinos nacionais e internacionais. Condições exclusivas para convidados. Facilidade de pagamento em várias opções. Aproveite agora e garanta sua próxima viajem! Aproveitar Ofertas LATAM Airlines 2024 - Todos os direitos reservados. Este e-mail foi enviado automaticamente.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LATAM Airlines - Black Friday</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #001f4d; font-family: Arial, sans-serif;">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="700" style="background-color: #ffffff; margin: 20px auto; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+    <!-- Cabeçalho -->
+    <tr>
+        <td align="center" bgcolor="#003087" style="padding: 20px; color: #ffffff; font-size: 24px; font-weight: bold;">
+            LATAM Airlines - Black Friday
+        </td>
+    </tr>
+
+    <!-- Conteúdo -->
+    <tr>
+        <td align="center" style="padding: 20px; color: #333333; text-align: center;">
+            <h2 style="color: #FF5733; font-size: 22px; margin-bottom: 10px;">Você foi convidado especial! RODRIGO-F-P@HOTMAIL.COM</h2>
+            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">A LATAM Airlines tem o prazer de oferecer a você uma oportunidade exclusiva para aproveitar a nossa Black Friday.</p>
+            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">Com descontos de até 60% em passagens aéreas e serviços, essa é sua chance de viajar mais e pagar menos.</p>
+            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;"><strong>Por que aproveitar?</strong></p>
+            <ul style="text-align: left; margin: 20px auto; max-width: 80%; line-height: 1.6; padding: 0; list-style: disc;">
+                <li>Descontos reais em destinos nacionais e internacionais.</li>
+                <li>Condições exclusivas para convidados.</li>
+                <li>Facilidade de pagamento em várias opções.</li>
+            </ul>
+            <p style="font-size: 16px; line-height: 1.6; margin-bottom: 20px;">Aproveite agora e garanta sua próxima viajem!</p>
+            <a href="https://blackpaxlatam.com/passagem/gomeuspontos185" style="display: inline-block; margin-top: 20px; padding: 15px 30px; font-size: 16px; font-weight: bold; color: #ffffff; background-color: #FF5733; text-decoration: none; border-radius: 6px;">Aproveitar Ofertas</a>
+        </td>
+    </tr>
+
+    <!-- Rodapé -->
+    <tr>
+        <td align="center" style="background-color: #f8f9fa; padding: 15px; color: #666666; font-size: 14px;">
+            LATAM Airlines 2024 - Todos os direitos reservados. Este e-mail foi enviado automaticamente.
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>

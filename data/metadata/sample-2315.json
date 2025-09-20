@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Fw: New Statement : Your benefits are on hold due to a billing issue.\r\n September 7, 2023 Caseid#9564-525102",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Thu, 7 Sep 2023 18:56:58 +0000",
+    "message_id": "\r\n <IA0PR02MB97798293F5CD28BEAB17EC5EB3EEA@IA0PR02MB9779.namprd02.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB97798293F5CD28BEAB17EC5EB3EEAIA0PR02MB9779namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB97798293F5CD28BEAB17EC5EB3EEAIA0PR02MB9779namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "update your information"
+    ],
+    "urls": [
+      "gmail.com",
+      "hotmail.com,",
+      "https://teamz.com.au/?fer=t.co/Yb9lOw3uBu?645766",
+      "hotmail.com",
+      "anthropospragmata.com.br",
+      "anthropospragmata.com.br&gt;",
+      "bachanatours.in",
+      "hotmail.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5442,
+    "html_length": 41833,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "wir vergeben deinen NETTO Gutschein an einen anderen Teilnehmer",
+    "from": "Netto 250 Voucher, Netto 250 Voucher, <newsletter@mail.toom.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Dec 2024 12:29:02 +0000",
+    "message_id": "<ZBCKPAILGNLOWQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4nJJUy41130jNGI552sgvrgjqalb14302PYOGIMHZCVCHCJH2XNTZ17227l10",
+      "sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://topmarktingplace.com/5sjucD41130CQYw552mnyhpcqnhg14302RIMOUWYYQOSZNEP2UFHC17227a10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4DmhOO41130lQee552joypuawlou14302XINBSBGOLAJEMDR2RRFX17227F10",
+      "http://topmarktingplace.com/4QKAVL41130uSLD552ieqphzchdh14302AOHBMZKSWWXNVJJ2PWTR17227n10",
+      "http://topmarktingplace.com/6cxIxI41130pKrK552fjvhnlythy14302HBUTAHJQXVIYNRP2YDMZ17227y10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1940,
+    "html_length": 9407,
+    "has_text": true,
+    "has_html": true
+  }
+}

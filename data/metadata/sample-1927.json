@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Haben Sie noch nie etwas gewonnen? Jetzt ist Ihre Chance!",
+    "from": "Dove  , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 11 Nov 2023 15:30:37 +0100",
+    "message_id": "<hIYetWo.81618.022.MXG@kenitracasa.ma>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/F00875E.jpg",
+      "http://getlevsgt.online/VGlVMnN3WnlNcjhoK0xjU3ArUGJ5SndFUnBGQitPdyt2ZFZhbC9CSEZIaVE2Qmo4VEpiQzBkSUZod2hDUWs2Ni9ZbGJ1MXFDbnVjcVRaU3lpRURCYVE9PQ__",
+      "http://getlevsgt.online/SFhNaWlLNTJCcGhkOTJzVDJwd2ZlS24zd2xQdm9SVXdCclRoL3JJOW9CcUxNVzRsa0hLQmlnYVdJVmExNEpOeG96dVlVM05qREpqZDFtaXlRVHBiWFE9PQ__",
+      "http://getlevsgt.online/RVF5SmppQUt6THdUWEpKK2JFbkpuY1VQZ3VYaVgyWmx1VzN0aTNSakVFbXVUaU9ScDlNWGw5VXZmazRobE5QWE1WMEJKaEZqUk1Nd3dMR0xpcUQvOEkzWnZKTkFJemtKN0lmSTN3eE0rdE09",
+      "i.imgur.com/F00875E.jpg",
+      "http://getlevsgt.online/emZxMys4azVkZ0ZrOTlyRFNtcGZwdW16NWFtVWdzL0xJQUVjM2IwT1BQZnE0MG40TFJtcG95K0hhd3hjeTgvcGU0bVJLNEh5MytOQS8vWjhrSjh0NWc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1474,
+    "html_length": 10725,
+    "has_text": true,
+    "has_html": true
+  }
+}

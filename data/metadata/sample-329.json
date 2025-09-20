@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "[Action required] Verify your identity to continue using your account #89393343",
+    "from": "Support        <account567476-naurgfbh-wv6ehi-a86i5sb955l@stg.fitfoodfresh.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 Feb 2023 10:27:05 -0800",
+    "message_id": "<202013101429.7r77p8oqclohsnj@emailsend.staffline.jobs>",
+    "content_type": "multipart/alternative; boundary=\"alt-c9ce37069befe2ca220ed9b6c80f9973\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "text/html; charset=utf-8",
+    "content_type": "multipart/alternative; boundary=\"alt-c9ce37069befe2ca220ed9b6c80f9973\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://krys.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2776,
+    "html_length": 9678,
+    "has_text": true,
+    "has_html": true
+  }
+}

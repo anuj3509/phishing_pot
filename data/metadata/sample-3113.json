@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Fiquemos Felizes portê-lo Convidado ao mundo exclusivo de nosso cartão Black Bradesco Prime",
+    "from": "Bradesco <contato@bradesco>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Mar 2024 16:50:31 +0000",
+    "message_id": "<1618ea7d-76dd-9e65-0cb4-c386621bfa7a@bradesco>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "suspend",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "21.SHIH",
+      "atendimentoeditoraplaneta.com.br",
+      "casamento.Ao",
+      ".alert.alert-warning",
+      "https://bradesco.care/",
+      ".alert.alert-bad",
+      "www.planetadelivros.com.br",
+      ".alert.alert-good",
+      "RI..AS",
+      "nasci.phishing@pot7",
+      "httpwww-robotics.usc.edu",
+      "o.Quando"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 161242,
+    "html_length": 282988,
+    "has_text": true,
+    "has_html": true
+  }
+}

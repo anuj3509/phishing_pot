@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Re: [ Summary New ] Ticket: 766877-613-18222",
+    "from": "Customer Info <teque@ur.fotoserumos.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 24 Jan 2025 21:35:53 +0000",
+    "message_id": "<DM6PR14MB269831BD2549A9B9F010A5F89EE32@DM6PR14MB2698.namprd14.prod.outlook.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://microsoft.com",
+      "hotmail.com",
+      "https://bisesoft.com/uploads/media/goto.jpg.php56?threadtopic=aHR0cHM6Ly9kdWIuc2gvVjBINGxmUQ==#!HIygC6eWBaZGu6172s63M7NygCdD8LzYYViB69ZQdT5MzNk54AYQvGE3l3xP78hFI3nCv4aK396Sz8VX"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1932,
+    "html_length": 100996,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "RE: You have one (1) order pending delivery",
+    "from": "Communication from: UPS, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Dec 2024 13:52:18 +0100",
+    "message_id": "<VybgFuw.0.0.VybgFuw.9.VybgFuw@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.goopics.net/cbvqts.png",
+      "div.fullWidth",
+      "i.goopics.net/sx9etu.png",
+      "table.icons-inner",
+      "https://i.goopics.net/c7nlgc.png",
+      "https://rebrand.ly/6enlidh#oop/23123_md/1/5907/820/63/160880",
+      "https://rebrand.ly/6enlidh#cl/23123_md/1/5907/820/63/160880",
+      "https://i.goopics.net/sx9etu.png",
+      "i.goopics.net/c7nlgc.png",
+      "i.goopics.net/cbvqts.png",
+      "https://i.goopics.net/s62mfy.png",
+      "i.goopics.net/s62mfy.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1403,
+    "html_length": 20094,
+    "has_text": true,
+    "has_html": true
+  }
+}

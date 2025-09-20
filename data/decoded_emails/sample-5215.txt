@@ -1,0 +1,98 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sehr geehrte/r Begünstigte/r
+From: Rosario Yermy Cespedes Paniagua <rcespedes@ypfb.gob.bo>
+To: 
+Date: Fri, 13 Jun 2025 16:46:22 +0000
+Message_Id: <285608b778b44e388777972023102718@ypfb.gob.bo>
+Content_Type: multipart/mixed;boundary=---------------------8053076e0ab5caffceb197fe8cf418b4
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;boundary=---------------------8053076e0ab5caffceb197fe8cf418b4
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - span.MsoHyperlinkFollowed
+  - http://schemas.microsoft.com/office/2004/12/omml
+  - span.EmailStyle17
+  - li.MsoNormal,
+  - p.MsoNormal,
+  - div.WordSection1
+  - span.MsoHyperlink
+  - div.MsoNormal
+  - http://www.w3.org/TR/REC-html40
+
+DECODED TEXT CONTENT:
+------------------------------
+Sehr geehrte/r Begünstigte/r, &nbsp; Wir hoffen, Sie erhalten diese E-Mail gut. Im Namen der Lee Shau Kee Foundation, einem Wirtschaftsmagnaten, Investor und Philanthropen, wurde Ihre E-Mail-Adresse nach dem Zufallsprinzip ausgewählt, um eine Spende in Höhe von einer Million Dollar von der Lee Shau Kee Foundation zu erhalten. &nbsp; Für Ansprüche wenden Sie sich bitte an diese E-Mail-Adresse. &nbsp; Mit freundlichen Grüßen, Lee Shau-Kee Foundation &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 14 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ligatures:standardcontextual;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:12.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ligatures:standardcontextual;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" vlink="purple">
+<div class="WordSection1">
+<p class="MsoNormal"><span style="font-size:11.0pt">Sehr geehrte/r Begünstigte/r,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt">Wir hoffen, Sie erhalten diese E-Mail gut. Im Namen der Lee Shau Kee Foundation, einem Wirtschaftsmagnaten, Investor und Philanthropen, wurde Ihre E-Mail-Adresse nach dem Zufallsprinzip ausgewählt, um eine
+ Spende in Höhe von einer Million Dollar von der Lee Shau Kee Foundation zu erhalten.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt">Für Ansprüche wenden Sie sich bitte an diese E-Mail-Adresse.<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt"><o:p>&nbsp;</o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt">Mit freundlichen Grüßen,<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt">Lee Shau-Kee Foundation<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt"><o:p>&nbsp;</o:p></span></p>
+</div>
+</body>
+</html>
+

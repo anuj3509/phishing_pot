@@ -1,0 +1,40 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Re: Family Matters
+From: Wilson Wei <wilsonwei249@gmail.com>
+To: phishing@pot
+Date: 29 Jun 2023 18:55:37 +0300
+Message_Id: <20230629185537.E00D4FAED2BFE38E@gmail.com>
+Content_Type: text/html;
+	charset="iso-8859-1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+	charset="iso-8859-1"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gmail.com
+  - http://www.w3.org/TR/html4/loose.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear Sir, Our Law firm was contracted by a financial institution to contact you and to ascertain your relationship to a decedent who died intestate and left behind an estate worth millions. We have reasons to believe that you may be related to the deceased. For more details on the inheritance matters, please contact the assessor, Mr. Richard Wong, at [ richard365wong@gmail.com ]. Mr. Wong will be able to provide you with additional information regarding the estate and answer any questions you may have. Best Regards, Wilson Wei.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="GENERATOR" content="MSHTML 11.00.9600.19699"></head>
+<body style="MARGIN: 0.5em">
+<p>Dear Sir,</p>
+<p>Our Law firm was contracted by a financial institution to contact you and to ascertain your relationship to a decedent who died intestate and left behind an estate worth millions. We have reasons to believe that you may be related to the deceased.</p>
+<p>For more details on the inheritance matters, please contact the assessor, Mr. Richard Wong, at [ <a href="mailto:richard365wong@gmail.com">richard365wong@gmail.com</a> ]. Mr. Wong will be able to provide you with additional information regarding the estate and answer any questions you may have.</p>
+<p>Best Regards,<br>Wilson Wei.</p></body></html>
+

@@ -1,0 +1,72 @@
+{
+  "headers": {
+    "subject": "phishing@pot, You've received a $9O State Farm Reward - Open immediately!",
+    "from": "State Farm_Congratulations! You're Invited ,_<unemq@dinatieerty.com>",
+    "to": "phishing@pot",
+    "date": "12-05-2023",
+    "message_id": "\r\n <d9dd9008-1595-492e-8583-fae66a9fa3af@AM4PEPF00027A64.eurprd04.prod.outlook.com>",
+    "content_type": "multipart/related; boundary=\"_005_PH0PR18MB51915C2739E49AA98B6AE8CDFE829PH0PR18MB5191namp_\"; type=\"text/html\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related; boundary=\"_005_PH0PR18MB51915C2739E49AA98B6AE8CDFE829PH0PR18MB5191namp_\"; type=\"text/html\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "praveen.antal@pyramidconsultinginc.com&gt;",
+      "div.xxxmsonormal",
+      "pyramidconsultinginc.com",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "pyramidconsultinginc.com&gt;",
+      "address.and",
+      "p.MsoNormal,",
+      "div.WordSection1",
+      "http://www.pyramidci.com/",
+      "i.imgur.com/9QTbDKz.jpg",
+      "image004.png@01D892AA.6B48FA30",
+      "image003.png@01D892AA.6B48FA30",
+      "li.xxxmsonormal,",
+      "vikas.saxena@pyramidconsultinginc.com",
+      "li.MsoNormal,",
+      "image001.jpg@01D892AA.6B48FA30",
+      "i.imgur.com/HZTww6c.jpg",
+      "http://www.w3.org/TR/REC-html40",
+      "praveen.antal@pyramidconsultinginc.com",
+      "https://i.imgur.com/HZTww6c.jpg",
+      "www.pyramidci.com",
+      "https://i.imgur.com/9QTbDKz.jpg",
+      "https://www.linkedin.com/company/pyramid-consulting",
+      "span.MsoHyperlink",
+      "https://t.co/tAcLKFKhIA",
+      "https://www.facebook.com/PyramidConsultingInc",
+      "image002.png@01D892AA.6B48FA30",
+      "Anil.Lanba@pyramidci.com",
+      "guddy.kumari@pyramidconsultinginc.com&gt;",
+      "image004.png@01D892AA6B48FA30",
+      "https://t.co/pY7owbAG9b",
+      "span.EmailStyle34",
+      "pyramidconsultinginc.com&gt;;",
+      "https://clicktime.symantec.com/39e8TeBHakB1PfMJjJ1h1zf7Vc?u=http%3A%2F%2Fwww.pyramidci.com%2F",
+      "guddy.kumari@pyramidconsultinginc.com",
+      "Harendra.kumar@pyramidconsultinginc.com",
+      "p.xxxmsonormal,",
+      "naveen.gupta@pyramidconsultinginc.com",
+      "image002.jpg_x0040_01D83E1D.A92C8330",
+      "div.MsoNormal"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8027,
+    "html_length": 45817,
+    "has_text": true,
+    "has_html": true
+  }
+}

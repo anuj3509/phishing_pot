@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Hallo phishing@pot, Sie sind einer unserer m��glichen Finalisten f��r ein Geschenkkarte von SHEIN im Wert von 750���. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Gl��ck Geschenkkarte von SHEIN.",
+    "from": "\"Ihre Julia Weber (Kundenbetreuung)\" <phishing@pot>, \"Ihre Julia Weber\n (Kundenbetreuung)\" <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 6 Feb 2025 07:12:48 +0100",
+    "message_id": "<guMM90A.0.0.guMM90A.9.guMM90A@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.zupimages.net/up/24/20/4fei.jpg",
+      "www.zupimages.net/up/24/20/4fei.jpg",
+      "http://igq.getclients.us/b01kRERuTmpORXMvUnlqV2tWMnI2VC9zdXZXMkFiaVR4MUlLczd5QUZ6S1BjV0VNMW9tQ1kvOFc5RU52SHZBUmQydFJuV2l4cy90OHQrR1hENkxzd1E9PQ__",
+      "https://www.zupimages.net/up/24/20/eikv.jpg",
+      "http://igq.getclients.us/OHVSaWEzR2VPTGxwUmkrZjZveGZJYnlXd0RIOEd5b0d5VXlkNFA3K2t4KzVjcC9LcGR2THcxQXpLT3U3eHRMOUlrdXBKMWFUZ3Y5bHdsOXI5OFV1dkE9PQ__",
+      "www.zupimages.net/up/24/20/eikv.jpg",
+      "https://lifeinsureand.com/?a=7790&amp;oc=21444&amp;c=57010&amp;m=3&amp;s1=",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2392,
+    "html_length": 7527,
+    "has_text": true,
+    "has_html": true
+  }
+}

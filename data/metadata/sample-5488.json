@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Jim Allred Taxidermy Supply] Login Details",
+    "from": "WordPress <wordpress@jimallred.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 26 May 2025 07:10:00 +0000",
+    "message_id": "<0Z9Y4Cu4njJNMbUr50C8ibQcHC7nSA0zP8rE6Ed0@jimallred.com>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://jimallred.com/wp-login.php?login=www.uigyig.blogspot.ch%20-%201.3497700%20BTC&key=QRbUmEsCIg27BeMtw3iw&action=rp",
+      "https://jimallred.com/wp-login.php",
+      "www.uigyig.blogspot.ch"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 260,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

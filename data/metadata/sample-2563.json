@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Sie haben ein/e iPhone 15 Pro gewonnen",
+    "from": "\"  iPhone 15 Pro\"  <noreply@digid.nl>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 13 Jan 2024 10:06:23 +0100",
+    "message_id": "<nuackffawbshtycs-a2i7lbl4-LZVE-9119-adol-4ZDgD2uCKAb9@VI1EUR05FT037.eop-eur05.prod.protection.outlook.com ' '>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://[an_11]@N5WfGTm#z1j4IKQuGRLRO4wbGCiEAeXfrXujyB3",
+      "https://[an_11]@N5WfGTm#cl/2610_md/1/1253/756/143/138728",
+      "i.imgur.com/DOySrYB.jpg",
+      "https://i.imgur.com/DOySrYB.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14961,
+    "html_length": 16895,
+    "has_text": true,
+    "has_html": true
+  }
+}

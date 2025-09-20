@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Holen Sie sich heute Ihre kostenlosen Boxershorts",
+    "from": "Boxershorts, <service@stayfriends.de.>, Boxershorts,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 May 2024 16:27:33 +0200",
+    "message_id": "<5h0pl92.fhuat.q1d.q1d@plszomczyrbzehe.mre>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://onthatass.com/images/email/content/affiliate/mail-banner.png",
+      "userimg-bee.customeriomail.com/images/client-env-96027/Mailing-logo.png",
+      "onthatass.com/images/email/content/affiliate/mail-banner.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/9076_md/4049/26059/1219/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/9076_md/4049/26059/1219/281/76468",
+      "https://userimg-bee.customeriomail.com/images/client-env-96027/Mailing-logo.png",
+      "onthatass.com/images/email/content/affiliate/review.jpg",
+      "https://onthatass.com/images/email/content/affiliate/review.jpg",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/9076_md/4049/26059/1219/281/76468",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1387,
+    "html_length": 18655,
+    "has_text": true,
+    "has_html": true
+  }
+}

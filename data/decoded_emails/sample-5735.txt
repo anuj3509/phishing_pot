@@ -1,0 +1,291 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: URGENTE: Seu CPF encontra-se sob procedimento de cancelamento por sonegação fiscal. Acesso bancário será restrito. Regularize agora. Protocolo: 45346794.
+From: Aviso Oficial Receita Federal <regularizacao711511@governo>
+To: <phishing@pot>
+Date: Mon, 19 May 2025 02:16:27 +0000
+Message_Id: <a735d37e97e5b6412b20d2eb86dd031e@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_a735d37e97e5b6412b20d2eb86dd031e"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_a735d37e97e5b6412b20d2eb86dd031e"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent
+URLs found:
+  - hotmail.com
+  - https://rcta3-554375127192.southamerica-east1.run.app/
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ALERTA CRÍTICO: SEU CPF ESTÁ SENDO CANCELADO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 25px auto;
+            background-color: #ffffff;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 18px;
+            border-bottom: 1px solid #eaeaea;
+        }
+        .header img {
+            height: 60px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            margin: 0;
+            color: #005293;
+            font-size: 24px;
+            letter-spacing: 0.5px;
+        }
+        .header p {
+            margin: 5px 0 0;
+            font-size: 13px;
+            color: #666;
+        }
+        .alert-banner {
+            background-color: #b70000;
+            color: white;
+            padding: 12px;
+            text-align: center;
+            font-size: 16px;
+            font-weight: bold;
+            animation: blink 1s infinite;
+        }
+        @keyframes blink {
+            0% {background-color: #b70000;}
+            50% {background-color: #ff0000;}
+            100% {background-color: #b70000;}
+        }
+        .content {
+            padding: 25px;
+        }
+        .section-title {
+            color: #005293;
+            margin-top: 0;
+            font-size: 18px;
+            border-bottom: 2px solid #eaeaea;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
+        }
+        .status-box {
+            background-color: #f8f9fa;
+            border-left: 5px solid #b70000;
+            padding: 15px;
+            margin: 20px 0;
+        }
+        .status-title {
+            font-weight: bold;
+            color: #b70000;
+            margin: 0 0 10px 0;
+            font-size: 16px;
+        }
+        .status-details {
+            margin: 0;
+            font-size: 14px;
+            line-height: 1.5;
+        }
+        .warning-text {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 12px;
+            margin: 20px 0;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+        .deadline-notice {
+            background-color: #f8f9fa;
+            border: 1px solid #f5c6cb;
+            color: #721c24;
+            padding: 12px;
+            margin: 20px 0;
+            border-radius: 4px;
+            font-weight: bold;
+            text-align: center;
+        }
+        .countdown {
+            background-color: #000;
+            color: #ff0000;
+            font-family: 'Courier New', monospace;
+            padding: 8px;
+            font-size: 18px;
+            font-weight: bold;
+            letter-spacing: 2px;
+            margin: 5px auto;
+            width: 180px;
+            text-align: center;
+            border-radius: 4px;
+        }
+        .button-container {
+            text-align: center;
+            margin: 30px 0 15px;
+        }
+        .action-button {
+            display: inline-block;
+            background-color: #28a745;
+            color: white;
+            font-weight: bold;
+            padding: 14px 30px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .action-button:hover {
+            background-color: #218838;
+        }
+        @keyframes pulse {
+            0% {transform: scale(1);}
+            50% {transform: scale(1.05);}
+            100% {transform: scale(1);}
+        }
+        .action-button:hover {
+            background-color: #8b0000;
+        }
+        .info-text {
+            font-size: 13px;
+            color: #666;
+            line-height: 1.5;
+            margin: 20px 0;
+        }
+        .monitoring-notice {
+            background-color: #343a40;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #777;
+            border-top: 1px solid #eaeaea;
+        }
+        .official-seal {
+            width: 100%;
+            max-width: 150px;
+            margin: 0 auto 10px;
+            display: block;
+            opacity: 0.8;
+        }
+        @media (max-width: 640px) {
+            .container {
+                margin: 10px;
+                width: auto;
+            }
+            .content {
+                padding: 15px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 10px;">
+                <div style="text-align: center;">
+                    <span style="font-size: 32px; font-weight: bold;">
+                        <span style="color: #009c3b">B</span><span style="color: #ffdf00">R</span><span style="color: #002776">A</span><span style="color: #009c3b">S</span><span style="color: #ffdf00">I</span><span style="color: #002776">L</span>
+                    </span>
+                    <div style="font-size: 12px; color: #666; margin-top: 3px;">MINISTÉRIO DA FAZENDA</div>
+                    <div style="font-size: 11px; color: #888; margin-top: 2px;">RECEITA FEDERAL</div>
+                </div>
+            </div>
+            <h1>NOTIFICAÇÃO OFICIAL</h1>
+            <p>Sistema de Administração Tributária Nacional</p>
+        </div>
+        
+        <div class="alert-banner">
+            NOTIFICAÇÃO FINAL: CPF COM BLOQUEIO PROGRAMADO
+        </div>
+        
+        <div class="content">
+            <h2 class="section-title">Informação de Irregularidade Cadastral</h2>
+            
+            <p>Prezado(a) <strong>rodrigo-f-p@hotmail.com</strong>,</p>
+            
+            <p>ATENÇÃO: Foi detectada <strong>irregularidade fiscal crítica</strong> relacionada ao seu Cadastro de Pessoa Física (CPF) junto à Receita Federal do Brasil, resultando em processo administrativo automático.</p>
+            
+            <div class="status-box">
+                <div class="status-title">STATUS ATUAL: PROCESSO DE CANCELAMENTO INICIADO</div>
+                <p class="status-details">
+                    <strong>Protocolo:</strong> RFB-72890534<br>
+                    <strong>Data da detecção:</strong> 28/04/2025<br>
+                    <strong>Natureza:</strong> Sonegação Fiscal e Ausência de Declaração de Imposto de Renda<br>
+                    <strong>Situação:</strong> Mandado de restrição financeira emitido<br>
+                    <strong>Multa estimada:</strong> R$ 5.750,00 (caso não regularizado)
+                </p>
+            </div>
+            
+            <p>Nosso sistema judicial automatizado identificou graves infrações fiscais vinculadas ao seu CPF que exigem regularização IMEDIATA para evitar:</p>
+            
+            <ul style="padding-left: 20px; margin: 15px 0; color: #444;">
+                <li><strong>Bloqueio completo e imediato do CPF em todas as instâncias federais</strong></li>
+                <li><strong>Congelamento de contas bancárias e cartões de crédito</strong></li>
+                <li><strong>Suspensão de benefícios governamentais e auxílios</strong></li>
+                <li><strong>Impossibilidade de realizar qualquer operação financeira</strong></li>
+                <li><strong>Inclusão em cadastros de inadimplência (SPC/SERASA) com score negativo máximo</strong></li>
+                <li><strong>Bloqueio de bens móveis e imóveis até a regularização</strong></li>
+            </ul>
+            
+            <div class="warning-text">
+                <strong>AVISO LEGAL:</strong> Seu CPF já está com restrições parciais ativas. Conforme Lei Complementar 170/2024, cadastros com irregularidades críticas não regularizadas dentro do prazo serão automaticamente cancelados, sem possibilidade de recurso administrativo posterior.
+            </div>
+
+            <p><strong>URGENTE:</strong> Para regularizar sua situação e evitar todas as sanções listadas, você DEVE clicar no botão abaixo e seguir TODAS as instruções IMEDIATAMENTE:</p>
+            
+           <div class="button-container">
+                <a href="https://rcta3-554375127192.southamerica-east1.run.app/" class="action-button">REGULARIZAR SITUAÇÃO CADASTRAL</a>
+            </div>
+            
+            <div class="monitoring-notice">
+                ATENÇÃO: Esta notificação está sendo oficialmente monitorada. A não-regularização será interpretada como recusa deliberada e agravará sua situação cadastral, podendo resultar em processo administrativo.
+            </div>
+            
+            <div class="info-text">
+                <strong>IMPORTANTE:</strong> Sua movimentação financeira já está sendo monitorada devido à gravidade da situação. Após a regularização, o sistema processará as informações em até 24 horas e você receberá um comprovante de situação regular. Em caso de dúvidas, acesse o portal e-CAC com urgência.
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Esta é uma comunicação oficial do Governo Federal.<br>
+            Receita Federal do Brasil - CNPJ: 00.394.460/0058-87<br>
+            Esplanada dos Ministérios, Bloco P - Brasília/DF - CEP: 70048-900<br>
+            © 2025 - Todos os direitos reservados</p>
+        </div>
+    </div>
+</body>
+</html>

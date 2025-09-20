@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "��� Verbindet sich mit jedem Ger��t",
+    "from": "Schutz Ihrer Lieben, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Dec 2023 01:07:49 +0100",
+    "message_id": "\r\n <8fbefd40-b0e9-4eb3-9dac-03bf98e7e2c6@VI1EUR06FT021.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/e83a1f100a6bd1d_1.png",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/lightbulb.png",
+      "a.mcnButton{",
+      "http://mail.drivesafetohome.bio/oop/5800_md/2009/157/296/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/e83a1f100a6bd1d_1.png",
+      "oncf-voyages.ma",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/lightbulb%202.png",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/lightbulb%202.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/lightbulb.png",
+      "http://mail.drivesafetohome.bio/cl/5800_md/2009/157/296/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 18729,
+    "html_length": 32925,
+    "has_text": true,
+    "has_html": true
+  }
+}

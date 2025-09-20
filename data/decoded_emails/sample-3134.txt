@@ -1,0 +1,133 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ⚠️ Don't Miss Out! Claim Your FREE  Airdrop Tokens Now! ID: 8PX29ZH
+From: MetaMask <do_not_reply@mailer-9985.metamask.com>
+To: phishing@pot
+Date: Sat, 23 Mar 2024 15:24:35 -0300
+Message_Id: <7j0s8pxuNqvqIdZCYbRCFnigX4e8nmus6ckkXvklLEc@localhost>
+Content_Type: multipart/alternative;
+ boundary="b1_7j0s8pxuNqvqIdZCYbRCFnigX4e8nmus6ckkXvklLEc"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: multipart/alternative;
+ boundary="b1_7j0s8pxuNqvqIdZCYbRCFnigX4e8nmus6ckkXvklLEc"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://storage.googleapis.com/594b820a35/594b820a35.png
+  - https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap
+  - https://storage.googleapis.com/594b820a35/logo.png?phishing@pot
+
+DECODED TEXT CONTENT:
+------------------------------
+This is a plain-text message body
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KawjQuloME</title>
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        color: #333;
+        background-color: #F7F8FA;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+    }
+
+    .container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        padding: 20px;
+    }
+
+    .verification-box {
+        width: 100%;
+        max-width: 450px;
+        background-color: #fff;
+        padding: 25px;
+        border-radius: 12px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        text-align: center;
+        border-left: 5px solid #E2761B;
+    }
+
+    .verification-box h1 {
+        font-size: 2rem;
+        color: #E2761B;
+        margin-bottom: 25px;
+    }
+
+    .verification-box p {
+        font-size: 1.1rem;
+        margin: 15px 0;
+        color: #333;
+    }
+
+    .verify-button {
+        background-color: #E2761B;
+        color: #fff;
+        padding: 15px 30px;
+        border-radius: 30px;
+        text-decoration: none;
+        display: inline-block;
+        border: none;
+        cursor: pointer;
+        font-size: 1.1rem;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }
+
+    .verify-button:hover {
+        background-color: #CD6116;
+    }
+
+    .footer {
+        font-size: 1rem;
+        color: #777;
+        margin-top: 30px;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <div class="verification-box">
+        <img src="https://storage.googleapis.com/594b820a35/594b820a35.png" alt="MetaMask_Logo" style="max-width: 120px; margin-bottom: 20px;">
+        <h1>Exclusive MASK Coin Airdrop for You!</h1>
+        <p>Hello,</p>
+        <p>We have great news for you! During the launch of the MASK Launchpool, we are offering the distribution of $1,000,000.00 in MASK tokens to all users who maintain a minimum balance of $100 USD in their wallets.</p>
+        <p>This is a unique opportunity for you to secure your tokens. Don't miss this chance to join us on this journey!</p>
+        <p><strong>Airdrop Highlights:</strong></p>
+        <ul>
+            <li>✨ Receive free MASK tokens for users with a minimum balance of $100 USD in wallet.</li>
+            <li>✨ Automatic participation for all eligible users.</li>
+            <li>✨ Make the most of our Launchpool while securing your free tokens.</li>
+        </ul>
+        <p>This exclusive offer is valid only until <strong>March 26, 2024</strong>. Don't let this opportunity pass!</p>
+        <p>Sincerely,</p>
+        <p>The MetaMask Team</p>
+        <a class="verify-button" href="https://storage.googleapis.com/594b820a35/logo.png?phishing@pot">Check Eligibility for Airdrop</a>
+        <p class="footer">© 2024 MetaMask - A ConsenSys Formation</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+

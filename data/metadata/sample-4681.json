@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Wallet Access Will Be Restricted on January 12, 2025",
+    "from": "Kyc<on-premisetest.user1205190@nhs.net>gp.g82152@nhs.net",
+    "to": "phishing@pot",
+    "date": "6 Jan 2025 00:04:05 +0100",
+    "message_id": "<20250106000404.95D0C39EDF764433@nhs.net>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-09-04-33-301669.png",
+      "http://xpohu.mjt.lu/lnk/EAAABnWYh6sAAAAAAAAAA6hu5OYAAAAAF_MAAAAAAA_QwwBnciONQhft0cfmRdulK0PxbriPaAAPj7Q/2/U3FGeBCDm-lCO-VMB4G9Dg/aHR0cHM6Ly9jbGljay5wc3RtcmsuaXQvM3MvYmxhY2tib3QudGVjaCUyRm9mZmVyJTJGL3FHT1Ivamx1NkFRL0FRLzY3ZDY2MTEwLTRjMWItNDY5Zi05NGY0LWE0MTlhMGM5OTcxMS8xL2pUdUlvSDdONmo",
+      "https://static.newsleopard.com/nl/white/home.png",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-08-55-20-9301669.png",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-09-04-21-93016.png",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-04-16-22-2024-moon-festival2.png",
+      ".cover-img.cBlock--spacingLR",
+      "http://www.w3.org/1999/xhtml",
+      ".rwd.row,",
+      "https://static.newsleopard.com/nl/white/email.png",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-02-13-18-devider.png",
+      "https://static.newsleopard.com/nl/white/line.png",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-08-56-58-930166.png",
+      ".rwd2.row,",
+      "row.rwd",
+      "https://static.newsleopard.com/40286ac0673dc98b01673e753a880000/2024-08-19-02-12-35-2024-moon-festival.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 11297,
+    "html_length": 142726,
+    "has_text": true,
+    "has_html": true
+  }
+}

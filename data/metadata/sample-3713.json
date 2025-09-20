@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Intimação",
+    "from": "dudaa_00@smtplw-02.com",
+    "to": "<phishing@pot>",
+    "date": "Sat, 17 Aug 2024 09:31:46 +0000",
+    "message_id": "<1746202408310943062D7BD1$4FC3404899@outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"585r1x7lJD4YXdPU3LW=_Tb0K39Z5UusrM\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"585r1x7lJD4YXdPU3LW=_Tb0K39Z5UusrM\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/e5f418c652bea92aae34f9457bf7c493-1723887107.96/a/e5f418c652bea92aae34f9457bf7c493/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/4515fb92b56c84e995c9ae7fca1403aa4553855c",
+      "https://www.maxieduca.com.br/storage/simulado/cache/b64a071c8fc945fd5af42e498033ad06/b64a071c8fc945fd5af42e498033ad06-240x.png",
+      "https://cutt.ly/Zev4LOoq"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 679,
+    "html_length": 6841,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Valor bloqueado por segurancaNm9ehEyNWyox3",
+    "from": "Nubank - suspeita de fraudeqoLEDh3Qm2 <plop77646@gmail.com>",
+    "to": "phish@pot",
+    "date": "Wed, 08 Nov 2023 08:39:10 -0800 (PST)",
+    "message_id": "<654bb9ae.c80a0220.5e3eb.5137@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============5323832079230251822==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============5323832079230251822==\""
+  },
+  "attachments": [
+    {
+      "filename": "pdf_YJur9usLK2.pdf",
+      "content_type": "application/pdf",
+      "size": 200928
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 576,
+    "html_length": 705,
+    "has_text": true,
+    "has_html": true
+  }
+}

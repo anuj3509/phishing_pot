@@ -1,0 +1,246 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Naschpaket gewinnen!phishing@pot
+From: Naschpaket, jehd <service@stayfriends.de>
+To: phishing@pot
+Date: Fri, 06 Oct 2023 13:38:36 +0200
+Message_Id: 
+ <cae0baf5-c067-4072-afd1-438806be5452@CO1PEPF000042AD.namprd03.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://easilett.com/cl/697_md/2010/68/20/23/2459859
+  - table.responsive
+  - http://easilett.com/media/4beff5744633749.jpg
+  - http://www.w3.org/1999/xhtml
+  - http://easilett.com/media/31c474278a4682e.jpg
+  - http://easilett.com/oop/697_md/2010/68/20/23/2459859
+  - http://easilett.com/media/616b271b263fedd.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+naschpaket html, body { margin:0; padding:0; } sizer { width:600px; } top_image { width:600px; height:79px; background-color:#b20808; display:block; } header_image { width:600px; height:350px; background-color:#08306e; display:block; } text { width:90%; color:#08306e; font-family: Arial, Helvetica, sans-serif; font-size:15px; background-color:#ffffff; line-height:21px; text-align: center; } side { width:5% !important; max-width: 25px !important; min-width: 5px !important; } button { width:90%; text-align:center; background-color:#ffffff; } button_image { background-color:#8abd20; width:326px; height:52px; display:block; margin:0 auto; } footer_image { width:600px; height:470px; background-color:#0062bd; display:block; } disclaimer { width:90%; color:#5a5a5a; font-family: Arial, Helvetica, sans-serif; font-size:11px; background-color:#eeeeee; text-align: center; } @media screen and (max-width: 600px) { .sizer { max-width:600px; width:100%; } .top_image { max-width:600px; width:100%; height:auto!important; min-height:20px; max-height:79px; } .header_image { max-width:600px; width:100%; height:auto!important; min-height:20px; max-height:350px; } .text { font-size:13px; } .button_image { display:block; max-width:326px; width:100%; height:auto!important; min-height:10px; max-height:52px; } .footer_image { max-width:600px; width:100%; height:auto; min-height:20px; max-height:470px; } table.responsive { width: 100% !important; max-width: 600px !important; min-width: 200px !important; } } Jetzt Naschpakete abstauben! Ist diese E-Mail nicht richtig lesbar? Hier geht es zur Online Version » Hallo {firstname}, Du bist in der Endauslosung zum Finale! Wir verlosen unter allen Finalteilnehmern 10 leckere Naschpakete bestehend aus jeweils 5 × 5 verschiedenen Fruchtgummi- und Kaubonbon-Produkten, - insgesamt 2,5 kg pro Paket - Prüfe Deine Angaben für die 100% kostenfreie Teilnahme jetzt! Deine Angaben: Vorname: {firstname} Nachname: {lastname} Perfekt zum Naschen mit Euren Liebsten. click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>naschpaket</title>
+<style type="text/css">
+html, body {
+	margin:0;
+	padding:0;
+}
+sizer {
+	width:600px;
+}
+top_image {
+	width:600px;
+	height:79px;
+	background-color:#b20808;
+	display:block;
+}
+header_image {
+	width:600px;
+	height:350px;
+	background-color:#08306e;
+	display:block;
+}
+text {
+	width:90%;
+	color:#08306e;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:15px;
+	background-color:#ffffff;
+	line-height:21px;
+    text-align: center;
+}
+side {
+	width:5% !important;
+	max-width: 25px !important;
+	min-width: 5px !important;
+}
+button {
+	width:90%;
+	text-align:center;
+	background-color:#ffffff;
+}
+button_image {
+	background-color:#8abd20;
+	width:326px;
+	height:52px;
+	display:block;
+	margin:0 auto;
+}
+footer_image {
+	width:600px;
+	height:470px;
+	background-color:#0062bd;
+	display:block;
+}
+disclaimer {
+	width:90%;
+	color:#5a5a5a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:11px;
+	background-color:#eeeeee;
+    text-align: center;
+}
+@media screen and (max-width: 600px) {
+	.sizer {
+		max-width:600px;
+		width:100%;
+	}
+	.top_image {
+		max-width:600px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:79px;
+	}
+	.header_image {
+		max-width:600px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:350px;
+	}
+	.text {
+		font-size:13px;
+	}
+	.button_image {
+		display:block;
+		max-width:326px;
+		width:100%;
+		height:auto!important;
+		min-height:10px;
+		max-height:52px;
+	}
+	.footer_image {
+		max-width:600px;
+		width:100%;
+		height:auto;
+		min-height:20px;
+		max-height:470px;
+	}
+	table.responsive {
+		width: 100% !important;
+		max-width: 600px !important;
+		min-width: 200px !important;
+    }
+}
+</style>
+</head>
+<body bgcolor="#eeeeee">
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+	<tr>
+    	<td align="center">
+			<table width="500" class="responsive" cellpadding="0" cellspacing="0" bgcolor="#eeeeee">
+				<tr>
+					<td align="center">
+						<table class="sizer" align="center" cellpadding="0" cellspacing="0" bgcolor="#eeeeee" style="font-family: Arial, Helvetica, sans-serif; color:#2f2f2f; font-size:13px; border-collapse: collapse">
+							<tr>
+								<td align="center" colspan="3"><strong><br>Jetzt Naschpakete abstauben!</strong><br></td>
+							</tr>
+							<tr>
+								<td align="center" style="font-family:Arial, Helvetica, sans-serif; color:#2f2f2f; font-size:11px" colspan="3"><a style="color:#313131" href="http://easilett.com/cl/697_md/2010/68/20/23/2459859">Ist diese E-Mail nicht richtig lesbar? Hier geht es zur Online Version »</a><br><br></td>
+							</tr>
+							<tr>
+								<td class="sizer" colspan="3">
+									<a href="http://easilett.com/cl/697_md/2010/68/20/23/2459859"><img class="top_image" src="http://easilett.com/media/4beff5744633749.jpg" border="0" alt=""></a>
+								</td>
+							</tr>
+							
+							<tr>
+								<td width="5%" class="side" style="background-color: #ffffff">
+								</td>
+								<td width="90%" class="text" style="background-color: #ffffff; color: #08306e; text-align: center">
+                                    <br><br>
+									Hallo {firstname},
+                                    <br><br>
+                                    Du bist in der Endauslosung zum Finale! Wir verlosen unter allen Finalteilnehmern <strong>10 leckere Naschpakete</strong> bestehend aus jeweils 5 × 5 verschiedenen Fruchtgummi- und Kaubonbon-Produkten,<br><strong>- insgesamt 2,5 kg pro Paket -</strong>
+									<br><br>
+Prüfe Deine Angaben für die 100% kostenfreie Teilnahme jetzt!<br>
+<br>
+<strong>Deine Angaben:</strong><br>
+Vorname: {firstname}<br>
+Nachname: {lastname}<br>
+<br><br>
+								</td>
+								<td width="5%" class="side" style="background-color: #ffffff">
+								</td>
+							</tr>
+                            <tr>
+								<td width="5%" class="side" style="background-color: #ffffff">
+								</td>
+								<td width="90%" class="button" style="word-break:break-all; word-wrap:break-word; padding:0px; margin:0px; text-align:center; font-size:13px; background-color: #ffffff">
+									<br>
+									<a href="http://easilett.com/cl/697_md/2010/68/20/23/2459859"><img class="button_image" src="http://easilett.com/media/616b271b263fedd.jpg" border="0" alt="" style="max-width:326px; width:100%; height:52px; background-color:#8abd20"></a>
+									<br>
+								</td>
+								<td width="5%" class="side" style="background-color: #ffffff">
+								</td>
+							</tr>
+							<tr>
+								<td class="sizer" colspan="3">
+									<a href="http://easilett.com/cl/697_md/2010/68/20/23/2459859"><img class="footer_image" src="http://easilett.com/media/31c474278a4682e.jpg" border="0" alt=""></a>
+								</td>
+							</tr>
+							<tr>
+								<td width="5%" class="side" style="background-color: #0062bd">
+								</td>
+								<td width="90%" class="text" style="background-color: #0062bd; color: #ffffff; text-align: center; font-size: 28px; line-height: 32px">
+                                    <br>
+									Perfekt zum Naschen<br> 
+                                    mit Euren Liebsten.
+									<br><br><br>
+								</td>
+								<td width="5%" class="side" style="background-color: #0062bd">
+								</td>
+							</tr>
+							<tr>
+								<td width="5%" class="side" style="background-color: #eeeeee">
+								</td>
+								
+								<td width="5%" class="side" style="background-color: #eeeeee">
+								</td>
+							</tr>
+							
+						</table>
+					</td>
+				</tr>
+			</table>
+        </td>
+  	</tr>
+</table>
+<table align="center" width="100%" style="max-width: 600px;" border="0" cellpadding="0" cellspacing="0">
+<tr>
+        <td align="center" border="0" cellspacing="0" cellpadding="0" width="600" class="responsive">
+			<font color="#9299a1" size="1" face="Arial, Helvetica, sans-serif" style="line-height: 13px; font-size: 10px; color:#9299a1; -webkit-text-size-adjust: none;">
+				
+				<hr style="border:1px; color: #9299a1; max-width: 600px; background-color: #9299a1; height: 1px; margin-bottom: 10px;">
+								
+				<b>
+
+			</font>
+		</td>
+    </tr>
+</table>
+
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://easilett.com/oop/697_md/2010/68/20/23/2459859">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="" width="1px" height="1px" style="visibility:hidden">
+

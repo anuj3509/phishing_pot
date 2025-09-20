@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "CORREIOS | ALERTA DE ENTREGA - DETALHES DO PACOTE: 4WY51TIR",
+    "from": "Correios | Central de Atendimento | atendimento3159.correios.com.br <eppichuacb@gmx.us>",
+    "to": "phishing@pot",
+    "date": "Wed, 15 Jan 2025 23:15:28 +0000",
+    "message_id": "<1MYeR1-1u3oFr0B5H-00IbqH@mail.gmx.net>",
+    "content_type": "multipart/mixed; boundary=\"===============0495915320285672667==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============0495915320285672667==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://enviocorreios.z15.web.core.windows.net/?/KrIYC7lR.SwlOfC.2xYWj3I.LdR0RU.hkPHpdVb.J9ccJZ",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 480,
+    "html_length": 1825,
+    "has_text": true,
+    "has_html": true
+  }
+}

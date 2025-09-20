@@ -1,0 +1,122 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Notificação de Urgência: Taxa obrigatória pendente para regularização do seu CPF. Evite bloqueios. Protocolo: 99405828.
+From: Receita Federal <pendencia707911@receitafederal>
+To: <phishing@pot>
+Date: Fri, 18 Apr 2025 08:38:16 +0000
+Message_Id: <4b0f42e35d58e519ab402f90bf0884a6@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_4b0f42e35d58e519ab402f90bf0884a6"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_4b0f42e35d58e519ab402f90bf0884a6"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://corre-765775392619.southamerica-east1.run.app
+  - hotmail.com,
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pendência Fiscal - CPF</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .alert {
+            background: #d9534f;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .warning-box {
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        .deadline {
+            background: #f8d7da;
+            text-align: center;
+            font-weight: bold;
+            padding: 10px;
+            border-radius: 5px;
+            margin-top: 15px;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .button {
+            display: inline-block;
+            background: #007bff;
+            color: white;
+            padding: 15px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: gray;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="alert">
+             ATENÇÃO: PENDÊNCIA GRAVE IDENTIFICADA EM SEU CPF 
+        </div>
+		<p><b>Prezado(a) rodrigo-f-p@hotmail.com,</b></p>
+        <p>Detectamos uma <strong>pendência fiscal GRAVE</strong> em seu CPF, relacionada à sua <strong>Declaração do Imposto de Renda 2024</strong>.</p>
+        <p>Conforme a <strong>Lei nº 9.430/1996</strong> e normas da Receita Federal, a falta de regularização desta pendência pode gerar:</p>
+        
+        <div class="warning-box">
+            <ul>
+                <li><strong>Multa de até 20%</strong> sobre o valor do imposto devido.</li>
+                <li><strong>Bloqueio imediato do seu CPF</strong>, impedindo emissão de documentos e movimentações bancárias e cancelamento das suas chave PIX.</li>
+                <li>Inclusão no cadastro de <strong>Inadimplentes da Receita Federal</strong>, afetando seu crédito.</li>
+                <li><strong>Ação fiscal executiva</strong> com penhora de bens e valores.</li>
+                <li><strong>Restrição para viagens internacionais</strong>, com bloqueio em aeroportos.</li>
+            </ul>
+        </div>                
+        <div class="button-container">
+            <a href="https://corre-765775392619.southamerica-east1.run.app" class="button">REGULARIZAR AGORA</a>
+        </div>
+        
+        <p class="footer">Esta é uma comunicação oficial da Receita Federal enviada automaticamente ao detectar pendências fiscais associadas ao seu CPF.</p>
+    </div>
+</body>
+</html>
+

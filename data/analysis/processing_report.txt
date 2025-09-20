@@ -1,0 +1,26 @@
+======================================================================
+EMAIL PROCESSING REPORT
+======================================================================
+
+PROCESSING STATISTICS:
+------------------------------
+Total Files: 5867
+Processed: 5337
+Failed: 530
+Phishing Indicators: 2634
+With Attachments: 292
+With Urls: 5013
+
+Success Rate: 91.0%
+Phishing Indicator Rate: 49.4%
+Attachment Rate: 5.5%
+URL Rate: 93.9%
+
+======================================================================
+OUTPUT FILES:
+--------------------
+• decoded_emails/ - Human-readable email content
+• metadata/ - JSON metadata for each email
+• email_summary.csv - Summary of all processed emails
+• processing_statistics.csv - Processing statistics
+• failed_emails.csv - List of failed processing attempts

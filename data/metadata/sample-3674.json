@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <nwankpa.i@infravision.com.ng>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Aug 2024 03:32:14 -0700",
+    "message_id": "<2a175efe82d4fef142e8a17d09cca738475c@infravision.com.ng>",
+    "content_type": "multipart/alternative; boundary=\"ab01436006c2ec7754fec0eb1e9b78dc1a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"ab01436006c2ec7754fec0eb1e9b78dc1a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=sWTnZnSnZutMwrYvRp",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=sWTnZnSnZutMwrYvRp",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050%26googlePIDR=phishing@pot%26id_list=nkLZROxvvNwyoptRXmYvOWyLXoStqZ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1032,
+    "html_length": 5163,
+    "has_text": true,
+    "has_html": true
+  }
+}

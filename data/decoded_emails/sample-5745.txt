@@ -1,0 +1,143 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 30 secondes pour connaître votre éligibilité
+From: MaPrimeRénov Info <info@horusvision.com>
+To: phishing@pot
+Date: Fri, 23 May 2025 06:56:17 +0000
+Message_Id: <010f0196fbeda26c-76a168a1-9acb-43d8-bbf7-1ef530bccf61-000000@us-east-2.amazonses.com>
+Content_Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_7DA30CED.4CDF3253"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_7DA30CED.4CDF3253"
+
+ATTACHMENTS:
+--------------------
+- ID#98173dF.pdf (application/pdf, 402 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, confirm
+URLs found:
+  - http://engroty.s3-website-eu-west-1.amazonaws.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Programme d'Aide Solaire 2024 body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; color: #333; } h1 { color: #2c3e50; font-size: 22px; text-align: center; margin-top: 10px; } p { font-size: 14px; line-height: 1.6; margin: 10px 0; color: #555; } .highlight { color: #d35400; font-weight: bold; } .cta-button { display: inline-block; background-color: #d35400; color: #fff; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-size: 16px; margin: 20px auto; text-align: center; } .cta-button:hover { background-color: #c0392b; } .footer { font-size: 12px; color: #777; text-align: center; margin-top: 40px; } Profitez d'un Panneau Solaire Gratuit en 2025 Les aides pour la transition énergétique expirent fin 2025. Avec le programme MaPrimeRénov 2025 , l'État vous offre des primes pouvant atteindre 10 000 € pour installer des panneaux solaires et réduire vos dépenses énergétique. Ne manquez pas cette opportunité unique de bénéficier d'un soutien financier pour vos projets écologiques. Dans certaines régions, les aides couvrent jusqu'à 100 % des frais d'installation. Répondez à notre questionnaire pour vérifier votre éligibilité. Obtenez une réponse instantanée en seulement 30 secondes ! Je Confirme &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © 2025 - Tous droits réservés Ce message vous a été envoyé suite à votre intérêt pour la transition énergétique.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="fr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Programme d'Aide Solaire 2024</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        h1 {
+            color: #2c3e50;
+            font-size: 22px;
+            text-align: center;
+            margin-top: 10px;
+        }
+        p {
+            font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555;
+        }
+        .highlight {
+            color: #d35400;
+            font-weight: bold;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #d35400;
+            color: #fff;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            margin: 20px auto;
+            text-align: center;
+        }
+        .cta-button:hover {
+            background-color: #c0392b;
+        }
+        .footer {
+            font-size: 12px;
+            color: #777;
+            text-align: center;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body style="font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+            color: #333">
+
+    <h1 style="color: #2c3e50;
+            font-size: 22px;
+            text-align: center;
+            margin-top: 10px">Profitez d'un Panneau Solaire Gratuit en 2025</h1>
+
+    <p style="font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555"><u>Les aides pour la transition énergétique expirent fin 2025.</u></p>
+
+    <p style="font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555">Avec le programme <strong>MaPrimeRénov 2025</strong>, l'État vous offre des primes pouvant atteindre <strong><font color="#ec8c13">10 000 €</font></strong> pour installer des panneaux solaires et réduire vos dépenses énergétique.</p>
+
+    <p style="font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555">Ne manquez pas cette opportunité unique de bénéficier d'un soutien financier pour vos projets écologiques.</p>
+
+<span style="font-size: 14.7px;">Dans certaines régions, les aides couvrent jusqu'à <font color="#ec8c13">100 %</font> des frais d'installation. Répondez à notre questionnaire pour vérifier votre éligibilité.</span><br><br><span style="font-size: 14.7px;">Obtenez une réponse instantanée en seulement <font color="#ec8c13">30 secondes !</font></span><p style="font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555"><br></p>
+
+    <div style="text-align: center;">
+        <a style="display: inline-block;
+            background-color: #d35400;
+            color: #fff;
+            padding: 12px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 16px;
+            margin: 20px auto;
+            text-align: center" class="cta-button" href="http://engroty.s3-website-eu-west-1.amazonaws.com" target="_blank">Je Confirme</a>
+    </div>
+
+    <div style="font-size: 12px;
+            color: #777;
+            text-align: center;
+            margin-top: 40px" class="footer">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; © 2025 - Tous droits réservés<br><br>Ce message vous a été envoyé suite à votre intérêt pour la transition énergétique.<p style="font-size: 14px;
+            line-height: 1.6;
+            margin: 10px 0;
+            color: #555"><br></p>
+    </div>
+
+
+
+</body></html>

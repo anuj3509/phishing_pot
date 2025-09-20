@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Action Required.",
+    "from": "Standard Chartered Kenya PLC Settings---\n\t<info@scsettings.onmicrosoft.com>",
+    "to": "\"phish@pot\" <phish@pot>",
+    "date": "Fri, 15 Sep 2023 10:02:31 +0000",
+    "message_id": "\n <KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6A@KL1PR0401MB4964.apcprd04.prod.outlook.com>",
+    "content_type": "multipart/related;\n\tboundary=\"_004_KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6AKL1PR0401MB4964_\";\n\ttype=\"multipart/alternative\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\n\tboundary=\"_004_KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6AKL1PR0401MB4964_\";\n\ttype=\"multipart/alternative\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "https://paxmod.tech/",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "image001.png@01D9E7BB.7AFF1BA0]",
+      "div.MsoNormal",
+      "image001.png@01D9E7BB.7AFF1BA0",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 294,
+    "html_length": 4242,
+    "has_text": true,
+    "has_html": true
+  }
+}

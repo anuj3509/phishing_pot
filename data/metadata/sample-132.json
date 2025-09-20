@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "GREETING TO YOU",
+    "from": "\"MR. MUSA MOHAMMED\" <mr.musamohammed198@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 28 Nov 2022 12:16:43 +0100",
+    "message_id": "<CABbpiy1mEcFoBFMxNNiHQC8DaXiAT7xcyFwDdQg8rzD0sdWYGA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000037bb7905ee860230\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000037bb7905ee860230\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "MR.MUSA",
+      "mr.musamohammed198@gmail.com",
+      "mr.musamohammed198@gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 274,
+    "html_length": 446,
+    "has_text": true,
+    "has_html": true
+  }
+}

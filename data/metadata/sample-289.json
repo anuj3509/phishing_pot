@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: resgate seus pontos agora!",
+    "from": "Bradesco <resgate@seuspontosativosonline.com>",
+    "to": "phishing@pot",
+    "date": "Sat,  4 Feb 2023 12:35:55 +0000 (UTC)",
+    "message_id": "<20230204123555.C5C29804FE@ubuntu-s-1vcpu-512mb-10gb-syd1-06>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-central1-thinking-creek-370812.cloudfunctions.net/function-desc",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 994,
+    "html_length": 8031,
+    "has_text": true,
+    "has_html": true
+  }
+}

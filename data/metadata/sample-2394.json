@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "subject": "[NOTICE] A recent send has been delayed",
+    "from": "C o i n b a s e <noreply@dev-b7.nl>",
+    "to": "phishing@pot, admichael@hotmail.co.uk, achmed_99@hotmail.com, \r\n\tnsaprasla@hotmail.com, donovantokarijo@hotmail.com, \r\n\thgerritsen@hotmail.com, edoardoagnello@hotmail.com, \r\n\tcollin987@hotmail.com, erikazammit@hotmail.com, matong2@hotmail.com",
+    "date": "Sat, 23 Dec 2023 13:08:33 +0000",
+    "message_id": "<0101018c96caab66-b6b691c1-7bc8-462b-8854-cae65bcf20a0-000000@us-west-2.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "th.small-9{",
+      "table.body",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/3aca56371967418192255878e9689713/Rebrand%20Assets/coinbase_header_wordmark.png",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "th.small-12{",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=f72d79d9480073e0JmltdHM9MTcwMzIwMzIwMCZpZ3VpZD0zZmE3ODFlMC1lMTAyLTZjMTMtMDNjZi05MjBmZTA5MDZkZjAmaW5zaWQ9NTE5Mw&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=3fa781e0-e102-6c13-03cf-920fe0906df0&amp;psq=https%3a%2f%2fpestcontrolsunbury.com.au%2f&amp;u=a1aHR0cHM6Ly9wZXN0Y29udHJvbHN1bmJ1cnkuY29tLmF1Lw&amp;ntb=1",
+      "th.small-7{",
+      "http://www.w3.org/1999/xhtml",
+      "th.small-5{",
+      "https://coinbase.com",
+      "th.last",
+      "th.first",
+      "th.small-2{",
+      "th.small-6{",
+      "th.small-8{",
+      "th.small-3{",
+      "table.button.small-expanded",
+      "th.small-4{",
+      "table.container{",
+      "table.button.small-expanded{",
+      "table.container",
+      "th.small-10{",
+      "http://comm.coinbase.com/CI0/0100018c952cb785-b8ae965e-ff94-4e53-a8b2-f6476c48ded4-000000/DpBlxIu7CBOT_r4xOMxIgZaBXQy-Z7fO1YZAgu3jdwY=332"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4820,
+    "html_length": 12247,
+    "has_text": true,
+    "has_html": true
+  }
+}

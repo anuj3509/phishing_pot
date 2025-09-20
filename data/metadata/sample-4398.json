@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Ihr Gratis Lidl Gutschein",
+    "from": "Supermarket Team,(<noreply@team.mobile.de>)",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Nov 2024 11:12:14 +0000",
+    "message_id": "<TUUQHULRIEEMOQ8AU9KYO1L@dhl.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "leaadpersons.com/biz/GutscheinLidl5002.png",
+      "div.kl-row.colstack",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "http://topmarktingplace.com/4yxoqa38901oxLr1164fayegkryqq14302PQPJYCNSNHSEUAM2PBUZ3162B10",
+      "http://topmarktingplace.com/6svQuZ38901hSqI1164fsjlgfjsjo14302SHINHHZSCATVGGQ2VPMY3162w10",
+      "http://topmarktingplace.com/4lzwte38901datN1164kuqvrseauw14302MBCEMFZQBBVANNH2PQSB3162a10",
+      ".table-mobile-only.block",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "https://leaadpersons.com/biz/GutscheinLidl5002.png",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://leaadpersons.com/biz/lidlbs.png)",
+      "https://leaadpersons.com/biz/lidlbs.png",
+      "table.mj-full-width-mobile",
+      "http://topmarktingplace.com/5StaJf38901EarY1164twhfvhprks14302CNKIDHKSEQNKGGA2CITJ3162b10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5254,
+    "html_length": 26075,
+    "has_text": true,
+    "has_html": true
+  }
+}

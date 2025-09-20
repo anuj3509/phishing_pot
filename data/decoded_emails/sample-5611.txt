@@ -1,0 +1,104 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Re: [john-users] md5crypt-long works in John but not in hashcat
+From: Shawn <shawn@xmtservices.net>
+To: john-users@lists.openwall.com
+Date: Wed, 4 Jun 2025 16:30:28 -0700
+Message_Id: <2EDCD23B-FD7F-4E63-B02D-D902021B1566@xmtservices.net>
+Content_Type: text/plain; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/plain; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hushmail.com
+  - hashcat.net
+
+DECODED TEXT CONTENT:
+------------------------------
+Atom,
+
+Does this apply to wordlist cracks as well?
+
+
+Shawn
+
+> On Jun 4, 2025, at 00:08, atom <atom@hashcat.net> wrote:
+> 
+> ﻿Most important: I'm 100% sure, magnum, you're not too stupid.
+> 
+> I just wanted to respond because it was said Hashcat can't handle long
+> passwords. It can. Most people these days just use -O from muscle memory
+> and forget the implications.
+> 
+> Make sure you omit -O, and you'll be able to crack passwords longer than 16
+> characters.
+> 
+>> $ echo -n verylongpasswordmorethan16 | mkpasswd -s -5
+> 
+>> $1$4YFHDKR0$v7SN48VopUztrNFFaIMzq1
+> 
+> Test:
+> 
+>> $ ./hashcat -m 500 '$1$4YFHDKR0$v7SN48VopUztrNFFaIMzq1' -a 3
+> ?l?l?l?l?longpasswordmorethan16 --adv
+> 
+>> hashcat (v6.2.6-941-gad38c9253) starting
+>> ...
+>> Minimum password length supported by kernel: 0
+>> Maximum password length supported by kernel: 256
+> 
+> Above you can see the supported password length (depending on the given
+> command line parameters).
+> 
+>> ...
+> 
+> $1$4YFHDKR0$v7SN48VopUztrNFFaIMzq1:verylongpasswordmorethan16
+> 
+>> ...
+> 
+> 
+> 
+>> On Tue, Jun 3, 2025 at 12:30 PM magnum <magnumripper@hushmail.com> wrote:
+>> 
+>>> On 2025-06-02 07:05, Shawn Tayler wrote:
+>>> Just curious what you are doing different in JTR on your
+>>> format md5crypt-long. JTR cracks the hashes straight away but
+>>> I don't have cuda support with it. I have cuda on hashcat but
+>>> it doesn't crack over there.
+>>> 
+>>> What are you guys doing differently?
+>>> 
+>>> Is there a document to walk me through getting CUDA support on
+>>> JTR?
+>>> 
+>>> Thanks for all the great help in the past.
+>> 
+>> Does any JtR format work with CUDA? If so, you're actually running
+>> OpenCL then (which comes with CUDA). Our actual CUDA support was
+>> experimental and only had a few formats. We dropped it years ago in
+>> favor of OpenCL as the latter is portable.
+>> 
+>> Other than that, the md5crypt-long format is CPU-only. You're supposed
+>> to run md5crypt-opencl and then (or in parallel) md5crypt-long with
+>> --min-len=16. We should definitely support passwords longer that 15 with
+>> OpenCL but no-one has contributed that and I'm too stupid to understand
+>> the optimizations so my tries have failed.
+>> 
+>> magnum
+>> 
+>> 
+> 
+> --
+> atom
+
+
+

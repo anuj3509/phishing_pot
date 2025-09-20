@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Notificação ao cliente - Cod. xsjgzJ5ukSpOF",
+    "from": "\"Ourocard - Cod. 586467716701849933\" <arimanngy286@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 09 Nov 2023 05:02:17 +0000",
+    "message_id": "<ee956ea42e60edc9c98f891c1b0e5c9c@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"3941e65b0837546360f102da00050981\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"3941e65b0837546360f102da00050981\""
+  },
+  "attachments": [
+    {
+      "filename": "KyzB5otrM9nvM7mx2433.pdf",
+      "content_type": "application/pdf",
+      "size": 123671
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 183,
+    "html_length": 273,
+    "has_text": true,
+    "has_html": true
+  }
+}

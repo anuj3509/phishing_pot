@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Atenção Itau - fg46qFdZiRVH3jI",
+    "from": "\"[Itaucard Pontos - 63600497739178]\" <johnnyhughescr2g6cr@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 22 Aug 2023 01:03:45 +0000",
+    "message_id": "<61c955c5-20ed-c641-b617-f385206d963a@undefined>",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-072e3b6766f70ec3-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-072e3b6766f70ec3-Part_1\""
+  },
+  "attachments": [
+    {
+      "filename": "Pontos-anexo85232.pdf",
+      "content_type": "application/pdf",
+      "size": 13153
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 220,
+    "html_length": 618,
+    "has_text": true,
+    "has_html": true
+  }
+}

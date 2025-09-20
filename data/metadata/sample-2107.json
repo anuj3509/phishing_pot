@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie 1 von 5 amazon-gutscheinen im Wert von 1000���!.",
+    "from": "Xmas Deal, <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Dec 2023 08:30:10 +0100",
+    "message_id": "<WKOXiiQ.0.0.WKOXiiQ.9.WKOXiiQ@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://e4hrh1yr.superkoran.info/WGhobms0SG4zVkdWeGlTRGxGZUdUaDlUZkpnbktGSUtmZFVRWldxWVBGMEJvME5WZStzSVdvT2NEWURuY0ovdFlOYWdOQlYySzlhY1VRR09kK3hraHc9PQ__",
+      "https://amazon-xms.blogspot.com/#NktCbVBYcVkrc1lFQUFVWkdOODAxV1VvRUJ2c3o3ZC9JakxZcUNUenQ5NjlhTjZZVGVMQVVqYWVOVFB4NExyZUdWUkViSDBSbHlla2VKYmx0Vm8vaHc9PQ__",
+      "table.icons-inner",
+      "https://trk2.de/7667x74c",
+      "www.zupimages.net/up/23/49/dwqh.png",
+      "https://www.zupimages.net/up/23/49/dwqh.png",
+      "http://superkoran.info/SzlUaGxVSktsc1ZtNjF3dFVMb1FScXF6Q0RJQTZkYXFXcVFyMThoNGFRZDVYRnlmdWtDU3A5cktmaUJ4MzFhLyt3amhSb3BaNU9pemNOd0hmeVZVd3c9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1398,
+    "html_length": 14535,
+    "has_text": true,
+    "has_html": true
+  }
+}

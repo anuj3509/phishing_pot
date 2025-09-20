@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "���� Wij proberen uw pakket te bezorgen. U heeft 1 pakket in afwachting van bezorging ����",
+    "from": "\"Fedex-klantfeedback\" <Klantenservice-Fedex@aprimarse.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 24 Dec 2024 22:06:46 +0000",
+    "message_id": "<16_HTML-021545412-19379-0374496346-9424@c0QrqKrQ.xt.local>",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://click.e.wanderwonderings.best/ZlNnazQzeFdxVWs1b2s5Rmo2c2JQOXI4dGJOUnlDQUZKNEJkVjE4MDJjRlVCMTVvZW5WWkVDc2h1SXRrNWhocFZLd2lHeVFUTDd6VHdEZlczQVd2SXpNVDU0OS94NW9JREZqNE5KVUsvY1k9",
+      "https://click.e.wanderwonderings.best/T05nUXVENTRkOEdLekNjZEczMHFhdlphOHhCRnppR1ZPdk1EbU9JWDRYK2FrM3hiVEZaWW03dzZ5TWhHYzNWQU43SVJ3TGo0TW11ZjBVWFc1elpyT2ZvQ3Jud05HL2Y0SExqMkROdkF5Y1U9",
+      "https://click.e.wanderwonderings.best/d4942daf2404895.png",
+      "https://click.e.wanderwonderings.best/R0FKSlAySUxUWG5kT0VOQU1ORFBnai9wcTRHcVpCVkFLQktNOE5YTTFadSs3a3BRRWRiYW1vZXBndFpjcDR3TDNtOVFrQUx0YTFickxWd1VGSkd0M1ZRWHN6TXlIRURUNmEwYWw0QUljSGM9",
+      "click.trace.versatilevoices.shop/T05nUXVENTRkOEdLekNjZEczMHFhdlphOHhCRnppR1ZPdk1EbU9JWDRYK2FrM3hiVEZaWW03dzZ5TWhHYzNWQU43SVJ3TGo0TW11ZjBVWFc1elpyT2ZvQ3Jud05HL2Y0SExqMkROdkF5Y1U9",
+      "https://click.e.wanderwonderings.best/TUtES2JKc20xNXRwYm5hYVhKcm50TWNCQmxYWld3SXJGUDk1eGV1OW5sazRPWFhyb1hzbWFqdnJDeld6MFFOVEpsMCtxY2lLcGQ2TFlQeCtMS0REWDJEM2RZSDFSVjFad1lTVXdDQmdsb2s9",
+      "https://click.e.wanderwonderings.best/da100e21af6bfc0.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 302,
+    "html_length": 4322,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 774548185",
+    "from": "Mercado Livre <notificacoes@mercadolivre.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 14 Aug 2023 23:10:32 +0000",
+    "message_id": "<7fda4c3d-7d2d-ec5a-5d03-0859a3bc5b0a@mercadolivre.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png",
+      "https://n-a4qxna7jwq-rj.a.run.app/m/?tr=4dfea2c2a16d446399ac44ba9496db6d&amp;t1=ml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 533,
+    "html_length": 10327,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Tenemos una sorpresa para los clientes de Douglas.",
+    "from": "<Douglas>, <message@my.zalando.es>",
+    "to": "phishing@pot",
+    "date": "Sun, 21 Apr 2024 15:39:43 -0400",
+    "message_id": "<ivqkicb@production7.ibfd.org>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_169787799330761007\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_169787799330761007\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://redriifii.cfd/YWNJamtVWGhvZWE1eXNlZTNacGoxN0hxTFZPTWhaMjU0WkpzK050b2xkYzZmREY5dFVVL005S25YaG1oQ09reU9SRkVnRnRPU2RJTzZacmdLVTFuTDJIRFdlbmR0WVQ1YytMUWJ5cFNHLzlGYzBBcUdHRWRLTGJYNWh5UnRKcHVySGdIcUNQNkdzclQ3TWhTT2RwVTN3PT0_",
+      "http://redriifii.cfd/U1RYZm9KRHFpWUlvaDJaOWNBcU9kYXQyNENhZ3NDYkM2MWVVcmVLaXU4SUx6TUxwQ2tmZFJ2cG1sYTFKVWpkMFArME8vTTg4alJ2VVdWc21aMlZGWENabDV5a3BHVnJhcE5CWStudDhYOGtFNm1OdTlEN1RLZ2lJOTRSUUV0YzB4N3dBV0owRzlYb3NFNG9GSC8yTWNRPT0_",
+      "www.zupimages.net/up/23/45/i6jf.png",
+      "www.zupimages.net/up/23/20/i2cz.png",
+      "http://redriifii.cfd/YW9jb0RTQ3M4QTE0Y1hvSHFTaUsyd2FJa2h2RCtnbGJ1aXpheE1LRjBWQnd1aC9HanBqaXZueUhwcUFPeDlsK2I3SnV2SW1PUlZkRlZhdHkzUCs1REZZdEJwNXBkRXh5MjdjU3RvK3c5aWhMK29aS1BhOW1sMzk3ZFBRZEpiVVNYWDMzbkNMenBTZjFHcUszTVVnOW5RPT0_",
+      "https://www.zupimages.net/up/23/20/i2cz.png",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/23/45/i6jf.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4991,
+    "html_length": 12048,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Gewinnmitteilung f��r Sie phishing@pot",
+    "from": "Casino4You, <service@stayfriends.de.>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 07 Jan 2024 23:42:15 +0100",
+    "message_id": "<xhc2lts.6o0bv.g5k.g5k@cdxovmyrsniygev.qge>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "cdn.mcauto-images-production.sendgrid.net/0de931a957bc9632/c1e9794e-870c-476d-b95f-48dbbad3c900/448x100.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5x16q5s1x6q1s651x6q5s1x5s1x51x11111.shtml#cl/5041_md/4049/25731/1244/143/149762",
+      "table.wrapper-mobile",
+      ".column.of-3",
+      "http://cdn.mcauto-images-production.sendgrid.net/3e192fc7b7aa95a4/25f55c30-b00a-4554-ac49-adbd366d8822/600x205.png",
+      "cdn.mcauto-images-production.sendgrid.net/3e192fc7b7aa95a4/5b99f9f8-9499-4f0f-8df2-a8a55b302c56/600x250.jpg",
+      "table.wrapper",
+      ".column.of-4",
+      "a.bulletproof-button",
+      "http://www.w3.org/1999/xhtml",
+      "img.max-width",
+      "cdn.mcauto-images-production.sendgrid.net/3e192fc7b7aa95a4/25f55c30-b00a-4554-ac49-adbd366d8822/600x205.png",
+      "http://cdn.mcauto-images-production.sendgrid.net/0de931a957bc9632/c1e9794e-870c-476d-b95f-48dbbad3c900/448x100.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5x16q5s1x6q1s651x6q5s1x5s1x51x11111.shtml#op/5041_md/4049/25731/1244/143/149762",
+      "http://cdn.mcauto-images-production.sendgrid.net/3e192fc7b7aa95a4/5b99f9f8-9499-4f0f-8df2-a8a55b302c56/600x250.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5x16q5s1x6q1s651x6q5s1x5s1x51x11111.shtml#oop/5041_md/4049/25731/1244/143/149762",
+      ".column.of-2",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2639,
+    "html_length": 32221,
+    "has_text": true,
+    "has_html": true
+  }
+}

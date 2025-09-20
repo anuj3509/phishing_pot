@@ -1,0 +1,2282 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Order Confirmation for Zoo sidney
+From: "Eventbrite" <noreply@order.eventbrite.com>
+To: phishing@pot
+Date: Fri, 28 Feb 2025 02:56:50 -0000
+Message_Id: <174071141043.7.8116820166582475543@4f06f508d483>
+Content_Type: multipart/alternative;
+ boundary="===============7734672111032595404=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="===============7734672111032595404=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://www.eventbrite.com/mytickets/11860838043?sig=AQICAHhJPpK88%2BnERThoz0ShDUpYcZ683rBwifXM%2BOuyjlPVYwGDk45dcbFBDoaAz6qBqLTgAAAA3jCB2wYJKoZIhvcNAQcGoIHNMIHKAgEAMIHEBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDMNpIl%2BGeE3EzefxXQIBEICBlj2fUd%2Bp6B%2Fdnm8pTw1UD2clxZfKdONoiVSYhAi1aqAjBvOYR0b%2FCBwTjcg4JBlNRykt%2FRA6lklRcnbTs6kNfJzB51I3JqKOptcAe4PnyGOPaKqwn2hpbsC1nCLM845MunZa%2BIYopdvtZQk4nhLSMf7%2BPTiBd1OpsLRRj4FIykawwhyG7CZhP3WChmLsPQaP2FpxR3hiHw%3D%3D&ref=eemailordconf&utm_campaign=order_confirm&utm_medium=email&utm_source=eventbrite&app_cta_src=order_conf_email&tickets_discarded=1&utm_term=viewtickets
+  - https://clicks.eventbrite.com/f/a/SAbk7go_E9PRez2OrjdsfQ~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9pCJR9eklKQkRfq42AyJPuZSLPfubMapMW08fYZtiLfjSzRn-WJUkWrK3IF8rti3k5gwJjGbi0mK5-jlnaUDOMyC9rlUoxX--o8v5sBxllEG
+  - https://cdn.evbstatic.com/s3-build/perm_001/b8efb2/django/images/mobile-app-promo/group-tickets.png
+  - Eventbrite.com
+  - https://clicks.eventbrite.com/f/a/9I7VfHWNEcd45NHHYQi6rw~~/AAQxARA~/HTFZ7FGKGGr6NW2MvlCf8dFgugAFW1W2xj-5zBK-HLTCMuAk12I-kM_q-Dyy49Y_z2B1e6C5JUCk36d1QUTxWZiH9RfEbfZvfLQMTE2wM9VzigIQO24LsOQqm1yJfMVPXnvgillgA1H1cr61vMG4_Q~~
+  - https://clicks.eventbrite.com/f/a/ouZ4grLCZeBRR5a72krGjA~~/AAQxARA~/U7V1PMPeHI-uE6MC9FZe3pU9gGskNvEhsMNXEMfj7DPH2i2jW3GogkRubWnx9Vd9Jr8a1ZG1oiPzKHkksGvNFSaLYh1B33xrkUDadei8dIhdI4miyHdShKxTkp6Jx5ErbXCI6RvFAFWPKPkf-qyKFu7v7mrn-1IFqkB4-tOGDAgcB3zyXm-mEkWtxAkdOZTrMCcFL68IUwSlrSMpRBrhSfLcc2FNoaxq6OuZigiY5DWTgmAmI6n_kNrpDArgwLFU
+  - https://clicks.eventbrite.com/f/a/5VXT1I_kvmQxt3AdObJEcg~~/AAQxARA~/t9fPQtnHvff-sgMdpqdhPO32yfVHC27bsnQRbsphiK1V8NxOSvKGcCjAlRkse9wbow_LgxbivreVjX4Ox9J8XIF51LJw3o06szsaJc3N-qJcPG_pkZDSa_QUfaD-JJo_
+  - https://clicks.eventbrite.com/f/a/GdSx-mzPe2I1PQaoWd6Tgw~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj9pQN9Oh7k6BF8vTdLdx-QcmCuVI6Cbsz_KLGItlTSgIIBW_WyfnHReXSLU33TWipmiKKUnBuGbQNIshjct3MWEOE1PwDLzf9JuwA1Av4FAP-x9TG4vSnGHv3t55fHVRyshF8y0FgsUpfNOzUj8cjD5WxQKLAVuzq_LZg0c8WcDuqnCRP5dLn_2lknIgRKqJxRPlwkePJfcj4m0eT8H6ETuBVzpAH2JS6Lekrl3SUEQIWEO-kfYh2wAoDNiKbyxOGbgxl8YyE4DUJQoQsb1lin4K-tPWJUP7HMi4Wn8SmOLL
+  - https://clicks.eventbrite.com/f/a/4uFBlxMKhemglpMjmHYgug~~/AAQxARA~/3JUuM9lVVLPQmw2bwMraP5r9IMdZxalt9TCGY1NSx3BWdagfX3WSSasR9EgwKDOCcQMvDlvmePAtE7buUotTNPKRZ0alXxBguIBuqgICmQ3LJT1SXunLZdshbq7SVYXSfBSWgETYl_zLTVS_QQlbvdhHOtuDvlLtxqruQ5_Ki6mM62Hier_HBquq2JYrhndAXCB-qK7_UkeXVkHbrNI-1iDrjttzxKxEQDBvxK3f3HQ81mhGQie_Dh5GvJ4_hsN1-WY-8OVGbrboCvvE1nt5YW_I13keXUhhSDdYQ8m_wxyWL04l2wjDuGQqizFULuSNnDlbWxBB1PygatXoZa6XDRH0HoKi0JaVx-Bky_rPmg-PelqPdTY1ad5uUJBhMN8DILJ6FiLDB8mrXYtA_xiy_zpxeGoO0dmLIzZuTcS_fdUUtoyhJMDfM7IAVgZX5Va4U_nXYlNmpL1B0EOqrNq2Av0hJGzym1qcdBGnZ7XhckYTmnOjGIY9mkcBHtrXrqoJDM87HNZoOKEeR2PZtWHdXUVKSyJlhjGn0Wx3IlNRip3DfoQf0KGY8_fK8JAngeYo-tJ3PfH1-uIGObCjAgAIKR-t8ctx42oiw7MePTot7Oz0AcoCgSKYAFdc1_YFEE1EGMLK2G5GPS35ao3O5vabu9yo_1Sl2oQl-srCOpNaPd7Xuq3OTCYBsNzsy4UpZEW_RYGMFMkIiXe5DIzxbCg-iFPPUmA23q0scnTew3l0VluzZMqDPNgS4_Fa02H9Q7ih5cEji4zMjwoaK9gU9T6UsAMRBqPIR6FYQlx-5-nrqUMmzi-ysukgF5EspA7IRmXltk8KBI1fbrjvKBH-DtzfQ9upt8VTm08CWzlPzPfaJOHOla_i0fvcMq4wQ05xQFnV
+  - https://cdn.evbstatic.com/s3-build/perm_001/009b0f/django/images/emails_2018_rebrand/IG-icon-purple@2x.png
+  - https://cdn.evbstatic.com/s3-build/perm_001/6ff4e8/django/images/email/48_hours_reminder/scan-qr-code.png
+  - https://clicks.eventbrite.com/f/a/qBASW1_186QztbqGCSep-g~~/AAQxARA~/eH78tCr5Rm1zAHbnFlO3oQdjq6dfcLquqNSw7dkXHF3q7F4I6Lucss2rCg9hPfSqBrDvzNFvBBg3DiIH33mJpfEMJWBhngKApenfqobGyHPxzMh8FqTDmaIh8l6AbyhS
+  - https://cdn.evbstatic.com/s3-build/perm_001/ac2bf4/django/images/emails_2018_rebrand/FB-icon-purple@2x.png
+  - https://clicks.eventbrite.com/f/open-in-app/GdSx-mzPe2I1PQaoWd6Tgw~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj9pQN9Oh7k6BF8vTdLdx-QcmCuVI6Cbsz_KLGItlTSgIIBW_WyfnHReXSLU33TWipmiKKUnBuGbQNIshjct3MWEOE1PwDLzf9JuwA1Av4FAP-x9TG4vSnGHv3t55fHVRyshF8y0FgsUpfNOzUj8cjD5WxQKLAVuzq_LZg0c8WcDuqnCRP5dLn_2lknIgRKqJxRPlwkePJfcj4m0eT8H6ETuBVzpAH2JS6Lekrl3SUEQIWEO-kfYh2wAoDNiKbyxOGbgxl8YyE4DUJQoQsb1lin4K-tPWJUP7HMi4Wn8SmOLL
+  - https://clicks.eventbrite.com/f/open-in-app/R1INBqARHJSLic4KwJ4Hcw~~/AAQxARA~/PX1iZRBzMJOhB8EeXImE_HD0vPb7YTo5LYfxl0gVClEjZMDMB1PEOqFSLRaG28Lf8cNiO8osN_fHv9iASqwuqjlYtWaG-UHh2c1JD3kp7R1xyNJfFAGUV2yQT9BJPCCwFiKR_xREVtRMQMZaZrwAFPjZ8W72AE97SUYym4UVPNtEUo45FDBRAklbF4DPbe8PE3oLHPNWNC1RbAMmLOPWWB1jipLuuUnAPh2Y-NrVvYlL3HEDU-aLmESg6Z52YtxaNHlhv3Jrat1A9MWkARHixx9PZUQhjk1WGGuNO8VchcXS_RBgWLx0GoCMP84D44yU
+  - https://cdn.evbstatic.com/s3-build/perm_001/de0b06/django/images/emails_2018_rebrand/EB-logo@2x.png
+  - https://cdn.evbstatic.com/s3-build/perm_001/42bf8d/django/images/mobile-app-promo/eventbrite-letter-rounded.png
+  - http://www.w3.org/1999/xhtml
+  - https://clicks.eventbrite.com/f/a/rFtfedK4uSZDOiV__rhcUA~~/AAQxARA~/TFEDKRBGxV57gzoLSq2sFkzIGRINGFcy76NRp59TTcn4RNxDbtBkMq3pJuiy1fzS_8J2EvE9C5AtCc3cPKfjV9HVf6LS78-xW_6d6zmSowzCYeAtGS6zlqQoI5rcuDQdtdFlTIJ0ECdlPiYB8I6LYTiqKsItqSVUeslCiqDbkiDerS8_MlEdugpY7GGWSuCgnuP4s4B0nKodwrK7PyMhY44yNyAptQ1xiIAQjTuwRNwpMt8P9vjQr7NSIELWrYWEQC09rF1n2IabLZMKYaTD08DINxuAyyyvnQIr8efLliA~
+  - https://cdn.evbstatic.com/s3-build/perm_001/6026d5/django/images/badges/app_store_badge_en.png
+  - https://clicks.eventbrite.com/f/a/YGDCw0UmDIf7RuB8Jqd0Gw~~/AAQxARA~/S0FuklWaswRbARuoQbzBaeUmmOTMHPr6HFVAEAk76kAGNjXJMlAUhB5pgzb15sy7MvLfQPZVnENCmkdPkKylMSEyJCk0OrT69CBEJmEwwA7IvXnZLzAfJkX1P1Up1y49wotVWlCrvOBTqyckRlJweKg5YhvLVRctE2qL_8X4eE7GadcRDEjQjK5rUwfDLpUVG_pojTAuXvN28eh_ssA9M2iVGNy0cu6jRCwi38FEDlaOAHoYpXaU3SW83fMdv7PM8ToC6aZHHiZoKf2o4gbqDA~~
+  - hotmail.com
+  - https://cdn.evbstatic.com/s3-build/perm_001/8564da/django/images/mobile-app-promo/tiktok.png
+  - https://clicks.eventbrite.com/f/a/oqaZjgkVAvYzVo5DFgfPcw~~/AAQxARA~/stVbI0bCvt2nJsSBAE9MjlrMbndk0QT8rwBoJO9Pmn4osvg79ivzHjLRfFrzuWCyque9Eb9pW1fQuY-kjsExPsgum65qG8y1PzmXjCmLvps1owi72ZgBtRmFKppYIL15_mPnIZXpuklo7Z2jABRrtJEmaK2sG9PcJZq7BUkSmHdCKXC6ksx036BYdBNLVrPbrijnik915iJnQvO9TYy84I0k-WIW55Z-_s7MDeRdB-8qbfHzN0jB2Q0cckH6q-qPYuqZGT1mVnxr3iMhFfoHrA~~
+  - https://clicks.eventbrite.com/f/a/cGIll86elkCdTSmWg0gIzQ~~/AAQxARA~/EE7niK09hPgoIDZxKmtqA3Fn2saDlrm2JAf3QU-sIUh9MFjkytXYZXjmWLN77cpCi-AFuaPDBkH5gM7Har_n-jqbs0hId1HTd7MEd6SB3NTthnw_WFnwsiZE-1vK2KdoPLIzNs2g4EV4ga6Oz5mIR2K6QKelkJ2epMs42agSQCn77B50Ubc60C1_muPqdxqCP1c6Dmd5Vs-5Z5ybqDXTnThSUiVu-gLV9ysmWictUAs~
+  - .footer-content.bottom-section
+  - https://clicks.eventbrite.com/f/a/DCMquiGH4h2lTaQ94E4Vvg~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9ooLcGTpinHvGYxA4okIhZetTdZp0vliGugbjIHL42hX4W6DSNmxOkfHZadJHHU7Nc6RHPXb_DdmghsJJMhkbStXXaw0_dONnJuxPyF7hDT2
+  - https://cdn.evbstatic.com/s3-build/perm_001/fd2ad5/django/images/mobile-app-promo/Clock.png
+  - https://clicks.eventbrite.com/f/open-in-app/4uFBlxMKhemglpMjmHYgug~~/AAQxARA~/3JUuM9lVVLPQmw2bwMraP5r9IMdZxalt9TCGY1NSx3BWdagfX3WSSasR9EgwKDOCcQMvDlvmePAtE7buUotTNPKRZ0alXxBguIBuqgICmQ3LJT1SXunLZdshbq7SVYXSfBSWgETYl_zLTVS_QQlbvdhHOtuDvlLtxqruQ5_Ki6mM62Hier_HBquq2JYrhndAXCB-qK7_UkeXVkHbrNI-1iDrjttzxKxEQDBvxK3f3HQ81mhGQie_Dh5GvJ4_hsN1-WY-8OVGbrboCvvE1nt5YW_I13keXUhhSDdYQ8m_wxyWL04l2wjDuGQqizFULuSNnDlbWxBB1PygatXoZa6XDRH0HoKi0JaVx-Bky_rPmg-PelqPdTY1ad5uUJBhMN8DILJ6FiLDB8mrXYtA_xiy_zpxeGoO0dmLIzZuTcS_fdUUtoyhJMDfM7IAVgZX5Va4U_nXYlNmpL1B0EOqrNq2Av0hJGzym1qcdBGnZ7XhckYTmnOjGIY9mkcBHtrXrqoJDM87HNZoOKEeR2PZtWHdXUVKSyJlhjGn0Wx3IlNRip3DfoQf0KGY8_fK8JAngeYo-tJ3PfH1-uIGObCjAgAIKR-t8ctx42oiw7MePTot7Oz0AcoCgSKYAFdc1_YFEE1EGMLK2G5GPS35ao3O5vabu9yo_1Sl2oQl-srCOpNaPd7Xuq3OTCYBsNzsy4UpZEW_RYGMFMkIiXe5DIzxbCg-iFPPUmA23q0scnTew3l0VluzZMqDPNgS4_Fa02H9Q7ih5cEji4zMjwoaK9gU9T6UsAMRBqPIR6FYQlx-5-nrqUMmzi-ysukgF5EspA7IRmXltk8KBI1fbrjvKBH-DtzfQ9upt8VTm08CWzlPzPfaJOHOla_i0fvcMq4wQ05xQFnV
+  - https://clicks.eventbrite.com/f/a/QKGAU9hB4w4S78oaUHiSPw~~/AAQxARA~/2jalt0zKLhUb0CMZFvH__yADBwjsq8eMZmBjEoapiKQ1fZtcT4OuwKICD6Ms4g79XXuX5dHJo6gHdOwAP1iKDw_um0NgOJ0Jn41qp2G5ox7NnX6dDMtiSZs42f_R6P6z
+  - https://clicks.eventbrite.com/f/a/G-inL7tOVJPdhDc7H0sGrQ~~/AAQxARA~/w1SNYvLErKvjY08vdxbG157SI9OM6WgNFTk7IJY2g3cq1ylK7El8ZL_1JVPdqvQFsB0FCyODroRmb6ExSVHk7tdGDAQ8avC3b8NEekRXrq6UGb5cr5ab2TeDBtkJ0yh_vHGHfpn-amsvGojlpHqAfq0rp2idQOUKbMBzlmfdYzvQKugTKgDQ7d_bj6X1IX9MOq4Ya_gDcJAk7Pge3mAC551h4eoC50CsIngV1j8G6kzc7GB0vf2aV69TufuYdByAqZEDZW3v4IXv57idrThba97-coBaAplY06wdQZSZG8T1McHuSdovRjV4IAWGtqez
+  - https://clicks.eventbrite.com/f/a/YY9cflZvFqSPN4UKrWE0VQ~~/AAQxARA~/bXc5oIVx55EqdM2LR8XwqR4ZfOAtj7lRpliX1uAIOtLDn9cd-iIpnmMudQwxkGJ6X_RW2po3DDwbgLgmQXwZZJsRuxStJgYghHGyZDGEH8Iq_x4uFbbb9L9dFih-zyJSFCZFNNzEBHDR1DqgPmKxBaHAQcW3MqNrts5F1aOanezNB0obuRyAMHDF0BSL_Q_fF3_HerCRzGoi1j86A1vPCE4OwhNs6SmidloyT0N5DjktDH3gS1jyn9R_-MuAMrPtdB8obo5iYv2PQ2_qe3sWzO3GwjWD8WE6FEXfXiM28CKDGsyZgloYTIEH-qRAreeo
+  - https://cdn.evbstatic.com/s3-build/perm_001/4962df/django/images/mobile-app-promo/x-twitter.png
+  - https://clicks.eventbrite.com/f/a/JpXN0kwbVhOBKNvMZCjDpw~~/AAQxARA~/Lwm6Os_9NTaIUqJNcO-fcbCZ4a8gVwoH5vM1xqX0QHip_479x0zEQtxg4j-eyy4kL_lQrf0QJNSZae1-Lqf-GdlOxVsXnkrey32pw5Yrra_FfJH9Z8jqZdzvltqn9CNeubhv5lOYSRF6X5odr7u0ZumF5N0EKQj5e00DxfeFflCLGM4tXPkiKhVv9tiWtxu1cWj9CfVsgQlf_MAnvNxsTKDTWCXe9Q9D6Z341pGT_kGg0gf7gEnLIT5FS_1Dhe8_8oU0gl9YWS4tEO7G8xmYuA~~
+  - https://clicks.eventbrite.com/q/sNN-mjK4-k12DkQVW5mABA~~/AAQxARA~/hDFzmzBYRN4po9iXltkYcGfnOOT1-5vWIk9Wtx5Ypn4WsLU5tuycTqcBYJlQMAmwVxjgWgVRnDqECEwp6PKdTw~~
+  - https://clicks.eventbrite.com/f/a/q95DqKnDLAj3uYRb9WN3Og~~/AAQxARA~/AIVlnvqfC2hhW37NFMeGXqeEJayt97WijCDFdDzFQFxtrJmVWeRL3wDaYkTVzz7qLsi6VwEA9EYntBKIQgn7nWpJRyz_cBhu2FG3S0EBDlh_GQqjo8olRgtQfnLr6CHWOuVRIY0FhLIE_LM7CdBoKBInKzB4yDVCmfhbV9OzbWfcev3lq52mFNoWco9YkpXPpfKyzqBFK2-PmGMfxzSAgbDOwOE1uQXOYwIziGCScw21l5wt4MWr3SreZ2dU_G_fkOjiHDuRqqzybxbqYEhTwLoiuZQGjeUIfBJv5EfdYyA~
+  - https://cdn.evbstatic.com/s3-build/perm_001/1203b2/django/images/mobile-app-promo/Pinpoint.png
+  - https://clicks.eventbrite.com/f/a/mJsPETPFyIb_h8l8Bi5zvw~~/AAQxARA~/TzKL1RIzEgZL9hsrDJ9-Fed26Vy5XNAGoss8l57T0E4LuCU-n2poeT6loEfg7wkL3oSLb9ng91Nq1PsFLYsuxPovrp6grdjLfmE_zFOJI8gDOar2B9eTKSOCubhf5bQip2J_CNtW-Q1jhUTIZAag3vbLXodoAcBbTQdq2yOjAqKs7LrUHk7ah-jwiESwGZxVNA9g572KMf1o2FSBdzBJag~~
+  - http://schema.org/Confirmed
+  - https://clicks.eventbrite.com/f/a/55qSbJbVOm7uoOT45pOTSQ~~/AAQxARA~/eH78tCr5Rm1zAHbnFlO3oSS7IhPz2q45u2RQETJTHQPAASJz3bNT01XvIMeNdPjIUJuTTe7-lRy1w-_2T6uJ3YkFCyR8baxSALiC0NlXv5Cx2kMuwkKOZYdVGRPwwsKK
+  - https://clicks.eventbrite.com/f/a/p_xKBT7zYmcST5YO0--SBw~~/AAQxARA~/Lw6sYVnrCKxNXMnD3ePT_8__7cl_N6rnpdhjhjE_2W_s4QGrlvZIsUJvn5C3K5_uUOZeBATrtaLxpOkViEUGEkGZtY8t3B_V33sQZP_-xczETiGuyNzt0-wWGb1WF58HMAPvWkKG8nGpjoEmYGQEsSx6ifDiB06bczT7ntmXoO98B2L_ZCG_EgOHi2G_RGlQAZ80M9cX7YnHMPMPRIXGKp1UJOy86Og1JfmYUY01s5xzgN-ZKQLVOhKVJ3EOxkB4JpbIDiekEHQ5qAkIcFxAog~~
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+  - http://schema.org
+  - https://clicks.eventbrite.com/f/a/BsgKD6UU_JRTNTeLVFqCzQ~~/AAQxARA~/AIVlnvqfC2hhW37NFMeGXqeEJayt97WijCDFdDzFQFxtrJmVWeRL3wDaYkTVzz7qLsi6VwEA9EYntBKIQgn7nWpJRyz_cBhu2FG3S0EBDlh_GQqjo8olRgtQfnLr6CHWOuVRIY0FhLIE_LM7CdBoKBInKzB4yDVCmfhbV9OzbWfcev3lq52mFNoWco9YkpXPOlk6Ej4ZEFkYLWDNzlQh1LEG2r2ad3_VDEoIJNYZJ1jaJfKfnvoU3W_5E5g1eCpSm9ofm1OCGUMC1RBm1oX7WvafsBuhPmys4i5ma47VW1U~
+  - https://clicks.eventbrite.com/f/a/shNynpRvttKnm2bhpSY_hA~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9hYITCKlWyCYlQfSC8_UPQn6vSJJ7u2haOxQXf_bbRwM4OsCbkWO6hbWwzTqopJU76n1OZJPx-J_8s-LhuX2duk5LrD5VSylxxo-2x2qk6cr
+  - https://www.eventbrite.com/mytickets/11860838043?ref=eemailordconf&utm_campaign=order_confirm&utm_medium=email&utm_source=eventbrite&utm_term=googlenow
+  - https://cdn.evbstatic.com/s3-build/perm_001/460917/django/images/badges/google_play_en.png
+  - https://clicks.eventbrite.com/f/a/dNPRAwhZ7FkJUvHImqtwaQ~~/AAQxARA~/yjTrhmUZqy1JNE6GmFDJppr9M-BREIKwkvfbKfRuxNbnJMRTCqrdKap7f25-9esGWn0SaMJocsgH-9zgTtS4JVvJDa-pmjEfTEugtexG9AiqKkT8FtYflDH1lxUf75roZ7K97YarHmwiPogZfhRaFUCWzg8mGZij_chfMC7kddp7T-5wyU6x0zO2IoVGbM2NjUeEf-IMHHi7PcPsmil7Uvbab_MoEYJX7IIIUeFT1I-MjS4s3xqORCUQ75bimb63r95H_zCSnjpuJSyBQD1vnaNM7QGzw6Z4a24y-8RnagK5CabzMxUR0MtPttJ8cbHt
+  - https://clicks.eventbrite.com/f/a/R1INBqARHJSLic4KwJ4Hcw~~/AAQxARA~/PX1iZRBzMJOhB8EeXImE_HD0vPb7YTo5LYfxl0gVClEjZMDMB1PEOqFSLRaG28Lf8cNiO8osN_fHv9iASqwuqjlYtWaG-UHh2c1JD3kp7R1xyNJfFAGUV2yQT9BJPCCwFiKR_xREVtRMQMZaZrwAFPjZ8W72AE97SUYym4UVPNtEUo45FDBRAklbF4DPbe8PE3oLHPNWNC1RbAMmLOPWWB1jipLuuUnAPh2Y-NrVvYlL3HEDU-aLmESg6Z52YtxaNHlhv3Jrat1A9MWkARHixx9PZUQhjk1WGGuNO8VchcXS_RBgWLx0GoCMP84D44yU
+  - https://clicks.eventbrite.com/f/a/JHq9H-ML5iHXzQDpGZ5l2w~~/AAQxARA~/HNX-Nvb7xuVu9pU4WygXwMqr4jIfdjavuO5tdwiJaKKtQ7kpOgNOuo90Xzg6bvzfIM4dgFl6BP0gIW29V_dw2yYX_sCTenqRGSVDHyG3ar8Y1i2Fxy3e4k-VeWXY1Aw8o8HpneFBv-bcrXICJTyCe2kg-Idk2AiPVNvNjiFM-tqOYMqH9dGK78s_z3eAhdodOs7ZJ2FYKm3ek1MSZj27G5Qt1tcIfcNesg0VV3j2T2Ncp5DzSEYADPcX03d2Ndd-mPTbCVnrl7ozFn__SrjGveEdZfxUWi1RTNB9w3twt6Cjy0ue7rvybZcc-vvLp9iiGlznmWMUmHFnkpYxvRtB_A~~
+  - https://clicks.eventbrite.com/f/a/xc7aTie29XOQGwCgs1CXTw~~/AAQxARA~/1yp7zsR5FjuLukb7U1ojYjFLnYNxFgVsFKmgJJLNmdN-2jbgX4b8Elitk6eUt5Sm1K-noqRXNtXbDdGVHMjBM_wu1u02YKujozm2LUyFt3GfHvGrv5VMitEptUgtfmwHiDDxTseyfupGFiysUCKpDvau1OF9jwbRHMcqWhzyBmU94ew6vuWS0IPURl416jk4LsH6NT8GVVcQqz4oloE27GL03IOmKxFu3T1G3ePJfVXTd6kwN0p_DNMYqD5ahpuX9o0YqdPdxklXjjJVa8GAAZEtzzVcGI-Oq-O7Q3xOetlYVGXasEhXN4R_H06L816o
+  - https://clicks.eventbrite.com/q/0qSTDPnRE6W82gqNa23jng~~/AAQxARA~/-deY0rJwwjmDN0v81lhAi3A20JQNElXvjwoBku2nX24dEbM6uM1ma366YQb89Qq9MEvCLECR4Qvkt34kp1g42g~~
+  - https://clicks.eventbrite.com/f/a/W7X1m3vJlFnO6VTUoTdW5w~~/AAQxARA~/NnKmShCYE2ywNk3FYnUPrEtmvD3N5RfiVj_RaZW71obH01GzYgcwL8_Mnm2_Qtkg3OUNqrr8CCD-uD7frPSJeO0fQMqlCC6igOTB0GrbXw60I2-aAPbcXAwjaURLxjVn0vUwh1_l2on4zUKrAbbR6CKatfqwLr-8NRA0MN2pEsaa3_SBDvjGUrUZ0ojIYO5pt7Z0giN8JISkHjeQBTbh42AP85C-iZFEZoppv35jq7JjFNwK6-4_ecXOJLM9lPSSY82HgrG31ddZd4XhYkFKag~~
+  - https://clicks.eventbrite.com/f/a/PryG8wYIg7A40Eulj7pJiQ~~/AAQxARA~/IXyhJMPhalyRxvjoC0YLQ4zKenkvHn88sJIGe_blAP49W9fw76Cr_zvDFkkVbPj2UJErLnsD-bYaamngzSiEOqsNG-hbZ06E0EpmXhPYz_U1_VMEr4wNrA6bbG9dJNck0A1o8TftUs0XVyRxTC9yoP1MVlXEBzoUoUU6aKyk5MmNdyXzWyequW7Nup1WFokMnOXYSeFFTjftLibRiRiFovvfb89z5F60a01jnOlg2yFybSl8dWeWlCKLk1x4RlA-1j3RHJCTA4Te4CfrfKmbjuJlJXiQLGDLa-ELK9iR5cX5kG7nAIJXZWSW5fzVIcPy966Cz_QEMkje0nk8FVa9aw~~
+  - https://clicks.eventbrite.com/f/a/yU8GDRqsYVTLECdEyictEQ~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj5fNmARz5klJea6gsa2S5zwJNayTFBZLY500RHEW-JpbIrxHeSHAfwJFZZr4ZTmA5M6LFSUaVu1_MhBmPq5Q8afVIh40L5CLTYjaRAomXcB1VBMDGmnlzu-9hSEHwrlBHv5khgi3Yc6Q5U20Wkd-yc8D3mAZBuGFFuZdLHb3yc3lKbDnZ0AnSVwJbuwthsJiSXAGoRXtPLkjWX3CfE8GbApeItblYJZ9yGtfR_OWmUBhbC2ZW59CKFD8Jt5rT0pTps17QuyV5FKCdKR2Y1zeTHEFnURI6c0G8rD4vYKOZr5z
+  - https://clicks.eventbrite.com/f/a/jzvoUqtmzKR3JDtpDxr9aQ~~/AAQxARA~/VF7oB1WmenYjzWGZG_yc6lGLOxVNFf1E9kl3PqurJnSmSovi5Sls9aVwTtSudiVEcS3Gb7M4tpqbOA9eRuoTUAfoyRpzW57ECPeYU1VYeiU~
+
+DECODED TEXT CONTENT:
+------------------------------
+Eventbrite
+
+
+        
+    
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+
+    
+<hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;">
+
+        
+    
+        
+** Questions about this event?
+------------------------------------------------------------------------
+
+
+        
+
+
+        
+Contact the organizer: https://clicks.eventbrite.com/f/a/GdSx-mzPe2I1PQaoWd6Tgw~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj9pQN9Oh7k6BF8vTdLdx-QcmCuVI6Cbsz_KLGItlTSgIIBW_WyfnHReXSLU33TWipmiKKUnBuGbQNIshjct3MWEOE1PwDLzf9JuwA1Av4FAP-x9TG4vSnGHv3t55fHVRyshF8y0FgsUpfNOzUj8cjD5WxQKLAVuzq_LZg0c8WcDuqnCRP5dLn_2lknIgRKqJxRPlwkePJfcj4m0eT8H6ETuBVzpAH2JS6Lekrl3SUEQIWEO-kfYh2wAoDNiKbyxOGbgxl8YyE4DUJQoQsb1lin4K-tPWJUP7HMi4Wn8SmOLL
+
+                
+View event details: https://clicks.eventbrite.com/f/a/R1INBqARHJSLic4KwJ4Hcw~~/AAQxARA~/PX1iZRBzMJOhB8EeXImE_HD0vPb7YTo5LYfxl0gVClEjZMDMB1PEOqFSLRaG28Lf8cNiO8osN_fHv9iASqwuqjlYtWaG-UHh2c1JD3kp7R1xyNJfFAGUV2yQT9BJPCCwFiKR_xREVtRMQMZaZrwAFPjZ8W72AE97SUYym4UVPNtEUo45FDBRAklbF4DPbe8PE3oLHPNWNC1RbAMmLOPWWB1jipLuuUnAPh2Y-NrVvYlL3HEDU-aLmESg6Z52YtxaNHlhv3Jrat1A9MWkARHixx9PZUQhjk1WGGuNO8VchcXS_RBgWLx0GoCMP84D44yU
+
+
+        
+<hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;" />
+                
+    <table cellpadding="0" cellspacing="0" border="0" class="no_text_resize" width="100%" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight:normal;">
+        <tr>
+            <td colspan="3">
+                
+
+** Order Summary
+------------------------------------------------------------------------
+
+            </td>
+        </tr>
+        
+
+        <tr>
+            <td colspan="3">
+                
+Order 
+#11860838043: https://clicks.eventbrite.com/f/a/JpXN0kwbVhOBKNvMZCjDpw~~/AAQxARA~/Lwm6Os_9NTaIUqJNcO-fcbCZ4a8gVwoH5vM1xqX0QHip_479x0zEQtxg4j-eyy4kL_lQrf0QJNSZae1-Lqf-GdlOxVsXnkrey32pw5Yrra_FfJH9Z8jqZdzvltqn9CNeubhv5lOYSRF6X5odr7u0ZumF5N0EKQj5e00DxfeFflCLGM4tXPkiKhVv9tiWtxu1cWj9CfVsgQlf_MAnvNxsTKDTWCXe9Q9D6Z341pGT_kGg0gf7gEnLIT5FS_1Dhe8_8oU0gl9YWS4tEO7G8xmYuA~~
+ - February 28, 2025
+
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+            </td>
+        </tr>
+            
+
+                <tr>
+                    <td colspan="3">
+                            
+Free order
+
+
+                    </td>
+                </tr>
+
+            
+
+        <tr>
+            <td colspan="3">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                    <tbody>
+                            <tr>
+                                <td width="25%" valign="top">
+                                    
+Rachel Novak
+
+                                </td>
+                                <td width="50%" valign="top">
+                                    
+1 x
+
+                                    
+General Admission
+                                </td>
+                                <td width="20%" align="right" valign="top" style="text-align: right;">
+                                    
+$0.00
+
+                                </td>
+                            </tr>
+                            
+
+
+
+
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+
+        
+
+    </table>
+
+    
+                    
+
+                        
+View and manage your order: https://clicks.eventbrite.com/f/a/rFtfedK4uSZDOiV__rhcUA~~/AAQxARA~/TFEDKRBGxV57gzoLSq2sFkzIGRINGFcy76NRp59TTcn4RNxDbtBkMq3pJuiy1fzS_8J2EvE9C5AtCc3cPKfjV9HVf6LS78-xW_6d6zmSowzCYeAtGS6zlqQoI5rcuDQdtdFlTIJ0ECdlPiYB8I6LYTiqKsItqSVUeslCiqDbkiDerS8_MlEdugpY7GGWSuCgnuP4s4B0nKodwrK7PyMhY44yNyAptQ1xiIAQjTuwRNwpMt8P9vjQr7NSIELWrYWEQC09rF1n2IabLZMKYaTD08DINxuAyyyvnQIr8efLliA~
+ in your Eventbrite account.
+                    
+
+
+
+
+
+                        
+
+                            
+    <a href="https://clicks.eventbrite.com/f/a/PryG8wYIg7A40Eulj7pJiQ~~/AAQxARA~/IXyhJMPhalyRxvjoC0YLQ4zKenkvHn88sJIGe_blAP49W9fw76Cr_zvDFkkVbPj2UJErLnsD-bYaamngzSiEOqsNG-hbZ06E0EpmXhPYz_U1_VMEr4wNrA6bbG9dJNck0A1o8TftUs0XVyRxTC9yoP1MVlXEBzoUoUU6aKyk5MmNdyXzWyequW7Nup1WFokMnOXYSeFFTjftLibRiRiFovvfb89z5F60a01jnOlg2yFybSl8dWeWlCKLk1x4RlA-1j3RHJCTA4Te4CfrfKmbjuJlJXiQLGDLa-ELK9iR5cX5kG7nAIJXZWSW5fzVIcPy966Cz_QEMkje0nk8FVa9aw~~ style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-weight:normal;">Contact the organizer</a>                     for any questions related to this purchase.
+                        
+
+
+
+                    
+
+                        
+    This order is subject to Eventbrite 
+Terms of Service: https://clicks.eventbrite.com/f/a/ouZ4grLCZeBRR5a72krGjA~~/AAQxARA~/U7V1PMPeHI-uE6MC9FZe3pU9gGskNvEhsMNXEMfj7DPH2i2jW3GogkRubWnx9Vd9Jr8a1ZG1oiPzKHkksGvNFSaLYh1B33xrkUDadei8dIhdI4miyHdShKxTkp6Jx5ErbXCI6RvFAFWPKPkf-qyKFu7v7mrn-1IFqkB4-tOGDAgcB3zyXm-mEkWtxAkdOZTrMCcFL68IUwSlrSMpRBrhSfLcc2FNoaxq6OuZigiY5DWTgmAmI6n_kNrpDArgwLFU
+ and 
+Privacy Policy: https://clicks.eventbrite.com/f/a/YGDCw0UmDIf7RuB8Jqd0Gw~~/AAQxARA~/S0FuklWaswRbARuoQbzBaeUmmOTMHPr6HFVAEAk76kAGNjXJMlAUhB5pgzb15sy7MvLfQPZVnENCmkdPkKylMSEyJCk0OrT69CBEJmEwwA7IvXnZLzAfJkX1P1Up1y49wotVWlCrvOBTqyckRlJweKg5YhvLVRctE2qL_8X4eE7GadcRDEjQjK5rUwfDLpUVG_pojTAuXvN28eh_ssA9M2iVGNy0cu6jRCwi38FEDlaOAHoYpXaU3SW83fMdv7PM8ToC6aZHHiZoKf2o4gbqDA~~
+, and 
+Cookie Policy: https://clicks.eventbrite.com/f/a/oqaZjgkVAvYzVo5DFgfPcw~~/AAQxARA~/stVbI0bCvt2nJsSBAE9MjlrMbndk0QT8rwBoJO9Pmn4osvg79ivzHjLRfFrzuWCyque9Eb9pW1fQuY-kjsExPsgum65qG8y1PzmXjCmLvps1owi72ZgBtRmFKppYIL15_mPnIZXpuklo7Z2jABRrtJEmaK2sG9PcJZq7BUkSmHdCKXC6ksx036BYdBNLVrPbrijnik915iJnQvO9TYy84I0k-WIW55Z-_s7MDeRdB-8qbfHzN0jB2Q0cckH6q-qPYuqZGT1mVnxr3iMhFfoHrA~~
+.
+
+
+        
+<hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;">                    
+                
+    
+** Ticket Information
+------------------------------------------------------------------------
+
+
+
+            
+* Ticket #1: General Admission
+------------------------------------------------------------------------
+
+            
+
+            
+Rachel Novak
+
+            
+phishing@pot: phishing@pot@hotmail.com
+
+
+
+
+
+            
+
+            
+
+                
+View ticket information: https://clicks.eventbrite.com/f/a/BsgKD6UU_JRTNTeLVFqCzQ~~/AAQxARA~/AIVlnvqfC2hhW37NFMeGXqeEJayt97WijCDFdDzFQFxtrJmVWeRL3wDaYkTVzz7qLsi6VwEA9EYntBKIQgn7nWpJRyz_cBhu2FG3S0EBDlh_GQqjo8olRgtQfnLr6CHWOuVRIY0FhLIE_LM7CdBoKBInKzB4yDVCmfhbV9OzbWfcev3lq52mFNoWco9YkpXPOlk6Ej4ZEFkYLWDNzlQh1LEG2r2ad3_VDEoIJNYZJ1jaJfKfnvoU3W_5E5g1eCpSm9ofm1OCGUMC1RBm1oX7WvafsBuhPmys4i5ma47VW1U~
+
+
+
+        
+    <script type="application/ld+json">
+        {
+            "@context": "https://clicks.eventbrite.com/f/a/jzvoUqtmzKR3JDtpDxr9aQ~~/AAQxARA~/VF7oB1WmenYjzWGZG_yc6lGLOxVNFf1E9kl3PqurJnSmSovi5Sls9aVwTtSudiVEcS3Gb7M4tpqbOA9eRuoTUAfoyRpzW57ECPeYU1VYeiU~
+            ,"@type": "EventReservation"
+            ,"reservationNumber": "11860838043"
+            ,"reservationStatus": "https://clicks.eventbrite.com/f/a/5VXT1I_kvmQxt3AdObJEcg~~/AAQxARA~/t9fPQtnHvff-sgMdpqdhPO32yfVHC27bsnQRbsphiK1V8NxOSvKGcCjAlRkse9wbow_LgxbivreVjX4Ox9J8XIF51LJw3o06szsaJc3N-qJcPG_pkZDSa_QUfaD-JJo_
+            ,"modifyReservationUrl": "https://clicks.eventbrite.com/f/a/q95DqKnDLAj3uYRb9WN3Og~~/AAQxARA~/AIVlnvqfC2hhW37NFMeGXqeEJayt97WijCDFdDzFQFxtrJmVWeRL3wDaYkTVzz7qLsi6VwEA9EYntBKIQgn7nWpJRyz_cBhu2FG3S0EBDlh_GQqjo8olRgtQfnLr6CHWOuVRIY0FhLIE_LM7CdBoKBInKzB4yDVCmfhbV9OzbWfcev3lq52mFNoWco9YkpXPpfKyzqBFK2-PmGMfxzSAgbDOwOE1uQXOYwIziGCScw21l5wt4MWr3SreZ2dU_G_fkOjiHDuRqqzybxbqYEhTwLoiuZQGjeUIfBJv5EfdYyA~
+            ,"underName": {
+                "@type": "Person"
+                ,"name": "Rachel Novak"
+            }
+            ,"reservationFor": {
+                "@type": "Event"
+                ,"name": "Zoo sidney"
+                ,"startDate": "2025-04-09 10:00:00"
+                    ,"endDate": "2025-04-09 12:00:00"
+                    ,"location": {
+                        "@type": "Place"
+                        ,"name": "WILD LIFE Sydney Zoo"
+                        ,"address": {
+                            "@type": "PostalAddress"
+                            ,"streetAddress": "1-5 Wheat Road"
+                            ,"addressLocality": "Sydney"
+                            ,"addressRegion": "NSW"
+                            ,"postalCode": "2000"
+                            ,"addressCountry": "AU"
+                        }
+                    }
+            }
+        }
+    </script>
+
+
+
+
+
+
+
+        
+ 
+
+
+
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <!-- Turn off iOS phone number autodetect -->
+ <meta name="format-detection" content="telephone=no">
+ <meta name="format-detection" content="address=no">
+
+ <style type="text/css">
+ /*
+ * Styles for all the emails
+ */
+
+ /* Normalizing */
+ #outlook a {padding:0;}
+ * {
+ -ms-text-size-adjust:100%;
+ -webkit-text-size-adjust:100%;
+ }
+ html, body {
+ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ -webkit-font-smoothing: antialiased;
+ -moz-osx-font-smoothing: grayscale;
+ text-rendering: optimizeLegibility;
+ font-weight:normal;
+ width:100% !important;
+ height:100% !important;
+ margin:0;
+ padding:0;
+ }
+ img{border:0;outline:none;text-decoration:none;-ms-interpolation-mode:bicubic;height:auto;line-height:100%;display:inline-block;}
+ a img{border:none;display:block;}
+
+ .default-heading h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {color:#3F60E7 !important;}
+ .default-heading h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active {color:#3F60E7 !important;}
+ .default-heading h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited {color:#3F60E7 !important;}
+
+ .default-table table {
+ border-collapse:collapse;
+ mso-table-lspace:0pt;
+ mso-table-rspace:0pt;
+ border-spacing:0;
+ border:0;
+ padding:0;
+ table-layout:fixed;
+ margin:0;
+ }
+ .default-table table td {border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}
+ .no_text_resize {
+ -moz-text-size-adjust:none;
+ -webkit-text-size-adjust:none;
+ -ms-text-size-adjust:none;
+ text-size-adjust:none;
+ }
+ a[href^="x-apple-data-detectors:"] {
+ color:inherit !important;
+ text-decoration:none !important;
+ font-size:inherit !important;
+ font-family:inherit !important;
+ font-weight:inherit !important;
+ line-height:inherit !important;
+ }
+
+ td[class="grid__col"] {
+ padding-left: 10px !important;
+ padding-right: 10px !important;
+ }
+
+ .grid__col {
+ padding-left: 10px !important;
+ padding-right: 10px !important;
+ }
+
+ /* Footer */
+ .footer-content.bottom-section {
+ padding: 0px 32px;
+ }
+ .content .align-center,
+ .footer-content .align-center, .footer-content-mobile-app-redesign .align-center {
+ text-align: center;
+ }
+ .footer-content, .footer-content-mobile-app-redesign {
+ color: #B7B6C0 !important;
+ }
+ .footer__info {
+ font-size: 12px;
+ line-height: 18px;
+ font-weight: 200;
+ }
+ .footer-content a {
+ color: #f05537 !important;
+ }
+
+ .footer-content-mobile-app-redesign a, .footer-content a {
+ text-decoration: none;
+ }
+ .grid_event_card .event_information .event_description_container .event_title, .list-event-card__title {
+ color: #363A43 !important;
+ font-size: 17px;
+ font-weight: 300;
+ padding-bottom: 4px;
+ }
+ .list-event-card__body {
+ vertical-align: top;
+ padding-left: 20px;
+ }
+ .list-event-card__image {
+ width: 210px;
+ height: 105px;
+ border-radius: 3px;
+ }
+ .list-event-card__image-container {
+ overflow: hidden;
+ width: 210px;
+ height: 105px;
+ border-radius: 3px;
+ }
+ .list-event-card__image-wrapper {
+ width: 210px;
+ height: 105px;
+ line-height: 0;
+ }
+ .list-event-card__date, .list-event-card__info {
+ color: #666A73;
+ font-size: 14px;
+ line-height: 18px;
+ font-weight: 300;
+ }
+ .list-card__label{
+ text-overflow: ellipsis;
+ overflow: hidden;
+ white-space: nowrap;
+ background-color: white;
+ background-color: rgba(255, 255, 255, 0.92);
+ text-transform: uppercase;
+ font-size: 13px;
+ line-height: 16px;
+ color: #1E0A3C;
+ box-sizing: border-box;
+ padding: 2px 10px;
+ background-color: #eeedf2;
+ background-color: #EEEDF2;
+ display: block;
+ width: 210px;
+ }
+ .full-card__image {
+ width: 600px;
+ border-radius: 0;
+ }
+ .full-event-revamp-card__image {
+ width: 536px;
+ border-radius: 24px 24px 0 0;
+ }
+ /* Social */
+ .social-logo-container {
+ display: inline-block;
+ height: auto;
+ margin: 0px;
+ }
+
+ .footer-social-logo__image {
+ width: 40px;
+ height: 40px;
+ padding: 16px 3px 0px;
+ }
+
+ /* Steps Icons */
+ .step-logo-container {
+ display: inline-block;
+ height: auto;
+ margin: 0px;
+ }
+
+ .step-logo__image {
+ width: 72px;
+ height: 72px;
+ padding: 16px 3px 0px;
+ }
+
+ .column-left {
+ text-align: right;
+ }
+ .column-center {
+ text-align: center;
+ }
+ .column-right {
+ text-align: left;
+ }
+
+ .content {
+ width: 600px;
+ }
+
+ .user-generated-content img {
+ max-width: 100%;
+ }
+
+
+ /* Media Queries */
+ @media all and (max-width: 600px) {
+ .content {
+ /* slight space on each side */
+ width: 97% !important;
+ }
+
+ *[class="gmail-fix"] {
+ display: none !important;
+ }
+
+ td[class="grid__col"] {
+ padding-left: 0px !important;
+ padding-right: 0px !important;
+ max-width: 90% !important;
+ }
+ .grid__col {
+ padding-left: 0px !important;
+ padding-right: 0px !important;
+ max-width: 90% !important;
+ }
+ .social-logo-container {
+ display: inline-block !important;
+ }
+ .btn {
+ font-size: 15px !important;
+ padding: 12px 28px 14px !important;
+ margin-bottom: 18px;
+ }
+ .hide {display:none;}
+
+ .btn_full_width {
+ box-sizing: border-box;
+ width: 100%;
+ }
+ }
+
+ @media all and (max-width: 480px) {
+ td[class="row-section-content-header padding-side"] {
+ /* slight space on each side */
+ width: 0px !important;
+ }
+
+ .heading_epic {
+ font-size: 24px !important;
+ line-height: 25px !important;
+ font-style: normal;
+ font-weight: bold;
+ }
+ .heading_epic_normal {
+ font-size: 24px !important;
+ line-height: 25px !important;
+ font-style: normal;
+ font-weight: 700;
+ }
+ .list-event-card__body {
+ padding-left: 16px !important;
+ }
+ .list-event-card__image {
+ position: relative !important;
+ width: 156px !important;
+ height: 78px !important;
+ left: -32px !important;
+ }
+ .list-event-card__image-container {
+ width: 78px !important;
+ height: 78px !important;
+ }
+ .list-event-card__image-wrapper {
+ width: 78px !important;
+ height: 78px !important;
+ display: inline-block !important;
+ }
+ .list-event-card-image {
+ vertical-align: top;
+ padding-top: 8px;
+ }
+ .list-card__label {
+ width: 130px;
+ }
+ .full-card__image {
+ width: 100% !important;
+ }
+ .full-event-revamp-card__image {
+ width: 100% !important;
+ border-radius: 12px 12px 0 0;
+ }
+
+ .btn_full_width {
+ box-sizing: border-box;
+ width: 100%;
+ }
+
+ .step-logo-container__label {
+ font-size: 12px !important;
+ line-height: 14px !important;
+ }
+
+ }
+
+
+</style>
+
+
+ </head>
+
+ <!-- Global container with background styles. Gmail converts BODY to DIV so we lose properties like BGCOLOR. -->
+
+ <body style="padding:0px !important; margin:0px !important;">
+<div style="color:transparent;visibility:hidden;opacity:0;font-size:0px;border:0;max-height:1px;width:1px;margin:0px;padding:0px;border-width:0px!important;display:none!important;line-height:0px!important;"><img border="0" width="1" height="1" src="https://clicks.eventbrite.com/q/0qSTDPnRE6W82gqNa23jng~~/AAQxARA~/-deY0rJwwjmDN0v81lhAi3A20JQNElXvjwoBku2nX24dEbM6uM1ma366YQb89Qq9MEvCLECR4Qvkt34kp1g42g~~" alt=""></div>
+
+ <div class="hide" style="display:none;line-height:0;mso-hide:all">
+</div>
+ <!-- Outermost Wrapper Table -->
+ <table style="min-width:100%;" width="100%" bgcolor="#EEEDF2">
+ <tr>
+ <td>
+ <!--[if (gte mso 9)|(IE)]>
+ <table class="container-table" width="600" align="center" cellpadding="0" cellspacing="0" border="0" bgcolor="#EEEDF2">
+ <![endif]-->
+ <!--[if !((gte mso 9)|(IE))]>
+ <table class="container-table" style="margin-left:auto; margin-right:auto;
+ border-collapse:collapse;
+ border-spacing:0;
+ mso-table-lspace:0pt;
+ mso-table-rspace:0pt;
+ border:0;
+ padding:0;
+ " cellpadding="0" cellspacing="0" border="0" >
+ <![endif]-->
+ <tr>
+ <!-- Centered 600px Email Table -->
+ <td style="margin-left:auto; margin-right:auto;" align="center" bgcolor="#EEEDF2">
+ <table class="content" style="border: none;">
+ <tr>
+ <td align="center" bgcolor="#EEEDF2">
+ <table cellpadding="0" cellspacing="0" border="0" bgcolor="#EEEDF2">
+ <tbody>
+ <!-- Header Section -->
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ </td>
+ </tr>
+
+
+
+ <!-- Body Section -->
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ <style type="text/css">
+ .footer_google_app {
+ height: 36px;
+ }
+</style>
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-top:20px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ <table style="height:auto;width:100%;" width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+ <td style="vertical-align:top;padding-right:18px;padding-left:25px;width:10%;" width="10%">
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration:none" href="https://clicks.eventbrite.com/f/a/SAbk7go_E9PRez2OrjdsfQ~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9pCJR9eklKQkRfq42AyJPuZSLPfubMapMW08fYZtiLfjSzRn-WJUkWrK3IF8rti3k5gwJjGbi0mK5-jlnaUDOMyC9rlUoxX--o8v5sBxllEG" class="">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/42bf8d/django/images/mobile-app-promo/eventbrite-letter-rounded.png" title="" alt="Eventbrite" style="" border="0" width="55" height="auto" class="">
+
+ </a> 
+ </td>
+ <td style="vertical-align:top;width:auto;font-weight:bold;">
+ <h1 style="font-size:22px;font-weight:bold;margin:0;">Eventbrite</h1>
+ <p>Your Tickets for Zoo sidney</p>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+
+
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding:20px 0; text-align:center;" align="center" bgcolor="" width="100%" height="">
+ 
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration:none" href="https://clicks.eventbrite.com/f/a/SAbk7go_E9PRez2OrjdsfQ~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9pCJR9eklKQkRfq42AyJPuZSLPfubMapMW08fYZtiLfjSzRn-WJUkWrK3IF8rti3k5gwJjGbi0mK5-jlnaUDOMyC9rlUoxX--o8v5sBxllEG" class="">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/de0b06/django/images/emails_2018_rebrand/EB-logo@2x.png" title="" alt="Eventbrite" style="margin: 0 auto;" border="0" width="120" height="21" class="">
+
+ </a>
+
+ </td>
+ </tr>
+
+
+ 
+ 
+
+<tr bgcolor="#FFFFFF" class="row_section-content">
+ <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;" class="default-table">
+ <tbody>
+ 
+ <tr class="row_section" style="" bgcolor="#FFFFFF">
+ <td width="20" bgcolor="#FFFFFF" align="left"></td>
+ <td class="" style="text-align:left;background-color:#FFFFFF;" align="left">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" bgcolor="#FFFFFF" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tbody>
+ 
+ 
+ 
+ 
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+<h1 style="padding: 0; margin: 12px 0 0 0;font-size: 30px;line-height: 42px;font-weight: bold;font-weight: 800;letter-spacing: -0.2px;color: #1E0A3C !important;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;color: #1E0A3C;text-align:center;margin-top:40px;" class="h1-header greeting_message">
+ 
+ Rachel, <br>you've got tickets!
+ 
+</h1>
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-top:10px; text-align:center;" align="center" bgcolor="" width="100%" height="">
+ 
+ <table style="margin: 40px auto 0 auto;border-collapse: collapse;" width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+ <td width="50%" valign="center" style="height:auto;width:50%;text-align:right;" align="right">
+ <table style="height:auto;width:100%;" width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+ <td valign="center" style="display:inline-block;height: auto;margin: 0; padding: 0; text-align: right; vertical-align: center;">
+
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/6ff4e8/django/images/email/48_hours_reminder/scan-qr-code.png" title="" alt="mobile" style="" border="0" width="83" height="83" class="mobile_icon">
+
+ </td>
+ </tr>
+ </table>
+ </td>
+ <td width="50%" valign="top" style="height:auto;width:50%;text-align:left;">
+ <table style="height:auto;width:100%;" width="100%" cellpadding="0" cellspacing="0" border="0">
+ <tr>
+ <td valign="top" style="display:inline-block;height: auto;margin: 0; padding: 0; text-align: left; vertical-align: center; padding-bottom: 16px;">
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration:none" href="https://clicks.eventbrite.com/f/a/yU8GDRqsYVTLECdEyictEQ~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj5fNmARz5klJea6gsa2S5zwJNayTFBZLY500RHEW-JpbIrxHeSHAfwJFZZr4ZTmA5M6LFSUaVu1_MhBmPq5Q8afVIh40L5CLTYjaRAomXcB1VBMDGmnlzu-9hSEHwrlBHv5khgi3Yc6Q5U20Wkd-yc8D3mAZBuGFFuZdLHb3yc3lKbDnZ0AnSVwJbuwthsJiSXAGoRXtPLkjWX3CfE8GbApeItblYJZ9yGtfR_OWmUBhbC2ZW59CKFD8Jt5rT0pTps17QuyV5FKCdKR2Y1zeTHEFnURI6c0G8rD4vYKOZr5z" class="">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/6026d5/django/images/badges/app_store_badge_en.png" title="" alt="App Store" style="height: 33px;" border="0" width="112" height="33" class="">
+
+ </a> 
+ </td>
+ </tr>
+ <tr>
+ <td valign="bottom" style="display:inline-block;height: auto;margin: 0; padding: 0; text-align: left; vertical-align: center;">
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; text-decoration:none" href="https://clicks.eventbrite.com/f/a/W7X1m3vJlFnO6VTUoTdW5w~~/AAQxARA~/NnKmShCYE2ywNk3FYnUPrEtmvD3N5RfiVj_RaZW71obH01GzYgcwL8_Mnm2_Qtkg3OUNqrr8CCD-uD7frPSJeO0fQMqlCC6igOTB0GrbXw60I2-aAPbcXAwjaURLxjVn0vUwh1_l2on4zUKrAbbR6CKatfqwLr-8NRA0MN2pEsaa3_SBDvjGUrUZ0ojIYO5pt7Z0giN8JISkHjeQBTbh42AP85C-iZFEZoppv35jq7JjFNwK6-4_ecXOJLM9lPSSY82HgrG31ddZd4XhYkFKag~~" class="">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/460917/django/images/badges/google_play_en.png" title="" alt="Google Play" style="height: 33px;" border="0" width="112" height="33" class="">
+
+ </a> 
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-top:10px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ <p class="view_save_tickets" style="text-align: center;font-size: 20px;font-weight: bold;">
+ View and save your tickets before the event
+ </p>
+ 
+ <!--[if (mso)|(ie)]>
+ <table align="center" border="0" cellspacing="0" cellpadding="0">
+ <tr>
+ <td width="100%">
+ <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.eventbrite.com/mytickets/11860838043?sig=AQICAHhJPpK88%2BnERThoz0ShDUpYcZ683rBwifXM%2BOuyjlPVYwGDk45dcbFBDoaAz6qBqLTgAAAA3jCB2wYJKoZIhvcNAQcGoIHNMIHKAgEAMIHEBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDMNpIl%2BGeE3EzefxXQIBEICBlj2fUd%2Bp6B%2Fdnm8pTw1UD2clxZfKdONoiVSYhAi1aqAjBvOYR0b%2FCBwTjcg4JBlNRykt%2FRA6lklRcnbTs6kNfJzB51I3JqKOptcAe4PnyGOPaKqwn2hpbsC1nCLM845MunZa%2BIYopdvtZQk4nhLSMf7%2BPTiBd1OpsLRRj4FIykawwhyG7CZhP3WChmLsPQaP2FpxR3hiHw%3D%3D&ref=eemailordconf&utm_campaign=order_confirm&utm_medium=email&utm_source=eventbrite&app_cta_src=order_conf_email&tickets_discarded=1&utm_term=viewtickets" style="height:40px;v-text-anchor:middle;width:225px;" arcsize="10%" strokeweight="1px" strokecolor="#f05537" fillcolor="#f05537">
+ <w:anchorlock/>
+ <center style="color:#FFFFFF;font-family:sans-serif;font-size:16px;font-weight:normal;">
+ Go to My Tickets
+ </center>
+ </v:roundrect>
+ </td>
+ </tr>
+ </table>
+ <![endif]-->
+ <!--[if !((mso)|(ie))]><!-- -->
+ <div style="text-align:center;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; padding: 0;">
+ <a href="https://clicks.eventbrite.com/f/open-in-app/4uFBlxMKhemglpMjmHYgug~~/AAQxARA~/3JUuM9lVVLPQmw2bwMraP5r9IMdZxalt9TCGY1NSx3BWdagfX3WSSasR9EgwKDOCcQMvDlvmePAtE7buUotTNPKRZ0alXxBguIBuqgICmQ3LJT1SXunLZdshbq7SVYXSfBSWgETYl_zLTVS_QQlbvdhHOtuDvlLtxqruQ5_Ki6mM62Hier_HBquq2JYrhndAXCB-qK7_UkeXVkHbrNI-1iDrjttzxKxEQDBvxK3f3HQ81mhGQie_Dh5GvJ4_hsN1-WY-8OVGbrboCvvE1nt5YW_I13keXUhhSDdYQ8m_wxyWL04l2wjDuGQqizFULuSNnDlbWxBB1PygatXoZa6XDRH0HoKi0JaVx-Bky_rPmg-PelqPdTY1ad5uUJBhMN8DILJ6FiLDB8mrXYtA_xiy_zpxeGoO0dmLIzZuTcS_fdUUtoyhJMDfM7IAVgZX5Va4U_nXYlNmpL1B0EOqrNq2Av0hJGzym1qcdBGnZ7XhckYTmnOjGIY9mkcBHtrXrqoJDM87HNZoOKEeR2PZtWHdXUVKSyJlhjGn0Wx3IlNRip3DfoQf0KGY8_fK8JAngeYo-tJ3PfH1-uIGObCjAgAIKR-t8ctx42oiw7MePTot7Oz0AcoCgSKYAFdc1_YFEE1EGMLK2G5GPS35ao3O5vabu9yo_1Sl2oQl-srCOpNaPd7Xuq3OTCYBsNzsy4UpZEW_RYGMFMkIiXe5DIzxbCg-iFPPUmA23q0scnTew3l0VluzZMqDPNgS4_Fa02H9Q7ih5cEji4zMjwoaK9gU9T6UsAMRBqPIR6FYQlx-5-nrqUMmzi-ysukgF5EspA7IRmXltk8KBI1fbrjvKBH-DtzfQ9upt8VTm08CWzlPzPfaJOHOla_i0fvcMq4wQ05xQFnV" target="_blank" style="
+ background-color:#f05537;
+ color:#FFFFFF;
+ border-color:#f05537;
+ 
+ display: inline-block;
+ line-height: 22px;
+ font-weight: normal;
+ font-weight: 500;
+ font-size: 15px;
+ text-align: center;
+ text-decoration: none;
+ padding: 8px 28px 12px;
+ border-radius: 4px;
+ border-style: solid;
+ border-width: 2px;
+ 
+ margin-bottom:16px;line-height:12px;
+ " class="btn ">
+ Go to My Tickets
+ </a>
+ </div>
+ <!--<![endif]-->
+
+ <p style="margin-bottom:16px;"><b>Your tickets are not in this email</b>. Access your tickets in the <a style="text-decoration:none;color:#3F60E7;" href="https://clicks.eventbrite.com/f/a/9I7VfHWNEcd45NHHYQi6rw~~/AAQxARA~/HTFZ7FGKGGr6NW2MvlCf8dFgugAFW1W2xj-5zBK-HLTCMuAk12I-kM_q-Dyy49Y_z2B1e6C5JUCk36d1QUTxWZiH9RfEbfZvfLQMTE2wM9VzigIQO24LsOQqm1yJfMVPXnvgillgA1H1cr61vMG4_Q~~">Eventbrite app</a> before your event, and stash them in your phone’s digital wallet for the fastest entry!</p>
+ <p class="content_spaced">
+ Or, to access via web, go to the <b>Tickets section</b> in your account on <a href="https://clicks.eventbrite.com/f/a/4uFBlxMKhemglpMjmHYgug~~/AAQxARA~/3JUuM9lVVLPQmw2bwMraP5r9IMdZxalt9TCGY1NSx3BWdagfX3WSSasR9EgwKDOCcQMvDlvmePAtE7buUotTNPKRZ0alXxBguIBuqgICmQ3LJT1SXunLZdshbq7SVYXSfBSWgETYl_zLTVS_QQlbvdhHOtuDvlLtxqruQ5_Ki6mM62Hier_HBquq2JYrhndAXCB-qK7_UkeXVkHbrNI-1iDrjttzxKxEQDBvxK3f3HQ81mhGQie_Dh5GvJ4_hsN1-WY-8OVGbrboCvvE1nt5YW_I13keXUhhSDdYQ8m_wxyWL04l2wjDuGQqizFULuSNnDlbWxBB1PygatXoZa6XDRH0HoKi0JaVx-Bky_rPmg-PelqPdTY1ad5uUJBhMN8DILJ6FiLDB8mrXYtA_xiy_zpxeGoO0dmLIzZuTcS_fdUUtoyhJMDfM7IAVgZX5Va4U_nXYlNmpL1B0EOqrNq2Av0hJGzym1qcdBGnZ7XhckYTmnOjGIY9mkcBHtrXrqoJDM87HNZoOKEeR2PZtWHdXUVKSyJlhjGn0Wx3IlNRip3DfoQf0KGY8_fK8JAngeYo-tJ3PfH1-uIGObCjAgAIKR-t8ctx42oiw7MePTot7Oz0AcoCgSKYAFdc1_YFEE1EGMLK2G5GPS35ao3O5vabu9yo_1Sl2oQl-srCOpNaPd7Xuq3OTCYBsNzsy4UpZEW_RYGMFMkIiXe5DIzxbCg-iFPPUmA23q0scnTew3l0VluzZMqDPNgS4_Fa02H9Q7ih5cEji4zMjwoaK9gU9T6UsAMRBqPIR6FYQlx-5-nrqUMmzi-ysukgF5EspA7IRmXltk8KBI1fbrjvKBH-DtzfQ9upt8VTm08CWzlPzPfaJOHOla_i0fvcMq4wQ05xQFnV">Eventbrite.com</a> to view and download a Printable PDF of your tickets.
+ </p>
+ <hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;">
+ <h2 style="padding: 0;margin: 12px 0 12px 0;font-size: 23px;line-height: 32px;font-weight: normal;font-weight: 500;margin-top: 0;">
+ Zoo sidney
+ </h2>
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ <table style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tr class="row_section" style="margin-right:16px;">
+ <td width="26" style="vertical-align: top;">
+ 
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/b8efb2/django/images/mobile-app-promo/group-tickets.png" title="" alt="" style="padding-top: 4px;" border="0" width="28" height="28" class="">
+
+
+ </td>
+ <td style="margin-right:16px;">
+ <table>
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 17px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:normal;margin-left: 16px;" class="">
+ 
+ 
+ 1 x Ticket
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;margin-left: 16px;" class="no_text_resize">
+ 
+ 
+ Order total: Free
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ </table>
+ </td>
+ </tr>
+ </table>
+
+ 
+ </td>
+ </tr>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#FFFFFF;" width="600" height="12">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="12" style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;" height="24" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="date_row" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ <table style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tr class="row_section" style="">
+ <td width="26" style="vertical-align: top;">
+ 
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/fd2ad5/django/images/mobile-app-promo/Clock.png" title="" alt="" style="padding-top: 4px;" border="0" width="28" height="28" class="">
+
+
+ </td>
+ <td style="">
+ <table>
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="js-calendar-row-date" style="padding: 0; padding-left:16px; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 17px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:normal;text-decoration:none !important;cursor:text;" class="">
+ 
+ 
+ Wednesday, April 9, 2025 from 10:00 AM to 12:00 PM (Australia (Sydney) Time)
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="js-add-calendar-links" style="padding: 0; font-size: 15px; line-height: 21px; padding-left:16px; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;" class="no_text_resize">
+ 
+ 
+ Add to
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/dNPRAwhZ7FkJUvHImqtwaQ~~/AAQxARA~/yjTrhmUZqy1JNE6GmFDJppr9M-BREIKwkvfbKfRuxNbnJMRTCqrdKap7f25-9esGWn0SaMJocsgH-9zgTtS4JVvJDa-pmjEfTEugtexG9AiqKkT8FtYflDH1lxUf75roZ7K97YarHmwiPogZfhRaFUCWzg8mGZij_chfMC7kddp7T-5wyU6x0zO2IoVGbM2NjUeEf-IMHHi7PcPsmil7Uvbab_MoEYJX7IIIUeFT1I-MjS4s3xqORCUQ75bimb63r95H_zCSnjpuJSyBQD1vnaNM7QGzw6Z4a24y-8RnagK5CabzMxUR0MtPttJ8cbHt" class="js-add-google-link">Google</a>
+ 
+ <span style="font-weight:bold;" class="">·</span>
+
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/G-inL7tOVJPdhDc7H0sGrQ~~/AAQxARA~/w1SNYvLErKvjY08vdxbG157SI9OM6WgNFTk7IJY2g3cq1ylK7El8ZL_1JVPdqvQFsB0FCyODroRmb6ExSVHk7tdGDAQ8avC3b8NEekRXrq6UGb5cr5ab2TeDBtkJ0yh_vHGHfpn-amsvGojlpHqAfq0rp2idQOUKbMBzlmfdYzvQKugTKgDQ7d_bj6X1IX9MOq4Ya_gDcJAk7Pge3mAC551h4eoC50CsIngV1j8G6kzc7GB0vf2aV69TufuYdByAqZEDZW3v4IXv57idrThba97-coBaAplY06wdQZSZG8T1McHuSdovRjV4IAWGtqez" class="js-add-outlook-link">Outlook</a>
+ 
+ <span style="font-weight:bold;" class="">·</span>
+
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/xc7aTie29XOQGwCgs1CXTw~~/AAQxARA~/1yp7zsR5FjuLukb7U1ojYjFLnYNxFgVsFKmgJJLNmdN-2jbgX4b8Elitk6eUt5Sm1K-noqRXNtXbDdGVHMjBM_wu1u02YKujozm2LUyFt3GfHvGrv5VMitEptUgtfmwHiDDxTseyfupGFiysUCKpDvau1OF9jwbRHMcqWhzyBmU94ew6vuWS0IPURl416jk4LsH6NT8GVVcQqz4oloE27GL03IOmKxFu3T1G3ePJfVXTd6kwN0p_DNMYqD5ahpuX9o0YqdPdxklXjjJVa8GAAZEtzzVcGI-Oq-O7Q3xOetlYVGXasEhXN4R_H06L816o" class="js-add-ical-link">iCal</a>
+ 
+ <span style="font-weight:bold;" class="">·</span>
+
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/YY9cflZvFqSPN4UKrWE0VQ~~/AAQxARA~/bXc5oIVx55EqdM2LR8XwqR4ZfOAtj7lRpliX1uAIOtLDn9cd-iIpnmMudQwxkGJ6X_RW2po3DDwbgLgmQXwZZJsRuxStJgYghHGyZDGEH8Iq_x4uFbbb9L9dFih-zyJSFCZFNNzEBHDR1DqgPmKxBaHAQcW3MqNrts5F1aOanezNB0obuRyAMHDF0BSL_Q_fF3_HerCRzGoi1j86A1vPCE4OwhNs6SmidloyT0N5DjktDH3gS1jyn9R_-MuAMrPtdB8obo5iYv2PQ2_qe3sWzO3GwjWD8WE6FEXfXiM28CKDGsyZgloYTIEH-qRAreeo" class="js-add-yahoo-link">Yahoo</a>
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ </table>
+ </td>
+ </tr>
+ </table>
+
+ 
+ </td>
+ </tr>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;background-color:#FFFFFF;" width="600" height="12">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="12" style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:24px;font-size:24px;height:24px;" height="24" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ <table style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tr class="row_section" style="">
+ <td width="26" style="vertical-align: top;">
+ 
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/1203b2/django/images/mobile-app-promo/Pinpoint.png" title="" alt="" style="padding-top: 4px;" border="0" width="28" height="28" class="">
+
+
+ </td>
+ <td style="">
+ <table>
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; font-size: 15px; line-height: 21px; padding-left:16px; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 17px; line-height: 24px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:normal;" class="">
+ 
+ 
+ WILD LIFE Sydney Zoo
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; font-size: 15px; line-height: 21px; padding-left:16px; text-align:left;" align="left" bgcolor="" width="100%" height="22px">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;" class="">
+ 
+ 
+ 1-5 Wheat Road<br>Sydney, NSW 2000<br>Australia
+ 
+ 
+</span>
+
+
+ </td>
+ </tr>
+ <tr>
+ <td height="22px" style="font-size: 15px; line-height: 21px; padding-left:16px;">
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/mJsPETPFyIb_h8l8Bi5zvw~~/AAQxARA~/TzKL1RIzEgZL9hsrDJ9-Fed26Vy5XNAGoss8l57T0E4LuCU-n2poeT6loEfg7wkL3oSLb9ng91Nq1PsFLYsuxPovrp6grdjLfmE_zFOJI8gDOar2B9eTKSOCubhf5bQip2J_CNtW-Q1jhUTIZAag3vbLXodoAcBbTQdq2yOjAqKs7LrUHk7ah-jwiESwGZxVNA9g572KMf1o2FSBdzBJag~~" class="js-google-map-link">View on map</a>
+ 
+ </td>
+ </tr>
+
+ 
+ </table>
+ </td>
+ </tr>
+ </table>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ </td>
+ </tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ <hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;">
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="js-event-questions-title" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+<h2 style="padding: 0; margin: 12px 0 0 0;font-size: 23px;line-height: 32px;font-weight: normal;font-weight: 500;color: #1E0A3C !important;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;margin-top: 20px;" class="default-heading">
+ 
+ Questions about this event?
+ 
+</h2>
+
+ 
+ </td>
+ </tr>
+
+
+ 
+ 
+<tr class="row_divider-top">
+ <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;background-color:#FFFFFF;border-top-left-radius:0px;border-top-right-radius:0px;border-bottom-right-radius:0;border-bottom-left-radius:0;" width="600" height="8">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="8" style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;" height="8" bgcolor="">&nbsp;</td>
+ </tr>
+ <tr bgcolor="#FFFFFF">
+ <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;" height="8"></td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="js-contact-organizer-cta" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;" class="">
+ 
+ 
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; display: block;font-weight: bold;" href="https://clicks.eventbrite.com/f/open-in-app/GdSx-mzPe2I1PQaoWd6Tgw~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj9pQN9Oh7k6BF8vTdLdx-QcmCuVI6Cbsz_KLGItlTSgIIBW_WyfnHReXSLU33TWipmiKKUnBuGbQNIshjct3MWEOE1PwDLzf9JuwA1Av4FAP-x9TG4vSnGHv3t55fHVRyshF8y0FgsUpfNOzUj8cjD5WxQKLAVuzq_LZg0c8WcDuqnCRP5dLn_2lknIgRKqJxRPlwkePJfcj4m0eT8H6ETuBVzpAH2JS6Lekrl3SUEQIWEO-kfYh2wAoDNiKbyxOGbgxl8YyE4DUJQoQsb1lin4K-tPWJUP7HMi4Wn8SmOLL" class="">Contact the organizer</a>
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; display: block;font-weight: bold;" href="https://clicks.eventbrite.com/f/open-in-app/R1INBqARHJSLic4KwJ4Hcw~~/AAQxARA~/PX1iZRBzMJOhB8EeXImE_HD0vPb7YTo5LYfxl0gVClEjZMDMB1PEOqFSLRaG28Lf8cNiO8osN_fHv9iASqwuqjlYtWaG-UHh2c1JD3kp7R1xyNJfFAGUV2yQT9BJPCCwFiKR_xREVtRMQMZaZrwAFPjZ8W72AE97SUYym4UVPNtEUo45FDBRAklbF4DPbe8PE3oLHPNWNC1RbAMmLOPWWB1jipLuuUnAPh2Y-NrVvYlL3HEDU-aLmESg6Z52YtxaNHlhv3Jrat1A9MWkARHixx9PZUQhjk1WGGuNO8VchcXS_RBgWLx0GoCMP84D44yU" class="">View event details</a>
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+
+
+
+ 
+ 
+ 
+ </tbody>
+</table>
+
+ </td>
+ <td width="20" bgcolor="#FFFFFF"></td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+ 
+ 
+
+<tr bgcolor="#FFFFFF" class="row_section-content">
+ <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;" class="default-table">
+ <tbody>
+ 
+ <tr class="row_section" style="" bgcolor="#FFFFFF">
+ <td width="10" bgcolor="#FFFFFF" align="left"></td>
+ <td class="" style="text-align:left;background-color:#FFFFFF;" align="left">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" bgcolor="#FFFFFF" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tbody>
+ 
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ <hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;">
+ 
+ <table cellpadding="0" cellspacing="0" border="0" class="no_text_resize" width="100%" style="border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight:normal;">
+ <tr>
+ <td colspan="3">
+ 
+ 
+<h2 style="padding: 0; margin: 12px 0 0 0;font-size: 23px;line-height: 32px;font-weight: normal;font-weight: 500;color: #1E0A3C !important;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;margin-top: 0;" class="js-order-summary-header-title">
+ 
+ Order Summary
+ 
+</h2>
+
+ </td>
+ </tr>
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;background-color:#FFFFFF;" width="600" height="4">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="4" style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;height:4px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;" height="8" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ <tr>
+ <td colspan="3">
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #1E0A3C;" class="js-order-summary-title">
+ 
+ 
+ Order 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/JpXN0kwbVhOBKNvMZCjDpw~~/AAQxARA~/Lwm6Os_9NTaIUqJNcO-fcbCZ4a8gVwoH5vM1xqX0QHip_479x0zEQtxg4j-eyy4kL_lQrf0QJNSZae1-Lqf-GdlOxVsXnkrey32pw5Yrra_FfJH9Z8jqZdzvltqn9CNeubhv5lOYSRF6X5odr7u0ZumF5N0EKQj5e00DxfeFflCLGM4tXPkiKhVv9tiWtxu1cWj9CfVsgQlf_MAnvNxsTKDTWCXe9Q9D6Z341pGT_kGg0gf7gEnLIT5FS_1Dhe8_8oU0gl9YWS4tEO7G8xmYuA~~" class="">#11860838043</a> - February 28, 2025
+ 
+</span>
+
+ </td>
+ </tr>
+ <tr>
+ <td colspan="3">
+ </td>
+ </tr>
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;background-color:#FFFFFF;" width="600" height="16">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="16" style="mso-line-height-rule:exactly;line-height:16px;font-size:16px;height:16px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:32px;font-size:32px;height:32px;" height="32" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ <tr>
+ <td colspan="3">
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #1E0A3C;" class="no_text_resize js-order-summary-payment-description">
+ 
+ Free order
+ 
+</span>
+
+
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;background-color:#FFFFFF;" width="600" height="20">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="20" style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:40px;font-size:40px;height:40px;" height="40" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ <tr>
+ <td colspan="3">
+ <table cellpadding="0" cellspacing="0" border="0" width="100%">
+ <tbody>
+ <tr>
+ <td width="25%" valign="top">
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #1E0A3C;" class="js-order-summary-item-name">
+ 
+ Rachel Novak
+ 
+</span>
+
+ </td>
+ <td width="50%" valign="top">
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #1E0A3C;" class="js-order-summary-item-quantity">
+ 
+ 1 x
+ 
+</span>
+
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:600;font-size: 14px;" class="js-order-summary-item-ticket-type">
+ 
+ 
+ General Admission
+ 
+ 
+</span>
+
+
+ </td>
+ <td width="20%" align="right" valign="top" style="text-align: right;">
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; color: #1E0A3C;" class="js-order-summary-item-price">
+ 
+ $0.00
+ 
+</span>
+
+ </td>
+ </tr>
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:6px;font-size:6px;background-color:#FFFFFF;" width="600" height="6">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="6" style="mso-line-height-rule:exactly;line-height:6px;font-size:6px;height:6px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:12px;font-size:12px;height:12px;" height="12" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+
+
+ </tbody>
+ </table>
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;background-color:#FFFFFF;" width="600" height="4">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="4" style="mso-line-height-rule:exactly;line-height:4px;font-size:4px;height:4px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:8px;font-size:8px;height:8px;" height="8" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ </table>
+
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="26">
+ 
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:600;font-weight:normal" class="no_text_resize">
+ 
+ 
+ 
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; font-weight: normal;" href="https://clicks.eventbrite.com/f/a/rFtfedK4uSZDOiV__rhcUA~~/AAQxARA~/TFEDKRBGxV57gzoLSq2sFkzIGRINGFcy76NRp59TTcn4RNxDbtBkMq3pJuiy1fzS_8J2EvE9C5AtCc3cPKfjV9HVf6LS78-xW_6d6zmSowzCYeAtGS6zlqQoI5rcuDQdtdFlTIJ0ECdlPiYB8I6LYTiqKsItqSVUeslCiqDbkiDerS8_MlEdugpY7GGWSuCgnuP4s4B0nKodwrK7PyMhY44yNyAptQ1xiIAQjTuwRNwpMt8P9vjQr7NSIELWrYWEQC09rF1n2IabLZMKYaTD08DINxuAyyyvnQIr8efLliA~" class="">View and manage your order</a> in your Eventbrite account.
+ 
+ 
+</span>
+
+
+ 
+ 
+ </td>
+ </tr>
+
+
+
+
+
+
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="26">
+ 
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;" class="no_text_resize">
+ 
+ 
+ 
+ <a href="https://clicks.eventbrite.com/f/a/JHq9H-ML5iHXzQDpGZ5l2w~~/AAQxARA~/HNX-Nvb7xuVu9pU4WygXwMqr4jIfdjavuO5tdwiJaKKtQ7kpOgNOuo90Xzg6bvzfIM4dgFl6BP0gIW29V_dw2yYX_sCTenqRGSVDHyG3ar8Y1i2Fxy3e4k-VeWXY1Aw8o8HpneFBv-bcrXICJTyCe2kg-Idk2AiPVNvNjiFM-tqOYMqH9dGK78s_z3eAhdodOs7ZJ2FYKm3ek1MSZj27G5Qt1tcIfcNesg0VV3j2T2Ncp5DzSEYADPcX03d2Ndd-mPTbCVnrl7ozFn__SrjGveEdZfxUWi1RTNB9w3twt6Cjy0ue7rvybZcc-vvLp9iiGlznmWMUmHFnkpYxvRtB_A~~" style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-weight:normal;">Contact the organizer</a> for any questions related to this purchase.
+ 
+ 
+</span>
+
+
+ 
+ 
+ </td>
+ </tr>
+
+
+
+
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="26">
+ 
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;" class="">
+ 
+ 
+ 
+ This order is subject to Eventbrite 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-weight:normal;" href="https://clicks.eventbrite.com/f/a/ouZ4grLCZeBRR5a72krGjA~~/AAQxARA~/U7V1PMPeHI-uE6MC9FZe3pU9gGskNvEhsMNXEMfj7DPH2i2jW3GogkRubWnx9Vd9Jr8a1ZG1oiPzKHkksGvNFSaLYh1B33xrkUDadei8dIhdI4miyHdShKxTkp6Jx5ErbXCI6RvFAFWPKPkf-qyKFu7v7mrn-1IFqkB4-tOGDAgcB3zyXm-mEkWtxAkdOZTrMCcFL68IUwSlrSMpRBrhSfLcc2FNoaxq6OuZigiY5DWTgmAmI6n_kNrpDArgwLFU" class="">Terms of Service</a> and 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-weight:normal;" href="https://clicks.eventbrite.com/f/a/YGDCw0UmDIf7RuB8Jqd0Gw~~/AAQxARA~/S0FuklWaswRbARuoQbzBaeUmmOTMHPr6HFVAEAk76kAGNjXJMlAUhB5pgzb15sy7MvLfQPZVnENCmkdPkKylMSEyJCk0OrT69CBEJmEwwA7IvXnZLzAfJkX1P1Up1y49wotVWlCrvOBTqyckRlJweKg5YhvLVRctE2qL_8X4eE7GadcRDEjQjK5rUwfDLpUVG_pojTAuXvN28eh_ssA9M2iVGNy0cu6jRCwi38FEDlaOAHoYpXaU3SW83fMdv7PM8ToC6aZHHiZoKf2o4gbqDA~~" class="">Privacy Policy</a>, and 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;; font-weight:normal;" href="https://clicks.eventbrite.com/f/a/oqaZjgkVAvYzVo5DFgfPcw~~/AAQxARA~/stVbI0bCvt2nJsSBAE9MjlrMbndk0QT8rwBoJO9Pmn4osvg79ivzHjLRfFrzuWCyque9Eb9pW1fQuY-kjsExPsgum65qG8y1PzmXjCmLvps1owi72ZgBtRmFKppYIL15_mPnIZXpuklo7Z2jABRrtJEmaK2sG9PcJZq7BUkSmHdCKXC6ksx036BYdBNLVrPbrijnik915iJnQvO9TYy84I0k-WIW55Z-_s7MDeRdB-8qbfHzN0jB2Q0cckH6q-qPYuqZGT1mVnxr3iMhFfoHrA~~" class="">Cookie Policy</a>.
+ 
+ 
+</span>
+
+
+ 
+ 
+ </td>
+ </tr>
+
+
+ 
+
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ </tbody>
+</table>
+
+ </td>
+ <td width="10" bgcolor="#FFFFFF"></td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+ 
+ 
+
+<tr bgcolor="#FFFFFF" class="row_section-content">
+ <td style="background-color:#FFFFFF;" bgcolor="#FFFFFF" class="grid__col">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;" class="default-table">
+ <tbody>
+ 
+ <tr class="row_section" style="" bgcolor="#FFFFFF">
+ <td width="10" bgcolor="#FFFFFF" align="left"></td>
+ <td class="" style="text-align:left;background-color:#FFFFFF;" align="left">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="left" bgcolor="#FFFFFF" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;">
+ <tbody>
+ 
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px;padding-bottom:20px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ <hr style="height: 1;border: none;border-top: 1px solid #EEEDF2;margin: 40px 0;padding: 0;"> 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+<h2 style="padding: 0; margin: 12px 0 0 0;font-size: 23px;line-height: 32px;font-weight: normal;font-weight: 500;color: #1E0A3C !important;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;margin-top:0;" class="default-heading">
+ Ticket Information
+</h2>
+
+ 
+ </td>
+ </tr>
+
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+<h2 style="padding: 0; margin: 12px 0 0 0;font-size: 17px;line-height: 23px;font-weight: normal;font-weight: 500;color: #1E0A3C !important;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;" class="default-heading">
+ 
+ 
+ Ticket #1: General Admission 
+ 
+</h2>
+
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:3px;font-size:3px;background-color:#FFFFFF;" width="600" height="3">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="3" style="mso-line-height-rule:exactly;line-height:3px;font-size:3px;height:3px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:6px;font-size:6px;height:6px;" height="6" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;margin-bottom:0;" class="">
+ 
+ 
+ Rachel Novak
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 15px; line-height: 21px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#6F7287;font-weight:normal;margin-top:0;" class="">
+ 
+ 
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; " href="https://clicks.eventbrite.com/f/a/55qSbJbVOm7uoOT45pOTSQ~~/AAQxARA~/eH78tCr5Rm1zAHbnFlO3oSS7IhPz2q45u2RQETJTHQPAASJz3bNT01XvIMeNdPjIUJuTTe7-lRy1w-_2T6uJ3YkFCyR8baxSALiC0NlXv5Cx2kMuwkKOZYdVGRPwwsKK" class="">phishing@pot</a>
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+
+
+
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:10px;font-size:10px;background-color:#FFFFFF;" width="600" height="10">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="10" style="mso-line-height-rule:exactly;line-height:10px;font-size:10px;height:10px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;" height="20" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; padding-left:8px;padding-right:8px; text-align:left;" align="left" bgcolor="" width="100%" height="26">
+ 
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#1E0A3C;font-weight:600;" class="no_text_resize">
+ 
+ 
+ 
+ 
+
+
+<a style="text-decoration:none;color:#3F60E7; color:#3F60E7; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight:normal; font-weight: bold; font-size:14px" href="https://clicks.eventbrite.com/f/a/BsgKD6UU_JRTNTeLVFqCzQ~~/AAQxARA~/AIVlnvqfC2hhW37NFMeGXqeEJayt97WijCDFdDzFQFxtrJmVWeRL3wDaYkTVzz7qLsi6VwEA9EYntBKIQgn7nWpJRyz_cBhu2FG3S0EBDlh_GQqjo8olRgtQfnLr6CHWOuVRIY0FhLIE_LM7CdBoKBInKzB4yDVCmfhbV9OzbWfcev3lq52mFNoWco9YkpXPOlk6Ej4ZEFkYLWDNzlQh1LEG2r2ad3_VDEoIJNYZJ1jaJfKfnvoU3W_5E5g1eCpSm9ofm1OCGUMC1RBm1oX7WvafsBuhPmys4i5ma47VW1U~" class="">View ticket information</a>
+ 
+ 
+</span>
+
+
+ 
+ 
+ </td>
+ </tr>
+
+
+
+ 
+ 
+ 
+<tr class="row_divider-bottom">
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;background-color:#FFFFFF;border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:0px;border-bottom-left-radius:0px;" width="600" height="20">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="20" style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ <tr bgcolor="#FFFFFF">
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;" height="20"></td>
+ </tr>
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;" height="20" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+ 
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ </tbody>
+</table>
+
+ </td>
+ <td width="10" bgcolor="#FFFFFF"></td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+
+ 
+ <script type="application/ld+json">
+ {
+ "@context": "http://schema.org"
+ ,"@type": "EventReservation"
+ ,"reservationNumber": "11860838043"
+ ,"reservationStatus": "http://schema.org/Confirmed"
+ ,"modifyReservationUrl": "https://www.eventbrite.com/mytickets/11860838043?ref=eemailordconf&utm_campaign=order_confirm&utm_medium=email&utm_source=eventbrite&utm_term=googlenow"
+ ,"underName": {
+ "@type": "Person"
+ ,"name": "Rachel Novak"
+ }
+ ,"reservationFor": {
+ "@type": "Event"
+ ,"name": "Zoo sidney"
+ ,"startDate": "2025-04-09 10:00:00"
+ ,"endDate": "2025-04-09 12:00:00"
+ ,"location": {
+ "@type": "Place"
+ ,"name": "WILD LIFE Sydney Zoo"
+ ,"address": {
+ "@type": "PostalAddress"
+ ,"streetAddress": "1-5 Wheat Road"
+ ,"addressLocality": "Sydney"
+ ,"addressRegion": "NSW"
+ ,"postalCode": "2000"
+ ,"addressCountry": "AU"
+ }
+ }
+ }
+ }
+ </script>
+
+
+
+
+ <!-- Footer Section-->
+ 
+ 
+ 
+ <tr style="" bgcolor="">
+ <td class="" style="padding: 0; text-align:left;" align="left" bgcolor="" width="100%" height="">
+ 
+ 
+ 
+
+
+
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;background-color:#EEEDF2;" width="600" height="18">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="18" style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:36px;font-size:36px;height:36px;" height="36" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+
+
+<tr bgcolor="#EEEDF2" class="row_section-footer-content-legacy">
+ <td style="background-color:#EEEDF2;" bgcolor="#EEEDF2" class="grid__col">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="center" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;" class="default-table">
+ <tbody>
+ 
+ <tr class="row_section" style="" bgcolor="#EEEDF2">
+ <td width="30" bgcolor="#EEEDF2" align="center"></td>
+ <td class="" style="text-align:center;background-color:#EEEDF2;" align="center">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" align="center" bgcolor="#EEEDF2" style="border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;width:100%;color:#1E0A3C;">
+ <tbody>
+ 
+ 
+ 
+ 
+ <tr style="" bgcolor="#EEEDF2">
+ <td class="" style="padding: 0; text-align:center;" align="center" bgcolor="#EEEDF2" width="100%" height="">
+ 
+ <a href="https://clicks.eventbrite.com/f/a/cGIll86elkCdTSmWg0gIzQ~~/AAQxARA~/EE7niK09hPgoIDZxKmtqA3Fn2saDlrm2JAf3QU-sIUh9MFjkytXYZXjmWLN77cpCi-AFuaPDBkH5gM7Har_n-jqbs0hId1HTd7MEd6SB3NTthnw_WFnwsiZE-1vK2KdoPLIzNs2g4EV4ga6Oz5mIR2K6QKelkJ2epMs42agSQCn77B50Ubc60C1_muPqdxqCP1c6Dmd5Vs-5Z5ybqDXTnThSUiVu-gLV9ysmWictUAs~">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/de0b06/django/images/emails_2018_rebrand/EB-logo@2x.png" title="" alt="Eventbrite" style="margin: 0 auto;" border="0" width="100" height="18" class="">
+
+ </a>
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:15px;font-size:15px;background-color:#EEEDF2;" width="600" height="15">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="15" style="mso-line-height-rule:exactly;line-height:15px;font-size:15px;height:15px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:30px;font-size:30px;height:30px;" height="30" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="#EEEDF2">
+ <td class="" style="padding: 0; text-align:center;" align="center" bgcolor="#EEEDF2" width="100%" height="">
+ 
+ <table style="margin:0 auto;width:265px;" width="265" cellpadding="0" cellspacing="0">
+ <tr>
+ <td width="25%" align="left">
+ 
+ 
+<span class="social-logo-container" style="height:18px;padding:0;width:18px;margin-top:1px;">
+ <a href="https://clicks.eventbrite.com/f/a/shNynpRvttKnm2bhpSY_hA~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9hYITCKlWyCYlQfSC8_UPQn6vSJJ7u2haOxQXf_bbRwM4OsCbkWO6hbWwzTqopJU76n1OZJPx-J_8s-LhuX2duk5LrD5VSylxxo-2x2qk6cr" target="_blank" aria-label="Eventbrite's Twitter">
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/4962df/django/images/mobile-app-promo/x-twitter.png" class="footer-social-logo__image" style="height:18px;padding:0;width:18px;margin-top:1px;" alt="twitter-x" title="twitter-x" border="0">
+ </a>
+</span>
+
+ </td>
+ <td width="8%">
+ <td width="25%" align="center">
+ 
+ 
+<span class="social-logo-container" style="height:24px;padding:0;width:24px;">
+ <a href="https://clicks.eventbrite.com/f/a/qBASW1_186QztbqGCSep-g~~/AAQxARA~/eH78tCr5Rm1zAHbnFlO3oQdjq6dfcLquqNSw7dkXHF3q7F4I6Lucss2rCg9hPfSqBrDvzNFvBBg3DiIH33mJpfEMJWBhngKApenfqobGyHPxzMh8FqTDmaIh8l6AbyhS" target="_blank" aria-label="Eventbrite's Facebook">
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/ac2bf4/django/images/emails_2018_rebrand/FB-icon-purple@2x.png" class="footer-social-logo__image" style="height:24px;padding:0;width:24px;" alt="facebook" title="facebook" border="0">
+ </a>
+</span>
+
+ </td>
+ <td width="12%">
+ <td width="25%" align="center">
+ 
+ 
+<span class="social-logo-container" style="height:24px;padding:0;width:24px;">
+ <a href="https://clicks.eventbrite.com/f/a/QKGAU9hB4w4S78oaUHiSPw~~/AAQxARA~/2jalt0zKLhUb0CMZFvH__yADBwjsq8eMZmBjEoapiKQ1fZtcT4OuwKICD6Ms4g79XXuX5dHJo6gHdOwAP1iKDw_um0NgOJ0Jn41qp2G5ox7NnX6dDMtiSZs42f_R6P6z" target="_blank" aria-label="Eventbrite's Instagram">
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/009b0f/django/images/emails_2018_rebrand/IG-icon-purple@2x.png" class="footer-social-logo__image" style="height:24px;padding:0;width:24px;" alt="instagram" title="instagram" border="0">
+ </a>
+</span>
+
+ </td>
+ <td width="12%">
+ <td width="25%" align="right">
+ 
+ 
+<span class="social-logo-container" style="height:20px;padding:0;width:27px;">
+ <a href="https://clicks.eventbrite.com/f/a/DCMquiGH4h2lTaQ94E4Vvg~~/AAQxARA~/DGIj_OmbKNNZkPJXRhuR9ooLcGTpinHvGYxA4okIhZetTdZp0vliGugbjIHL42hX4W6DSNmxOkfHZadJHHU7Nc6RHPXb_DdmghsJJMhkbStXXaw0_dONnJuxPyF7hDT2" target="_blank" aria-label="Eventbrite's Tiktok">
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/8564da/django/images/mobile-app-promo/tiktok.png" class="footer-social-logo__image" style="height:20px;padding:0;width:27px;" alt="tiktok" title="tiktok" border="0">
+ </a>
+</span>
+
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:10px;font-size:10px;background-color:#EEEDF2;" width="600" height="10">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="10" style="mso-line-height-rule:exactly;line-height:10px;font-size:10px;height:10px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:20px;font-size:20px;height:20px;" height="20" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+ 
+ <tr style="" bgcolor="#EEEDF2">
+ <td class="footer-content" style="padding: 0; text-align:center;" align="center" bgcolor="#EEEDF2" width="100%" height="24">
+ 
+ <h3 style="text-align: center;font-size: 13.8px;font-style: normal;font-weight: 700;display: block;color: #6F7287;">
+ Get the Eventbrite app
+ </h3>
+ <table style="margin: 0 auto;width:265px;">
+ <tr>
+ <td>
+ <a href="https://clicks.eventbrite.com/f/a/yU8GDRqsYVTLECdEyictEQ~~/AAQxARA~/Z4FxZ6OKLdXXifj1EuoFj5fNmARz5klJea6gsa2S5zwJNayTFBZLY500RHEW-JpbIrxHeSHAfwJFZZr4ZTmA5M6LFSUaVu1_MhBmPq5Q8afVIh40L5CLTYjaRAomXcB1VBMDGmnlzu-9hSEHwrlBHv5khgi3Yc6Q5U20Wkd-yc8D3mAZBuGFFuZdLHb3yc3lKbDnZ0AnSVwJbuwthsJiSXAGoRXtPLkjWX3CfE8GbApeItblYJZ9yGtfR_OWmUBhbC2ZW59CKFD8Jt5rT0pTps17QuyV5FKCdKR2Y1zeTHEFnURI6c0G8rD4vYKOZr5z">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/6026d5/django/images/badges/app_store_badge_en.png" title="" alt="App Store" style="" border="0" width="117" height="36" class="">
+
+ </a>
+ </td>
+ <td style="width: 26px;">&nbsp;</td>
+ <td>
+ <a href="https://clicks.eventbrite.com/f/a/W7X1m3vJlFnO6VTUoTdW5w~~/AAQxARA~/NnKmShCYE2ywNk3FYnUPrEtmvD3N5RfiVj_RaZW71obH01GzYgcwL8_Mnm2_Qtkg3OUNqrr8CCD-uD7frPSJeO0fQMqlCC6igOTB0GrbXw60I2-aAPbcXAwjaURLxjVn0vUwh1_l2on4zUKrAbbR6CKatfqwLr-8NRA0MN2pEsaa3_SBDvjGUrUZ0ojIYO5pt7Z0giN8JISkHjeQBTbh42AP85C-iZFEZoppv35jq7JjFNwK6-4_ecXOJLM9lPSSY82HgrG31ddZd4XhYkFKag~~">
+ 
+ <img src="https://cdn.evbstatic.com/s3-build/perm_001/460917/django/images/badges/google_play_en.png" title="" alt="Google Play" style="height:36px;" border="0" width="117" height="36" class="footer_google_app">
+
+ </a>
+ </td>
+ </tr>
+ </table>
+ 
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:14px;font-size:14px;background-color:#EEEDF2;" width="600" height="14">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="14" style="mso-line-height-rule:exactly;line-height:14px;font-size:14px;height:14px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:28px;font-size:28px;height:28px;" height="28" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ <tr style="" bgcolor="#EEEDF2">
+ <td class="footer-content-mobile-app-redesign" style="padding: 0; text-align:center;" align="center" bgcolor="#EEEDF2" width="100%" height="24">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#4B4D63;font-weight:normal;" class="">
+ 
+ 
+ Copyright © 2025 Eventbrite. All rights reserved.
+ 
+ 
+</span>
+
+
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#4B4D63;font-weight:normal;" class="">
+ 
+ 
+ <a style="color: #6F7287;font-weight: bold;" href="https://clicks.eventbrite.com/f/a/p_xKBT7zYmcST5YO0--SBw~~/AAQxARA~/Lw6sYVnrCKxNXMnD3ePT_8__7cl_N6rnpdhjhjE_2W_s4QGrlvZIsUJvn5C3K5_uUOZeBATrtaLxpOkViEUGEkGZtY8t3B_V33sQZP_-xczETiGuyNzt0-wWGb1WF58HMAPvWkKG8nGpjoEmYGQEsSx6ifDiB06bczT7ntmXoO98B2L_ZCG_EgOHi2G_RGlQAZ80M9cX7YnHMPMPRIXGKp1UJOy86Og1JfmYUY01s5xzgN-ZKQLVOhKVJ3EOxkB4JpbIDiekEHQ5qAkIcFxAog~~">
+ Privacy Policy
+ </a>
+ 
+ 
+</span>
+
+
+ 
+ </td>
+ </tr>
+
+ 
+ <tr style="" bgcolor="#EEEDF2">
+ <td class="footer-content" style="padding: 0; text-align:center;" align="center" bgcolor="#EEEDF2" width="100%" height="24">
+ 
+ 
+ 
+ 
+
+<span style="font-weight: normal; margin: 4px 0; font-size: 12px; line-height: 18px; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; color:#4B4D63;font-weight:normal;" class="">
+ 
+ 
+ 535 Mission Street, 8th Floor San Francisco, CA 94105
+ 
+ 
+</span>
+
+
+
+ </td>
+ </tr>
+
+ 
+ 
+ 
+ 
+<tr class="row_divider-spacer">
+ <td style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;background-color:#EEEDF2;" width="600" height="18">
+ 
+
+<table ?="" cellpadding="0" cellspacing="0" border="0" ?="" height="18" style="mso-line-height-rule:exactly;line-height:18px;font-size:18px;height:18px;border-collapse:collapse;border-spacing:0;mso-table-lspace:0pt;mso-table-rspace:0pt;border:0;padding:0;;width:100%;" class="default-table">
+ <tbody>
+ 
+ 
+ <tr>
+ <td style="mso-line-height-rule:exactly;line-height:36px;font-size:36px;height:36px;" height="36" bgcolor="">&nbsp;</td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+
+ 
+ </tbody>
+</table>
+
+ </td>
+ <td width="30" bgcolor="#EEEDF2"></td>
+ </tr>
+ 
+ </tbody>
+</table>
+
+ </td>
+</tr>
+
+
+ 
+ </td>
+ </tr>
+
+
+
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ </td>
+ </tr>
+ </table>
+ 
+<img border="0" width="1" height="1" alt="" src="https://clicks.eventbrite.com/q/sNN-mjK4-k12DkQVW5mABA~~/AAQxARA~/hDFzmzBYRN4po9iXltkYcGfnOOT1-5vWIk9Wtx5Ypn4WsLU5tuycTqcBYJlQMAmwVxjgWgVRnDqECEwp6PKdTw~~">
+</body>
+</html>
+
+

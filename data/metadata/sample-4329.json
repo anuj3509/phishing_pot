@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Lembrete: Correios informa que sua remessa ainda está pendente! Protocolo: 98726364.",
+    "from": "Correios S/A <alfandega-informa039911@correios>",
+    "to": "phishing@pot",
+    "date": "Sat, 9 Nov 2024 23:27:44 +0000",
+    "message_id": "<7c9381ead2e6f706d7298fab388dd8be@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7c9381ead2e6f706d7298fab388dd8be\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7c9381ead2e6f706d7298fab388dd8be\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.correios.com.br-044135467rastreamentos@logstaxasalfandega.co.ua/web_go/online_rastreamento750",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3762,
+    "has_text": true,
+    "has_html": true
+  }
+}

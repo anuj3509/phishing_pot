@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "ENC: Confirmation-96424*Rlk2",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:02:26 +0000",
+    "message_id": "\r\n <SA0PR04MB7370B0C2BEAC20A4A8D96C6DB3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370B0C2BEAC20A4A8D96C6DB3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370B0C2BEAC20A4A8D96C6DB3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://go.sv/uliqin#oFlmnabhOFTulgJzWgMCYESkAYuNpK",
+      "oogyuxrasu.it",
+      "https://link.sv/D877Bw#ZynyOtfsUBmUOcWZnJPlkWobo",
+      "oogyuxrasu.it&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 673,
+    "html_length": 3310,
+    "has_text": true,
+    "has_html": true
+  }
+}

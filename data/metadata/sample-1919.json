@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Releasing the accelerator program",
+    "from": "\"Ripple Labs, Inc.\" <absar_ahmad@arenterprise-bd.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 12 Nov 2023 19:16:53 +0000",
+    "message_id": "<aMdIB8IYBWKKvuwZ6o1BkeQDJBOkdMGiDAAWnfLdQ@vultr-guest>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_aMdIB8IYBWKKvuwZ6o1BkeQDJBOkdMGiDAAWnfLdQ\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_aMdIB8IYBWKKvuwZ6o1BkeQDJBOkdMGiDAAWnfLdQ\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900",
+      "https://t.co/ss3B1M5Kdj",
+      "https://seekvectorlogo.com/wp-content/uploads/2018/12/ripple-vector-logo.png",
+      "https://www.linkedin.com/psettings/guest-email-unsubscribe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2496,
+    "html_length": 11414,
+    "has_text": true,
+    "has_html": true
+  }
+}

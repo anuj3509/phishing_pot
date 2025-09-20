@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fwd: I am contacting you for the second time.",
+    "from": "Big Data x Great People <bigshitdatasays@gmail.com>",
+    "to": "phish.me.again@gmail.com",
+    "date": "Mon, 13 Feb 2023 10:33:10 -0600",
+    "message_id": "<CA+HtFV4kBq3p5W0jFq2X+gfgQatATD+qc5BWstVfDixcVgQE1w@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000bc5bc605f49767c6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000bc5bc605f49767c6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "bonako.com",
+      "http://bonako.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1561,
+    "html_length": 1998,
+    "has_text": true,
+    "has_html": true
+  }
+}

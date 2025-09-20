@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[NEWS] Exclusive Airdrop Opportunity Awaits at Osmosis.zone ",
+    "from": "\"Оsmоѕіѕ.zоnе\" <news1.case.osmosis_zone@b2b2c.biz>",
+    "to": "phishing@pot",
+    "date": "Mon, 05 Aug 2024 18:12:45 +0100",
+    "message_id": "<202408051712.475GgWar031556@pop.b2b2c.ca>",
+    "content_type": "multipart/alternative; boundary=\"===============0257993553==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0257993553==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://osmosis.claims/?app.type=web&amp;app.apikey=phishing@pot",
+      "Osmosis.zone",
+      "Osmosis.zone,",
+      "https://tiime.us13.list-manage.com/unsubscribe?u=3d3b0e2c812a3571cce6c9e07&amp;id=9b06260c0e&amp;t=b&amp;e=aaf3cce3bf&amp;c=2069b607a8",
+      "support.osmosis.zone"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1638,
+    "html_length": 4099,
+    "has_text": true,
+    "has_html": true
+  }
+}

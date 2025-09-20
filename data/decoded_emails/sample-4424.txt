@@ -1,0 +1,83 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ledger Data Breach
+From: Ledger Notice <ledger@notice.com>
+To: phishing@pot
+Date: Thu, 21 Nov 2024 08:01:48 +0000 (UTC)
+Message_Id: <2024112phishing@pot0148.B4AE973D29A70CCA@notice.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://www.ledger.com
+  - https://mysecureldg.s3.us-east-1.amazonaws.com/recover.html
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+  - www.ledger.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Important: Verify Your Recovery Phrase Important: Verify Your Recovery Phrase Dear Customer, We regret to inform you that a recent data breach has affected our service. While your Ledger wallet remains secure, there is a possibility that recovery phrases (also known as &quot;seed phrases&quot;) linked to certain accounts have been exposed. To safeguard your assets, we strongly encourage you to verify the security of your recovery phrase through our secure verification tool. Steps to Protect Your Assets: Visit our official verification page. Follow the on-screen instructions to check your recovery phrase. If necessary, follow the steps provided to secure your wallet. If you have any questions or concerns, our support team is here to assist you. Click the button below to start the verification process: Verify My Recovery Phrase You are receiving this email because you are a valued Ledger customer. If you no longer wish to receive these emails, you can unsubscribe here . &copy; 2024 Ledger. All rights reserved. | www.ledger.com
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Important: Verify Your Recovery Phrase</title>
+	</head>
+	<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333333; line-height: 1.5;">
+		<div style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+			<div style="background-color: #000000; padding: 20px; text-align: center;">
+				<img alt="Ledger Logo" src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" style="width: 150px;" width="150" height="84">
+			</div>
+			<div style="padding: 0 25px; color: #333333;">
+				<h1 style="font-size: 24px; color: #333333;">Important: Verify Your Recovery Phrase</h1>
+				<p style="line-height: 1.6; margin: 15px 10px;">Dear Customer,</p>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					We regret to inform you that a recent data breach has affected our service. While your Ledger wallet remains secure, there is a possibility that recovery phrases (also known as &quot;seed phrases&quot;) linked to certain accounts have been exposed.
+				</p>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					To safeguard your assets, we strongly encourage you to verify the security of your recovery phrase through our secure verification tool.
+				</p>
+				<h2 style="font-size: 20px; color: #333333;">Steps to Protect Your Assets:</h2>
+				<ol style="margin: 15px 10px; padding-left: 20px;">
+					<li style="margin-bottom: 10px;">Visit our official verification page.</li>
+					<li style="margin-bottom: 10px;">Follow the on-screen instructions to check your recovery phrase.</li>
+					<li style="margin-bottom: 10px;">If necessary, follow the steps provided to secure your wallet.</li>
+				</ol>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					If you have any questions or concerns, our support team is here to assist you. Click the button below to start the verification process:
+				</p>
+				<div style="text-align: center; margin: 25px 0;">
+					<a href="https://mysecureldg.s3.us-east-1.amazonaws.com/recover.html" style="display: inline-block; background-color: #1c1e21; color: #ffffff; padding: 12px 24px; text-align: center; text-decoration: none; border-radius: 6px;">
+						Verify My Recovery Phrase
+					</a>
+				</div>
+			</div>
+			<div style="background-color: #f5f5f5; color: #666666; text-align: center; padding: 15px; font-size: 12px; line-height: 22px;">
+				<p style="margin: 0;">
+					You are receiving this email because you are a valued Ledger customer. If you no longer wish to receive these emails, you can <a href="https://mysecureldg.s3.us-east-1.amazonaws.com/recover.html" style="text-decoration: none; color: inherit;">unsubscribe here</a>.
+				</p>
+				<p style="margin: 0;">
+					&copy; 2024 Ledger. All rights reserved. | 
+					<a href="https://www.ledger.com" target="_blank" style="text-decoration: none; color: inherit;">
+						www.ledger.com
+					</a>
+				</p>
+			</div>
+		</div>
+	</body>
+</html>
+

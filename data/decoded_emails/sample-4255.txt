@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Eligible for SCR Tokens? Start Your Claim Now!
+From: Scroll <noreply@scrol.io>
+To: phishing@pot
+Date: Sat, 26 Oct 2024 01:03:56 +0000 (UTC)
+Message_Id: <20241026010355.F2D489AABC62B03D@scrol.io>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXGwI4l4-2BnCdNuQAA2F0GC8XLP1XLnSEZ2SHgFHYsqz6n5ndJWfNSjhPq9b4-2FT8i5C0YSHZ64mei-2FpG-2BWuHssikMZsTfSbwXRYUGldv1HdQ6tQyCbp3MUgrU8urOG5aQtvE83k5qAlVnjX-2BJaBcFvwyTCDbBpgnfMSqXrMCB1aK6Q-3D-3D
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3DnOr-_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvgpAGzW9n3FN4xqaXfBguW63LZFQ6jOngLFMR0dNkGWmOoqON9H-2FdZfPw9Nlk5Kwm-2FkOFW6wFGyEpvclyPkQRZ6Up7KX2lq-2FzLYWq-2BESLGWyLii1P7QowdmBAVjuFwSZOCWSii0VawM3C5vAl3fhhuRKuIey04t-2Fxty-2FzOty1tOw-3D-3D
+  - https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3DloZh_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvgpAGzW9n3FN4xqaXfBguW63LZFQ6jOngLFMR0dNkGWpuSSBZNWFvNn-2FjBGts6nbaEgMOSsCpxAp5jnd8A2CwPDBcir354cbLirjdyeRwUFEopZ4UF1B-2BEaVA8uxdZXzyDkxSeF2Z6dY4zwRELvdO3es7YjfMLurwXCeU9nqrOzA-3D-3D
+  - https://scrollportal.s3.us-east-1.amazonaws.com/scrolllogo.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Scroll Airdrop Invitation Your SCR Tokens Are Waiting! Hello, We are thrilled to let you know that the SCR token airdrop is live! As a key member of our community, you&#8217;re eligible to claim SCR tokens that empower your role in Scroll's governance and growth. Claim Window: Starting on October 22, 2024 , you can claim your tokens until the closing date. Claim Instructions: Click the button below to access the airdrop page, where you can follow the prompts to finalize your claim. Claim Your SCR Thank you for being part of the Scroll community. Together, we&#8217;re building a scalable, decentralized future. If you wish to stop receiving emails, unsubscribe here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll Airdrop Invitation</title>
+</head>
+<body style="margin: 0px; padding: 0px; font-family: Arial, sans-serif; background-color: rgb(240, 240, 240);">
+    <table width="100%" bgcolor="#f0f0f0" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td align="center">
+                <table width="650" style="margin: 0px auto; padding: 10px; border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1); background-color: rgb(255, 255, 255);" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tbody><tr>
+                        <td align="center" style="padding: 20px;">
+                            <img width="120" height="119" style="width: 100px; height: 98px; max-width: 120px;" alt="Scroll Logo" src="https://scrollportal.s3.us-east-1.amazonaws.com/scrolllogo.png">
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: rgb(51, 51, 51);">
+                            <h2 style="margin: 0px 0px 10px; text-align: center; color: rgb(245, phishing@pot, 66); font-size: 22px;">Your SCR Tokens Are Waiting!</h2>
+                            <p style="color: rgb(102, 102, 102); line-height: 1.6; font-size: 15px;">Hello,</p>
+                            <p style="color: rgb(102, 102, 102); line-height: 1.6; font-size: 15px;">We are thrilled to let you know that the <strong>SCR token airdrop</strong> is live! As a key member of our community, you&#8217;re eligible to claim SCR tokens that empower your role in Scroll's governance and growth.</p>
+                            <p style="color: rgb(102, 102, 102); line-height: 1.6; font-size: 15px;"><strong>Claim Window:</strong> Starting on <strong>October 22, 2024</strong>, you can claim your tokens until the closing date.</p>
+                            <p style="color: rgb(102, 102, 102); line-height: 1.6; font-size: 15px;"><strong>Claim Instructions:</strong> Click the button below to access the airdrop page, where you can follow the prompts to finalize your claim.</p>
+                            <p style="text-align: center;">
+                                <a style="padding: 12px 25px; border-radius: 4px; color: rgb(255, 255, 255); font-size: 16px; text-decoration: none; display: inline-block; background-color: rgb(245, phishing@pot, 66);" href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3DnOr-_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvgpAGzW9n3FN4xqaXfBguW63LZFQ6jOngLFMR0dNkGWmOoqON9H-2FdZfPw9Nlk5Kwm-2FkOFW6wFGyEpvclyPkQRZ6Up7KX2lq-2FzLYWq-2BESLGWyLii1P7QowdmBAVjuFwSZOCWSii0VawM3C5vAl3fhhuRKuIey04t-2Fxty-2FzOty1tOw-3D-3D">Claim Your SCR</a>
+                            </p>
+                        </td>
+                    </tr>
+                    <!-- Footer Section -->
+                    <tr>
+                        <td style="padding: 15px; text-align: center; color: rgb(153, 153, 153); font-size: 12px;">
+                            <p>Thank you for being part of the Scroll community. Together, we&#8217;re building a scalable, decentralized future.</p>
+                            <p>If you wish to stop receiving emails, <a style="color: rgb(245, phishing@pot, 66); text-decoration: none;" href="https://email.foreupsoftware.com/ls/click?upn=u001.kFJkFoPnxunEHypt0bO6ou5vTz88m1v2Th7zhPpyIHr-2F5EChMo8ZyWstjCHIVfbSaXHKGUKJcnwEicOWK-2B0MemDaWkdet-2FETvSgSQEPdhCU-3DloZh_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvgpAGzW9n3FN4xqaXfBguW63LZFQ6jOngLFMR0dNkGWpuSSBZNWFvNn-2FjBGts6nbaEgMOSsCpxAp5jnd8A2CwPDBcir354cbLirjdyeRwUFEopZ4UF1B-2BEaVA8uxdZXzyDkxSeF2Z6dY4zwRELvdO3es7YjfMLurwXCeU9nqrOzA-3D-3D">unsubscribe here</a>.</p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+
+<img src="https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXGwI4l4-2BnCdNuQAA2F0GC8XLP1XLnSEZ2SHgFHYsqz6n5ndJWfNSjhPq9b4-2FT8i5C0YSHZ64mei-2FpG-2BWuHssikMZsTfSbwXRYUGldv1HdQ6tQyCbp3MUgrU8urOG5aQtvE83k5qAlVnjX-2BJaBcFvwyTCDbBpgnfMSqXrMCB1aK6Q-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body></html>
+

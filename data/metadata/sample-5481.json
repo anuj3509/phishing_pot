@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "3.800.000.00 mio Nur",
+    "from": "\"Alice Walton\" <support@htfmarketintelligence.com>",
+    "to": "Recipients <support@htfmarketintelligence.com>",
+    "date": "Thu, 26 Jun 2025 06:42:19 -0400",
+    "message_id": "",
+    "content_type": "multipart/mixed;boundary=---------------------a97c5f939ee5a55e6d2d7c9d347010ff"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------a97c5f939ee5a55e6d2d7c9d347010ff"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 612,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

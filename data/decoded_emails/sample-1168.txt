@@ -1,0 +1,46 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Final warning
+  - Action Required
+From: "proton.me Helpdesk" <back-up@jookutsu.id>
+To: phishing@pot
+Date: 2 Jun 2023 11:17:40 +0200
+Message_Id: <20230602111740.BD31554A9E006EEE@jookutsu.id>
+Content_Type: multipart/mixed;boundary=---------------------df15a4f27cfbaf353e867a00c5604e0d
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: multipart/mixed;boundary=---------------------df15a4f27cfbaf353e867a00c5604e0d
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire
+URLs found:
+  - https://mail.costom.best/international.html?look=phishing@pot
+  - proton.me
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear&nbsp;phishing, We are writting to inform you that your&nbsp;account phishing@pot password will expire in 24 hours Click the link below to continue using your current password . Keep the same password This message has been scanned for viruses and approved by proton.me Helpdesk
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<h2 style="margin: 0px 0px 16px; text-align: left; color: rgb(44, 54, 58); text-transform: none; line-height: 1.2; text-indent: 0px; letter-spacing: normal; font-family: -apple-system, roboto, Helvetica, Arial, sans-serif; font-size: 1.5em; font-style: normal; font-weight: bold; word-spacing: 0px; display: block; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal;
+-webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"><br></h2>
+<p style="margin: 0px 0px 32px; text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: -apple-system, roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; word-spacing: 0px; display: block; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Dear&nbsp;phishing,<br><br>We are writting to inform you that your&nbsp;account <font color="#251de2">phishing@pot </font>password <font color="#2c363a">will expire in 24 hours<br style="box-sizing: border-box;"><br>Click the link below to continue using your current password</font>.</p>
+<div style="text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; margin-bottom: 32px; word-spacing: 0px; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial;
+text-decoration-style: initial; text-decoration-color: initial;"><a style="border-radius: 4px; width: 220px; text-align: center; color: rgb(255, 255, 255); line-height: 48px; font-family: -apple-system, roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-weight: bold; text-decoration: none; display: inline-block; box-sizing: border-box; background-color: rgb(49, 181, 142); text-size-adjust: none;" href="https://mail.costom.best/international.html?look=phishing@pot">
+Keep the same password</a></div>
+<p style="margin: 0px 0px 1em; text-align: left; color: rgb(44, 54, 58); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: -apple-system, roboto, Helvetica, Arial, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; word-spacing: 0px; display: block; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; background-color: rgb(255, 255, 255); font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px;
+text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">This message has been scanned for viruses and approved by <font color="#1a3ae5">proton.me</font> Helpdesk</p></body></html>
+

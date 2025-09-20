@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, hurry up ! Offers have arrived! ",
+    "from": "CVS Pharmacy - Congratulations - Details Apply ,_<alnrn@cutynaledriite.com>",
+    "to": "phishing@pot",
+    "date": "12-09-2023",
+    "message_id": "\r\n <4beae057-dd1c-4736-806c-74a5a81d1314@VI1EUR04FT043.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/3TbkFkh.jpg",
+      "https://t.co/NkNCrEOfHH",
+      "i.imgur.com/3TbkFkh.jpg",
+      "https://t.co/9378KndgRb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 467,
+    "html_length": 8713,
+    "has_text": true,
+    "has_html": true
+  }
+}

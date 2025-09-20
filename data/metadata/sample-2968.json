@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Prezado, phish@pot.! Seus 962.326 MIL pontos expiram em breve!  [Protocolo: 894050]",
+    "from": "Bradesco <sac-email2174@bradesco.com.br>",
+    "to": "phish@pot",
+    "date": "Mon, 26 Feb 2024 03:21:57 +0000",
+    "message_id": "<20240226032157.81BD540478@uddgvyhno.nirxokrvbkorcm.com.br>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1708917717127796244\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1708917717127796244\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://53.206.178.68.host.secureserver.net/BD9D8F7G0DFG3SDFG9DF7T948JH9J0FG6J24Y9U7YT97DFG9H4F0GH3GFH9TY7Y4F9DG8ADKSO21519DA/?seguro=bWF0aC5zYW5kcmFkZUBvdXRsb29rLmNvbQ0K",
+      "https://www.bradesco.com.br/livelo-resgate"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1593,
+    "html_length": 11731,
+    "has_text": true,
+    "has_html": true
+  }
+}

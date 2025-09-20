@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir wollen unsere Kunde unterst��tzen",
+    "from": "Europa Park,(<message@my.zalando.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 02 Oct 2024 12:49:20 +0000",
+    "message_id": "<QJEQFQDFDNLKCQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4Hbhww36448OGWa461zppelvvonf14302XOKEVISLRSSQWWF2BQGP6290Q10",
+      "http://topmarktingplace.com/4ibyzI36448Zryr461gqdxwjqiaw14302BWFMDEXDVJELCEN2AKKX6290V10",
+      "http://topmarktingplace.com/5TmDel36448orSf461ibctirtkoc14302IVVNUPEUJKNSHGA2MSPR6290M10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png",
+      "http://topmarktingplace.com/6yrbYg36448RvQt461tqbfjntlst14302DFJUZKCWTEYTILX2URXO6290P10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1883,
+    "html_length": 9386,
+    "has_text": true,
+    "has_html": true
+  }
+}

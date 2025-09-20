@@ -1,0 +1,95 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Cyber-Bedrohungswarnung: Erneuern Sie Ihr McAfee-Abonnement sofort
+From: McAfee Cybersicherheitsteam <support@norskdesign.de>
+To: <phishing@pot@outlook.com>
+Date: Wed, 25 Jun 2025 11:35:24 +0000
+Message_Id: <9I4QncflzKjLON6taDGlWlMIJh@email.amazonses.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, expires
+Suspicious phrases: click here
+URLs found:
+  - storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SCff.png
+  - https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SCff.png
+  - https://visioninsights.info/cl/2802_md/404/9744/85/32/426936
+  - storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SC.png
+  - https://visioninsights.info/un/2802_md/404/9744/85/32/426936
+  - https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SC.png
+  - https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/5min-countdown.gif
+  - storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/5min-countdown.gif
+  - https://insidechina.net/op/2802_md/404/9744/85/32/426936
+
+DECODED TEXT CONTENT:
+------------------------------
+Security Protection Center body { margin: 0; padding: 0; background-color: #fff; font-family: sans-serif; font-size: 14px; color: #333; } table { border-collapse: collapse; } .container { max-width: 600px; margin: 0 auto; border: 3px solid #c01818; background: #f8f8f8; } .header { background: #c01818; color: #fff; padding: 10px; text-align: center; } .section { padding: 10px; text-align: center; border: 3px solid #c01818; margin: 10px; } .section h3 { background: #c01818; color: #fff; padding: 10px; border-radius: 10px; } .ref-info { width: 100%; max-width: 300px; margin: 10px auto; text-align: left; } .ref-info td { padding: 5px; } .highlight { background: #fef004; padding: 5px 9px; display: inline-block; } .button { background: #c01818; color: #fff; text-decoration: none; padding: 10px 20px; display: inline-block; margin: 10px 0; font-size: 18px; } .button:hover { background: #a3092f; } .footer { text-align: center; font-size: 12px; margin-top: 20px; color: #555; } .countdown { font-weight: bold; color: #000; } ⚠ Your McAfee subscription may have expired ⚠ Reference code 47126US Date Expires June 26, 2025 Account ID 663705 We find roughly 400 new viruses every day. Activate now and keep this PC protected from these and other threats. Then you can safely enjoy your online experiences. Your Subscription ends soon. RENEW Available ( -66% ) Renewal Discount: &nbsp; June 25, 2025 Note: If no subscription is registered, your account will be marked inactive and be deleted in 48 hours. To unsubscribe click here
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Security Protection Center</title>
+  <style>
+    body {
+      margin: 0; padding: 0; background-color: #fff; font-family: sans-serif; font-size: 14px; color: #333;
+    }
+    table { border-collapse: collapse; }
+    .container { max-width: 600px; margin: 0 auto; border: 3px solid #c01818; background: #f8f8f8; }
+    .header { background: #c01818; color: #fff; padding: 10px; text-align: center; }
+    .section { padding: 10px; text-align: center; border: 3px solid #c01818; margin: 10px; }
+    .section h3 { background: #c01818; color: #fff; padding: 10px; border-radius: 10px; }
+    .ref-info { width: 100%; max-width: 300px; margin: 10px auto; text-align: left; }
+    .ref-info td { padding: 5px; }
+    .highlight { background: #fef004; padding: 5px 9px; display: inline-block; }
+    .button { background: #c01818; color: #fff; text-decoration: none; padding: 10px 20px; display: inline-block; margin: 10px 0; font-size: 18px; }
+    .button:hover { background: #a3092f; }
+    .footer { text-align: center; font-size: 12px; margin-top: 20px; color: #555; }
+    .countdown { font-weight: bold; color: #000; }
+  </style>
+</head>
+<body>
+  <table class="container" width="100%" cellpadding="0" cellspacing="0">
+    <tr>
+      <td class="section">
+        <img src="https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SC.png" width="200" alt=""><br><img src="//storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SC.png" width="200" alt="">
+        <h3>⚠ Your McAfee subscription may have expired ⚠</h3>
+        <hr>
+        <table class="ref-info" border="0">
+          <tr><td>Reference code</td><td>47126US</td></tr>
+          <tr><td>Date Expires</td><td><span class="highlight">June 26, 2025</span></td></tr>
+          <tr><td>Account ID</td><td>663705</td></tr>
+        </table>
+        <hr>
+        <h4>We find roughly 400 new viruses every day. Activate now and keep this PC protected from these and other threats. Then you can safely enjoy your online experiences.</h4>
+        <h2 style="color:#c01818;">Your Subscription ends soon.</h2>
+        <a href="https://visioninsights.info/cl/2802_md/404/9744/85/32/426936" class="button">RENEW</a>
+        <h4>Available (<span style="color:green;">-66%</span>) Renewal Discount:</h4>
+        <img src="https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/5min-countdown.gif" width="150" height="30" alt="" style="display:block;margin:10px auto;"><br><img src="//storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/5min-countdown.gif" width="150" height="30" alt="" style="">
+        <h3>
+          <img src="https://storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SCff.png" width="90" alt=""><br><img src="//storage.googleapis.com/rczcuzzdga6wdhpqpqcjqma1b16rk/SCff.png" width="90" alt="">&nbsp;
+          <span>June 25, 2025</span>
+        </h3>
+        <i><b>Note:</b> If no subscription is registered, your account will be marked inactive and be deleted in <b>48 hours.</b></i>
+      </td>
+    </tr>
+    <tr>
+      <td class="footer"><br>
+        To unsubscribe click <a href="https://visioninsights.info/un/2802_md/404/9744/85/32/426936">here</a><br>
+        <img alt="" src="https://insidechina.net/op/2802_md/404/9744/85/32/426936" width="1" height="1" style="visibility:hidden;">
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Gratis maatwerk voor uw situatie",
+    "from": "Nutswijzer <@r.medium-cartomancy.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 1 Dec 2022 02:33:05 +0000",
+    "message_id": "<0.0.0.0.1D9052D3DD8760C.40D9@zqdxb110.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://secure-smarthost.com/?a=73&amp;c=163&amp;s1=trendingsearches",
+      "https://s3.eu-central-1.wasabisys.com/consumentenbond/cloudhosted.svg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1605,
+    "html_length": 15446,
+    "has_text": true,
+    "has_html": true
+  }
+}

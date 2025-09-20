@@ -1,0 +1,230 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: RE:Ihr Name wurde f��r eine Aliexpress Mystery Box Belohnung vorgeschlagen
+From: Verbraucher-Belohnungen, Verbraucher-Belohnungen
+	<service@stayfriends.de>
+To: phishing@pot
+Date: Tue, 16 Jul 2024 10:50:34 +0000
+Message_Id: <937889034839210.0.INC5318808819@991990572581001.5.VED.de>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://i.imgur.com/edpcOvV.jpeg
+  - http://fullnf.com/5TLOHf45543eDWc1154sbzazdzbyq1742SRWNWWNZZAFKYVW746UQZA34367o9
+  - http://naamcd.com/track/3jRkAg45543ObMs1154owvvlxkiji1742RZDHWOHPIQQULRB746GEHD34367b9
+  - https://i.imgur.com/7YJb1dS.png
+  - https://i.imgur.com/50tKo6l.png
+  - http://fullnf.com/4SJMfd45543nxbU1154pgfeprihtt1742FFRWNCVWLKQDTYU746RIBZ34367X9
+  - 2jK98Lmr3qx0Fs0dNV7hdArRBIe.png
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+AliExpress body, table, thead, tbody, tr, td, img { padding: 0; margin: 0; border: none; border-spacing: 0px; border-collapse: collapse; vertical-align: top; } .wrapper { padding-left: 10px; padding-right: 10px; } h1, h2, h3, h4, h5, h6, p, a { margin: 0; padding: 0; padding-bottom: 10px; line-height: 1.2; font-family: Verdana, "Arial", sans-serif; color: #333; } .logo{ max-width: 200px; max-height: 50px; margin-top: 30px; margin-bottom: 50px; } .product-name { font-size: 24px; text-align: left; display: inline-block; margin-left: 10px; vertical-align: text-bottom; } .feature-para { max-width: 90%; margin: auto; font-size: 14px; margin-bottom: 30px; margin-top: 20px; } .title-para { font-size: 42px; font-weight: bold; display: inline-block; padding-left: 10px; padding-right: 10px; text-align: center; padding-bottom: 0px; line-height: 1; } .cta{ display: inline-block; padding: 16px 25px; font-size: 24px; font-weight: bold; text-decoration: none; border-radius: 50px; border: 3px solid #333; margin-bottom: 30px; margin-top: 20px; } @media only screen and (max-width: 480px) { .wrapper .section { width: 100%; } .wrapper .column { width: 100%; display: block; } .logo { margin-top: 20px; margin-bottom: 20px; } .title-para { font-size: 32px; font-weight: bold; display: block; max-width: 100%; border-right: none; text-align: center; padding-bottom: 0px; } .product-name{ font-size: 20px; margin-top: 10px; } .feature-para{ margin-bottom: 20px; margin-top: 10px; } } &nbsp; ANTWORTEN &amp; GEWINNEN Brandneu Aliexpress Mystery Box LOSLEGEN Sie wurden ausgewählt, an unserem Treueprogramm für teilzunehmen KOSTENLOS! Es dauert nur eine Minute, bis Sie diesen fantastischen Preis erhalten. Wenn Sie diese E-Mails nicht mehr erhalten möchten, können Sie sich per abmelden hier klicken oder schriftlich an &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>AliExpress</title>
+ <style>
+ body,
+ table,
+ thead,
+ tbody,
+ tr,
+ td,
+ img {
+ padding: 0;
+ margin: 0;
+ border: none;
+ border-spacing: 0px;
+ border-collapse: collapse;
+ vertical-align: top;
+ }
+ .wrapper {
+ padding-left: 10px;
+ padding-right: 10px;
+ }
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ a {
+ margin: 0;
+ padding: 0;
+ padding-bottom: 10px;
+ line-height: 1.2;
+ font-family: Verdana, "Arial", sans-serif;
+ color: #333;
+ }
+ .logo{
+ max-width: 200px;
+ max-height: 50px;
+ margin-top: 30px;
+ margin-bottom: 50px;
+ 
+ }
+ .product-name {
+ font-size: 24px;
+ text-align: left;
+ display: inline-block;
+ margin-left: 10px;
+ vertical-align: text-bottom;
+ }
+ .feature-para {
+ max-width: 90%;
+ margin: auto;
+ font-size: 14px;
+ margin-bottom: 30px;
+ margin-top: 20px;
+ }
+ .title-para {
+ font-size: 42px;
+ font-weight: bold;
+ display: inline-block;
+ padding-left: 10px;
+ padding-right: 10px;
+ text-align: center;
+ padding-bottom: 0px;
+ line-height: 1;
+ }
+ .cta{
+ display: inline-block;
+ padding: 16px 25px;
+ font-size: 24px;
+ font-weight: bold;
+ text-decoration: none;
+ border-radius: 50px;
+ border: 3px solid #333;
+ margin-bottom: 30px;
+ margin-top: 20px;
+ }
+
+ @media only screen and (max-width: 480px) {
+ .wrapper .section {
+ width: 100%;
+ }
+ .wrapper .column {
+ width: 100%;
+ display: block;
+ }
+ .logo {
+ margin-top: 20px;
+ margin-bottom: 20px;
+ }
+ .title-para {
+ font-size: 32px;
+ font-weight: bold;
+ display: block;
+ max-width: 100%;
+ border-right: none;
+ text-align: center;
+ padding-bottom: 0px;
+ }
+ .product-name{
+ font-size: 20px;
+ margin-top: 10px;
+ }
+ .feature-para{
+ margin-bottom: 20px;
+ margin-top: 10px;
+ }
+
+
+ }
+ </style>
+ </head>
+
+ <body style="background-color: #efefef;">
+ <table>
+ <tbody>
+ <tr>
+ <td height="35" style="line-height: 35px;">&nbsp;</td>
+ </tr>
+ </tbody>
+ </table>
+ <table width="100%">
+ <tbody>
+ <tr>
+ <td class="wrapper" width="550" align="center">
+ 
+ 
+ <table class="section header" cellpadding="" cellspacing="" align="center">
+ <tbody>
+ <tr>
+ <td align="center" bgcolor="#dae0e8" data="image_bg" background="https://i.imgur.com/edpcOvV.jpeg" style="background-repeat:no-repeat;background-size: 100%;-webkit-text-size-adjust: 100%;mso-line-height-rule: exactly;">
+ <table class="column" width="550" cellpadding="" cellspacing="" align="center">
+ <tbody>
+ 
+ <tr>
+ <td colspan="2" width="550" valign="top" align="center">
+ <img border="0" src="https://i.imgur.com/7YJb1dS.png" alt="logo" class="logo"> 
+ </td>
+ </tr>
+ 
+ <tr>
+ <td align="center" style="border-right: 1px solid #333;" width="50%">
+ <p class="title-para">ANTWORTEN &amp; GEWINNEN</p>
+ </td>
+ <td align="center" width="50%">
+ <p class="product-name">Brandneu<br><strong>Aliexpress Mystery Box</strong></p>
+ </td>
+ </tr>
+ <tr>
+ <td colspan="2" align="center"><a href="http://fullnf.com/4SJMfd45543nxbU1154pgfeprihtt1742FFRWNCVWLKQDTYU746RIBZ34367X9" class="cta">LOSLEGEN</a></td>
+ </tr>
+ 
+ <tr>
+ <td align="center" colspan="2">
+ <img border="0" src="https://i.imgur.com/50tKo6l.png" style="max-width: 75%;max-height: 300px;" alt="">
+ </td>
+ </tr>
+ 
+ <tr>
+ <td align="center" colspan="2">
+ <p class="feature-para">Sie wurden ausgewählt, an unserem Treueprogramm für teilzunehmen <strong>KOSTENLOS!</strong> Es dauert nur eine Minute, bis Sie diesen fantastischen Preis erhalten.</p>
+ </td>
+ </tr>
+ 
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ 
+ <tr>
+ <td align="center">
+ <p style="font-size: 12px; color: #797979; max-width: 550px; line-height: 1.4;padding: 0">
+ Wenn Sie diese E-Mails nicht mehr erhalten möchten, können Sie sich per abmelden <a href="http://fullnf.com/5TLOHf45543eDWc1154sbzazdzbyq1742SRWNWWNZZAFKYVW746UQZA34367o9" style="color:red;text-decoration:none;">hier klicken</a> oder schriftlich an </p>
+ </td>
+ </tr>
+ <tr>
+ <td height="20" background="/storage/uploaded_images/2jK98Lmr3qx0Fs0dNV7hdArRBIe.png" style="background-size: contain;background-repeat: no-repeat;background-position: center;"></td>
+ </tr>
+ <tr>
+ <td height="35" style="line-height: 35px;">&nbsp;</td>
+ </tr>
+ </tbody>
+ </table>
+<img src="http://naamcd.com/track/3jRkAg45543ObMs1154owvvlxkiji1742RZDHWOHPIQQULRB746GEHD34367b9"></body>
+</html>
+

@@ -1,0 +1,93 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Confirmation of Order 601358 receipt
+From: "Paid Customer" <rajabhaikumarx@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Mon, 03 Feb 2025 05:52:45 -0800 (PST)
+Message_Id: <67a0ca2d.050a0220.b1e1b.9d0b@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============0300790450277407748=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============0300790450277407748=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: immediately, confirm
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif; } .auto-style2 { font-family: Georgia, "Times New Roman", Times, serif; font-size: xx-large; } .auto-style3 { color: #0094FF; } .auto-style4 { color: #0532EF; } Pay Pal Order Receipt date: Monday, 03 February 2025 Order Receipt number: 908LYQ-373MNS-310AVH Confirmation of Purchase Thank you for your order. Your Order Receipt, 908LYQ-373MNS-310AVH, is being processed and will soon be coming to you. Before we proceed, please confirm your shipping address to ensure timely delivery. Order Purchase details: Seller: COINBASE EXCHANGE PVT LTD PAYMENT Tracking No: 999d6516-3162-42ce-80b6-bdb5dd9abb82 Gateway: PayPal Order Purchase: BitCash Credit Quantity: 1x Order Amount: $1020.7 Shipping details: Name: Paid Customer Email: rodrigo-f-p@hotmail.com Customer Id: 8513368-155201 Please review the shipping address, and in case of any changes or discrepancies, please notify us immediately by replying to this email or contacting our customer service team at +1 (833) 412-3646. A correct shipping address to avoid any delays or mis deliveries. Once we ship your order, you will receive a separate shipping confirmation email with the tracking information. If you have any questions, please reach out at +1 (833) 412-3646 We look forward to delivering your order to you soon.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+.auto-style2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: xx-large;
+}
+.auto-style3 {
+	color: #0094FF;
+}
+.auto-style4 {
+	color: #0532EF;
+}
+</style>
+</head>
+
+<body>
+
+<h5 class="auto-style2"><span class="auto-style4">Pay</span><span class="auto-style3">Pal</span></h5>
+<span class="auto-style1">Order Receipt date: Monday, 03 February 2025</span><br class="auto-style1">
+<span class="auto-style1">Order Receipt number: 908LYQ-373MNS-310AVH</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1">Confirmation of Purchase</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1">Thank you for your order. Your Order Receipt, 908LYQ-373MNS-310AVH, is being 
+processed and will soon be coming to you. Before we proceed, please confirm your 
+shipping address to ensure timely delivery.</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1"><strong>Order Purchase details:</strong></span><br class="auto-style1">
+<span class="auto-style1">Seller: COINBASE EXCHANGE PVT LTD PAYMENT</span><br class="auto-style1">
+<span class="auto-style1">Tracking No: 999d6516-3162-42ce-80b6-bdb5dd9abb82</span><br class="auto-style1">
+<span class="auto-style1">Gateway: PayPal</span><br class="auto-style1">
+<span class="auto-style1">Order Purchase: BitCash Credit</span><br class="auto-style1">
+<span class="auto-style1">Quantity: 1x</span><br class="auto-style1">
+<span class="auto-style1">Order Amount: $1020.7</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1"><strong>Shipping details:</strong></span><br class="auto-style1">
+<span class="auto-style1">Name: Paid Customer</span><br class="auto-style1">
+<span class="auto-style1">Email: rodrigo-f-p@hotmail.com</span><br class="auto-style1">
+<span class="auto-style1">Customer Id: 8513368-155201</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1">Please review the shipping address, and in case of any 
+changes or discrepancies, please notify us immediately by replying to this email 
+or contacting our customer service team at +1 (833) 412-3646. A correct shipping address 
+to avoid any delays or mis deliveries.</span><br class="auto-style1">
+<br class="auto-style1">
+<span class="auto-style1">Once we ship your order, you will receive a separate 
+shipping confirmation email with the tracking information. If you have any 
+questions, please reach out at +1 (833) 412-3646</span><br class="auto-style1">
+<span class="auto-style1">We look forward to delivering your order to you soon.</span>
+
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Tabela Amil 2024 *ATUALIZADA* Reduza os custos e mantenha carência zero",
+    "from": "Proposta Planos Amil <marcia@e.cotar-saude.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Dec 2023 20:52:14 +0000",
+    "message_id": "<0100018c83d9be85-ab71f154-33e1-4eae-aef3-f6f168cf725e-000000@email.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"03D5A01C_1F4B0EAD_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"03D5A01C_1F4B0EAD_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://api-go.cotar-saude.com/app-b/oimg.php?id=332C312C726F647269676F2D662D7040686F746D61696C2E636F6D2C31303832",
+      "https://api-go.cotar-saude.com/app-b/lnk.php?id=332C312C726F647269676F2D662D7040686F746D61696C2E636F6D2C31303832"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 908,
+    "html_length": 2610,
+    "has_text": true,
+    "has_html": true
+  }
+}

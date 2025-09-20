@@ -1,0 +1,244 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 🚚 Action Required: Confirm Your Address for UPS Delivery 📦
+From: " UPS Delivery Team "<admin@costumer-support.co.za>
+To: phishing@pot
+Date: Sun, 22 Dec 2024 22:53:06 +0000
+Message_Id: <gnuvwogqfepbcgD_4oh319440629521398620514811961147126417778920083275687476494823014772996988623512324750275718443052877384476767879235657314625296429384159773941063625994640999938625536627823561187068.1.DJVIRJEKAP1FN7XW121LAOphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>
+Content_Type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: binary
+content_type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, confirm
+URLs found:
+  - https://storage.googleapis.com/llmo/oer.html#5LCiHa6918KrON293scdgaqwuiy143TOJXAPZLOTRBEKP62HMCW14951v17
+  - http://scoutly.online/t/4ZSXLf6918scPy293vdimglduzm143OPGUOVALYMMZUXO62GGKK14951G17
+  - http://scoutly.online/t/track/3YWXDE6918PuWp293gyzykkuttm143GEKJSWAIUZWOKVG62ZXNM14951E17
+  - http://www.w3.org/1999/xhtml
+
+DECODED TEXT CONTENT:
+------------------------------
+UPS - Delivery Notification /* Global Styles */ body { margin: 0; padding: 0; background-color: #F4F4F4; font-family: 'Arial', sans-serif; color: #333; } table { border-spacing: 0; width: 100%; max-width: 750px; margin: 0 auto; background-color: #FFFFFF; border-radius: 12px; overflow: hidden; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1); } td { padding: 0; } /* Header Styles */ .header { background-color: #512A10; padding: 20px 0; text-align: center; } .header .logo { font-family: 'Georgia', serif; font-size: 36px; font-weight: bold; color: #FFB200; letter-spacing: 3px; text-transform: uppercase; animation: fadeIn 1.5s ease-in-out; } /* Hero Section */ .hero { background: linear-gradient(135deg, #F8E1B3 0%, #FFD700 100%); text-align: center; padding: 30px 20px; } .hero h2 { font-size: 26px; color: #512A10; margin-bottom: 10px; animation: pulse 2s infinite; } .hero p { font-size: 16px; color: #6B5B45; margin: 0; } /* Content Section */ .content { padding: 20px; font-size: 16px; color: #333; line-height: 1.6; animation: fadeIn 1.5s ease-in-out; } .content strong { color: #512A10; } /* CTA Section */ .cta { text-align: center; margin: 30px 0; } .cta a { background-color: #FFB200; color: #FFFFFF; text-decoration: none; padding: 15px 35px; font-size: 18px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 10px rgba(255, 178, 0, 0.4); transition: background-color 0.3s ease, transform 0.2s ease; animation: bounce 2s infinite ease-in-out; } .cta a:hover { background-color: #E59A00; transform: translateY(-3px); } /* Footer Section */ .footer { background-color: #512A10; padding: 20px; color: #FFFFFF; text-align: center; font-size: 14px; animation: fadeIn 1.5s ease-in-out; } .footer a { color: #FFB200; text-decoration: none; } .footer a:hover { text-decoration: underline; } /* Animations */ @keyframes fadeIn { 0% { opacity: 0; } 100% { opacity: 1; } } @keyframes pulse { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.05); } } @keyframes bounce { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-5px); } } /* Responsive Design */ @media only screen and (max-width: 600px) { .hero h2 { font-size: 22px; } .cta a { font-size: 16px; padding: 12px 25px; } } UPS Important Delivery Information We attempted to deliver your package, but there was no one available to confirm the receipt. Please verify your address so we can complete your delivery. Dear Customer, We attempted to deliver your package, but there was no one available to confirm the receipt. Your package is currently in our logistics center. Please confirm your address so we can finalize your delivery. Important Note: Your package will be held for 5 more business days. After that, it will be returned to the sender. Confirm Address UPS Customer Service If you no longer wish to receive these emails, please unsubscribe here . UPS Europe, 12345 Berlin, Germany
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>UPS - Delivery Notification</title>
+    <style>
+        /* Global Styles */
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #F4F4F4;
+            font-family: 'Arial', sans-serif;
+            color: #333;
+        }
+        table {
+            border-spacing: 0;
+            width: 100%;
+            max-width: 750px;
+            margin: 0 auto;
+            background-color: #FFFFFF;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+        }
+        td {
+            padding: 0;
+        }
+
+        /* Header Styles */
+        .header {
+            background-color: #512A10;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header .logo {
+            font-family: 'Georgia', serif;
+            font-size: 36px;
+            font-weight: bold;
+            color: #FFB200;
+            letter-spacing: 3px;
+            text-transform: uppercase;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+
+        /* Hero Section */
+        .hero {
+            background: linear-gradient(135deg, #F8E1B3 0%, #FFD700 100%);
+            text-align: center;
+            padding: 30px 20px;
+        }
+        .hero h2 {
+            font-size: 26px;
+            color: #512A10;
+            margin-bottom: 10px;
+            animation: pulse 2s infinite;
+        }
+        .hero p {
+            font-size: 16px;
+            color: #6B5B45;
+            margin: 0;
+        }
+
+        /* Content Section */
+        .content {
+            padding: 20px;
+            font-size: 16px;
+            color: #333;
+            line-height: 1.6;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        .content strong {
+            color: #512A10;
+        }
+
+        /* CTA Section */
+        .cta {
+            text-align: center;
+            margin: 30px 0;
+        }
+        .cta a {
+            background-color: #FFB200;
+            color: #FFFFFF;
+            text-decoration: none;
+            padding: 15px 35px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 50px;
+            box-shadow: 0 4px 10px rgba(255, 178, 0, 0.4);
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            animation: bounce 2s infinite ease-in-out;
+        }
+        .cta a:hover {
+            background-color: #E59A00;
+            transform: translateY(-3px);
+        }
+
+        /* Footer Section */
+        .footer {
+            background-color: #512A10;
+            padding: 20px;
+            color: #FFFFFF;
+            text-align: center;
+            font-size: 14px;
+            animation: fadeIn 1.5s ease-in-out;
+        }
+        .footer a {
+            color: #FFB200;
+            text-decoration: none;
+        }
+        .footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+
+        @keyframes pulse {
+            0%, 100% {
+                transform: scale(1);
+            }
+            50% {
+                transform: scale(1.05);
+            }
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-5px);
+            }
+        }
+
+        /* Responsive Design */
+        @media only screen and (max-width: 600px) {
+            .hero h2 {
+                font-size: 22px;
+            }
+            .cta a {
+                font-size: 16px;
+                padding: 12px 25px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Main Email Structure -->
+    <table role="presentation">
+        <!-- Header Section -->
+        <tr>
+            <td class="header">
+                <div class="logo" role="banner" aria-label="UPS logo">UPS</div>
+            </td>
+        </tr>
+
+        <!-- Hero Section -->
+        <tr>
+            <td class="hero">
+                <h2>Important Delivery Information</h2>
+                <p>We attempted to deliver your package, but there was no one available to confirm the receipt. Please verify your address so we can complete your delivery.</p>
+            </td>
+        </tr>
+
+        <!-- Content Section -->
+        <tr>
+            <td class="content">
+                <p>Dear Customer,</p>
+                <p>We attempted to deliver your package, but there was no one available to confirm the receipt.</p>
+                <p><strong>Your package is currently in our logistics center.</strong> Please confirm your address so we can finalize your delivery.</p>
+                <p><strong>Important Note:</strong> Your package will be held for 5 more business days. After that, it will be returned to the sender.</p>
+            </td>
+        </tr>
+
+        <!-- CTA Section -->
+        <tr>
+            <td class="cta">
+                <a href="http://scoutly.online/t/4ZSXLf6918scPy293vdimglduzm143OPGUOVALYMMZUXO62GGKK14951G17" target="_blank" role="button" aria-label="Confirm Address">Confirm Address</a>
+            </td>
+        </tr>
+
+        <!-- Footer Section -->
+        <tr>
+            <td class="footer">
+                <p>UPS Customer Service</p>
+                <p>If you no longer wish to receive these emails, please <a href="https://storage.googleapis.com/llmo/oer.html#5LCiHa6918KrON293scdgaqwuiy143TOJXAPZLOTRBEKP62HMCW14951v17" role="link">unsubscribe here</a>.</p>
+                <p>UPS Europe, 12345 Berlin, Germany</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
+
+</div><br>
+<br><br><br><center>
+  </body>
+  <img src="http://scoutly.online/t/track/3YWXDE6918PuWp293gyzykkuttm143GEKJSWAIUZWOKVG62ZXNM14951E17" style="display:none;">
+
+</html>
+
+

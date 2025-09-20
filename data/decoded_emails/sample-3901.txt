@@ -1,0 +1,104 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 21707141.
+From: Correios <aviso830854@correios>
+To: phishing@pot
+Date: Sat, 31 Aug 2024 06:05:36 +0000
+Message_Id: <f772726b659336763b214b5aff13a1c3@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_f772726b659336763b214b5aff13a1c3"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_f772726b659336763b214b5aff13a1c3"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://correiosrastreamentoalfandegario.com/api/rastreamento.php
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correios - Pagamento</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f1f1f1;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #cccccc;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .header {
+            background-color: #ffcc00;
+            color: #003399;
+            text-align: center;
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .content {
+            background-color: #003399;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #ffcc00;
+            color: #003399;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .footer {
+            background-color: #ffcc00;
+            color: #003399;
+            text-align: center;
+            padding: 10px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            Correios
+        </div>
+        <div class="content">
+            <p>Olá, rodrigo-f-p@hotmail.com</p>
+            <p>Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias.</p>
+            <p>Para garantir o recebimento do seu pedido, por favor, efetue o pagamento o mais breve possível.</p>
+            <p>Clique no botão abaixo para realizar o pagamento:</p>
+            <a href="https://correiosrastreamentoalfandegario.com/api/rastreamento.php" class="button">Efetuar Pagamento</a>
+        </div>
+        <div class="footer">
+            Correios 2024 - Todos os direitos reservados
+        </div>
+    </div>
+</body>
+</html>
+

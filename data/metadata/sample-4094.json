@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "[rf-peixoto/black_veil] IMPORTANT! Security Vulnerability Detected in\r\n your Repository (Issue #2)",
+    "from": "aprigel7r7 <notifications@github.com>",
+    "to": "rf-peixoto/black_veil <black_veil@noreply.github.com>",
+    "date": "Wed, 18 Sep 2024 13:35:57 -0700",
+    "message_id": "<rf-peixoto/black_veil/issues/2@github.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_66eb39ad34308_a11cfc10163b\";\r\n charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_66eb39ad34308_a11cfc10163b\";\r\n charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://github.com/notifications/unsubscribe-auth/AMAXO5IZIQCWTAJHM5EZ3QLZXHP23AVCNFSM6AAAAABOOPVTQKVHI2DSMVQWIX3LMV43ASLTON2WKOZSGUZTINRXGYZDCOI",
+      "http://schema.org",
+      "github.com",
+      "https://github.com/notifications/beacon/AMAXO5OPKGQAT3ZGI6DSK2LZXHP23A5CNFSM6AAAAABOOPVTQKWGG33NNVSW45C7OR4XAZNFJFZXG5LFVJRW63LNMVXHIX3JMTHJOFAW7M.gif",
+      "https://github.com/rf-peixoto/black_veil/issues/2",
+      "https://github-scanner.com",
+      "https://github.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 448,
+    "html_length": 1788,
+    "has_text": true,
+    "has_html": true
+  }
+}

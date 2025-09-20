@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Your MetaMask Wallet Is Temporarily Locked – Verify Now",
+    "from": "Metamask <support@xponentialsprint.zendesk.com>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Sun, 26 Jan 2025 03:50:55 +0000",
+    "message_id": "<WV6165N9LLP_6795b11f25405_663930434f2_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_6795b11f3dfe5_6639304359d\";\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_6795b11f3dfe5_6639304359d\";\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "immediate action required"
+    ],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "metamask.io.",
+      "http://schema.org/EmailMessage",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=4eddc64dd2da0446616d436df0dcd0cdd63389c946522befe308dded0a89069aJmltdHM9MTczNzc2MzIwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=37b3c26b-19ff-6abc-0dc7-d6a018986bf7&amp;psq=mspexteriors.com&amp;u=a1aHR0cHM6Ly9tc3BleHRlcmlvcnMuY29tL3NlcnZpY2UtYXJlYS8&amp;ntb=1",
+      "metamask.io",
+      "https://xponentialsprint.zendesk.com/hc/requests/333490",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png)",
+      "https://metamask.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1319,
+    "html_length": 4149,
+    "has_text": true,
+    "has_html": true
+  }
+}

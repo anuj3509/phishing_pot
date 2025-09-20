@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Entrega Pendente: Ação Imediata Necessária Sua Encomenda Está Pendente - Regularize Agora Correios: Tentativa de Entrega Falhou Objeto Retido por Pendência - Sua encomenda esta pausada devido ao pagamento da taxa alfandegária - Aguardando Regularização",
+    "from": "Rastreamento - Correios <correios@923770%meuspedidos.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 8 Jun 2025 11:21:29 +0000",
+    "message_id": "<8f01834f106d0a3fba63a07f686f1a95@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_8f01834f106d0a3fba63a07f686f1a95\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_8f01834f106d0a3fba63a07f686f1a95\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastre-361776312321.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4163,
+    "has_text": true,
+    "has_html": true
+  }
+}

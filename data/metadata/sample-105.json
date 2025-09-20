@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Re: You have won an Dewalt Power Station",
+    "from": "Dewalt Power Station Unlocked <wsakt@bestshopint.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 03 Nov 2022 16:26:58 +0000",
+    "message_id": "\r\n <2e911dac-aca1-4b61-8272-8322d197f20a@DM3NAM02FT062.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/g8Oti2lAs7",
+      "https://i.imgur.com/XHg29y6.png",
+      "https://t.co/8bm8XBSqVu",
+      "https://i.imgur.com/Q0To65U.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8373,
+    "html_length": 10766,
+    "has_text": true,
+    "has_html": true
+  }
+}

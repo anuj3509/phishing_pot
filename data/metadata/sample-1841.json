@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Atencao, wbks4! Seus pontos estao prestes a expirar [Protocolo: 518999]",
+    "from": "Bradesco <sac1299@livelo.com.br>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Tue, 07 Nov 2023 04:25:39 +0000",
+    "message_id": "<20231107042539.C3EC641885@cedrjjcfe.kpowjghjfrjguy.com.br>",
+    "content_type": "multipart/mixed;boundary=---------------------a3014c13393e7ecd5ce35c1cd4c5683c"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=---------------------a3014c13393e7ecd5ce35c1cd4c5683c"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://www.bradesco.com.br/livelo-resgate",
+      "http://33.132.167.72.host.secureserver.net/red.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1603,
+    "html_length": 11269,
+    "has_text": true,
+    "has_html": true
+  }
+}

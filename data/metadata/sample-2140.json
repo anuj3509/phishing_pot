@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Voc�� chegou ao cart��o black, aproveite os beneficios de ser prime ",
+    "from": "Bradesco Prime <suporterecompensas@clientesrecompensasxs.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Dec 2023 06:24:27 +0000 (UTC)",
+    "message_id": "<20231211065503.4975456ABD@ubuntu-s-1vcpu-1gb-sfo3-01>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      "https://us-central1-eminent-kit-406603.cloudfunctions.net/function-1/TREM",
+      ".alert.alert-bad",
+      ".alert.alert-good"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3754,
+    "html_length": 7147,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Re: Mounthly Payment Failure: Your renewal prime membership could\r\n not be complited on Wednesday, January 25, 2023. TRX#345-253994",
+    "from": "P‍‍r‍‍i‍‍‍m‍e‍‍ ‍‍‍  ‍‍  ‍<emailnoreplymaiasa1d8427@fortexmanufacturing.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Jan 2023 21:59:14 +0000",
+    "message_id": "<f22cf294-8d4e-e500-1096-0f39e2bd1a81@fortexmanufacturing.com>",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-2be1e88748dfad60-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-2be1e88748dfad60-Part_1\""
+  },
+  "attachments": [
+    {
+      "filename": "lnvoiceAttachement͏͏-66235.pdf",
+      "content_type": "application/pdf",
+      "size": 6
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.amazon.com/gp/r.html?C=LJPZRWIXDO9O&amp;K+642PHMSX2ZG&amp;M=urn:rtn:msg:2022072815302383029e75bfd64ea5ba33b7a03800p0na&amp;R&amp;0X7HV4XLIT6&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fprimecentral%2FeditPaymentPreference%3Fie%3DUTF8%26ref_%3Dpe_2617090_630624600_pe_bp_subscriptionPlanID_update%26&amp;H=6LFYPEJ1N5PBM6DKXCTXQ9RXP0OA&amp;ref_=pe_2617090_630624600_pe_bp_subscriptionPlanID_update",
+      "https://support.g2g.com/support/home",
+      "https://www.linkedin.com/slink?code=eP6K4P94?mwmw221499",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujAQc4fNxeSEJe7T5TfAePGjivVrO8gkH7g&amp;usqp=CAU",
+      "Amazon.com",
+      "https://m.media-amazon.com/images/G/01/prime/TransactionalEmails/HeaderImage_InvalidPaymentMethod_01._CB438870550_.png",
+      "hotmail.com",
+      "https://support.g2g.com/support/tickets/new"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6,
+    "html_length": 3665,
+    "has_text": true,
+    "has_html": true
+  }
+}

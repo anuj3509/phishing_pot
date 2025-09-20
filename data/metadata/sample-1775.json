@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Congratulations - Details Apply ",
+    "from": "Ace Hardware ,_<48nvvvja4v@theradesyume.onmicrosoft.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 23:36:47 +0000",
+    "message_id": "<ec0lm2m2v1twgd-5171-z03q-gwao-bzazmyghgg3i@thardeerrimen.onmicrosoft.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.imgur.com/hxyZhLF.jpg",
+      "https://t.co/UMowPTYvow",
+      "https://t.co/eDoJbyp4Dw",
+      "i.imgur.com/hxyZhLF.jpg",
+      "http://dtherhproblem.us/6dBrNt597DciY19tpospaguzr65SHWSKZVMFALOVJG1371191/10257i9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 456,
+    "html_length": 8756,
+    "has_text": true,
+    "has_html": true
+  }
+}

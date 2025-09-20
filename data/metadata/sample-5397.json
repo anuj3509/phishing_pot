@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Transitioning to Self-Custody Wallets",
+    "from": "Coinbase <no-reply@mountvernon.org>",
+    "to": "phishing@pot",
+    "date": "Mon, 31 Mar 2025 00:25:34 +0000 (GMT)",
+    "message_id": "<0.1.8.7CB.1DBA1D36B1A599C.0@s15.acems4.com>",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_11830704_1968946881.1743380734415\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_11830704_1968946881.1743380734415\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "coinbase.com",
+      "https://www.coinbase.com/unsubscribe",
+      "http://mountvernon.activehosted.com/proc.php?nl=26&amp;c=5933&amp;m=5591&amp;s=37b6eb894ee15d8e62dee6d8803a3ba2&amp;act=unsub",
+      "https://static-assets.coinbase.com/email/coinbase-transactional-wordmark-blue.png",
+      "https://help.coinbase.com/en-au/wallet/sending-and-receiving/how-do-i-move-assets-between-my-coinbase-wallet-and-my-coinbase.",
+      "https://mountvernon.emlnk1.com/lt.php?x=41Zi05XMIFQKHhVpytI5VhWd3HUkvQPvkxk3kHbFVaXO6KB~0_tIgOOd~X8RxEMtzhptzK55JnWi5.83~E1HVb",
+      "https://www.coinbase.com/blog/the-new-coinbase-wallet-web-app",
+      "https://www.coinbase.com/legal/privacy",
+      "https://www.coinbase.com/wallet.",
+      "coinbase.com.",
+      "https://help.coinbase.com/en-au/wallet/sending-and-receiving/how-do-i-move-assets-between-my-coinbase-wallet-and-my-coinbase",
+      "hotmail.com",
+      "https://www.coinbase.com/wallet",
+      "https://www.coinbase.com/blog/the-new-coinbase-wallet-web-app.",
+      "coinbase.com/wallet",
+      "http://mountvernon.activehosted.com/proc.php?nl=26&c=5933&m=5591&s=37b6eb894ee15d8e62dee6d8803a3ba2&act=unsub"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3230,
+    "html_length": 7707,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie einen Rewe-Gutschein im Wert von 500 Euro!",
+    "from": "Ihr Gewinner-Team, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Sep 2023 04:07:43 +0200",
+    "message_id": "\r\n <fafb8907-041a-401c-ac70-81e1d5a89b46@SN1NAM02FT0019.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/media/5891e071f010537.jpg",
+      "http://easilett.com/cl/35_md/31/17/21/4/383653",
+      "http://easilett.com/media/a2e939f25d32196.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/media/b8d0ce38892eefe.jpg",
+      "http://easilett.com/oop/35_md/31/17/21/4/383653",
+      "http://easilett.com/op/35_md/31/17/21/4/383653"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1510,
+    "html_length": 6729,
+    "has_text": true,
+    "has_html": true
+  }
+}

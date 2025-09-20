@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Lottery Winning payment ",
+    "from": "Royal Bank Of Canada <RoyalBanlOfCannada@gmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 1 Aug 2023 02:55:51 -0700",
+    "message_id": "<ac3a6fc0-0d09-4216-87b5-7cfb3ad6a7fa@2k7ht.sssp.local>",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3053,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

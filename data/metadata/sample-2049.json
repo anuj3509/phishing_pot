@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "VerdeCasino ist das neue Schwarz!",
+    "from": "Casino For You, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 28 Nov 2023 17:06:56 +0100",
+    "message_id": "\r\n <30855531-0591-4c5b-8dd2-38d7d11342af@DB8EUR05FT067.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link8_2.html#cl/3367_md/2009/89/290/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/bg-new-6.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/89cb1e5d0f41889.jpg",
+      "http://zugspitzakademie.de/4db3d8628cd5e82.png",
+      "http://s9442214.pix-cdn.org/HTMLC-1892/bg-wht.jpg",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/89cb1e5d0f41889.jpg",
+      "http://5.206.224.114/cl/3367_md/2009/89/290/23/2459859",
+      "http://zugspitzakademie.de/cl/3367_md/2009/89/290/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/89417500e133e31.png",
+      "http://zugspitzakademie.de/e57c0cfa786cc34.png",
+      "http://zugspitzakademie.de/53c89c2ae88959d.png",
+      "http://s9442214.pix-cdn.org/HTMLC-1892/bg-dot-4.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link8_2.html#oop/3367_md/2009/89/290/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 718,
+    "html_length": 16671,
+    "has_text": true,
+    "has_html": true
+  }
+}

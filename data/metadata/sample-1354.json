@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Important Notice: Case Authorization for Assets",
+    "from": "\"Claim Assist(FTX)\" <claims-ivsig@iceapple.tech>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Sep 2023 22:33:58 +0000",
+    "message_id": "<0100018ab4ba88a5-18ccc1df-5998-4c0a-bbbb-37804e78226e-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_0B86474E.BA75F12E\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_0B86474E.BA75F12E\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&returnurl=https://e-multicom.gr/d/",
+      "http://www.w3.org/2000/svg",
+      "http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&amp;returnurl=https://e-multicom.gr/d/",
+      "https://www.google.com/url?q=https://event.stibsee.com/v2/click/MjU0MTk3LzE3NzMyMTIvMzUzNjQyLw/aHR0cHM6Ly9ibG9nLmNyaW1pbmFsaXAuaW8vZW4vMjAyMy8wOS8xNS9jdmUtMjAyMi00MjQ3NS8&amp;source=gmail&amp;ust=1695324546727000&amp;usg=AOvVaw0MAnqPCzk79b14E36B1OSX",
+      "https://d.ibtimes.com/en/full/3408542/ftx.png?w=736&amp;f=8795e2f08463bd229e3c4c99fbb7e8f7"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2326,
+    "html_length": 15890,
+    "has_text": true,
+    "has_html": true
+  }
+}

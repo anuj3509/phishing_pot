@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Dear Fund Beneficiary, 170",
+    "from": "\"Ms. Renee Hill,\"<rick@rstannard.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 6 Nov 2023 13:05:59 -0800",
+    "message_id": "<20231106210546.21E06401D87@mail.ptakp.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "kakao.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3202,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

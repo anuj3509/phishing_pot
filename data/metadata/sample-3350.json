@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de.>, Fressnapf Gutschein,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 15 Jun 2024 11:40:08 +0200",
+    "message_id": "<gMiOP9r.0.0.gMiOP9r.9.gMiOP9r@stayfriends.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://hyperdraz.info/oop/634_md/1995/421/671/13/12269",
+      "www.zupimages.net/up/22/19/4hts.jpg",
+      "https://www.zupimages.net/up/22/19/4hts.jpg",
+      "http://hyperdraz.info/op/634_md/1995/421/671/13/12269",
+      "http://www.w3.org/1999/xhtml",
+      "http://hyperdraz.info/cl/634_md/1995/421/671/13/12269"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8420,
+    "has_text": true,
+    "has_html": true
+  }
+}

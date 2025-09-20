@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie ein Red Bull Paket und ein Mini K��hlschrank",
+    "from": "Red Bull-Gutschein, <service@stayfriends.de.>, Red Bull-Gutschein,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 08 May 2024 11:12:17 +0200",
+    "message_id": "<jtxgisn.rhifp.hzp.hzp@kzrqamgyhgznqrd.ovv>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "eu1-us1.ckcdnassets.com/448/creatives/55907/1.jpg",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/55907/2.jpg",
+      "eu1-us1.ckcdnassets.com/448/creatives/55907/2.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/9023_md/4049/24514/1394/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/9023_md/4049/24514/1394/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/9023_md/4049/24514/1394/281/76468",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/55907/1.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1831,
+    "html_length": 9893,
+    "has_text": true,
+    "has_html": true
+  }
+}

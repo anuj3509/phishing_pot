@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Nova mensagem (632).",
+    "from": "Mercado.Pago <Atendimentoavisos@acesso60079avisos.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon,  1 Jul 2024 03:11:56 -0400 (EDT)",
+    "message_id": "<20240701071156.28E36549B@xxasgfatgq1-5.localdomain>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://vps53627.publiccloud.com.br/m/authssl199",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 363,
+    "html_length": 2071,
+    "has_text": true,
+    "has_html": true
+  }
+}

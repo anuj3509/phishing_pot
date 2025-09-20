@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ihre Chance auf einen neuen Skoda! ",
+    "from": "Skoda , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 13 Nov 2023 14:55:49 +0100",
+    "message_id": "<GhMXQpw.96940.587.Nza@fgjhvcjbfjb.uk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://getlevsgt.online/SmVVSy9mbzJvRmhTWGg0WVVkTUVzMi80NDI3RFNUa0gvRXBlOTJJQlFhSTllVVZvR1R1NnFKaHhZMXRzZXJEVktSQy9rWVVjdjJHNU0xNk1BNWtka3c9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/tntOTXN.png",
+      "https://i.imgur.com/tntOTXN.png",
+      "http://getlevsgt.online/VFpEQTY5QU56d1IvNVdXYnNobXdOL2s2clBUb3RTTGoxTmtuTXNXWVJSRlJ3WjJGcXZBSFNnVmVlNElHM3RvTDd1bThoYUFKdUdObFBLdjI0VjJNMXc9PQ__",
+      "http://getlevsgt.online/UW5NUmwvNFNnbEl2Y1FtNkU0K0xqT0JwY1ZtTlZuUGFuZkoxUWwybFJLdkVCb1dJbTRBU0hqVm5GMy9nRjFmL3paZStJWEN3ZnlXL2UvbEhtSjJGUGNVYm1IU1JiM0hCc3pnb1JzSkhtWW89",
+      "http://getlevsgt.online/cjlUd0EwMFhGZ3pHcjQ0dVFPY0Vna0dvUlNkVzNPaWcrYVlPaXRTd1RsN1R1dDhUMTBSMlhtazc5eVRsVXA1dHBDekZISW1VeUEvcWluS0F3UHVFMHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1950,
+    "html_length": 10868,
+    "has_text": true,
+    "has_html": true
+  }
+}

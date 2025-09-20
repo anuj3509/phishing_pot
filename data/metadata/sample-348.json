@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "We've seen your loyalty and now it's time for us to give thanks",
+    "from": "Congratulations  , <marksenews@esetupkeys.xyz>",
+    "to": "[to]",
+    "date": "Mon, 20 Feb 2023 14:49:36 +0100",
+    "message_id": "\r\n <742159b0-5f79-4981-9208-2e795b04db03@AM0EUR02FT034.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://daycassino.shop/op/3555_md/22222/1621/684/501/7495",
+      "https://i.imgur.com/8j8hsJ0.png",
+      "i.imgur.com/8j8hsJ0.png",
+      "http://daycassino.shop/oop/3555_md/22222/1621/684/501/7495",
+      "http://daycassino.shop/un/3555_md/22222/1621/684/501/7495",
+      "http://daycassino.shop/cl/3555_md/22222/1621/684/501/7495"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 503,
+    "html_length": 1824,
+    "has_text": true,
+    "has_html": true
+  }
+}

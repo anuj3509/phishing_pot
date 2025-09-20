@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Sehr geehrte/r Begünstigte/r",
+    "from": "Rosario Yermy Cespedes Paniagua <rcespedes@ypfb.gob.bo>",
+    "to": "",
+    "date": "Fri, 13 Jun 2025 16:46:22 +0000",
+    "message_id": "<285608b778b44e388777972023102718@ypfb.gob.bo>",
+    "content_type": "multipart/mixed;boundary=---------------------8053076e0ab5caffceb197fe8cf418b4"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------8053076e0ab5caffceb197fe8cf418b4"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "span.MsoHyperlinkFollowed",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "span.EmailStyle17",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 458,
+    "html_length": 2706,
+    "has_text": true,
+    "has_html": true
+  }
+}

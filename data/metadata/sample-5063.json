@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Alerta: Infração de Trânsito Associada à Sua CNH! Registro: 43078932.",
+    "from": "Alerta Detran <comunicado070103@regularizarcnh>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 21 Feb 2025 22:47:59 +0000",
+    "message_id": "<c46aeeff5e6e5a3c1c09cc87c1e224bf@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c46aeeff5e6e5a3c1c09cc87c1e224bf\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c46aeeff5e6e5a3c1c09cc87c1e224bf\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://function-7-961349030461.us-central1.run.app/",
+      "https://detran.gov.br/",
+      "hotmail.com,",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3853,
+    "has_text": true,
+    "has_html": true
+  }
+}

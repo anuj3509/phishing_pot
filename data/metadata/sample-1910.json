@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Voici votre chance de gagner une r��compense",
+    "from": "Message de LIDL, <ne-pas-repondre@chronopost.fr.>, Message de LIDL,\r\n\t<ne-pas-repondre@chronopost.fr>",
+    "to": "phishing@pot",
+    "date": "Sat, 11 Nov 2023 13:41:39 +0100",
+    "message_id": "<MCUqKDA.0.0.MCUqKDA.9.MCUqKDA@chronopost.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://stabrino.info/cl/5429_md/1995/986/2022/222/428764",
+      "https://imgur.com/rBwndu2.png",
+      "https://imgur.com/ghs61W4.png",
+      "imgur.com/rBwndu2.png",
+      "http://stabrino.info/oop/5429_md/1995/986/2022/222/428764",
+      "http://stabrino.info/op/5429_md/1995/986/2022/222/428764",
+      "imgur.com/ghs61W4.png",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5132,
+    "html_length": 11838,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Persoonlijk energieaanbod",
+    "from": "Nutswijzer  <726f647269676f2d662d7040686f746d61696c2e636f6d@abc-21.org>",
+    "to": "phishing@pot",
+    "date": "Thu, 16 Feb 2023 12:55:41 +0000",
+    "message_id": "<76462493964.vyhtuiej7hrp56z@newsletter.metcredit.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://safesecurelog.com/?a=83&amp;c=163&amp;s1=rida16",
+      "https://s3.eu-central-1.wasabisys.com/consumentenbond/cloudhosted.svg",
+      "http://www.w3.org/TR/html4/loose.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1528,
+    "html_length": 7022,
+    "has_text": true,
+    "has_html": true
+  }
+}

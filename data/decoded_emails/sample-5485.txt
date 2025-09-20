@@ -1,0 +1,82 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Verification Still Pending
+From: Ledger-secured <seisaku1@koyoshacaps.co.jp>
+To: <phishing@pot>
+Date: Tue, 3 Jun 2025 16:16:21 -0700
+Message_Id: <07b745ee1a809299bed49d3691351e274f0cd1@koyoshacaps.co.jp>
+Content_Type: multipart/alternative;
+	boundary="82fab318b24e646b88226b9307c2da39744a"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="82fab318b24e646b88226b9307c2da39744a"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - A.button:hover
+  - A.button
+  - https://invasionsports.net/
+
+DECODED TEXT CONTENT:
+------------------------------
+Ledger Security
+
+Identification Not Yet Received
+
+We previously requested you to verify your identity, but we have not yet received your identification.
+
+Please note that without completing the identification process, you will no longer be able to use Ledger Live services starting June 6, 2025.
+
+To avoid any service interruptions, we strongly recommend that you submit your identification as soon as possible.
+
+Submit Identification
+Click the button below to provide your identification:
+
+Submit Your Identification
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Ledger Security Notification</title>
+
+<style>BODY {
+	FONT-FAMILY: 'Segoe UI', Arial, sans-serif; COLOR: #000; MARGIN: 30px; LINE-HEIGHT: 1.6; BACKGROUND-COLOR: #fdfdfd
+}
+.container {
+	MAX-WIDTH: 600px; MARGIN: auto
+}
+H1 {
+	FONT-SIZE: 28px; COLOR: #000
+}
+P {
+	FONT-SIZE: 16px
+}
+A.button {
+	TEXT-DECORATION: none; FONT-WEIGHT: bold; COLOR: #fff; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 20px; DISPLAY: inline-block; PADDING-RIGHT: 20px; BACKGROUND-COLOR: #3366ff; border-radius: 5px
+}
+A.button:hover {
+	BACKGROUND-COLOR: #254eda
+}
+</style>
+
+<meta name="GENERATOR" content="-[OUTLOOK_VER]-"></head>
+<body>
+<div class="container">
+<h1>Ledger Security</h1>
+<p><strong>Identification Not Yet Received</strong></p>
+<p>We previously requested you to verify your identity, but we have not yet received your identification.</p>
+<p>Please note that without completing the identification process, you will no longer be able to use Ledger Live services starting <strong>June 6, 2025</strong>.</p>
+<p>To avoid any service interruptions, we strongly recommend that you submit your identification as soon as possible.</p>
+<p><strong>Submit Identification</strong><br>Click the button below to provide your identification:</p>
+<p><a class="button" href="https://invasionsports.net/">Submit Your Identification</a></p></div></body></html>
+

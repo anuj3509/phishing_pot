@@ -1,0 +1,82 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Another year of rewards could be yours 89276
+From: "Paid Customer" <singhsukhdev26817@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Thu, 23 Jan 2025 05:35:35 -0800 (PST)
+Message_Id: <679245a7.050a0220.3bc65f.d2a1@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============5366669006667654055=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============5366669006667654055=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #069CF6; } .auto-style2 { color: #051DEB; } Pay Pal Money sale receipt date: Thursday, 23 January 2025 Money sale receipt number: #ORD737054 Confirmation of Your Invoice Dear Paid, Your recent Money sale receipt from Coinbase exchange LLC is on its way. You can track your package by using e3421603-96cf-46fa-8c40-65cbe870015a on the PayPal Website or clicking this PayPal. Money sale receipt details: Money sale receipt: Binance Quantity: 1x Client: Paid Customer Client Email: rodrigo-f-p@hotmail.com Paid: $1478.92 If you have any questions or concerns about your order, please reach out. +1 (866) 278-0146 Thank you for choosing us. We look forward to serving you again in the future. Best Regards, PayPal, LLC. Contact: +1 (866) 278-0146 Copyright © 2024 Company. All rights reserved. Terms of Use | Privacy Policy | Sales and Refunds Our Mailing address is: 373 Miles Ave Ca Warwick Rhode Island 28095 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #069CF6;
+}
+.auto-style2 {
+	color: #051DEB;
+}
+</style>
+</head>
+
+<body>
+
+<h1><strong><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></strong></h1>
+<br>
+Money sale receipt date: Thursday, 23 January 2025<br>
+Money sale receipt number: #ORD737054<br>
+<br>
+<strong>Confirmation of Your Invoice</strong><br>
+<br>
+Dear Paid, Your recent Money sale receipt from Coinbase exchange LLC is on its way. You can track 
+your package by using e3421603-96cf-46fa-8c40-65cbe870015a on the PayPal Website or clicking this PayPal.<br>
+<br>
+<strong>Money sale receipt details:</strong><br>
+Money sale receipt: Binance<br>
+Quantity: 1x<br>
+Client: Paid Customer<br>
+Client Email: rodrigo-f-p@hotmail.com<br>
+Paid: $1478.92<br>
+<br>
+If you have any questions or concerns about your order, please reach out. 
++1 (866) 278-0146<br>
+Thank you for choosing us. We look forward to serving you again in the future.<br>
+<br>
+Best Regards,<br>
+PayPal, LLC.<br>
+Contact: +1 (866) 278-0146<br>
+<br>
+Copyright © 2024 Company. All rights reserved.<br>
+Terms of Use | Privacy Policy | Sales and Refunds<br>
+Our Mailing address is: 373 Miles Ave Ca Warwick Rhode Island 28095 USA
+
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificaci��n Oficial: Respuesta Crucial (28611493)",
+    "from": "Fernando Rios <facturasporpagar@vps-f44897b3.vps.ovh.ca>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Aug 2024 01:52:23 +0000 (UTC)",
+    "message_id": "<20240820021052.C0FEA94014@vps-56e061e0.vps.ovh.net>",
+    "content_type": "multipart/mixed; boundary=\"714b99f3b37469f63e0958b0bcdf1b35\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/mixed; boundary=\"714b99f3b37469f63e0958b0bcdf1b35\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://142.132.167.72.host.secureserver.net/?MmvzoPtXOX=cqOJ2cm9kcmlnby1mLXBAaG90bWFpbC5jb20=",
+      "https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1237,
+    "html_length": 2148,
+    "has_text": true,
+    "has_html": true
+  }
+}

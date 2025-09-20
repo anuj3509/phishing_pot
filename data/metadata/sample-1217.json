@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Suspension Notice honey@pot",
+    "from": "proton.me\r\n  <support@tik.toyota-industries.com>",
+    "to": "honey@pot",
+    "date": "04 Aug 2023 04:49:47 -0700",
+    "message_id": "<20230804044947.845B5C48928233AF@tik.toyota-industries.com>",
+    "content_type": "multipart/mixed;boundary=---------------------93a31dba29f7aab1470348ecd0128a57"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------93a31dba29f7aab1470348ecd0128a57"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://audaz.com.py/ios-cn/kr/icon/sav-domain.html#honey@pot",
+      "https://bafybeig7hxnd7izmejdoiwh6sxusnhf2sdmrgtuhot4bhzvon2v4oddh6u.ipfs.dweb.link/Pagefem345.html#yigitekincioglu@hotmail.com.",
+      "http://hotmail.com/",
+      "http://www.w3.org/TR/html4/loose.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 424,
+    "html_length": 14425,
+    "has_text": true,
+    "has_html": true
+  }
+}

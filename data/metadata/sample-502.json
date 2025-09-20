@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Seus pontos Livelo expiram em breve!",
+    "from": "Bradesco <bradesco@localhost.members.linode.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 21 Mar 2023 18:23:24 +0000 (UTC)",
+    "message_id": "<20230321182324.5B55720820@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mheaytx-gaucz45evq-uk.a.run.app/?hash={rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 995,
+    "html_length": 8030,
+    "has_text": true,
+    "has_html": true
+  }
+}

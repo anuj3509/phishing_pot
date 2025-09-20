@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "ENC: Notificação Emitida - 42xoY4dA3T1QAOo",
+    "from": "Rodrigo Lima <rodrigo.gama94@LIVE.COM>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Tue, 19 Dec 2023 12:14:03 +0000",
+    "message_id": "\r\n <PH8PR19MB7047DA9A8E85347994F7D9B4E097A@PH8PR19MB7047.namprd19.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_PH8PR19MB7047DA9A8E85347994F7D9B4E097APH8PR19MB7047namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_PH8PR19MB7047DA9A8E85347994F7D9B4E097APH8PR19MB7047namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "F8bZRhYpFZg52471.pdf",
+      "content_type": "application/pdf",
+      "size": 68825
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "gmail.com&gt;",
+      "rodrigo.gama94@live.com&gt;",
+      "rodrigo.gama94@live.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 523,
+    "html_length": 1350,
+    "has_text": true,
+    "has_html": true
+  }
+}

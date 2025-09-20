@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Confirm your RingCentral account",
+    "from": "RingCentral Events <no-reply@events.ringcentral.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Dec 2023 22:22:31 +0000 (UTC)",
+    "message_id": "<657a2ea7b8217_73a9cec89352e@hopin-sidekiq-7c4d4755fd-mlhzr.mail>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_657a2ea77371a_73a9cec893185\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_657a2ea77371a_73a9cec893185\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.ringcentral.com/legal/ringcentral-events/global-platform-terms",
+      "https://www.ringcentral.com/legal/privacy-notice.html",
+      "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2)",
+      "http://url2062.events.ringcentral.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FvxLn4mIjt0VHIwf4-2Bp0jgL8sxj3rICrqHSdM85zFyzMaW65bsMI58y2-2FWQo-2F3Cm3gTRi3viKPhOM-2B5dcEHpmNJxxD87cX9c2pH7p-2FuSIyfgj-2FMrffgMjYRmERhNmvKmYFD24468p0hVEZ2Ls1-2FowMkqSN1gB5-2F7UzeyTjw-2Fgum-2FMsy89MshI9HVcrTsUqPZQmOT6-2B2RyA2dEsBkZkKAjfGxxZw1Vw2Pp-2BR4Yhc59iXbtduSEjeoCkxDq5yv6XYaWtxZPLCxdoXkjBtYOsw9bQh9SbbzfYPteghkBy5-2B72mFaEomsNJjb1pCLIBvQZDZCwe0pP-2F86YjA5HW2vH4OljpfHpgY4lwE5WONzo17PkRm70gErz61NEnkzUlBFwkb36LJAF5L-2BxRyenDONUHkdt",
+      "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu7GxKOzY.woff2)",
+      "https://fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc4.woff2)",
+      "http://www.w3.org/1999/xhtml",
+      "ok.me/rCQE1,",
+      "https://www.ringcentral.com",
+      "https://fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxK.woff2)",
+      "https://www.ringcentral.com/legal/acceptable-use-policy.html",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 703,
+    "html_length": 11994,
+    "has_text": true,
+    "has_html": true
+  }
+}

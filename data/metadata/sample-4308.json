@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot,F��llen Sie eine kurze Umfrage aus, um Ihr Traveler's Combo Pack zu erhalten",
+    "from": "Booking.com, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 09 Nov 2024 22:02:50 +0100",
+    "message_id": "<WxhGa57.0.0.WxhGa57.9.WxhGa57@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+      "http://tkjdprr.servicecentre.info/WDNkYVhlclBaUENVcDhObG13eEpHbFoxeDdPQ1Fab1htRjd1aXN4QXcxcVNPQjB6Sm1uQjVnREJUYVFROHkwcm44L2VUYWVSOUprcXFxS1pqY0I5YWxkZEZDbGJuclZEMlZNMFpYUGJQdVE9",
+      "https://www.zupimages.net/up/24/45/x7q8.png",
+      "http://servicecentre.info/ZDIxckhndG5qVWFIR3hoSDhPL1lHTTYvdG1QNGJaWjQrNGtaLzkxV3FScDRpYUtTM2EvcVRWbUswNWVvNDZzVmJiQ212ZVE2SzVMZ2hxRld3Ty9VZmc9PQ__",
+      "https://lifeinsureand.com/?a=7790&amp;oc=22259&amp;c=58831&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/45/ws18.png",
+      "www.zupimages.net/up/24/45/x7q8.png",
+      "Booking.com",
+      "https://www.zupimages.net/up/24/45/ws18.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2340,
+    "html_length": 5038,
+    "has_text": true,
+    "has_html": true
+  }
+}

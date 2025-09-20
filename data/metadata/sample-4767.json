@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "GET BACK TO ME",
+    "from": "\"Mrs, Rebecca Withers\" <correo@protege.cll>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 6 Jan 2025 00:56:57 -0800",
+    "message_id": "<49df0f61-5e0e-4269-963b-c13dae926099@200corpmxp002.lindt.net>",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "response.emails",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2291,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

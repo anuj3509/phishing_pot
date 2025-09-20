@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Bem-vindo ao seu novo benefício PRIME ! 9688739",
+    "from": "Banco Bradesco - Prime <BANC0.BRADESC0@vmi1736435.contaboserver.net>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Mon, 01 Apr 2024 15:17:29 +0200",
+    "message_id": "<20240401132010.A9267182318B@web.voltagem13>",
+    "content_type": "multipart/mixed;boundary=---------------------9fa027baf2e70723ade5ac6f35a447f0"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------9fa027baf2e70723ade5ac6f35a447f0"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://public-cloud-prime03.wn.r.appspot.com/dockerprime1896/convite116851?bra=d2JrczRAcHJvdG9ubWFpbC5jaA0KMzk1NDExNDMyMTA3MTA4MTYyMQ=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1282,
+    "html_length": 7766,
+    "has_text": true,
+    "has_html": true
+  }
+}

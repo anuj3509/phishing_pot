@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Optimism Airdrop #5: Check Eligibility to Claim Your OP Tokens -\r\n Claim ID: 14093",
+    "from": "Optimism Announcements <support@naheed.pk>",
+    "to": "phishing@pot",
+    "date": "Fri, 08 Nov 2024 01:10:04 +0000 (UTC)",
+    "message_id": "<20241phishing@pot011004.56CB9F3846CD8B02@naheed.pk>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://url7592.naheed.pk/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoU6jg-2B6X3F4r36LXKEF-2BdO3eFD-2Bh4wekZaqb9D0QjK-2FuspkOG4f50wuWpKBSjdeZCkXtAflBk5om7SpxNgu6HgvTXpyvhbagTZ5Jj95lhXgyASVvzagV1linN48mR8vePOen7S1yTV5qOPe91wNBXyHScUPfAt3FYcTbjzgusQSidaBh9nLvjisSdvNyL3dKRI-3D",
+      "https://optimismannouncements.s3.us-east-1.amazonaws.com/claim.html",
+      "https://google.com/unsubscribe?email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 782,
+    "html_length": 4422,
+    "has_text": true,
+    "has_html": true
+  }
+}

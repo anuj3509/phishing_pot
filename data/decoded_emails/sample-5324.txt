@@ -1,0 +1,84 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Paid, Your Order 821111 is placed successfully
+From: "Paid Customer" <dnyaneshwarrikame32@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Mon, 21 Apr 2025 06:38:34 -0700 (PDT)
+Message_Id: <68064a5a.650a0220.3a17a8.eb50@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============5973345486260492919=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============5973345486260492919=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: immediately, confirm, update
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { font-size: x-large; } .auto-style2 { color: #061FF8; } .auto-style3 { color: #0853D7; } Pay Pal Hey Paid, Status Update Order Confirmed and Ready for Dispatch Woo Hoo! Your Money receipt is on its way. Your Money receipt details can be found below. ORDER SUMMARY: Money receipt: #390-66-709 Money receipt Date: Monday, 21 April 2025 Merchant: Binance Global, Inc. Product: BitCash Credit Total Amount: $1382.64 DELIVERY DETAILS: Name: Paid Customer Email: rodrigo-f-p@hotmail.com Wallet address: e1d88ed1-d423-48f9-b3dd-bdcaa3eab76a If you have any questions about your order, you can reach us at the contact details below. You can cancel the order within 2 days of receiving this email. Kindly call us immediately 1 808 303 2915 to cancel. The transaction will appear in your system soon. Appreciatively PayPal, LLC. Contact: 1 808 303 2915 Copyright ©2024 Company. All rights reserved. 31110 Avenida Valdez Az Fairfield California 67870 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	font-size: x-large;
+}
+.auto-style2 {
+	color: #061FF8;
+}
+.auto-style3 {
+	color: #0853D7;
+}
+</style>
+</head>
+
+<body>
+
+<h3 class="auto-style1"><strong><span class="auto-style3">Pay</span><span class="auto-style2">Pal</span></strong></h3>
+<strong>Hey Paid, Status Update Order Confirmed and Ready for Dispatch</strong><br>
+Woo Hoo! Your Money receipt is on its way. Your Money receipt details can be found below.<br>
+<br>
+<strong>ORDER SUMMARY:</strong><br>
+Money receipt: #390-66-709<br>
+Money receipt Date: Monday, 21 April 2025<br>
+Merchant: Binance Global, Inc.<br>
+Product: BitCash Credit<br>
+Total Amount: $1382.64<br>
+<br>
+<strong>DELIVERY DETAILS:</strong><br>
+Name: Paid Customer<br>
+Email: rodrigo-f-p@hotmail.com<br>
+Wallet address: e1d88ed1-d423-48f9-b3dd-bdcaa3eab76a<br>
+<br>
+If you have any questions about your order, you can reach us at the contact 
+details below. You can cancel the order within 2 days of receiving this email. 
+Kindly call us immediately 1 808 303 2915 to cancel. The transaction will appear in 
+your system soon.<br>
+<br>
+Appreciatively<br>
+PayPal, LLC.<br>
+Contact: 1 808 303 2915<br>
+<br>
+Copyright ©2024 Company. All rights reserved.<br>
+31110 Avenida Valdez Az Fairfield California 67870 USA
+
+</body>
+
+</html>

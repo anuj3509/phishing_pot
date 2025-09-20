@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ação Necessária: Pagamento Pendente para Liberação da Sua Encomenda nos Correios",
+    "from": "Correios <contato@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 21 Oct 2024 19:05:14 +0000",
+    "message_id": "<d741103d-10d8-d5fd-545b-38069phishing@potc39d@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ucsd.edu",
+      "www.hawking.org.uklectureslindex.html",
+      "https://rastreio.correios-encomendas.com/?mailID=aa8cc1f8-1ff3-43f7-a142-282e98443ad0",
+      "2018ReportsReport16.pdf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 38127,
+    "html_length": 67721,
+    "has_text": true,
+    "has_html": true
+  }
+}

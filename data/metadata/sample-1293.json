@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Re: Compliance Alert: Verify Your Wallet to Avoid Asset Freeze",
+    "from": "Support <no-reply@noshow.io>",
+    "to": "phishing@pot",
+    "date": "Sun, 10 Sep 2023 07:53:01 +0200",
+    "message_id": "<8044e95bf7b256b8d463f06d29763326@noshow.io>",
+    "content_type": "multipart/alternative; boundary=NKQ5qPpU"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=NKQ5qPpU"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://email.mg.noshow.io/c/eJxEyTGOhSAQANDTQKcBBkYoKLbxHuAwC4nuEDXZ6__y149yYwpRt2wxeXDBRqt7tkQRwBIi8lFqORJHLCYQ-Li1ynrkaLxvKVTeqgtYI3kENkgubQjgUHnzJ0-X_3WIPnN_3_ko-FFuV24vc65fvfMtdI9fWXiZypsu71XGuR5yfQIAAP__KngwAw)",
+      "http://email.mg.noshow.io/c/eJwEwEGOhSAMANDTwE6CBSouWMzGe1SKXxKcEmVi5vb_cSoHh6hLmnH1DsIcZ32mSNk5zhR2sBAQQ8YYZ-bsV7RlibqmaL0va9iPZYeAe2SP7rDIsC7oHKDy9leeU15TRbd0jtEf5X4UbAq2cf8946XWypiod5NpUJOP-aerV1NFwabvdAvf9SPTMXXl7SnjotpMlusbAAD__1jIN2I",
+      "http://www.w3.org/1999/xhtml",
+      "http://email.mg.noshow.io/o/eJwEwFEOwiAMANDTjL8tBdrSfXCYQYsjcdZME6_v02pDSYLVyDvmRFFiOCuAsiFajLkUEDooipKV3luhDhRmFUC0ndooLRE3UeQ8gDXthXNOvCC8_HP6b5se7nq73vPh61jfC8Lp3-uYz6379Q8AAP__194lHw",
+      "https://trustwallet-app.catalog.yampi.io/",
+      "http://email.mg.noshow.io/c/eJxEyTGOhSAQANDTQKcBBkYoKLbxHuAwC4nuEDXZ6__y149yYwpRt2wxeXDBRqt7tkQRwBIi8lFqORJHLCYQ-Li1ynrkaLxvKVTeqgtYI3kENkgubQjgUHnzJ0-X_3WIPnN_3_ko-FFuV24vc65fvfMtdI9fWXiZypsu71XGuR5yfQIAAP__KngwAw"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1760,
+    "html_length": 10098,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your 5% off rebate offer.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <best.ex.pharmacy@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 27 Aug 2024 13:42:58 +0200",
+    "message_id": "79YJ34k56t9kf1_CEhh3C9c2mvJL3k6245.88uhU0560II4B2378kF-82N4Md82e1135@hotmail.com",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      "http://www.automac.it/f.html",
+      ".button.yes",
+      ".button.no",
+      "ex.pharmacy.online7@gmail.com?subject=Yes&amp;body=I"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5303,
+    "html_length": 8343,
+    "has_text": true,
+    "has_html": true
+  }
+}

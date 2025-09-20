@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Fw: OK....",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Tue, 4 Apr 2023 12:16:48 +0000",
+    "message_id": "\r\n <SA0PR04MB73708433F20C80DC98DCF489B3939@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73708433F20C80DC98DCF489B3939SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73708433F20C80DC98DCF489B3939SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "gmail.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2802,
+    "html_length": 3695,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,84 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Access Your stETH Allocation - Claim ID: 34245
+From: Lido <noreply@jofin.ai>
+To: phishing@pot
+Date: Mon, 11 Nov 2024 12:20:11 +0000 (UTC)
+Message_Id: <20241111122011.091A0C3438EAE120@jofin.ai>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+Suspicious phrases: click here
+URLs found:
+  - https://u7687618.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUvbCrphxo-2BdeslksDldUTX4iXeCEAtrDp2OHyH8iyEgEZ6a41TVdMI6RWKzjFowGPPmRjVZ79cyjWsntGnd0H-2F5NDaseHK4Yb33hI83cShQ5c7hn4jrp8-2B57CzPwwM64MnjtEjkRm3zvooXZHm44D71pXzSOEUSeuwBELBtfdJ-2FD1WjFYqKhERyYv-2FjDOcEfA-3D
+  - https://lidorewards.s3.us-east-1.amazonaws.com/index.html
+  - https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035
+
+DECODED TEXT CONTENT:
+------------------------------
+Claim Your stETH Airdrop! Your stETH Airdrop is Ready! Hello, We&#8217;re excited to announce that your eligibility for the latest stETH airdrop has been confirmed! As a valued member of our community, you&#8217;re invited to claim your share of stETH and join others who are actively contributing to the future of decentralized finance. Simply click the button below to access your claim page and redeem your tokens. This is our way of saying thank you for being part of the Lido community! Claim My stETH Thank you for supporting Lido&#8217;s mission to build a decentralized, accessible financial system. Together, we are creating a more resilient and open future. If you'd like to unsubscribe and stop receiving these emails click here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Your stETH Airdrop!</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4;">
+    <table width="100%" bgcolor="#f4f4f4" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table width="600" style="max-width: 600px; background-color: #ffffff; border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.1); padding: 20px;" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035" alt="Lido Logo" width="120" style="display: block;" height="120">
+                        </td>
+                    </tr>
+                    <!-- Title Section -->
+                    <tr>
+                        <td align="center" style="color: #ff5a5a; font-size: 24px; font-weight: bold; padding: 10px 0;">
+                            Your stETH Airdrop is Ready!
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: #333333; line-height: 1.6; font-size: 16px;">
+                            <p>Hello,</p>
+                            <p>We&#8217;re excited to announce that your eligibility for the latest <strong>stETH airdrop</strong> has been confirmed! As a valued member of our community, you&#8217;re invited to claim your share of stETH and join others who are actively contributing to the future of decentralized finance.</p>
+                            <p>Simply click the button below to access your claim page and redeem your tokens. This is our way of saying thank you for being part of the Lido community!</p>
+                        </td>
+                    </tr>
+                    <!-- Button Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <a href="https://lidorewards.s3.us-east-1.amazonaws.com/index.html" style="padding: 12px 25px; border-radius: 5px; background-color: #ff5a5a; color: #ffffff; font-size: 16px; text-decoration: none; display: inline-block;">Claim My stETH</a>
+                        </td>
+                    </tr>
+                    <!-- Footer Section -->
+                    <tr>
+                        <td align="center" style="padding: 15px; color: #999999; font-size: 12px;">
+                            <p>Thank you for supporting Lido&#8217;s mission to build a decentralized, accessible financial system. Together, we are creating a more resilient and open future.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+<p>If you'd like to unsubscribe and stop receiving these emails <a href="https://u7687618.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUvbCrphxo-2BdeslksDldUTX4iXeCEAtrDp2OHyH8iyEgEZ6a41TVdMI6RWKzjFowGPPmRjVZ79cyjWsntGnd0H-2F5NDaseHK4Yb33hI83cShQ5c7hn4jrp8-2B57CzPwwM64MnjtEjkRm3zvooXZHm44D71pXzSOEUSeuwBELBtfdJ-2FD1WjFYqKhERyYv-2FjDOcEfA-3D"> click here </a>.</p>
+</body>
+</html>
+

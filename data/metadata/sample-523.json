@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "New Membership Statement : Renewal P‎r‎‎i‎me‎‎ ‎M‎‎embership statement was ended - Your renewal scheduled on ‎‎March 27, 2023.  TRX#032-807495",
+    "from": "P‎‎r͏‎‎i‎‎‎‎m‎‎‎‎e‎‎‎‎‎‎<res0lvekasuraingmerahmmke160@fortservicebrasil.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Mar 2023 14:31:07 +0000",
+    "message_id": "<6ecc06f6-362f-d78c-850b-d03e5118e6ba@fortservicebrasil.com.br>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-d9803ecb470f1bde-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-d9803ecb470f1bde-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.linkedin.com/slink?code=dyKdQEnv"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6,
+    "html_length": 4416,
+    "has_text": true,
+    "has_html": true
+  }
+}

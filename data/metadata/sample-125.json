@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Stake your XLM for 25% yields",
+    "from": "\"Stellar.org Team\" <noreply@giovanabaldissera.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 23 Nov 2022 23:28:11 -0200 (BRST)",
+    "message_id": "<97684353.1142.1669253291024.JavaMail.zimbra@email1.wwow.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-default-gray/twitter@2x.png",
+      "https://mail-stellar.com/bbab6731284207831082162266ca81d5",
+      "https://i.imgur.com/IFh6a5o.png",
+      "https://twitter.com/stellarorg",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-only-logo-default-gray/linkedin@2x.png",
+      "https://www.linkedin.com/company/stellar-development-foundation/",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "block.desktop_hide"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1775,
+    "html_length": 12553,
+    "has_text": true,
+    "has_html": true
+  }
+}

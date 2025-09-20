@@ -1,0 +1,101 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ihr 250€ Netto-Gutschein wartet auf Sie! 🎁 
+From: Netto Team <reply@telekom.com>
+To: <phishing@pot>
+Date: Fri, 25 Jul 2025 11:42:14 -0400
+Message_Id: <sdvM57u.0.0.sdvM57u.9.sdvM57u@telekom.com>
+Content_Type: multipart/alternative;
+	boundary="vehqtee101j8b8dhtoty2kjatpyswzluns09ffxsaadimumddqnenbwkqpuv"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="vehqtee101j8b8dhtoty2kjatpyswzluns09ffxsaadimumddqnenbwkqpuv"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://blog.dury.agency/op/4029_md/1995/5864/728/1/12270
+  - http://blog.dury.agency/cl/4029_md/1995/5864/728/1/12270
+  - http://blog.dury.agency/oop/4029_md/1995/5864/728/1/12270
+  - https://www.zupimages.net/up/25/28/dzmn.jpg
+  - www.zupimages.net/up/25/28/dzmn.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+Netto Gutschein body {margin:0; padding:0; font-family: Arial, sans-serif; background:#f1f1f1;} .container {max-width: 600px; margin: auto; background: #fff; padding: 20px;} .btn { background-color: #FFD700; color: #FE2E2E; padding: 12px 24px; font-size: 18px; font-weight: bold; text-decoration: none; display: inline-block; border-radius: 5px; } .footer { font-size: 11px; color: #888; text-align: center; margin-top: 20px; } Jetzt 250€ Netto-Gutschein sichern – Nur für kurze Zeit! Hallo phishing@pot , Vor drei Tagen haben wir Ihnen mitgeteilt, dass Sie einen Netto Einkaufsgutschein im Wert von 250€ erhalten könnten. Bisher haben Sie den Gutschein nicht angefordert. Besteht kein Interesse mehr? Das Angebot gilt nur noch 3 Tage! In allen Filialen einlösbar Sofort, einfach &amp; unverbindlich 100% kostenlos » Hier Klicken « Mit freundlichen Grüßen, Ihr Gewinner Team Du möchtest keine E-Mails mehr erhalten? Hier abmelden
+
+DECODED HTML CONTENT:
+------------------------------
+<!-- HEAD --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Netto Gutschein</title>
+  <style>
+    body {margin:0; padding:0; font-family: Arial, sans-serif; background:#f1f1f1;}
+    .container {max-width: 600px; margin: auto; background: #fff; padding: 20px;}
+    .btn {
+      background-color: #FFD700;
+      color: #FE2E2E;
+      padding: 12px 24px;
+      font-size: 18px;
+      font-weight: bold;
+      text-decoration: none;
+      display: inline-block;
+      border-radius: 5px;
+    }
+    .footer {
+      font-size: 11px;
+      color: #888;
+      text-align: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<!-- BODY -->
+<body>
+  <div style="display:none; max-height:0; overflow:hidden;">
+    Jetzt 250€ Netto-Gutschein sichern – Nur für kurze Zeit!
+  </div>
+
+  <div class="container">
+    <center>
+      <a href="http://blog.dury.agency/cl/4029_md/1995/5864/728/1/12270"><img src="https://www.zupimages.net/up/25/28/dzmn.jpg" alt="" style="width:100%; max-width:560px;"></a>
+	  <a href="http://blog.dury.agency/cl/4029_md/1995/5864/728/1/12270"><img src="//www.zupimages.net/up/25/28/dzmn.jpg" alt="" style="width:100%; max-width:560px;"></a>
+    </center>
+
+    <p>Hallo <strong>phishing@pot</strong>,</p>
+    <p>
+      Vor drei Tagen haben wir Ihnen mitgeteilt, dass Sie einen <strong>Netto Einkaufsgutschein im Wert von 250€</strong> erhalten könnten.<br>
+      Bisher haben Sie den Gutschein nicht angefordert. Besteht kein Interesse mehr?
+    </p>
+    <p><strong>Das Angebot gilt nur noch 3 Tage!</strong></p>
+
+    <ul>
+      <li>In allen Filialen einlösbar</li>
+      <li>Sofort, einfach &amp; unverbindlich</li>
+      <li>100% kostenlos</li>
+    </ul>
+
+    <p>
+      <a href="http://blog.dury.agency/cl/4029_md/1995/5864/728/1/12270" class="btn">» Hier Klicken «</a>
+    </p>
+
+    <p>Mit freundlichen Grüßen,<br>Ihr Gewinner Team</p>
+
+    <div class="footer">
+      Du möchtest keine E-Mails mehr erhalten? <a href="http://blog.dury.agency/oop/4029_md/1995/5864/728/1/12270">Hier abmelden</a><br>
+      <img src="http://blog.dury.agency/op/4029_md/1995/5864/728/1/12270" width="1" height="1" style="display:none;" alt="">
+    </div>
+  </div>
+</body>
+

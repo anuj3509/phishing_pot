@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "WICHTIGE MITTEILUNG: VORÜBERGEHENDE DEAKTIVIERUNG IHRER KARTE",
+    "from": "\"TF-Bank\" <service@norskdesign.de>",
+    "to": "Recipients <service@norskdesign.de>",
+    "date": "Mon, 7 Jul 2025 01:56:06 +0200",
+    "message_id": "<9f9829$3gpu74@smtp.emtel.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1649792051==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1649792051==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://flowto.it/exN0yY5bHd?fc=0",
+      "https://qr.me-qr.com/BgS8byiU",
+      "https://m17.ca/wpeq3p",
+      "https://www.handelsblatt.com/vergleich/info/tf-bank/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 882,
+    "html_length": 12076,
+    "has_text": true,
+    "has_html": true
+  }
+}

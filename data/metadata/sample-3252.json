@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot ,  wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de.>, Fressnapf Gutschein,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 29 Apr 2024 22:22:46 +0200",
+    "message_id": "<ix1uw1w.ufq2w.a0u.a0u@dhckjbrayqqelfc.pna>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/8465_md/4049/26038/1147/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/8465_md/4049/26038/1147/281/76468",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8465_md/4049/26038/1147/281/76468",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/freesnapf-header.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/freesnapf-header.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1775,
+    "html_length": 8829,
+    "has_text": true,
+    "has_html": true
+  }
+}

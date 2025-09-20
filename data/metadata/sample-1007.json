@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Good news and rewards for the XRP Community",
+    "from": "Ripple <xrpl@isarops.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 27 Jul 2023 08:23:11 +0000",
+    "message_id": "<20230727082311.9d0b426cad4b843b@isarops.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "https://mail122-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d?c_id=r25j-9d981df1-f2da-41f0-99da-41da09f42b72",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/T2B3JTm.png",
+      ".editable.image",
+      "https://mail122-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif?c_id=r25j-9d981df1-f2da-41f0-99da-41da09f42b72",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5873,
+    "html_length": 11939,
+    "has_text": true,
+    "has_html": true
+  }
+}

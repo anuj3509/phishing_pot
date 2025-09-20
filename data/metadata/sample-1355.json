@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Withdrawal Requested Received",
+    "from": "Binance <noreply@streetaway.co.uk>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Sep 2023 11:34:13 +0000",
+    "message_id": "<010b018ab784df34-9f04b1ee-77ce-4ae6-b3dd-8040bbdd91e2-000000@eu-west-2.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://fonts.googleapis.com/css?family=Noto+Sans:400,700",
+      "http://notification-emails.com/",
+      "http://wataniafire.com/?email=rodrigo-f-p@hotmail.com",
+      "http://email.mgdirectmail.binance.com/o/eJw8zNGNgzAMANBpyB8o9tlx_JFhgm3urhRFKkWVOn3_usDzloEzSooGRRlFhDj9tZBY1UO8OGDdNLutEkDWpffumv5bJSyVQGRBAUFdvgAp8ET5iPPsvzFXLqzs5jzb7bVrerR3t-PaDPBnojyu532MfbFxfAIAAP__lFYoBQ",
+      "hotmail.com",
+      "https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png",
+      "Binance.com,",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7695,
+    "html_length": 28103,
+    "has_text": true,
+    "has_html": true
+  }
+}

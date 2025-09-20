@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Don't have a prescription? No problem. We have all the medications you need, no prescription required.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <best.pharmacy.online@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Sat, 10 Aug 2024 07:03:12 +0200",
+    "message_id": "<C3E95495.4068FF96@hotmail.com>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      "http://healthincentiverewards.com/f.html",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=Yes,I",
+      ".button.secondary",
+      ".button.danger"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1806,
+    "html_length": 3484,
+    "has_text": true,
+    "has_html": true
+  }
+}

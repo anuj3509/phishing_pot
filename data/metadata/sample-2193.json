@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "[Alert]: Your wallet access is temporarily Suspended !",
+    "from": "\"MetaMask.io\" <no-reply@iinet.net.au>",
+    "to": "Recipients <no-reply@iinet.net.au>",
+    "date": "Wed, 13 Dec 2023 00:19:17 +0100",
+    "message_id": "<f9f26b$dnkheh@icp-osb-irony-out7.iinet.net.au>",
+    "content_type": "multipart/alternative; boundary=\"===============0116260713==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0116260713==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://consensys.io/terms-of-use",
+      "https://1000logos.net/wp-content/uploads/2022/05/MetaMask-Symbol.png",
+      "https://metamask.io/institutions/",
+      "https://metamask.io/news/",
+      "https://github.com/MetaMask/metamask-extension/",
+      "https://gitcoin.co/",
+      "https://metamask.zendesk.com/hc/en-us/requests/new?ticket_form_id=360001539191",
+      "https://metamask.io/cla/",
+      "https://rb.gy/waq8hf",
+      "https://consensys.io/privacy-policy",
+      "https://metamask.io/download/",
+      "https://metamask.io/sitemap/",
+      "https://metamask.io/security/",
+      "https://consensys.io/open-roles/?discipline=32543",
+      "https://shop.spreadshirt.com/metamask/",
+      "https://metamask.io/about/",
+      "https://metamask.io/developer/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 914,
+    "html_length": 20646,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "💕 Bekijk deze mail alleen als je volwassen bent",
+    "from": "Nerena Groen <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Mon, 05 Sep 2022 10:34:04 +0000",
+    "message_id": "\r\n <c614a2e5-4dfa-4dae-b385-ec4198a60ca1@DB8EUR06FT065.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://safecloud.link/51fdd860-8ce0-4cf6-bf44-e5b29e312bb7/?rdm=6dnnhkrGmcwb&amp;6dnnhkrGmcwb=phishing@pot&amp;offerid=78420065",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 460,
+    "html_length": 1273,
+    "has_text": true,
+    "has_html": true
+  }
+}

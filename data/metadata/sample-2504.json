@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch, phishing@pot",
+    "from": "Netto-Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 03 Jan 2024 00:41:09 +0100",
+    "message_id": "<dzqgz4v.brdca.crg.crg@svqprtrnxorthtz.qvk>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#cl/4869_md/4049/25692/1199/143/149762",
+      "sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://kiteforfriends.eu/op/4869_md/4049/25692/1199/143/149762",
+      "https://sf22.sendsfx.com/admin/temp/user/2/netto-header-de.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#oop/4869_md/4049/25692/1199/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1993,
+    "html_length": 9745,
+    "has_text": true,
+    "has_html": true
+  }
+}

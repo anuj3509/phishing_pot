@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Alerts",
+    "from": "Metamask_TeamSupport31612220446 <metamask-updates-action@netwrksecurity.com>",
+    "to": "phishing@pot.org",
+    "date": "Wed, 7 Sep 2022 21:36:59 +0200",
+    "message_id": "<cYXojTcIMuRgMo3OaSdh1AdBl1vEakIefZlXkuw@netwrksecurity.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://i.ibb.co/XyxFpcn/Screenshot-2022-08-26-at-18-07-03-QR-Code-Generator-Create-Your-Free-QR-Codes.png",
+      "code.Tap",
+      "app.Point",
+      "pot.org",
+      "tablet.Follow",
+      "https://420.bio/NtRIA"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1019,
+    "html_length": 103259,
+    "has_text": true,
+    "has_html": true
+  }
+}

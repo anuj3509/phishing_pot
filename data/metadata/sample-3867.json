@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "wir Ihnen ein exklusives Rituals-Geschenkset anbieten.",
+    "from": "Douglas Rituals Gift Set,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Aug 2024 17:13:04 +0000",
+    "message_id": "<DRRZOSSEPWLJSQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "div.WordSection1",
+      "p.MsoNormal,",
+      "colorschememapping.xml",
+      "div.kl-row.colstack",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      ".table-mobile-only.inline-block",
+      "li.MsoNormal,",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "http://www.w3.org/1999/xhtml",
+      "div.mobile-only",
+      ".table-mobile-only.block",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://leaadpersons.com/biz/Riti.png",
+      "div.MsoNormal",
+      "filelist.xml",
+      "table.mj-full-width-mobile",
+      "themedata.thmx"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7559,
+    "html_length": 59890,
+    "has_text": true,
+    "has_html": true
+  }
+}

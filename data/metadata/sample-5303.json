@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificação de Urgência: Taxa obrigatória pendente para regularização do seu CPF. Evite bloqueios. Protocolo: 93763414.",
+    "from": "Receita Federal Comunica <regularizacao714683@receita>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 8 Apr 2025 10:54:14 +0000",
+    "message_id": "<038b6942f1aba86759b8c1f0a20806c5@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_038b6942f1aba86759b8c1f0a20806c5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_038b6942f1aba86759b8c1f0a20806c5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://function-5-1062496865825.us-central1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3503,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,250 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot,Sie sind einer unserer m��glichen Finalisten f��r einen Kaufland Gutschein im Wert von 500���. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Gl��ck einen Kaufland Gutschein.
+From: "Ihre Julia Weber (Kundenbetreuung)" <phishing@pot>, "Ihre Julia Weber
+ (Kundenbetreuung)" <service@stayfriends.de>
+To: <phishing@pot>
+Date: Thu, 9 Jan 2025 22:10:44 +0000
+Message_Id: <NHMmxaq.0.0.NHMmxaq.9.NHMmxaq@stayfriends.de>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://lsa.servicecentre.info/op/741_md/1/7232/672/11/209531
+  - www.zupimages.net/up/24/49/okq1.jpeg
+  - https://lifeinsureand.com/?a=7790&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=
+  - http://lsa.servicecentre.info/oop/741_md/1/7232/672/11/209531
+  - www.zupimages.net/up/24/49/vkhl.jpeg
+  - https://www.zupimages.net/up/24/49/okq1.jpeg
+  - https://www.zupimages.net/up/24/49/vkhl.jpeg
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+body, table, thead, tbody, tr, td, img { padding: 0; margin: 0; border: none; border-spacing: 0px; border-collapse: collapse; vertical-align: top; } .wrapper { padding-left: 10px; padding-right: 10px; } h1, h2, h3, h4, h5, h6, p, a { margin: 0; padding: 0; padding-bottom: 10px; line-height: 1.2; font-family: "Arial", sans-serif; color: #000; } .content-wrap { border-radius: 0px 0px 0px 0px; display: inline-block; } .logo-wrap { padding: 20px 0px; background-color: #fff; border-radius: 0px 0px 0px 0px; } bgh{ background-color: #fff; color: #fff; box-shadow: 0px 10px 10px 2px rgba(0, 0, 0, 0.2); } .logo { font-size: 45px; font-weight: bold; margin-top: 10px; display: inline-block; color: #fff; } .top-para { font-size: 14px; margin-top: 20px; } .title{ font-size: 36px; font-weight: bold; margin-top: 40px; } .title-para { max-width: 75%; font-size: 18px; padding: 0px; } .cta { font-size: 22px; font-weight: bold; line-height: 1; text-transform: uppercase; background: #1d4ed8; color: #fff; display: inline-block; padding: 16px 40px; text-decoration: none; border-radius: 50px; margin: 30px 0px; } .cta-bg{ background-color: #1d4ed8; } .feature-img { max-width: 70%; max-height: 540px; border-radius: 30px; } .feature-img { max-height: 580px; } .feature-imgg { max-width: 100%; max-height: 100px; } .product-image-wrap { max-width: 90%; margin: 20px 0px; overflow: auto; } .product-img { width: 45%; margin: 0px 2.5%; float: left; border-radius: 25px; } @media only screen and (max-width: 480px) { .wrapper .section { width: 100%; } .wrapper .column { width: 100%; display: block; } .title { font-size: 26px; font-weight: bold; margin-top: 40px; } .title-para { max-width: 85%; font-size: 16px; } .product-image-wrap { margin-bottom: 20px; } .answer { font-size: 16px; margin-top: 35px; } .free { font-size: 24px; } .cta { min-width: 260px; padding: 15px; font-size: 20px; margin-top: 20px; } } Hallo phishing@pot Sie sind einer unserer möglichen Finalisten für einen Kaufland Gutschein im Wert von 500€. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Glück einen Kaufland Gutschein . Jetzt Mitmachen »! Hoffentlich können wir Ihnen damit eine kleine Freude machen. Ihre Julia Weber (Kundenbetreuung) You can unsubscribe from our communications at any time by clicking here.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+ body,
+ table,
+ thead,
+ tbody,
+ tr,
+ td,
+ img {
+ padding: 0;
+ margin: 0;
+ border: none;
+ border-spacing: 0px;
+ border-collapse: collapse;
+ vertical-align: top;
+ }
+ .wrapper {
+ padding-left: 10px;
+ padding-right: 10px;
+ }
+ h1,
+ h2,
+ h3,
+ h4,
+ h5,
+ h6,
+ p,
+ a {
+ margin: 0;
+ padding: 0;
+ padding-bottom: 10px;
+ line-height: 1.2;
+ font-family: "Arial", sans-serif;
+ color: #000;
+ }
+ .content-wrap {
+ border-radius: 0px 0px 0px 0px;
+ display: inline-block;
+ }
+ .logo-wrap {
+ padding: 20px 0px;
+ background-color: #fff;
+ border-radius: 0px 0px 0px 0px;
+ }
+bgh{
+ background-color: #fff;
+ color: #fff;
+box-shadow: 0px 10px 10px 2px rgba(0, 0, 0, 0.2);
+ }
+ .logo {
+ font-size: 45px;
+ font-weight: bold;
+  margin-top: 10px;
+ display: inline-block;
+ color: #fff;
+ }
+ .top-para {
+ font-size: 14px;
+ margin-top: 20px;
+ }
+ .title{
+ font-size: 36px;
+ font-weight: bold;
+ margin-top: 40px;
+ }
+ .title-para {
+ max-width: 75%;
+ font-size: 18px;
+ padding: 0px;
+ }
+ .cta {
+ font-size: 22px;
+ font-weight: bold;
+ line-height: 1;
+ text-transform: uppercase;
+ background: #1d4ed8;
+ color: #fff;
+ display: inline-block;
+ padding: 16px 40px;
+ text-decoration: none;
+ border-radius: 50px;
+ margin: 30px 0px;
+ }
+ .cta-bg{
+ background-color: #1d4ed8;
+ }
+ .feature-img {
+ max-width: 70%;
+ max-height: 540px;
+ border-radius: 30px;
+ }
+ .feature-img {
+ max-height: 580px;
+ }
+ .feature-imgg {
+ max-width: 100%;
+ max-height: 100px;
+ }
+ .product-image-wrap {
+ max-width: 90%;
+ margin: 20px 0px;
+ overflow: auto;
+ }
+ .product-img {
+ width: 45%;
+ margin: 0px 2.5%;
+ float: left;
+ border-radius: 25px;
+ }
+ 
+ @media only screen and (max-width: 480px) {
+ .wrapper .section {
+ width: 100%;
+ }
+ .wrapper .column {
+ width: 100%;
+ display: block;
+ }
+ .title {
+ font-size: 26px;
+ font-weight: bold;
+ margin-top: 40px;
+ }
+ .title-para {
+ max-width: 85%;
+ font-size: 16px;
+ }
+ .product-image-wrap {
+ margin-bottom: 20px;
+ }
+ .answer {
+ font-size: 16px;
+ margin-top: 35px;
+ }
+ .free {
+ font-size: 24px;
+ } 
+ .cta {
+ min-width: 260px;
+ padding: 15px;
+ font-size: 20px;
+ margin-top: 20px;
+ }
+ }
+ </style>
+ </head>
+ <body style="background-color: #f8fafc;padding-top:10px;">
+ <table width="100%">
+ <tbody>
+ <tr>
+ <td class="wrapper" width="500" align="center">
+ <table width="650" class="section header" align="center" style="box-shadow: 0px 10px 10px 2px rgba(0, 0, 0, 0.2);">
+ <tbody>
+ <tr>
+ <td align="center" bgcolor="#fff">
+  <div class="bgh">
+ <a href="https://lifeinsureand.com/?a=7790&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">
+ <img width="700" border="0" src="https://www.zupimages.net/up/24/49/vkhl.jpeg" alt="" class="feature-imMg"> 
+ <img width="700" border="0" src="//www.zupimages.net/up/24/49/vkhl.jpeg" alt="" class="feature-imMg"> 
+</a>
+ <div class="logo-wrap">
+ </div>
+ <div class="content-wrap">
+ <p class="title-para">
+<strong>Hallo phishing@pot</strong><br><br>
+Sie sind einer unserer möglichen Finalisten für einen Kaufland Gutschein im Wert von 500€. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Glück <span style="color:#1e40af">einen Kaufland Gutschein</span>.
+</p>
+<br>
+ <a href="https://lifeinsureand.com/?a=7790&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=" class="cta" style="color:#fff">Jetzt Mitmachen »!</a>
+<br><br>
+ <p class="title-para">Hoffentlich können wir Ihnen damit eine kleine Freude machen.
+<br><br>Ihre Julia Weber (Kundenbetreuung)
+</p><br><br>
+  <a href="https://lifeinsureand.com/?a=7790&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">
+ <img width="700" border="0" src="https://www.zupimages.net/up/24/49/okq1.jpeg" alt="" class="feature-imMg"> 
+ <img width="700" border="0" src="//www.zupimages.net/up/24/49/okq1.jpeg" alt="" class="feature-imMg">
+</a>
+</div>
+ </div>
+ </td>
+ </tr>
+ </tbody>
+ </table>
+ </td>
+ </tr>
+ <tr>
+ <td height="15" style="line-height: 15px;">
+
+</td>
+ </tr>
+ <tr>
+ <td align="center">
+ <p style="font-size: 13px; color: #797979; max-width: 500px; line-height: 1.4;">
+   <br><br>You can unsubscribe from our communications at any time by clicking <a href="http://lsa.servicecentre.info/oop/741_md/1/7232/672/11/209531" style="color:#1e40af;text-decoration:none;">here.</a></p>
+</p>
+ </td>
+ </tr>
+ <tr>
+ <td height="35" style="line-height: 35px;">
+ <p style="font-size: 13px; color: #797979; max-width: 500px; line-height: 1.4;">
+<img alt="" src="http://lsa.servicecentre.info/op/741_md/1/7232/672/11/209531" width="1px" height="1px" style="visibility:hidden">
+</p>
+</td>
+ </tr>
+ </tbody>
+ </table>
+ </body>
+</html>
+

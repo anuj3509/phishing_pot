@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fw: Salutations, Mr. poppet.",
+    "from": "M365-E5-Sec-TEST <M365-E5-Sec-TEST@poettke-heizung.de>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Wed, 4 Oct 2023 21:07:55 +0200",
+    "message_id": "<2d44c7bb-54d2-bfba-6c75-b6b29dbde455@poettke-heizung.de>",
+    "content_type": "multipart/alternative;\r\n boundary=\"------------OayFsl0N0csuoLGhVTinTFXB\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"------------OayFsl0N0csuoLGhVTinTFXB\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mjfashiongroup.com",
+      "gmail.com",
+      "mjfashiongroup.com&gt;",
+      "hotmail.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 437,
+    "html_length": 1279,
+    "has_text": true,
+    "has_html": true
+  }
+}

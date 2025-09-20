@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Retorno de Proposta.",
+    "from": "Marina Santos <contato@coteonlineplanodesaude.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 30 Mar 2024 18:58:21 +0000",
+    "message_id": "<010f018e90ba22e3-16a3b32b-44a6-4939-a86c-f54cb1c35366-000000@us-east-2.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"036D6415_36165381_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"036D6415_36165381_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 265,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

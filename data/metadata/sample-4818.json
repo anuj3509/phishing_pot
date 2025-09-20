@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "World Bank Payment Contract",
+    "from": "timesheet@seleccionconsulting.com",
+    "to": "Recipients <timesheet@seleccionconsulting.com>",
+    "date": "Sun, 2 Feb 2025 15:32:56 -0800",
+    "message_id": "<6c024b84-3899-4a81-a57f-2d917370332a@BL6PEPF0001AB4B.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1495441822==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1495441822==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "aol.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1079,
+    "html_length": 1187,
+    "has_text": true,
+    "has_html": true
+  }
+}

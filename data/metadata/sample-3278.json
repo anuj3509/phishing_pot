@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzliche Gl��ckw��nsche! Sie wurden ausgew��hlt!",
+    "from": "Nachricht von Edeka, <service@stayfriends.de.>, Nachricht von Edeka,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 May 2024 15:54:35 +0200",
+    "message_id": "<772ysgz.k1vpj.aje.aje@mbcpsekomzttpzw.bbf>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/55844/logo.png",
+      "eu1-us1.ckcdnassets.com/448/creatives/55844/logo.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/55844/shein.png",
+      "http://bauunternehmen-mayr.de//oop/9230_md/4049/24905/1398/281/76468",
+      "http://bauunternehmen-mayr.de//cl/9230_md/4049/24905/1398/281/76468",
+      "bgasdfasdfa.jpg",
+      "eu1-us1.ckcdnassets.com/448/creatives/55844/shein.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5085,
+    "html_length": 11409,
+    "has_text": true,
+    "has_html": true
+  }
+}

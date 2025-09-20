@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "ENC:  Resgate seus pontos livelos!",
+    "from": "Banco Bradesco S/A <notifications@pontoslivelosdesco-bia>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 27 Feb 2025 14:42:18 +0000",
+    "message_id": "<20250227144218.0DC79420A2@ubuntu-s-1vcpu-512mb-10gb-syd1-06>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/bancos_naoaut_sabermais.jpg",
+      "https://image.mail.pontolivelo.com.br/lib/fe3811737164047d751374/m/1/logo_livelo_pink.png",
+      "https://ibpcp-on.acess3-reparo-jpf.co.ua/servicos-produtos",
+      "https://banco.bradesco/cartoes/hotsitefidelidade/img/logo.png",
+      "hotmail.com",
+      "top.fixImageError(this,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 815,
+    "html_length": 15396,
+    "has_text": true,
+    "has_html": true
+  }
+}

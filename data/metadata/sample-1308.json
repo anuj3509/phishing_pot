@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Confirm Your Keys to Secure Your Wallet",
+    "from": "Secure Notification <support@jixjlvnv.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Sun, 10 Sep 2023 18:56:05 +0000",
+    "message_id": "<L65M0XLMD6N_64fe114539b5c_4e46a063080cd_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64fe1145684cb_4e46a0630813c\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64fe1145684cb_4e46a0630813c\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bing.com/ck/a?!&amp;&amp;p=4098e8cf30166369JmltdHM9MTY5NDMwNDAwMCZpZ3VpZD0zMTE3NDA3My0yMjkyLTZiZGYtMGE2YS01MWNmMjNkNDZhMTkmaW5zaWQ9NTM4NQ&amp;ptn=3&amp;hsh=3&amp;fclid=31174073-2292-6bdf-0a6a-51cf23d46a19&amp;psq=https%3a%2f%2fclincoordservices.org%2f&amp;u=a1aHR0cHM6Ly9jbGluY29vcmRzZXJ2aWNlcy5vcmcvYWJvdXQtdXMv&amp;ntb=1",
+      "https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=packagingaazz&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification",
+      "https://packagingaazz.zendesk.com/images/2016/default-avatar-80.png",
+      "hotmail.com",
+      "https://www.bing.com/ck/a?!&&p=4098e8cf30166369JmltdHM9MTY5NDMwNDAwMCZpZ3VpZD0zMTE3NDA3My0yMjkyLTZiZGYtMGE2YS01MWNmMjNkNDZhMTkmaW5zaWQ9NTM4NQ&ptn=3&hsh=3&fclid=31174073-2292-6bdf-0a6a-51cf23d46a19&psq=https%3a%2f%2fclincoordservices.org%2f&u=a1aHR0cHM6Ly9jbGluY29vcmRzZXJ2aWNlcy5vcmcvYWJvdXQtdXMv&ntb=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1452,
+    "html_length": 4732,
+    "has_text": true,
+    "has_html": true
+  }
+}

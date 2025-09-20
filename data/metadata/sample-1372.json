@@ -1,0 +1,57 @@
+{
+  "headers": {
+    "subject": "Action Required: Verify your Trust Wallet !",
+    "from": "Trust Wallet <ceremoniasdegraduacion.ln@ucv.edu.pe>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Sep 2023 20:44:09 -0300 (-03)",
+    "message_id": "<9dW-623dc75893-q@embluemail.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============7497994191982093583==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============7497994191982093583==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.embluemail.com/Confirm/PedidoDesuscripcion_ES.html?data=zZmNWIGG9zLaZsMp1w7CuRN5tCtXDp%2FMh%2BXStW%2BDc7iiYuuGXWVbXercBJ1bE75IYVfVFcvQd2CFyKVLarEYBA%3D%3D!-!tL7YKp/qWPM6syBQyIjZwn0willfbYw9ZFxFsSt4VC8qlUE/oT9fivFDL1wD8I+j",
+      "https://app.embluemail.com/Online/VON.aspx?data=9nrnUtpDnvl3Ez3PALSHBedeRSpuwTdJYeHOODDl8J9jM7iQ20yyzlYxCEO4CN0fLoY2RCedfnqA5NW8Q%2Fn1OuCvRXwxlY38J59jjA9y8t%2B6M86oGs1e%2B11yc2Rgp%2Fm4!-!tL7YKp/qWPM6syBQyIjZwn0willfbYw9ZFxFsSt4VC8qlUE/oT9fivFDL1wD8I+j",
+      "https://app.embluemail.com/Online/VON.aspx?data=y5JuPHwVRZ%2BwD%2BCBe9EupKvFXsEWPrBh%2FRxvkmvuuzHbeUySOpUPPkXf2aVCs7WtB9p7YceFjJ%2BMN%2FYWME8QEpcTi6mEcRuq4bM38aw3ooiJ4Jsf%2BG2M14mEoR%2FwVWqj!-!tL7YKp/qWPM6syBQyIjZwn0willfbYw9ZFxFsSt4VC8qlUE/oT9fivFDL1wD8I+j",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      ".slot-spacing.CENTER",
+      "https://app.embluemail.com/Services/Interaccion.svc/GetvCard?data=77603-25614",
+      "hotmail.com",
+      "img.not-resized",
+      "https://app.embluemail.com/Confirm/TermsAndConditions_ES.html?data=y5JuPHwVRZ%2BwD%2BCBe9EupKvFXsEWPrBh%2FRxvkmvuuzHbeUySOpUPPkXf2aVCs7WtB9p7YceFjJ%2BMN%2FYWME8QEpcTi6mEcRuq4bM38aw3ooiJ4Jsf%2BG2M14mEoR%2FwVWqj!-!6a9fl,6",
+      "https://i.embluejet.com/ImagenesMoxie/emblue/images/logo.jpg",
+      "https://nts.embluemail.com/p/cl?data=9%2FeCZ7Fm4E7iAmsPfNnc%2FLV9zZpMgWMG9Spz7VIAiGC9F4mBYClmwAu%2Bh%2BcHmknq2jHtNHbm0Ud%2FiEaaJDEhg6kKwIXtzryvolYhStr7bRU%3D!-!6a9fl,6!-!https%3A%2F%2Ftrustwallet.com%2Faccounts%2Fwallet-verification%3D42869Zvs4189275FZH9h19hksja57h5E2js0a71%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=flash%26utm_content=Trust+Wallet--Action+Required%3A+Verify+your+Trust+Wallet+%21%26utm_term=multiple--3--none--10-20--ENVIO+SIMPLE",
+      "https://trustwallet.com/accounts/wallet-verification=42869Zvs4189275FZH9h19hksja57h5E2js0a71",
+      ".slot.TWO_THIRDS",
+      "https://cdn.designer-images.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png",
+      ".component.text-component",
+      "http://embluemail.com/terminos-y-condiciones.html",
+      "ceremoniasdegraduacion.ln@ucv.edu.pe)",
+      ".slot.FULL",
+      "https://nts.embluemail.com/p/op?data=wmPs8958mAllsTB%2FsS51Ti%2Fu5jQed5X7EAAXy7p9O4vM0TUEHqKd7DY9ODu1%2FVkOWSzvi5z51B8542HHA2BcIg%3D%3D!-!6a9fl,6",
+      ".slot.ONE_FOURTH",
+      "https://moosendimages.imgix.net/62803dee-385e-30d1-854a-c1ebfb7dac77/11009e5636c84c7ca73040f5edab5441/hjhj.png?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=684",
+      "https://nts.embluemail.com/p/cl?data=LxbceUP7eXF%2Bi8wAjtjsl%2FB2PI8WWQcLh2zFVanDaKNno3%2FBf1AZ9nRocN9HJzqhYBI4cZY9N68%2Fr%2B04gDcCHecCkjRpbrVeDsVkvJ%2BJgoo%3D!-!6a9fl,6!-!https%3A%2F%2Fxtremedevelopers.com%2Fhome%2Frecover%2Fwallet%2F%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=flash%26utm_content=Trust+Wallet--Action+Required%3A+Verify+your+Trust+Wallet+%21%26utm_term=multiple--3--none--10-20--ENVIO+SIMPLE"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 465,
+    "html_length": 31612,
+    "has_text": true,
+    "has_html": true
+  }
+}

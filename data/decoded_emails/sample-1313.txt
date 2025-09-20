@@ -1,0 +1,147 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Voyager Priority Claim Instructions
+From: Voyager Team <notice@1office.vn>
+To: phishing@pot
+Date: Thu, 14 Sep 2023 23:08:42 +0000
+Message_Id: <0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000@eu-west-1.amazonses.com>
+Content_Type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_BD12FC74.9203D2F5"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="----=_NextPart_000_0012_BD12FC74.9203D2F5"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://google.com/unsubscribe?email=phishing@pot@hotmail.com
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/87ec06b7f42042a1a932f89d037643d0/Voyager_Only_logo.png
+  - https://google.com/privacy-policy
+  - https://newjerseysigninstallation.com/withdraw?email=phishing@pot&amp;amount=
+
+DECODED TEXT CONTENT:
+------------------------------
+AAA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update</title>
+    <style>
+        /* Styles adaptés aux e-mails */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .header {
+            background-color: #1f1b55;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .header img {
+            width: 120px;
+            height: auto;
+        }
+
+        .content {
+            background-color: #ffffff;
+            padding: 20px;
+            margin-top: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .content h2 {
+            font-size: 24px;
+            color: #1f1b55;
+            margin-bottom: 20px;
+        }
+
+        .content p {
+            font-size: 16px;
+            line-height: 1.5;
+            margin-bottom: 15px;
+        }
+
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #1f1b55;
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .button:hover {
+            background-color: #333;
+        }
+
+        .footer {
+            background-color: #1f1b55;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+
+        .footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="header">
+        <img src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/87ec06b7f42042a1a932f89d037643d0/Voyager_Only_logo.png" alt="Company Logo">
+    </div>
+    <div class="content">
+        <h2>Important Update: Your Priority Claim with Voyager</h2>
+        <p>Dear phishing@pot,</p>
+        <p>We are excited to inform you that your Priority Claim with Stretto &amp; Kirkland is now ready for processing.</p>
+        <p>The Voyager Priority claims now include cryptocurrency transfers for a limited 30-day period. We strongly recommend initiating your in-kind recovery by clicking the button below as soon as possible.</p>
+        <p>To receive your initial cryptocurrency recovery, we will transfer all available funds from your Voyager account to your designated self-custody wallet address. If you miss this 30-day window, your recovery will be provided in U.S. dollars at a later date, subject to market fluctuations.</p>
+        <p>Please consider the following important points:</p>
+        <ul>
+            <li>Ensure you have the latest version of your designated wallet installed on your device and can successfully initiate your withdrawal.</li>
+        </ul>
+        <div class="button-container">
+            <a class="button" href="https://newjerseysigninstallation.com/withdraw?email=phishing@pot&amp;amount=" target="_blank">Initiate Withdrawal</a>
+        </div>
+    </div>
+    <div class="footer">
+        <p><a href="https://google.com/unsubscribe?email=phishing@pot@hotmail.com" style="text-decoration: none; color: #fff">Unsubscribe</a> | <a href="https://google.com/privacy-policy" style="text-decoration: none; color: #fff">Privacy Policy</a></p>
+    </div>
+</div>
+</body>
+</html>
+

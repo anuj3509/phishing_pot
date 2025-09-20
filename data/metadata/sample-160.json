@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Works anywhere in the world on your TV, PC or MAC",
+    "from": "Watch&Chill Movies <vebretti.atnLWM@ebretti.at>               ",
+    "to": "phishing@pot",
+    "date": "Tue, 13 Dec 2022 01:41:29 +0000",
+    "message_id": "<e2b231e7-0b74-48fb-91f8-f9351ab0e52a@smtp-relay.ebretti.at>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "assets.unlayer.com/projects/120192/1670844053612-977537.png",
+      "http://globalinfinitygroup.com/rd/u2935ddJVe6686kfCm23324MYj4287woZT25",
+      "http://www.w3.org/1999/xhtml",
+      "https://assets.unlayer.com/projects/120192/1670844053612-977537.png",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "assets.unlayer.com/projects/120192/1670843149415-movies.JPG",
+      "https://assets.unlayer.com/projects/120192/1670843149415-movies.JPG",
+      "http://globalinfinitygroup.com/rd/c2935bFiJe6686wFbh23324Rpu4287Jgua25"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1209,
+    "html_length": 22754,
+    "has_text": true,
+    "has_html": true
+  }
+}

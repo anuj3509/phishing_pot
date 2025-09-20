@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Classic Toys] Login Details
+From: WordPress <wordpress@classictoys.uk>
+To: phishing@pot
+Date: Wed, 18 Jun 2025 00:40:07 +0000
+Message_Id: <NGBM1kA2fSzPyyD1sxtdr7IBK0F1AvINpkukzZ2bJw@classictoys.uk>
+Content_Type: text/plain; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://classictoys.uk/wp-login.php
+  - www.gdsbsd.blogspot.sn
+  - https://classictoys.uk/wp-login.php?login=www.gdsbsd.blogspot.sn%20-%201.398%20BTC%20BINANCE&key=W7ujkQ7nwerP8XR8scet&action=rp
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.gdsbsd.blogspot.sn - 1.398 BTC BINANCE
+
+To set your password, visit the following address:
+
+https://classictoys.uk/wp-login.php?login=www.gdsbsd.blogspot.sn%20-%201.398%20BTC%20BINANCE&key=W7ujkQ7nwerP8XR8scet&action=rp
+
+https://classictoys.uk/wp-login.php
+
+
+

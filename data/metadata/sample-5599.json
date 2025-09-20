@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 9745962121",
+    "from": "Status Entrega - Correios <no-9405-reply@%Encomenda.online>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 25 Jun 2025 13:23:19 +0000",
+    "message_id": "<20250625132319.3D4EE3F470@vmmarlenesawyeerxxxkfkzu4gp4z>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wwewytf9745962121abhr.wegwe32dwfs.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2230,
+    "html_length": 4187,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Sua encomenda sera leiloada pela Receita Federal em 3 dias.\n  Encomenda:300043000.",
+    "from": "Correios <corr@263665.fornex.cloud>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Sun, 01 Jun 2025 01:42:23 +0000",
+    "message_id": "<20250601014223.479FA460C3@263665.fornex.cloud>",
+    "content_type": "multipart/mixed;boundary=---------------------dbf2f4f0707e8772ed79fa8704c0aadc"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------dbf2f4f0707e8772ed79fa8704c0aadc"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://enviossarko.kyiv.ua"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 952,
+    "html_length": 2491,
+    "has_text": true,
+    "has_html": true
+  }
+}

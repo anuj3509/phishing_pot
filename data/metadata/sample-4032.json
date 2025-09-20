@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "A Sua transferência via pix está em análise!  57427 Data: 09/09/2024",
+    "from": "\"Aviso:Nubank\" <contato@marcosafonso.com.br>",
+    "to": "maridallastra@gmail.com",
+    "date": "9 Sep 2024 00:27:40 -0300",
+    "message_id": "<66de6b32.650a0220.1dbc64.8f8aSMTPIN_ADDED_BROKEN@mx.google.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap",
+      "https://fonts.googleapis.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 771,
+    "html_length": 2141,
+    "has_text": true,
+    "has_html": true
+  }
+}

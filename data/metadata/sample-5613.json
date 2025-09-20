@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot ADAC-Jubil��um mit einem Auto-Notfallset feiern   90666",
+    "from": "ADAC<migo0004-----R100@smkn1purwosari.sch.id>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 05 Jun 2025 16:07:48 +0000",
+    "message_id": "<zbcpsziho8lwhbu6n49h-EBEB2522C8@musicandfriends.org>",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://santy.mounting.kesug.com/track/o5927ZsBYM8382690qQKo84217wGN1026708YLGo529",
+      "https://musicandfriends.com/Order%20descriptions.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://www.youtube.com/@musicandfriends?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "http://santy.mounting.kesug.com/rd/c5927MxrGv8382690XGhW84217zAS1026708cgfo529",
+      "https://www.musicandfriends.com/?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "online.no",
+      "upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ADAC-Logo.svg/2045px-ADAC-Logo.svg.png",
+      "https://youtu.be/8Qoe3yqPJlU?si=tDrkK9lQbEqc9GoN&utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=.",
+      "https://www.facebook.com/musicfeste?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://musicandfriends.com/newsletter.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "musicandfriends.org",
+      "https://musicandfriends.com/events%20choirs.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=.",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/ADAC-Logo.svg/2045px-ADAC-Logo.svg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2659,
+    "html_length": 3366,
+    "has_text": true,
+    "has_html": true
+  }
+}

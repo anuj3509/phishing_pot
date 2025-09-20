@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie einen Rewe-Gutschein im Wert von 500 Euro!",
+    "from": "GRATIS UND OHNE BEDINGUNGEN!, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Sep 2023 22:18:34 +0200",
+    "message_id": "\r\n <69b7eca7-71f4-4f7f-90eb-93e7594343bd@VI1EUR06FT045.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://144.172.64.113/media/b5f15c10caf06fb.jpg",
+      "studylink.com",
+      "http://144.172.64.113/op/196_md/2010/21/689/3/315429",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "https://ergo.de/user/verify/6kOkXpqUomrzMCdSd7fWsCuMduf29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://144.172.64.113/media/e524c56b492bbc0.jpg",
+      "http://144.172.64.113/oop/196_md/2010/21/689/3/315429",
+      "www.ONCF-Voyages.ma",
+      "http://144.172.64.113/media/9ebf22c0cf5cbc7.jpg",
+      "surwww.oncf-voyages.ma",
+      "http://144.172.64.113/cl/196_md/2010/21/689/3/315429"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5927,
+    "html_length": 11215,
+    "has_text": true,
+    "has_html": true
+  }
+}

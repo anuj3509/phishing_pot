@@ -1,0 +1,64 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Rodrigo, seu plano de saúde foi reajustado ?
+From: "Daiane Santos - Corretora" <daiane@e.seguro-autoo.com>
+To: phishing@pot
+Date: Sat, 20 May 2023 07:15:32 -0300
+Message_Id: 
+ <79f98a45-df69-4dba-a7f6-4efdad5a9cb1@VI1EUR06FT042.eop-eur06.prod.protection.outlook.com>
+Content_Type: Multipart/alternative; boundary="018EBFF0_664FB3BB_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="018EBFF0_664FB3BB_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://zd-d.seguro-autoo.com/oimg.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339
+  - https://zd-d.seguro-autoo.com/rem.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339
+  - https://zd-d.seguro-autoo.com/lnk.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339
+
+DECODED TEXT CONTENT:
+------------------------------
+body{margin:0;padding:0;} Proposta de redução de até 40%* no valor do seu plano de saúde com a Amil &nbsp; Rodrigo tudo bem? Tenho uma cotação exclusiva por tempo limitado para você! Economize até * 40% no valor do seu plano mudando para a Amil Saúde . O plano que você sempre sonhou, com uma condição especial que cabe no seu bolso. Faça agora uma simulação online e sem compromisso. Simular sem compromisso &nbsp; &nbsp; Caso não queira mais receber a newsletter, clique aqui. &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">body{margin:0;padding:0;}</style>
+</head>
+<body>
+<div style="display: none !important; padding: 0; height: 1px; font-size: 1px; background-color: inherit !important; opacity: 0; color: transparent; mso-line-height-rule: exactly; line-height: 1px; mso-hide: all;">Proposta de redução de até 40%* no valor do seu plano de saúde com a Amil
+<div style="display: none; max-height: 0px; overflow: hidden;">&nbsp;</div>
+</div>
+<p><span style="font-size: small;">Rodrigo tudo bem?<br></span></p>
+<p><span style="font-size: small;">Tenho uma cotação exclusiva por tempo limitado para você!<br><br><strong>Economize até </strong></span><span style="font-size: small;"><strong><span style="font-size: small;"><strong>*</strong></span>40% no valor do seu plano mudando para a Amil Saúde</strong>.<br><br>O plano que você sempre sonhou, com uma condição especial que cabe no seu bolso.<br>Faça agora uma simulação online e sem compromisso.<br><br><br></span></p>
+<table style="margin-left: auto; margin-right: auto;" border="0" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td>
+<table class="mcnButtonContentContainer" style="border-collapse: separate !important; border-radius: 4px; background-color: #2baadf;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td class="mcnButtonContent" style="font-family: Arial; font-size: 12px; padding: 11px;" valign="middle"><a class="mcnButton " style="font-weight: bold; letter-spacing: normal; line-height: 100%; text-align: center; text-decoration: none; color: #ffffff;" title="Simule Aqui" href="https://zd-d.seguro-autoo.com/lnk.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339" target="_blank" rel="noopener">Simular sem compromisso</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-size: small;"><br><br></span></p>
+<p><span style="font-size: small;">Caso não queira mais receber a newsletter, <a href="https://zd-d.seguro-autoo.com/rem.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339" target="_blank" rel="noopener">clique aqui.</a></span></p>
+<p>&nbsp;</p>
+</body>
+<img src="https://zd-d.seguro-autoo.com/oimg.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339" width="1" height="1" border="0" alt=""></html>

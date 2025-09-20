@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Memecoin by Memeland ($MEME) Airdrop",
+    "from": "MemeCoin<alma@scopy.hu>",
+    "to": "phishing@pot",
+    "date": "31 Oct 2023 16:06:40 +0000",
+    "message_id": "<20231031160640.73C35970D3DD64C4@scopy.hu>",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_E8DADDF5.AAE3DFB8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_E8DADDF5.AAE3DFB8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnZKveRhf6Xl7Glw.woff2)",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnMK7eQhf6Xl7Gl3LX.woff2)",
+      "f30sbjlwiaer0u6.jpglarge",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnZKveQhf6Xl7Gl3LX.woff2)",
+      "https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvl4jLazX3dA.woff2)",
+      "http://www.w3.org/1999/xhtml",
+      "https://as-media.rs/wp-include",
+      "https://fonts.gstatic.com/s/firasans/v8/va9E4kDNxMZdWfMOD5Vvk4jLazX3dGTP.woff2)",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnLK3eQhf6Xl7Gl3LX.woff2)",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnMK7eRhf6Xl7Glw.woff2)",
+      "http://example.com",
+      "https://fonts.gstatic.com/s/firasans/v8/va9B4kDNxMZdWfMOD5VnLK3eRhf6Xl7Glw.woff2)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7682,
+    "html_length": 27716,
+    "has_text": true,
+    "has_html": true
+  }
+}

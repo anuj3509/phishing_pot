@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your account has been flagged for unusual activity",
+    "from": "Outlook Support Team <social201712399@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Oct 2023 00:02:23 -0900",
+    "message_id": "<4vAC7cqj1SaNSLTCz5l2rWHlxhQGUknSjcLNXIzY@s2>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "unusual activity"
+    ],
+    "urls": [
+      "https://carterjones1192.clickfunnels.com/optin3z57vedd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 972,
+    "html_length": 18868,
+    "has_text": true,
+    "has_html": true
+  }
+}

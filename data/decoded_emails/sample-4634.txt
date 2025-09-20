@@ -1,0 +1,147 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Atenção: Sua encomenda foi taxada! Protocolo: 35192047.
+From: Entrega Correios <alfandega953419@correios>
+To: phishing@pot
+Date: Tue, 24 Dec 2024 23:36:35 +0000
+Message_Id: <91044f91f2fb322dc04c3182629f7dff@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_91044f91f2fb322dc04c3182629f7dff"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_91044f91f2fb322dc04c3182629f7dff"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://rastreiofiscaliza.com/
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Encomenda Retida - Correios</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #014169; /* Azul Correios */
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        .header img {
+            width: 120px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            font-size: 26px;
+            margin: 0;
+        }
+        .content {
+            padding: 30px;
+            text-align: center;
+            color: #333;
+        }
+        .content h2 {
+            font-size: 22px;
+            color: #014169;
+            margin-bottom: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        .content .tracking-info {
+            background-color: #FFCC00; /* Amarelo Correios */
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #0033A0;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content .tracking-info p {
+            margin: 0;
+        }
+        .content .deadline {
+            background-color: #eaf1f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #014169;
+            font-size: 16px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #014169;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #012f51;
+        }
+        .footer {
+            background-color: #FFCC00; /* Amarelo Correios */
+            color: #0033A0;
+            padding: 15px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Notificação de Encomenda Retida</h1>
+        </div>
+        <div class="content">
+            <h2>Prezado(a) rodrigo-f-p@hotmail.com</h2>
+            <p>Sua encomenda encontra-se temporariamente retida devido à necessidade de pagamento dos tributos exigidos pelo órgão responsável pela fiscalização.</p>
+			<p>Para evitar atrasos ou até mesmo a devolução da encomenda ao remetente, é <b>essencial</b> que o pagamento seja efetuado <b>o quanto antes</b>.</p>
+			<p>Clique no botão abaixo para acessar os detalhes e realizar o pagamento necessário e assim que o pagamento for confirmado, daremos continuidade à entrega do seu pedido com prioridade.</p>
+			<p>Agradecemos pela sua compreensão e estamos à disposição para ajudar.</p>
+            <div class="">               
+            </div>
+            <a href="https://rastreiofiscaliza.com/" class="button">Acompanhar Encomenda</a>
+        </div>
+        <div class="footer">
+            <p>© 2024 Correios - Todos os direitos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
+

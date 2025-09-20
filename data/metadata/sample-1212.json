@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Fwd: Suspension Notification . Thursday August 24 2023.\r\n Supp-UW4JPMXZGR3GABR.",
+    "from": "MARIANA BS <mah_buhrer@hotmail.com>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Fri, 25 Aug 2023 07:31:18 +0000",
+    "message_id": "\r\n <SN4PR0601MB86654D41D92AF87E33498D97EEE3A@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86654D41D92AF87E33498D97EEE3ASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86654D41D92AF87E33498D97EEE3ASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "CaseAMZ-977452ZXFAP.pdf",
+      "content_type": "application/pdf",
+      "size": 183241
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "amazon.com",
+      "https://aka.ms/AAb9ysg",
+      "jordan-best.com&gt;",
+      "amazon.com&gt;",
+      "jordan-best.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 456,
+    "html_length": 923,
+    "has_text": true,
+    "has_html": true
+  }
+}

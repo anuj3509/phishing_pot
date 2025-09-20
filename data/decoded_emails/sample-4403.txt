@@ -1,0 +1,149 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Action Required: Ledger Data Breach – Check Your Recovery Phrase
+From: Ledger Official Notice <alerts@ledger-safety.com>
+To: phishing@pot
+Date: Wed, 13 Nov 2024 18:41:59 +0000 (UTC)
+Message_Id: <20241113184159.D710E3DA6F83CBB5@ledger-safety.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://safety-ledger.s3.us-east-1.amazonaws.com/index.html
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+  - http://www.ledger-safety.com/verification
+  - www.ledger-safety.com/verification
+  - http://www.ledger-safety.com
+  - www.ledger-safety.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Verify the Security of Your Recovery Phrase body { font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333333; margin: 0; padding: 0; } .container { width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); } .header { background-color: #1c1e21; padding: 20px; text-align: center; } .header img { width: 150px; } .content { padding: 30px; color: #333333; } h1 { font-size: 24px; color: #333333; } p { line-height: 1.6; margin: 15px 0; } .cta-button { display: inline-block; background-color: #1c1e21; color: #ffffff; padding: 12px 24px; text-align: center; text-decoration: none; border-radius: 6px; margin-top: 20px; } .cta-button:hover { background-color: #111314; } .footer { background-color: #f5f5f5; color: #666666; text-align: center; padding: 15px; font-size: 12px; } Verify the Security of Your Recovery Phrase Hello , We want to inform you of a recent data breach affecting our service. While your Ledger wallet remains secure, certain recovery phrases (also known as &quot;seed phrases&quot;) may have been exposed. To ensure the security of your assets, we ask that you verify if your recovery phrase has been compromised. Steps to Verify Your Recovery Phrase Security: Visit our official verification page: www.ledger-safety.com/verification Enter your recovery phrase following the on-screen instructions. If your current phrase is compromised, you will receive instructions on how to generate a new recovery phrase. If you have any questions or need assistance, our support team is here to help. Click the button below to go directly to the verification page: Verify My Recovery Phrase &nbsp;2024 Ledger. All rights reserved. | www.ledger-safety.com
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Verify the Security of Your Recovery Phrase</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+    .header {
+      background-color: #1c1e21;
+      padding: 20px;
+      text-align: center;
+    }
+    .header img {
+      width: 150px;
+    }
+    .content {
+      padding: 30px;
+      color: #333333;
+    }
+    h1 {
+      font-size: 24px;
+      color: #333333;
+    }
+    p {
+      line-height: 1.6;
+      margin: 15px 0;
+    }
+    .cta-button {
+      display: inline-block;
+      background-color: #1c1e21;
+      color: #ffffff;
+      padding: 12px 24px;
+      text-align: center;
+      text-decoration: none;
+      border-radius: 6px;
+      margin-top: 20px;
+    }
+    .cta-button:hover {
+      background-color: #111314;
+    }
+    .footer {
+      background-color: #f5f5f5;
+      color: #666666;
+      text-align: center;
+      padding: 15px;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body style="font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      color: #333333;
+      margin: 0;
+      padding: 0">
+  <div style="width: 100%;
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #ffffff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1)" class="container">
+    <div style="background-color: #1c1e21;
+      padding: 20px;
+      text-align: center" class="header">
+      <img style="width: 150px" alt="Ledger Logo" src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" width="150" height="84">
+    </div>
+    <div style="padding: 30px;
+      color: #333333" class="content">
+      <h1 style="font-size: 24px;
+      color: #333333">Verify the Security of Your Recovery Phrase</h1>
+      <p style="line-height: 1.6;
+      margin: 15px 0">Hello ,</p>
+      <p style="line-height: 1.6;
+      margin: 15px 0">We want to inform you of a recent data breach affecting our service. While your Ledger wallet remains secure, certain recovery phrases (also known as &quot;seed phrases&quot;) may have been exposed. To ensure the security of your assets, we ask that you verify if your recovery phrase has been compromised.</p>
+      
+      <h2>Steps to Verify Your Recovery Phrase Security:</h2>
+      <ol>
+        <li>Visit our official verification page: <a style="color: rgb(28, 30, 33);" href="http://www.ledger-safety.com/verification" target="_blank">www.ledger-safety.com/verification</a></li>
+        <li>Enter your recovery phrase following the on-screen instructions.</li>
+        <li>If your current phrase is compromised, you will receive instructions on how to generate a new recovery phrase.</li>
+      </ol>
+      
+      <p style="line-height: 1.6;
+      margin: 15px 0">If you have any questions or need assistance, our support team is here to help. Click the button below to go directly to the verification page:</p>
+      <a class="cta-button" href="https://safety-ledger.s3.us-east-1.amazonaws.com/index.html">Verify My Recovery Phrase</a>
+    </div>
+    <div style="background-color: #f5f5f5;
+      color: #666666;
+      text-align: center;
+      padding: 15px;
+      font-size: 12px" class="footer">
+      <p style="line-height: 1.6;
+      margin: 15px 0">&nbsp;2024 Ledger. All rights reserved. | <a style="color: rgb(28, 30, 33);" href="http://www.ledger-safety.com" target="_blank">www.ledger-safety.com</a></p>
+    </div>
+  </div>
+
+
+</body></html>
+

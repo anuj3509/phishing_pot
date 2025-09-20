@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Firmware Update: Security Incident",
+    "from": "John from Ledger <insights@oxygen-finance.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 6 Jul 2025 23:05:15 +0000",
+    "message_id": "<wmxc6W4VTNicZnHzbyxjzQ@geopod-ismtpd-27>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://lnk.oxygen-finance.com/ls/click?upn=u001.z-2Bo0SLa8VwxZPTWbPbImuVwn25Km13WWWNIQhJwJauHCrC-2BmFl7mdFE9jV-2FPdBZ9SbftMuVlLQfCboCOlv3q5A3LluiCvJdy0MmgI-2B4S-2B-2BLeMGGnoJ5oi0qmURyzQiADlEJg9g-2Ba944gxrX5FhCdV2zRpBVR0NKpG6gh7AIUeFHVPQKhgINAWWnYQo3IDG3DDYl6vio0-2BJ9kRVJM7yJS6RGeyoeZSBjGTaKSJS2oToBSwJmgbQak7sSry2C-2Fc2ovuqKYgsZRgDGpLRK8C3Na5ae4OHXhqOy2K3V8V3PNOnCSqgAJ2Sn1KO5Ve37hAdQeZHUx2ONJpWP1dwxE-2FmFdOK13SLEkAh3AE5dCRTm2oNHDQqNqOtZrJaW7daUTe-2BBQn44IWJR34Nc7BVOLoqAJKImRazgaouIZ2uwQ4ZlA7hq9qXWY-2F77cFYHRGNeA41CxeBN9jlS1e8UZG2NOOXCVj9TNoHVhxM4HG4RZeXtrhH4WhTtvjM6NhTKJIOHqwfItRj8bFHyzhsouCuNt9TK-2F3w-3D-3D3JIH_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvE68j4xLwdrBe1dpRNOkfrbMH7DQk0ez-2FE6PG4tcdr08hugkGJYDbL7yau2c48sQQWFXx4t5xZagKElAXkd3qgLcswEK9g5mO1Vd9FOZGrJ-2B0s19jOpmwodL-2BiExyeTG5vlMVqirhE5eXznHFwWCy2VogV-2FvdSB1-2BHdoZrh2vcEg-3D-3D",
+      "http://lnk.oxygen-finance.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUoYwnvXcK2T2RqkYNnkMW8WHGbny1X5xSzula9Sk-2FxbPk294zfMu4FL4mapviaCTwKYjCfYVA4B8T8D8rO44AKD343Rw4Eg3-2F-2F0RoLFg-2B31hKn6oMlHWG3wtPqrgqGmUENXDLKg8-2FqJ4NV8JPmHUZR8gVgXartrCHEkJwN0YEQi7UtDkIpVkSYVPzASLbJ0FQ-3D",
+      "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=2,quality=75,width=800,height=267.72220223101834/editor-images/m4/5f8e641a-e506-4b90-bf54-f1b06674a67b"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1782,
+    "html_length": 4820,
+    "has_text": true,
+    "has_html": true
+  }
+}

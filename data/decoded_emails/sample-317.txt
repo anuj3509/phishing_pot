@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Fwd: It's Your Lucky Day!
+From: phish@pot <phish@pot>
+To: "phish.me.again@gmail.com" <phish.me.again@gmail.com>
+Date: Mon, 13 Feb 2023 10:09:47 -0600
+Message_Id: <CAHq_4Ws7k=W4LHFct9P+YN4oRBSuWxhg6vmo=VPQhLB0sPSZjg@mail.gmail.com>
+Content_Type: multipart/alternative; boundary="0000000000006fe0e705f4971460"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="0000000000006fe0e705f4971460"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gycia.uy
+
+DECODED TEXT CONTENT:
+------------------------------
+---------- Forwarded message ---------
+From: e-mail <re@gycia.uy>
+Date: Mon, Feb 13, 2023 at 10:07 AM
+Subject: It's Your Lucky Day!
+To: Recipients <re@gycia.uy>
+
+
+
+
+My name is Mrs. Mavis, I donated to 5 random emails. Your email was
+selected from the spin ball.
+
+Donation number: YU809124
+
+Make sure you reply with your donation number.
+
+I'm Mrs. Mavis Wanczyk. The Mega Millions jackpot winners.
+
+Thank You.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr"><br><br><div class="gmail_quote"><div dir="ltr" class="gmail_attr">---------- Forwarded message ---------<br>From: <b class="gmail_sendername" dir="auto">e-mail</b> <span dir="auto">&lt;<a href="mailto:re@gycia.uy">re@gycia.uy</a>&gt;</span><br>Date: Mon, Feb 13, 2023 at 10:07 AM<br>Subject: It's Your Lucky Day!<br>To: Recipients &lt;<a href="mailto:re@gycia.uy">re@gycia.uy</a>&gt;<br></div><br><br><br>
+<br>
+My name is Mrs. Mavis, I donated to 5 random emails. Your email was selected from the spin ball.<br>
+<br>
+Donation number: YU809124<br>
+<br>
+Make sure you reply with your donation number. <br>
+<br>
+I'm Mrs. Mavis Wanczyk. The Mega Millions jackpot winners.<br>
+<br>
+Thank You.<br>
+</div></div>
+

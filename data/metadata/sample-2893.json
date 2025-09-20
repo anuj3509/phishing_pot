@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Tu cuenta de Netflix ha expirado.",
+    "from": "\"N.E.T.F.L.I.X\" ,JWK <admission@luc.edu>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Feb 2024 08:07:52 -0500 (EST)",
+    "message_id": "\r\n <8220e538-a84a-4cca-9b20-a3dc1300a2e5@DB5EUR01FT105.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/Ob7jp13.png",
+      "i.imgur.com/nsEVuj4.png",
+      "i.imgur.com/Ob7jp13.png",
+      "https://i.imgur.com/ODqsO0C.png",
+      "https://i.imgur.com/nsEVuj4.png",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzgyoxTFJWFzq2KmfLrigGqiBP596e5rP6ORdNsy1-Nh9it0lA6m-2xqjR0Z0-yHbxdOWByKlvP60fwkf8Nt96Inm16djVB9nbgRUEyK763qJj5sEpIdhJoEh6QddOgEvlw7jGLFr5F8ElptSGRdXfdognQ==",
+      "http://libre.ing.unlp.edu.ar/9mrSc4Vu.kdja?gAAAAABlzgyoj0wIpnl_5hJTB3EKDwumuAmHbIqNjCIkdhx5bs5YtZb_kt6dSZ41LW_B4dOQzWPYdSaIJuUYO4AkWJK8_yBrjIcdWO-Xq0XIrV32dMr_xlztVACsXpZSBqDaFLIEsnqS7i2KgBZwo7TKALLOnbqhlw====",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzgyo3te_rjiCmOgTy0d4VDWbqHbNJ6uc4gyJwNQj2kadVrv31CAcADM4_e8lmm6U6lJHBjqPZHnjELWlgo_Z7CF55inY3WUS8RRqwJAWvhUrFk8AIGfqGkJ6Li1-O3luijgLZpEe7P8LXu_7JMm90-cFGA==",
+      "i.imgur.com/ODqsO0C.png",
+      "http://libre.ing.unlp.edu.ar/r60ff.php?gAAAAABlzgyoUH9Bhg6Qv7vK_5UJLHiVSdxjfaynG1zrbq2J7vK1Jq6BhqIeJepLeZLOsId5LPXR7r8z1OJbZlzGMnAF89CB-X356Ic7QogoCyG-XSbeo6E4KyLibLd6QiMV2dzFLMIyTDNGhUxDatV7LG7TD6bpOg=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2500,
+    "has_text": false,
+    "has_html": true
+  }
+}

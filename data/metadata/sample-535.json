@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Sua VIVO Fatura Chegou",
+    "from": "Vivo <vivo@vivo.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 31 Mar 2023 16:29:59 +0000 (UTC)",
+    "message_id": "09a5101beced1e12120506a8c2c420a7|vivo@vivo.com.br",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://img.relacionamentovivo.com.br/images/telefonica.png",
+      "vivo.com.br",
+      "http://45.42.160.27/acesso/c.pdf",
+      "https://relacionamentovivo.com.br/iqdirect/controle2/?link_id=1417382&amp;tipo=I&amp;ev=17105",
+      "http://img.relacionamentovivo.com.br/images/logo_purpurav.png",
+      "http://img.relacionamentovivo.com.br/images/_pixel.png",
+      "http://www.vivoregularizafacil.com.br",
+      "http://img.relacionamentovivo.com.br/images/vivatudo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1212,
+    "html_length": 10447,
+    "has_text": true,
+    "has_html": true
+  }
+}

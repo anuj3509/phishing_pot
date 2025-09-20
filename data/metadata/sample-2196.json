@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Urgent Energy Alert!",
+    "from": "Elon's Energy <creter@localfoodng.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Dec 2023 19:11:11 +0000",
+    "message_id": "\r\n <SG2PR02MB57005260D79DCE8E08936241C48EA@SG2PR02MB5700.apcprd02.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============7988866851462499620==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============7988866851462499620==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.nowmusic.com",
+      "https://d3uhproeag4glo.cloudfront.net/social-icons/white/instagram.png",
+      "https://twitter.com/NOWMusic",
+      "https://lauraclute.com/lch/sdfaqwerem?email=rodrigo-f-p@hotmail.com",
+      "https://www.youtube.com/nowmusic",
+      "https://d3uhproeag4glo.cloudfront.net/social-icons/white/youtube.png",
+      "https://lauraclute.com/lch/trkaslwe?email=rodrigo-f-p@hotmail.com",
+      "https://www.instagram.com/nowmusic/",
+      "https://www.facebook.com/nowmusic/",
+      "https://nowmusic.com/",
+      "table.center-on-narrow",
+      "https://d3uhproeag4glo.cloudfront.net/social-icons/white/twitter.png",
+      "old.png",
+      "https://d3uhproeag4glo.cloudfront.net/social-icons/white/facebook.png",
+      "https://lauraclute.com/lch/emuswopqw.PNG",
+      "https://nowmusic-crm.com/vv/preference/confirm/21666/0a16d0803fad",
+      "https://d3uhproeag4glo.cloudfront.net/keystone-uploads/cld8r5dnk00n090qqffwk0byo-NOW",
+      "nowmusic-crm.com",
+      "www.nowmusic.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1954,
+    "html_length": 12928,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hi",
+    "from": "Mr.Robert P.Storch <2027@live.com>",
+    "to": "Recipients <2027@live.com>",
+    "date": "Tue, 17 Dec 2024 05:36:51 -0800",
+    "message_id": "<444bf373-e41a-46d6-ae67-7518e99c0f09@VSDC010026P.kemenkeu.go.id>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 699,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

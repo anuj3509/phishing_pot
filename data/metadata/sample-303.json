@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "URGENT RESPONSE",
+    "from": "\"PAUL HILTON\" <PaulHilton@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 8 Feb 2023 06:48:29 -0800",
+    "message_id": "\r\n <1ebf040c-d2c5-42fe-af68-3800c4a4f1b7@BN7NAM10FT082.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/plain; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 559,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

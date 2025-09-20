@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Troque seus pontos por milhas a��reas Descontos de at�� 35% na fatura do cart��o ",
+    "from": "Bradesco S/A <no-reply@pontosliveloacumulados.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed,  2 Aug 2023 18:30:47 +0000 (UTC)",
+    "message_id": "<20230802183047.ED75620A25@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "http://188.106.205.92.host.secureserver.net/.SeusPontos/?hash=rodrigo-f-p@hotmail.com",
+      "icone-superior.png",
+      "header.png",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 636,
+    "html_length": 4653,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,195 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: "���� Auf Ihrem Ger��t wurden mehrere Viren erkannt!"
+From: Microsoft-support <noreply@kaufland-online.de>
+To: <phishing@pot>
+Date: Wed, 19 Mar 2025 18:05:07 +0000
+Message_Id: <qs01xuo.y2s425i.m68qrw3@747721uz0u4diifyg.namprd04.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: security alert
+URLs found:
+  - https://akorganizing.net/4VGzmp293igYv6fhrvzktzrs14KPOTIPSUHKZLKYT47634DCEW738D4
+  - https://akorganizing.net/4onnCL293NmOu6urdpzvtvhj14IAEYZPMTHOWBSZK47634HHKJ738h4
+  - Backdoor.sd
+  - Hoax.Renos.HX
+  - https://akorganizing.net/4eryVr293EgeU6eapffquhht14GQLNSFQQYIOCBWR47634BIAE738b4
+  - imgur.com/6YmcK7i.png
+  - Look2me.ab
+  - Adware.Generic
+  - https://akorganizing.net/4vGyrp293jhrA6pqqyxewlws14XQNULMXEKBCNJUL47634DZMN738s4
+  - https://akorganizing.net/4kqLXU293KeOr6sypdyvuvsq14DLMIORNVIQHQXXB47634WRSD738u4
+  - https://akorganizing.net/track/2zuZow293DrRX6fbslibwoxj14DFQDFVYKRLEURRN47634QWOU738f4
+  - https://akorganizing.net/1DzUNk293VcKE6eskgynlspj14YTZEJYMSQSYZMMN47634GLVZ738e4
+  - https://akorganizing.net/3MczbE293UAAx6davinhlubt14NDNUGBCLQZKKBDE47634KCOQ738O4
+  - https://imgur.com/6YmcK7i.png
+  - https://akorganizing.net/4oKApm293ddHo6bpflxmctzg14SPFZWEURFDEJKID47634AHML738J4
+  - https://akorganizing.net/4pPbGf293xVVp6oubimngnns14EASQFUPNJVFZWBT47634LWYX738X4
+
+DECODED TEXT CONTENT:
+------------------------------
+Security Alert body { font-family: 'Segoe UI', 'Helvetica Neue', sans-serif; font-size: 10pt; color: #34495e; background-color: #f6f6f6; margin: 0; padding: 0; } .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border: 1px solid #e1e1e1; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden; } .header { text-align: center; background-color: #ffffff; padding: 20px; color: white; } .header img { max-width: 100%; height: auto; } .content { padding: 20px; } .content h2 { color: #e74c3c; font-size: 22pt; margin-top: 0; } .content p { line-height: 1.6; color: #7f8c8d; } .report { width: 100%; border-collapse: collapse; margin: 20px 0; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05); } .report th, .report td { padding: 12px; border: 1px solid #ddd; text-align: left; } .report th { background-color: #f2f2f2; } .report td { background-color: #fafafa; } .cta-button { display: inline-block; background-color: #0078d4; color: #ffffff; padding: 15px 30px; text-decoration: none; border-radius: 4px; font-size: 14pt; margin: 20px 0; } .footer { text-align: center; background-color: #f2f2f2; color: #888888; padding: 20px; font-size: 9pt; } .footer a { color: #e74c3c; text-decoration: none; } .footer img { display: none; } Sicherheitswarnung: Sofortige Maßnahmen erforderlich 03-19-2025! Hallo phishing@pot, &quot;Wir hoffen, dass es Ihnen gut geht und Sie Frieden finden.&quot; Im Rahmen unseres Engagements für Ihre Online-Sicherheit hat unser Sicherheitsteam eine gründliche Analyse Ihres Geräts durchgeführt. Wir haben mehrere ernsthafte Bedrohungen die Ihre sofortige Aufmerksamkeit erfordern. Sicherheitsbericht Gesamtzahl der gescannten Artikel: 136,503 Gesamtzahl der identifizierten Sicherheitsrisiken: 4 Details Trojan Trojan32/Hoax.Renos.HX (HIGH) Trojan Trojan IRC/Backdoor.sd (HIGH) Spyware Spyware64/Look2me.ab (MEDIUM) Adware Adware.Generic (MEDIUM) Diese Bedrohungen stellen ein großes Risiko für die Vertraulichkeit Ihrer persönlichen Daten, die Sicherheit Ihrer Finanzinformationen und die Gesamtleistung Ihres Geräts dar. Ohne schnelles Eingreifen besteht die Gefahr von Identitätsdiebstahlversuchen, finanziellen Verlusten und einer erheblichen Verschlechterung Ihres digitalen Erlebnisses. Um Ihren Schutz zu gewährleisten und die Integrität Ihres Systems zu wahren, empfehlen wir Ihnen, sofort Maßnahmen zu ergreifen und entsprechende Sicherheitsmaßnahmen anzuwenden. Aktivieren Sie das von Microsoft empfohlene Antivirenprogramm © 2025 Microsoft Corporation. All rights reserved. Wenn Sie sich abmelden und diese E-Mails nicht mehr erhalten möchten, können Sie dies tun klicken Sie hier Or write to: 792 Benson Street, Eau Claire, WI, Wisconsin, 54701 Or klicken Sie hier
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Security Alert</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+            font-size: 10pt;
+            color: #34495e;
+            background-color: #f6f6f6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #e1e1e1;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .header {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 20px;
+            color: white;
+        }
+        .header img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content h2 {
+            color: #e74c3c;
+            font-size: 22pt;
+            margin-top: 0;
+        }
+        .content p {
+            line-height: 1.6;
+            color: #7f8c8d;
+        }
+        .report {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+        }
+        .report th, .report td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        .report th {
+            background-color: #f2f2f2;
+        }
+        .report td {
+            background-color: #fafafa;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #0078d4;
+            color: #ffffff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 4px;
+            font-size: 14pt;
+            margin: 20px 0;
+        }
+        .footer {
+            text-align: center;
+            background-color: #f2f2f2;
+            color: #888888;
+            padding: 20px;
+            font-size: 9pt;
+        }
+        .footer a {
+            color: #e74c3c;
+            text-decoration: none;
+        }
+        .footer img {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+           <a href="https://akorganizing.net/4eryVr293EgeU6eapffquhht14GQLNSFQQYIOCBWR47634BIAE738b4">     <img src="https://imgur.com/6YmcK7i.png"><img src="//imgur.com/6YmcK7i.png"></a>
+        </div>
+        <div class="content">
+           <a href="https://akorganizing.net/4oKApm293ddHo6bpflxmctzg14SPFZWEURFDEJKID47634AHML738J4" style="color:red;text-decoration:none"> <h2>Sicherheitswarnung: Sofortige Maßnahmen erforderlich 03-19-2025!</h2></a>
+        
+            <p>Hallo phishing@pot,<br>&quot;Wir hoffen, dass es Ihnen gut geht und Sie Frieden finden.&quot; 
+
+<br>Im Rahmen unseres Engagements für Ihre Online-Sicherheit hat unser Sicherheitsteam eine gründliche Analyse Ihres Geräts durchgeführt. Wir haben mehrere <strong>ernsthafte Bedrohungen</strong> die Ihre sofortige Aufmerksamkeit erfordern.</p>
+
+            <h3>Sicherheitsbericht</h3>
+            <table class="report">
+                <tr>
+                    <th>Gesamtzahl der gescannten Artikel:</th>
+                    <td>136,503</td>
+                </tr>
+                <tr>
+                    <th>Gesamtzahl der identifizierten Sicherheitsrisiken:</th>
+                    <td>4</td>
+                </tr>
+                <tr>
+                    <th colspan="2">Details</th>
+                </tr>
+                <tr>
+                    <td>Trojan</td>
+                    <td style="color: #D72828;"><a href="https://akorganizing.net/4onnCL293NmOu6urdpzvtvhj14IAEYZPMTHOWBSZK47634HHKJ738h4" style="color:red;text-decoration:none" ;color:?red?=""> Trojan32/Hoax.Renos.HX (HIGH)</td></a>
+                </tr>
+                <tr>
+                    <td>Trojan</td>
+                    <td style="color: #D72828;"><a href="https://akorganizing.net/4vGyrp293jhrA6pqqyxewlws14XQNULMXEKBCNJUL47634DZMN738s4" style="color:red;text-decoration:none">Trojan IRC/Backdoor.sd (HIGH)</td>
+                </tr>
+                <tr>
+                    <td>Spyware</td>
+                    <td style="color: #FF8C00;"><a href="https://akorganizing.net/4kqLXU293KeOr6sypdyvuvsq14DLMIORNVIQHQXXB47634WRSD738u4" style="color:#fea334;text-decoration:none">Spyware64/Look2me.ab (MEDIUM)</td>
+                </tr>
+                <tr>
+                    <td>Adware</td>
+                    <td style="color: #FF8C00;"><a href="https://akorganizing.net/4VGzmp293igYv6fhrvzktzrs14KPOTIPSUHKZLKYT47634DCEW738D4" style="color:#fea334;text-decoration:none">Adware.Generic (MEDIUM)</td>
+                </tr>
+            </table>
+
+            <p>Diese Bedrohungen stellen ein großes Risiko für die Vertraulichkeit Ihrer persönlichen Daten, die Sicherheit Ihrer Finanzinformationen und die Gesamtleistung Ihres Geräts dar.<br>Ohne schnelles Eingreifen besteht die Gefahr von Identitätsdiebstahlversuchen, finanziellen Verlusten und einer erheblichen Verschlechterung Ihres digitalen Erlebnisses.<br>
+Um Ihren Schutz zu gewährleisten und die Integrität Ihres Systems zu wahren, empfehlen wir Ihnen, sofort Maßnahmen zu ergreifen und entsprechende Sicherheitsmaßnahmen anzuwenden.</p>
+            <a href="https://akorganizing.net/4pPbGf293xVVp6oubimngnns14EASQFUPNJVFZWBT47634LWYX738X4" class="cta-button">
+
+Aktivieren Sie das von Microsoft empfohlene Antivirenprogramm </a>
+        </div>
+        <div class="footer">
+            <p>© 2025 Microsoft Corporation. All rights reserved.</p>
+              <center>
+        <img src="https://akorganizing.net/track/2zuZow293DrRX6fbslibwoxj14DFQDFVYKRLEURRN47634QWOU738f4" width="1" height="1" border="0" alt="" style="display: block; text-decoration: none;">
+    <div style="text-align: center; font-size:12px; width: 100%; color: #00;">
+        <p>Wenn Sie sich abmelden und diese E-Mails nicht mehr erhalten möchten, können Sie dies tun
+            <a href="https://akorganizing.net/1DzUNk293VcKE6eskgynlspj14YTZEJYMSQSYZMMN47634GLVZ738e4" style="color: red;">klicken Sie hier</a> Or write to:
+            792 Benson Street, Eau Claire, WI, Wisconsin, 54701 Or <a href="https://akorganizing.net/3MczbE293UAAx6davinhlubt14NDNUGBCLQZKKBDE47634KCOQ738O4" style="color: red;">klicken Sie hier</a></p>
+    </div>
+        </div>
+    </div>
+</body>
+</html>
+

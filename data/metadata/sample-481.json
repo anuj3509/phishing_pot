@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Fwd: confirmation receipt",
+    "from": "MC S <linhasegura@gmail.com>",
+    "to": "phish.me.again@gmail.com",
+    "date": "Fri, 17 Mar 2023 12:01:53 -0500",
+    "message_id": "<CA+=UuZ=sXBxtkyUj7PNDxU6cyKSV_X38xYexO3xXiafNERv4rw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000ae74fe05f71b881e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000ae74fe05f71b881e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://s3.amazonaws.com/aziiiaoollmpqoioaiop/azuaoizuaozoiiaki.html#qs=r-ahdhkacbefejgffhafgcfkkiacedfehdjafdfdhabababaikadebaccadcdjaddkgadbcjegacb",
+      "zyfgsxfrzhkwbwlwoynhvqwvlxtsfs.rr.com",
+      "https://s3.amazonaws.com/aziiiaoollmpqoioaiop/azuaoizuaozoiiaki.html#qs=ua-ahdhkacbefejgffhafgcfkkiacedfehdjafdfdhabababaikadebaccadcdjaddkgadbcjegacb",
+      "aol.com",
+      "https://s3.amazonaws.com/aziiiaoollmpqoioaiop/azuaoizuaozoiiaki.html#qs=op-ahdhkacbefejgffhafgcfkkiacedfehdjafdfdhabababaikadebaccadcdjaddkgadbcjegacb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 422,
+    "html_length": 1679,
+    "has_text": true,
+    "has_html": true
+  }
+}

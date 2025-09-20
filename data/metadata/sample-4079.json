@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Deine Chance auf einen 1.000��� Amazon Gutschein  & Samsung Galaxy S24",
+    "from": "Max Steller von Amazon,(<service@otto.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Sep 2024 16:19:23 +0000",
+    "message_id": "<XIEANWTATPIWGQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5CwLPd35179MYrf1051kqrbjlmyum14302JMHAIITIAQOSBNZ2PLXT6305g10",
+      "http://topmarktingplace.com/4XFPTo35179EHem1051ohgeoecdbv14302ZCAQCDPALUPSZVN2NSLQ6305B10",
+      "http://topmarktingplace.com/4lEHgt35179rDLh1051bupfsfenus14302SJTMNMLDXIDNZHK2KELY6305V10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6ofjgC35179Pahp1051zlwjoiyyjq14302QMXAHVKMGIRMYIS2AWNY6305K10",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/header-amz-s24-prize-de.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/header-amz-s24-prize-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1790,
+    "html_length": 10240,
+    "has_text": true,
+    "has_html": true
+  }
+}

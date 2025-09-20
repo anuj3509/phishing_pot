@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pedido parcialmente bloqueado pela barreira fiscal da alfandegaria! Protocolo: 706249572.",
+    "from": "Pedido-Correios <alfandega@clientecorreios71582pedido%correiosbr.net>",
+    "to": "phishing@pot",
+    "date": "Wed,  4 Sep 2024 02:44:49 +0300 (IDT)",
+    "message_id": "<20240903234449.0251B25C3E@ksdirnfp2ahbgi7eo5aq9gy>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "http://autorizaretirada.co.ua/br/taxa445"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 360,
+    "html_length": 1461,
+    "has_text": true,
+    "has_html": true
+  }
+}

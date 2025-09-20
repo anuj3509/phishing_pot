@@ -1,0 +1,195 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Boas Festas
+From: Amf Estopas <vendedorandre@amfestopas.com.br>
+To: phishing@pot
+Date: Tue, 26 Dec 2023 10:57:56 -0300
+Message_Id: <0.6.0.7A.1DA3803872C21D2.3C9B8@hm1720-emkt13-4.locaweb.com.br>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_658adbea2c590_19983f8f16fa703c11798084";
+ charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="--==_mimepart_658adbea2c590_19983f8f16fa703c11798084";
+ charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://assets.mktnaweb.com/heisenberg/img-facebook-white.png
+  - http://assets.mktnaweb.com/heisenberg/img-instagram-white.png
+  - http://emailmarketing.locaweb.com.br/accounts/130541/unsubscribes/211/2411977?emkt_c=1660150474&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=197
+  - notinline.css.map
+  - div.he-col
+  - http://www.w3.org/1999/xhtml
+  - https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/355?envelope_id=197
+  - div.he-col.he-three,
+  - https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/244/original_a-amf-estopas-celebra-33-anos%20%282%29.png?1703252642
+  - http://emailmarketing.locaweb.com.br/accounts/130541/messages/211/openings/2411977?envelope_id=197
+  - div.he-col.he-two-dot-four.he-last
+  - table.he-image
+  - http://emailmarketing.locaweb.com.br/accounts/130541/messages/211?email=phishing@pot&amp;c=1703252508&amp;contact_id=2411977&amp;envelope_id=197
+  - outlook.css.map
+  - div.he-col.he-two,
+  - media.css.map
+  - fonts.googleapis.com/css?family=Comfortaa
+  - div.he-col.he-two-dot-four
+  - div.he-col.he-two-dot-four:last-child
+  - https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/354?envelope_id=197
+
+DECODED TEXT CONTENT:
+------------------------------
+
+Caso não esteja visualizando, acesse o preview aqui.
+rede sociais
+Se você não deseja mais receber nossos e-mails,  cancele
+a sua inscrição aqui.  
+Se você não deseja mais receber nossos e-mails, cancele sua inscrição através do link %{link}
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width"><!--[if !mso]><!----><link href="//fonts.googleapis.com/css?family=Comfortaa" media="screen" rel="stylesheet" type="text/css"><!--<![endif]--><style type="text/css">
+      table { border-spacing: 0 !important; border-collapse: collapse !important; }
+
+/*# sourceMappingURL=notinline.css.map */
+
+      @media screen and (max-width: 575px) { .he-col { width: 100% !important; }
+  table { display: table; }
+  div.he-col { display: inline-block !important; }
+  div.he-col.he-three, div.he-col.he-two, div.he-col.he-two-dot-four { width: 50% !important; }
+  div.he-col.he-two-dot-four:last-child { width: 100% !important; }
+  div.he-col.he-two-dot-four.he-last { width: 100% !important; }
+  div.he-col table.he-image td { padding-left: 0 !important; padding-right: 0 !important; } }
+
+/*# sourceMappingURL=media.css.map */
+
+    </style><!--[if gte mso 12]>
+    <style>
+      .mso-right { padding-left: 20px; }
+
+.he-wrapper { margin: 0; }
+
+body .button table td { padding: 7px 0 !important; }
+
+/*# sourceMappingURL=outlook.css.map */
+
+    </style><![endif]--></head>
+<body style="height: 100% !important; width: 100% !important; margin: 0 !important; padding: 0 !important;">
+    <span class="preheader" style="display: none !important; visibility: hidden; color: transparent; height: 0; width: 0; font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"></span>
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" bgcolor="#a91e20" style="border-bottom: 0px solid #a91e20 !important;
+        border-top: 0px solid #a91e20 !important; padding: 0px; margin: 0px; display: block;"><!--[if (gte mso 9)|(IE)]>
+    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+      <tr>
+        <td align="center" valign="top" width="600"><![endif]--><table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="wrapper email-header"><tr>
+<td align="center" valign="top" atr="" class="side-border" style="padding: 20px 0px 20px 0px; ">
+                <p style="margin: 0; text-align: center;"><span style="font-family:tahoma,geneva,sans-serif"><span style="font-size:12px"><span style="color:#FFFFFF">Caso não esteja visualizando, </span><a class="emkt_opening_link" href="http://emailmarketing.locaweb.com.br/accounts/130541/messages/211?email=phishing@pot&amp;c=1703252508&amp;contact_id=2411977&amp;envelope_id=197"><span style="color:#FFFFFF">acesse o preview aqui.
+ </span></a></span></span></p>
+              </td>
+            </tr></table><!--[if (gte mso 9)|(IE)]>
+        </td>
+      </tr>
+    </table><![endif]--></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#a91e20" style="border-bottom: 0px solid #a91e20 !important;
+        border-top: 0px solid #a91e20 !important; padding: 0px; margin: 0px; display: block;"><!--[if (gte mso 9)|(IE)]>
+    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+      <tr>
+        <td align="center" valign="top" width="600"><![endif]--><table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="wrapper body"><tr>
+<td align="center" valign="top" atr="" class="side-border" style="padding: 0px 0px 0px 0px; "><!--[if (gte mso 9)|(IE)]>
+  <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+    <tr>
+      <td align="left" valign="top" width="600"><![endif]--><div class="he-wrapper he-col he-twelve he-last" style="margin: 0; display: table-cell; vertical-align: top; width: 600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="he-wrapper he-col he-twelve" style="margin: 0; width: 600px;"><tr>
+<td align="center">
+              <table width="100%"><tr>
+<td align="center" class="he-reset-padding" style="padding: 0px;">
+      <table class="he-image " align="center" border="0" cellpadding="0" cellspacing="0"><tr>
+<td style="padding: 45px 0px 0px 0px;">
+              <img src="https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/244/original_a-amf-estopas-celebra-33-anos%20%282%29.png?1703252642" alt="a-amf-estopas-celebra-33-anos (2).png" title="a-amf-estopas-celebra-33-anos (2).png" width="600" style="max-width: 100%; float: none !important; -ms-interpolation-mode: bicubic; border: 0; line-height: 100%; outline: none; text-decoration: none; width: 100%; display: block; height: auto;">
+</td>
+        </tr></table>
+</td>
+  </tr></table>
+<table class="wysiwyg" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td style="line-height: 1 !important; padding: 15px 0px 5px 0px; font-size: 14px; font-family: arial,helvetica,sans-serif;">
+      <p style="margin: 0; line-height: inherit !important; text-align: center;"><span style="font-family:comfortaa,cursive"><span style="font-size:26px"><span style="color:#FFFFFF">rede sociais</span></span></span></p>
+    </td>
+  </tr></table>
+<table class="social" align="center" border="0" cellpadding="0" cellspacing="0" width="100%"><tr>
+<td style="padding: 15px 0px 15px 0px;" align="center">
+      <table align="center" border="0" cellpadding="0" cellspacing="0"><tr>
+<td valign="top" align="center"><!--[if gte mso 9]>
+  <table>
+    <tbody>
+      <tr>
+        <td align="left" valign="top"><![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" width="55"><tbody><tr>
+<td>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" width="55"><tbody><tr>
+<td style="padding-right: 5px;" width="35px" height="35px" align="center" valign="top">
+                <a href="https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/354?envelope_id=197" class="white" style="border: none; font-size: 11px; font-family: Arial; text-decoration: none; text-align: center; width: 60px; vertical-align: top; color: #fff; display: inline-block;">
+                  <img src="http://assets.mktnaweb.com/heisenberg/img-facebook-white.png" height="35" width="35" border="0" alt="Facebook" style="max-width: 100%; display: inline-block; border: none; float: none !important; vertical-align: top; width: auto !important; height: auto !important;"></a>
+              </td>
+            </tr></tbody></table>
+</td>
+    </tr></tbody></table><!--[if gte mso 6]>
+</td>
+  <td align="left" valign="top"><![endif]--><table align="left" border="0" cellpadding="0" cellspacing="0" width="55"><tbody><tr>
+<td>
+        <table align="left" border="0" cellpadding="0" cellspacing="0" width="55"><tbody><tr>
+<td style="padding-right: 5px;" width="35px" height="35px" align="center" valign="top">
+                <a href="https://emailmarketing.locaweb.com.br/accounts/130541/messages/211/clicks/2411977/355?envelope_id=197" class="white" style="border: none; font-size: 11px; font-family: Arial; text-decoration: none; text-align: center; width: 60px; vertical-align: top; color: #fff; display: inline-block;">
+                  <img src="http://assets.mktnaweb.com/heisenberg/img-instagram-white.png" height="35" width="35" border="0" alt="Instagram" style="max-width: 100%; display: inline-block; border: none; float: none !important; vertical-align: top; width: auto !important; height: auto !important;"></a>
+              </td>
+            </tr></tbody></table>
+</td>
+    </tr></tbody></table><!--[if gte mso 6]>
+</td>
+  <td align="left" valign="top"><![endif]--><!--[if gte mso 9]>
+        </td>
+      </tr>
+    </tbody>
+  </table><![endif]--></td>
+        </tr></table>
+</td>
+  </tr></table>
+</td>
+          </tr></table>
+</div><!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table><![endif]--></td>
+            </tr></table><!--[if (gte mso 9)|(IE)]>
+        </td>
+      </tr>
+    </table><![endif]--></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#a91e20" style="border-bottom: 0px solid #a91e20 !important;
+        border-top: 0px solid #a91e20 !important; padding: 0px; margin: 0px; display: block;"><!--[if (gte mso 9)|(IE)]>
+    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600">
+      <tr>
+        <td align="center" valign="top" width="600"><![endif]--><table border="0" cellpadding="0" cellspacing="0" width="100%" style="max-width: 600px;" class="wrapper email-footer"><tr>
+<td align="center" valign="top" atr="" class="side-border" style="padding: 20px 0px 20px 0px; ">
+                <p style="margin: 0; text-align: center;"><span style="color:#F0F8FF"><span style="font-size:11px"><span style="font-family:arial,helvetica,sans-serif">Se você não deseja mais receber nossos e-mails,&nbsp;</span></span>&nbsp;</span><span style="font-size:11px"><a href="http://emailmarketing.locaweb.com.br/accounts/130541/unsubscribes/211/2411977?emkt_c=1660150474&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=197"><span style="color:#F0F8FF">cancele a sua inscrição aqui. </span></a><span style="color:#F0F8FF"> </span></span><span style="color:#F0F8FF">&nbsp;</span></p>
+              </td>
+            </tr></table><!--[if (gte mso 9)|(IE)]>
+        </td>
+      </tr>
+    </table><![endif]--></td>
+</tr>
+</table>
+<img src="http://emailmarketing.locaweb.com.br/accounts/130541/messages/211/openings/2411977?envelope_id=197" width="1" height="1" border="0" alt=""></body>
+</html>
+

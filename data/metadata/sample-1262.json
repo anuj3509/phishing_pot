@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "B/L and original shipping documents",
+    "from": "MAERSK LINE SHIPPING <regional-logistics@maerskline.com>",
+    "to": "wpx@protonmail.com",
+    "date": "18 Sep 2019 12:04:48 -0700",
+    "message_id": "<20190918120448.1EE8003E7AE4D8CD@maerskline.com>",
+    "content_type": "multipart/mixed;boundary=---------------------00ec25c2ad8f1f7b47809e7454114f77"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------00ec25c2ad8f1f7b47809e7454114f77"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "https://ohmyomy1.000webhostapp.com/maerkline/login.php?email=wpx@protonmail.com",
+      "https://www.google.com/url?q=https://h1hahh11.000webhostapp.com/maerskline/login.php?email%3D%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1568749840657000&amp;usg=AFQjCNEiQJp7E95LiQzf_G0MbEaY5VG-tQ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1482,
+    "html_length": 5784,
+    "has_text": true,
+    "has_html": true
+  }
+}

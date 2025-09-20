@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Mercadoria Retida: Ação Necessária para Liberação.",
+    "from": "Correios <contato@correios>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 21 Feb 2025 20:08:33 +0000",
+    "message_id": "<ed39bc29-ff07-bed5-25b2-305203815e5f@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1331,
+    "html_length": 2245,
+    "has_text": true,
+    "has_html": true
+  }
+}

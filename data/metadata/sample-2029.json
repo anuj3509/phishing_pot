@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo-f-p, Your Cashback is Ready to use",
+    "from": "CircleMail <support@vvicl.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Sun, 26 Nov 2023 07:15:08 +0000",
+    "message_id": "<LPWKMKDGMDW_6562f07c9b4ab_4a42a482522c1_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6562f07ca937c_4a42a4825231c\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6562f07ca937c_4a42a4825231c\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bing.com/ck/a?!&amp;&amp;p=ffccd1a987dc28ebJmltdHM9MTcwMDg3MDQwMCZpZ3VpZD0wZTk5ZDFhMC02ZjY3LTY3OGYtMzZlMi1jMjE0NmU2ZjY2ZTcmaW5zaWQ9NTE4MA&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=0e99d1a0-6f67-678f-36e2-c2146e6f66e7&amp;psq=https%3a%2f%2fmaximumracingconcept.com%2f&amp;u=a1aHR0cHM6Ly9tYXhpbXVtcmFjaW5nY29uY2VwdC5jb20vY29udGFjdC11cy8&amp;ntb=1",
+      "https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=Biplex+S.R.L.&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1476,
+    "html_length": 3208,
+    "has_text": true,
+    "has_html": true
+  }
+}

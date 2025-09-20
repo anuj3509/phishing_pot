@@ -1,0 +1,68 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Prezado Rodrigo, tenho uma mensagem para você
+From: "Amanda Santos" <contato@ct.e-compara.com>
+To: phishing@pot
+Date: Mon, 22 Jan 2024 02:22:04 -0300
+Message_Id: 
+ <0S7N005JHDKXBJL0@rmta-ad1-fd2-101-us-ashburn-1.rmtaad1.vcndpiad.oraclevcn.com>
+Content_Type: Multipart/alternative; boundary="008213A5_519AE2DB_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="008213A5_519AE2DB_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://app.seguro-auto.com/app-d/lnk.php?id=322C33302C726F647269676F2D662D7040686F746D61696C2E636F6D2C31333732
+
+DECODED TEXT CONTENT:
+------------------------------
+outros body{margin:0;padding:0;} Prezado Rodrigo,&nbsp; A Agência Nacional de Saúde Suplementar (ANS) autorizou as operadoras a aumentar mais de 20% os planos de saúde. Caso o valor da sua mensalidade tenha sido impactada, receba agora uma cotação e avalie opções com custos-benefícios melhores. Proposta de uma economia de até 40%* nos custos mensais, aproveitando a nova tabela 2024 de preços para mudar seu plano para a Hapvida NotreDame Intermédica Saúde Gostaríamos de uma oportunidade para entender as suas necessidades e apresentar um estudo, sem compromisso, da melhor opção de benefícios para você, sua família ou empresa. saiba mais &nbsp; [ Para descadastrar-se responda esta mensagem com o assunto SAIR] &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>outros</title>
+    <style type="text/css">
+        body{margin:0;padding:0;}
+    </style>
+</head>
+
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p>Prezado Rodrigo,&nbsp;<br><br>A Agência Nacional de Saúde Suplementar (ANS) autorizou as operadoras a aumentar mais de 20% os planos de saúde.<br><br>Caso o valor da sua mensalidade tenha sido impactada, receba agora uma cotação e avalie opções com custos-benefícios melhores.<br><br>Proposta de uma economia de até 40%* nos custos mensais, aproveitando a nova tabela 2024 de preços para mudar seu plano para a <span style="color: #ff9900;"><strong>Hapvida NotreDame Intermédica Saúde</strong></span></p>
+<p>Gostaríamos de uma oportunidade para entender as suas necessidades e apresentar um estudo, sem compromisso, da melhor opção de benefícios para você, sua família ou empresa.</p>
+<p style="text-align: center;"><a style="display: block; background-color: #ff9900; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="https://app.seguro-auto.com/app-d/lnk.php?id=322C33302C726F647269676F2D662D7040686F746D61696C2E636F6D2C31333732"><span style="font-size: x-large;">saiba mais</span></a></p>
+</td>
+</tr>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p style="text-align: center;"><span style="font-size: medium;">&nbsp;</span></p>
+<p style="text-align: center;"><span style="font-size: 10pt; font-family: verdana, geneva, sans-serif;"><strong>[</strong>Para descadastrar-se responda esta mensagem com o assunto <strong>SAIR]</strong></span></p>
+<p style="text-align: center;">&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+
+</html>

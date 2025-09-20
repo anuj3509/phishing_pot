@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Werden Sie energieunabh��ngig und sparen Sie bis zu 1.500��� j��hrlich!",
+    "from": "Ihr Solar-Experte,(<message@my.zalando.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Aug 2024 16:51:15 +0000",
+    "message_id": "<MYTDSDLSKIDSOQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4ncTau27712HLzB1050ecygbgqpuf14302JNETRUOSVPWMPFL2GODQ2629p10",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700;800&amp;family=Fira+Sans:wght@400&amp;display=swap",
+      "http://topmarktingplace.com/4ptzgz27712Uxme1050vxpgyplgtu14302DLRGYZJBYYGNTIC2XOCM2629C10",
+      "http://topmarktingplace.com/4AhcNi27712daHn1050atgktpkuwy14302ZJHHGWVYWLQZVZI2USPB2629l10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6IGxQC27712UGSt1050lwyvlumnnq14302ECOZSSCISFUAWDO2TSJQ2629Q10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5IJjMM27712LmyV1050qhttzwaxkd14302SIFHFDHZOJTDINF2NLJP2629E10",
+      "http://topmarktingplace.com/4MrJWO27712hXOR1050pydwvwugwl14302XCJHYASDKXLQDQR2MJHM2629w10",
+      "http://topmarktingplace.com/4liuWt27712fsku1050wcagrivpmr14302SSOSTXKQACGPYPB2RSYY2629w10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 11240,
+    "html_length": 23653,
+    "has_text": true,
+    "has_html": true
+  }
+}

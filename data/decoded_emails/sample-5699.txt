@@ -1,0 +1,177 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: One last step remains
+From: "Ledger" <administrativo2@technecare.com>
+To: <phishing@pot>
+Date: Tue, 13 May 2025 16:14:03 -0700
+Message_Id: <76afd2599749078f01644de30ceb53c4@technecare.com>
+Content_Type: multipart/alternative;
+	boundary="f9e6b155acc6af44f0bf9d2d000848e0"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="f9e6b155acc6af44f0bf9d2d000848e0"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+Suspicious phrases: immediate action required
+URLs found:
+  - https://saprotrader.com/neg8z
+  - https://pbs.twimg.com/media/Gq3TIt7WUAEzT2f?format=png&amp;name=240x240
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+  
+    
+      
+        
+      
+    
+
+    
+      
+        
+          
+          
+            
+              Your Recovery Phrase Needs Attention
+            
+          
+
+          
+            
+              Hello,
+            
+          
+
+          
+            
+              We’ve noticed that your recovery phrase hasn’t been backed up. This phrase is essential to regain access to your account if anything goes wrong.
+            
+          
+
+          
+            
+              Why this is important:
+            
+          
+
+          
+            
+              Without a backup, your phrase could be automatically reassigned, making it impossible to recover your information or confirm account ownership.
+            
+          
+
+          
+            
+              Please complete your backup within the next 48 hours to secure your access and avoid service loss.
+            
+          
+
+          
+            
+              
+                Backup My Phrase
+              
+            
+          
+
+          
+            
+              Questions? Our support team is available 24/7 to assist you.
+            
+          
+
+        
+      
+    
+  
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Immediate Action Required: Protect Your Recovery Phrase</title>
+</head>
+<body style="margin:0; padding:0; background-color:#0d0d0d; font-family:'Segoe UI', sans-serif; color:#ffffff;">
+
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" align="center" style="background-color:#0d0d0d;">
+    <tr>
+      <td align="center" style="padding:30px 0;">
+        <img src="https://pbs.twimg.com/media/Gq3TIt7WUAEzT2f?format=png&amp;name=240x240" alt="Logo" width="80" style="display:block;">
+      </td>
+    </tr>
+
+    <tr>
+      <td align="center">
+        <table width="90%" cellpadding="0" cellspacing="0" border="0" style="max-width:600px; background-color:#1a1a1a; border-radius:12px; padding:30px; box-shadow:0 0 10px rgba(0,0,0,0.5);">
+          
+          <tr>
+            <td align="center" style="color:#d4a0ff; font-size:24px; font-weight:600; padding-bottom:20px;">
+              Your Recovery Phrase Needs Attention
+            </td>
+          </tr>
+
+          <tr>
+            <td style="color:#cfcfcf; font-size:16px; line-height:1.6; padding:10px 0; text-align:left;">
+              Hello,
+            </td>
+          </tr>
+
+          <tr>
+            <td style="color:#cfcfcf; font-size:16px; line-height:1.6; padding:10px 0; text-align:left;">
+              We’ve noticed that your recovery phrase hasn’t been backed up. This phrase is essential to regain access to your account if anything goes wrong.
+            </td>
+          </tr>
+
+          <tr>
+            <td style="color:#ffffff; font-weight:bold; font-size:17px; padding-top:25px; text-align:left;">
+              Why this is important:
+            </td>
+          </tr>
+
+          <tr>
+            <td style="color:#cfcfcf; font-size:16px; line-height:1.6; padding:10px 0; text-align:left;">
+              Without a backup, your phrase could be automatically reassigned, making it impossible to recover your information or confirm account ownership.
+            </td>
+          </tr>
+
+          <tr>
+            <td style="color:#ffc107; font-size:16px; padding:15px 0 30px 0; font-weight:500; text-align:left;">
+              Please complete your backup within the next <strong>48 hours</strong> to secure your access and avoid service loss.
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center">
+              <a href="https://saprotrader.com/neg8z" style="background-color:#e94e00; color:#ffffff; padding:14px 28px; text-decoration:none; border-radius:8px; font-size:16px; font-weight:bold; display:inline-block;">
+                Backup My Phrase
+              </a>
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding-top:30px; text-align:center; color:#666; font-size:13px;">
+              Questions? Our support team is available 24/7 to assist you.
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

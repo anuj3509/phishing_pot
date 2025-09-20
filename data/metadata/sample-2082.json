@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Claim Your $SUSHI",
+    "from": "SUSHI <sushi@email.salonized.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 30 Nov 2023 18:42:28 +0000",
+    "message_id": "<20231130184228.4c449c8d4652a52e@email.salonized.com>",
+    "content_type": "multipart/mixed;\r\n boundary=\"ed4e43f8af02668fa11965d320b6ff0f3492d7c6a6c1d951672c356641be\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"ed4e43f8af02668fa11965d320b6ff0f3492d7c6a6c1d951672c356641be\""
+  },
+  "attachments": [
+    {
+      "filename": "Appointment.ics",
+      "content_type": "text/calendar",
+      "size": 669
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://s3-us-west-1.amazonaws.com/coin-tracker-public/static/images/third_party/twitter.png",
+      "https://altcoinsbox.com/wp-content/uploads/2023/03/full-SushiSwap-logo.png",
+      "https://s3-us-west-1.amazonaws.com/coin-tracker-public/static/images/third_party/youtube.png",
+      "https://use.typekit.net/rmj8sfr.css",
+      "https://s3-us-west-1.amazonaws.com/coin-tracker-public/static/images/third_party/google_play.png",
+      "https://royalshop.168-119-251-236.plesk.page/tracker/tracker-sushi-click.php",
+      "https://click.pstmrk.it/3s/sushi-airdrop.com%2F/3TIB/pqqxAQ/AQ/a33d1477-da52-4947-ba7c-6a067892c83a/2/zdgnNl8W7X",
+      "https://s3-us-west-1.amazonaws.com/coin-tracker-public/static/images/third_party/apple_app_store.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60,
+    "html_length": 4671,
+    "has_text": true,
+    "has_html": true
+  }
+}

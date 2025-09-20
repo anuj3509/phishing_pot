@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Wichtige Mitteilung - Aktualisierung Ihrer Push-Tan-Verbindung",
+    "from": "Sparkasse <noreply@support.sparkasse.de>",
+    "to": "Undisclosed-Recipients:;",
+    "date": "Tue, 4 Mar 2025 17:59:06 +0100",
+    "message_id": "<KICJZAS0-VV2O-JV6Z-4QI6-AI1OYJ8LP3D@support.sparkasse.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://de.spk-online.net/de/sp25/index.html",
+      "https://sparkasse.de/Push-Tan"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 569,
+    "html_length": 770,
+    "has_text": true,
+    "has_html": true
+  }
+}

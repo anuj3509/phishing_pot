@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ein Ingenieur hat eine Software entwickelt, die die Stromrechnung um 92 % senkt",
+    "from": "Künstliche Intelligenz, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Dec 2024 19:58:13 +0100",
+    "message_id": "<XLtCUVX.0.0.XLtCUVX.9.XLtCUVX@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://rebrand.ly/6enlidh#oop/24904_md/99/6450/840/63/160880",
+      "i.goopics.net/vgrzru.jpg",
+      "https://artstpl.com/click.php?key=vypffyrudfdh101ssxt5&clickid=#reqid#&affid=#affid#&target={target}&ts=id2",
+      "https://i.goopics.net/vgrzru.jpg",
+      "https://rebrand.ly/6enlidh#cl/24904_md/99/6450/840/63/160880"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2187,
+    "html_length": 10029,
+    "has_text": true,
+    "has_html": true
+  }
+}

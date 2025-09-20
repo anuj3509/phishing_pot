@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "Mandatory Activation of Two-Factor Authentication by 10/04/2024",
+    "from": "\"LEDGER\" <info@send-ledger.net>",
+    "to": "phishing@pot",
+    "date": "Mon, 08 Apr 2024 16:29:11 -0500",
+    "message_id": "<20240408213133.409.1870906295.swift@5216323714.send-ledger.net>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-629252757661461a7e81229.33206044_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-629252757661461a7e81229.33206044_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://send-ledger.net/activate-2fa/",
+      "td.es-desk-menu-hidden",
+      "https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i",
+      "td.es-desk-hidden,",
+      "https://5216323714.send-ledger.net/proc.php?nl=1&amp;c=3&amp;m=5&amp;s=3dd253974cc0e1b89c1a0b83c659a839&amp;act=unsub",
+      "https://5216323714.send-ledger.net/Prod/link-tracker?nl=1&amp;c=3&amp;m=5&amp;s=3dd253974cc0e1b89c1a0b83c659a839&amp;l=open&amp;account=5216323714.activehosted.com&amp;a=255114859",
+      "button.es-button",
+      "a.es-button,",
+      "tr.es-desk-hidden,",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      "https://content.app-us1.com/cdn-cgi/image/dpr=2,fit=scale-down,format=auto,onerror=redirect,width=650/veoNq/2024/04/08/e90dee77-cbf0-4a9e-b29d-9432819ecad1.png",
+      "hotmail.com",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2470,
+    "html_length": 20664,
+    "has_text": true,
+    "has_html": true
+  }
+}

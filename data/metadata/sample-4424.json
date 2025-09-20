@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Ledger Data Breach",
+    "from": "Ledger Notice <ledger@notice.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Nov 2024 08:01:48 +0000 (UTC)",
+    "message_id": "<2024112phishing@pot0148.B4AE973D29A70CCA@notice.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.ledger.com",
+      "https://mysecureldg.s3.us-east-1.amazonaws.com/recover.html",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png",
+      "www.ledger.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1040,
+    "html_length": 3328,
+    "has_text": true,
+    "has_html": true
+  }
+}

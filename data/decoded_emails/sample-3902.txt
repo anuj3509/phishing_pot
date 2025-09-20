@@ -1,0 +1,105 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aviso importante: Seu pedido foi foi taxado e bloqueado pela fiscalização alfandegária!
+From: Correios <pedidos077045@correios>
+To: phishing@pot
+Date: Mon, 2 Sep 2024 06:13:27 +0000
+Message_Id: <48da07d1a2ebf3ab8137ef0299321650@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_48da07d1a2ebf3ab8137ef0299321650"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_48da07d1a2ebf3ab8137ef0299321650"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://correios-rastreamentoseguro.com.ua/rastreamento/taxa926
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #0033a0; /* var(--cor-texto-azul) */
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #ffcc00; /* amarelo */
+            color: #0033a0; /* var(--cor-texto-azul) */
+            padding: 20px;
+            text-align: center;
+        }
+        .content {
+            padding: 20px;
+            color: #ffffff; /* branco para contraste com fundo azul */
+            text-align: center; /* Centraliza o conteúdo */
+        }
+        .footer {
+            background-color: #ffcc00; /* amarelo */
+            color: #0033a0; /* var(--cor-texto-azul) */
+            padding: 10px;
+            text-align: center;
+            font-size: 12px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 25px;
+            color: #0033a0; /* var(--cor-texto-azul) */
+            background-color: #ffcc00; /* amarelo */
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            font-size: 16px;
+        }
+        .button:hover {
+            background-color: #e6b800;
+        }
+        p {
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Correios</h1>
+        </div>
+        <div class="content">
+            <p>Olá, rodrigo-f-p@hotmail.com</p>
+            <p>Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias.</p>
+            <p>Para garantir o recebimento do seu pedido, por favor, efetue o pagamento o mais breve possível.</p>
+            <p>Clique no botão abaixo para realizar o pagamento:</p>
+            <a href="https://correios-rastreamentoseguro.com.ua/rastreamento/taxa926" class="button">Efetuar Pagamento</a>
+        </div>
+        <div class="footer">
+            <p>Correios 2024 - Todos os direitos reservados</p>
+        </div>
+    </div>
+</body>
+</html>
+

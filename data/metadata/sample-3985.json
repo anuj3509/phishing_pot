@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi taxado e bloqueado pela fiscalização alfandegária! Protocolo: 16851920.",
+    "from": "Entrega Correios <alfandega698521@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 9 Sep 2024 20:29:39 +0000",
+    "message_id": "<a98e160c84c2af4bb18fe5a599ab66af@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_a98e160c84c2af4bb18fe5a599ab66af\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_a98e160c84c2af4bb18fe5a599ab66af\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://liberacao-rastreamentocorreios.co.ua/rastreamento/taxas962",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3627,
+    "has_text": true,
+    "has_html": true
+  }
+}

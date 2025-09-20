@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Gewonnen! $4.000 Willkommensbonus",
+    "from": "\"Online-Kasino\" <Department-client-n47724@unaeduci.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 07 Feb 2025 23:19:14 +0000",
+    "message_id": "<407b6aca-f8e2-46c3-a5ce-0160ed1473e3@DB1PEPF000509FB.eurprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://urlz.fr/u0Ox?lupCLf9G4ddFPFCcF1bOdiP5TS38M2Od3YiSdYoIHQYnk4IaoDKlIjnJ2Gb83bt6yaoXks51rbEFZfvz6QLeaX",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "static.wixstatic.com/media/dc0d86_8913a0aa388f4b37b591b469233e241e~mv2.webp",
+      "https://urlz.fr/u0Ox?u3MhKMiJEpCzcta396oJC4tPr9mBvKhgpX36W88hvUtOipxU5N8kioQzzcCs1pLoW7uA5Mbtja8atvqeVvXYbN",
+      "http://www.w3.org/1999/xhtml",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://urlz.fr/u0Ox?m0PL9R9UdM9enIdGvFc3HZXTG8CQEQKa4ksvfSdMfRWpppyrJSxCjVrRrO9ySA1lMgpgHHgTEkObTCAvyCGWEG",
+      "static.wixstatic.com/media/a7af3e_49f84104c3224phishing@pota311b92bab7e13d4~mv2.png",
+      "https://static.wixstatic.com/media/dc0d86_8913a0aa388f4b37b591b469233e241e~mv2.webp",
+      "https://urlz.fr/u0Ox?gOZjhNtwwCTe9pm48l25QyqKIFg6ENkwFzrUl3A3nVe1RJUB52KaFSmkk9ZXt7sL7IsxfujnoKGhxWskj0d7XZ",
+      "https://privacy.microsoft.com/en-GB/privacystatement",
+      "static.wixstatic.com/media/dc0d86_625ca6ecd8f940cda3df9fe90cd7a25a~mv2.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://static.wixstatic.com/media/a7af3e_49f84104c3224phishing@pota311b92bab7e13d4~mv2.png",
+      "https://static.wixstatic.com/media/dc0d86_625ca6ecd8f940cda3df9fe90cd7a25a~mv2.png",
+      "https://urlz.fr/u0Ox?NbDvS96Ws2klErZEG6gE3i1lqnYPXF2wfoABrFxLyWdvbrkGHkGbp8gElHS1dLx9WNqYGdiLjBJxTE9vFcE20m",
+      "DXImageTransform.Microsoft.gradient(startColorstr="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6451,
+    "html_length": 37919,
+    "has_text": true,
+    "has_html": true
+  }
+}

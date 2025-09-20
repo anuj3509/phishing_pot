@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Create a password for Kandypens",
+    "from": "Tether Cashback <support@kandypens.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Sep 2023 16:40:21 +0000",
+    "message_id": "<6511b7f584d_3f468c83854ed_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6511b7f591a3_3f468c83855d0\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_6511b7f591a3_3f468c83855d0\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://kandypens.zendesk.com/verification/email/U5QRkq41CtTtZHRCJ4OxtayWTzbIX0B8",
+      "https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=Kandypens&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 351,
+    "html_length": 1843,
+    "has_text": true,
+    "has_html": true
+  }
+}

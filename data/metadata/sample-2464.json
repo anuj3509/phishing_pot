@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Delivery Attempt Failed - Please Schedule a Redelivery Soon as Possible.",
+    "from": "\"d͏o͏n͏o͏t͏r͏e͏p͏l͏y͏@e͏v͏r͏i͏.c͏o͏m͏ .\" <delevty-mkfe9byusqq@pansionpalmyra.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 27 Dec 2023 14:56:40 +0000",
+    "message_id": "<92095255.072981974546.8115625937652263.962946380@mail.default.alt.CnWsEGm66S4DWqwl6CJnZ7UJP3cSQPbxOV3r4CeH830.rg43s.id>",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixS4csVhGNDLdE0jlJrzO6xsbjsw96aAfQN4xWauRCuE0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixS4csVhGNDLdE0jlJrzO6xsbjsw96aAfQN4xWauRCuE0\""
+  },
+  "attachments": [
+    {
+      "filename": "Parcel No.6593054350",
+      "content_type": "application/pdf",
+      "size": 0
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://andalusjewellery.com/wp-includes/zenix"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 493,
+    "html_length": 4507,
+    "has_text": true,
+    "has_html": true
+  }
+}

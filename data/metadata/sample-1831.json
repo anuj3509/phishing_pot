@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "IHR ROSSMANN 500��� GESCHENKCOUPONS������������",
+    "from": "Rossmann Black Friday, Rossmann <news@my.esprit-friends.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 07 Nov 2023 02:56:27 +0100",
+    "message_id": "<WNtThYK.22723.561+=phishing@pot@service@newsletter.otto.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/I7VgZy6nlw",
+      "imgur.com/WfOrLFK.jpg",
+      "http://myhealthyliving.life/U0dRc1JNODNhUzMzcm95TUgybVdxdXFMNjdLaEZXa1kwSHV1VllPR3doZ3FBYnI2azFJTEdTNmUyLzVRV3VUdlp5ZHE0ajZVQjQvVkgxM29ZRytKRmc9PQ__",
+      "http://myhealthyliving.life/SkVNdHBVK01qYTdTV1RmM0ZnNlhhTG55RmFkZkk1c0dTeE01Tnl6TVBONlg0YWlNMmhzcXZBS3c1R20vUnFHM0o3NXhJU1hiWmlqbnNRem9URFZzUWc9PQ__",
+      "http://myhealthyliving.life/VHRYb1YrMThmTWxzaDdVRUZEZlhpSE1OUkVOZmxXdkh2THdsVVV4Y0cwRkdoUHgxWUNFclZEeFVtelN0K1liS3JabndKMU5NVVZSY2FrMmg5TldYc3c9PQ__",
+      "https://1.2.3"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 758,
+    "html_length": 5966,
+    "has_text": true,
+    "has_html": true
+  }
+}

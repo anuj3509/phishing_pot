@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Greetings to You",
+    "from": "mjeffbezo@domain.com",
+    "to": "phishing@pot",
+    "date": "Mon, 28 Nov 2022 08:57:46 +0530",
+    "message_id": "\r\n <60cf3172-c487-4d6f-9a2e-49e0c645b214@AM6EUR05FT005.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/plain; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1263,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

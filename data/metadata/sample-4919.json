@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "**Urgent: Immediate Action Required – Response Needed Now!**",
+    "from": "\"Support BASE\" <noreply@event.eventbrite.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 28 Feb 2025 03:50:41 +0000",
+    "message_id": "<10.AE.22568.39231C76@i-01b0beb78083d1183.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/alternative; boundary=\"_----oa86QhVz/ehMm1gD+ZTjew===_9E/E9-22335-BB131C76\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_----oa86QhVz/ehMm1gD+ZTjew===_9E/E9-22335-BB131C76\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "https://www.google.com/url?q=https://www.bing.com/ck/a?!%26%26p%3D0ff9885a4d5c67aeJmltdHM9MTcyNjg3NjgwMCZpZ3VpZD0zOThhODYxNy04NGZkLTYyMDQtMWFkMC05MjIyODUwYzYzMDQmaW5zaWQ9NTIxOQ%26ptn%3D3%26ver%3D2%26hsh%3D3%26fclid%3D398a8617-84fd-6204-1ad0-9222850c6304%26psq%3Dsite%253Aarisbrokers.co.za%2Barisbrokers.co.za%2B%26u%3Da1aHR0cHM6Ly9hcmlzYnJva2Vycy5jby56YS9jb25mbGljdC1vZi1pbnRyZXN0Lw%26ntb%3D1&amp;source=gmail&amp;ust=1732974860458000&amp;usg=AOvVaw334rpvPPR_A4Jkatn5G0O8",
+      "https://clicks.eventbrite.com/f/a/PoRnTgGrW1X24iq8NdT3cA~~/AAQxARA~/_N8jHsik34-SahZfBzHnuKGUTrd959xzFrycN_L32MC8cT36wQJ73x2j8pnTXUwoaf-9XpHP4lm1eYBqqlfIJYPk9oVUjI8AlXS9cWwIuRaHtw3FebkuV1rrekGVlIxSKAsBNoES9Vs04g-MR-uSEKTJlXfKRRnYTxCbCCYV9zfcBG4Z91Fl5JteCO12Jbt3YuJraeEr0nIelOte9P1RhZgrQ2g14iU-btLic0qOBvcyH7An9Br8W13D7LsJLEwX",
+      "40hotmail.com",
+      "https://clicks.eventbrite.com/q/6NSSO57BYKmPoN3Z2SGlaQ~~/AAQxARA~/52VtJU42KdPmohR-pIhM5niQyOpvIE0X0qQuJ3O7WLiV2RgynIP5bNyDnUPHdYUAoPuacA4Z7bWtB_F85jrv8Q~~",
+      "https://www.eventbrite.com/emails/action/?type=open&amp;list_id=9&amp;send_id=2025-02-28&amp;type_id=137&amp;recipient=rodrigo-f-p@hotmail.com",
+      "http://www.w3.org/1999/xhtml",
+      "https://th.bing.com/th/id/OIP.KAM0zS-PkhsxD_Ckp66OnQHaEK?w=302&amp;h=183&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7",
+      "https://clicks.eventbrite.com/q/ebWROnK0g7KlzNVjqY3wng~~/AAQxARA~/hifiAc0-DbE3yCG72rEfT90zEldLk14ST7AimbCu4dRpdoW2EK5QCJe_E9GYnnOr6LrKnMaAtCDP4pejAA2KfQ~~",
+      "https://clicks.eventbrite.com/f/a/KQUjnC4k98PC13wYTOn7MQ~~/AAQxARA~/7PsqdYHxb6PF6am2E8BrROeihx5jP_7illL6CmgiUyh5ltu9MTH-pwDbXzyDEuOnCPB1RYTc6ZIJWJNigasdnT7HlDVTax20eQnGmk6TKyYzAYjrL1bjKUe1c0ds7idF",
+      ".footer-content.bottom-section",
+      "https://cdn.evbstatic.com/s3-build/perm_001/87adc2/django/images/emails_2018_rebrand/e-logo@2x.png",
+      "https://clicks.eventbrite.com/f/a/_eTPkOojOSyFTTd3az1z0A~~/AAQxARA~/Pckw1bM7WGtNOYU3uX4CgbLv_eGD1vVvauVSmNtbrrlb9xt9fsFFAFxe01FizJW6BHK6h1Ntqopthh5LB_2v5kIQmP_FWBPNLQFh5BKlRcGj1K-dKjpvgu6WHgTvzGPzxqh1yB4KdhsU284aNdQl8KJbAxBsLVMp4laq-rZD3Qg~",
+      "https://clicks.eventbrite.com/f/a/8RH2r8f74YyZsauHMSj-IA~~/AAQxARA~/MyEd96eC7PQVJx5d4Ezb4PmuGG06f5swR_lphajad1xmdu_6I2O_cZ8x7GhZ-mCCnoLJP_VK_Cfa00ms-hjUxxJsFqf-ah422yJgq7si0Vdwx1FhsFz_sxeusj-OxdzP",
+      "https://t.co/PhiueLyVpr",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60357,
+    "html_length": 90400,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "headers": {
+    "subject": "[29th, August] Reminder from Ledger",
+    "from": "Ledger Security <ledger@secureliveupdates.com>",
+    "to": "<phishing@pot.org>",
+    "date": "Mon, 29 Aug 2022 09:46:46 +0000",
+    "message_id": "<f61cd5fab09d8a8362ea924a7.be5e943cfb.20220829094637.2f3fffa5a1.fe77e6f3@mail45.suw13.rsgsv.net>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_MCPart_1116239607\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_----------=_MCPart_1116239607\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://links.ledger.com/e/evib?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv",
+      "https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1",
+      "https://ci4.googleusercontent.com/proxy/hDaRMKIQb_UVBkY_QXedbNxXK3UDTEWwWmsYEJW2juLPaidvjmuw_J6TivmCe-MpB5A_HQvkBVg0qB4Q6mc-5k05maMZwxZaPYmLNqpnLBXrQFbVzqvtKmbNJUS5-H1y9FvSCVQfuB2SEKbM5E9Zqsv0nEGEU9LjKbZhFzcnrrxxJ5LQT5tSsQYaftqFB3uSvyLPOloZx9bJrun-kj6bWrqZotPpyqWfVY9x3V7d_uM7RH-UCvpLbKxFIao=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Vector%20%2857%29.png",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=bb427aea37&amp;e=be5e943cfb",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw3N0Ny16Mhv37n9f3EJsxdh",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=fb39dd62c5&amp;e=be5e943cfb",
+      "https://ci3.googleusercontent.com/proxy/SMF6w7Q_f5dBkMaxsiNox04GnmnCKcqvc9OxDQ2CaY85nPDgraK9-558QY0sXnyzod5AL7kOJDfF79yxoOZUcr5lBbYjXsHWGYg9XTLZ3W-meyAECSaEr6qXdJMQZBsPulNSWuJs7MLttoeNhJbnEsIJwiQhwSl2Y6nLC59zu6g7wGvoBeBk9VVQVS_oX8z9xqFD-kX-H2AtehBqnTU8y-x3Byi1KuoxQ7c=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/Img%20%281%29.png",
+      "https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%3D",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw2z1dfTjEiUp_Ylb5hBLwbA",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw1Oh0rKHVn0Gpesb2yLFF1M",
+      "https://www.google.com/url?q=https://links.ledger.com/e/evib?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3DmksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw3tHy-lyRqGYW914vMeycor",
+      "https://i.imgur.com/YJ27bWL.png",
+      "https://ci4.googleusercontent.com/proxy/98H2RuRcayKwZA0ASzqcuqdN4z6hdhq66Zwuat6DLCy14ddAVggzfEIDkCavWlcA91cQVOzKhqNfURRzfbQvk7ok7VlapUy3sa7jrvokhv11lj2OzcqC4rdPwL9HGKulsEPvjwayKMq44A1YSnco7jWDNbclxlp_qrx3A4dN7L6N3bIQX72kwRSXbsdKqvgjRFCdAkZiLaP8mFizpV6MXL2J0B673Kg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/White_64_3.png",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=5f8e819ec0&amp;e=be5e943cfb",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw04be83KUkP2KTddeSspKx5",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw2Vn77AchlJcNo_USq0SVTe",
+      "https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)",
+      "https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)",
+      "https://ci3.googleusercontent.com/proxy/70fkHGUpDtUOOGht5AHLstyZVDHlofjej1ffkABuKoJT_0tQP4NvqE7KpjkI7EWmETNjiRWaUM_7yGDYBTdVxq1nBJLNHr2cirAP4LBLboJ_l4t7cJz9hBdbP04zJVeO1D_5suAr0Vn0dg9RKSnCMpYg-4NOb6D2Ivx8RbH9zdKy5Kva-0b4KxBPjMdeBdKkgIeZoUzYyGZuqmoviw8IWGk2qvrS_tSVLrDU2Nv4QFV6zroQaAE6Ya_e6kXhsoM2Q8i3kwUSbUTi8aM4IyxQ7mZxfsHFsH00pz9F44bAiC3a5d_CDjcaQAPZMbGmXNE8TZkDX7RdEhtJV7ritO42hNqZxK9G9-G_D-ErAyHdIx1lsiHpu00itQiyPXLrnuBXzH6taQK0ZfGVVjo=s0-d-e1-ft#https://links.ledger.com/e/eo?_t=62c6a4ea5484430dbb7571e36c7bde50&amp;_m=05e39c34e9844470a4886400a10772c8&amp;_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufVYx5y6kDfSu4BCTARdtRhJqyr2sxyJ3dAedG0iOLxpMWf33dfiBJtngI3HHInljHfSMTgFHibOFmG9d_FmyZGDkQqLokgGIZa3X0mkT-hrzllaxzx2ud8VHgm-8nR62-A%3D",
+      "https://delfinasf.us2.list-manage.com/track/open.php?u=f61cd5fab09d8a8362ea924a7&amp;id=2f3fffa5a1&amp;e=be5e943cfb",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL",
+      "hotmail.com)",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=62272483a8&amp;e=be5e943cfb",
+      "https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=58d1590996&amp;e=be5e943cfb",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%3D",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=619492bf33&amp;e=be5e943cfb",
+      "a.mcnButton{",
+      "https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1",
+      "https://ci4.googleusercontent.com/proxy/4xG8USgxPZGpbkKd7MQuXClH6WBhcyTP_bVlqvZHSJZm6LeXFqRXS6eYw9P1r-frms3axbdFm-LEL6lCisq8_uSrCTkwLYaksA6vdbGtSAIzTn1RR76MwjESAmvUjBeMGsCR_KTJ9_5_eTzLCuixx7YmuxGKWJmmoOqRe1qXIcX026Be9ZVnvqYoPfcbfdNzT92XVPFUH9ZOSWof25vqWyku_bWcZQOO738TLz9irOq_upvNywwu=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Frame%204331.png",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN)",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=108f4c372a&amp;e=be5e943cfb",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%3D",
+      "pot.org",
+      "https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=ef0fc7c84b&amp;e=be5e943cfb",
+      "https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw0nS5A_VntBdGBYEyvTjaNN",
+      "https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%3D",
+      "https://sites.google.com/view/ledger-live/ledger-live-winx86-upgrade"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5374,
+    "html_length": 69754,
+    "has_text": true,
+    "has_html": true
+  }
+}

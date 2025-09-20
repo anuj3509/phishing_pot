@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Get ready for a new date? ",
+    "from": "Hot Russian<bonobo@news.bonobojeans.com>",
+    "to": "[to]",
+    "date": "Tue, 03 Jan 2023 21:10:21 +0100",
+    "message_id": "\r\n <5fca974d-421c-4c80-819d-0dba68c7563c@DM6NAM10FT032.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/QdBew6L.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://laredouteshop.com/cl/1986_md/9/900/672/410/1190",
+      "https://www.dating-express.com/unsubscribe/index.php?pYvrCV26eyVetn3+XRYGQGAEjcf7Q+D38WCUsaIgm5ECssO0XiYx91GgoQmMg8OzKC1fQ9NHA7xLGKFrSMxPlg==",
+      "http://laredouteshop.com/op/1986_md/9/900/672/410/1190",
+      "i.imgur.com/QdBew6L.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 95,
+    "html_length": 1196,
+    "has_text": true,
+    "has_html": true
+  }
+}

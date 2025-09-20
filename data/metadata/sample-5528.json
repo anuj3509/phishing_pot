@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Action Required: Ledger Security Verification",
+    "from": "Ledger <noreply@useinsider.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Jun 2025 04:45:30 +0000",
+    "message_id": "<20250618044530.4A609E6D289D3A5A@useinsider.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_000_0012_9944F14E.2A906A29\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_000_0012_9944F14E.2A906A29\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here",
+      "verify your account"
+    ],
+    "urls": [
+      "https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D",
+      "https://support.ledger.com",
+      "https://ledger.com/unsubscribe",
+      "https://my-ledger-restore.s3.eu-north-1.amazonaws.com/logo-long.png",
+      "https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWNDKYKJkY1kIH3xPB05F0iKdKS-2FZG9g968xj-2FP2IagIgyjEADTlkaG-2FbXWj8ZzOEr9EFv0MOTfHbQHZH81d9L2Y0DHB-2ByxOKab4aY-2BKZiNuIQ0QkJMrZuC5W1pWwF6qRV8Qf9YX6hZp4NRktUHwQp458isnfpfWqOazPUlirR5bXo46qclheTUuLteLovDeRc-3D",
+      "https://secure.ledger.com/unsubscribe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1348,
+    "html_length": 3615,
+    "has_text": true,
+    "has_html": true
+  }
+}

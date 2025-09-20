@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Re: [New] Payment Report: 445333282",
+    "from": "Support <rodrigo-f-p@hotmail.com><phishing@pot@17boz.onmicrosoft.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Aug 2024 22:16:33 +0000",
+    "message_id": "\r\n <305218608690.c2a05573e8926999c6035dcb76dc49f9-HETNGKH80MU9LHUBLM1R7RFFYF92CTF6JIU2V692AQQ980VT63IUG8K4J5CRGP0AHMM54EET9243XQAVDTIS9FDP4U======@microsoft.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "res.cdn.office.net/assets/mail/pwa/v1/pngs/apple-touch-icon.png",
+      "res.cdn.office.net/assets/framework/microsoft.svg",
+      "http://www.w3.org/1999/xhtml",
+      "res.cdn.office.net/",
+      "outlook.office365.com",
+      "https://outlook.office.com",
+      "hotmail.com).",
+      "https://login.microsoftonline.com",
+      "hotmail.com",
+      "outlook.live.com/mail/favicon.ico"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 19914,
+    "html_length": 156372,
+    "has_text": true,
+    "has_html": true
+  }
+}

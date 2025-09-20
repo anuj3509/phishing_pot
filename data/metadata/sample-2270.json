@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Thank you for subscribing to Via Trading",
+    "from": "VIA Trading Team <groupm@viatrading.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Dec 2023 01:56:35 +0530",
+    "message_id": "<waebcd17026659613065927@viatrading.com>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_170267195298421632\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/alternative; boundary=\"_----------=_170267195298421632\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://delivery.viatrading.com/VMDHWG?id=88667=eRgGCAANA1AGS0MZExNCRBAYF0USEkUWRUITGRkZQkUWRBYYGBUVRhEXQxkTE0JEEAhLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==",
+      "http://delivery.viatrading.com/VMDHWG?id=88667=dRgGCAANA1AGS1sJCwZQXQYJVFwEU1wPV1EKXQhdV1EBBgELXFBRBFNWVA4BC1RdVlpLF11WF18CDR5fFEkiDVkQW1lRWRsFXlofCAQDUFIGDQ5TAwFVAFBbAQ5FURYRRl4ZF1xQWQ9HUhFAHUULBURKVgFbXAIYBg1eFm90Ji1hIwlRXElDVQ==&amp;fl=XhBCSAIaGhFGQE1PWlIWFlFcXgtVHAZZCE1BXF5QERFTFhhSUEFY",
+      "https://forms.yandex.com/cloud/657cb5ef73cee71aef63602d/?jiihshhnr."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 283,
+    "html_length": 942,
+    "has_text": true,
+    "has_html": true
+  }
+}

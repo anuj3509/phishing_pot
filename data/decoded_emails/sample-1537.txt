@@ -1,0 +1,208 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Nehmen Sie an unserer Umfrage teil und gewinnen Sie ein Gutschein von Decathlon im Wert von 1.000 Euro.
+From: Decathlon, Decathlon <telekom@email-telekom.de>
+To: phishing@pot
+Date: Sat, 07 Oct 2023 15:52:48 +0200
+Message_Id: <kLpKFcw.38561.264+phishing@pot=110979@email-telekom.de>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://bsq2.firiri.shop/QVl6alVMb3NoaUhubTRPcFB1aE9vVW5aZHQ5R3BaM0lzY3Q3dzJOTm1hSHl2WEpINitrNmJqZ0lVK3JDT0EwLy9hU1Q4WGlDclh5U3RYa1U1ZFY5N1E9PQ__
+  - window.postMessage({_custom_type_:
+  - sf22.sendsfx.com/admin/temp/user/2/dec-header-de.jpg
+  - http://bsq2.firiri.shop/L3F1NnpYVTZqYXdvMno3RTNWWXdHV3VUNGZQeTZYWkkzMEEyT1J6WmZCcDVJQ0lhT0huSE1IQmVTTnRJbC9tVXJFejhzNzdCbytGVDBBWmU3WlJmSEE9PQ__
+  - http://bsq2.firiri.shop/QnBZTmFXbk4zdVRNdFZLV1NXdVFBdFV6NmEzOVA0YVY1ZWJsMk1vZmtmZkUzYUNHekJVL0U5b1Y1QjdpbWczWjA3MzhiOTd5OHE1RlZaVlJvTWZTK2c9PQ__
+  - https://t.co/vzFNxaEE9Q
+  - history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})()
+  - history.pushState,t=history.replaceState,a=history.back,r=history.forward;function
+
+DECODED TEXT CONTENT:
+------------------------------
+(()=>{const e=history.pushState,t=history.replaceState,a=history.back,r=history.forward;function n(){window.postMessage({_custom_type_:"CUSTOM_ON_URL_CHANGED"})}history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})() Decathlon Ihre 1000Euro Gutschein von Decathlon 🌊👟🛶 Decathlon 80+ SPORTS . Hallo phishing@pot, Wir verlosen ein Gutschein von Decathlon im Wert von 1.000 Euro ! Um an der Verlosung teilzunehmen, müssen Sie sich einfach nur hier eintragen: An der Verlosung teilnehmen Wir wünschen Ihnen viel Erfolg bei der Teilnahme! Max Stelter Kundensupport Um sich abzumelden, klicken Sie bitte auf Hier oder schreiben Sie an: 616 Corporate Way Ste.2-9092 Valley Cottage, NY 10989 click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns="110979"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script ecommerce-type="extend-native-history-api">(()=>{const e=history.pushState,t=history.replaceState,a=history.back,r=history.forward;function n(){window.postMessage({_custom_type_:"CUSTOM_ON_URL_CHANGED"})}history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})()</script></head><body contenteditable="false" bgcolor="#f2f2f2"> 
+  <!-- GK: container --> 
+ <a href="https://t.co/vzFNxaEE9Q" style="outline:0; text-decoration:none" target="_blank">  <table id="wrappertable" style="table-layout: fixed;" width="100%" cellspacing="0" cellpadding="0" border="0"> 
+   <tbody>
+    <tr> 
+     <td valign="top" align="center"> 
+      <table cellspacing="0" cellpadding="0" border="0"> 
+       <tbody>
+        <tr> 
+         <td style="background-color: #ffffff; box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);" width="600" valign="top" align="center"> 
+          <!-- GK: image--> 
+          <table style="background-color: #ffffff; padding:0px 0px 10px 0px;" width="100%" cellspacing="0" cellpadding="0" border="0"> 
+           <tbody>
+            <tr> 
+             <td style=" line-height:1px;" valign="middle"> <br></td> 
+            </tr> 
+            <tr> 
+             <td style="padding: 0 0px;" valign="top" align="center"> 
+              <table cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td width="600" valign="middle" align="center"> 
+<br><center><b style="color:#000; font-size:35px; line-height:26px; text-align:center;"><br>Decathlon<br><br></b><img src="//sf22.sendsfx.com/admin/temp/user/2/dec-header-de.jpg" style="width: 100%; max-width: 100%;" border="0" alt="🎊"></center>
+<br>
+<table style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;border-spacing:0 !important;border-collapse:collapse !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:auto !important;margin-left:auto !important;table-layout:fixed !important;    ;border-width:1px;background-color:#0279bb;width:90%;border-radius:15px;" width="100%" cellpadding="0">
+                                        <tbody><tr style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">
+                                            <td colspan="2" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;font-family: 'Courier New', Courier, monospace;font-weight: 1000;color: #fff;font-size: 30px;text-transform: uppercase;/*! padding-top: 20px; *//*! padding-bottom: 20px; */padding-left: 10px;padding-right: 10px;letter-spacing: 0.5px;text-align: center;line-height: 30px;mso-line-height-rule: exactly;">
+                                            <br>  Ihre 1000Euro  <strong style="color:#fff100"><b>Gutschein</b></strong> von<br><br> Decathlon
+                                            </td>
+                                        </tr>
+                           
+                                        <tr>
+                                            <td colspan="2" style="-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;mso-table-lspace: 0pt !important;mso-table-rspace: 0pt !important;font-family: 'Courier New', Courier, monospace;/*! padding-top: 2px; *//*! padding-bottom: 2px; */padding-right: 30px;padding-left: 30px;/*! mso-line-height-rule: exactly; */">
+                                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"><strong><center><b style="color:black; font-size:50px">🌊👟🛶</b> </center><br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">
+                                       
+                                               
+                                                <br style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;">
+                                                <center style="-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;"></center></strong><strong><center><b style="color:#fff; font-size:35px; line-height:26px; text-align:center;">Decathlon 80+ SPORTS</b></center><p>.</p></strong></td></tr></tbody></table>
+
+
+
+ </td> 
+                </tr> 
+               </tbody>
+              </table> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <!-- CH: end image --> 
+          <!-- CH: spacer --> 
+          <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+           <tbody>
+            <tr> 
+             <td style="padding-top: 20px; line-height: 0px;"> <br></td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <!-- CH: end spacer --> 
+          <!-- CH: text content --> 
+          <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+           <tbody>
+            <tr> 
+             <td style="font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; line-height:24px; letter-spacing:0px; color:#414141; padding-left:10px; padding-right:10px; min-height:20px; mso-line-height-rule: exactly; padding: 0px 25px;" valign="middle"> Hallo phishing@pot, <br> <br> Wir verlosen ein Gutschein von <strong>Decathlon</strong> im Wert von <strong>1.000 Euro</strong>!<br> <br> Um an der Verlosung teilzunehmen, müssen Sie sich einfach nur hier eintragen: <br> 
+              <!-- CH: end text content --> 
+              <!-- CH: spacer --> 
+              <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td style="padding-top: 10px; line-height: 0px;"> <br></td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <!-- CH: end spacer --> 
+              <!-- CH: CTA (Button) --> 
+              <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td style="padding: 0 20px;" valign="top" align="center"> 
+                  <table cellspacing="0" cellpadding="0" border="0"> 
+                   <tbody>
+                    <tr> 
+                     <td style="padding-top: 5px; line-height: 0px;"> <br></td> 
+                    </tr> 
+                    <tr> 
+                     <td width="540" valign="top" align="center"> 
+                      <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+                       <tbody>
+                        <tr> 
+                         <td style=" padding: 6px 12px;" width="540" valign="middle" height="40" align="center">   <center><a href="https://t.co/vzFNxaEE9Q" style="display: block;
+    text-decoration: none;
+    width: 249px;
+    margin: 2%;
+    background: #0279bb;
+    border-bottom: 3px solid #FFCC00;
+    padding: 2%;
+    color: #fff;
+    font-weight: bold;
+    font-style: normal;
+    font-variant: normal;
+    font-size: 20px;
+    border-radius: 190px 3px;" target="_blank">An der Verlosung teilnehmen</a></center></td> 
+                        </tr> 
+                       </tbody>
+                      </table> </td> 
+                    </tr> 
+                   </tbody>
+                  </table> </td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <!-- CH: end CTA (Button) --> 
+              <!-- CH: spacer --> 
+              <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td style="padding-top: 10px; line-height: 0px;"> <br></td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <!-- CH: end spacer --> 
+              <!-- CH: spacer --> 
+              <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td style="padding-top: 10px; line-height: 0px;"> <br></td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <!-- CH: end spacer --> 
+              <!-- CH: spacer --> 
+              <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+               <tbody>
+                <tr> 
+                 <td style="padding-top: 20px; line-height: 0px;"> <br></td> 
+                </tr> 
+               </tbody>
+              </table> 
+              <!-- CH: end spacer --> 
+              <!-- CH: text content --> Wir wünschen Ihnen viel Erfolg bei der Teilnahme! <br> <br> <strong>Max Stelter</strong><br> Kundensupport <br> <br> 
+              <!-- CH: end text content --> </td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <!-- CH: spacer --> 
+          <table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+           <tbody>
+            <tr> 
+             <td style="padding-top: 20px; line-height: 0px;"> <br></td> 
+            </tr> 
+           </tbody>
+          </table> 
+          <!-- CH: end spacer --> </td> 
+        </tr> 
+       </tbody>
+      </table></td> 
+    </tr> 
+   </tbody>
+  </table> </a>
+  <!-- end container -->  
+  <br> 
+  <div style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#000000; line-height:15px; padding-bottom:10px" align="center">
+    Um sich abzumelden, klicken Sie bitte auf 
+   <a href="http://bsq2.firiri.shop/L3F1NnpYVTZqYXdvMno3RTNWWXdHV3VUNGZQeTZYWkkzMEEyT1J6WmZCcDVJQ0lhT0huSE1IQmVTTnRJbC9tVXJFejhzNzdCbytGVDBBWmU3WlJmSEE9PQ__">Hier</a> oder schreiben Sie an: 
+   <br> 616 Corporate Way Ste.2-9092
+   <br> Valley Cottage, NY 10989 
+  </div>
+ 
+
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://bsq2.firiri.shop/QVl6alVMb3NoaUhubTRPcFB1aE9vVW5aZHQ5R3BaM0lzY3Q3dzJOTm1hSHl2WEpINitrNmJqZ0lVK3JDT0EwLy9hU1Q4WGlDclh5U3RYa1U1ZFY5N1E9PQ__">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://bsq2.firiri.shop/QnBZTmFXbk4zdVRNdFZLV1NXdVFBdFV6NmEzOVA0YVY1ZWJsMk1vZmtmZkUzYUNHekJVL0U5b1Y1QjdpbWczWjA3MzhiOTd5OHE1RlZaVlJvTWZTK2c9PQ__" style="visibility:hidden" width="1px" height="1px"></body></html>
+

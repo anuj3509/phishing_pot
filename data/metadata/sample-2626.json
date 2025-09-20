@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "You have earned +0.303472 BTC using our cloud mining service!",
+    "from": "Diana Sotomayor <dsotomayor@segurosgoque.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 20 Jan 2024 00:49:32 +0000",
+    "message_id": "<4253755b747fb6496987731264807f7c@segurosgoque.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_00afa27c8a2eb550760860215e7046c5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_00afa27c8a2eb550760860215e7046c5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://binancepartners-btc-go.com/go/740303/74w2"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 73,
+    "html_length": 2698,
+    "has_text": true,
+    "has_html": true
+  }
+}

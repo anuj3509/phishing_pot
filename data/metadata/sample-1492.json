@@ -1,0 +1,69 @@
+{
+  "headers": {
+    "subject": "Sie hat ihr Foto f��r Sie freigeschaltet",
+    "from": "Nackte Frauen, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Oct 2023 14:03:59 +0200",
+    "message_id": "\r\n <f00784c8-0e75-48e2-8c2e-f47f9e4f1c74@VI1EUR05FT050.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      ".block-grid.eight-up",
+      ".block-grid.six-up",
+      ".block-grid.two-up",
+      ".block-grid.nine-up",
+      "img.fullwidthOnMobile",
+      "http://easilett.com/un/636_md/2010/20/90/23/2459859",
+      "www.oncf2255.ma.",
+      ".block-grid.seven-up",
+      "http://easilett.com/cl/636_md/2010/20/90/23/2459859",
+      ".block-grid.five-up",
+      ".no-stack.three-up",
+      ".no-stack.two-up",
+      "oncf-voyages.ma",
+      "img.fullwidth,",
+      "http://easilett.com/media/050369ef6519f2e.jpg",
+      "http://easilett.com/media/107e285508a6906.png",
+      ".col.num3",
+      ".block-grid.four-up",
+      ".no-stack.four-up",
+      ".col.num12",
+      ".block-grid.three-up",
+      "surwww.oncf-voyages.ma",
+      ".no-stack.mixed-two-up",
+      ".col.num8",
+      ".block-grid.mixed-two-up",
+      "img.fullwidth",
+      ".block-grid.twelve-up",
+      ".col.num4",
+      "http://easilett.com/media/9fd52b4bfa12860.jpg",
+      ".block-grid.eleven-up",
+      "www.ONCF-Voyages.ma",
+      "http://easilett.com/media/da349363cd7fbf5.jpg",
+      "http://easilett.com/media/26c16cd878ab8db.jpg",
+      ".block-grid.ten-up"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9418,
+    "html_length": 50250,
+    "has_text": true,
+    "has_html": true
+  }
+}

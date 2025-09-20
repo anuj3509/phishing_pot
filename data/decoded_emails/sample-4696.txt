@@ -1,0 +1,236 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot,���� Herzlichen Gl��ckwunsch! Sie sind ein Finalist f��r 500��� Geschenkcoupons!
+From: Rossmann <phishing@pot>, Rossmann <service@stayfriends.de>
+To: <phishing@pot>
+Date: Thu, 16 Jan 2025 18:06:12 +0000
+Message_Id: <hpo8Wc1.0.0.hpo8Wc1.9.hpo8Wc1@stayfriends.de>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.zupimages.net/up/25/02/vxnq.png
+  - http://www.w3.org/1999/xhtml
+  - http://dri.servicecentre.info/dC9DWFFGWGtpZlBhTWpqQ2RmUkVtR1o3NnlBbHBsWTM5MldWYVJQODNiSTVYN3dtalBTR0tXeXFKUVlNMW9zWnVmZzRoNG9ZZG1CZXZFMi9leUNkNlAyNWM3b2l6d0VTaExHQ2ZKVlE5VkE9
+  - http://servicecentre.info/ZVAvL25sSkY2N1RtN0QxWktwYW9wYXl5TW5NTkUwaGR0YlJQdmZpdGxoZ0xHN3k5T1locXhmWElvR3prZGhWR0VMSWxvVDZsN0NGbEpycHZBUE5QWmtoRkcvOGhRY0VVYTVHTGdxQ091ZzQ9
+  - www.zupimages.net/up/25/02/vxnq.png
+  - https://lifeinsureand.com/?a=7790&amp;oc=22631&amp;c=59695&amp;m=3&amp;s1=
+
+DECODED TEXT CONTENT:
+------------------------------
+body {Margin:0 auto; padding:0;} img {max-width:100%;} table {border-spacing:0!important; border:none; cellpadding:0px; } td {cellpadding:0px; border-spacing:0px;} tr {cellpadding:0px; border-spacing:0px;} /* Client-specific Styles */ #outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */ body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */ table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */ img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */ /* bungy button */ .scaling {transition: all .2s ease-in-out;} .scaling:hover { transform: scale(1.1); } @keyframes pound { from { transform: none; } 50% { transform: scale(1.2); } to { transform: none; } } .bungy {display: inline-block; font-size: 150px; color: #e00; animation: pound 3s infinite; transform-origin: center; } Herzlichen Glückwunsch phishing@pot, wir gratulieren Ihnen, denn Sie sind einer der Finalisten für unser ROSSMANN Gewinnspiel für 500€ Geschenkcoupons. Die Ziehung wurde in Berlin von der Gewinnspielzentrale durchgeführt. Verlieren Sie also keine Zeit und machen Sie jetzt mit, um sich Ihren möglichen Gewinn zu sichern . Klicken Sie jetzt hier und machen Sie mit. Wir wünschen Ihnen viel Glück, Ihr Gewinner-Team » BESTÄTIGEN « You can unsubscribe from our communications at any time by clicking here
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title></title>
+
+		<style type="text/css">
+			body	{Margin:0 auto; padding:0;}
+			img		{max-width:100%;}
+			table	{border-spacing:0!important; border:none; cellpadding:0px; }
+			td		{cellpadding:0px; border-spacing:0px;}
+			tr		{cellpadding:0px; border-spacing:0px;}
+			/* Client-specific Styles */
+			#outlook a{padding:0;} /* Force Outlook to provide a "view in browser" message */
+			.ReadMsgBody{width:100%;} .ExternalClass{width:100%;} /* Force Hotmail to display emails at full width */
+			.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to display normal line spacing */
+			body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
+			table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+			img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */			
+
+			/* bungy button */ 
+			.scaling {transition: all .2s ease-in-out;}
+			.scaling:hover { transform: scale(1.1); }
+ 			@keyframes pound {
+ 			from { transform: none; }
+ 			50% { transform: scale(1.2); }
+ 			to { transform: none; }
+			}
+			.bungy {display: inline-block; font-size: 150px; color: #e00; animation: pound 3s infinite; transform-origin: center; }
+		</style>
+        
+
+        
+        
+	</head>
+	<body bgcolor="#f2f2f2">
+	
+
+<!-- GK: container  -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" id="wrappertable" style="table-layout: fixed;">
+  <tr>
+    <td align="center" valign="top">
+   <table cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td width="600" align="center" valign="top" style="background-color: #ffffff; box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);">
+       
+                        <!-- GK: image-->
+	
+			  
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; padding:0px 0px 10px 0px;">
+              <tr>
+                <td align="center" valign="top" style="padding: 0 0px;">
+               
+                <table cellpadding="0" cellspacing="0" border="0">
+                      
+                          <tr>
+                            <td width="600" align="center" valign="middle">
+                            <a href="https://lifeinsureand.com/?a=7790&amp;oc=22631&amp;c=59695&amp;m=3&amp;s1=" style="outline:0;" target="_blank">
+                                  <img src="https://www.zupimages.net/up/25/02/vxnq.png" style="width: 100%; max-width: 100%;" border="0" alt="">
+                                  <img src="//www.zupimages.net/up/25/02/vxnq.png" style="width: 100%; max-width: 100%;" border="0" alt="">
+                            </a>
+                        </td>
+                          </tr>
+                          
+                        </table>
+                 </td>
+              </tr>
+            </table>
+                      <!-- GK: / image-->  
+         
+
+  
+            
+           
+            
+            
+            
+            
+              <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+              <!--GK: text-->
+                        
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; ">
+                          <tr>
+                            <td valign="middle" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; font-weight:normal; line-height:24px; letter-spacing:0px; color:#535D67; padding-left:40px; padding-right:40px; min-height:20px; mso-line-height-rule: exactly; padding: 0px 45px; ">
+        Herzlichen Glückwunsch phishing@pot,<br>
+<br>
+
+
+wir gratulieren Ihnen, denn Sie sind einer der <strong>Finalisten</strong> für unser <strong> ROSSMANN </strong> Gewinnspiel für 500€ Geschenkcoupons.<br>
+Die Ziehung wurde in Berlin von der Gewinnspielzentrale durchgeführt.<br>
+<br>
+
+
+Verlieren Sie also keine Zeit und machen Sie jetzt mit, um sich Ihren <strong> möglichen Gewinn zu sichern</strong>.<br>
+<br>
+
+
+<a href="https://lifeinsureand.com/?a=7790&amp;oc=22631&amp;c=59695&amp;m=3&amp;s1=" target="_blank" style="color:#414141; ">Klicken Sie jetzt hier und machen Sie mit.</a><br>
+<br>
+
+
+Wir wünschen Ihnen viel Glück,<br>
+
+
+Ihr Gewinner-Team
+
+<br>
+<br>
+
+
+</td>
+                          </tr>
+                        </table>
+                        
+                        <!--GK: / text--> 
+                        
+                      <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                      <td style="padding-top: 10px; line-height: 0px;"></td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                        
+
+            <!-- GK: Button-->
+                        
+                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                          <tr>
+                            <td align="center" valign="top" style="padding: 0 20px;"><table cellpadding="0" cellspacing="0" border="0">
+                                <tr>
+                                  <td style="padding-top: 5px; line-height: 0px;"></td>
+                                </tr>
+                                <tr>
+                                  <td width="350" align="center" valign="top"><table width="100%" cellpadding="0" cellspacing="0" border="0" class="bungy">
+                                      <tr>
+                                        <td width="350" height="40" align="center" valign="middle" style="background-color: #ce0b2b; padding: 6px 12px;">
+<a style="display: block; text-decoration: none; font-family: 'Arial', verdana, sans-serif; font-size: 18px; mso-line-height-rule: exactly; line-height: 32px;font-weight: bold; text-transform: uppercase; color: #ffffff;" href="https://lifeinsureand.com/?a=7790&amp;oc=22631&amp;c=59695&amp;m=3&amp;s1=" target="_blank">» BESTÄTIGEN «</a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table>
+                        
+                        <!-- GK: / Button-->            
+                        
+                        
+                      
+								
+		 				
+                        
+   
+                     <!--GK: / spacer-->     
+        <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+
+   <td align="center">
+   <br><br>   <br><br>
+ <p style="font-size: 13px; color: #797979; max-width: 500px; line-height: 1.4;">
+</p>                 
+    </td>      
+                      <td style="padding-top: 20px; line-height: 0px;">
+
+ <p style="font-size: 13px; color: #797979; max-width: 500px; line-height: 1.4;">
+
+</p>
+</td>
+                    </tr>
+                  </table>
+                   <!--GK: / spacer-->  
+                   
+                   
+          
+                  
+                   
+            </td>
+
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<!-- GK: container  -->
+
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">You can unsubscribe from our communications at any time by clicking <a href="http://dri.servicecentre.info/dC9DWFFGWGtpZlBhTWpqQ2RmUkVtR1o3NnlBbHBsWTM5MldWYVJQODNiSTVYN3dtalBTR0tXeXFKUVlNMW9zWnVmZzRoNG9ZZG1CZXZFMi9leUNkNlAyNWM3b2l6d0VTaExHQ2ZKVlE5VkE9">here</a></span><br><br><img alt="" src="http://servicecentre.info/ZVAvL25sSkY2N1RtN0QxWktwYW9wYXl5TW5NTkUwaGR0YlJQdmZpdGxoZ0xHN3k5T1locXhmWElvR3prZGhWR0VMSWxvVDZsN0NGbEpycHZBUE5QWmtoRkcvOGhRY0VVYTVHTGdxQ091ZzQ9" width="1px" height="1px" style="visibility:hidden">
+

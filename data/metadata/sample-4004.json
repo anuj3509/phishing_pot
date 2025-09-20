@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Por favor confirmar la recepcion",
+    "from": "F.e.d.E.x <Rollo_Latoya_46023@sab3atontanks8.vxrrrhn.life >",
+    "to": "<NexaSlim6IIhQF5h4s@Shark.com>",
+    "date": "Wed, 11 Sep 2024 13:20:32 +0000",
+    "message_id": "<obkkvrzz7s.hbvzw5j0@lor1-app106193.prod.linkedin.com>",
+    "content_type": "multipart/digest;\r\n\tboundary=\"_d6e47639-d00b-4cb3-9c5c-d9683c4d5161_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/digest;\r\n\tboundary=\"_d6e47639-d00b-4cb3-9c5c-d9683c4d5161_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "bzq-82-81-85-250.red.bezeqint.net/9RW.swf?2g0-gAAAAABlM-HxsV3FqAfz_NX-5egscxzmbN07R7RoRPn_6Jtn7uoRDFbab3Sfb81E4qH_hOZv0YEq9haOQbSCQSdyug1Ch8vgkg5J9VmmcIyyWInpFiJdKNm06xkfhXmxlvT64INbhU3zuwtSO96GkqJBueYtdOX0zQ==",
+      "http://162.0.228.240/t/4dxvEV5662nwBG270ovxqyqouad308DDVGWPCQSLVHRRV707JBTX2350000S9",
+      "http://www.w3.org/1999/xhtml",
+      "http://162.0.228.240/t/5VoLyi5662vqfF270hcneyycctt308SNLYCZKFQASUZVB707IPGD2350000r9",
+      "https://calendly.com/dylan-eventtemple/30min",
+      "http://162.0.228.240/track/3CqhWJ5662QuWw270cefxsmcrkc308NDXJPOQTSXPIJEH707GKKS2350000M9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 13367,
+    "html_length": 24260,
+    "has_text": true,
+    "has_html": true
+  }
+}

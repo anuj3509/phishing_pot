@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "NOTIFICAÇÃO - 1837601888772635536377773 - #79755",
+    "from": "NOTIFICAÇÃO JUDICIAL <refrabras@terra.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 15 Nov 2023 11:18:09 -0300",
+    "message_id": "<37f390624a3f990c2d6ad2ef39563df7@mail-out-cmgw07-mia.tpn.terra.com>",
+    "content_type": "multipart/alternative; boundary=\"8EcU0TBWf2QqnSgfTJD4CVK=_rVYWabaG4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"8EcU0TBWf2QqnSgfTJD4CVK=_rVYWabaG4\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://l.ead.me/beXRTx/?comfirmacaoemail-log10182661",
+      "www.delegaciavirtual.gov.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 667,
+    "html_length": 2798,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: A 1000��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 24 Jun 2024 19:37:48 +0200",
+    "message_id": "<KcHFxAi.0.0.KcHFxAi.9.KcHFxAi@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/26/ga2r.png",
+      "http://limecastle.co.uk/em1yMUpBaE4rK2wwayszNGp0T2hOT3Z0dWhkM1lOOGlXcklwWEFub3YyRGlVU0puUnBLWHZQOXdjdk5BS1R2ZGJhTjF1dWhOSThBNGdxaStJT1FzeXc9PQ__",
+      "http://limecastle.co.uk/cW1Xd2lVNU5hWjFmUGcveTRqazVNdTNNc0REVE93UDZGVXZQYWdJejVJTGFla2g0aHVIUjdYMCtoc0Jkd1RIQ1N4V3ZKL1FMQ08vVFdSY2NzVzZtYmc9PQ__",
+      "https://www.zupimages.net/up/24/26/ga2r.png",
+      "http://limecastle.co.uk/NEUvaHViUGl0dThyOVJablB2VllwQ3REVEdweVcyTFcxVVpLZnJvRHdlMTNZdHRYbktSZXZwUk8yZXBJZUdxNkI3TWMvZHkxRmFBejZvWDJ1d3lvTHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1974,
+    "html_length": 9294,
+    "has_text": true,
+    "has_html": true
+  }
+}

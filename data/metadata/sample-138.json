@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Trust Wallet",
+    "from": "\"noreply\" <website@ceemiseo.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 1 Dec 2022 10:01:56 +0100",
+    "message_id": "<3216419564520287401516@WIN-HM6FI4VOIEP>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/assets/images/media/preview/horizontal_blue.png",
+      "https://iagour.com/home"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 390,
+    "html_length": 8280,
+    "has_text": true,
+    "has_html": true
+  }
+}

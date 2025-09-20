@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "ID-843691",
+    "from": "Billing-Online <admin@arbe.org.uk>",
+    "to": "dd <phishing@pot>",
+    "date": "Sun, 26 Feb 2023 01:41:27 +0000",
+    "message_id": "<4uja3wkx3i3t.gEAlZmPqc_Lk_oJZdWmiqA2@17ZJK.trk.elasticemail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"=-eZCfA0f08h/BF9adVeUkVibr6ABV2Pc07XWKyw==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"=-eZCfA0f08h/BF9adVeUkVibr6ABV2Pc07XWKyw==\""
+  },
+  "attachments": [
+    {
+      "filename": "GDydFKtIKR.html",
+      "content_type": "text/html",
+      "size": 160348
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=iLyyjyFMYYqAx-T0gsicls7Lo5v66_TPYQYuahSC",
+      "https://17ZJK.trk.elasticemail.com/tracking/unsubscribe?d=iLyyjyFMYYqAx-T0gsicls7Lo5v66_TPYQYuahSC423eHo218C3BHjCsh3X4rLV0Kji6uWY89L16KMMxEG5l0eNFVCrV4htM4ijly9LIQOht0",
+      "https://17ZJK.trk.elasticemail.com/tracking/open?msgid=gEAlZmPqc_Lk_oJZdWmiqA2&c=1629657865855925244"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 617,
+    "html_length": 1167,
+    "has_text": true,
+    "has_html": true
+  }
+}

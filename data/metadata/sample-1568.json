@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Peace be with you",
+    "from": "info@flessak.com.br",
+    "to": "Recipients <info@flessak.com.br>",
+    "date": "Thu, 12 Oct 2023 11:33:16 +0100",
+    "message_id": "<20231012103320.60A238E6A95@taz.flessak.com.br>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Mrs.Feyza",
+      "Mr.Yusuf",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2980,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

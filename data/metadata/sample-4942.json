@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Ihr Samsonite Proxis Kofferset ist auf dem Weg!",
+    "from": "\"Samsonite Proxis Luggage Kit Gewinner Bekanntgabe!\" <Department-client-n54197@thpthiephoa1eduvn.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 20 Feb 2025 16:25:33 +0000",
+    "message_id": "<84277b86-aff6-440b-b1cf-3be81d471460@HK2PEPF00006FB1.apcprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "i.imgur.com/WmUdse1.png",
+      "www.cdnlogo.com/logos/s/21/samsonite.svg",
+      "https://i.imgur.com/WmUdse1.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.cdnlogo.com/logos/s/21/samsonite.svg",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgur.com/AFizkbn.jpeg",
+      "https://lmy.de/BPwPB?YYJIIcWuc1ERbS2CCdzjRFMCk53TKTt447y93xX65l4HxuKHywDlaWug7eJjNBHzvVORuaodAfJE3tfCDw0uOf",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7168,
+    "html_length": 22217,
+    "has_text": true,
+    "has_html": true
+  }
+}

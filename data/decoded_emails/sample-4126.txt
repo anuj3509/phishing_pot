@@ -1,0 +1,132 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ol�� phishing@potfp Aviso: Sua Encomenda Est�� Retida Regularize o Pagamento Imediatamente para Libera����o!
+From: Correios <taxascorreios@atendimento1301>
+To: phishing@pot
+Date: Sat, 21 Sep 2024 11:07:08 +0000 (UTC)
+Message_Id: <20240921110708.2726547912@hqdpxcwky.vyciojeglkgnkq.com.br>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://ednvendas.com.br/taxa
+
+DECODED TEXT CONTENT:
+------------------------------
+Ação Necessária - Regularização de Pendência Alfandegária body { font-family: 'Arial', sans-serif; background-color: #f7f7f7; margin: 0; padding: 0; color: #333; } .container { width: 100%; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); } .header { background-color: #004688; /* Azul corporativo */ padding: 30px 20px; text-align: center; border-radius: 8px 8px 0 0; color: #fff; } .header h1 { margin: 0; font-size: 26px; font-weight: bold; letter-spacing: 1px; } .content { padding: 30px 20px; text-align: center; background-color: #ffffff; color: #555; } .content p { font-size: 18px; line-height: 1.6; margin: 0 0 15px; } .cta-button { display: inline-block; background-color: #FFCC00; /* Amarelo de destaque */ color: #004688; padding: 15px 40px; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 8px; margin-top: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); transition: background-color 0.3s ease, box-shadow 0.3s ease; } .cta-button:hover { background-color: #e6b800; box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2); } .footer { background-color: #004688; padding: 15px; text-align: center; color: #fff; font-size: 14px; border-radius: 0 0 8px 8px; } .footer p { margin: 0; } .footer a { color: #FFCC00; text-decoration: none; } Correios - Ação Necessária Olá, Rodrigofp, Identificamos que sua encomenda foi retida na alfândega devido à pendência de pagamento das taxas obrigatórias. Para liberar sua encomenda e evitar atrasos, recomendamos que o pagamento seja realizado imediatamente. Clique no botão abaixo para efetuar o pagamento: Realizar Pagamento © 2024 Correios. Todos os direitos reservados. Política de Privacidade | Contato
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ação Necessária - Regularização de Pendência Alfandegária</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f7f7f7;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #004688; /* Azul corporativo */
+            padding: 30px 20px;
+            text-align: center;
+            border-radius: 8px 8px 0 0;
+            color: #fff;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 26px;
+            font-weight: bold;
+            letter-spacing: 1px;
+        }
+        .content {
+            padding: 30px 20px;
+            text-align: center;
+            background-color: #ffffff;
+            color: #555;
+        }
+        .content p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 0 0 15px;
+        }
+        .cta-button {
+            display: inline-block;
+            background-color: #FFCC00; /* Amarelo de destaque */
+            color: #004688;
+            padding: 15px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            border-radius: 8px;
+            margin-top: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #e6b800;
+            box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+        }
+        .footer {
+            background-color: #004688;
+            padding: 15px;
+            text-align: center;
+            color: #fff;
+            font-size: 14px;
+            border-radius: 0 0 8px 8px;
+        }
+        .footer p {
+            margin: 0;
+        }
+        .footer a {
+            color: #FFCC00;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>Correios - Ação Necessária</h1>
+        </div>
+
+        <div class="content">
+            <p>Olá, Rodrigofp,</p>
+            <p>Identificamos que sua encomenda foi retida na alfândega devido à pendência de pagamento das taxas obrigatórias.</p>
+            <p>Para liberar sua encomenda e evitar atrasos, recomendamos que o pagamento seja realizado imediatamente.</p>
+            <p>Clique no botão abaixo para efetuar o pagamento:</p>
+            
+            <a href="https://ednvendas.com.br/taxa" class="cta-button">Realizar Pagamento</a>
+        </div>
+
+        <div class="footer">
+            <p>© 2024 Correios. Todos os direitos reservados.</p>
+            <p><a href="#">Política de Privacidade</a> | <a href="#">Contato</a></p>
+        </div>
+    </div>
+
+</body>
+</html>

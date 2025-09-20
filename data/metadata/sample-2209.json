@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Secure your Portfolio",
+    "from": "Portfolio Scan <security@baiafood.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Dec 2023 03:03:50 +0000 (UTC)",
+    "message_id": "<7xRzPZZcTEiDr9bBPpAe1g@geopod-ismtpd-9>",
+    "content_type": "multipart/alternative; boundary=d4efee8265b6403932c81f9a388ca670f11230e679c888d5de03a2e2371f"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=d4efee8265b6403932c81f9a388ca670f11230e679c888d5de03a2e2371f"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://d3k81ch9hvuctc.cloudfront.net/company/NKAkks/images/975704d5-8a03-4996-a3e4-40d8c4d7f48b.png",
+      "https://d3k81ch9hvuctc.cloudfront.net/company/NKAkks/images/84074a36-b8be-4a38-8bcc-bcf327f96309.png",
+      "div.kl-row.colstack",
+      ".content-padding.last",
+      "https://static-forms.klaviyo.com/fonts/api/v1/NKAkks/custom_fonts.css);",
+      "http://www.w3.org/1999/xhtml",
+      ".table-mobile-only.inline-block",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "https://d3k81ch9hvuctc.cloudfront.net/company/NKAkks/images/6df553a3-1df9-495f-aeb0-77169ea8c463.png",
+      ".kl-hlb-wrap.nospc.nospc",
+      ".table-mobile-only.block",
+      "https://trk.klclick.com/ls/click?upn=eOQ24Uz2VmP4QbXYLhPcK7h6kjdJ2vELwGQ1M5tDFdvupjVu7L4QgBeuavcsbnWiwC3vMt26dxX-2BA6G0xe8wNUuoV21Nllf9-2FVL2tDdYyvsS2w-2BPUnctNSQ-2BVaG7ev80GX9SUKYLTuhDj7rt2b4ffz8lwbUnLIhgrVLDBb7GRP4MMAsaVqF8gQzwj13lZfb0VndxVAn-2FYoL2zkSyBJCdu6iZr27TzepouCVdm408CTg-2BJOo-2FxMw6zQOsKqhaE1x-2F_6CE_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPnuLLeQdsBy5jxWJ5xSw6J4cVCHJaZDlDRGDxp-2FBwagmFVMZoyCHUelqV8Ka-2F9wgSuu4PxoDPXhDNtk-2FbiN5gyV1oblP0lhYxYvjB2OxMwV930I13HVN9SlxlFbvH8Dz3YWPEn75FnLXAPoEiXMVnKgAra1yp7PLPujtInvtObRWbxefeS2JTThsEu4XwTQv8YXNsLWopf0DY0XJ9y-2BKKxMLjLF1RtA2gmzvYZtvmrP3K9Oq-2BIKAEBiXxB-2BE7WF3WMegoQxPnt7SlVckoGmMTlmG8EMKZSXnIbM2L0H4l1SV3Y4KLRuHiedDTdkwzVEZ2TetyujAWVdT4DIPb326eFSyWD518-2FlXmfz2RWUUb5QnsygRj-2BaZmUYG5i4-2FF3-2BarfreW8tmuqAx9JWTl0I2ohrdQW-2BbbfeCcQhsz3XOjZpBw-3D-3D",
+      "td.mobile-only",
+      ".kl-hlb-stack.vspc",
+      "div.kl-column",
+      "table.mobile-only",
+      "https://manage.kmail-lists.com/subscriptions/unsubscribe?a=NKAkks&c=01HHK2HB7M3B9TZ41230JS78ES&k=782a76cc3188de763b2235606de6803d&g=QR6gPa&m=01HHK44NAXQ8E8VMDHKGV94DRE&r=37vdVjwB).",
+      "https://trk.klclick.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FIhiX1ejg-2FNoBG1KmT6-2FSQImnayBfENvT37FdZMsqHS6BPnQADml2tG76cOk64dpTYS19F-2B3b5Mpop5R4T31u8amnfNhnSTH4roT4uGVTIainEJCEtlpjL-2B-2Fm8HmfnDIR33i2DkxECNLAn1wsPhN0eXKFCNUy0nGZ5CHvKbi-2BSS-2BpjBHC2mKdDbT674gtLL8onO0tC19hogmJDRUFWP1AMFvxRZqTQLRhgcab1nCDJn0BTBOE3d4tkcA8PGCFNrQ8VT5brz1E4U7AsPhtyZ-2FAoBVejEvpMzId6z8z5v0XpoMZB-2BSLWb8NyWW1pgmNXqLGuknR0tSEDfD9sooTmFgAzKxTmfEEghEoWNsx-2FidTg6oWgWUiUjNM7afR-2F66jr8ycsyZPZjqF7UAXpuYpdFTy4d2c0NkSl4zVIODfnD3OGYg-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 849,
+    "html_length": 25530,
+    "has_text": true,
+    "has_html": true
+  }
+}

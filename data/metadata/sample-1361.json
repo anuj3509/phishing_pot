@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Activez votre compte",
+    "from": "TrustWallet APP <noreply@pepsup.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Sep 2023 03:04:47 +0000",
+    "message_id": "<30477602.20230923030447.650e55cf978871.95571968@mail.pepsup.com>",
+    "content_type": "multipart/alternative; boundary=\"_av-L6t2hWgIRJ851l4c75G4pg\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_av-L6t2hWgIRJ851l4c75G4pg\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "https://www.pepsup.com/confirm-signup/184675/6a29e2549eb1ed2cee14dbd550b506c8",
+      "https://mandrillapp.com/track/click/30477602/www.pepsup.com?p=eyJzIjoiXzczdXdqa193UXF1Q0w5SHppQVpldEFVS0dZIiwidiI6MSwicCI6IntcInVcIjozMDQ3NzYwMixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5wZXBzdXAuY29tXFxcL2NvbmZpcm0tc2lnbnVwXFxcLzE4NDY3NVxcXC82YTI5ZTI1NDllYjFlZDJjZWUxNGRiZDU1MGI1MDZjOFwiLFwiaWRcIjpcIjc3NjZiNzVjNzExZTRhMjhiNzRlY2QwMzA1YTY5YTYwXCIsXCJ1cmxfaWRzXCI6W1wiNTJjZGZjMGY3NmI1ZTg4ZGEwOWJkMjBiNDA0MDE5MzUxYmMyZDg3M1wiXX0ifQ",
+      "https://mandrillapp.com/track/open.php?u=30477602&amp;id=7766b75c711e4a28b74ecd0305a69a60",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 454,
+    "html_length": 32963,
+    "has_text": true,
+    "has_html": true
+  }
+}

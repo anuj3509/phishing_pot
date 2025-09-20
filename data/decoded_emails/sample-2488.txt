@@ -1,0 +1,49 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Please verify your Trust Wallet
+From: "Trust Wallet" <support@trust-wallet.com>
+To: phishing@pot
+Date: Thu, 4 Jan 2024 03:33:15 -0800
+Message_Id: <16604362106482863719016@vps-zap65083-7>
+Content_Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_001_074B_454A2BE7.4772331E"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_001_074B_454A2BE7.4772331E"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: suspend, suspended, verify, update
+Suspicious phrases: click here
+URLs found:
+  - https://joulink.com
+  - https://www.help-tw-validation.com/
+
+DECODED TEXT CONTENT:
+------------------------------
+&nbsp; Dear customer, Our system has shown that your Trust Wallet&nbsp;is not yet verified. We need to verify and update your Trust Wallet. This&nbsp;verification can be done easily via the page below. If not&nbsp;your Trust Wallet&nbsp;will be suspended on Monday,&nbsp;January 8, 2024 . We're sorry for any inconvenience we cause with this, but please keep in mind that our intention is to keep our customers safe and happy. Thank you for your understanding. Verify your Trust Wallet If the button above doesn't work, try the page below. CLICK HERE &nbsp;&nbsp; For further assistance with this issue, please contact our support team&nbsp; here &nbsp;with phishing@pot
+
+DECODED HTML CONTENT:
+------------------------------
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=Windows-1252">
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"></head>
+<body><font size="2" face="Arial, Helvetica, sans-serif">
+<table style="border-radius: 4px" cellspacing="0" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+<tr>
+<td height="40">
+<p align="center"><img border="0" hspace="0" alt="" src="cid:9909937819-1" align="baseline"></p></td></tr>
+<tr style="FONT-SIZE: 14px; FONT-FAMILY: -apple-system,BlinkMacSystemFont,&quot;Segoe UI&quot;,&quot;Roboto&quot;,&quot;Oxygen&quot;,&quot;Ubuntu&quot;,&quot;Cantarell&quot;,&quot;Fira Sans&quot;,&quot;Droid Sans&quot;,&quot;Helvetica Neue&quot;,sans-serif; MARGIN-TOP: 20px; COLOR: rgb(78,92,110); LINE-HEIGHT: 20px">
+<td style="PADDING-LEFT: 40px; PADDING-RIGHT: 40px" valign="top" colspan="2" align="center"><span style="FONT-SIZE: 18px">&nbsp; Dear customer, </span>
+<p style="FONT-SIZE: 16px; FONT-WEIGHT: 400; LINE-HEIGHT: 26px">Our system has shown that your Trust Wallet&nbsp;is not yet verified. We need to verify and update your Trust Wallet. This&nbsp;verification can be done easily via the page below.<br><br><strong>If not&nbsp;your Trust Wallet&nbsp;will be suspended on Monday,&nbsp;January 8, 2024</strong>. We're sorry for any inconvenience we cause with this, but please keep in mind that our intention is to keep our customers safe and happy.<br><br>Thank you for your understanding.<br></p>
+<p style="MAX-WIDTH: 260px; MARGIN: 45px 0px"><a style="FONT-SIZE: 16px; TEXT-DECORATION: none; FONT-WEIGHT: 400; COLOR: rgb(255,255,255); PADDING-BOTTOM: 15px; TEXT-ALIGN: center; PADDING-TOP: 15px; PADDING-LEFT: 25px; DISPLAY: block; PADDING-RIGHT: 25px; BACKGROUND-COLOR: rgb(0,82,255); border-radius: 4px" href="https://www.help-tw-validation.com/" rel="noreferrer" target="_blank" data-saferedirecturl="https://joulink.com">Verify your Trust Wallet</a> </p>
+<p>If the button above doesn't work, try the page below.<br><br><a href="https://www.help-tw-validation.com/">CLICK HERE</a><br><span style="FONT-SIZE: 12px; COLOR: rgb(162,162,162); FONT-STYLE: italic; LINE-HEIGHT: 19px">&nbsp;&nbsp;<br>For further assistance with this issue, please contact our support team&nbsp;<a href="https://www.help-tw-validation.com/" rel="noreferrer" target="_blank" data-saferedirecturl="https://joulink.com"><font size="2" face="Arial, Helvetica, sans-serif">here</font></a>&nbsp;with phishing@pot</span></p></td></tr></table></font></body>

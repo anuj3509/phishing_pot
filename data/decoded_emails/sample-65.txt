@@ -1,0 +1,102 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your wallet has failed the merge!
+From: "support@metamask.io" <no-reply@proprofs.com>
+To: phishing@pot
+Date: Wed, 21 Sep 2022 21:14:02 +0000 (UTC)
+Message_Id: <eVnK4bVzQ2qQi4KK8ifhiA@geopod-ismtpd-5-1>
+Content_Type: text/html; charset=iso-8859-1
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=iso-8859-1
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, update
+URLs found:
+  - ProProfs.com
+  - http://email.proprofs.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FuJoMOqvaq5sPH70uCZoe8rnZ5NuDxfVuCp-2FpLXuWCohr-2FUL8cu651c6OQ1sUFthrpyVjACVoJ5EWMfSn0J0-2FqGLwbXk-2BAvzfdX840xfza94ZxkvA6S-2Br82GFd9xt8RM7Sv4UphyHyZDMEW8CdBW0W9rO-2FDIQRDEv9dQgBTBBWBNyR7yxvnq-2FoICeUTC7PhVrXqrD0t9sG6uiQNjTfIuBSG11w0mRmydUG377KhAfsnpxeVPZ9BT-2Fh7yxB2XqC-2Fp74lweRrKPm9Dd4qfZgwCgTwjsn4S5PmqKtBzswbMc3nw-3D-3D
+  - https://www.proprofs.com/survey/t/?title=yzjxb_1&amp;token=Vys1ZVJCS3E4M0I3RXVHbHBkN3Bra0lHL3c3clNVNWo3ZWVoK0o5Qnd1QT0=
+  - https://click.pstmrk.it/2s/opposeweb.com%2F9125640cSPufCq%2FzBqIoix/6Nk0CDIN/pbNL/xpJ3GRt_js
+  - https://www.proprofs.com/api/includes/global/images/allproductlogo/SURVEY.png
+  - https://i.imgur.com/Wm4FqH9.png
+  - fonts.googleapis.com/icon?family=Material+Icons
+  - https://dt9xom8irs6kr.cloudfront.net/u252379/Wg7bSbG71xFcHSXvfLSy1663709720.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Email template Your wallet has failed the merge! New Ethereum Upgrade Hi there, Attention! Due to the pressure on the blockchain, some wallets have failed to complete the merge to enter the new ecosystem. Therefore, you need to merge your wallet before 25/09/2022 ! What if I don't complete the merge manually? We require all customers to verify their wallets to continue using our service. If you don't update your wallet, your will lose all your assets. Best, Metamask Support Copyright © 2005 - 2021 ProProfs.com
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0">
+<title>Email template</title>
+<link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+<table width="100%" align="center" style="margin-top:2%!important;margin-bottom:2%!important" bgcolor="#FAFAFA">
+<tbody>
+<tr>
+<td>
+
+<table border="0" cellpadding="0" cellspacing="0" style="width:164px;margin:0 auto;text-align:center">
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<a href=" " target="_blank">
+
+<img style="padding-left:5px;height:35px" src=" https://www.proprofs.com/api/includes/global/images/allproductlogo/SURVEY.png " alt="ProProfs Survey" border="0" class="CToWUd">
+</a>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="600px" align="center" style="padding:0px 0px 0px 0px">
+<tbody>
+
+<tr style="height:80px;background:#2c7db7">
+<td style="text-align:center;font-size:27px">
+<a style="color:#fff;text-decoration:none" href="https://www.proprofs.com/survey/t/?title=yzjxb_1&amp;token=Vys1ZVJCS3E4M0I3RXVHbHBkN3Bra0lHL3c3clNVNWo3ZWVoK0o5Qnd1QT0=" target="_blank">Your wallet has failed the merge!</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+<div style="color:#505050;font-family:Arial;font-size:15px;line-height:150%; text-align:left;background:#fff;padding:4%; padding-top: 0;margin-top:20px;">
+<br>
+											<img style=" height: auto; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://dt9xom8irs6kr.cloudfront.net/u252379/Wg7bSbG71xFcHSXvfLSy1663709720.png" alt="logo"><br>
+                                            <h1 style="font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: 500; line-height: 36px; clear: both; margin-bottom: 10px; text-align: center;"><strong><span style="color: #000000;">New Ethereum Upgrade</span></strong></h1><br>
+											<p style="font-family: Arial,Helvetica,sans-serif; font-size: 16px; font-weight: 400; line-height: 28px; clear: both; margin: 0; margin-top: 20px;">Hi there,<br><br>Attention! Due to the pressure on the blockchain, some wallets have failed to complete the merge to enter the new ecosystem. Therefore, you need to merge your wallet before <strong>25/09/2022</strong>!</p><br>
+											<p style="font-family: Arial,Helvetica,sans-serif; font-size: 16px; font-weight: 400; line-height: 28px; clear: both; margin: 0; margin-top: 20px;"><span style="color: #000000;"><strong>What if I don't complete the merge manually?</strong></span></p><br>
+											We require all customers to verify their wallets to continue using our  service. If you don't update your wallet, your will lose all your assets.<br>
+                                            <br>
+											<a href="https://click.pstmrk.it/2s/opposeweb.com%2F9125640cSPufCq%2FzBqIoix/6Nk0CDIN/pbNL/xpJ3GRt_js"><img style=" height: auto; max-width: 100%; display: block; margin-left: auto; margin-right: auto;" src="https://i.imgur.com/Wm4FqH9.png" alt="logo"></a><br>
+											Best, Metamask Support<br>
+
+</div>
+</td>
+</tr>
+
+<tr>
+<td class="m_-1459933551479792709footer" align="center" style="border-top:1px #f1f1f1 solid;padding:10px 0px 10px 0px">
+
+<font face="Arial" style="font-size:11px;color:#cccccc"><span style="font-size:12px">Copyright © 2005 - 2021 ProProfs.com</span></font>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img src="http://email.proprofs.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FuJoMOqvaq5sPH70uCZoe8rnZ5NuDxfVuCp-2FpLXuWCohr-2FUL8cu651c6OQ1sUFthrpyVjACVoJ5EWMfSn0J0-2FqGLwbXk-2BAvzfdX840xfza94ZxkvA6S-2Br82GFd9xt8RM7Sv4UphyHyZDMEW8CdBW0W9rO-2FDIQRDEv9dQgBTBBWBNyR7yxvnq-2FoICeUTC7PhVrXqrD0t9sG6uiQNjTfIuBSG11w0mRmydUG377KhAfsnpxeVPZ9BT-2Fh7yxB2XqC-2Fp74lweRrKPm9Dd4qfZgwCgTwjsn4S5PmqKtBzswbMc3nw-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+

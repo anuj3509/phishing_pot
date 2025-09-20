@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Urgent",
+    "from": "\"DAVID MURRAY\" <jadelpulda@anambaskab.go.id>",
+    "to": "Recipients <jadelpulda@anambaskab.go.id>",
+    "date": "Sun, 01 Dec 2024 09:57:37 -0800",
+    "message_id": "<20241201175743.B7A5C1CFBB3@zimbra.anambaskab.go.id>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "proposal.dm4457152@gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

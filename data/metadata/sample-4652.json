@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Your ATM Visa Card Will Be Shipped Through USPS To Your Address ",
+    "from": "Mr.Danny WerfeI <correo@protege.cll>",
+    "to": "Recipients <correo@protege.cll>",
+    "date": "Tue, 31 Dec 2024 04:10:06 -0800",
+    "message_id": "<cd89076f-2565-40a8-8043-797ead52e781@200corpmxp002.lindt.net>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "500.Million",
+      "payments.Note"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4087,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

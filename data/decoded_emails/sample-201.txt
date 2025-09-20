@@ -1,0 +1,265 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: RE (2): You have a pending transaction !
+From: TrustWallet <noreply@medicomarketing.com.br>
+To: phishing@pot
+Date: Wed, 28 Dec 2022 21:23:48 +0000
+Message_Id: <010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000@email.amazonses.com>
+Content_Type: text/html; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://img.myshopline.com/image/store/2003906387/1671930442726/9b7b9cb8065a449e94f904baa348d279.png?w=500&amp;h=250
+  - p.disclaimer,
+  - p.disclaimer
+  - https://v8lsv193.r.us-east-1.awstrack.me/I0/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/eLxCUjLgUAPX8H7b8SsSfbefY0Q=302
+  - p.disclaimer{
+  - p.footer
+  - https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Foyoshopbuisness.webshopapp.com%2Finfox/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/OP6tJxRDRlDwFjlhKioEGx2vq9k=302
+  - https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Fapi.medicomarketing.com.br%2Fv2%2Fmarketing%2Fmailer-callback%3Ftoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU3M2NiNWJjLWVjYzctNGE4OC1hZGE5LTY2M2Q1Mzg2ZmJjYSIsImNsaW5pY0lkIjoyNjMxNDcsImlzVGVzdCI6dHJ1ZSwiaWF0IjoxNjcyMjYyNjI4fQ.tOknpJOOh-Q0DS9SNiBJUiceaMHB5L1zJzx0iWSAvog%26action=unsubscribe%26recipient=rodrigo-f-p%2540hotmail.com/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/Ray_j-yWBbH_AI6YdW9J6fDvHdg=302
+
+DECODED TEXT CONTENT:
+------------------------------
+body { font-family: "Open Sans", sans-serif; margin: 0; padding: 0; } body, .container { background-color: #F8F8F8; } #clinic-name, #clinic-address, #clinic-phone { display: block; margin: 0 auto; } p.disclaimer > a { font-weight: bold; text-decoration: none; color: #6D7278; } p.disclaimer, p.footer { color: #6D7278; font-size: 12px; line-height: 22px; text-align: center; } p.disclaimer{ margin: 0 auto; padding-bottom: 40px; } p.footer { margin: 0 auto; padding: 40px 0 12px 0; } p.disclaimer { max-width: 475px; } div#message { max-width: 600px; border-radius: 4px; background-color: #FFF; box-shadow: 0 6px 12px 0 rgba(0,0,0,0.05); margin: 0 auto; padding: 2px 0 20px 0; } div#message > p { padding: 0 20px; } p.footer { max-width: 510px; text-align: center; } #clinic-name { font-weight: bold; font-size: 14px; } #message figure { margin: 0; } @media (max-width: 465px) { p.disclaimer, p.footer { max-width: 240px; } div#message { max-width: 280px; font-size: 18px; line-height: 20px; } } .entityButton { text-decoration: none; color: #FFF !important; font-size: 14px; font-size: 14px; max-width: 170px; border-radius: 3px; box-shadow: 0 1px 0 0 rgba(51, 51, 51, 0.1), 0 0 0 1px #257fb0; border: solid 1px #257fb0; background-color: #257fb0; padding: 8px; font-weight: bold; text-transform: uppercase; } .entityButton > a { text-decoration: none; color: #FFF !important; } .entityButton:hover { text-decoration: none; color: #FFF !important; font-size: 14px; max-width: 170px; border-radius: 3px; box-shadow: 0 1px 0 0 rgba(51, 51, 51, 0.1), 0 0 0 1px #257fb0; border: solid 1px #257fb0; background-color: #257fb0; text-decoration: none; } .entityButton:hover > a { text-decoration: none; color: #FFF !important; } .inlineTitle { font-size: 24px; } .blockCenter { text-align: center; } .paddingDiv { color: #6D7278; height: 40px; } &nbsp; Hello, A withdrawal is awaiting your authorization to view this transaction click on the link below View Transaction Clínica TrustWallet Nós enviamos conteúdos baseados no seu interesse. Se achar que não faz mais sentido manter esse contato com a gente, clique aqui para descadastrar .
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      body {
+        font-family: "Open Sans", sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      body, .container {
+        background-color: #F8F8F8;
+      }
+      #clinic-name, #clinic-address, #clinic-phone {
+        display: block;
+        margin: 0 auto;
+      }
+      p.disclaimer > a {
+        font-weight: bold;
+        text-decoration: none;
+        color: #6D7278;
+      }
+      p.disclaimer, p.footer {
+        color: #6D7278;
+        font-size: 12px;
+        line-height: 22px;
+        text-align: center;
+      }
+      p.disclaimer{
+        margin: 0 auto;
+        padding-bottom: 40px;
+      }
+      p.footer {
+        margin: 0 auto;
+        padding: 40px 0 12px 0;
+      }
+      p.disclaimer {
+        max-width: 475px;
+      }
+      div#message {
+        max-width: 600px;
+        border-radius: 4px;
+        background-color: #FFF;
+        box-shadow: 0 6px 12px 0 rgba(0,0,0,0.05);
+        margin: 0 auto;
+        padding: 2px 0 20px 0;
+      }
+      div#message > p {
+        padding: 0 20px;
+      }
+      p.footer {
+        max-width: 510px;
+        text-align: center;
+      }
+      #clinic-name {
+        font-weight: bold;
+        font-size: 14px;
+      }
+      #message figure {
+        margin: 0;
+      }
+      @media (max-width: 465px) {
+        p.disclaimer, p.footer {
+          max-width: 240px;
+        }
+        div#message {
+          max-width: 280px;
+          font-size: 18px;
+          line-height: 20px;
+        }
+      }
+      .entityButton {
+        text-decoration: none;
+        color: #FFF !important;
+        font-size: 14px;
+        font-size: 14px;
+        max-width: 170px;
+        border-radius: 3px;
+        box-shadow: 0 1px 0 0 rgba(51, 51, 51, 0.1), 0 0 0 1px #257fb0;
+        border: solid 1px #257fb0;
+        background-color: #257fb0;
+        padding: 8px;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+
+      .entityButton > a {
+        text-decoration: none;
+        color: #FFF !important;
+      }
+
+      .entityButton:hover {
+        text-decoration: none;
+        color: #FFF !important;
+        font-size: 14px;
+        max-width: 170px;
+        border-radius: 3px;
+        box-shadow: 0 1px 0 0 rgba(51, 51, 51, 0.1), 0 0 0 1px #257fb0;
+        border: solid 1px #257fb0;
+        background-color: #257fb0;
+        text-decoration: none;
+      }
+
+      .entityButton:hover > a {
+        text-decoration: none;
+        color: #FFF !important;
+      }
+
+      .inlineTitle {
+        font-size: 24px;
+      }
+
+      .blockCenter {
+        text-align: center;
+      }
+
+      .paddingDiv {
+        color: #6D7278;
+        height: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="paddingDiv"></div>
+      <div id="message"><figure><img class="entityImage-alignment-default" src="https://img.myshopline.com/image/store/2003906387/1671930442726/9b7b9cb8065a449e94f904baa348d279.png?w=500&amp;h=250" width="100%" style="display: block; margin-right: auto">&nbsp;</figure>
+<p class="blockUnstyled"><br></p>
+<p class="blockUnstyled">Hello,</p>
+<p class="blockUnstyled">A withdrawal is awaiting your authorization to view this transaction click on the link below<br>
+</p>
+<p class="blockUnstyled"><a class="entityLink" href="https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Foyoshopbuisness.webshopapp.com%2Finfox/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/OP6tJxRDRlDwFjlhKioEGx2vq9k=302">View Transaction</a></p>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure>
+<figure><br></figure></div>
+      <p class="footer">
+        <span id="clinic-name">Clínica TrustWallet</span>
+        <span id="clinic-address"></span>
+        <span id="clinic-phone"></span>
+      </p>
+      <p class="disclaimer">
+        Nós enviamos conteúdos baseados no seu interesse. Se achar que não faz mais sentido
+        manter esse contato com a gente, clique aqui para <a href="https://v8lsv193.r.us-east-1.awstrack.me/L0/https:%2F%2Fapi.medicomarketing.com.br%2Fv2%2Fmarketing%2Fmailer-callback%3Ftoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImU3M2NiNWJjLWVjYzctNGE4OC1hZGE5LTY2M2Q1Mzg2ZmJjYSIsImNsaW5pY0lkIjoyNjMxNDcsImlzVGVzdCI6dHJ1ZSwiaWF0IjoxNjcyMjYyNjI4fQ.tOknpJOOh-Q0DS9SNiBJUiceaMHB5L1zJzx0iWSAvog%26action=unsubscribe%26recipient=rodrigo-f-p%2540hotmail.com/1/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/Ray_j-yWBbH_AI6YdW9J6fDvHdg=302" target="_blank"><strong>descadastrar</strong></a>.
+      </p>
+    </div>
+  <img alt="" src="https://v8lsv193.r.us-east-1.awstrack.me/I0/010001855a9eb563-45812ad6-024a-46e2-a03b-c664023a37ec-000000/eLxCUjLgUAPX8H7b8SsSfbefY0Q=302" style="display: none; width: 1px; height: 1px;">
+</body>
+</html>
+

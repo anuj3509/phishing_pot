@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Win een Bol.com Cadeaukaart!",
+    "from": "\"Linda\" <Linda@aprimarse.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Nov 2024 05:25:24 +0000",
+    "message_id": "<80693031629413445012979700028830088661090573973612.637301@jLAZh.click.sas.aprimarse.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://click.sas.aprimarse.com/d8adb4f7d6ea471.png);background-size:32px",
+      "click.sas.aprimarse.com/36002c88ef60e8b.png",
+      "click.sas.aprimarse.com/TEdKbDZyckZlcW81VlAyWHFnbEFTMUF2UnM1UVEvZUxBNEpDbFNwVElNZlpWL0pOV2k1SThvc05MdllraEMzUzhieWsyWUZnRXVXQmVFWE1LZmtVMnFDM1o4cExwOVlHUXoxdnBNcnU2R2c9",
+      "https://click.sas.aprimarse.com/d43e760e68f88e0.jpeg);background-size:480px",
+      "Bol.com",
+      "click.sas.aprimarse.com/d8adb4f7d6ea471.png",
+      "https://click.sas.aprimarse.com/1db5f91b9272230.jpg);background-size:480px",
+      "click.sas.aprimarse.com/1db5f91b9272230.jpg",
+      "https://click.sas.aprimarse.com/36002c88ef60e8b.png);background-size:32px",
+      "https://click.sas.aprimarse.com/TEdKbDZyckZlcW81VlAyWHFnbEFTMUF2UnM1UVEvZUxBNEpDbFNwVElNZlpWL0pOV2k1SThvc05MdllraEMzUzhieWsyWUZnRXVXQmVFWE1LZmtVMnFDM1o4cExwOVlHUXoxdnBNcnU2R2c9",
+      "click.sas.aprimarse.com/d43e760e68f88e0.jpeg",
+      "https://click.sas.aprimarse.com/MDhoY3VPc0hGQzFYL2JaSzlDVU5GaUVvVVg0bHJlV1BRWi90blJmWS9ESHpNTWd3eDdiTFQrNFY2UjVVTTJOd09EYkRlMTh5V1pBTlNRQ0VSZUU0TUhqTjg3N05MdFFDTVZvWGJvRFJZeTA9",
+      "https://click.sas.aprimarse.com/elIrakN5V1RBdnh5OEdwU05aWmNXRC9Kb0hnZEVMV2JDeVl2NEFZU3EwRGJWUmMvbzBLZE5LNEdqcC83ekhBbnB6OHlPVU95VFVKTm03RlFPZVdqVkdBSG9ZanJVWGFUVXpGVHA4cVFKRGM9",
+      "https://click.sas.aprimarse.com/535717c8c07384b.png);background-size:32px",
+      "click.sas.aprimarse.com/535717c8c07384b.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1000,
+    "html_length": 6197,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Letzte Erinnerung: phishing@pot, aktivieren Sie noch heute Ihr McAfee-Abonnement! ������",
+    "from": "Mcafee™ Notice<newsletter.phishing@pot@cellphoneexperts.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 10 Apr 2025 14:35:01 +0000",
+    "message_id": "<5749d989-4b5c-4655-bdae-10fe9a1bb930@CH1PEPF0000AD76.namprd04.prod.outlook.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pbs.twimg.com/media/Ggaa8hfWQAAGfqp?format=png&name=small",
+      "pbs.twimg.com/media/Ggaa8hfWQAAGfqp?format=png&name=small",
+      "https://t.co/Yv6vBrAEst",
+      "https://t.co/ExCneH5vaT"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 890,
+    "html_length": 7438,
+    "has_text": true,
+    "has_html": true
+  }
+}

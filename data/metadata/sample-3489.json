@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "RE:phishing@pot, wir haben versucht Sie zu erreichen, leider ohne Erfolg.",
+    "from": "MEDIAMARKT Zustellung, MEDIAMARKT Zustellung <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 17 Jul 2024 13:36:29 +0000",
+    "message_id": "<798063961205704.4.DYC5528270092@hamham.uk.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://fullnf.com/track/3FaorH45941XxBb929wzvalxomid1742FPSSJJRBUUDURTR746OWQK34461T9",
+      "http://fullnf.com/4DrGiT45941hycE929doquptikrg1742OUSKPDRXEMSAUMK746EVIN34461P9",
+      "http://www.w3.org/1999/xhtml",
+      "http://fullnf.com/4wIlud45941cnGk929dvuilflqrm1742FFZUSSANAOLYDTM746XYRC34461f9",
+      "http://fullnf.com/6DKIad45941eYbN929kvxhxprsgy1742YTBGURVXXSJXQES746YSNH34461O9",
+      "https://sf22.sendsfx.com/admin/temp/user/2/mm-s23-header-de.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1674,
+    "html_length": 9798,
+    "has_text": true,
+    "has_html": true
+  }
+}

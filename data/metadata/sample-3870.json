@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir wollen unsere Kunde unterst��tzen",
+    "from": "Europa Park,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Fri, 30 Aug 2024 10:45:35 +0000",
+    "message_id": "<RXKBZXOYDHBMPQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png",
+      "http://topmarktingplace.com/4HyWbs31906GkQj461tppshkqsnp14302CWTEUYGTCRHWAXX2AEWJ2621k10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6giQNK31906CivQ461hjmahlpdbh14302ELERGSRKCQVBCVQ2WKJS2621k10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/4trswQ31906lPVY461jkcyafkhkg14302WBGRBSKQNKIVCFB2KJLY2621O10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5Hyxav31906Ekax461sellehzcte14302KTHQWZPDVWWAIYD2RYEJ2621F10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/eurothemepark-header-de.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1883,
+    "html_length": 9372,
+    "has_text": true,
+    "has_html": true
+  }
+}

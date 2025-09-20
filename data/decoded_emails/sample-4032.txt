@@ -1,0 +1,70 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: A Sua transferência via pix está em análise!  57427 Data: 09/09/2024
+From: "Aviso:Nubank" <contato@marcosafonso.com.br>
+To: maridallastra@gmail.com
+Date: 9 Sep 2024 00:27:40 -0300
+Message_Id: <66de6b32.650a0220.1dbc64.8f8aSMTPIN_ADDED_BROKEN@mx.google.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.gstatic.com
+  - https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap
+  - https://fonts.googleapis.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Document *{padding:0px;margin:0px;font-family: "Roboto", sans-serif;} NU-BANK Nubank informa: Prezado cliente: Foi solicitado uma transa&ccedil;&atilde;o pix, no valor de R$ 1.220,00 para, Simone De Araujo Souza . Por medidas de seguran&ccedil;a, bloqueamos essa opera&ccedil;&atilde;o. para autorizar essa transa&ccedil;&atilde;o, Responda AUTORIZO Caso n&atilde;o reconhe&ccedil;a essa transa&ccedil;&atilde;o , ligue 0800-000-3973 e fale com um gerente digital do setor de seguran&ccedil;a NUBANK . Solicite o cancelamento das opera&ccedil;&otilde;es n&atilde;o reconhecidas e a prote&ccedil;&atilde;o de sua conta. Protocolo de seguran&ccedil;a: 5742792323 NUBANK - CNPJ 18.236.120/0001-58. R. Capote Valente, 39 - terreo - Pinheiros, S&atilde;o Paulo - SP, 05409-000
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+	<style>
+		*{padding:0px;margin:0px;font-family: "Roboto", sans-serif;}
+	</style>
+</head>
+<body style="background:rgb(208, 224, 227);">
+
+<br>
+<div style="margin: 0 auto;width:600px;height:auto;padding:30px;background:rgb(130, 10, 209)">
+	<p style="font-weight: 600;font-size:1.6em;color:white;line-height: 30px;">NU-BANK</p>
+</div>
+<div style="margin: 0 auto;width:600px;height:auto;padding:30px;background:white">
+	<p style="font-weight:700;font-size:16px;color:rgb(91, 91, 91);">Nubank informa:</p>
+	<p style="line-height: 24px;margin-top:15px;"><strong>Prezado cliente:</strong> <br><br> <span style="font-size:16px;">Foi solicitado uma transa&ccedil;&atilde;o pix, no valor de <strong><small>R$ 1.220,00</small></strong> para, <strong>Simone De Araujo Souza</strong>. Por medidas de seguran&ccedil;a, bloqueamos essa opera&ccedil;&atilde;o.</span></p>
+	<br>
+	<p style="font-size:16px;"><strong></strong><br> para autorizar essa transa&ccedil;&atilde;o, Responda <strong>AUTORIZO</strong></p><br>
+  <p style="font-size:16px;">Caso n&atilde;o reconhe&ccedil;a essa <strong>transa&ccedil;&atilde;o</strong>, ligue <strong>0800-000-3973</strong> e fale com um gerente digital do setor de seguran&ccedil;a <strong>NUBANK</strong>. Solicite o cancelamento das opera&ccedil;&otilde;es n&atilde;o reconhecidas e a prote&ccedil;&atilde;o de sua conta. <br> </p>
+  <br><br>
+  <p><strong>Protocolo de seguran&ccedil;a:</strong> 5742792323</p><br><br>
+  <p style="text-align: center;font-size:12px;">NUBANK - CNPJ 18.236.120/0001-58. R. Capote Valente, 39 - terreo - Pinheiros, S&atilde;o Paulo - SP, 05409-000</p>
+
+
+</div>
+
+
+
+
+
+	
+</body>
+</html>

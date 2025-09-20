@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Faça parte do time da Maior Agência de Intercâmbio da América Latina",
+    "from": "Egali Intercâmbio <recrutamento@egali.com.br>",
+    "to": "phishing@pot <phishing@pot>",
+    "date": "Tue, 25 Jun 2024 16:38:21 -0300",
+    "message_id": "<274a4a61cb1efcb3d08417ebe0d6c6eb@app4-iagentemail>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_274a4a61cb1efcb3d08417ebe0d6c6eb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_274a4a61cb1efcb3d08417ebe0d6c6eb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://app4.egali.com.br/action/view/3861/81331/26576551/26084852",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://app4.egali.com.br/action/cli/3861/81331/26576551/26084852/188483",
+      "egali.com.br",
+      "http://app4.egali.com.br/assets/img/iagentemail_rodape.png",
+      "https://app4.iagentemail.com//uploads/images/3861/Ludi/e-mail-20.jpg",
+      "http://app4.egali.com.br/action/opt/3861/81331/26576551/26084852/",
+      "https://victoriaedugroup.typeform.com/to/d2v1eWnk?typeform-source=www.egali.com.br",
+      "http://www.w3.org/1999/xhtml",
+      "http://app4.egali.com.br/action/read/3861/81331/26576551/26084852/r.gif",
+      "http://app4.egali.com.br/action/view/3861/81331/26576551/26084852/",
+      "http://app4.egali.com.br/action/rep/3861/81331/26576551/26084852/",
+      "http://app4.egali.com.br//mail-mkt-footer"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 643,
+    "html_length": 12177,
+    "has_text": true,
+    "has_html": true
+  }
+}

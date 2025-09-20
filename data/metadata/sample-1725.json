@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Congratulations - Details Apply ",
+    "from": "T-Mobile    ,_<py0vl@otsh6rzxi2.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Oct 2023 04:31:37 +0000",
+    "message_id": "\r\n <5ec4f90a-7cde-4dd0-a789-1c00daff34f1@VI1EUR06FT066.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/z9WZ7AdGHM",
+      "https://i.imgur.com/YRqNqab.jpg",
+      "http://dtherhproblem.us/su47199lqXWm22448528HHVN49413IMT67834AUpq3228",
+      "http://vertuoldmuneted.com/track/o47199fihdD22448528PRgo49413HBA67834xzgK3228",
+      "https://t.co/nXUA7ijFK1",
+      "i.imgur.com/YRqNqab.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 430,
+    "html_length": 8865,
+    "has_text": true,
+    "has_html": true
+  }
+}

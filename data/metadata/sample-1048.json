@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "OFERTA DE EMPRÉSTIMO",
+    "from": "America Loan Company <secm41@hipolabor.com.br>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 3 Aug 2023 03:42:33 -0300 (BRT)",
+    "message_id": "<1019810564.5849741.1691044953792.JavaMail.zimbra@hipolabor.com.br>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"=_55fddee4-1a40-4a77-9aef-c7d97d646201\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"=_55fddee4-1a40-4a77-9aef-c7d97d646201\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "financier.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 308,
+    "html_length": 581,
+    "has_text": true,
+    "has_html": true
+  }
+}

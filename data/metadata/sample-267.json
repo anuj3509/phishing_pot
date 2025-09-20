@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: Convocatória",
+    "from": "ASSISTÊNCIA <d.cybercriminalite@gmail.com>",
+    "to": "",
+    "date": "Wed, 25 Jan 2023 17:06:18 +0000",
+    "message_id": "\r\n\t<CABpQXdokLa7FnGi7vD_EL1xq7faRS0wwRddpqC=PJde7QSe=7A@mail.gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_006_CABpQXdokLa7FnGi7vDEL1xq7faRS0wwRddpqCPJde7QSe7Amailgma_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_006_CABpQXdokLa7FnGi7vDEL1xq7faRS0wwRddpqCPJde7QSe7Amailgma_\""
+  },
+  "attachments": [
+    {
+      "filename": "EUROPOL1.jpg",
+      "content_type": "image/jpeg",
+      "size": 591688
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "d.cybercriminalite@gmail.com",
+      "EUROPOL1.jpg]",
+      "EUROPOL1.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 142,
+    "html_length": 732,
+    "has_text": true,
+    "has_html": true
+  }
+}

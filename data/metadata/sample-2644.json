@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "PLEASE GET BACK TO US,",
+    "from": "\"Jonathan  Okons\" <test@jzbgno.hospedagemweb.net>",
+    "to": "Recipients <test@jzbgno.hospedagemweb.net>",
+    "date": "Wed, 17 Jan 2024 12:08:14 -0800",
+    "message_id": "<e6cef5d0-e622-4c19-a7fd-a24351ce64ac@LNMXVMEXADM01.hdi.com.mx>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://publicimages.hdi.com.mx/Mail/cintillo.png]",
+      "jonathan.okons@gmail.com",
+      "https://publicimages.hdi.com.mx/Mail/cintillo.png]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1719,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

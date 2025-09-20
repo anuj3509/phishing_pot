@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "your account statement for this month has been issued and you can\n view it now.",
+    "from": "\"SSADocument_noreply.\" <offer@qp-mail.com>",
+    "to": "phishing@pot zaferzy <phishing@pot>",
+    "date": "Tue, 27 May 2025 23:37:59 -0700 (PDT)",
+    "message_id": "<1442037052.1600398.1748414279187.JavaMail.questionpro@qpmail>",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_Part_1600397_1149264783.1748414279187\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_Part_1600397_1149264783.1748414279187\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.questionpro.com/",
+      "https://www.questionpro.com/a/unsubscribeEmailAddressGlobal.do?t=QXiCe8mwbZrO4kUBtgPACG6Ip7HavejXAVW%2BtAMHWnHBH0eoE%2Bl45L2Wa7Qk7SF4x2L9XyAJYo%2Be2lTd8ecTf6TaXZZsT3lkzL%2BoHo64Ntwglq%2BHB975I9G23sQtz5Us",
+      "https://www.questionpro.com/chat/",
+      "https://asu.questionpro.com/t/C6QWoZBAT5Vm?",
+      "https://www.questionpro.com/a/rptabuse/MS04NDkxMTg2MzQtNjE3ODM3MC0xMDg0ODU4ODgxLTEyOTk4ODM0",
+      "https://deliveryhunt.questionpro.com/static-content/test/TDe-iDO3dxnVNDhXlnQmqBM5rBUSUvhxzZ9NYKzW-KuSCwd8VeKxaLNfnT-jT6Im",
+      "questionpro.com",
+      "https://email.notify.thinkific.com/c/eJwcyUGOgCAMAMDXwNGUUioeuPqPClbJupCwxsTfb-J1piTJioJ2T26mCD5AZHumRZ1XzEybFgBgok39DKQxsO5zsTUhYICAHp2LwBM7VsF98RK9FkFD0Ppd9Z3us7afqjVPuf_aKxlcDa7XX6-jHU8dRds4vhtJmizsAxmCV87eP34S_gcAAP__b6kxwQ",
+      "https://www.questionpro.com/images/logo/qp-email-logo.png",
+      "https://www.questionpro.com/qp_userimages/sub-9/6178370/bvcbfgh5674575.png",
+      "https://fonts.googleapis.com/css?family=Fira+Sans",
+      "hotmail.com",
+      "https://email.notify.thinkific.com/c/eJwcyUEOgyAQBdDTwNIMH7CwYOs9KDg6qYWEGhNv38TtezXlwsjQazIvF8h6ClHvaeUawC5ysPWNlYoPYF-JMxCtKVoSCJ48LIwJFCfHdSaumU0EeYJy1PopfE_nLu0jLGUq_auPpLAoLMevy2jbJaNyG9tzI-WW42y9U47uvPf-8JXwDwAA__-bDTHu",
+      "https://asu.questionpro.com/t/AcNYvZ6QWo?",
+      "https://www.questionpro.com/a/unsubscribeEmailAddressGlobal.do?t=vS7W1p1au9HrhncTI8FDvakbMhFH%2BZqeFBs6A4G50AdTIgaXRbeEQCCgchILTVuLJmlIHo/68h6lNUWxAGBOc3fhaX363MZFE94ZMx/TvWTHPTaxigW4TlouKAatstYU&text=true"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4362,
+    "html_length": 22965,
+    "has_text": true,
+    "has_html": true
+  }
+}

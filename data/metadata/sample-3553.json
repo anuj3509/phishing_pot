@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Is today your lucky day?!,",
+    "from": "Free Spins! <julie.sophy@iptesetxkeys.com>",
+    "to": "[To]",
+    "date": "Sun, 04 Aug 2024 16:34:43 +0200",
+    "message_id": "<20240802210523.88F2A2C893@mail.iptesetxkeys.com>",
+    "content_type": "multipart/mixed; boundary=\"===============5417389085535037060==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============5417389085535037060==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "event.preventDefault();",
+      "document.getElementById(",
+      "window.location.href",
+      "localStorage.setItem(",
+      "https://firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e",
+      "http://sharedse.com/oop/2304_md/2222/9105/417/270/1190",
+      "localStorage.getItem(",
+      "http://sharedse.com/cl/2304_md/2222/9105/417/270/1190",
+      "http://sharedse.com/op/2304_md/2222/9105/417/270/1190",
+      "Math.abs(mouseY",
+      "http://sharedse.com/un/2304_md/2222/9105/417/270/1190",
+      "event.clientX;",
+      "Math.abs(mouseX",
+      "event.clientY;",
+      "firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1480,
+    "html_length": 4953,
+    "has_text": true,
+    "has_html": true
+  }
+}

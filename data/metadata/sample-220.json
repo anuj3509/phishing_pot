@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Atualização Pendente.",
+    "from": "\"santander\" <compras@oftalmozonasul.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 6 Jan 2023 19:15:08 -0300",
+    "message_id": "\r\n <e49b2610-4c6b-43fd-b54a-1738825976af@VI1EUR06FT063.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"QV991tPdewZd=_pW9fuvm9tCp9mCte062h0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"QV991tPdewZd=_pW9fuvm9tCp9mCte062h0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.avast.com",
+      "https://s-install.avcdn.net/ipm/preview/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif",
+      "https://conecte-way.online/painel_stone_esfera_way_nubank_/painel_stone_esfera_way_nubank_2.2/esfera/",
+      "https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient",
+      "..session1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 905,
+    "html_length": 6701,
+    "has_text": true,
+    "has_html": true
+  }
+}

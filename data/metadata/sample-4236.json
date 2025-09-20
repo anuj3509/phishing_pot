@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "You're Eligible for stETH Rewards",
+    "from": "Lido Finance <noprely@lido.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 27 Oct 2024 10:16:27 +0000 (UTC)",
+    "message_id": "<20241027101627.2AD998FEBAED8C8B@lido.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3DyZ3A_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSPmxRc8XSbUPrMYvT1CjCCLvdTeDCLwv-2BaXyXkcbsDh6yg-2B92ErUmpHhCNIozsQ1mdg7MzfphOx6GZSMGQMbFetXzx2Y-2Bp6clI0ZAk4a9FKJcztJSu3g4jgW1HzlDXqTuA-3D-3D",
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qO2A4rBpJ1OlIdDn6nDvj1orywk1iA1HF1Ng07Tl9THMGW2YHweBq-2FvXH7eVLcJUqg-3D-3Dw7Gn_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsrGXqY52MG-2BDWGANUZtiux9TcpHH44IImgWbWr69xwSGx4-2B-2BbH7j88O9MTHrsYmkW-2BV8diJf4wgduSqQjnV5j8y3PvrLhgVam-2Fz5PcZyxPau-2B8Vvj1tV6RgPO8eRR-2Fb0ptOgFPx1gCAfS-2B-2FlN7NDw2RDH9DZABHeaRCWzVRNIm2A-3D-3D",
+      "https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVwC6WokOP6N54iEEAZGH-2Flflhi9xgwyiQLrMJoYsGMzhBM-2B2TXOQDbRvJTDr0Wj8rmcYNrHGtsXfSkpZfxn1lu6AVs3Bup4yo0KGOGeoDGNiY0TwgKaqJZdrEKImWrXCFEkCK6Ip45nTYBGqoiSymH-2FfrzFAeQiDraRTgu94rtjg-3D-3D",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1564,
+    "html_length": 5143,
+    "has_text": true,
+    "has_html": true
+  }
+}

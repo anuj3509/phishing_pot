@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Ihr GLS-Zustellungsversuch ist fehlgeschlagen ��� Letzte Nachricht",
+    "from": "GLS-Versand, <service@stayfriends.de.>, GLS-Versand,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot phishing@pot",
+    "date": "Sat, 29 Jun 2024 08:00:28 -0400",
+    "message_id": "<elsnxxo@urvbmyjtxn.xt.local>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_168012579872948806\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_168012579872948806\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.co.uk/amp/revision-online.info/eVk5eVd0TEF2eXJjVEtvRTBqTVZ3QlFFSTliek8yaDBBS2FWMVBZSjl4eUkyYWVFSmVuZFEvV3lwL29aREFGTmNLZTdKQWRxMlVlb0RVUUwyQld6M3VVdjFTSW45R3k2eEpQQkw1aVN6RkxxbUs3VWx0Z3YxTEp3dVdzd3lsODQ3bXd1cUI3NEExbGZiU0t2UVNBaGd3PT0_",
+      "https://www.zupimages.net/up/24/26/ao51.png",
+      "XjyKmgP.14958.476.DeFXjyKmgP",
+      "https://www.google.co.uk/amp/revision-online.info/VkZlNzdhMEZDd0lFUHQ0czJaZXBSZnpHeU1LanJTTjljaGR2UVZaUkhuUGRsRTcwQ0ZoekxYV08rdVRWOUhIRGFqYTlTT1FNMmhzRXFsRDNQcEIzQ2VRa0ZZWHZIZlJrTFgvYnhLUEtoZVl0NGoyR0o0UlVnL1pac0hnZ3FVTDByWkxTQ1lpTDNKcmtSVjBVSzhUR093PT0_",
+      "https://www.zupimages.net/up/24/26/wys6.png",
+      "https://www.google.co.uk/amp/revision-online.info/VVFlcnFZeUp5cDBDZWhmcVdGKy9nK3BnWVZYNi8ydWEvZDNhaVJFcmh2NE5HT296NjRkc2JTYW9IbUswNkhlckVMdmRiV3JScWZOVktFTHVTcmxEZFlWLzFIaGxpTE9uL2ZDaGpOLzZ3RjZEekpIZnk5VXlXQzNjUzFaUkdDdHdNR0NoTWt0M01rMU83OExXNTBzYk53PT0_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 174,
+    "html_length": 1659,
+    "has_text": true,
+    "has_html": true
+  }
+}

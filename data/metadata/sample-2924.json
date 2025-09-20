@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Congrats! phishing@pot-f-p, You have won an Starbucks Stanley Cup",
+    "from": "Starbucks - Thank You!  <info@secaccinfoacesseesp.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 06:40:26 +0000",
+    "message_id": "<0.0.4.AEA.hh1ise7zce.0@mta-2d56742f.ip4.emsmtp.us>",
+    "content_type": "multipart/alternative; boundary=\"0000000000002d0e8b06103f487e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000002d0e8b06103f487e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/NVUsHTG.jpeg",
+      "http://vertuoldmuneted.com/rd/u56946jKDaO27539914ZYXv1547817ops71908wsUf4043",
+      "i.imgur.com/NVUsHTG.jpeg",
+      "https://i.imgur.com/1FSdQSm.jpeg",
+      "http://vertuoldmuneted.com/rd/c56946qzXxs27539914QRvO1547817bZO71908xCpO4043",
+      "hotmail.com",
+      "i.imgur.com/1FSdQSm.jpeg",
+      "hotmail.com*"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 909,
+    "html_length": 638,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Identificação de Infração Vinculada à Sua CNH - Ação Necessária! ID: 76955467",
+    "from": "Detran - Alerta de Penalidade <comunicado429077@regularizarcnh>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 23 Jan 2025 13:33:29 +0000",
+    "message_id": "<ec513aae0d141de10f44b1e43c0602ac@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ec513aae0d141de10f44b1e43c0602ac\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ec513aae0d141de10f44b1e43c0602ac\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://function-9-961349030461.us-central1.run.app/",
+      "hotmail.com,",
+      "https://detran.gov.br/",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3849,
+    "has_text": true,
+    "has_html": true
+  }
+}

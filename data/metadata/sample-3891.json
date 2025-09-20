@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 9792118884",
+    "from": "Mercado Pago <mercadopago@atendimento-01.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 30 Aug 2024 10:49:54 -0400 (EDT)",
+    "message_id": "<20240830144954.309531107C@aaaaaxxcc.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://redi.ivsvixenv.co.ua/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 491,
+    "html_length": 2446,
+    "has_text": true,
+    "has_html": true
+  }
+}

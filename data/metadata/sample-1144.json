@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: Ourocard - Liberacao.6TENY4zGFOsMo88eQ17",
+    "from": "MARIANA BS <phish@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Sat, 19 Aug 2023 16:34:31 +0000",
+    "message_id": "\r\n <SN4PR0601MB86652CB109D41198A409AF3AEE18A@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86652CB109D41198A409AF3AEE18ASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB86652CB109D41198A409AF3AEE18ASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "URQpae5egR7PmZ.pdf",
+      "content_type": "application/pdf",
+      "size": 132275
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com&gt;",
+      "gmail.com",
+      "https://aka.ms/AAb9ysg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 534,
+    "html_length": 1210,
+    "has_text": true,
+    "has_html": true
+  }
+}

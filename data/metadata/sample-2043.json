@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Congratulations! You have won an Stanley Tumbler",
+    "from": "Dicks Sporting Goods Department - You Are Our November Winner  ,_<ihtts@cutynaledriite.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 28 Nov 2023 03:10:27 +0000",
+    "message_id": "\r\n <fbfd853e-4cb0-4a79-a599-855a32601b6f@DM6NAM10FT096.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/6WhnaWX.jpg",
+      "i.imgur.com/6WhnaWX.jpg",
+      "https://t.co/OPmJRPJPtP",
+      "https://t.co/M7qpLtDdlY"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 476,
+    "html_length": 8721,
+    "has_text": true,
+    "has_html": true
+  }
+}

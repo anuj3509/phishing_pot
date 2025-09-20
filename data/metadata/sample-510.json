@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Proteja seus equipamentos com CLAMPER",
+    "from": "sender <defaultsender@mailingmktg.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 24 Mar 2023 13:33:33 -0300 (-03)",
+    "message_id": "<5eI-0c3a58e774-@embluemail.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============3164530900697754788==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============3164530900697754788==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.embluemail.com/Online/VON.aspx?data=MQI%2FjnZq1zg%2B9A7HCFqmzLiybaPucsTsELKGTrfGQLsoCk9b41SFbFpzIoCUnKRaSDbcSLU0X8sexoRjtfCcHMtijI%2BrVoYTQG0c%2FWNhtnUO%2F6QJLPtrhXKdxbA18TOs!-!L22QH3KD9bJVYCetpZ0k8NBp8cg4Fx9IWJ2cXFMQCap3oMeh8SqPDJBkOBx1ROKw",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://files.embluemail.com/uo/44094/e-mail1_02.jpg",
+      "https://i.embluejet.com/ImagenesMoxie/emblue/images/logo.jpg",
+      "https://nts.embluemail.com/p/op?data=gJ2qbkMXzqjjucigjmoXMxmho3KIkyvJqFUJNZqP6YNe%2Bdi8c927UgtT%2FlhhZhUd9uj6A3PxLhJSIzxpMtGcRg%3D%3D!-!6a5aq",
+      "https://app.embluemail.com/Online/VON.aspx?data=1I0UUhrqDhclTskk%2FKPgcpfNQMBR32%2F5TUleFnUr%2BB6kQqnR2JshYrPromwXZTxXE89NIMwflAXarpFVWuX7BDg4jOGf6ulJ2EkSVEhAcfoEKLKwJyUQhnlLjPON%2BL2U!-!L22QH3KD9bJVYCetpZ0k8NBp8cg4Fx9IWJ2cXFMQCap3oMeh8SqPDJBkOBx1ROKw",
+      "https://app.embluemail.com/Confirm/TermsAndConditions_PT.html?data=1I0UUhrqDhclTskk%2FKPgcpfNQMBR32%2F5TUleFnUr%2BB6kQqnR2JshYrPromwXZTxXE89NIMwflAXarpFVWuX7BDg4jOGf6ulJ2EkSVEhAcfoEKLKwJyUQhnlLjPON%2BL2U!-!6a5aq",
+      "https://nts.embluemail.com/p/cl?data=WGb5nD2enS0GorMBL8tzQrmdQD%2F9cm077SioWtT%2Fgr4ZlXuG3d7xwpcgKreEX%2F1EUJc4P9IDLzozbPf%2FWH%2FUhsSKba%2F%2Bt%2Bm%2FusVNBo4248M%3D!-!6a5aq!-!https%3A%2F%2Fbit.ly%2F3FQXV4m%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=Clientes+que+nunca+compraram%26utm_content=1%C2%BA+envio--Proteja+seus+equipamentos+com+CLAMPER%26utm_term=Nunca+Compraron--3--none--0-10--ENVIO+SIMPLE%26embtrk%3D8e1im-R-67053093-R-6a5aq-R-6i4hi74",
+      "https://files.embluemail.com/editor_templates/11_spacer1234.png",
+      "https://app.embluemail.com/Confirm/PedidoDesuscripcion_PT.html?data=6uQab2RMJpBxwZGsWLeZwezUWbZvYDXeAhnZIsMmUt0YIcMtHK0f7tkrACghRyQ6RX%2FZMMTEwbl6yeDSARPR5g%3D%3D!-!L22QH3KD9bJVYCetpZ0k8NBp8cg4Fx9IWJ2cXFMQCap3oMeh8SqPDJBkOBx1ROKw",
+      "https://nts.embluemail.com/p/cl?data=BxXAh7XlzQrAcQWR4t8rFRZmEPuB1WdxnoEzInZVoyKAU9JWaJ29YSzTYUx3gvucQIaJ359jfYXjbzASWEqUNVxRZKj2KzphPYzOIzWVcGk%3D!-!6a5aq!-!https%3A%2F%2Fbit.ly%2F3FQXV4m%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=Clientes+que+nunca+compraram%26utm_content=1%C2%BA+envio--Proteja+seus+equipamentos+com+CLAMPER%26utm_term=Nunca+Compraron--3--none--0-10--ENVIO+SIMPLE%26embtrk%3D8e1im-R-67053095-R-6a5aq-R-6i4hi74",
+      "https://app.embluemail.com/Services/Interaccion.svc/GetvCard?data=93487-44094",
+      "https://files.embluemail.com/uo/44094/e-mail1_01.jpg",
+      "https://app.embluemail.com/Confirm/ActualizarDatos.html?data=6uQab2RMJpBxwZGsWLeZwezUWbZvYDXeAhnZIsMmUt0YIcMtHK0f7tkrACghRyQ6RX%2FZMMTEwbl6yeDSARPR5g%3D%3D!-!L22QH3KD9bJVYCetpZ0k8NBp8cg4Fx9IWJ2cXFMQCap3oMeh8SqPDJBkOBx1ROKw",
+      "https://nts.embluemail.com/p/cl?data=oOufEKX%2BOG29ZjEdCsdJMEncuCRNkxcSkhClkdS3BJurf5kP%2B3ArW505l31PDUutecdyaF2TiF9Ani8R5KTR1QpZSC6uOSc%2BT4vJRKhbwPw%3D!-!6a5aq!-!https%3A%2F%2Fbit.ly%2F3FQXV4m%3Futm_source=emBlue%26utm_medium=email%26utm_campaign=Clientes+que+nunca+compraram%26utm_content=1%C2%BA+envio--Proteja+seus+equipamentos+com+CLAMPER%26utm_term=Nunca+Compraron--3--none--0-10--ENVIO+SIMPLE%26embtrk%3D8e1im-R-67053094-R-6a5aq-R-6i4hi74",
+      "https://www.embluemail.com/pt/termos-e-condicoes.html",
+      "https://files.embluemail.com/uo/44094/e-mail1_03.jpg",
+      "mailingmktg.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 15991,
+    "has_text": true,
+    "has_html": true
+  }
+}

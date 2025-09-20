@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Sprechen Sie leicht 36 Sprachen",
+    "from": "Instant Translator (<NcVSHNsFnsgsoQmxohovii@pagesblanches.es>)",
+    "to": "phishing@pot",
+    "date": "Fri, 29 Sep 2023 12:30:58 +0200",
+    "message_id": "\r\n <6430a52b-e4ac-4466-aa36-d6ba66ac99bd@DU6PEPF0000B61B.eurprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://100.42.79.2/media/6cdc5a8505c2e16.png",
+      "http://100.42.79.2/cl/432_md/2010/4/70/23/2459859",
+      "http://100.42.79.2/un/432_md/2010/4/70/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "https://fonts.googleapis.com/css2?family=Cookie&amp;family=Montserrat+Alternates:wght@500&amp;family=Poppins&amp;display=swap",
+      "www.ONCF-Voyages.ma",
+      "http://100.42.79.2/oop/432_md/2010/4/70/23/2459859",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4482,
+    "html_length": 6726,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Rodrigo a mensalidade do seu plano foi reajustada?",
+    "from": "\"Mariana Santos\" <contato@ct.e-compara.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 20 Jan 2024 04:05:27 -0300",
+    "message_id": "\r\n <0S7J001KHT16OS40@rmta-ad3-fd3-301-us-ashburn-1.rmtaad3.vcndpiad.oraclevcn.com>",
+    "content_type": "Multipart/alternative; boundary=\"00E0BA87_051A9084_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"00E0BA87_051A9084_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.e-compara.com/app-d/lnk.php?id=322C33322C726F647269676F2D662D7040686F746D61696C2E636F6D2C31333635",
+      "table.MsoNormalTable"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1374,
+    "html_length": 38415,
+    "has_text": true,
+    "has_html": true
+  }
+}

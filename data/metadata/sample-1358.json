@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "WOW TV Standard-Abo",
+    "from": "WOW TV, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Sep 2023 09:02:26 +0200",
+    "message_id": "\r\n <49791c91-0f3b-4225-98a4-5f73ee33dbb1@BN8NAM11FT049.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/oop/222_md/31/20/35/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/cl/222_md/31/20/35/23/2459859",
+      "http://easilett.com/media/0062fcd890a9399.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2007,
+    "html_length": 8366,
+    "has_text": true,
+    "has_html": true
+  }
+}

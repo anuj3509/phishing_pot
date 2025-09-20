@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Guten Tag  phishing@pot-f-p ",
+    "from": "Fressnapf, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Feb 2024 17:46:07 +0100",
+    "message_id": "<m7MJ60X.0.0.m7MJ60X.9.m7MJ60X@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/24/05/ozdo.jpg",
+      "https://fair-forward1.com/?a=6073&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "http://theowensfamily.infoVm9Ud0F2aVpCeXl0L1FnY015ZHQwdlZuMGVua3ROUmU4RFlxeWhCQkp6YXd4UkNoNHJhVXNnZXdTSE04Z2ttZjQ1VHRjTlFabGRlS0d2bVFPTTFmd3c9PQ__",
+      "http://theowensfamily.info/V3VaeHBaQjUxYm8xOEduSmVEU05hTDFFcDk1NjJ3RmxQcjlmT1BQT3REMzFOaUp5cHhFaE1BMmhENEtGOERseHhFbGV0clpGVVdKK1Ewc0Q1bzZ6MWc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/24/05/ozdo.jpg",
+      "https://www.zupimages.net/up/23/41/xq4r.png",
+      "www.zupimages.net/up/23/41/xq4r.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8701,
+    "has_text": true,
+    "has_html": true
+  }
+}

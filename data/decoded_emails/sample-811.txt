@@ -1,0 +1,290 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Extrato - Pontos Fidelidade
+From: Banco Bradesco <sac@bradesco.com.br>
+To: phishing@pot
+Date: Tue, 20 Jun 2023 19:07:53 -0400
+Message_Id: <07bdb820617bed34eca88dbe3b5de4e8@aaabreakingwind.com>
+Content_Type: multipart/alternative;
+	boundary="b1_07bdb820617bed34eca88dbe3b5de4e8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_07bdb820617bed34eca88dbe3b5de4e8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - P.western
+  - https://banco.bradesco/assets/classic/img/produtos-servicos/capitalizacao/710x240_Banner_Club_Vantagens.png
+  - https://funnyrx.com/home/acesso/?hash=rodrigo-f-p@hotmail.com?new
+  - OpenOffice.org
+
+DECODED TEXT CONTENT:
+------------------------------
+
+	
+	
+		
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+
+  Resgate de Pontos
+  
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    .banner {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border-bottom: 2px solid red;
+    }
+    
+    .banner img {
+      max-width: 100%;
+    }
+    
+    .banner h1 {
+      color: #b41010;
+      font-size: 24px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+    .banner p {
+      color: #444444;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #b41010;
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 5px;
+      border: none;
+      transition: all 0.3s ease;
+      cursor: pointer;
+    }
+
+    .button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .advantages {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: #ffffff;
+      padding: 20px;
+      color: #444444;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .advantages h2 {
+      color: #b41010;
+      font-size: 20px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    .advantages ul {
+      list-style-type: disc;
+      margin-left: 20px;
+      text-align: left;
+    }
+
+    .advantages li {
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+
+    .footer {
+      padding: 20px;
+      color: #444444;
+      text-align: center;
+      font-weight: bold;
+    }
+  
+
+
+  
+    
+    PROGRAMA DE PONTOS
+    Resgate seus 189.725 mil pontos acumulados e aproveite benefícios exclusivos!
+    RESGATAR PONTOS
+
+    
+      VANTAGENS EM JUNTAR PONTOS:
+      
+        Descontos especiais em produtos e serviços
+        Viagens com tarifas reduzidas
+        Experiências exclusivas em parceiros
+        Acumulação de pontos para resgates futuros
+      
+    
+
+    
+      Banco Bradesco SA | CNPJ: 60.746.948.0001-12
+      Cidade De Deus, S/Nº Vila Yara | Osasco | SP | CEP: 06029-900
+    
+  
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title></title>
+		<meta name="GENERATOR" content="OpenOffice.org 3.4.1  (Win32)">
+		<meta name="CREATED" content="20130410;21152190">
+		<meta name="CHANGED" content="20130410;21175892">
+		<style type="text/css">
+		<!--
+			@page { margin: 2cm }
+			P { margin-bottom: 0.21cm }
+			P.western { so-language: pt-BR }
+			TD P { margin-bottom: 0cm }
+			TD P.western { so-language: pt-BR }
+			A:link { so-language: zxx }
+		-->
+		</style>
+	</head>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resgate de Pontos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+    }
+    
+    .banner {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #ffffff;
+      border-bottom: 2px solid red;
+    }
+    
+    .banner img {
+      max-width: 100%;
+    }
+    
+    .banner h1 {
+      color: #b41010;
+      font-size: 24px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+    
+    .banner p {
+      color: #444444;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #b41010;
+      color: #ffffff;
+      font-size: 16px;
+      font-weight: bold;
+      text-decoration: none;
+      border-radius: 5px;
+      border: none;
+      transition: all 0.3s ease;
+      cursor: pointer;
+    }
+
+    .button:hover {
+      transform: translateY(-3px);
+      box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    }
+
+    .advantages {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: #ffffff;
+      padding: 20px;
+      color: #444444;
+      text-align: center;
+      font-weight: bold;
+    }
+
+    .advantages h2 {
+      color: #b41010;
+      font-size: 20px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    .advantages ul {
+      list-style-type: disc;
+      margin-left: 20px;
+      text-align: left;
+    }
+
+    .advantages li {
+      margin-bottom: 5px;
+      font-weight: bold;
+    }
+
+    .footer {
+      padding: 20px;
+      color: #444444;
+      text-align: center;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="banner">
+    <img src="https://banco.bradesco/assets/classic/img/produtos-servicos/capitalizacao/710x240_Banner_Club_Vantagens.png" alt="Banco Bradesco">
+    <h1>PROGRAMA DE PONTOS</h1>
+    <p>Resgate seus 189.725 mil pontos acumulados e aproveite benefícios exclusivos!</p>
+    <a href="https://funnyrx.com/home/acesso/?hash=rodrigo-f-p@hotmail.com?new" class="button">RESGATAR PONTOS</a>
+
+    <div class="advantages">
+      <h2>VANTAGENS EM JUNTAR PONTOS:</h2>
+      <ul>
+        <li><strong>Descontos especiais em produtos e serviços</strong></li>
+        <li><strong>Viagens com tarifas reduzidas</strong></li>
+        <li><strong>Experiências exclusivas em parceiros</strong></li>
+        <li><strong>Acumulação de pontos para resgates futuros</strong></li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      <p><strong>Banco Bradesco SA | CNPJ: 60.746.948.0001-12<br>
+      Cidade De Deus, S/Nº Vila Yara | Osasco | SP | CEP: 06029-900</strong></p>
+    </div>
+  </div>
+</body>
+</html>

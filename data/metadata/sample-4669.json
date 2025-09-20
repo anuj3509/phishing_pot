@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "- Sua carteira de motorista esta prestes a ser suspensa - Protocolo - ID M3OWGRFR5O",
+    "from": "- Aviso Multa pendente <61700@%detran.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 11 Jan 2025 02:06:52 +0000",
+    "message_id": "<913a8b8b4f6c76de68d6e58e64e47824@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_913a8b8b4f6c76de68d6e58e64e47824\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_913a8b8b4f6c76de68d6e58e64e47824\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Gov.br",
+      "https://hotm.art/validar-CNH"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 32,
+    "html_length": 1977,
+    "has_text": true,
+    "has_html": true
+  }
+}

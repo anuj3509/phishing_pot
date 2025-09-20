@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "-VW Tiguan f��r phishing@pot",
+    "from": "Worauf warten Sie noch?, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 15 Oct 2023 09:54:49 +0200",
+    "message_id": "<s7lzmml.guqnj.kyk.kyk@irlcxznthkvcjnn.qaz>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://revision-online.info/oop/2922_md/140695/567/779/35/462092",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/22/20/1pzp.png",
+      "http://revision-online.info/op/2922_md/140695/567/779/35/462092",
+      "https://www.zupimages.net/up/22/20/1pzp.png",
+      "http://revision-online.info/cl/2922_md/140695/567/779/35/462092"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1965,
+    "html_length": 8024,
+    "has_text": true,
+    "has_html": true
+  }
+}

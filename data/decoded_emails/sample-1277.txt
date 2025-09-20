@@ -1,0 +1,55 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: FW: Due Invoice Payment - protonmail.com - Wire Transfer Document
+From: Paolo Reggiani <Paol.Reggiani@moss.it>
+To: wpx@protonmail.com
+Date: 14 Jan 2020 00:06:05 -0800
+Message_Id: <20200114000605.14F3983143C82AAA@moss.it>
+Content_Type: multipart/mixed;boundary=---------------------481089ff168d9ab2d8d7d42e37da66da
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;boundary=---------------------481089ff168d9ab2d8d7d42e37da66da
+
+ATTACHMENTS:
+--------------------
+- quotation.iso (application/octet-stream, 114688 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, confirm
+URLs found:
+  - protonmail.com
+  - fosrich.com
+  - protonmail.com.&nbsp;These
+  - http://www.w3.org/TR/html4/loose.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+Good Morning, Please find the attached transfer slip from our bank and confirm receipt of the payment to your account. Following the trail mail below, our client requested from us to remit payment to your account for business you did with them. Based on my telephonic conversation with your colleague, kindly reconfirm that your bank details on the wire slip is correct. &nbsp; I await your kind reply and feedback. Received with thanks. Regards, Dejahnea From:&nbsp;Purchases Sent: 09 JAN, 2020 07:20am To: hr Cc: fairview Subject: Proforma Invoice - protonmail.com Good Morning, Please find the Due invoices for protonmail.com.&nbsp;These invoices need to be settled urgently. These invoices need to be paid urgently today. Please find the contact person email wpx@protonmail.com Please forward the payment details directly to the email after payment. &nbsp; Kindly make the wire transfer today. Regards
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html><head>
+<meta name="GENERATOR" content="MSHTML 11.00.9600.17037">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0.5em;">
+<p>Good Morning,</p>
+<p>Please find the attached transfer slip from our bank and confirm receipt of the payment to your account.<br><br>Following the trail mail below, our client requested from us to remit payment to your account for business you did with them.</p>
+<p>Based on my telephonic conversation with your colleague, kindly reconfirm that your bank details on the wire slip is correct.</p>
+<p>&nbsp;</p>
+<p>I await your kind reply and feedback.<br><br><br>Received with thanks.<br><br><br><br>Regards,<br><br>Dejahnea<br><br><br><br>From:&nbsp;Purchases <br>Sent: 09 JAN, 2020 07:20am<br>To: <a href="mailto:hr@fosrich.com" target="_blank">hr</a><br>Cc: <a href="mailto:fairview@fosrich.com" target="_blank">fairview</a><br>Subject: Proforma Invoice - protonmail.com<br><br><br><br>Good Morning,<br><br>Please find the Due invoices for protonmail.com.&nbsp;These invoices need to be settled urgently.</p>
+<p>These invoices need to be paid urgently today.</p>
+<p>Please find the contact person email wpx@protonmail.com<br><br>Please forward the payment details directly to the email after payment.</p>
+<p>&nbsp;</p>
+<p>Kindly make the wire transfer today.<br><br><br><br>Regards<br></p>
+<div class="yj6qo"></div>
+<div class="adL"><br></div></body></html>

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Você foi selecionado para solicitar um American Express Business Platinum ! Identificação: 59635505.",
+    "from": "Bradesco <conviteamex894061@bradesco>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 19 Mar 2025 07:01:50 +0000",
+    "message_id": "<aa67564437dda513dcc395997ad18d11@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_aa67564437dda513dcc395997ad18d11\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_aa67564437dda513dcc395997ad18d11\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-12-1062496865825.us-central1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4232,
+    "has_text": true,
+    "has_html": true
+  }
+}

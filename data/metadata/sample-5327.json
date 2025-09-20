@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Please Update Your Information Payment",
+    "from": "Mic󠄹ros󠄹o󠄹ft Service <mail.info.gv@lancerleather.com>",
+    "to": "<security-4720@microsoft.com>",
+    "date": "Wed, 7 May 2025 12:24:17 +0000",
+    "message_id": "<5080923659.14787555325@AMS0EPF0000019E.eurprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixoa9Zd7FfEkbKbsmzRz9EXZFNhdPqiuGkQDKR4uo\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixoa9Zd7FfEkbKbsmzRz9EXZFNhdPqiuGkQDKR4uo\""
+  },
+  "attachments": [
+    {
+      "filename": "email-fastpakco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://apps.lancerleather.com/",
+      "icloud.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 19529,
+    "html_length": 19583,
+    "has_text": true,
+    "has_html": true
+  }
+}

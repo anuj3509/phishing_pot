@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Das Angebot gilt nur noch 3 Tage!",
+    "from": "Ihr Gewinner Team, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Aug 2023 21:11:03 +0200",
+    "message_id": "\r\n <a7d1ad6b-081a-4b03-80bf-0894605b3188@MW2NAM12FT073.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://roche.com/user/verify/jcjjddFbSKFimoxOiM5l8DH8w1f29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://100.42.79.2/cl/498_md/31/4/804/33/343611",
+      "eon.com",
+      "http://100.42.79.2/media/34619893c148783.png",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://100.42.79.2/media/8086bab9a67906d.png",
+      "www.ONCF-Voyages.ma",
+      "http://100.42.79.2/op/498_md/31/4/804/33/343611",
+      "surwww.oncf-voyages.ma",
+      "http://100.42.79.2/oop/498_md/31/4/804/33/343611"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6022,
+    "html_length": 14331,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Persil Probierpaket f��r phishing@pot",
+    "from": "Dein Probierpaket, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 30 Sep 2023 14:03:35 +0200",
+    "message_id": "\r\n <78833769-24da-4a86-be62-c51eeefe4e24@DM6NAM10FT004.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://imgsupload.com/nl/870/btn.png",
+      "http://easilett.com/cl/463_md/31/4/80/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "https://imgsupload.com/nl/870/header.png",
+      "http://easilett.com/oop/463_md/31/4/80/23/2459859",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4824,
+    "html_length": 9252,
+    "has_text": true,
+    "has_html": true
+  }
+}

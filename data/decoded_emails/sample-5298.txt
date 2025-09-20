@@ -1,0 +1,441 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: New Login Attempt Detected – Please Review Your Account Activity
+From: Gemini Se󠄹r󠄹vice <mail.info.dz@restosenligne.com>
+To: <customer-BkzhdFS@gemini.com>
+Date: Sun, 4 May 2025 17:20:47 +0000
+Message_Id: <0798068300.87985795323.8351001810603.55955950803494.655050384125@email.amazonses.com>
+Content_Type: multipart/mixed;
+	boundary="inmixlNDnwKIUF5mdpgrWprZa4mBSvUOMM0CoCXlla8eiA"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixlNDnwKIUF5mdpgrWprZa4mBSvUOMM0CoCXlla8eiA"
+
+ATTACHMENTS:
+--------------------
+- email-fastpakco.mobileconfig (application/octet-stream, 6126 bytes)
+- carddav-fastpakco.mobileconfig (application/octet-stream, 5062 bytes)
+- caldav-fastpakco.mobileconfig (application/octet-stream, 5214 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - 92.12.phishing@pot.76
+
+DECODED TEXT CONTENT:
+------------------------------
+<div>
+<div class="rps_8432">
+<div style="background-color: #ffffff; margin: 0;">
+<table style="font-family: 'proxima nova' ,'century gothic' ,'arial' ,'verdana' ,sans-serif; font-size: 14px; color: #5e5e5e; width: 98%; max-width: 600px; float: none; margin: 0 auto;" border="0" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td align="center">
+<h1 style="text-align: center;" aria-hidden="true"><img style="border: 0px; display: block; outline: none; text-decoration: none; height: 31px; width: 136px; font-size: 13px;" src="data:image/png;base64,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" width="118" height="auto" data-imageproxyendpoint="/actions/ei" data-imagetype="External" /></h1>
+</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td>
+<table style="width: 100%; line-height: 20px; padding: 0px; border: 0px;" cellpadding="0" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">
+<h3>New Login Attempt Detected</h3>
+</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">We noticed a new login to your account from an unrecognized device:</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">
+<ul>
+<li>Date : Sun, May 04, 2025</li>
+<li>IP Address :&nbsp;92.12.phishing@pot.76</li>
+<li>Location :&nbsp;Singapore</li>
+<li>Device :&nbsp;Samsung Galaxy S21 Ultra</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">If this login attempt was not authorized by you, please reach out to our support team right away to protect your account and assets.</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">&nbsp;</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">Customer Support Line:</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 23px; line-height: 22px; text-align: left; color: rgba(1,8,30,.6);"><strong><a style="text-decoration: none; color: #3366ff;" href="tel:+18884414083" target="_blank" rel="noopener">+1 (888) 441-4083</a></strong></td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16"><span style="color: #000000;">Kind Regards,&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;" colspan="3" height="5">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%; min-width: 100%;" colspan="3" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 5px;" colspan="3" height="5"><span style="color: #000000;">Gemini Team</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr">Customer Support Line:</div>
+<div dir="ltr">
+<p style="font-size: 23px; line-height: 22px; text-align: left; color: rgba(1,8,30,.6);"><strong><a style="text-decoration: none; color: #3376ff;" title="tel:+44" href="tel:+44" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="2">+1</a></strong></p>
+</div>
+<div dir="ltr">I have attached the drafts of the Postnup and Will.&nbsp; Please review and have any changes ready at the meeting.<span style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 13px;">&nbsp;</span></div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yahoo_quoted_5347997614" class="x_x_x_x_yiv9624130327ydp5fe1d924yahoo_quoted">
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 13px;">
+<div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357">
+<div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357ydp8172e7a4yahoo_quoted_3606260256" class="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357ydp8172e7a4yahoo_quoted" aria-hidden="true">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div>
+<div class="rps_8432">
+<div style="background-color: #ffffff; margin: 0;">
+<table style="font-family: 'proxima nova' ,'century gothic' ,'arial' ,'verdana' ,sans-serif; font-size: 14px; color: #5e5e5e; width: 98%; max-width: 600px; float: none; margin: 0 auto;" border="0" cellspacing="0" cellpadding="0" align="left">
+<tbody>
+<tr>
+<td align="center">
+<h1 style="text-align: center;" aria-hidden="true"><img style="border: 0px; display: block; outline: none; text-decoration: none; height: 31px; width: 136px; font-size: 13px;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKsAAAAnCAYAAABwmri6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAnSSURBVHhe7ZwLaFTZGcfj+4GKoIjiC3y0EU3sGjYo6aK1ttSKtq6o9Rllq+i6PnZFjNVWNBgrIkIQMTagxWKUwqqxNlrfClEbu1orVVfzjkkmmZiXyWTu6yv/O3Pv3HPmTmbuZCaZlPuDD3bmfOc4e+Y/53zn+85NHNnYdBPi+DdsbGIVW6w23YaoivWDpNB3Lpn+/lGmb5tkymuW6V8umeplhXe1sQlKVMT6xq3Q19UiJRW76QeF/vZJkZu+doj0ncsWrU3oRFSsDZJCv6sRKZ4T5/QigZKKBUooEvyEu6NapGrRFq1NcCIm1jJBoc8rfGKEQP9QK9HVZpletSlq+3/bZMr7KFNajUjJJT7BLq4QqESwBWvTPhERa72k0KJyn1C/qhaDiq9cUOgbh6j3+WmZ245lbdqlw2JVFKIvq32iO1on8S4BgTSP1fn6flkl8i4dQhRFcjqdVF5erlpdXR0JgsC72XQTOizW/BaZfugV2zaHSG6LiyPctxvE/rDF4gAcsizTtWvXaMmSJTRhwgQaMmQI9enTh3r37k0DBw6ksWPH0uLFi+n69euqbyBevXpFkydPDtu2bNnCjJebm6u3TZ06lR4/fsy0hwp+gAsXLtTH2rx5M+9ChYWFlJSUpPucOHGCd6GCggK9PTExkZ4/f867BKS6upoSEhL0/idPnuRd6P79+8x8PHr0iHexTIfFuqbSs/3/uFSgyjAPSk0y0dQij1g3hrm6KopC+fn5qhDi4uJCskmTJtGNGzfUvjwvXrzw87di8+fPZ8Y7f/48045/u7a2lvEJhZ07dzLjQLg87969U3+kms+BAwd4F3rw4AEzzpQpU6i+vp53M6Wqqor69++v901PT+dd1AXDOP6tW7d4F8t0SKw1okIJXpEddIYnMo0jTs/q+mmxOyzRHzt2jJlAK7Z3715+uKiLFTZ37tyQBQIyMzP9xoiUWGEpKSnU0NDAu/rRLcWKJD8EhjDgP23WBWbkWZtnLBgyCFY4fvw49erVi5mc0aNH07p16ygrK4tu3rxJd+/epZycHNq9ezfNmDGDevToofsePnyYH9JPrNu2baNTp06FbJcuXWLGMxMrLDU1lfELBL78fv36+fWPpFhhy5cvV0ON9ug2YsWOWeCS6VS9RMu8qaopRW7aWi2qOdNw7YtKUY99sxtCP6Qhthw0aBAzMStXrqTi4mLeVae1tZXOnTtH48aNo+nTp5t+ObxYES50hEBihR05csQ0FNF49uwZjRo1yq8fLNJihe3fv7/dzxPzYsVal9ss0eflSO6zif1I24kPoYt12bJlzKSsXbuW2traeDdTIOhAgX9nihUHPxzAzKipqVF3Ar6PZtEQKz7PxYsX+S46MS1W1PhXv2erTzgQJXorUlgRF5QLAW2aV9yJRYH9flnmGz+7PrQw4M2bN8yqOnHiRHK73bxbWERbrMgWGF8PHTqUXr58yfRpaWmhefPmMX4rVqyg4cOH668jJdZNmzb5fR74mBGzYn3rVugXBiEllwj0l0aZykWFDtR6DkWzSgRqr8z/hTdjkFrpv91q/NsQs+LiSyicPXuWmRCzFE24RFusGO/o0aNM7Dxt2jRyOBx6n7S0NKYPDkDIFY8YMUJ/L1JiRYyN+TTG/iNHjlSFyROTYkXN/teGytROh0jGwlSG9wQfCbEedkqqzyfFbioMUv3S2LFjBzMh+JJ4UARAThPbfXuG3KQRXqzJyck0e/bsoJaRkcGMo2EmVsTKfBgzZ84cNUMAgRnfh3DKysrUsaIlVuSdt2/fzryPmB6FFSMxKdbdhnKoWWUqUmL9KCs003tXYG2lqBYKQmHNmjX6ZGBFkCT/z1hZWWl6iuZtw4YNTD9erKHa+vXrmXE0zMQK8JlnzpzJtC1YsIAGDBigv4bwnj59qo8VLbFqLFq0iGlbvXo1c+CKObG+bFN0oa6vMhdQpMR6yDtOfJGb/hFiCABw6tcmo2/fvnyzSqyLFaAihHibHwsGUWB7NhJtsSLUwE5ibN+zZ4/eHnNi1eLRGcVCwG25o2JFl6x6z/YPQ/rKChs3bmQmpKmpiXdRxYpy3/jx4/3MGC8GEytWcaR0gtnly5eZcTTaEyt48uQJDRs2jPGBHTx40C+NFG2xgtevX6vzprUjQ3DmzBm1LabEivp+SolHYKj3B6IjYm1VFLVqpaXBkosFqrBYuTp06BAzIQ8fPuRdVBADmpnxMBFMrLy4rBJMrOD06dPUs2dP3QdCNMtudIZYNR/jroT/RvwfU2ItE3wn8z83yORSFFNLN2QDcE2Qb9dME+uq96KaXThbL9Fnpb40GH4Y31u9AUNEt2/fZr5cXFCxQqyJFfErKmxoR27V5XLxLiqdJVaQnZ3NzDEqg9gFYkasT10+sf6oyCNGM0Ob5se3mfkhH6tVqTRLrQwcZgQDJ33c/tEmBDer7ty5w7sFJNbECrDlo0RcUVHBN+l0plgBn3XBbTbMtfa6S8Wa3+oTazQMj7f85r1If22STQ9uVkAd3jgp+JKw4gYD22ssijUUOlus+AEhI2D0N1qXitWYoP9tlUgZTilsS3dKlOx9cBCPveQ0yuqWH6mHArC64vaScWJwUMHFE8RXfN0fseqFCxf88pu2WAOLFeA646xZs5g+mnWpWKtERS+RWqnTm4GxcO0PY2WFWEa1SmlpqWnqB3EV3keyHmVLxIH4oo0xmGbILBjhxTpmzBiKj48P2bZu3cqM193FClCUQMxq7AfrUrEihPyVt3K1tEIgi4d0hstNvlX6UWt0xApQZVm6dKnfRAYzpGRwTc9Y5gS8WK1asPus3VGsAE8UDB48mOnbpWIFfzLkP29YSNQbERSFflbqEf1nQdJbkQDlQuQ5UREy5lDNDKHCvn37Aj7OYYs1MHl5eeqPXOvb5WJtlEm9tAKh4bHpcJ48zfzgETwyADhMdRY4EOABQVy23rVrl3o4WLVqlVr3Rirm7du3fBc/EKNduXIlbMMjNkYQqhjbGxsbmXYr4PkxbRxjGVYDt7WuXr2q+/D3HgCKJcbPg6qVFe7du6f3LSkp4Zv9/n/NCjZWCShW8G2TpKeacKHFEWI8AK9sw8qM9FS0V1Wb/3/aFSu0me6tUsFw2eRvzTKJAW6R41386aDfe4sFsJ+Uhpfwt7HhaVesACviH52+R07wCAsOXZl1Et1skemfrQo9aJEpp1GifTXs37f6eZmgVqxsbCJBULFq5DbLlGIokWrGV6Q0w+qKv7piYxMpQhYrwBnpfKOkprW0PKxmuN6H0mpajUTPO/ikq42NGZbEqgEpOiSFXrQplN+qUIFLUev7rbZGbaJIWGK1sekKbLHadBtssdp0G/4H+S9W4YhtXCQAAAAASUVORK5CYII=" width="118" height="auto" data-imageproxyendpoint="/actions/ei" data-imagetype="External"></h1>
+</td>
+</tr>
+<tr bgcolor="#ffffff">
+<td>
+<table style="width: 100%; line-height: 20px; padding: 0px; border: 0px;" cellpadding="0" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">
+<h3>New Login Attempt Detected</h3>
+</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">We noticed a new login to your account from an unrecognized device:</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">
+<ul>
+<li>Date : Sun, May 04, 2025</li>
+<li>IP Address :&nbsp;92.12.phishing@pot.76</li>
+<li>Location :&nbsp;Singapore</li>
+<li>Device :&nbsp;Samsung Galaxy S21 Ultra</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">If this login attempt was not authorized by you, please reach out to our support team right away to protect your account and assets.</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">&nbsp;</td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">Customer Support Line:</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16">&nbsp;</td>
+</tr>
+<tr>
+<td style="font-size: 23px; line-height: 22px; text-align: left; color: rgba(1,8,30,.6);"><strong><a style="text-decoration: none; color: #3366ff;" href="tel:+18884414083" target="_blank" rel="noopener">+1 (888) 441-4083</a></strong></td>
+</tr>
+<tr>
+<td class="x_m_-7741948834351240132rte-content" style="line-height: 22px; font-weight: normal; color: #000000; font-size: 16px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 16px;" height="16"><span style="color: #000000;">Kind Regards,&nbsp;</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="height: 5px;" colspan="3" height="5">&nbsp;</td>
+</tr>
+<tr>
+<td style="width: 100%; min-width: 100%;" colspan="3" width="100%">&nbsp;</td>
+</tr>
+<tr>
+<td style="height: 5px;" colspan="3" height="5"><span style="color: #000000;">Gemini Team</span></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr" aria-hidden="true">&nbsp;</div>
+<div dir="ltr">Customer Support Line:</div>
+<div dir="ltr">
+<p style="font-size: 23px; line-height: 22px; text-align: left; color: rgba(1,8,30,.6);"><strong><a style="text-decoration: none; color: #3376ff;" title="tel:+44" href="tel:+44" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="2">+1</a></strong></p>
+</div>
+<div dir="ltr">I have attached the drafts of the Postnup and Will.&nbsp; Please review and have any changes ready at the meeting.<span style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 13px;">&nbsp;</span></div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yahoo_quoted_5347997614" class="x_x_x_x_yiv9624130327ydp5fe1d924yahoo_quoted">
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 13px;">
+<div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357">
+<div>
+<div id="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357ydp8172e7a4yahoo_quoted_3606260256" class="x_x_x_x_yiv9624130327ydp5fe1d924yiv6535965357ydp8172e7a4yahoo_quoted" aria-hidden="true">&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+

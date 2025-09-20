@@ -1,0 +1,2116 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Informação importante
+From: PayPal  <paypal@mail.paypal.com>
+To: phishing@pot
+Date: Tue, 9 May 2023 23:11:01 +0000
+Message_Id: <HP2v60000018802c84a0fb21578f4bbe5c7c0160@mail.paypal.com>
+Content_Type: multipart/alternative;
+ boundary="-=Part.1fd4c57.aab98f67506b5cc1.18802c84f30.cb8b291cf67362db=-"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="-=Part.1fd4c57.aab98f67506b5cc1.18802c84f30.cb8b291cf67362db=-"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+Suspicious phrases: click here
+URLs found:
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf
+  - span.hidetonline
+  - body.zh_TW,
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.otf
+  - body.th_TH
+  - entrada.Como
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif
+  - http://www.w3.org/1999/xhtml
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-MediumItalic.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff
+  - https://images.ctfassets.net/7rifqg28wcbd/3SxJRra6gNkA8Yzgd4gMrw/b1bf0c35ba919529101b17c7da6738ba/facebook_icn.png
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.woff
+  - https://epl.paypal-communication.com/O/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d700004c5a42963aa1
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-BoldItalic.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Medium.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.svg
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc8/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - body.ja_JP
+  - paypal.com
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcca/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.otf
+  - body.intcomFont,
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Italic.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.otf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.otf
+  - body.ja_JP,
+  - https://pixel.app.returnpath.net/pixel.gif?r=2115a2cad65f752af3546c2a0de6ee30c8694724
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.eot
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.woff
+  - https://images.ctfassets.net/7rifqg28wcbd/4HBQpZ4ipSy0yK81qxNSWJ/b907a016bdbb5d26107f109300325729/extra-wide-logo-header-blue-2x.png
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.eot
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.svg
+  - https://images.ctfassets.net/7rifqg28wcbd/352CVkLRcSm4KpWBP3C0Rq/9e022ae1388f00a74b01f75f92af8500/twitter_icn.png
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.woff
+  - https://images.ctfassets.net/7rifqg28wcbd/4wKfqzCiKdFa6sPpBZZyBF/1687d85b2d37ec60b423588a818cabdf/arc_blue-bg_white-arc.jpg
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.eot
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.otf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Regular.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.svg
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.eot
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.woff
+  - body.ko_KR,
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc3/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-LightItalic.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.svg
+  - body.ko_KR
+  - body.intcomFont
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.svg
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Light.ttf
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff2
+  - body.zh_HK
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.otf
+  - body.zh_TW
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc6/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://pp.images.harmony.epsilon.com/PayPal/favicon.ico
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff2
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bccb/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc9/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://epl.paypal-communication.com/H/2/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507-d2bd-49d7-b2d4-61dad8313732/HTML
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc2/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.otf
+  - body.zh_HK,
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.svg
+  - body.th_TH,
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc5/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.svg
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.eot
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff2
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.eot
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.woff
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.eot
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.eot
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc7/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.eot
+  - mail.paypal.com
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.otf
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.svg
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff
+  - https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc4/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+  - https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.woff
+  - https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Bold.ttf
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+
+======================================================================
+PayPal
+======================================================================
+Dear Rodrigo Ferreira, 
+
+We have tried to send you this email as HTML (pictures and words) but it wasn't possible. 
+In order for you to see what we had hoped to show you please click here to view online in your browser:
+
+https://epl.paypal-communication.com/H/2/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507-d2bd-49d7-b2d4-61dad8313732/HTML
+
+Yours sincerely,
+PayPal
+
+======================================================================
+
+
+Para assegurar que você possa receber nossos e-mails, adicione @mail.paypal.com à sua lista de remetentes seguros.
+
+Como saber se um e-mail é falso?Os e-mails do PayPal sempre usam seu nome completo, conforme indicado na sua conta do PayPal. E-mails de phishing e falsos costumam começar com cumprimentos genéricos, como "Caro membro do PayPal". Se você desconfia da origem de um e-mail, encaminhe-o para phishing@paypal.com e exclua-o da sua caixa de entrada.Como identificar mensagens de phishing.
+https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc2/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK
+
+Não responda a esta mensagem. Este e-mail foi enviado por um sistema automatizado que não processa respostas. Para obter ajuda, acesse sua conta do PayPal e clique no link Ajuda no canto inferior direito de qualquer página de nosso site. Em caso de dúvidas, entre em contato com o nosso SAC - Serviço de Atendimento ao Consumidor: 0800 047 4482, disponível 24 horas por dia, sete dias por semana. Para deficientes auditivos / fala, entre em contato conosco pelo telefone 0800-729-7252. Caso já tenha entrado em contato com o Serviço de Atendimento ao Cliente, e a solução apresentada não tenha sido suficiente, você pode ligar para a Ouvidoria do PayPal, pelo 0800-047-4224. O serviço está disponível de segunda a sexta-feira, das 09h às 18h, exceto feriados.
+
+Copyright (C) 2023 PayPal Inc. Todos os direitos reservados.
+
+112875
+346588
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>PayPal</title>
+    <link rel="shortcut icon" href="https://pp.images.harmony.epsilon.com/PayPal/favicon.ico" type="image/x-icon">
+    
+    <meta content="initial-scale=1.0" name="viewport">
+    <meta http-equiv="X-UA-Compatible">
+    <meta name="robots" content="no index">
+
+
+    <meta name="color-scheme" content="light dark">
+    <meta name="supported-color-schemes" content="light dark">
+
+    <style type="text/css">
+      :root {
+        Color-scheme: light dark;
+        supported-color-schemes: light dark;
+      }
+    </style>
+    <style>
+      @media all and (max-width: 480px) {
+        @media (prefers-color-scheme: dark) {
+          .darkmode_CTA {
+            background-color: #141414 !important;
+          }
+        }
+
+        @media (prefers-color-scheme: light) {
+          .darkmode_CTA {
+            background-color: #FFFFFF !important;
+          }
+        }
+      }
+    </style>
+    <!--[if !mso]><!-- -->
+    <style>
+      @font-face {
+        font-family: "pp-sans-big-bold";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Bold.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-light";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Light.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-medium";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Medium.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-regular";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Regular.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-big-thin";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansBig-Thin.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-light";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Light.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-medium";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Medium.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-regular";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Regular.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "pp-sans-small-thin";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.eot") format("eot"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/headlinedark/festivo1.ttf") format("truetype"),
+          url("https://www.paypalobjects.com/webstatic/mktg/2014design/font/PP-Sans/PayPalSansSmall-Thin.svg") format("svg");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      /* Brand Refresh PP open fonts*/
+
+      @font-face {
+        font-family: "PayPal-Open-bold";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Bold.woff2") format("woff2"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Bold.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+
+      @font-face {
+        font-family: "PayPal-Open-Bold-italic";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-BoldItalic.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-BoldItalic.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+
+      @font-face {
+        font-family: "PayPal-Open-Italic";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Italic.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Italic.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "PayPal-Open-Light";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Light.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Light.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+
+      @font-face {
+        font-family: "PayPal-Open-Light-Italic";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-LightItalic.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-LightItalic.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "PayPal-Open-Medium";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Medium.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Medium.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "PayPal-Open-Medium-Italic";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-MediumItalic.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-MediumItalic.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+
+      @font-face {
+        font-family: "PayPal-Open";
+        src: url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.otf") format("otf"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff") format("woff"),
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpen-Regular.woff2") format("woff2"),
+
+          url("https://www.paypalobjects.com/webstatic/mktg/fonts/pp-open/PayPalOpenTT-Regular.ttf") format("truetype");
+        font-weight: normal !important;
+        font-style: normal !important;
+      }
+    </style>
+
+
+
+    <!--<![endif]-->
+
+    <style type="text/css">
+      @media only screen and (max-width: 480px) {
+        /*@-ms-viewport {
+          width: 320px;
+        }
+        @viewport {
+          width: 320px;
+        }*/
+      }
+
+      div,
+      p,
+      a,
+      li,
+      td {
+        -webkit-text-size-adjust: none;
+      }
+
+      td {
+        text-decoration: none !important;
+      }
+
+      td {
+        border-bottom: none;
+      }
+
+      a[x-apple-data-detectors] {
+        color: inherit !important;
+        text-decoration: none !important;
+        font-size: inherit !important;
+        font-family: inherit !important;
+        font-weight: inherit !important;
+        line-height: inherit !important;
+      }
+
+      .boxshadow {
+        box-shadow: 0 1px 4px 0 #eeeeee;
+        border: none !important;
+      }
+
+      @media all and (min-width: 480px) {
+        .hide {
+          display: block !important;
+          width: auto !important;
+          overflow: auto !important;
+          max-height: inherit !important;
+        }
+      }
+
+      @media all and (max-width: 480px) {
+        .mmhide {
+          width: auto !important;
+        }
+
+        .mob-margin-auto {
+          margin: auto !important;
+        }
+
+        .mob-hide {
+          display: none !important;
+        }
+
+        .mob-showcell {
+          display: table-cell !important;
+        }
+
+        .mobpadtop25 {
+          padding: 25px 35px 0px 35px !important;
+        }
+
+        .mobpadbot25 {
+          padding: 20px 35px 25px 35px !important;
+        }
+
+        .view-online_ltr {
+          text-align: left !important;
+          padding-left: 10px !important;
+          padding-top: 0 !important;
+        }
+
+        .mob_fix {
+          width: 100vw !important;
+        }
+
+        .table {
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        /*a.100 {
+          width: 100% !important;
+        }*/
+
+        .table-main {
+          width: 90% !important;
+        }
+
+        .table-sm {
+          width: 80% !important;
+        }
+
+        .table-xsm {
+          width: 70% !important;
+        }
+
+        .table-full {
+          width: 100% !important;
+          min-width: 100% !important;
+        }
+
+        .img {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        .header-border {
+          width: 90% !important;
+          height: 1px !important;
+        }
+
+        .pad20 {
+          padding: 20px 20px 20px 20px !important;
+        }
+
+        .pad2035 {
+          padding: 20px 35px 20px 35px !important;
+        }
+
+        .pad4940 {
+          padding: 49px 40px 49px 40px !important;
+        }
+
+        .bodradtop {
+          border-radius: 12px 12px 0 0 !important;
+        }
+
+        .bodradbott {
+          border-radius: 0 0 12px 12px !important;
+        }
+
+        .pad25left {
+          padding: 20px 0px 20px 35px !important;
+        }
+
+        .pad25right {
+          padding: 25px 25px 25px 0px !important;
+        }
+
+        .pad25new {
+          padding: 0px 25px 25px 25px !important;
+        }
+
+        .pad2035nobot {
+          padding: 20px 35px 0px 35px !important;
+        }
+
+        .pad1235 {
+          padding: 12px 35px 12px 35px !important;
+        }
+
+        .padside35 {
+          padding: 0px 35px 0px 35px !important;
+        }
+
+        .pad2035noborder {
+          padding: 20px 35px 20px 35px !important;
+          border: none !important;
+        }
+
+        .pad2035follow {
+          padding: 0px 35px 20px 35px !important;
+        }
+
+        .pad2035follownoborder {
+          padding: 0px 35px 20px 35px !important;
+          border: none !important;
+        }
+
+        .pad3035 {
+          padding: 30px 35px 0 35px !important;
+        }
+
+        .padallsides {
+          padding: 30px 20px 30px 20px !important;
+        }
+
+        .pad302020 {
+          padding: 30px 20px 0px 20px !important;
+        }
+
+        .pad201020 {
+          padding: 0px 20px 10px 20px !important;
+        }
+
+        .pad302030 {
+          padding: 30px 20px 30px 20px !important;
+        }
+
+        .pad20sides {
+          padding: 0px 20px 0px 20px !important;
+        }
+
+        .pad20sidestop20 {
+          padding: 20px 20px 0px 20px !important;
+        }
+
+        .pad4035 {
+          padding: 40px 35px 40px 35px !important;
+        }
+
+        .pad5035 {
+          padding: 50px 35px 50px 35px !important;
+        }
+
+        .nopad {
+          padding: 0px 0px 0px 0px !important;
+        }
+
+        .nopadtop {
+          padding-top: 0px !important;
+        }
+
+        .padbot20 {
+          padding-bottom: 20px !important;
+        }
+
+        .padbot20border {
+          padding-bottom: 20px !important;
+          border-bottom: solid 1px #dddddd !important;
+          text-align: center !important;
+        }
+
+        .bordernone {
+          border: none !important;
+        }
+
+        .centertext {
+          text-align: center !important;
+        }
+
+        .hide {
+          max-height: 0;
+          /* Gmail*/
+          display: none;
+          /* Generic*/
+          mso-hide: all;
+          /* Outlook clients*/
+          overflow: hidden;
+          /* Generic */
+        }
+
+        .mobile-only {
+          display: block !important;
+          width: 100% !important;
+          max-height: none !important;
+          color: #0C0C0D !important;
+          font-size: 32px !important;
+        }
+
+        .mobileonlyblock {
+          display: inline-block !important;
+        }
+
+        .padtop20 {
+          padding: 20px 0px 0px 0px !important;
+        }
+
+        .padbottom20 {
+          padding: 0px 0px 20px 0px !important;
+        }
+
+        .mobpadtopbot {
+          padding-top: 25px !important;
+          padding-bottom: 25px !important;
+        }
+
+        .mobtoppad {
+          padding-top: 10px !important;
+        }
+
+        .mobhtwt {
+          width: 250px !important;
+          height: 110px !important;
+        }
+
+        .mobwt270 {
+          width: 270px !important;
+        }
+
+        .mobwt115 {
+          width: 115px !important;
+        }
+
+        .mobwtht11580 {
+          width: 115px !important;
+          height: 80px !important;
+        }
+
+        .noheight {
+          height: auto !important;
+        }
+
+        .full {
+          width: 100% !important;
+          border: none !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        a[class="full_border"] {
+          width: 100% !important;
+          padding-left: 0px !important;
+          padding-right: 0px !important;
+        }
+
+        .display-block,
+        .displayBlock {
+          width: 100% !important;
+          display: block !important;
+          margin-bottom: 4px;
+        }
+
+        .mob_280 {
+          width: 280px !important;
+        }
+
+        .mobpadbtm20 {
+          padding-bottom: 20px;
+        }
+
+        .coldrop {
+          display: block !important;
+          float: left;
+          width: 100% !important;
+        }
+
+        .coldropheader {
+          display: table-header-group !important;
+          width: 100% !important;
+        }
+
+        .coldropfooter {
+          display: table-footer-group !important;
+          width: 100% !important;
+        }
+
+        table th {
+          margin: 0 !important;
+          padding: 0 !important;
+          vertical-align: top;
+          font-weight: normal;
+        }
+
+        .mob_50per {
+          width: 50% !important;
+          margin: auto;
+        }
+
+        .mob_50per img {
+
+          margin: auto;
+        }
+
+        .checked-mob-hide {
+          width: 100% !important;
+          height: auto !important;
+        }
+
+        .mob_align_left {
+          text-align: left !important;
+        }
+
+        .mob_align_right {
+          text-align: right !important;
+        }
+
+        .pad20noside {
+          padding: 20px 0px 20px 0px !important;
+        }
+
+        .pad20nosidefollow {
+          padding: 0px 0px 20px 0px !important;
+        }
+
+        .mob_pad203540 {
+          padding: 20px 35px 40px 35px !important;
+        }
+
+        .padtop20bottom10 {
+          padding: 20px 0px 10px 0px !important;
+        }
+
+        .pad303530 {
+          padding: 30px 35px 30px 35px !important;
+        }
+
+        .table-three {
+          width: 33% !important;
+        }
+
+        .coldropnoborder {
+          display: block !important;
+          float: left;
+          width: 100% !important;
+          min-width: 100% !important;
+          border: 0px solid #fff !important;
+        }
+
+        .coldrop50_left {
+          /*display: block !important;
+      float: left;*/
+          width: 50% !important;
+          border: 0px solid #fff !important;
+          border-radius: 10px 0px 0px 10px;
+          min-width: 50% !important;
+          vertical-align: middle;
+        }
+
+        .borderradiusleft {
+          border-radius: 10px 0px 0px 10px;
+        }
+
+        .coldrop50_right {
+          width: 50% !important;
+          border-bottom: 1px solid #ccc !important;
+          border-radius: 0px 10px 10px 0px;
+          min-width: 50% !important;
+          vertical-align: middle;
+          border-left: 0px solid #ccc;
+          border-right: 1px solid #ccc;
+          border-top: 1px solid #ccc;
+        }
+
+        .padtopbot {
+          padding: 30px 0px 10px 0px !important;
+        }
+
+        .pad2020 {
+          padding: 0px 0px 0px 0px !important;
+        }
+
+        .mrgtop30 {
+          margin-top: 30px;
+          width: 100% !important;
+          max-width: 100% !important;
+        }
+
+        .padleft35 {
+          padding: 10px 35px 10px 35px !important;
+        }
+
+        .padleft403550 {
+          padding: 40px 35px 50px 35px !important;
+        }
+
+        .imagehide {
+          display: none;
+        }
+
+        /* for Brand Refresh*/
+        .font32 {
+          font-size: 32px !important;
+        }
+
+        .font16 {
+          font-size: 16px !important;
+        }
+
+        .font14 {
+          font-size: 14px !important;
+        }
+
+        .font18 {
+          font-size: 18px !important;
+        }
+
+        .font10 {
+          font-size: 10px !important;
+        }
+
+        .font25 {
+          font-size: 25px !important;
+        }
+
+        .padsec1 {
+          padding: 35px 10px 15px 35px !important;
+        }
+
+        .padsec2 {
+          padding: 35px 35px 15px 0px !important;
+        }
+
+        .padsec3 {
+          padding: 0px 35px 15px 35px !important;
+        }
+
+        .font24 {
+          font-size: 24px !important;
+        }
+
+        .padtop24 {
+          padding: 24px 0px !important;
+        }
+
+        .secedit1 {
+          padding: 35px 35px 24px 35px !important;
+        }
+
+        .secedit2 {
+          padding: 0px 35px 24px 35px !important;
+        }
+
+        .pad24top {
+          padding-top: 24px !important;
+        }
+
+        .padnew {
+          padding: 35px 35px 0px 35px !important;
+        }
+
+        .padnew2 {
+          padding: 0px 35px 0px 35px !important;
+        }
+
+        .padnewbot {
+          padding: 0px 35px 35px 35px !important;
+        }
+
+        .paddright12 {
+          padding-right: 12px !important;
+        }
+
+        .pad25left {
+          padding: 25px 0px 25px 25px !important;
+        }
+
+        .pad25right {
+          padding: 25px 25px 25px 0px !important;
+        }
+
+        .pad45left {
+          padding: 25px 25px 25px 45px !important;
+        }
+
+        .pad035 {
+          padding: 0px 25px 25px 45px !important;
+        }
+
+        .pad25new {
+          padding: 0px 25px 25px 25px !important;
+        }
+
+        .pad1035 {
+          padding: 20px 35px !important;
+        }
+
+        .pad35 {
+          padding: 35px 35px !important;
+        }
+
+        .pad_b24 {
+          padding-bottom: 24px !important;
+        }
+
+        .font41 {
+          font-size: 41px !important;
+        }
+
+        .pad_25202530 {
+          padding: 25px 19px 25px 19px !important;
+        }
+
+        .width_175 {
+          width: 175px !important;
+          font-size: 16px !important;
+          line-height: 40px !important;
+        }
+
+        .img_27 {
+          width: 27px !important;
+          height: auto !important;
+        }
+
+        .padnew_n {
+          padding: 27px 27px 0px 27px !important;
+        }
+
+        .padnew1 {
+          padding: 12px 27px 0px 27px !important;
+        }
+
+        .padnew3 {
+          padding: 12px 27px 37px 27px !important;
+        }
+
+        .padinner {
+          padding: 12px 19px 0px 12px !important;
+        }
+
+        .padinner_n1 {
+          padding: 0px 19px 0px 12px !important;
+        }
+
+        .padd_top {
+          padding-top: 12px !important;
+        }
+
+        .padd_30 {
+          padding: 15px 12px 15px 0px !important;
+        }
+
+        .padinner_Update {
+          padding: 15px 19px 15px 20px !important;
+        }
+
+        .table_border {
+          border-radius: 12px !important;
+        }
+
+        .pad2035_new1 {
+          padding: 20px 35px 0px 35px !important;
+        }
+
+        .pad2035_new2 {
+          padding: 35px 35px 0px 35px !important;
+        }
+
+        .img40 {
+          width: 40px !important;
+          height: 40px !important;
+        }
+
+        .pad_b_37 {
+          padding-bottom: 37px !important;
+        }
+
+        .nopadtop {
+          padding-top: 0px !important;
+        }
+
+        .center_table {
+          margin: 0 auto !important;
+          align-content: center !important;
+        }
+
+        .font_12 {
+          font-size: 12px !important;
+        }
+
+        .header_mob_height {
+          width: 88px !important;
+          height: auto !important;
+        }
+
+        .widhth_320 {
+          width: 320px !important;
+          height: auto !important;
+        }
+
+        .padright35 {
+          padding: 10px 35px 10px 35px !important;
+        }
+
+        .block_headline_mobpad {
+          padding: 35px 35px 0px 35px !important;
+        }
+
+        .block_headline_font {
+          font-size: 32px !important;
+        }
+
+        .block_headline_lheight {
+          line-height: 32px !important;
+        }
+
+        .block_copy_mobpad {
+          padding: 35px 35px 35px 35px !important;
+        }
+
+        .block_copy_font {
+          font-size: 16px !important;
+        }
+
+        .block_copy_lheight {
+          line-height: 22px !important;
+        }
+
+        .cobrand_header_pad {
+          padding: 22px 35px 20px 35px !important;
+        }
+
+        .cobrand_paypal_width {
+          width: 80px !important;
+          height: auto !important;
+        }
+
+        .cobrand_brand_width {
+          width: 55px !important;
+          height: auto !important;
+        }
+
+        .cobrand_divider_width {
+          width: 15px !important;
+        }
+
+        .cobrand_divider_height {
+          height: 17px !important;
+        }
+
+        .padbot24 {
+          padding-bottom: 24px !important;
+        }
+
+        .secondimgc_head_mob_font {
+          font-size: 32px !important;
+        }
+
+        .secondimgc_head_mob_lheight {
+          line-height: 32px !important;
+        }
+
+        .secondimgc_para_mob_font {
+          font-size: 16px !important;
+          line-height: 22px !important;
+        }
+
+        .secondimgc_cta_mob_font {
+          font-size: 14px !important;
+          line-height: 14px !important;
+          font-family: 'PayPal-Open-Medium', Helvetica, Arial, sans-serif !important;
+          letter-spacing: -0.02em !important;
+        }
+
+        .secondimgc_cta_mob_arrow {
+          width: 25px !important;
+          height: 20px !important;
+        }
+
+        .pad35topside {
+          padding: 35px 35px 30px 35px !important;
+        }
+
+        .pad35botside {
+          padding: 0px 35px 35px 35px !important;
+        }
+
+        .testi_signature_height {
+          height: 45px !important;
+        }
+
+        .testimonial_para_font {
+          font-size: 25px !important;
+          line-height: 27px !important;
+          letter-spacing: -0.015em !important;
+        }
+
+        .testimonial_sign_font {
+          font-size: 16px !important;
+          line-height: 22px !important;
+        }
+
+        .testimonial_img_div {
+          width: 57px !important;
+          max-width: 57px !important;
+        }
+
+        .testimonial_img {
+          width: 45px !important;
+        }
+
+        .sectwoup_mob_com_wid {
+          width: 250px !important;
+          max-width: 250px !important;
+        }
+
+        .sectwoup_mob_wid {
+          width: 120px !important;
+          min-width: 120px !important;
+          max-width: 120px !important;
+        }
+
+        .sectwoup_mob_icn_wid {
+          width: 50px !important;
+          height: auto !important;
+        }
+
+        .padtopbot35 {
+          padding-top: 35px !important;
+          padding-bottom: 35px !important;
+        }
+
+        .padtop12 {
+          padding: 12px 0px 0px 0px !important;
+        }
+
+        .sectwoup_mob_headline {
+          font-size: 18px !important;
+          color: #001435 !important;
+        }
+
+        .sectwoup_mob_para {
+          font-weight: 400 !important;
+          font-size: 14px !important;
+        }
+
+        .sectwoup_mob_cta {
+          font-weight: 500 !important;
+          font-size: 14px !important;
+          letter-spacing: -0.02em !important;
+        }
+
+        .c2up {
+          padding: 35px 35px 39px 35px !important;
+        }
+
+        .c2up_headline {
+          padding-top: 24px !important;
+        }
+
+        .c2up_copy {
+          padding-top: 12px !important;
+        }
+
+        .c2up_cta {
+          padding-top: 14px !important;
+        }
+
+        .block_crop {
+          width: 100% !important;
+          height: 75px !important;
+          width: 100% !important;
+        }
+
+        .scim {
+          padding: 35px 35px 39px 35px !important
+        }
+
+        .scim_image {
+          padding-top: 34px !important;
+        }
+
+        .padtop35 {
+          padding: 35px 0px 0px 0px !important;
+        }
+
+        .padbot25 {
+          padding-bottom: 25px !important;
+        }
+
+        .logo_garden_img {
+          width: 130px !important;
+        }
+
+        .logo_garden_spacer {
+          width: 5px !important;
+        }
+
+        .logo_garden_div {
+          width: 265px !important;
+        }
+
+        .mobtopbotpad2_pt_5 {
+          padding-top: 2.5px !important;
+          padding-bottom: 2.5px !important;
+        }
+
+        .logo_garden {
+          padding: 27.5px !important;
+        }
+
+        .logo_new {
+          padding: 17.5px 27.5px !important;
+        }
+
+        .logo_new2 {
+          padding: 0px 27.5px !important;
+        }
+
+        .logo_garden_mid {
+          padding: 5px 0px 5px 0px !important;
+        }
+
+        .coldrop {
+          display: block !important;
+          float: left;
+          width: 100% !important;
+        }
+
+        .pad1 {
+          padding: 0 10px !important;
+        }
+
+        .pad2 {
+          padding: 25px 25px !important;
+        }
+
+        .pad3 {
+          padding: 16px 5px 0 5px !important;
+        }
+
+        .bgwrapper {
+          width: 100% !important;
+          height: auto !important;
+          background-size: contain !important;
+        }
+
+        .bgwrapper1 {
+          width: 100% !important;
+          height: auto !important;
+          background-size: 100% 100% !important;
+        }
+
+        .width250 {
+          width: 100% !important;
+          max-width: 250px !important;
+          margin: 0 auto !important;
+        }
+
+        .imgres {
+          width: 100% !important;
+          max-width: 255px !important;
+          height: auto !important;
+
+        }
+
+        .padnewtrbl {
+          padding: 25px 35px 10px 35px !important;
+        }
+
+        .padnewtb10 {
+          padding: 35px 35px 10px 35px !important;
+        }
+
+        .padt15lr35 {
+          padding: 15px 35px 15px 35px !important;
+        }
+
+        .padtb20 {
+          padding: 10px 0px 20px 0px !important;
+        }
+
+        .padbo20 {
+          padding: 0px 0px 12px 0px !important;
+        }
+
+        .padtb15 {
+          padding: 15px 0px 15px 0px !important;
+        }
+
+        .padb15 {
+          padding: 0px 0px 15px 0px !important;
+        }
+
+        .padt15b20 {
+          padding: 20px 0px 15px 0px !important;
+        }
+
+        .font16mobile {
+          font-size: 16px !important;
+          line-height: 18px !important;
+        }
+
+        .font_line_16mobile {
+          font-size: 16px !important;
+          line-height: 16px !important;
+        }
+
+        .font_line_10mobile {
+          font-size: 10px !important;
+          line-height: 12px !important;
+        }
+
+        .padd_r_35 {
+          padding-right: 35px !important;
+        }
+
+        .cobrand_header_pad2 {
+          padding: 12px 35px 20px 35px !important;
+        }
+
+        .width100 {
+          width: 100% !important;
+        }
+
+        .pad_l_0 {
+          padding-left: 0px !important;
+        }
+
+        .pad_t_25 {
+          padding-top: 25px !important;
+        }
+
+        .font38 {
+          font-size: 38px !important;
+          line-height: 110% !important;
+        }
+
+        .font16mobbody {
+          font-size: 16px !important;
+          line-height: 24px !important;
+
+        }
+
+        .autoheight {
+          height: auto !important
+        }
+
+        .padb21 {
+          padding: 0 0px 25px 0 !important;
+        }
+
+        .padt21 {
+          padding: 25px 0px 0 0 !important;
+        }
+
+        .padd_lr_35 {
+          padding-left: 35px !important;
+          padding-right: 35px !important;
+        }
+
+        .pad_n {
+          padding: 38px 0px 18px 35px !important;
+        }
+
+        .moblogoheight {
+          height: auto !important;
+        }
+
+        .mobilelogodimen {
+
+
+          height: auto !important;
+          max-width: 128px !important;
+          width: 100% !important;
+        }
+
+        .mobilelogodwidth {
+
+          width: 128px !important;
+        }
+
+        .padlogo {
+          padding: 10px 10px !important;
+
+        }
+
+        .padlogo2 {
+          padding: 15px 15px !important;
+
+        }
+
+        .width10 {
+          width: 10px !important;
+          height: 20px !important;
+        }
+
+        .logowidth {
+
+          width: 100% !important;
+          max-width: 336px !important;
+          margin: 0 auto !important;
+        }
+
+        .mobdivheight {
+          height: 10px !important;
+          line-height: 10px !important;
+        }
+
+        .coldropnewlogo {
+          display: block !important;
+          margin: 0 auto !important;
+          width: 100% !important;
+          max-width: 250px !important;
+        }
+
+        .paddb_34 {
+          padding-bottom: 34px !important;
+        }
+      }
+    </style>
+    <style>
+      a,
+      u+#body a {
+        color: #1072EB;
+        text-decoration: none;
+        font-size: inherit;
+        font-family: inherit;
+        font-weight: inherit;
+        line-height: inherit;
+      }
+
+      .appleLinks a {
+        color: #0C0C0D;
+      }
+
+      .appleLinksHEADLINE a {
+        color: #2c2e2f;
+        text-decoration: none;
+      }
+
+      .appleLinksBODY a {
+        color: #6c7378;
+        text-decoration: none;
+      }
+
+      .appleLinksWHITE a {
+        color: #ffffff;
+        text-decoration: none;
+      }
+
+      .appleLinksGRAY2 a {
+        color: #77787b;
+        text-decoration: none;
+      }
+
+      .appleLinksDKGRAY a {
+        color: #595959;
+        text-decoration: none;
+      }
+
+      .appleLinksBLUE a {
+        color: #0073ae;
+        text-decoration: none;
+      }
+
+      .divider {
+        color: #929496;
+      }
+    </style>
+    <style type="text/css">
+      body.th_TH,
+      body.th_TH a,
+      body.th_TH p,
+      body.th_TH span,
+      body.th_TH div,
+      body.th_TH table td {
+        font-family: Tahoma, 'Unicode Arial MS', Helvetica, Arial, sans-serif !important;
+      }
+
+      body.zh_HK,
+      body.zh_HK a,
+      body.zh_HK p,
+      body.zh_HK span,
+      body.zh_HK div,
+      body.zh_HK table td {
+        font-family: 'Microsoft JhengHei', Helvetica, Arial, sans-serif !important;
+      }
+
+      body.zh_TW,
+      body.zh_TW a,
+      body.zh_TW p,
+      body.zh_TW span,
+      body.zh_TW div,
+      body.zh_TW table td {
+        font-family: 'Microsoft JhengHei', Helvetica, Arial, sans-serif !important;
+      }
+
+      body.ko_KR,
+      body.ko_KR a,
+      body.ko_KR p,
+      body.ko_KR span,
+      body.ko_KR div,
+      body.ko_KR table td {
+        font-family: '나눔바른고딕', Nanum Barun Gothic, Helvetica, Arial, sans-serif !important;
+        word-break: break-word;
+      }
+
+      body.ja_JP,
+      body.ja_JP a,
+      body.ja_JP p,
+      body.ja_JP h1,
+      body.ja_JP h4,
+      body.ja_JP span,
+      body.ja_JP div,
+      body.ja_JP table td {
+        font-family: 'メイリオ', Meiryo, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'ＭＳ Ｐゴシック', 'MS PGothic', Verdana, Arial, Helvetica, sans-serif !important;
+      }
+
+      body.intcomFont,
+      body.intcomFont a,
+      body.intcomFont p,
+      body.intcomFont span,
+      body.intcomFont div,
+      body.intcomFont h1,
+      body.intcomFont h2,
+      body.intcomFont h3,
+      body.intcomFont h4,
+      body.intcomFont h5,
+      body.intcomFont h6,
+      body.intcomFont table td {
+        font-family: 'Tahoma', Helvetica, Arial, sans-serif !important;
+      }
+    </style>
+    <!--[if gte mso 9
+      ]><xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG /> <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml><!
+    [endif]-->
+
+    <!--[if mso | ie]>
+      <style>
+        .sup {
+          vertical-align: 1px !important;
+          font-size: 100% !important;
+        }
+      </style>
+    <![endif]-->
+    <!--[if ie]>
+      <style>
+        .sup {
+          vertical-align: 6px !important;
+          font-size: 80% !important;
+        }
+      </style>
+    <![endif]-->
+    <!--[if mso]><style>span.hidetonline {display: block !important}</style><![endif]-->
+    <!--[if (mso)|(mso 16)]>
+<style type="text/css">
+a {text-decoration: none;}
+.boxshadow {box-shadow: none!important; border: 1px solid #eeeeee !important}
+</style>
+<![endif]-->
+    <!--[if gte mso 9]>
+            <style type="text/css">
+
+
+            body.th_TH,
+            body.th_TH a,
+            body.th_TH p,
+            body.th_TH span,
+            body.th_TH div,
+            body.th_TH table td
+            {
+                word-break: break-all;
+            }
+            body.zh_HK,
+            body.zh_HK a,
+            body.zh_HK p,
+            body.zh_HK span,
+            body.zh_HK div,
+            body.zh_HK table td
+            {
+                word-break: break-word;
+            }
+            body.zh_TW,
+            body.zh_TW a,
+            body.zh_TW p,
+            body.zh_TW span,
+            body.zh_TW div,
+            body.zh_TW table td
+            {
+                word-break: break-word;
+            }
+            body.ko_KR,
+            body.ko_KR a,
+            body.ko_KR p,
+            body.ko_KR span,
+            body.ko_KR div,
+            body.ko_KR table td
+            {
+                word-break: break-word;
+            }
+            body.ja_JP,
+            body.ja_JP a,
+            body.ja_JP p,
+            body.ja_JP span,
+            body.ja_JP div,
+            body.ja_JP table td
+            {
+                word-break: break-word;
+            }
+            </style>
+    <![endif]-->
+  </head>
+
+  <body style="margin: 0 auto; padding:0px;" bgcolor="#f2f2f2" id="body">
+    <!--
+-->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" role="presentation">
+      <tbody>
+        <tr>
+          <td align="center" valign="middle" bgcolor="#f2f2f2">
+            <table border="0" cellpadding="0" cellspacing="0" width="640" align="center" class="table-full" role="presentation" style="min-width:320px; max-width:640px;">
+              <tbody id="base">
+
+
+
+
+
+
+
+                <tr>
+                  <td align="center" valign="middle">
+
+                    <table width="640" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style="max-width:640px;" role="presentation">
+                      <tbody>
+                        <tr>
+
+                          <th align="center" valign="top" class="coldrop" style="font-weight:normal;" width="500">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody>
+                                <tr>
+                                  <td valign="top" align="left" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666; padding: 10px 10px 10px 10px;"><b><span style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;">Rodrigo Ferreira</span></b><span style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;"> -</span> <span style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666;">Informação importante</span></td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </th>
+                          <th align="center" valign="top" class="coldrop" style="font-weight:normal;" width="75">
+                            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody>
+                                <tr>
+                                  <td valign="top" align="right" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#666666; white-space: nowrap; padding: 10px 10px 10px 0;" class="view-online_ltr"><a style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; color:#666666;text-decoration:underline;" href="https://epl.paypal-communication.com/H/2/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507-d2bd-49d7-b2d4-61dad8313732/HTML" target="_blank">Veja Online</a>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </th>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" style="background-color: rgb(0, 48, 135);" bgcolor="#003087">
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="min-width: 320px; background-color: rgb(0, 48, 135);" role="presentation" bgcolor="#003087">
+                      <tbody>
+                        <tr>
+                          <td align="center" valign="middle" style="padding: 55px 0px 15px 55px; color: rgb(255, 255, 255); background-color: rgb(0, 48, 135);" class="pad_n" bgcolor="#003087">
+
+                            <table border="0" cellpadding="0" cellspacing="0" align="left" role="presentation" bgcolor="#003087" style="background-color: rgb(0, 48, 135);">
+                              <tbody>
+                                <tr>
+                                  <td align="center" valign="middle" style="vertical-align: middle; color: rgb(255, 255, 255); background-color: rgb(0, 48, 135);" bgcolor="#003087">
+
+                                    <a href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc3/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color: rgb(255, 255, 255);">
+                                      <img src="https://images.ctfassets.net/7rifqg28wcbd/4HBQpZ4ipSy0yK81qxNSWJ/b907a016bdbb5d26107f109300325729/extra-wide-logo-header-blue-2x.png" class="widhth_320" alt="PayPal" title="PayPal" width="530" height="43" border="0" style="display:block; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:32px; color:#ffffff;"></a>
+
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+
+                          </td>
+                        </tr>
+
+                      </tbody>
+                    </table>
+
+                  </td>
+                </tr>
+                <tr>
+
+                  <td align="center" valign="middle" style="padding: 0px; background-color: rgb(0, 48, 135);" bgcolor="#003087">
+
+
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="max-width: 640px;" role="presentation">
+
+                      <tbody>
+                        <tr>
+
+                          <td align="center" valign="middle">
+
+                            <img src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" alt="" width="25" height="25" border="0" style="display:block;">
+
+
+
+                          </td>
+
+                        </tr>
+
+                      </tbody>
+                    </table>
+
+
+
+                  </td>
+
+                </tr>
+                <tr>
+
+                  <td align="center" valign="middle" style="padding:0px 0px 0px 0px; background-color:#ffffff;" bgcolor="#ffffff">
+
+
+
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" style="max-width: 640px;" role="presentation">
+
+                      <tbody>
+                        <tr>
+
+                          <td align="center" valign="middle">
+
+                            <img src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" alt="" width="50" height="50" border="0" style="display:block;">
+
+
+
+                          </td>
+
+                        </tr>
+
+                      </tbody>
+                    </table>
+
+
+
+                  </td>
+
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" bgcolor="#ffffff" style="background-color:#ffffff;">
+                    <table width="640" border="0" cellpadding="0" cellspacing="0" align="left" class="table" style="min-width:280px; max-width: 640px;" role="presentation">
+                      <tbody>
+                        
+                        <tr>
+                          <td align="left" valign="middle" style="padding:0px 55px 24px 55px;" class="secedit2">
+                            <p style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:20px; mso-line-height-rule:exactly; line-height:1.5; color:#001435;" class="font16">Olá Rodrigo,<br><br>Este é um comunicado para informar que o PayPal não é mais um participante do arranjo Pix e, desta forma, todas as funcionalidades do Pix foram descontinuadas conforme informado anteriormente.<br>Convidamos você a continuar aproveitando os benefícios de pagar com PayPal. <br><br>Obrigado,<br>PayPal</p>
+                          </td>
+                        </tr>
+                        
+                        
+                        
+                        <!--Text CTA start here-->
+                        
+
+                        <!--Text CTA ends here-->
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" valign="middle" bgcolor="#ffffff" style="background-color: #ffffff;">
+
+                    <table width="640" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style="max-width:640px;" role="presentation">
+                      <tbody>
+                        <tr>
+                          <td align="center" valign="middle">
+
+
+                            <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" role="presentation">
+                              <tbody>
+                                <tr style="" class="">
+                                  <td align="center" valign="middle" style="">
+                                    <a href="#" style="pointer-events: none; cursor: default !important;">
+                                      <img src="https://images.ctfassets.net/7rifqg28wcbd/4wKfqzCiKdFa6sPpBZZyBF/1687d85b2d37ec60b423588a818cabdf/arc_blue-bg_white-arc.jpg" alt="" width="640" height="170" border="0" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:18px; color:#001435;" class="img">
+                                    </a>
+                                  </td>
+                                </tr>
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                                
+
+                              </tbody>
+                            </table>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+
+                  </td>
+                </tr>
+                <tr>
+
+                  <td align="center" valign="middle" style="padding:0px 0px 0px 0px; background-color:#ffffff;" bgcolor="#ffffff">
+
+
+
+                    <table width="640" border="0" cellpadding="0" cellspacing="0" align="center" class="table" style="max-width: 620px; background-color: inherit;" role="presentation">
+
+                      <tbody>
+                        <tr>
+
+                          <td align="center" valign="middle" style="padding: 53px 50px 25px 50px;" class="pad2035">
+
+
+
+                            <table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" role="presentation">
+
+                              <tbody>
+                                <tr>
+
+                                  <td align="left" valign="middle" class="font_12" style="font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:14px; mso-line-height-rule:exactly; line-height:150%; color:#0070E0; padding-top:20px; word-break: keep-all;false   ">
+
+                                    <a title="Conta" href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc4/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color:#0070E0; font-weight: bold;" class="display-block">Conta</a>
+
+                                    <span class="mob-hide divider"> | </span> <a title="Ajuda" href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc5/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color:#0070E0; font-weight: bold;" class="display-block">Ajuda</a>
+
+                                    <span class="mob-hide divider"> | </span> <a title="Aplicativo" href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc6/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color:#0070E0; font-weight: bold;" class="display-block">Aplicativo</a>
+
+                                    <span class="mob-hide divider"> | </span> <a title="Segurança" href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc7/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color:#0070E0; font-weight: bold;" class="display-block">Segurança</a>
+
+                                    <span class="mob-hide divider"> | </span> <a title="Onde comprar" href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc8/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="text-decoration: none; color:#0070E0; font-weight: bold;" class="display-block">Onde comprar</a>
+
+
+
+
+
+
+
+                                  </td>
+
+                                </tr>
+                                <tr>
+                                  <td align="center" valign="top" height="30" style="line-height: 30px; font-size:0px;">&nbsp;</td>
+                                </tr>
+
+                                <tr>
+
+                                  <td align="left" valign="middle" style="padding-bottom: 20px; border-bottom: 0px solid rgb(221, 221, 221);">
+
+
+
+                                    <table border="0" cellpadding="0" cellspacing="0" width="160" role="presentation">
+
+                                      <tbody>
+                                        <tr>
+
+                                          <td align="left" valign="middle" width="42">
+
+                                            <a href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcc9/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" title="Facebook" target="_blank">
+
+                                              <img src="https://images.ctfassets.net/7rifqg28wcbd/3SxJRra6gNkA8Yzgd4gMrw/b1bf0c35ba919529101b17c7da6738ba/facebook_icn.png" alt="Facebook" width="26" height="26" border="0" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;"></a>
+
+                                          </td>
+
+                                          <td align="left" valign="middle" width="42">
+
+                                            <a href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bcca/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" title="Twitter" target="_blank">
+
+                                              <img src="https://images.ctfassets.net/7rifqg28wcbd/352CVkLRcSm4KpWBP3C0Rq/9e022ae1388f00a74b01f75f92af8500/twitter_icn.png" alt="Twitter" width="26" height="26" border="0" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;"></a>
+
+                                          </td>
+
+                                          <td align="left" valign="middle" width="42" style="display: none;">
+
+                                            <a href="#" title="" target="_blank">
+
+                                              <img src="" alt="" width="26" height="26" border="0" style="display:block; text-align: center; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; color:#0C0C0D;"></a>
+
+                                          </td>
+
+
+
+                                        </tr>
+
+                                      </tbody>
+                                    </table>
+
+
+
+                                  </td>
+
+                                </tr>
+                                <tr style="display: none; height: 0px; line-height: 0;">
+
+                                  <td align="left" valign="middle" style="padding: 0px;">
+
+
+
+                                    <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;"></div>
+
+
+
+                                  </td>
+
+                                </tr>
+
+
+
+                                <tr>
+
+                                  <td align="left" valign="middle" style="padding:20px 0px 0px 0px;">
+
+
+
+                                    <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;"></div>
+
+
+
+                                  </td>
+
+                                </tr>
+
+                                <tr>
+
+
+
+                                  <td align="left" valign="middle" style="padding:20px 0px 0px 0px;">
+
+                                    <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;">
+
+
+
+                                      Para assegurar que você possa receber nossos e-mails, adicione <b>@mail.paypal.com</b> à sua lista de remetentes seguros.<br><br><strong>Como saber se um e-mail é falso?</strong><br>Os e-mails do PayPal sempre usam seu nome completo, conforme indicado na sua conta do PayPal. E-mails de phishing e falsos costumam começar com cumprimentos genéricos, como &quot;Caro membro do PayPal&quot;. Se você desconfia da origem de um e-mail, encaminhe-o para <b>phishing@paypal.com</b> e exclua-o da sua caixa de entrada.<br><a href="https://epl.paypal-communication.com/T/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d70000021ef3a0bccb/7ec05507-d2bd-49d7-b2d4-61dad8313732?__dU__=v0oQlZ2XmHtXgxjjiWvqAt6oUbloqyA_uK" target="_blank" style="color: #009cde;text-decoration:underline;">Como identificar mensagens de phishing</a>.
+
+
+
+                                    </div>
+
+                                  </td>
+
+
+
+
+
+                                </tr>
+
+                                <tr>
+
+                                  <td align="left" valign="middle" style="padding:20px 0px 0px 0px;">
+
+
+
+                                    <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;">
+
+
+
+                                      Não responda a esta mensagem. Este e-mail foi enviado por um sistema automatizado que não processa respostas. Para obter ajuda, acesse sua conta do PayPal e clique no link Ajuda no canto inferior direito de qualquer página de nosso site. Em caso de dúvidas, entre em contato com o nosso SAC - Serviço de Atendimento ao Consumidor: 0800 047 4482, disponível 24 horas por dia, sete dias por semana. Para deficientes auditivos / fala, entre em contato conosco pelo telefone 0800-729-7252. Caso já tenha entrado em contato com o Serviço de Atendimento ao Cliente, e a solução apresentada não tenha sido suficiente, você pode ligar para a Ouvidoria do PayPal, pelo 0800-047-4224. O serviço está disponível de segunda a sexta-feira, das 09h às 18h, exceto feriados.<br><br>Copyright © 2023 PayPal Inc. Todos os direitos reservados.
+
+
+
+                                    </div>
+
+
+
+                                  </td>
+
+                                </tr>
+
+                                <tr>
+
+                                  <td align="left" valign="middle" style="padding:20px 0px 0px 0px;">
+
+
+
+                                    <div style="margin: 0px; font-family:'PayPal-Open', Helvetica, Arial, sans-serif; font-size:12px; mso-line-height-rule:exactly; line-height:150%; color:#001C64;">112875
+                                      346588</div>
+
+
+
+                                  </td>
+
+                                </tr>
+
+
+
+                              </tbody>
+                            </table>
+
+
+
+
+
+                          </td>
+
+                        </tr>
+
+                      </tbody>
+                    </table>
+
+
+
+                  </td>
+
+                </tr>
+                <tr>
+                  <td class="mob-hide">
+                    <table cellpadding="0" cellspacing="0" border="0" align="center" width="640" role="presentation">
+                      <tbody>
+                        <tr>
+                          <td style="height:1px; width: 1px;"><img src="https://pixel.app.returnpath.net/pixel.gif?r=2115a2cad65f752af3546c2a0de6ee30c8694724" width="1" height="1"></td>
+                        </tr>
+
+
+
+                        <tr>
+                          <td style="line-height:2px; height:2px; min-width: 640px;">
+                            <img src="https://images.ctfassets.net/7rifqg28wcbd/6Xa3RLs8deEywtgXmAo9JV/61b1ee3576f0473ea04f86166fc8f4b1/spacer.gif" height="2" width="640" style="max-height:2px; min-height:2px; display:block; width:640px; min-width:640px;">
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+<img src="https://epl.paypal-communication.com/O/v60000018802c84a0fb21578f4bbe5c7c0/7ec05507d2bd49d700004c5a42963aa1" style="display:none; max-height: 0px; font-size: 0px; overflow: hidden; mso-hide: all"></body></html>

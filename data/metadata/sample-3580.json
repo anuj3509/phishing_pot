@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Return to warehouse - Your parcel return to warehouse. GB#8006269098",
+    "from": "E͏V͏R͏i͏ N͏o͏t͏i͏f͏i͏c͏a͏t͏i͏o͏n͏ <email.customer.vwgn@delfinul-olimp.ro>",
+    "to": "<noreply@customer.mail.evri.com>",
+    "date": "Mon, 5 Aug 2024 17:23:06 +0000",
+    "message_id": "<7681403881091.224667013682906.0408678511.920494768411@delfinul-olimp.ro>",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixAuJmYQ7ZQfprIN2lhAextoRr9YEbL6ltFJlAuig\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"inmixAuJmYQ7ZQfprIN2lhAextoRr9YEbL6ltFJlAuig\""
+  },
+  "attachments": [
+    {
+      "filename": "Details Parcel.bJchKSRCfaV91cUM6pJLhonL2yC6UGA32FrFRas7lRU",
+      "content_type": "application/pdf",
+      "size": 0
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://delfinul-olimp.ro"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3986,
+    "html_length": 4025,
+    "has_text": true,
+    "has_html": true
+  }
+}

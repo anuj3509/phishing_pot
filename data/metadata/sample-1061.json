@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Action required for validate. Ref-325234325",
+    "from": "\"support@inlt.payp... .com\" <cscservdab-01774233358@freeducation.co.uk>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 7 Aug 2023 04:55:46 +0800",
+    "message_id": "<CADi0ko-tPf0tWWHSJoXxS68EBrbkU9AX8ki1wjstOd93E6Hw5w@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"00000000000054564b0602475b9f\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"00000000000054564b0602475b9f\""
+  },
+  "attachments": [
+    {
+      "filename": "DocumentActionRequired-(PP)#645764584 (11).pdf",
+      "content_type": "application/pdf",
+      "size": 119360
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 94,
+    "has_text": false,
+    "has_html": true
+  }
+}

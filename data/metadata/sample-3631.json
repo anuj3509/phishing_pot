@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Acesso Indevido - D0TG6TY9KZUDFT9JAX",
+    "from": "\"Conta Microsft - Atendimento: W2BSAGXRAO88YRSRJC\" <louisamidgette562@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 05 Aug 2024 13:21:47 -0700 (PDT)",
+    "message_id": "<66b1345b.050a0220.520ca.c43f@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============7193348364960112081==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============7193348364960112081==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://livesmail.blog"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 962,
+    "html_length": 1969,
+    "has_text": true,
+    "has_html": true
+  }
+}

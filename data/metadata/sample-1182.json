@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "subject": "Produtos da AMF Estopas",
+    "from": "André Martins <vendedorandre@amfestopas.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 24 Aug 2023 12:43:36 -0300",
+    "message_id": "<0.0.0.107.1D9D6A1BEF8471C.3F840@mail358.hm8307.lwdlv.com.br>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64e77a6355d7_1a8903f8d69ccd66c9716a3\";\r\n charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64e77a6355d7_1a8903f8d69ccd66c9716a3\";\r\n charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://emailmarketing.locaweb.com.br/accounts/130541/messages/206/openings/2411977?envelope_id=193",
+      "http://assets.mktnaweb.com/heisenberg/img-instagram.png",
+      "notinline.css.map",
+      "div.he-col",
+      "amfestopas.com.br.",
+      "http://www.w3.org/1999/xhtml",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/188/original_WhatsApp%20Image%202022-08-02%20at%2006.00.05.jpeg?1663087235",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/47/original_frame%20%281%29.png?1612875643",
+      "div.he-col.he-three,",
+      "https://emailmarketing.locaweb.com.br/accounts/130541/messages/206/clicks/2411977/340?envelope_id=193",
+      "div.he-col.he-two-dot-four.he-last",
+      "table.he-image",
+      "https://emailmarketing.locaweb.com.br/accounts/130541/messages/206/clicks/2411977/341?envelope_id=193",
+      "outlook.css.map",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/191/original_WhatsApp%20Image%202022-08-02%20at%2005.42.24%20%282%29.jpeg?1663087321",
+      "div.he-col.he-two,",
+      "http://emailmarketing.locaweb.com.br/accounts/130541/messages/206?email=phishing@pot&amp;c=1692886073&amp;contact_id=2411977&amp;envelope_id=193",
+      "media.css.map",
+      "http://assets.mktnaweb.com/heisenberg/img-facebook.png",
+      "https://emailmarketing.locaweb.com.br/accounts/130541/messages/206/clicks/2411977/339?envelope_id=193",
+      "http://emailmarketing.locaweb.com.br/accounts/130541/unsubscribes/206/2411977?emkt_c=1660150474&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=193",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/190/original_WhatsApp%20Image%202022-08-02%20at%2006.00.03%20%281%29.jpeg?1663087310",
+      "https://assets.mktnaweb.com/accounts/2020/07/25/130541/pictures/187/original_WhatsApp%20Image%202022-08-02%20at%2005.57.29%20%281%29.jpeg?1663087212",
+      "div.he-col.he-two-dot-four",
+      "div.he-col.he-two-dot-four:last-child"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 901,
+    "html_length": 21133,
+    "has_text": true,
+    "has_html": true
+  }
+}

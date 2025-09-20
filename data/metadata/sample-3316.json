@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Fatura Porto Seguro - D6ANSU8R",
+    "from": "💳 Fatura Porto Seguro <blessjoaeph@hotmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 05 Jun 2024 22:38:02 +0000",
+    "message_id": "\r\n <GV1P193MB21354C533B6384DE716086B7BDF92@GV1P193MB2135.EURP193.PROD.OUTLOOK.COM>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"ca91aaaa1480aee4b4c54810000f0001\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"ca91aaaa1480aee4b4c54810000f0001\""
+  },
+  "attachments": [
+    {
+      "filename": "fatura.pdf",
+      "content_type": "application/pdf",
+      "size": 307563
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.mkt121.com.br/csu/icon-limite.png",
+      "https://www.mkt121.com.br/csu/icon-saldo.png",
+      "https://www.mkt121.com.br/csu/icon-dadosProcesso.png",
+      "https://www.mkt121.com.br/csu/icon-mala.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.mkt121.com.br/csu/img-pdc.png",
+      "https://www.mkt121.com.br/csu/divisor1.png",
+      "https://action.hiperstream.com/callbackexpressapi/api/openmail/647fc1a0410f7fafd3193552",
+      "https://www.mkt121.com.br/csu/head-fatura-verde.png",
+      "https://www.mkt121.com.br/csu/icon-relacionamento.png",
+      "www.portoseguro.com.br/cliente-cartao",
+      "http://www.portoseguro.com.br/cliente-cartao",
+      "https://www.mkt121.com.br/csu/logo-cartao-potoseguro.png",
+      "https://www.mkt121.com.br/csu/divisor-dashline.png",
+      "http://get.adobe.com/br/reader"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2759,
+    "html_length": 12980,
+    "has_text": true,
+    "has_html": true
+  }
+}

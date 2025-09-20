@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Atenção: Suspensão de CNH em Processamento - Ação Urgente Requerida! Registro: 43235478. ",
+    "from": "Alerta Detran <comunicado404334@regularizarcnh>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 15 Feb 2025 18:25:25 +0000",
+    "message_id": "<6571800e756b16241eb9a0ef08bba917@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_6571800e756b16241eb9a0ef08bba917\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_6571800e756b16241eb9a0ef08bba917\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://function-7-961349030461.us-central1.run.app/",
+      "https://detran.gov.br/",
+      "hotmail.com,",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3853,
+    "has_text": true,
+    "has_html": true
+  }
+}

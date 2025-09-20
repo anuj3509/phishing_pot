@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, A CordaVálida do Cartão Black está disponível para você",
+    "from": "Bradesco <contato@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 22 Mar 2024 00:06:21 +0000",
+    "message_id": "<41f58838-6170-bb79-0e6f-1eae2d9925fa@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "suspend"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpwww.bmfbovespa.com.brindic",
+      "httpwww.sfgate.comcgi-inarticle.cgi?fca20070528MICROSOFT.TMP",
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      "https://b-a4qxna7jwq-rj.a.run.app/xd/?tr=52f7dce535fc445681d2d2ba88942ad6&amp;t1=bra",
+      "lorentz.phl.jhu.eduAnnusMirabilisAeReserveArticlesmaja.pdf",
+      ".alert.alert-good",
+      "httpsyoutu.bevsBP5P0Xe2c",
+      "httpourfamilyofthestars.blogspot.com.br201310portugues-",
+      "IRI..riM",
+      "7403.html",
+      "httpwww.millennialhospitality.com",
+      "httpsydney.edu.ausciencepeoplemark.dadds.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 136112,
+    "html_length": 242036,
+    "has_text": true,
+    "has_html": true
+  }
+}

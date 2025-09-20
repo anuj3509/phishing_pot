@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "bonus 100%",
+    "from": "t6WER\r\n <smtpfox-zh64c@anamariacorral.info>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Nov 2024 13:07:21 +0000",
+    "message_id": "\r\n <717d7f9b-0730-44f8-ad23-71c34dc8de6e@SJ1PEPF00002318.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t6wer.club",
+      "t6wer.top"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 129,
+    "html_length": 3077,
+    "has_text": true,
+    "has_html": true
+  }
+}

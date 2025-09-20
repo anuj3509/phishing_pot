@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Por favor confirmar la recepcion",
+    "from": "F.e.d.E.x <moses_mor_38838@9hiwa1.fnideq.shop >",
+    "to": "<NexaSlim7jTAghrpTR@Shark.com>",
+    "date": "Sun, 15 Sep 2024 23:23:50 +0000",
+    "message_id": "<3r7px6ejsa.9q0bmfig@email.mckinsey.com>",
+    "content_type": "multipart/digest;\r\n\tboundary=\"_23785365-9b4e-4bdb-abd6-1a019720c465_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/digest;\r\n\tboundary=\"_23785365-9b4e-4bdb-abd6-1a019720c465_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "bzq-82-81-85-250.red.bezeqint.net/9RW.swf?2g0-gAAAAABlM-HxsV3FqAfz_NX-5egscxzmbN07R7RoRPn_6Jtn7uoRDFbab3Sfb81E4qH_hOZv0YEq9haOQbSCQSdyug1Ch8vgkg5J9VmmcIyyWInpFiJdKNm06xkfhXmxlvT64INbhU3zuwtSO96GkqJBueYtdOX0zQ==",
+      "http://162.0.213.149/t/4hubcf6052EvQL270qnnfmdemjd308UQUIYLBTYPHLLUX707FNGR2469221E9",
+      "http://www.w3.org/1999/xhtml",
+      "http://162.0.213.149/t/5VyqoM6052RmvG270wveziuklca308IGVAMOZFSJJPPLH707FPRB2469221R9",
+      "http://162.0.213.149/track/3bHUNS6052TUml270twhefijiuy308RNGQTGNGZZMUCLH707PUWR2469221x9",
+      "https://calendly.com/dylan-eventtemple/30min"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 13367,
+    "html_length": 24245,
+    "has_text": true,
+    "has_html": true
+  }
+}

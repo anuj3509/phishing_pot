@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "A Entrega sera devolvida ao remetente sem reembolso ! Evite a devolucao. Verifique o status: 4242324686",
+    "from": "Correios <Encomenda@%status.net>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 31 Mar 2025 13:17:56 +0000",
+    "message_id": "<20250331131756.2C9233F6E2@vmkakammd883xxxbwhjbunmrr.openstacklocal>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pedidos4017348586Sedexpac.pacenviou.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 952,
+    "html_length": 3181,
+    "has_text": true,
+    "has_html": true
+  }
+}

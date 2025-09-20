@@ -1,0 +1,166 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Urgent! Je bestelling is niet helemaal goed gegaan!
+From: "DHL" <dhl-opsporen-volgen.internationaal@aprimarse.com>
+To: <phishing@pot>
+Date: Sun, 9 Feb 2025 05:51:05 +0000
+Message_Id: <51_HTML-167039665-43648-4017698610-3211@uV6nwrBf.xt.local>
+Content_Type: text/html;
+	charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html;
+	charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - click.trace.versatilevoices.shop/b131053c0dda959.png
+  - https://click.trace.versatilevoices.shop/YU1qTlBMd1dSU3pHTkRGTjZEcEo2dTRHVGpjb1hFOFJXOWlFOFVLZmhFYysxMEVhYVhwSVNLTzBhdHZXMFQ5dlREbFozMDQ1V0tORzhoMURZazNGOWtzQzl2Z2ZGdFBQdTVEcWNCZ3k0Q289
+  - https://click.trace.versatilevoices.shop/b131053c0dda959.png
+  - https://click.trace.versatilevoices.shop/2db89d11b71f1d2.png
+  - https://click.trace.versatilevoices.shop/Zmozd0VHVWlXOXY5T3ByVDE5M05WUSt2WFFDR1JpaUFDRFdpdnQ2VWlCYkZrUVVJb2RJZzRIeFRSVnhYdk9tYjF1MWpzN1F6eXpUSUx3MzN2ZlVPYkR0OWhlUjE1K0l4QXFzZVlBS2Q1bDA9
+  - http://click.trace.versatilevoices.shop/Zmozd0VHVWlXOXY5T3ByVDE5M05WUSt2WFFDR1JpaUFDRFdpdnQ2VWlCYkZrUVVJb2RJZzRIeFRSVnhYdk9tYjF1MWpzN1F6eXpUSUx3MzN2ZlVPYkR0OWhlUjE1K0l4QXFzZVlBS2Q1bDA9
+  - http://click.trace.versatilevoices.shop/dmNpZmNIRUhwNFF2Z0FDUEsycG1odkdsL1IyeUJ5clRGa2V3dVlYTVh4Y1pRYUVlRzRCaDJYUzZONzdNRDluRUZxSXgrTnM3QnpyNXZGTGFUUTRpUUluODRRRDZGY1dVcXJaUyszWlNuTUk9
+  - https://click.trace.versatilevoices.shop/dmNpZmNIRUhwNFF2Z0FDUEsycG1odkdsL1IyeUJ5clRGa2V3dVlYTVh4Y1pRYUVlRzRCaDJYUzZONzdNRDluRUZxSXgrTnM3QnpyNXZGTGFUUTRpUUluODRRRDZGY1dVcXJaUyszWlNuTUk9
+
+DECODED TEXT CONTENT:
+------------------------------
+DHL Notification body { margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333; } table { border-spacing: 0; border-collapse: collapse; } img { display: block; max-width: 100%; height: auto; } .email-container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; } .header, .footer { background-color: #FFC900; color: #222222; text-align: center; padding: 20px; } .content { padding: 20px; } .btn { display: inline-block; background-color: #FFC900; color: #222222; text-decoration: none; padding: 15px 25px; font-size: 16px; font-weight: bold; border-radius: 5px; } .btn:hover { background-color: #e6b800; } .divider { border-top: 2px solid #ddd; margin: 20px 0; } .footer-text { font-size: 12px; line-height: 1.5; } Hallo phishing@pot, Je pakket is naar je onderweg. Uw pakket is opgehouden in ons afhandelingscentrum. Er zijn € 2,00 douanerechten niet betaald. Als de douanerechten niet worden betaald, wordt het pakket geretourneerd. In het DHL-trackingsysteem kunt u de huidige status van uw pakket en de volgende stap zien. Nu betalen Verpakkingsinformatie: E-mail: phishing@pot Status: Gestopt in het afhandelingscentrum (douanerechten nog niet betaald) Verzending via: DHL internationale vervoerder met tracking Douanerechten: € 2,00 Dit is een geautomatiseerde e-mail. Beantwoord dit bericht niet. Voor vragen kunt u contact opnemen met onze klantenservice. © 2025 DHL International. Alle rechten voorbehouden. Klik hier om jezelf van onze e-maillijst te verwijderen
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DHL Notification</title><br>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        table {
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+        img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+        .email-container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .header, .footer {
+            background-color: #FFC900;
+            color: #222222;
+            text-align: center;
+            padding: 20px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #FFC900;
+            color: #222222;
+            text-decoration: none;
+            padding: 15px 25px;
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background-color: #e6b800;
+        }
+        .divider {
+            border-top: 2px solid #ddd;
+            margin: 20px 0;
+        }
+        .footer-text {
+            font-size: 12px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <table width="100%" bgcolor="#f4f4f4">
+            <tr>
+                <td align="center">
+                    <table class="email-container">
+
+                        <!-- Header Section -->
+                        <tr>
+                            <td class="header"><a href="https://click.trace.versatilevoices.shop/dmNpZmNIRUhwNFF2Z0FDUEsycG1odkdsL1IyeUJ5clRGa2V3dVlYTVh4Y1pRYUVlRzRCaDJYUzZONzdNRDluRUZxSXgrTnM3QnpyNXZGTGFUUTRpUUluODRRRDZGY1dVcXJaUyszWlNuTUk9" style="text-decoration:none">
+<div style="width: 150px; height: 60px; background-image: url('https://click.trace.versatilevoices.shop/b131053c0dda959.png'); background-size: cover; background-repeat: no-repeat; display: flex; align-items: center; justify-content: center;">
+    <img src="//click.trace.versatilevoices.shop/b131053c0dda959.png" alt="" width="150px" height="60px"></a>
+</div>
+                            </td>
+                        </tr>
+
+                        <!-- Content Section -->
+                        <tr>
+                            <td class="content"><center> <a href="http://click.trace.versatilevoices.shop/dmNpZmNIRUhwNFF2Z0FDUEsycG1odkdsL1IyeUJ5clRGa2V3dVlYTVh4Y1pRYUVlRzRCaDJYUzZONzdNRDluRUZxSXgrTnM3QnpyNXZGTGFUUTRpUUluODRRRDZGY1dVcXJaUyszWlNuTUk9">
+    <img src="https://click.trace.versatilevoices.shop/2db89d11b71f1d2.png">
+
+</a></center>
+                                <h1 style="font-size: 22px; margin-bottom: 10px;">Hallo phishing@pot,</h1>
+                                <p style="font-size: 16px; line-height: 1.6;">
+                                    Je pakket is naar je onderweg.<br>
+                                    Uw pakket is opgehouden in ons afhandelingscentrum. Er zijn <strong>€ 2,00 douanerechten</strong> niet betaald. 
+                                </p>
+                                <p style="font-size: 16px; line-height: 1.6;">
+                                    Als de douanerechten niet worden betaald, wordt het pakket geretourneerd.
+                                </p>
+                                <p style="font-size: 16px; line-height: 1.6;">
+                                    In het DHL-trackingsysteem kunt u de huidige status van uw pakket en de volgende stap zien.
+                                </p>
+                                <center>
+                                    <a href="http://click.trace.versatilevoices.shop/dmNpZmNIRUhwNFF2Z0FDUEsycG1odkdsL1IyeUJ5clRGa2V3dVlYTVh4Y1pRYUVlRzRCaDJYUzZONzdNRDluRUZxSXgrTnM3QnpyNXZGTGFUUTRpUUluODRRRDZGY1dVcXJaUyszWlNuTUk9" class="btn">Nu betalen</a>
+                                </center>
+                                <hr class="divider">
+                                <h2 style="font-size: 18px;">Verpakkingsinformatie:</h2>
+                                <p style="font-size: 16px; line-height: 1.6;">
+                                    <strong>E-mail:</strong> phishing@pot<br>
+                                    <strong>Status:</strong> Gestopt in het afhandelingscentrum (douanerechten nog niet betaald)<br>
+                                    <strong>Verzending via:</strong> DHL internationale vervoerder met tracking<br>
+                                    <strong>Douanerechten:</strong> € 2,00
+                                </p>
+                            </td>
+                        </tr>
+
+                        <!-- Footer Section -->
+                        <tr>
+                            <td class="footer">
+                                <p class="footer-text">
+                                    Dit is een geautomatiseerde e-mail. Beantwoord dit bericht niet. Voor vragen kunt u contact opnemen met onze klantenservice.<br>
+                                    © 2025 DHL International. Alle rechten voorbehouden.
+                                </p>
+                            </td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </center>
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">Klik  <a href="https://click.trace.versatilevoices.shop/YU1qTlBMd1dSU3pHTkRGTjZEcEo2dTRHVGpjb1hFOFJXOWlFOFVLZmhFYysxMEVhYVhwSVNLTzBhdHZXMFQ5dlREbFozMDQ1V0tORzhoMURZazNGOWtzQzl2Z2ZGdFBQdTVEcWNCZ3k0Q289">hier</a> om jezelf van onze e-maillijst te verwijderen</span><br><br><img alt="" src="https://click.trace.versatilevoices.shop/Zmozd0VHVWlXOXY5T3ByVDE5M05WUSt2WFFDR1JpaUFDRFdpdnQ2VWlCYkZrUVVJb2RJZzRIeFRSVnhYdk9tYjF1MWpzN1F6eXpUSUx3MzN2ZlVPYkR0OWhlUjE1K0l4QXFzZVlBS2Q1bDA9" width="1px" height="1px" style="visibility:hidden">
+
+<img src="http://click.trace.versatilevoices.shop/Zmozd0VHVWlXOXY5T3ByVDE5M05WUSt2WFFDR1JpaUFDRFdpdnQ2VWlCYkZrUVVJb2RJZzRIeFRSVnhYdk9tYjF1MWpzN1F6eXpUSUx3MzN2ZlVPYkR0OWhlUjE1K0l4QXFzZVlBS2Q1bDA9" width="1" height="1">
+

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Jetzt einkaufen, nach Lieferung bezahlen",
+    "from": "\"phishing@pot\"  <noreply@digid.nl>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 11 Jan 2024 13:48:50 +0100",
+    "message_id": "<egbpeornwbshtycs-a2i7lbl4-LZVE-9119-adol-4ZDgD2uCKAb9@VI1EUR05FT037.eop-eur05.prod.protection.outlook.com ' '>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bit.ly/3vu5P13#0IdFPQCQHfjOOEq00ZR3aradxpesom8",
+      "i.imgur.com/QZH4I9x.jpg",
+      "https://i.imgur.com/QZH4I9x.jpg",
+      "https://bit.ly/3vu5P13#cl/2535_md/1/1253/740/140/184900"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14963,
+    "html_length": 16897,
+    "has_text": true,
+    "has_html": true
+  }
+}

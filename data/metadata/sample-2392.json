@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[lRS Report] Tax refund ready for processing.",
+    "from": "Assistant - Tax Return <assistant-azpkzmuobylznikotqcq@perlakontol.familycresthistory.com>",
+    "to": "assistant.support@irs-tax.usa",
+    "date": "Fri, 22 Dec 2023 04:04:33 +0700",
+    "message_id": "<CAPbxiNcxNsYUD=1-8Gspfb7qq5GC2c6rPuR92+HPmDSWXy3SHQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"00000000000012380a060d0b73d9\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"00000000000012380a060d0b73d9\""
+  },
+  "attachments": [
+    {
+      "filename": "Return.pdf",
+      "content_type": "application/pdf",
+      "size": 88150
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 83,
+    "html_length": 276,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Data Breach – Check Your Recovery Phrase",
+    "from": "Ledger Recovery <noreply@recovery.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 19 Jan 2025 14:53:52 +0000",
+    "message_id": "<20250119145352.607733919C907DBD@recovery.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://recovery-support.s3.eu-north-1.amazonaws.com/recovery.html",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 907,
+    "html_length": 2692,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Aufregende Neuigkeiten! Bis zu 500��� Ihrer Rechnungen k��nnten f��r Sie bezahlt werden",
+    "from": "We Pay Your Bills <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 23 Jun 2025 07:08:55 -0400",
+    "message_id": "<3Xj6moH.0.0.3Xj6moH.9.3Xj6moH@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_3868860644942317\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_3868860644942317\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://45.88.90.180/op/1078_md/1/1113/667/1/210122",
+      "http://www.w3.org/1999/xhtml",
+      "http://45.88.90.180/cl/1078_md/1/1113/667/1/210122",
+      "https://i.imgur.com/6U58ukx.png",
+      "http://45.88.90.180/oop/1078_md/1/1113/667/1/210122"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1683,
+    "html_length": 8841,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,95 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Gutschein 500 EURO f��r ALDI 
+From: ALDI  , <info@news.lidl.de>
+To: phishing@pot
+Date: Tue, 31 Oct 2023 22:02:26 +0100
+Message_Id: <NHvkwfu.76159.173.gDj@zikolomkildfrs.ma>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://zikolomkildfrs.ma/OUR6aDJTTW93R2RKYjRQRldwSDhnSHFvYnFqc1B1Nm5BMEdGdlpyVUw2Y2hEOFk4bmdYUmJPRVJmazBsQm4vTzdtdTVjZjNyaHNwZkhwTHJCZ3BtY2dNdGw3UTFzcEtkTm5ZKzJHZGlwVzQ9
+  - https://jooon-track.com/?a=6031&amp;oc=16865&amp;c=46061&amp;m=3&amp;s1=
+  - http://zikolomkildfrs.ma/eXE1dUhFQzVtSlhIS2hsekNhWjZBZ3pOSHVGU284MzU2TVF2Q1N4NDAyV3lnMGtIVERRdyt6QlcvK3EvMGRKeVFDVmV6TmRBb3k3ako0aHV0SHpoMUE9PQ__
+  - http://www.w3.org/TR/html4/loose.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+kostenfrei mitmachen Hallo {title} {lastname} ! Leider konnten wir Sie bisher nicht erreichen. Sie sind einer unserer möglichen Gewinner für einen Einkaufsgutschein bei ALDI im Wert von 500 Euro! Der Gutschein ist bei Aldi Süd und bei Aldi Nord einlösbar. Allerdings verfällt der Gutschein von 500 EURO für ALDI schon bald! Bitte bestätigen Sie Ihre Angaben: Vorname: {firstname} Nachname: {lastname} JETZT BESTÄTIGEN! Hoffentlich können wir Ihnen damit eine kleine Freude machen. Viel Erfolg! Ihre Julia Vetter vom Kundenservice click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd" ><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>kostenfrei mitmachen</title>
+</head>
+
+<body bgcolor="#ffffff" text="#3a3a3a" link="#003cff" vlink="#003cff" alink="#003cff" style="width: 100%; margin: 0; padding: 0; font-family: Arial, Verdana, sans-serif; background-color: #ffffff; -webkit-text-size-adjust: none;">
+
+
+<!-- * Header * -->
+
+
+
+<!-- * Header * -->
+
+<table border="0" width="500" cellpadding="0" cellspacing="10" align="center">
+	<tr>
+		<td>
+			<font color="#3a3a3a" size="3" face="Arial, sans-serif" style="font-size: 15px; line-height: 20px;">
+			
+				Hallo <b>{title} {lastname}</b>!<br><br>
+				
+				Leider konnten wir Sie bisher nicht erreichen.<br><br>
+				
+				Sie sind einer unserer möglichen <b><a href="https://jooon-track.com/?a=6031&amp;oc=16865&amp;c=46061&amp;m=3&amp;s1=" target="_blank" style="color:#003cff; font-weight:bold; text-decoration:underline;">Gewinner</b></a> für einen Einkaufsgutschein bei ALDI im Wert von 500 Euro! Der Gutschein ist bei Aldi Süd und bei Aldi Nord einlösbar.<br><br>
+				
+				Allerdings verfällt der Gutschein von <b><a href="https://jooon-track.com/?a=6031&amp;oc=16865&amp;c=46061&amp;m=3&amp;s1=" target="_blank" style="color:#003cff; font-weight:bold; text-decoration:underline;">500 EURO für ALDI</b></a> schon bald!<br>
+				
+				<br>
+
+				Bitte bestätigen Sie Ihre Angaben:<br><br>
+				
+				Vorname:   			<b>{firstname}</b><br>
+				Nachname:  			<b>{lastname}</b><br>
+		
+				
+				<a href="https://jooon-track.com/?a=6031&amp;oc=16865&amp;c=46061&amp;m=3&amp;s1=" target="_blank" style="color:#003cff; font-weight:bold; text-decoration:underline;">JETZT BESTÄTIGEN!</a><br><br>
+				
+				
+				
+				Hoffentlich können wir Ihnen damit eine kleine Freude machen.<br><br>
+				
+				Viel Erfolg!<br>				
+				Ihre Julia Vetter vom Kundenservice
+
+			</font>
+			
+			
+		</td>
+	</tr>	
+</table>
+
+<!-- * Footer * -->
+
+
+
+<!-- * Footer * -->
+
+</body>
+</html>
+
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://zikolomkildfrs.ma/OUR6aDJTTW93R2RKYjRQRldwSDhnSHFvYnFqc1B1Nm5BMEdGdlpyVUw2Y2hEOFk4bmdYUmJPRVJmazBsQm4vTzdtdTVjZjNyaHNwZkhwTHJCZ3BtY2dNdGw3UTFzcEtkTm5ZKzJHZGlwVzQ9">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://zikolomkildfrs.ma/eXE1dUhFQzVtSlhIS2hsekNhWjZBZ3pOSHVGU284MzU2TVF2Q1N4NDAyV3lnMGtIVERRdyt6QlcvK3EvMGRKeVFDVmV6TmRBb3k3ako0aHV0SHpoMUE9PQ__" width="1px" height="1px" style="visibility:hidden">
+

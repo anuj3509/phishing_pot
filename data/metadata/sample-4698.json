@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot,Sie sind einer unserer m��glichen Finalisten f��r einen Kaufland Gutschein im Wert von 500���. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Gl��ck einen Kaufland Gutschein.",
+    "from": "\"Ihre Julia Weber (Kundenbetreuung)\" <phishing@pot>, \"Ihre Julia Weber\n (Kundenbetreuung)\" <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 9 Jan 2025 22:10:44 +0000",
+    "message_id": "<NHMmxaq.0.0.NHMmxaq.9.NHMmxaq@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://lsa.servicecentre.info/op/741_md/1/7232/672/11/209531",
+      "www.zupimages.net/up/24/49/okq1.jpeg",
+      "https://lifeinsureand.com/?a=7790&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=",
+      "http://lsa.servicecentre.info/oop/741_md/1/7232/672/11/209531",
+      "www.zupimages.net/up/24/49/vkhl.jpeg",
+      "https://www.zupimages.net/up/24/49/okq1.jpeg",
+      "https://www.zupimages.net/up/24/49/vkhl.jpeg",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2294,
+    "html_length": 4712,
+    "has_text": true,
+    "has_html": true
+  }
+}

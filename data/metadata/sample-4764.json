@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "fressnapf feiert Geburtstag mit Ihnen",
+    "from": "fressnapf <noreply@kaufland-marktplatz.de >",
+    "to": "<noreply@kaufland-marktplatz.de>",
+    "date": "Sat, 25 Jan 2025 18:48:04 +0000",
+    "message_id": "<38eb9c1f-81ff-4b5b-9ebc-4e198468099e@kaufland-marktplatz.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://link.fressnapf.de/custloads/1008052526/md_27391.png",
+      "https://link.fressnapf.de/custloads/1008052526/vce/paw2x.png",
+      "https://elsia.shop/VsR7DV",
+      "https://link.fressnapf.de/custloads/1008052526/vce/wave1_2x.png",
+      "https://link.fressnapf.de/mo/l6IedF3wFW_1008052526_1471682_722661_2289477.gif",
+      "https://link.fressnapf.de/custloads/1008052526/vce/ret2x2.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://link.fressnapf.de/custloads/1008052526/vce/logo_petmoji.png",
+      "http://www.w3.org/TR/html4/loose.dtd",
+      "https://i.imgur.com/0q7rrkS.jpeg",
+      "https://link.fressnapf.de/custloads/1008052526/vce/par2x.png",
+      "https://media.os.fressnapf.com/static/fonts/FNMZSkolarSansLatnWeb-Me.woff)",
+      "https://link.fressnapf.de/custloads/1008052526/vce/ico_faq.png",
+      "https://link.fressnapf.de/custloads/1008052526/vce/my-data2x.png",
+      "https://link.fressnapf.de/custloads/1008052526/vce/ico_heart.png",
+      "https://media.os.fressnapf.com/static/fonts/FNMZSkolarSansLatnWeb-Bd.woff)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 12823,
+    "html_length": 36292,
+    "has_text": true,
+    "has_html": true
+  }
+}

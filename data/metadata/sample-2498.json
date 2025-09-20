@@ -1,0 +1,65 @@
+{
+  "headers": {
+    "subject": "Smart Living, Smarter Savings!",
+    "from": "Power Eco  <jakye@selawenterprises.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 4 Jan 2024 17:51:55 +0000",
+    "message_id": "\r\n <SEYPR01MB47470FB44934C2313DA23590C3672@SEYPR01MB4747.apcprd01.prod.exchangelabs.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============0424198106384656774==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============0424198106384656774==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00skzgd31gOk46u1PF77hjgH7gmEp90KY3aAJTRGQOAQfXf0vhfvRkhA9U4N9rFnOv6-gR_AueP0bIRTHY6_a_68E_ET9Y0ywSeCbtMJZrc3Ydjdz0gUno9CRpvVIuDt7Uls1aNCFuceYNTv81L_y7Pn-YNMKCkiIgJ4D4MT1_6DDrT5OIdlpaxGfhiRaw_EUXk/41z/Pvt5wVdHQsWMR1XBCg94Sg/h16/vKUjlfV5Ct48SyzGkeeZC9YlBASoeHeizwKLul9vVho",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GuardianTextSans-Bold.woff2",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/61ee92a4b673c10fc1283f57/original.png?1643025060",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbddd1ac570b70c893f/original.png?1644833725",
+      "theguardian.com",
+      "https://ablink.editorial.theguardian.com/ss/c/CBTDA9A8ekKRGj7WM2dV3mGTtSlwGUtU4W_nXP2YhnTxuFOan4J9KkQ2lZC0MirRk9tldtDiRKNmPoSVQn_EVK0NfCnK34QgXOQ-Mcrylv1whowQr0favdLgUtKxZs4y0J6OLGXZIFJS1Xu5YyyxMBOK75yY_uGbdhId7_BA9BL2pmCfKotDZog6juShdksJ_1ZbgDLjN0y_VKaA7givjobAmuzuAcgc62A3A_25q3HIwjW37rxjMTb7PV05nlUyO2INXmkGcaFrRgCrnQJVNut0DgUfup8eYn-9CjpPIBw22iWz0Gx4q0zov1F6f25_Q5XDPhL_zpnK9CCJy41JQOKpaGhY7yHNId1D-I2tyzA9UL-8Iupg7xf7ooYE9o8it8q7OrEaFE2kjvVzPG56BXn7WRrPxFIqWnncs2UrjKDg1R7uVaza0Nw8GUKY_anNRAjeNJ9-N9MC4ZuQhZo6VryFa9hXiHhU6xeICnM_uM6x1vaqzM9XKXBfo3eKSLyzHYwDpg3jt_ZZEtGO0dPHe2LfBFuU4glWJK1c6U_HTQkJD6h_d88nPOAOi0TQseT6BUY4k6GsRUWqoHqI-gpqBa05qsoNkJLdXsMyVkfNlf5fACIcGx3iipv4zlV2NDMvXlPCgzXyCdZ7OzCEkRCALA/41z/Pvt5wVdHQsWMR1XBCg94Sg/h19/jsClP9wmL5zoeVytJcD3RRu5Nwm0JzAXhL054juB4GU",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbd08f7b6268282b10e/original.png?1644833725",
+      "https://ablink.editorial.theguardian.com/ss/c/anB5BDNDuHMZ3XJHP1YCbizXWcJc3PY56cM6T1GP8EPsgRijHa-EYeG9rPFk9DnUDuVQ9K19i09Kas-HV5O89PAUY6TfpQNYPploB1wVXQMPxzI167NZzbWuDiLStgrpPxihdS3PAofXBhkEnf0IvUWFqrmmBul9GG0d_APtJN5S6_yTfMlCJILbMX3ZXluF8aOLb2c46DqeW_91ONZ7D_lNWKKKYaBQnRVCOZ_75EHLadXfvLgbM-j_vW7Em0Wp/41z/Pvt5wVdHQsWMR1XBCg94Sg/h22/HtS_9-0kL_2uCRUKfbv3LIQazvXggy39AlvqHbFO5YI",
+      "https://images.squarespace-cdn.com/content/657c6d1b9ac3754d6e48818f/74c75891-6854-4e2f-a796-b42b48d2a268/aaas.png",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbddd1ac524ab0c8671/original.png?1644833725",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbd83d7d9136eec89e3/original.png?1644833724",
+      "http://www.w3.org/1999/xhtml",
+      "a.skip-main:active",
+      "https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQUVkJ7ps5tiUB9cVjmIpBnO2vPxJFSZtfUeQcMTp2Q8OVUeSNwIt-EDl6L4x5PzcCQvODSioHLVVTZpNrXfw3HUj-17iNIqMy2XkvMzoHPG7QpiTbnghBL1ZKeGAWsO4bqQDQ3S9YGd8FyENYur2AB3tRZPINmZvtEOzZPPPmMcV7JGWvumIVkisjs_6gL3-g13yNSbq5Zxk74PbrRpfHYRJ6uIH-wbyKVFAaUpmISZC/41z/Pvt5wVdHQsWMR1XBCg94Sg/h21/WOWR2xC7cDHfjUn6f0Tr4UC0f9BIlyrYDwnmTnY8u0Q",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GHGuardianHeadline-Medium.woff2",
+      "https://ablink.editorial.theguardian.com/ss/c/_aTD46XvGNsn-UWpVjTkvd00TM1KxNOYWnVuqz3edeD1p7GwvTect899FfZNb8JDAgKPDhLUvQkrqf8X2pxBVg/41z/Pvt5wVdHQsWMR1XBCg94Sg/h24/gn5jrvV1aGUuNo73Gnm-KAKe69Y-j63cKeYkqT3JDk4",
+      "a.skip-main:focus",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GHGuardianHeadline-Semibold.woff2",
+      "www.theguardian.com/australia-news/2021/dec/21/sign-up-for-five-great-reads-guardian-australias-wrap-of-our-best-summer-stories",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GuardianTextSans-Regular.woff2",
+      "https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00skzgd31gOk46u1PF77hjgH7gmEp90KY3aAJTRGQOAQfXf0vhfvRkhA9U4N9rFnOv6-gR_AueP0bIRTHY6_a_68E_ET9Y0ywSeCbtMJZrc3Ydjdz0gUno9CRpvVIuDt7Uls1aNCFuceYNTv81L_y7Pn-YNMKCkiIgJ4D4MT1_6DDrT5OIdlpaxGfhiRaw_EUXk/41z/Pvt5wVdHQsWMR1XBCg94Sg/h23/FWnFfiL-K2y8OpQzZjawjj85HoVU2mR54cp6rKeOZkQ",
+      "https://ablink.editorial.theguardian.com/ss/o/ltzzm0tTsDh4aJAlLAPc0A/41z/Pvt5wVdHQsWMR1XBCg94Sg/ho.gif",
+      "https://ablink.editorial.theguardian.com/ss/c/OTuq2e09XkzRGzcSpUg1DZ1z7Y_GkOMhAtpBuygAxGJRBFI2XIPT6MAh8c9wgdeal8fqPLSxmWC2l4DEY403_A/41z/Pvt5wVdHQsWMR1XBCg94Sg/h17/VAuFVMquvm6A4jKaEgafQiKLE_M92UwsgN92ZWmfHxk",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GHGuardianHeadline-Bold.woff2",
+      "https://dhotharinternational.com/topr/elwoire",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/61fa9d768a104b737dd87828/original.png?1643814262",
+      "https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00v7e1n9sz7yS9W1ICkLR3PPT7BTgYbERbQlrkgF0PgOzrJL5dvPPsQMUit-tdcP8zqhIPcY_L_6yjYsuIAcOdOMEQacrGSkG1YwSdjvOB0Ai06EJPmW-VGpdATW4Ih4VxaoaZ7s84rN4fcxfNQYtITgNiB1hcT5tEj5z8pXsv_ij6xjmgnOuNNBQt6k6MlSGbxqfaKgZSXb3luNj__h6_RV/41z/Pvt5wVdHQsWMR1XBCg94Sg/h18/ccXnbY1RBAUgBkJE7TAaa2LNbA1m8dPe4-6XlfdIQrw",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbd8a104b63c385e32e/original.png?1644833725",
+      "https://pasteup.guim.co.uk/webfonts/1.0.0/full-autohinted/GHGuardianHeadline-Regular.woff2",
+      "https://ablink.editorial.theguardian.com/ss/c/TBl-lE0k4WbTlFRn6v-lQXxTpTslqnvUsR2ofAkC00skzgd31gOk46u1PF77hjgH7gmEp90KY3aAJTRGQOAQfXf0vhfvRkhA9U4N9rFnOv6-gR_AueP0bIRTHY6_a_68E_ET9Y0ywSeCbtMJZrc3Ydjdz0gUno9CRpvVIuDt7Uls1aNCFuceYNTv81L_y7Pn-YNMKCkiIgJ4D4MT1_6DDrT5OIdlpaxGfhiRaw_EUXk/41z/Pvt5wVdHQsWMR1XBCg94Sg/h20/1T_MWF9wd3IjjD-NDNc8-UXns5iB3pyr-5tPPFhzIlw",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbd8a104b6b7685e30a/original.png?1644833725",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/620a2bbd472d396811829b6a/original.png?1644833725",
+      "https://ablink.editorial.theguardian.com/ss/c/_aTD46XvGNsn-UWpVjTkvd00TM1KxNOYWnVuqz3edeDl5auYzadGV9-0a5s-92s0Zt7AZoklKRem3u-OMzlAJP166Miv5zBc8ktDTJcdq1RVRIIMqqoXFEsj-okIEoa22v8b1ipCI2R2RHNC-VSnzcSQhMDhChqbqp0opOkhALq9_MFnpw-pEJB423nNmN9go83lIVSMGVoESU4vzkpAzg/41z/Pvt5wVdHQsWMR1XBCg94Sg/h25/XWWVzUH0yoVvuYxA3IscKnlsjm9nHAiByLrRH6aQixk"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 13592,
+    "html_length": 41049,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Maximize your XRP balance",
+    "from": "Ripple <xrpl@gofounder.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 31 Mar 2023 07:27:06 +0000",
+    "message_id": "<20230331072706.e0402e80152f50cf@gofounder.net>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://facebook.com/rippleofficial",
+      "https://creative-assets.mailinblue.com/editor/social-icons/original_colored/linkedin_32px.png",
+      "https://mail15-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://creative-assets.mailinblue.com/editor/social-icons/original_colored/twitter_32px.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://creative-assets.mailinblue.com/editor/social-icons/original_colored/facebook_32px.png",
+      "https://mail15-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      ".editable.image",
+      "https://img.mailinblue.com/5886282/images/content_library/original/6424560ed92e7073b82ddc31.png",
+      "https://linkedin.com/company/rippleofficial",
+      "https://twitter.com/Ripple",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7846,
+    "html_length": 22867,
+    "has_text": true,
+    "has_html": true
+  }
+}

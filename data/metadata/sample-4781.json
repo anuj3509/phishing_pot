@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalizacao alfandegaria! Protocolo: 236864",
+    "from": "Pedido Correios <entrega@notificacaotaxa32733%taxa.net>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 24 Jan 2025 20:45:19 +0800",
+    "message_id": "<20250124124519.4C7A54E7E5@xyjjc4vs.vm>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://boxaw.buscaeuhgwcep.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 545,
+    "html_length": 4200,
+    "has_text": true,
+    "has_html": true
+  }
+}

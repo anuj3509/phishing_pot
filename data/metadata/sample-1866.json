@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Please confirm receipt",
+    "from": "Kroger_ Black Friday!   ,_<r9706@0ysydx9845.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 8 Nov 2023 21:03:31 +0000",
+    "message_id": "\r\n <7025adc4-d9d9-4220-94f0-c14a7959e337@DM6NAM04FT014.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://vertuoldmuneted.com/track/o48517kGyFS27537896BqPu1371191Njx68664uoxj3229",
+      "https://t.co/P18EWgi27j",
+      "http://dtherhproblem.us/su48517vMYhU27537896mjgD1371191pAE68664wNiB3229",
+      "https://t.co/xVSq3tPgqH",
+      "i.imgur.com/7yYxfDE.jpg",
+      "https://i.imgur.com/7yYxfDE.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 361,
+    "html_length": 8806,
+    "has_text": true,
+    "has_html": true
+  }
+}

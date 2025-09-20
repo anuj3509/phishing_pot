@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi foi taxado e bloqueado pela fiscalização alfandegária!",
+    "from": "Correios S.A <informa-aduaneira005723@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Dec 2024 09:58:42 +0000",
+    "message_id": "<9e9be17a87eb8e6e1d990408e82c6da8@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_9e9be17a87eb8e6e1d990408e82c6da8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_9e9be17a87eb8e6e1d990408e82c6da8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.windows.com-correios186315725@pagueaduaneira.co.ua/rastreamento/taxa705",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3388,
+    "has_text": true,
+    "has_html": true
+  }
+}

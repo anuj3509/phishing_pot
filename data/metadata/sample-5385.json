@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "You can now download your SSA document",
+    "from": "SSA Procedures Team <info@cwtwebpem.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 1 Apr 2025 00:21:02 +0000",
+    "message_id": "<01000195eeb9196d-6fd4cec9-a8c4-4c22-a410-528a227b4a7f-000000@email.amazonses.com>",
+    "content_type": "multipart/mixed; boundary=\"===============8357245686171387810==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============8357245686171387810==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/K9ypAml.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://jizies.info/ssa1/ssa/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1372,
+    "html_length": 3527,
+    "has_text": true,
+    "has_html": true
+  }
+}

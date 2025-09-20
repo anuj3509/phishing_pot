@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Ol��, voc�� possui saldo dispon��vel expirando em 28/DEZ/2023! ID: 45953233",
+    "from": "Bradesco <nao-responder@bonus890livelo.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Dec 2023 02:20:23 +0100 (CET)",
+    "message_id": "<20231227012023.759391FE69@xduifv781-cnmfs-xduifv781>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bradesco.com.br/resgate-beneficio.htm",
+      "https://me-west1-onyx-octa-403314.cloudfunctions.net/exclusive-prime_br/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1057,
+    "html_length": 16703,
+    "has_text": true,
+    "has_html": true
+  }
+}

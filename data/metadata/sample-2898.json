@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Último aviso: tus fotos y vídeos serán eliminados, ¡actúa!",
+    "from": "\"lCIoud Almacenamiento\" ,YRG <newsletter@newsmail.volksfreund.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 06:19:36 -0500 (EST)",
+    "message_id": "\r\n <2988bfe6-dd18-4f9b-ad84-50b3ff953bac@AMS0EPF000001AD.eurprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/GbNQaY4.png",
+      "i.imgur.com/JqHY2V2.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1dxI6cFkpBUA9AGnEbyHs2IWMZ7yaScW8OJaClouObopjJJwI9HExFbp1ThsAur6j0SkKD_vRVNM_Y-KZnBVi_uaWILUUqOhE2zXyQzWrtZkee3Wy8KTCEWU3clOtPL-XQ6xh090COQ1Grx4CQ93qZuDjA==",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1dxI9uJ3FzEPIbK0WItb48gJ9bbPS6_Nh7JHm7Wg1dwoylyi9T4PW9DEk9DF2DfMD3JnICFl26LiQG9AY4DRm-MBQQYG8N8spLEDExw1NK8WjsnQjkOS-du4p24q2bLPTa4uQG119keGwsmHof265yMuSw==",
+      "https://i.imgur.com/GbNQaY4.png",
+      "https://i.imgur.com/JqHY2V2.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1dxIxBTX8uYXVnKlo_oJEQhpKXnY_S_fQJyriw5AHiPzIa5iZJ09_W6rKuXx9TAR3emFgZ_V0riUobJ75oUusoE8Le9UkzYKAo8ptYpniZv-7n5tvhDGr9yt_fqRw94VqgtWaJWdmYcLheBqWFqK6Y_rew==",
+      "https://i.imgur.com/OyFHO7o.png",
+      "i.imgur.com/OyFHO7o.png",
+      "http://tracks.o2.co.uk/9mrSc4Vu.kdja?gAAAAABl1dxILlsgsN_8NPX-P5Hi1nphFi6plc8wiy2VkaqEBrf97tIieniyp2cDYe2bEwHJ5dCppiDtztKjpAKPUgM-Tr6pUeFWhU_h1BDC3n6J0IwrIjuWRh6sqogTkKvNv77F_niOgZv-55hyn5gxubf4kyZuXw===="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2480,
+    "has_text": false,
+    "has_html": true
+  }
+}

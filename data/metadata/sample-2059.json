@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Welcome to Our Team, Final notice for $500 Walmart Gift Card customer rewards",
+    "from": "$500 Walmart Gift Card _NOVEMBER WINNER ,_<thzip@onxxrzchrs.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 29 Nov 2023 07:47:51 +0000",
+    "message_id": "\r\n <f9b5bbed-d741-4e22-afda-1bc362cca93a@BN7NAM10FT114.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/KdS46ID34U",
+      "https://t.co/jyL1CWdR8c"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 761,
+    "html_length": 9063,
+    "has_text": true,
+    "has_html": true
+  }
+}

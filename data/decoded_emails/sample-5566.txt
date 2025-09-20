@@ -1,0 +1,172 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Einkaufsgutschein im Wert von 250 ��� 
+From: netto <noreply@netto>
+To: <phishing@pot>
+Date: Mon, 30 Jun 2025 15:07:44 +0000
+Message_Id: <119188475467094.5.EVQ3325214994@about.amazon.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Montserrat:wght@400;700&amp;family=Lato:wght@400;700&amp;family=Poppins:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Open+Sans:wght@400;700&amp;family=Roboto:wght@400;700&amp;family=Raleway:wght@400;700&amp;family=Ubuntu:wght@400;700&amp;family=Source+Sans+Pro:wght@400;700&amp;family=Merriweather:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Lora:wght@400;700&amp;family=EB+Garamond:wght@400;700&amp;family=Georgia:wght@400;700&amp;family=Fira+Code:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;family=IBM+Plex+Mono:wght@400;700&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap
+  - http://wqvYlLzBJqPOIdCVqB2c3J3HXYmml8wqvYlLzBJqPOIdC.traveltalesjourney.store/track/3ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207
+  - http://ghCrBVqB2c3J3HXYmml8ghCrB.traveltalesjourney.store/4ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207
+  - zupimages.net/up/25/22/2vhu.png
+  - zupimages.net/up/23/36/l2jt.png
+  - zupimages.net/up/23/36/ts2s.png
+  - https://zupimages.net/up/23/36/ts2s.png
+  - https://zupimages.net/up/25/22/2vhu.png
+  - https://zupimages.net/up/23/36/l2jt.png
+  - http://ghCrBVqB2c3J3HXYmml8ghCrBVqB2c3J3HXYmml8ghCrB.traveltalesjourney.store/6ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207
+
+DECODED TEXT CONTENT:
+------------------------------
+Promotion Decathlon body { font-family: "Montserrat", sans-serif; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; margin: 0; } .container { border-radius: 1px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); text-align: center; max-width: 450px; } .header { font-size: 24px; font-weight: bold; color: #333; font-family: "Poppins", sans-serif; } .subheader { font-size: 20px; color: #555; margin: 10px 0; } .product { font-size: 26px; color: #222; margin: 10px 0; } .description { font-size: 18px; margin: 10px 0; padding: 20px; } .year { font-size: 16px; color: #333; margin: 10px 0; } .button { background-color: #000; color: #fff; padding: 10px 40px; border: none; border-radius: 1px; cursor: pointer; font-size: 16px; } SIE WURDEN ZUM GEWINNEN AUSGEWÄHLT! Einkaufsgutschein im Wert von 250 € Deine E-Mail-Adresse wurde als mögliche Gewinnerin eines Lebensmittelpakets im Wert von 250 € ausgewählt! Bist du bereit? Mit dem Netto-Gutschein kommst du gut durch den Winter. Mit den hochwertigen Netto-Produkten zum günstigen Preis – lass dir diese Chance nicht entgehen! Beantworte einfach ein paar kurze Fragen. 2025 SEHEN SIE IHREN PREIS! von der Kampagne abmelden
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Promotion Decathlon</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Montserrat:wght@400;700&amp;family=Lato:wght@400;700&amp;family=Poppins:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Open+Sans:wght@400;700&amp;family=Roboto:wght@400;700&amp;family=Raleway:wght@400;700&amp;family=Ubuntu:wght@400;700&amp;family=Source+Sans+Pro:wght@400;700&amp;family=Merriweather:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Lora:wght@400;700&amp;family=EB+Garamond:wght@400;700&amp;family=Georgia:wght@400;700&amp;family=Fira+Code:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;family=IBM+Plex+Mono:wght@400;700&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap" rel="stylesheet">
+    <style>
+      body {
+        font-family: "Montserrat", sans-serif;
+        background-color: #f0f0f0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+      }
+      .container {
+        border-radius: 1px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        max-width: 450px;
+      }
+      .header {
+        font-size: 24px;
+        font-weight: bold;
+        color: #333;
+        font-family: "Poppins", sans-serif;
+      }
+      .subheader {
+        font-size: 20px;
+        color: #555;
+        margin: 10px 0;
+      }
+      .product {
+        font-size: 26px;
+        color: #222;
+        margin: 10px 0;
+      }
+      .description {
+        font-size: 18px;
+        margin: 10px 0;
+        padding: 20px;
+      }
+      .year {
+        font-size: 16px;
+        color: #333;
+        margin: 10px 0;
+      }
+      .button {
+        background-color: #000;
+        color: #fff;
+        padding: 10px 40px;
+        border: none;
+        border-radius: 1px;
+        cursor: pointer;
+        font-size: 16px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <a href="http://ghCrBVqB2c3J3HXYmml8ghCrB.traveltalesjourney.store/4ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207" style="text-decoration: none; color: inherit">
+        <div>
+          <div style="padding: 10px 20px">
+            <div class="header">
+              <img src="//zupimages.net/up/23/36/ts2s.png" width="200px">
+              <img src="https://zupimages.net/up/23/36/ts2s.png" width="200px">
+            </div>
+            <div class="subheader">SIE WURDEN ZUM GEWINNEN AUSGEWÄHLT!</div>
+            <div class="product">Einkaufsgutschein im Wert von 250 €</div>
+          </div>
+          <img src="//zupimages.net/up/23/36/l2jt.png" style="max-width: 80%">
+          <img src="https://zupimages.net/up/23/36/l2jt.png" style="max-width: 80%">
+          <div class="description">
+            Deine E-Mail-Adresse wurde als mögliche Gewinnerin eines
+            Lebensmittelpakets im Wert von 250 € ausgewählt! Bist du bereit? Mit
+            dem Netto-Gutschein kommst du gut durch den Winter. Mit den
+            hochwertigen Netto-Produkten zum günstigen Preis – lass dir diese
+            Chance nicht entgehen! Beantworte einfach ein paar kurze Fragen.
+          </div>
+
+          <div style="margin: -20px auto 40px auto">
+            <div class="year">2025</div>
+
+            <!--Button-->
+            <a href="http://ghCrBVqB2c3J3HXYmml8ghCrB.traveltalesjourney.store/4ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207">
+              <div style="
+                  color: #ff6600;
+                  min-width: 260px;
+                  font-size: 20px;
+                  margin-top: 20px;
+                  font-size: 22px;
+                  font-weight: bold;
+                  line-height: 1;
+                  text-transform: uppercase;
+                  background: rgb(238, 203, 2);
+                  display: inline-block;
+                  padding: 16px 10px;
+                  text-decoration: none;
+                  border-radius: 20px;
+                  margin: 30px 0px;
+                  text-align: center;
+                ">
+                SEHEN SIE IHREN PREIS!
+              </div>
+
+            </a>
+
+            <!--Button-->
+
+
+          <img src="//zupimages.net/up/25/22/2vhu.png" width="100%">
+          <img src="https://zupimages.net/up/25/22/2vhu.png" width="100%">
+          </div>
+        </div>
+      </a>
+     <div style="margin-top: 600px;"></div>
+      <p style="
+          text-align: center;
+          font-family: Arial, Helvetica, sans-serif;
+          font-size: 9px;
+          line-height: 1px;
+          color: rgb(112, 112, 112);
+          padding: 10px;
+        ">
+        <a href="http://ghCrBVqB2c3J3HXYmml8ghCrBVqB2c3J3HXYmml8ghCrB.traveltalesjourney.store/6ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207" style="color: rgb(121, 121, 121); text-decoration: none">
+          von der Kampagne abmelden
+        </a>
+      </p>
+    </div>
+  </body>
+  <img src="http://wqvYlLzBJqPOIdCVqB2c3J3HXYmml8wqvYlLzBJqPOIdC.traveltalesjourney.store/track/3ghCrB29022cZoV292tgiozikvhy3764QUVALFSVTJOEWDM91072MXUL1725j207" width="0" height="0" style="position: absolute; visibility: hidden" border="0">
+</html>
+
+
+

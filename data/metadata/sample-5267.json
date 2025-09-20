@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Good Day,",
+    "from": "Mrs Margret Nelson <gosstom3@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 2 Apr 2025 23:38:39 +0200",
+    "message_id": "<CAAFnFh4Rk4-1zysb5AEySR5bK3HZmOcnObyU8GMxegbthdjJKQ@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000dee9990631d27a0e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000dee9990631d27a0e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 635,
+    "html_length": 1928,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Consulte seus valores a receber - E59xZaROik6Ss8NI2VplFvrnc",
+    "from": "\"(Banco Central do Brasil) - Valores a Receber - 170146293033615\"\r\n <bvnmlhgdmn@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Feb 2024 17:57:16 -0800 (PST)",
+    "message_id": "<65cec0fc.170a0220.9f6a8.6272@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_60_0719dd91-ba1c-4611-b6bb-ed1efa3b26d5"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_60_0719dd91-ba1c-4611-b6bb-ed1efa3b26d5"
+  },
+  "attachments": [
+    {
+      "filename": "pPw6R85QMtUA74fJDkalEISLsXZ0.pdf",
+      "content_type": "application/octet-stream",
+      "size": 105808
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 314,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

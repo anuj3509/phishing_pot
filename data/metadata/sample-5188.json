@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "\"����(Dringend)���� Ihr Abonnement ist abgelaufen! Sch��tzen Sie sich sofort����.\"",
+    "from": "TotalAV <newsletter@mail.toom.de>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 21 Mar 2025 03:38:21 +0000",
+    "message_id": "<0fufe5o.7pbnazw.4rus4qt@okvc94dimjzehs5sh.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.gstatic.com/_/translate_http/_/ss/k=translate_http.tr.26tY-h6gH9w.L.W.O/am=GAY/d=0/rs=AN8SPfrev-A3NvrBP0gNq8zXCqKY7IcBLA/m=el_main_css",
+      "https://zupimages.net/up/24/41/e4dq.png",
+      "https://duosweetsong.com/4mRVzg343mDYm6bzbykgffrt14XJJCAIZUJAQQLDX47634XLFB738o5",
+      "https://duosweetsong.com/4aVhbj343aFMv6pyambcjvjr14LMCNTCCYINSDFPK47634RYJA738x5",
+      "zupimages.net/up/24/41/e4dq.png",
+      "http://103-52-115-55.cloud.leaseweb.net/[c]",
+      "https://duosweetsong.com/track/2IPQOe343cYBm6fyzekmiwzo14ZJMLHNXNMDZQSZR47634LALZ738M5",
+      "https://duosweetsong.com/4kMYkj343XiGU6ihmvctbveb14QFRPYJJXVKOSUHN47634SRWL738x5",
+      "https://duosweetsong.com/4EnqlQ343fKnI6eosbzjwgad14ELRHHCFYSZSWCVH47634UUXL738A5",
+      "https://duosweetsong.com/4gtQMX343YemU6zgcumobghe14BUPJBWBFXAAGHLI47634OLEV738P5",
+      "https://duosweetsong.com/3hTXkd343ihJA6johhixsiyt14KWLCDXDOEDSMBQX47634CGUV738u5"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1765,
+    "html_length": 9207,
+    "has_text": true,
+    "has_html": true
+  }
+}

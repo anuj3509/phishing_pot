@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aten����o: Sua encomenda ser�� leiloada pela Receita Federal em 3 dias! Protocolo: 9823504033",
+    "from": "Importante - Correios <atendimentocuritibataxascorreios@%correiosb.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Nov 2024 09:03:38 +0800 (CST)",
+    "message_id": "<20241119010338.C95AD68CD0@qa7nzbdg.vm>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pedidoretido-alfadenga.in.ua/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2147,
+    "html_length": 3882,
+    "has_text": true,
+    "has_html": true
+  }
+}

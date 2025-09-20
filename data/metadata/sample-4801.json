@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Seu convite para ser BRADESCO PRIME! ID: 71958337.",
+    "from": "\"Banco.Bradesco\" <primeconvite949631@bradesco>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 4 Feb 2025 08:50:46 +0000",
+    "message_id": "<7d5353ca7b30c1e97f6ba59b6c9d4c6a@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_7d5353ca7b30c1e97f6ba59b6c9d4c6a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_7d5353ca7b30c1e97f6ba59b6c9d4c6a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-96-480667946887.us-central1.run.app/",
+      "banco.brad",
+      "hotmail.com,",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 11074,
+    "has_text": true,
+    "has_html": true
+  }
+}

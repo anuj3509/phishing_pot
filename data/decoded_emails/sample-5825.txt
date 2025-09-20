@@ -1,0 +1,180 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Final Notice: Update Electrum Before August 30 or Lose Wallet Access
+From: "Electrum" <cnitech@nate.com>
+To: sam_bt@hotmail.com
+Date: Fri, 15 Aug 2025 14:23:40 +0900
+Message_Id: <3bb04d326a27132f2d136a26ac97397f$fac1c2e2@mail3.nate.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, confirm, update
+URLs found:
+  - https://mail3.nate.com/app/msg/confirm/?usn=8790598&amp;email=cnitech@nate.com&amp;key=3bb04d326a27132f2d136a26ac97397f$fac1c2e2@mail3.nate.com
+  - https://i0.wp.com/zenledger.io/wp-content/uploads/2023/01/60f6bc56762c3132d56792e5_logo.png?w=375&amp;ssl=1
+  - https://electrumlink.netlify.app/
+
+DECODED TEXT CONTENT:
+------------------------------
+Electrum Security Update Notification body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif; background-color: #f5f5f5; margin: 0; padding: 0; color: #333; line-height: 1.6; } .email-container { max-width: 600px; margin: 20px auto; background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 10px rgba(0,0,0,0.1); } .header { background: #1d3242; padding: 20px; text-align: center; } .header img { height: 50px; width: auto; } .content { padding: 25px; } h1 { color: #1d3242; font-size: 22px; margin-top: 0; margin-bottom: 20px; } .alert-box { background: #fff8e6; border-left: 4px solid #ffc107; padding: 15px; margin: 20px 0; border-radius: 0 4px 4px 0; } .alert-title { font-weight: 600; color: #d4a017; display: flex; align-items: center; gap: 8px; margin-bottom: 10px; } .btn { display: inline-block; background: #4a9eff; color: white !important; text-decoration: none; padding: 12px 25px; border-radius: 6px; font-weight: 500; margin: 15px 0; text-align: center; transition: background 0.3s; } .btn:hover { background: #3a8bef; } .btn-container { text-align: center; margin: 25px 0; } .footer { background: #f0f0f0; padding: 15px; text-align: center; font-size: 12px; color: #666; } .signature { margin-top: 25px; border-top: 1px solid #eee; padding-top: 15px; } Mandatory Security Update Required Dear Electrum User, To ensure the continued security of your digital assets, we require all users to upgrade to Electrum 2025 v5.1.2 before August 30, 2025 . Important Security Notice Older versions will be deprecated and lose network connectivity after this date. This update includes critical security enhancements and protocol improvements. What's New in v5.1.2: Enhanced multi-signature security protocols Improved transaction fee estimation Expanded cryptocurrency support (BTC, ETH, LTC) Bug fixes and performance improvements Download Latest Version Verification: Always verify PGP signatures after download. Learn how to verify Best regards, The Electrum Development Team © 2025 Electrum. All rights reserved. This is an automated message. Please do not reply directly to this email. Unsubscribe | Privacy Policy
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div class="wc_wrapper" style="font-family:맑은 고딕;font-size:10pt"><!DOCTYPE html>
+<html lang="en">
+<head>
+	<!--meta removed-->
+	<!--meta removed-->
+	<title>Electrum Security Update Notification</title>
+	<style type="text/css">body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  line-height: 1.6;
+  }
+  
+  .email-container {
+  max-width: 600px;
+  margin: 20px auto;
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  }
+  
+  .header {
+  background: #1d3242;
+  padding: 20px;
+  text-align: center;
+  }
+  
+  .header img {
+  height: 50px;
+  width: auto;
+  }
+  
+  .content {
+  padding: 25px;
+  }
+  
+  h1 {
+  color: #1d3242;
+  font-size: 22px;
+  margin-top: 0;
+  margin-bottom: 20px;
+  }
+  
+  .alert-box {
+  background: #fff8e6;
+  border-left: 4px solid #ffc107;
+  padding: 15px;
+  margin: 20px 0;
+  border-radius: 0 4px 4px 0;
+  }
+  
+  .alert-title {
+  font-weight: 600;
+  color: #d4a017;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+  }
+  
+  .btn {
+  display: inline-block;
+  background: #4a9eff;
+  color: white !important;
+  text-decoration: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  font-weight: 500;
+  margin: 15px 0;
+  text-align: center;
+  transition: background 0.3s;
+  }
+  
+  .btn:hover {
+  background: #3a8bef;
+  }
+  
+  .btn-container {
+  text-align: center;
+  margin: 25px 0;
+  }
+  
+  .footer {
+  background: #f0f0f0;
+  padding: 15px;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+  }
+  
+  .signature {
+  margin-top: 25px;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+  }
+	</style>
+</head>
+<body>
+<div class="email-container">
+<div class="header"><img alt="Electrum Logo" src="https://i0.wp.com/zenledger.io/wp-content/uploads/2023/01/60f6bc56762c3132d56792e5_logo.png?w=375&amp;ssl=1"></div>
+
+<div class="content">
+<h1>Mandatory Security Update Required</h1>
+
+<p>Dear Electrum User,</p>
+
+<p>To ensure the continued security of your digital assets, we require all users to upgrade to Electrum 2025 v5.1.2 before <strong>August 30, 2025</strong>.</p>
+
+<div class="alert-box">
+<div class="alert-title"><svg fill="#d4a017" height="16" viewbox="0 0 24 24" width="16"> <path d="M12,2A10,10 0 0,0 2,12A10,10 0 0,0 12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M11,7H13V9H11V7M11,11H13V17H11V11Z"></path> </svg> Important Security Notice</div>
+
+<p>Older versions will be deprecated and lose network connectivity after this date. This update includes critical security enhancements and protocol improvements.</p>
+</div>
+
+<h2>What's New in v5.1.2:</h2>
+
+<ul>
+	<li>Enhanced multi-signature security protocols</li>
+	<li>Improved transaction fee estimation</li>
+	<li>Expanded cryptocurrency support (BTC, ETH, LTC)</li>
+	<li>Bug fixes and performance improvements</li>
+</ul>
+
+<div class="btn-container"><a class="btn" href="https://electrumlink.netlify.app/">Download Latest Version</a></div>
+
+<p style="text-align: center; font-size: 13px; color: #666;"><strong>Verification:</strong> Always verify PGP signatures after download. <a href="#" style="color: #4a9eff;">Learn how to verify</a></p>
+
+<div class="signature">
+<p>Best regards,</p>
+
+<p><strong>The Electrum Development Team</strong></p>
+</div>
+</div>
+
+<div class="footer">
+<p>© 2025 Electrum. All rights reserved.</p>
+
+<p>This is an automated message. Please do not reply directly to this email.</p>
+
+<p><a href="#" style="color: #666;">Unsubscribe</a> | <a href="#" style="color: #666;">Privacy Policy</a></p>
+</div>
+</div>
+</body>
+</html>
+</div><img src="https://mail3.nate.com/app/msg/confirm/?usn=8790598&amp;email=cnitech@nate.com&amp;key=3bb04d326a27132f2d136a26ac97397f$fac1c2e2@mail3.nate.com" height="1" width="1" alt="">

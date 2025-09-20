@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "500��� EDEKA-Gutschein erhalten",
+    "from": "EDEKA-Gutschein, <service@stayfriends.de.>, EDEKA-Gutschein,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 14 May 2024 21:25:20 +0200",
+    "message_id": "<gx6swtj.kh1hc.z6i.z6i@tzxvzzxjaqavhrh.lvy>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "storage.mlcdn.com/account_image/905358/76L1s059sCDiW8j2LPEUvypow2qXHsH6iPo2hDcJ.jpg",
+      "wartet.Ab",
+      "http://bauunternehmen-mayr.de//oop/9183_md/4049/25980/1281/281/76468",
+      "https://storage.mlcdn.com/account_image/905358/76L1s059sCDiW8j2LPEUvypow2qXHsH6iPo2hDcJ.jpg",
+      "http://bauunternehmen-mayr.de//cl/9183_md/4049/25980/1281/281/76468"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 679,
+    "html_length": 5837,
+    "has_text": true,
+    "has_html": true
+  }
+}

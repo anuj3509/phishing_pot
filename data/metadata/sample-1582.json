@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Acesso a sua conta em um novo dispositivo. ID:751989051",
+    "from": "Mercado_Pago <atendimentomercadopago.naoresponder@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Oct 2023 05:22:46 +0000 (UTC)",
+    "message_id": "<20231017052246.663884725F@GDGDDGGDGDGDGDG6>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?hl=pt-PT&amp;q=https://www.mercadopago.com.br/accountrecovery/feedback/unrecognized?notificationId%3D1f6de3c7-71eb-4c29-96a6-7f96ad586377%26source%3DEMAIL&amp;source=gmail&amp;ust=1684842861041000&amp;usg=AOvVaw0JBCTHt1qzqWruXPmH9D27",
+      "https://ci5.googleusercontent.com/proxy/OR439Bf1U6GgZZ70TAkDjKZSiFkkXXHk2lEjYPg75jqoa9QeyvdOjGVaDj-SCM_r2PvZnD371zaYee2UW-jSVXnHYFXxNWux-yYbTEg6qS2FFSbT-3sH9zU5CoC20FgkTRP2OmuBSYKkcQ=s0-d-e1-ft#https://mercadolivre.com/org-img/mkt/email-mkt-assets/andes-emails/logo-mercadopago.png",
+      "https://www.google.com/url?hl=pt-PT&amp;q=https://www.mercadopago.com.br/ajuda/termos-e-politicas_194&amp;source=gmail&amp;ust=1684842861041000&amp;usg=AOvVaw12a2H94clHa5CFiGr_JJ2m",
+      "http://mercadopagoacceeae023232.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2",
+      "https://mercadopago.com.br/dispositivo",
+      "https://www.google.com/url?hl=pt-PT&amp;q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1684842861041000&amp;usg=AOvVaw3r_uWnaLtLDymG7Agdyp8q"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 436,
+    "html_length": 18092,
+    "has_text": true,
+    "has_html": true
+  }
+}

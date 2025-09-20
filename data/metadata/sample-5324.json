@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Paid, Your Order 821111 is placed successfully",
+    "from": "\"Paid Customer\" <dnyaneshwarrikame32@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Mon, 21 Apr 2025 06:38:34 -0700 (PDT)",
+    "message_id": "<68064a5a.650a0220.3a17a8.eb50@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============5973345486260492919==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============5973345486260492919==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 957,
+    "html_length": 1595,
+    "has_text": true,
+    "has_html": true
+  }
+}

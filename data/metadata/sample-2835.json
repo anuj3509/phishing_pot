@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, você fez acesso de um novo local?",
+    "from": "Bradesco <noreply@bradesco.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Feb 2024 09:15:17 +0000",
+    "message_id": "<4c41e066-463d-8c3a-6047-f97bf6cb298d@bradesco.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://banco.bradesco/seguranca",
+      "https://i.pinimg.com/originals/44/20/d9/4420d98b6f57afe398abc884b88c33de.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2097,
+    "html_length": 3681,
+    "has_text": true,
+    "has_html": true
+  }
+}

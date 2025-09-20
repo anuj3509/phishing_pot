@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Be Part of the Scroll Ecosystem – Claim Your SCR Tokens Now",
+    "from": "Scroll <noreply@src.io>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Oct 2024 22:54:22 +0000 (UTC)",
+    "message_id": "<20241030225421.3A5B9A6E3DE31AF2@src.io>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXO-2FGmvd65oODBYFQuBVkdgjBEZIMzQVOfIGOqICvDur7VqCU63uYuFhqy3EEvQY3OMP76pK7hej4Xbt2ki8QwY2T-2BSDHP1BFLpWz1E7dG9TyhmyeuI4A0Rv4hyhxgoCTMNfHWgg6q-2BuC5BgTBwBNrmfl9-2FScj27r3oywTw8w2tYj2TXCfeueZ7taQedA2NT8U-3D",
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3Dx6LE_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rU6nn8K-2Fxw7oOhcMeXD-2BjyW-2Fg1ss8P6AhfVN0w3r8ZW-2Bb60MotKZhHX9gR-2Fb9pE6LtPgeNKLHMDY6l5IVOpElMJNG1aogLs9XTEZ2kXs6WHJ-2FjOk2YMrzi-2FlgkcROHjQgA-3D-3D",
+      "https://srcdao.s3.amazonaws.com/scrolllogo.png",
+      "https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3D33Pj_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rbpTO60-2Fs9RoyUV7uLgC5BoCCtanPz6-2FfMCoRTIXJh8m9CSeMTdS8R-2FQbVQhmWRPVu5DB2kElB8tbql0soJWKi8ONa-2BslAncaMVfhX-2F-2FgrxySd-2FmukO0JbzpFNEwEZ081g-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1589,
+    "html_length": 7057,
+    "has_text": true,
+    "has_html": true
+  }
+}

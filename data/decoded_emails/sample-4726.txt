@@ -1,0 +1,111 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Registro de atendimento confirmado com o protocolo wKauFXKMEi3LDC
+From: Atendimento Bradesco - 44cfmi8m
+	<no-reply@580c6ec5-f82c-4914-87bd-0101a257329d.us1.azurecomm.net>
+To: cliededelcampo <cliededelcampo@hotmail.com>
+Date: Fri, 24 Jan 2025 07:57:46 +0000
+Message_Id: <202501240757.7ffec11d101b4b67939ea71c5b17d14f-NVZWS5D4IFBVGRKNIFEUYLKQKJHUILRQGM2EKMKBGBDEIRRSGM2EMQJWIIZEKMSEGVDDINZUGBCUMMJXGB6FG3LUOA======@microsoft.com>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://bradanotif2061068380.z22.web.core.windows.net/?eZhmHUhemRmgDvl9Eg
+
+DECODED TEXT CONTENT:
+------------------------------
+Bradesco - Cartões de Crédito body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; } .email-container { width: 100%; max-width: 600px; margin: 0 auto; background-color: white; border: 1px solid #e0e0e0; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { background-color: #ff0000; color: white; padding: 15px; text-align: center; font-size: 18px; font-weight: bold; } .content { padding: 20px; } .content p { margin: 15px 0; line-height: 1.6; color: #333; } .content a { color: #0000ee; text-decoration: none; font-weight: bold; } .footer { background-color: #ff0000; color: white; padding: 10px; text-align: center; font-size: 14px; } @media screen and (max-width: 600px) { .email-container { width: 100%; } } Bradesco S.A Prezado(a) Cartões de Crédito Bradesco. Se cadastre e concorra a 500.000 pontos Livelo toda sexta-feira. Para se cadastrar, clique aqui . Será necessário a confirmação de alguns dados. Válido por 07 dias. Bradesco S.A. - Programa de Pontos
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bradesco - Cartões de Crédito</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .email-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #e0e0e0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #ff0000;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            margin: 15px 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        .content a {
+            color: #0000ee;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: #ff0000;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 14px;
+        }
+        @media screen and (max-width: 600px) {
+            .email-container {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table class="email-container" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+            <td class="header">
+                Bradesco S.A
+            </td>
+        </tr>
+        <tr>
+            <td class="content">
+                <p>Prezado(a) </p>
+                <p><strong>Cartões de Crédito Bradesco.</strong></p>
+                <p>Se cadastre e concorra a <b>500.000</b> pontos Livelo toda sexta-feira.
+                <p>Para se cadastrar, <a href="https://bradanotif2061068380.z22.web.core.windows.net/?eZhmHUhemRmgDvl9Eg">clique aqui</a>.</p>
+                <p>Será necessário a confirmação de alguns dados.</p>
+                <p>Válido por 07 dias.</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="footer">
+                Bradesco S.A. - Programa de Pontos
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

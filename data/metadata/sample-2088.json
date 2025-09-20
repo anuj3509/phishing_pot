@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Bek��mpft endlich Nagelpilz! Begrenzte Zeit!",
+    "from": "Dr.Merritz | Dermatologische Informationen,\r\n\t<angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 02 Dec 2023 12:48:12 +0100",
+    "message_id": "<MV3cP3q.0.0.MV3cP3q.9.MV3cP3q@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://dr-merritz.blogspot.com#oop/6359_md/1999/1760/938/24/601973",
+      "zupimages.net/up/23/48/ns97.png",
+      "http://tedde.theowensfamily.info/op/6359_md/1999/1760/938/24/601973",
+      "https://zupimages.net/up/23/48/ns97.png",
+      "https://dr-merritz.blogspot.com#cl/6359_md/1999/1760/938/24/601973"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 155,
+    "html_length": 1031,
+    "has_text": true,
+    "has_html": true
+  }
+}

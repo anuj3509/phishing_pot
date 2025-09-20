@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Bevestiging van verzending: uw bestelling is onderweg",
+    "from": "Verzendingsupdate <info.FXNQXC@2014.info>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 23 Jul 2025 06:19:17 +0000",
+    "message_id": "<078682367616874.2.GFY7114062235@2014.info>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.vesselwindplant.com/o-tgfg-t17-dcc45763532fbe2f0e127b9cf6640268",
+      "https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0",
+      "https://storage.googleapis.com/newera1/zzzzzzzzzrzzzzzzzzzfedex.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2455,
+    "html_length": 6528,
+    "has_text": true,
+    "has_html": true
+  }
+}

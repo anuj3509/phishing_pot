@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 21707141.",
+    "from": "Correios <aviso830854@correios>",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Aug 2024 06:05:36 +0000",
+    "message_id": "<f772726b659336763b214b5aff13a1c3@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f772726b659336763b214b5aff13a1c3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f772726b659336763b214b5aff13a1c3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://correiosrastreamentoalfandegario.com/api/rastreamento.php",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2265,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "New Login Attempt Detected – Please Review Your Account Activity",
+    "from": "Gemini Se󠄹r󠄹vice <mail.info.fi@restosenligne.com>",
+    "to": "<customer-Ew5ZhGv@gemini.com>",
+    "date": "Sun, 4 May 2025 17:18:22 +0000",
+    "message_id": "<7173932007.94691728006.2243998412984.61914440098822.694833278242@email.amazonses.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixCS20P5aJ5ZYFU44nxEZ6bSxhJHgKzrw6rHoZyAk0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixCS20P5aJ5ZYFU44nxEZ6bSxhJHgKzrw6rHoZyAk0\""
+  },
+  "attachments": [
+    {
+      "filename": "email-fastpakco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    },
+    {
+      "filename": "carddav-fastpakco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-fastpakco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "92.12.phishing@pot.76"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 12872,
+    "html_length": 12938,
+    "has_text": true,
+    "has_html": true
+  }
+}

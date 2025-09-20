@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, Sua encomenda foi taxada!",
+    "from": "Correios <notificacoes@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Nov 2024 12:23:41 +0000",
+    "message_id": "<14ec5674-0170-5d13-65a1-b394d492ad46@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 29031,
+    "html_length": 52997,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Policy Renewal is Required",
+    "from": "Microsoft Operation <notifications@mail-service2.rschooltoday.net>",
+    "to": "phishing@pot",
+    "date": "Sun, 20 Apr 2025 22:19:54 +0000",
+    "message_id": "<20250420221954.01290ceeb5aad029@mail-service2.rschooltoday.net>",
+    "content_type": "multipart/alternative; boundary=\"===============0633947336624633679==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0633947336624633679==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "table.info",
+      "https://support.roku.com/",
+      "https://loswe.co.ke/wp-admin/plugin/uEtaYd?_mac=B7CFEE4EB8CDB2ADACD5A8E4&amp;id=385659"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9,
+    "html_length": 2083,
+    "has_text": true,
+    "has_html": true
+  }
+}

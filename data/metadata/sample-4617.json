@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <noreply@correios>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Dec 2024 22:37:18 +0000",
+    "message_id": "<83221535-3eed-6196-498e-54fabda57a18@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "tisoprincipe.htm",
+      "https://juliodedansk.icu",
+      "www.princeton.edu,",
+      "httpswww.healthcareglobal.comtechnologyfour-ways-which-"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35671,
+    "html_length": 64994,
+    "has_text": true,
+    "has_html": true
+  }
+}

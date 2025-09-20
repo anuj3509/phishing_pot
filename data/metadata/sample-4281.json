@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "SIE DIESE CHANCE!",
+    "from": "17 KILO IN 9 TAGEN!, <noreply@team.mobile.de>",
+    "to": "phishing@pot phishing@pot",
+    "date": "Wed, 06 Nov 2024 16:23:14 +0100",
+    "message_id": "<hqigztx@ma2i6lzjyz.xt.local>",
+    "content_type": "multipart/alternative; boundary=\"----------=554700737828593592\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"----------=554700737828593592\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe8.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe4.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/td3xfwcqh5bkurpn2evs4y79zagjm.html#cl/941_md/1998/793/35/7/208601",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe2.png",
+      "https://fonts.googleapis.com/css?family=Encode+Sans+Condensed:300,400,500,600,700,800|Encode+Sans:300,400,500,600,700,800,900&display=swap",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe3.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe1.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/td3xfwcqh5bkurpn2evs4y79zagjm.html#oop/941_md/1998/793/35/7/208601",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe6.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/td3xfwcqh5bkurpn2evs4y79zagjm.html#op/941_md/1998/793/35/7/208601",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe5.png",
+      "https://td3xfwcqh5bkurpn2evs4y79zagjm.s3.us-east-2.amazonaws.com/cafe7.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1704,
+    "html_length": 38771,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Congratulations! Confirmation Needed Act Now!",
+    "from": "Sams Club ,_<19x59@ciypvomclk.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 25 Oct 2023 19:57:58 +0000",
+    "message_id": "\r\n <366c8d46-8ab2-4db7-b6d8-6123bfab2d57@DB8EUR05FT068.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/ZIMg6xc.jpg",
+      "https://t.co/MLXHhtXhV3",
+      "https://i.imgur.com/ZIMg6xc.jpg",
+      "http://dtherhproblem.us/su46973NpDMW22448528UKew49413sDx68717wePk3222",
+      "http://vertuoldmuneted.com/track/o46973jEPqh22448528ptmU49413riC68717Kmvv3222",
+      "https://t.co/Zxa6I4sc9A"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 371,
+    "html_length": 8809,
+    "has_text": true,
+    "has_html": true
+  }
+}

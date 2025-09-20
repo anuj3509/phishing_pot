@@ -1,0 +1,169 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Be Part of the Scroll Ecosystem – Claim Your SCR Tokens Now
+From: Scroll <noreply@src.io>
+To: phishing@pot
+Date: Wed, 30 Oct 2024 22:54:22 +0000 (UTC)
+Message_Id: <20241030225421.3A5B9A6E3DE31AF2@src.io>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXO-2FGmvd65oODBYFQuBVkdgjBEZIMzQVOfIGOqICvDur7VqCU63uYuFhqy3EEvQY3OMP76pK7hej4Xbt2ki8QwY2T-2BSDHP1BFLpWz1E7dG9TyhmyeuI4A0Rv4hyhxgoCTMNfHWgg6q-2BuC5BgTBwBNrmfl9-2FScj27r3oywTw8w2tYj2TXCfeueZ7taQedA2NT8U-3D
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3Dx6LE_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rU6nn8K-2Fxw7oOhcMeXD-2BjyW-2Fg1ss8P6AhfVN0w3r8ZW-2Bb60MotKZhHX9gR-2Fb9pE6LtPgeNKLHMDY6l5IVOpElMJNG1aogLs9XTEZ2kXs6WHJ-2FjOk2YMrzi-2FlgkcROHjQgA-3D-3D
+  - https://srcdao.s3.amazonaws.com/scrolllogo.png
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3D33Pj_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rbpTO60-2Fs9RoyUV7uLgC5BoCCtanPz6-2FfMCoRTIXJh8m9CSeMTdS8R-2FQbVQhmWRPVu5DB2kElB8tbql0soJWKi8ONa-2BslAncaMVfhX-2F-2FgrxySd-2FmukO0JbzpFNEwEZ081g-3D-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+Scroll Airdrop body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 20px; } .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); } .header { text-align: center; padding-bottom: 20px; } .header img { max-width: 150px; } .content h1 { color: #333333; font-size: 24px; margin-bottom: 10px; } .content p { color: #555555; font-size: 16px; line-height: 1.5; padding: 0 20px; } .scroll-button { display: inline-block; padding: 10px 30px; background-color: #F56C42; /* Scroll's orange */ color: white; font-family: Arial, sans-serif; font-size: 16px; text-decoration: none; border-radius: 8px; /* Slightly rounded corners */ border: 2px solid #F56C42; } .footer { text-align: center; font-size: 12px; color: #777777; padding-top: 20px; } Your SCR Tokens Are Ready! Hello, We are excited to announce that the SCR token airdrop is now live! As a valued member of our ecosystem, you are eligible to claim your SCR tokens, which play a key role in shaping the future of Scroll's decentralized governance and ecosystem growth. Key Dates: The official airdrop claim period starts on October 22, 2024 . Don't miss your chance to claim before the deadline! How to Claim: Click the button below to visit the airdrop page and follow the instructions to claim your tokens. Claim Your SCR Thank you for being a part of the Scroll community. Together, we are building a scalable and decentralized future. If you no longer wish to receive emails from us, click here to unsubscribe .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scroll Airdrop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        .header {
+            text-align: center;
+            padding-bottom: 20px;
+        }
+        .header img {
+            max-width: 150px;
+        }
+        .content h1 {
+            color: #333333;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .content p {
+            color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px;
+        }
+        .scroll-button {
+            display: inline-block;
+            padding: 10px 30px;
+            background-color: #F56C42; /* Scroll's orange */
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            text-decoration: none;
+            border-radius: 8px; /* Slightly rounded corners */
+            border: 2px solid #F56C42;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #777777;
+            padding-top: 20px;
+        }
+    </style>
+</head>
+<body style="font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px">
+    <table width="100%" style="background-color: rgb(244, 244, 244);" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td align="center">
+                <table style="max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1)" class="container" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                        <td style="text-align: center;
+            padding-bottom: 20px" class="header">
+                            <img style="max-width: 150px" alt="Scroll Logo" src="https://srcdao.s3.amazonaws.com/scrolllogo.png" width="180" height="180">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <h1 style="color: #333333;
+            font-size: 24px;
+            margin-bottom: 10px" align="center">Your SCR Tokens Are Ready!</h1>
+                            <p style="color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px">Hello,</p>
+                            <p style="color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px">We are excited to announce that the <strong>SCR token airdrop</strong> is now live! As a valued member of our ecosystem, you are eligible to claim your SCR tokens, which play a key role in shaping the future of Scroll's decentralized governance and ecosystem growth.</p>
+                            <p style="color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px"><strong>Key Dates:</strong> The official airdrop claim period starts on <strong>October 22, 2024</strong>. Don't miss your chance to claim before the deadline!</p>
+                            <p style="color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px"><strong>How to Claim:</strong> Click the button below to visit the airdrop page and follow the instructions to claim your tokens.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <a style="display: inline-block;
+            padding: 10px 30px;
+            background-color: #F56C42; /* Scroll's orange */
+            color: white;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            text-decoration: none;
+            border-radius: 8px; /* Slightly rounded corners */
+            border: 2px solid #F56C42" class="scroll-button" href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3D33Pj_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rbpTO60-2Fs9RoyUV7uLgC5BoCCtanPz6-2FfMCoRTIXJh8m9CSeMTdS8R-2FQbVQhmWRPVu5DB2kElB8tbql0soJWKi8ONa-2BslAncaMVfhX-2F-2FgrxySd-2FmukO0JbzpFNEwEZ081g-3D-3D">Claim Your SCR</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="content">
+                            <p style="color: #555555;
+            font-size: 16px;
+            line-height: 1.5;
+            padding: 0 20px">Thank you for being a part of the Scroll community. Together, we are building a scalable and decentralized future.</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: center;
+            font-size: 12px;
+            color: #777777;
+            padding-top: 20px" class="footer">
+                            <p>If you no longer wish to receive emails from us, <a style="color: rgb(85, 85, 85);" href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC0lWrZ-2FG-2F9digwnqEGpCPT6IDJFfgRu98zP9TnnSqAudkOGIXCvShd235qeuXMm1Q-3D-3Dx6LE_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcv9EGgK5FCCBDuSgc3bBpn59gUCizRYSEHiHieCGsU2rU6nn8K-2Fxw7oOhcMeXD-2BjyW-2Fg1ss8P6AhfVN0w3r8ZW-2Bb60MotKZhHX9gR-2Fb9pE6LtPgeNKLHMDY6l5IVOpElMJNG1aogLs9XTEZ2kXs6WHJ-2FjOk2YMrzi-2FlgkcROHjQgA-3D-3D">click here to unsubscribe</a>.</p>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+
+<img src="https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXO-2FGmvd65oODBYFQuBVkdgjBEZIMzQVOfIGOqICvDur7VqCU63uYuFhqy3EEvQY3OMP76pK7hej4Xbt2ki8QwY2T-2BSDHP1BFLpWz1E7dG9TyhmyeuI4A0Rv4hyhxgoCTMNfHWgg6q-2BuC5BgTBwBNrmfl9-2FScj27r3oywTw8w2tYj2TXCfeueZ7taQedA2NT8U-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body></html>
+

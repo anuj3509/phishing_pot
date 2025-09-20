@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <info@el-hanan.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Aug 2024 17:27:48 -0700",
+    "message_id": "<0ef52be317d87ae3c06eb71ce85b616b09cd32c4@el-hanan.com>",
+    "content_type": "multipart/alternative; boundary=\"a903416204c0ee7556fcc2798c091ef4ea\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"a903416204c0ee7556fcc2798c091ef4ea\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=MnKOvtRKnjvNSjJOxIrxUwMYizU",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050_copy%26googlePIDR=phishing@pot%26id_list=MnKOvtRKnjvNSjJOxIrxUwMYizU",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=4a66884dbc.nxcli.io/temp/user/login.php?click=m_news_0050%26googlePIDR=phishing@pot%26id_list=WvglZphzkbqRSNeyUaLFR"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1041,
+    "html_length": 5163,
+    "has_text": true,
+    "has_html": true
+  }
+}

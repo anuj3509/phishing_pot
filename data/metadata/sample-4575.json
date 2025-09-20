@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "⏳ Time is Money: Quick Payment App Assessment!",
+    "from": "Skidgel Lehnertz (via Apresentações Google) <drive-shares-noreply@google.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Dec 2024 10:30:43 +0000",
+    "message_id": "<autogen-java-686ccb14-7acd-4580-b284-8ee41efea697@google.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000002795dd0629ed7dea\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000002795dd0629ed7dea\""
+  },
+  "attachments": [
+    {
+      "filename": "Open 3722313.pdf",
+      "content_type": "application/pdf",
+      "size": 32196
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lh3.googleusercontent.com/a/ACg8ocJAXfUO0ikGCftEVpVyNr-hGihI93UQak-8czaxlVpIqTEmyA=s64",
+      "https://docs.google.com/",
+      "https://workspace.google.com/",
+      "3722313.pdf",
+      "https://docs.google.com/drawings/d/1zI2GL27Sd2C5JsvEtjdA6Jw7TL7eE7bdBjV5rB8bJec/preview",
+      "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_presentation_x64.png",
+      "https://www.gstatic.com/docs/documents/share/images/googleworkspace_logo_192x80.png",
+      "plzglhrrb.zeqifeku.quest"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1006,
+    "html_length": 5163,
+    "has_text": true,
+    "has_html": true
+  }
+}

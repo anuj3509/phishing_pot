@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Achtung phishing@pot: Ihr Total AV-Abonnement l��uft heute ab!",
+    "from": "\"Sicherheitsmitteilung\"  <secure@isobutanefilings.de>",
+    "to": "<phishing@pot@outlook.com>",
+    "date": "Mon, 2 Sep 2024 07:03:28 +0000",
+    "message_id": "<ciGiGO0WL1BOjHWL01C1vulwER@email.amazonses.com>",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&amp;name=small",
+      "https://t.co/gFvjZgCWDo",
+      "https://pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&amp;name=small",
+      "https://t.co/MG4irRnuRC"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 785,
+    "html_length": 5517,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,466 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Seja Free com até R$ 3 mil de limite no seu novo cartão! Aproveite!
+From: "Santander" <conta@brasil.santander.com.br>
+To: phishing@pot
+Date: Thu, 26 Dec 2024 15:18:40 +0000
+Message_Id: <579741ae-cc9b-37ce-87bd-8aa4d786beae@brasil.santander.com.br>
+Content_Type: multipart/alternative; boundary="_----cAlyKMxP4ZeL8GgjNDMPjA===_75/DC-42013-0D37D676"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="_----cAlyKMxP4ZeL8GgjNDMPjA===_75/DC-42013-0D37D676"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.opHLOOx7xS2MVribhEjA3BvlW24k6PSenc9udFcg9hVdMHq4P_y2aQzJI5mcRWS3otZJoL9APy0eNaatoQcdxXz7OZ5b4rkFaWKvtDhbBH0lNTOHH1oBntNr91O96MRVF-bKZGAWoK1LoDFM1qZX5ZSkPTUM41ZfjFv3Wv9YV3z0TT9Fhy3OKQkK78P14_IFeIVwVUwsJw5h1SIXEl8LGQSsvPN9D3fBG9TnS3LbnoSpjieWK92FAse1rGuhWgxAtbHQDkSv6XAtCK4x_X-0wCObPtGVg2zuKMV34xM1ay7nIVQqaQSU7iI1sJqTw0PPKW_Lsb_xB1qfsJKasOKsQueBj46nK5byP0jKebS4Taw_0f9_omAFTFNn1K1in1CHp-FbC9eJrXa5c-MBFsGsPnA78dfxY-koxK4b16BVGUtpk6x4LW7gH4x-mwazhXawCmooq7AsTG7sdq8wroh7iJv7v2NobmBSh-u8uCdsLwOX2lQunaUbASpAJqAIQX2GjZv6XqThyxU0nIARsojCoptkwSJAGJdSKrjm3X25AwpwSAXRs7iBUcBLKlSvbDhw2r1jgvdTvGbKNc1beKPOLv6lpaFqXyKK6evDHeg67WiaFncgq8_EvPQd3HAJ8eGAsiUFkFcq4P-6gmkyy6LFh99vjgcpxpxirvbyxk5RR7l_JG5MIEE&amp;pid=v1.U1s9AnvdNpTAnjcdRCtuY66WycdGILRbD0yUD8bc8Wsl7I9NE1fIZOdyYXW48dERQ9gTFzZwCPl3O6KLIdFigPcSh611ibcCLbHkMHZ4zn-d0_qSQz2DdsNZuvOCL5OvQyjBnFcpldbhzY1fkGriRcNihNNyFcBFPFgw67RP1ORtN-bHf8AW1IA&amp;tuid=676d6fa7ec8c8c644acb47bc&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:06d58325-4061-40ca-a57b-4adfa76155ae/oak:1.0::ci:03aadcb9e3a7d5a52d862c21605522a7/c04749b1-dbc2-3a16-afc1-394366ac823c
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c698fd6a-2b6b-4d59-a6d2-76f0f56518f9/oak:1.0::ci:037fbbdb154a11ebcc585e1e2ec18956/39343229-b2f0-39c0-9dfa-439208a30ef3
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a6&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:feb8adf2-3bf1-4346-9414-aa86a354920e/oak:1.0::ci:1804ae94c269de015c51165f6138d2f7/faeacf1e-d84a-3919-b846-79d27719c42d
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:9287ea96-3137-47fc-9641-c7437729479a/oak:1.0::ci:158d28d16ec8c58be67290726b878290/4eb38c7d-84f1-3b69-8d7e-0acfad0bfb3a
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47ac&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://santander.com.br
+  - span.preheader{display:none
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c12952c1-5769-4daf-b644-5b1a6b623247/oak:1.0::ci:e3c700426c5ab1b9b5f73be2d250fbef/4f2a63c1-9e2d-3b6a-bc0b-b42a86cd428e
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:99a2c1e5-3e2a-4d84-a60d-eb3e64ea83d8/oak:1.0::ci:abc0609778d4f945f1d364a6d83544c1/1c5a5209-422c-3f05-9e4c-f7265ee55035
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b3&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://data.brasil.santander.com.br
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b6&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:85090ccf-c769-4786-b54d-d4933770ff85/oak:1.0::ci:71cb8efbee1e1cd7d7508a7c24c90600/4ced7e32-6cc9-31a2-ac55-ac97682b990b
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:ee4407a2-1c2c-4364-bdd6-fd395ac432b2/oak:1.0::ci:6e6e6cb1093f4674b706091661de4827/e2bb49f1-c416-3c25-b7b7-2e47e23725e0
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:9a8fbbd4-581b-4dd5-b1fb-44b9f758a2af/oak:1.0::ci:f05e9692a9c1991b408f68dbcdfad73d/3a57c01c-8a20-3936-b37b-cd4226a57fe6
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c777c89c-6630-4a34-9a6a-a9667408d090/oak:1.0::ci:bd886dad68532b6e59d1fae7749daf85/913a0279-62ce-36bf-8acc-efc03aa12cab
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e75451a9-0310-48ae-8dcc-4a545f75c498/oak:1.0::ci:c836f9178c30986bf5ff23c886d62129/2c0fb091-edcf-3dd4-85a7-bcd5dfc666e2
+  - https://prod-publish-aem.santander.com.br/content/santander-spa-first/confirmacacao-de-optout.html
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:92e22be6-1db8-4c19-8182-5123da6ab488/oak:1.0::ci:9fceb24e7144ba0aec6ba02101c2f529/aa6ed7bd-99be-3a8b-a025-657a6208d581
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb479a&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - S.A.Av.
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e5836f9a-d82d-4b61-8fdf-037a87475edd/oak:1.0::ci:69b151bf1e00f474a6253dadf43f8b95/2a40daf8-86cf-349b-94c1-6391500fd8d0
+  - richtext.structure_1_1_column
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:11862a68-4dd9-44d0-a9e4-533c67bf3742/oak:1.0::ci:37f804c44fe5e29216e422404f921dcc/9643f0bd-e40b-3387-8ba5-a4951a947622
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:535fe6af-bf33-4baf-a800-453c0afe7d2f/oak:1.0::ci:298c55dc01f9dcdaf3555dec36fb8f5c/7853cf08-9944-320e-af1d-f67653e0355e
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:a63aa96e-1ece-4796-9e50-4ece42e4c05c/oak:1.0::ci:db9b05d92a8cc759db0a98dbf2b6d069/1801674d-5756-3648-b0b3-a7f5ee207a79
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:ba097792-5842-48d2-b55f-74a4aa444004/oak:1.0::ci:5b02a34844e1f609699b83c5012ad796/22f4f71a-796c-329a-8b83-09b2906584ff
+  - santander.com.br.
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b1&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://data.brasil.santander.com.br/ee/v1/open?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47c2&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://data.brasil.santander.com.br.
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a3&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e1aec692-7cfd-4735-8d07-0f032fa72ac5/oak:1.0::ci:fb906b3f72d304fd03a5b7402bc4fa7b/8c3eaa2f-7f26-37d2-a4b6-bea7066c0feb
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b9&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a9&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:b821b652-dedd-49ed-9911-33c88a0c0105/oak:1.0::ci:36c160cdcd0f871e3e5b18c22760a2fd/39a56dc6-b54e-3187-bd53-077d34c4c9ed
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:a250cea6-c0a7-40f2-a7aa-e9cc89064d81/oak:1.0::ci:77c1fcbaee54832387f9a1b358602c2a/91b74d1f-fc5f-3252-9e59-40addf5c9948
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:92f741d1-bbdb-46fe-9a2d-911e8d5e1c3b/oak:1.0::ci:f3e5b19bf548a30af9bcf73b5a165396/98998633-1b7f-3842-b38a-d3befdefdffb
+  - santander.com.br
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:cb4af0f2-5f3d-4741-ba7e-6613326800df/oak:1.0::ci:72a4b97a66ab1fb207900672329f0acb/2e67e9e4-a4c0-3c3d-9b16-d0f163d91ebf
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:aa32c33a-491a-4b80-866d-6ccafc10718b/oak:1.0::ci:e8fdf600c088db892b7582e784148584/ed213628-4409-3c69-b35f-515daf09dd95
+  - https://santander.com.brou
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:6868e5eb-e115-42d7-894b-77eb7669eb21/oak:1.0::ci:aa162a3613a1b00ff29d879e151e25ff/92fa1bb3-ba36-3d29-8819-cba40abb4600
+  - https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:2f5e3a06-8653-4c09-b553-6eaece00b9a6/oak:1.0::ci:1acebc53ebca40b052992a9e10da426f/450c151f-2d36-38e5-a414-5a9de1f32d6a
+
+DECODED TEXT CONTENT:
+------------------------------
+Comece agora a ser Free com Santander.
+            
+        
+        
+        
+            Comece agora a ser Free com Santander.  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
+            
+                
+                    
+            
+                            
+                        
+        
+
+            
+                            
+                        
+        
+
+                
+                  
+                        
+                          
+                                
+                          
+
+                            
+                               Olá,
+                            
+
+                            
+                                
+                            
+                        
+                  
+                
+            
+
+            
+                            
+                        
+        
+
+
+            
+                            
+                        
+        
+
+            
+                    
+                        
+                             
+                                                        
+                                                    
+
+
+                                                
+                                                    
+                                                
+                                            
+
+ 
+                                                        
+                                                    
+                        
+                    
+                
+        
+
+            
+                            
+                        
+        
+
+            
+                            
+                        
+        
+
+            
+                            
+                        
+        
+
+            
+                    
+                        
+                             
+                                                        
+                                                    
+
+
+                                                
+                                                    
+                                                
+                                            
+
+ 
+                                                        
+                                                    
+                        
+                    
+                
+        
+
+            
+                            
+                        
+        
+
+            
+                            
+                        
+        
+               
+     
+    
+  
+                    
+                      ESTAMOS CONECTADOS 24 HORAS, 7 DIAS POR SEMANA
+                    
+    
+  
+     
+    
+    
+      Fale com a gente | Clique aqui para ver nossos canais de contato.
+    
+    
+                     
+                  
+    
+      
+        
+          
+             
+            Siga nossas redes sociais
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+            
+             
+          
+        
+      
+    
+   
+                     
+                  
+    
+      Sujeito a análise e aprovação de crédito.
+    
+     
+              
+                
+                  
+                     
+                  
+                  
+                    
+                              
+                    
+                  
+                  
+                    
+                      
+                      1 - Nosso remetente sempre conterá cliente@santander.com.br.
+                      2 - Nossos links sempre começam com https://santander.com.brou https://data.brasil.santander.com.br.
+                      3 - Nós nunca solicitamos informações pessoais ou senhas em nossas comunicações. Caso você receba algo duvidoso,encaminhe para suspeita@santander.com.br. 
+                    
+                  
+                  
+                     
+                  
+                
+              
+            
+          
+                    
+                      Se você não deseja mais receber e-mails como este, descadastre-se aquiBanco Santander (Brasil) S.A.Av. Pres. Juscelino Kubitschek - 2041/2235, Vila Olímpia - São Paulo/SP.
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="content-version" content="3.3.23"><meta name="x-apple-disable-message-reformatting"><meta name="viewport" content="width=device-width,initial-scale=1.0"><style data-name="default" type="text/css">body{font-family:sans-serif;margin:0 !important;padding:0 !important;background:#FFFFFF;min-width:750px;}td{padding:0;border-collapse:collapse;}th{font-weight:normal;text-align:left;}.acr-fragment,.acr-component{padding:0;}.divider-container{padding:5px 0;font-size:0px;}.text-container p{margin:0;}.image-container{line-height:0;}.acr-tmp-component img,.image-container img{height:auto;}.button-container a{text-decoration:none;color:inherit;}.acr-structure{background-size:auto;background-repeat:no-repeat;}.structure__table{table-layout:fixed;margin:0 auto;border-spacing:0;background-size:auto;background-repeat:no-repeat;mso-table-lspace:0pt !important;mso-table-rspace:0pt !important;}.colspan1,.colspan2,.colspan3,.colspan4,.colspan33,.colspan66{background-size:auto;background-repeat:no-repeat;box-sizing:border-box;}.colspan1{width:100%;}.colspan2{width:50%;}.colspan3{width:75%;}.colspan4{width:25%;}.colspan33{width:33%;}.colspan66{width:66%;}.component-social-container{width:100%;text-align:center;}span.preheader{display:none !important;visibility:hidden;mso-hide:all;opacity:0;}.ExternalClass{width:100%;}.ExternalClass,.ExternalClass p,.ExternalClass span,.ExternalClass font,.ExternalClass td,.ExternalClass div{line-height:100%;}h1,h2,h3,h4,h5{display:block;font-weight:bold;}h1{font-size:24px;margin:19px 0 19px 0;}h2{font-size:24px;margin:20px 0 20px 0;}h3{font-size:19px;margin:19px 0 19px 0;}h4{font-size:16px;margin:21px 0 21px 0;}h5{font-size:13px;margin:22px 0 22px 0;}h6{font-size:11px;margin:25px 0 25px 0;}.mso-is-desktop-hidden,.mso-is-desktop-hidden table{mso-hide:all;}@media screen and (min-width: 500px){.is-desktop-hidden{display:none !important;}.is-desktop-visible{display:block !important;}.is-mobile-visible{display:none !important;}}</style><style data-name="media-default-max-width-500px" type="text/css">@media screen and (max-width: 500px){body{width:100% !important;min-width:0px !important;}.structure__table{width:100%;}.colspan1,.colspan2,.colspan3,.colspan4,.colspan33,.colspan66,.colspan-n{display:block !important;min-width:100%;}.container-small-size .colspan1,.container-small-size .colspan2,.container-small-size .colspan3,.container-small-size .colspan4,.container-small-size .colspan33,.container-small-size .colspan66,.container-small-size .colspan-n{display:table-cell !important;width:100% !important;}.is-mobile-hidden{display:none !important;}.is-mobile-visible{display:block !important;}.is-desktop-visible{display:none !important;}}</style><!--[if gte mso 9]><style acrite-mso-css="true">.image-container div {  display: block;}.structure__table td {  padding: 0;  border: none;}.button-container {  border: none !important;  padding: 0 !important;  margin: 0 !important;  line-height: normal !important;}.acr-structure {  margin: 0 !important;}.acr-component {  margin: 0 !important;}.acr-fragment {  margin: 0 !important;}.colspan1, .colspan2, .colspan3, .colspan4, .colspan33, .colspan66 {  box-sizing: border-box !important;}.divider-mso-hidden {  border: none !important;}</style><![endif]--></head><body class=""><div class="acr-container"><div class="acr-structure" data-structure-id="1-1-column" data-structure-name="richtext.structure_1_1_column"> <table class="structure__table" align="center" cellpadding="0" cellspacing="0" border="0" width="750"> <tbody> <tr> <th class="colspan1"><div class="acr-fragment acr-component" data-component-id="html" data-contenteditable="true">
+        
+        
+        
+            <title>Comece agora a ser Free com Santander.</title>
+            
+        
+        
+        
+            <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;">Comece agora a ser Free com Santander. &nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;‌&nbsp;</div>
+            <table width="596" cellpadding="0" cellspacing="0" border="0" align="center" id="main-table">
+                <tbody>
+                    <tr>
+            <td width="596" height="79" bgcolor="#ffffff" border="0">
+                            <img width="596" height="79" style="border:0px;display:block;" class="is-highlight" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:99a2c1e5-3e2a-4d84-a60d-eb3e64ea83d8/oak:1.0::ci:abc0609778d4f945f1d364a6d83544c1/1c5a5209-422c-3f05-9e4c-f7265ee55035">
+                        </td>
+        </tr>
+<tr>
+            <td width="596" height="38" bgcolor="#ffffff" border="0">
+                            <img width="596" height="38" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:6868e5eb-e115-42d7-894b-77eb7669eb21/oak:1.0::ci:aa162a3613a1b00ff29d879e151e25ff/92fa1bb3-ba36-3d29-8819-cba40abb4600">
+                        </td>
+        </tr>
+<tr>
+                <td width="596" bgcolor="#FFFFFF">
+                  <table width="596" cellpadding="0" cellspacing="0" border="0" style="margin:0;font-family:Arial, Helvetica, sans-serif;font-size:24px;color:#FFFFFF;text-align:left;font-weight:bold;">
+                        <tbody><tr>
+                          <td border="0" width="96" height="56" bgcolor="#FFFFFF">
+                                <img width="96" height="56" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:b821b652-dedd-49ed-9911-33c88a0c0105/oak:1.0::ci:36c160cdcd0f871e3e5b18c22760a2fd/39a56dc6-b54e-3187-bd53-077d34c4c9ed">
+                          </td>
+
+                            <td width="403" height="56" bgcolor="#000000" border="0" valign="bottom">
+                               Olá,
+                            </td>
+
+                            <td border="0" width="97" height="56" bgcolor="#FFFFFF">
+                                <img width="97" height="56" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c698fd6a-2b6b-4d59-a6d2-76f0f56518f9/oak:1.0::ci:037fbbdb154a11ebcc585e1e2ec18956/39343229-b2f0-39c0-9dfa-439208a30ef3">
+                            </td>
+                        </tr>
+                  </tbody></table>
+                </td>
+            </tr>
+<tr>
+            <td width="596" height="387" bgcolor="#ffffff" border="0">
+                            <img width="596" height="387" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c777c89c-6630-4a34-9a6a-a9667408d090/oak:1.0::ci:bd886dad68532b6e59d1fae7749daf85/913a0279-62ce-36bf-8acc-efc03aa12cab">
+                        </td>
+        </tr>
+
+					<tr>
+            <td width="596" height="517" bgcolor="#ffffff" border="0">
+                            <img width="596" height="517" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:c12952c1-5769-4daf-b644-5b1a6b623247/oak:1.0::ci:e3c700426c5ab1b9b5f73be2d250fbef/4f2a63c1-9e2d-3b6a-bc0b-b42a86cd428e">
+                        </td>
+        </tr>
+					<tr>
+            <td width="596" bgcolor="#ffffff" border="0">
+                    <table width="596" cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td width="95" height="64" bgcolor="#000000" border="0"> 
+                                                        <img width="95" height="64" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:9a8fbbd4-581b-4dd5-b1fb-44b9f758a2af/oak:1.0::ci:f05e9692a9c1991b408f68dbcdfad73d/3a57c01c-8a20-3936-b37b-cd4226a57fe6">
+                                                    </td>
+
+<td width="404" height="64" bgcolor="#000000" border="0">
+                                                <a target="_blank" data-nl-type="externalLink" style="text-decoration:underline;" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb479a&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009">
+                                                    <img width="404" height="64" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:feb8adf2-3bf1-4346-9414-aa86a354920e/oak:1.0::ci:1804ae94c269de015c51165f6138d2f7/faeacf1e-d84a-3919-b846-79d27719c42d">
+                                                </a>
+                                            </td>
+
+<td width="97" height="64" bgcolor="#000000" border="0"> 
+                                                        <img width="97" height="64" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:2f5e3a06-8653-4c09-b553-6eaece00b9a6/oak:1.0::ci:1acebc53ebca40b052992a9e10da426f/450c151f-2d36-38e5-a414-5a9de1f32d6a">
+                                                    </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+        </tr>
+<tr>
+            <td width="596" height="189" bgcolor="#ffffff" border="0">
+                            <img width="596" height="189" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:ba097792-5842-48d2-b55f-74a4aa444004/oak:1.0::ci:5b02a34844e1f609699b83c5012ad796/22f4f71a-796c-329a-8b83-09b2906584ff">
+                        </td>
+        </tr>
+<tr>
+            <td width="596" height="410" bgcolor="#ffffff" border="0">
+                            <img width="596" height="410" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:cb4af0f2-5f3d-4741-ba7e-6613326800df/oak:1.0::ci:72a4b97a66ab1fb207900672329f0acb/2e67e9e4-a4c0-3c3d-9b16-d0f163d91ebf">
+                        </td>
+        </tr>
+<tr>
+            <td width="596" height="482" bgcolor="#ffffff" border="0">
+                            <img width="596" height="482" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:06d58325-4061-40ca-a57b-4adfa76155ae/oak:1.0::ci:03aadcb9e3a7d5a52d862c21605522a7/c04749b1-dbc2-3a16-afc1-394366ac823c">
+                        </td>
+        </tr>
+<tr>
+            <td width="596" bgcolor="#ffffff" border="0">
+                    <table width="596" cellpadding="0" cellspacing="0" border="0">
+                        <tbody><tr>
+                            <td width="96" height="66" bgcolor="#000000" border="0"> 
+                                                        <img width="96" height="66" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:535fe6af-bf33-4baf-a800-453c0afe7d2f/oak:1.0::ci:298c55dc01f9dcdaf3555dec36fb8f5c/7853cf08-9944-320e-af1d-f67653e0355e">
+                                                    </td>
+
+<td width="405" height="66" bgcolor="#000000" border="0">
+                                                <a target="_blank" data-nl-type="externalLink" style="text-decoration:underline;" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb479a&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009">
+                                                    <img width="405" height="66" style="border:0px;display:block;" class="is-highlight" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e5836f9a-d82d-4b61-8fdf-037a87475edd/oak:1.0::ci:69b151bf1e00f474a6253dadf43f8b95/2a40daf8-86cf-349b-94c1-6391500fd8d0">
+                                                </a>
+                                            </td>
+
+<td width="95" height="66" bgcolor="#000000" border="0"> 
+                                                        <img width="95" height="66" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:11862a68-4dd9-44d0-a9e4-533c67bf3742/oak:1.0::ci:37f804c44fe5e29216e422404f921dcc/9643f0bd-e40b-3387-8ba5-a4951a947622">
+                                                    </td>
+                        </tr>
+                    </tbody></table>
+                </td>
+        </tr>
+<tr>
+            <td width="596" height="98" bgcolor="#ffffff" border="0">
+                            <img width="596" height="98" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:ee4407a2-1c2c-4364-bdd6-fd395ac432b2/oak:1.0::ci:6e6e6cb1093f4674b706091661de4827/e2bb49f1-c416-3c25-b7b7-2e47e23725e0">
+                        </td>
+        </tr>
+<tr>
+            <td width="596" height="140" bgcolor="#ffffff" border="0">
+                            <img width="596" height="140" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:92e22be6-1db8-4c19-8182-5123da6ab488/oak:1.0::ci:9fceb24e7144ba0aec6ba02101c2f529/aa6ed7bd-99be-3a8b-a025-657a6208d581">
+                        </td>
+        </tr>
+               <tr>
+	    <td height="30">&nbsp;</td>
+    </tr>
+	  <tr>
+                    <td align="center" style="font-size:0px;padding:0px;word-break:break-word;">
+                      <div style="font-family:arial;font-size:16px;font-weight:bold;line-height:1;text-align:center;color:#6D7278;">ESTAMOS CONECTADOS 24 HORAS, 7 DIAS POR SEMANA</div>
+                    </td>
+    </tr>
+	  <tr>
+	    <td height="25">&nbsp;</td>
+    </tr>
+    <tr>
+      <td style="font-family:arial;font-size:15px;color:#6D7278;" width="594" height="40" align="center" valign="top"><strong>Fale com a gente |</strong> <a style="color:#6D7278;" target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a3&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><strong>Clique aqui</strong></a> para ver nossos canais de contato.</td>
+    </tr>
+    <tr>
+                    <td style="border-top:1px solid #767676;" height="22">&nbsp;</td>
+                  </tr>
+    <tr>
+      <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody>
+          <tr>
+            <td width="41" height="33">&nbsp;</td>
+            <td style="font-family:arial;font-size:15px;color:#6D7278;" width="214" height="33"><strong>Siga nossas redes sociais</strong></td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a6&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="33" height="33" alt="whatsapp" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:92f741d1-bbdb-46fe-9a2d-911e8d5e1c3b/oak:1.0::ci:f3e5b19bf548a30af9bcf73b5a165396/98998633-1b7f-3842-b38a-d3befdefdffb"></a></td>
+            <td width="10" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47a9&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="32" height="33" alt="instagram" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e75451a9-0310-48ae-8dcc-4a545f75c498/oak:1.0::ci:c836f9178c30986bf5ff23c886d62129/2c0fb091-edcf-3dd4-85a7-bcd5dfc666e2"></a></td>
+            <td width="12" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47ac&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="33" height="33" alt="facebook" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:a250cea6-c0a7-40f2-a7aa-e9cc89064d81/oak:1.0::ci:77c1fcbaee54832387f9a1b358602c2a/91b74d1f-fc5f-3252-9e59-40addf5c9948"></a></td>
+            <td width="12" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b1&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="34" height="33" alt="youtube" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:aa32c33a-491a-4b80-866d-6ccafc10718b/oak:1.0::ci:e8fdf600c088db892b7582e784148584/ed213628-4409-3c69-b35f-515daf09dd95"></a></td>
+            <td width="10" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b3&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="33" height="33" alt="linkedin" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:e1aec692-7cfd-4735-8d07-0f032fa72ac5/oak:1.0::ci:fb906b3f72d304fd03a5b7402bc4fa7b/8c3eaa2f-7f26-37d2-a4b6-bea7066c0feb"></a></td>
+            <td width="12" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b6&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="34" height="33" alt="twitter" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:a63aa96e-1ece-4796-9e50-4ece42e4c05c/oak:1.0::ci:db9b05d92a8cc759db0a98dbf2b6d069/1801674d-5756-3648-b0b3-a7f5ee207a79"></a></td>
+            <td width="12" height="33">&nbsp;</td>
+            <td><a target="_blank" class="" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47b9&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009"><img width="34" height="33" alt="tiktok" style="border:0px;display:block;" class="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:9287ea96-3137-47fc-9641-c7437729479a/oak:1.0::ci:158d28d16ec8c58be67290726b878290/4eb38c7d-84f1-3b69-8d7e-0acfad0bfb3a"></a></td>
+            <td width="40" height="33">&nbsp;</td>
+          </tr>
+        </tbody>
+      </table></td>
+    </tr>
+   <tr>
+                    <td style="border-bottom:1px solid #767676;">&nbsp;</td>
+                  </tr>
+    <tr>
+      <td width="594" height="100" style="font-family:Arial, Helvetica, sans-serif;font-size:14px;text-align:left;color:#414042;font-weight:normal;margin:0px;padding:0 40px 0 40px;">Sujeito a análise e aprovação de crédito.<br><br><br></td>
+    </tr>
+     <tr>
+              <td border="0" bgcolor="#FFFFFF"><table width="519" border="0" align="center" cellpadding="0" cellspacing="0">
+                <tbody>
+                  <tr>
+                    <td style="border-top-left-radius:10px;border-top-right-radius:10px;" align="center" bgcolor="#EC0000">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td align="center" bgcolor="#EC0000" style="width:149px;height:49px;">
+                              <img alt="Segurança" class="" width="93" height="31" style="" src="https://cdn.brasil.santander.com.br/73a1324d-ab37-467d-a132-4dab37f67d16/urn:aaid:aem:85090ccf-c769-4786-b54d-d4933770ff85/oak:1.0::ci:71cb8efbee1e1cd7d7508a7c24c90600/4ced7e32-6cc9-31a2-ac55-ac97682b990b">
+                    </td>
+                  </tr>
+                  <tr>
+                    <td align="center" bgcolor="#EC0000">
+                      <div style="font-family:arial;font-size:15px;font-weight:normal;line-height:20px;text-align:center;color:#FFFFFF;"><br>
+                      <strong>1 -</strong> Nosso remetente sempre conterá <strong>cliente@santander.com.br.</strong><br><br>
+                      <strong>2 -</strong> Nossos links sempre começam com <strong>https://santander.com.br</strong><br>ou&nbsp;<span style="font-weight:700;">https://data.brasil.santander.com.br</span><strong>.</strong><br><br>
+                      <strong>3 -</strong> Nós nunca solicitamos informações pessoais ou senhas em nossas comunicações. <br><br>Caso você receba algo duvidoso,<br>encaminhe para <a style="text-decoration:none;color:#FFFFFF;" href="mailto:suspeita@santander.com.br" target="_blank" class=""><strong>suspeita@santander.com.br</strong></a>. </div>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="border-bottom-left-radius:10px;border-bottom-right-radius:10px;" height="30" bgcolor="#EC0000">&nbsp;</td>
+                  </tr>
+                </tbody>
+              </table></td>
+            </tr>
+          <tr>
+                    <td height="160" align="center">
+                      <div style="font-family:arial;font-size:15px;font-weight:normal;line-height:20px;text-align:center;color:#414141;"><span style="color:rgb(105, 105, 105);">Se você não deseja mais receber e-mails como este, descadastre-se&nbsp;</span><a data-nl-type="optOut" _href="https://prod-publish-aem.santander.com.br/content/santander-spa-first/confirmacacao-de-optout.html" class="" style="background-color:rgb(255, 255, 255);text-decoration-line:none;" href="https://data.brasil.santander.com.br/ee/v1/click?params=v1.opHLOOx7xS2MVribhEjA3BvlW24k6PSenc9udFcg9hVdMHq4P_y2aQzJI5mcRWS3otZJoL9APy0eNaatoQcdxXz7OZ5b4rkFaWKvtDhbBH0lNTOHH1oBntNr91O96MRVF-bKZGAWoK1LoDFM1qZX5ZSkPTUM41ZfjFv3Wv9YV3z0TT9Fhy3OKQkK78P14_IFeIVwVUwsJw5h1SIXEl8LGQSsvPN9D3fBG9TnS3LbnoSpjieWK92FAse1rGuhWgxAtbHQDkSv6XAtCK4x_X-0wCObPtGVg2zuKMV34xM1ay7nIVQqaQSU7iI1sJqTw0PPKW_Lsb_xB1qfsJKasOKsQueBj46nK5byP0jKebS4Taw_0f9_omAFTFNn1K1in1CHp-FbC9eJrXa5c-MBFsGsPnA78dfxY-koxK4b16BVGUtpk6x4LW7gH4x-mwazhXawCmooq7AsTG7sdq8wroh7iJv7v2NobmBSh-u8uCdsLwOX2lQunaUbASpAJqAIQX2GjZv6XqThyxU0nIARsojCoptkwSJAGJdSKrjm3X25AwpwSAXRs7iBUcBLKlSvbDhw2r1jgvdTvGbKNc1beKPOLv6lpaFqXyKK6evDHeg67WiaFncgq8_EvPQd3HAJ8eGAsiUFkFcq4P-6gmkyy6LFh99vjgcpxpxirvbyxk5RR7l_JG5MIEE&amp;pid=v1.U1s9AnvdNpTAnjcdRCtuY66WycdGILRbD0yUD8bc8Wsl7I9NE1fIZOdyYXW48dERQ9gTFzZwCPl3O6KLIdFigPcSh611ibcCLbHkMHZ4zn-d0_qSQz2DdsNZuvOCL5OvQyjBnFcpldbhzY1fkGriRcNihNNyFcBFPFgw67RP1ORtN-bHf8AW1IA&amp;tuid=676d6fa7ec8c8c644acb47bc&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009">aqui</a><br><br><strong>Banco Santander (Brasil) S.A.</strong><br>Av. Pres. Juscelino Kubitschek - 2041/2235, Vila Olímpia - São Paulo/SP.</div>
+                    </td>
+    </tr>
+      </tbody>
+    </table>
+
+
+</div></th> </tr> </tbody> </table> </div> </div><img src="https://data.brasil.santander.com.br/ee/v1/open?params=v1.uqWfEMMi3_XequBhy2Jtz9JickrDiun4sRMl3DNU3kmIwKUVhd7__sT28D51w7_Cgpg3q5vAqM2aLoadTdvTG_cT-GjYp93veQ5I19TNvT5BNpkXd2woB_iSGElnOFwN5c9WIJxbuDaMR8KfRovfa1lLyxcwVyA-n4HslJXYFaqVv2uGIKmbTifzNoZiDJ4Lmb8GiDD8R-1tN8w9zLY4qw8oVBNTMSm5knpMmFmC8YJ_mf-7v8uVKyxBF4fWK9xSGVw_iUxTkyWcJzJ-CT9sKbt2-y1elimHujR_ipExSx8AYnSTJHE-ykK4A0JjmyP-jQFqx8HcifQalCJRFC8MA_AHkPr_Kh9eQ6pN20YnUkurZO-GRddHSMZkx5J0kfXUrPrO-_GY3b3qvtdBvPTMSWqaInU0oQ2J4bhbMAHfliL0tfFnWs5IufitBA5UsMeDgaNbYgOxV-XSafn_6UuOOzVr0eFPKc4&amp;pid=v1.VzgQkhEsNxy2gLr56V9j9YP1VWCaP5sdvBxF-b0IcjrsYvaoLsfLP7ZjvOKOmqHZ33MonP4aJbIFtiyyD1H1uWWR3GBXLQpiOExk2s6dH6forn6tek4peyyJ7wdF&amp;tuid=676d6fa7ec8c8c644acb47c2&amp;configId=62c48bb2-f90e-426a-ab21-6c3fd746e009" width="1" height="1"></body></html>

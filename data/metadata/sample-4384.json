@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Nach dem Einsprühen müssen Sie nur noch darauf warten, dass Ihr Glied erigiert!",
+    "from": "DIE Lösung! Endlich!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Nov 2024 09:12:03 +0100",
+    "message_id": "<uoARiby.0.0.uoARiby.9.uoARiby@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      ".imgtable.btnset",
+      "https://i.goopics.net/omyupj.png",
+      "https://bit.ly/3ZeDqJa#oop/20575_md/1/5079/805/63/160880",
+      "https://i.goopics.net/uxb42e.png",
+      "http://www.w3.org/1999/xhtml",
+      "i.goopics.net/uxb42e.png",
+      "https://bit.ly/3ZeDqJa#cl/20575_md/1/5079/805/63/160880",
+      "i.goopics.net/omyupj.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1928,
+    "html_length": 17454,
+    "has_text": true,
+    "has_html": true
+  }
+}

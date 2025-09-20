@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "📑Monthly Payable Summaries Now Available Thursday, March 16, 2023",
+    "from": "\"no-reply@notifications.app.Mrv\" <nicoles@wmiworldwide.com>",
+    "to": "Junia Galvão <junia@mrv.com.br>",
+    "date": "Fri, 17 Mar 2023 08:44:59 +0000",
+    "message_id": "<20f082f4-481f-e2db-5c29-849c89f6e5b3@wmiworldwide.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_20f082f4481fe2db5c29849c89f6e5b3wmiworldwidecom_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_20f082f4481fe2db5c29849c89f6e5b3wmiworldwidecom_\""
+  },
+  "attachments": [
+    {
+      "filename": "📑Monthly Payable.htm",
+      "content_type": "application/octet-stream",
+      "size": 3079266
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mrv.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 802,
+    "html_length": 987,
+    "has_text": true,
+    "has_html": true
+  }
+}

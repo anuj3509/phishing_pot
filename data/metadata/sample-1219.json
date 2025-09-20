@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Fwd: Dear friend",
+    "from": "Miss Stella Rose <sistermarymary22@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Fri, 01 Sep 2023 22:38:28 +0100",
+    "message_id": "<CAOYj_OyUgOB=TkQkqxRd=bdM9GBkLr9csgHZjVu9H4pS2Nku2A@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------3d90c895ed9bcef6f0480b0ac3159642"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------3d90c895ed9bcef6f0480b0ac3159642"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Mr.Paul",
+      "Country.Please",
+      "contact.Director:",
+      "account.But",
+      "outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2115,
+    "html_length": 2603,
+    "has_text": true,
+    "has_html": true
+  }
+}

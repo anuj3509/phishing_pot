@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Your Wallet has been temporarily suspended",
+    "from": "Blockchain.com <infoewb@eneco.be>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 25 Feb 2023 00:22:07 +0100",
+    "message_id": "<95be116185a3b72f50e8a3f1931411d8@localhost>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"------=_Part_95be116185a3b72f50e8a3f1931411d8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"------=_Part_95be116185a3b72f50e8a3f1931411d8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "suspended account"
+    ],
+    "urls": [
+      "https://eneco.be/nl/crowdlending",
+      "https://eneco.be/nl/privacybeleid",
+      "https://eneco.be/nl/disclaimer",
+      "https://mandrillapp.com/track/click/30195602/holksuhr.americommerce.com?p=eyJzIjoidEdnUVNoZ0NVenF6cHB6TXQwTGdUaXItNWRZIiwidiI6MSwicCI6IntcInVcIjozMDE5NTYwMixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2hvbGtzdWhyLmFtZXJpY29tbWVyY2UuY29tXFxcL1NoYXJlZFxcXC9DYWNoZVxcXC9oaWx0YnJ1bm5lcnVycy5odG1sXCIsXCJpZFwiOlwiYjc3MDgwM2Q1ZTJhNDVjNjk5YzNmNzMyNzIxODkzMDhcIixcInVybF9pZHNcIjpbXCJiODExYTJmNTYyYzQ2MzAzZjg0MDg0MTI3OWU1YmJlNmMxMDNhMGEyXCJdfSJ9",
+      "Blockchain.com",
+      "https://theme.zdassets.com/theme_assets/224702/4a992904eec25c88dcddda283baecfb5968c30c6.png",
+      "https://eneco.be/nl/general/data-protection-officer-eneco",
+      "https://cdn.eneco.be/downloads/nl/general/vw/algemene-voorwaarden.pdf",
+      "Blockchain.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1645,
+    "html_length": 13725,
+    "has_text": true,
+    "has_html": true
+  }
+}

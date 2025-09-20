@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Re: Hello",
+    "from": "Domenico Venditti <DVenditti@scamilloforlanini.rm.it>",
+    "to": "Domenico Venditti <DVenditti@scamilloforlanini.rm.it>",
+    "date": "Sat, 1 Feb 2025 23:04:24 +0000",
+    "message_id": "<a2d0c675508c4ba7ba843ca6a9197d2d@scamilloforlanini.rm.it>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_000_a2d0c675508c4ba7ba843ca6a9197d2dscamilloforlaninirmit_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_000_a2d0c675508c4ba7ba843ca6a9197d2dscamilloforlaninirmit_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [
+      "scamilloforlanini.rm.it"
+    ],
+    "suspicious_phrases": [],
+    "urls": [
+      "span.MsoHyperlinkFollowed",
+      "li.msonormal0,",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "div.msonormal0",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "div.WordSection1",
+      "span.EmailStyle18",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "p.msonormal0,",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 57,
+    "html_length": 2212,
+    "has_text": true,
+    "has_html": true
+  }
+}

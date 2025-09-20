@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Claim your 5% discount code now.",
+    "from": "\"Viagra&Cialis-0,36$/0,54$\" <ex.pharmacy.online2@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 14 Nov 2023 14:16:26 +0000",
+    "message_id": "<A7E92054.D9E31D0C@hotmail.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online8@gmail.com?subject=No&amp;body=No,",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=I",
+      ".button.yes",
+      ".button.no",
+      "http://udental.com.cn/f.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4393,
+    "html_length": 7151,
+    "has_text": true,
+    "has_html": true
+  }
+}

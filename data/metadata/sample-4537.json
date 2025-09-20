@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Hi Dear phishing@pot , We have been trying many times to reach you - Please respond!  ",
+    "from": "\"State Farm\"<admin@5stardivebar.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Dec 2024 06:26:58 +0000",
+    "message_id": "<spbdiwxymkuvxoD_4oh143421460315519576220416837579533513689185888042642560671393574648671176511111831588003200842789528282138607674669865782754882096624607758301203186117584423949841530179458213175718.1.4PO7Q3WUB6G45Y0VLG1ISHphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "act now",
+      "expires soon"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://scoutly.online/t/track/3EfLME6461UwRG247rukwgtvkxz143LKRSVMFTDWZEPQY62GNUA14355h18",
+      "https://scoutly.online#5JGZVp6461sJtc247slvfrnblhd143FIBEXSVWBARGUZU62GMCS14355D18",
+      "http://scoutly.online/t/4MHEdA6461DEsN247jtvaznlnnj143BZARGVBMESAOFRK62IEKG14355l18"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1489,
+    "html_length": 3797,
+    "has_text": true,
+    "has_html": true
+  }
+}

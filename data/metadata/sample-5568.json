@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Entrega pendente - EW6Z98T3D4NI",
+    "from": "Pedido.Correios <no-reply25462@%atendimento.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 30 Jun 2025 07:05:20 +1000",
+    "message_id": "<20250629210520.E6271204FD@xasrjfiet-153>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.correios.com.br/fiscalizacao/524116156",
+      "https://noreply-avisosbr.s3.eu-central-1.amazonaws.com/bc/acess.html?KQPH8ETMVM5R",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1081,
+    "html_length": 3538,
+    "has_text": true,
+    "has_html": true
+  }
+}

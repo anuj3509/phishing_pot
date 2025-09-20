@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "We're sending Your Order on Friday, 22 November 2024 Paid",
+    "from": "\"Paid Customer\" <gautampal7351511369@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Thu, 21 Nov 2024 08:50:38 -0800 (PST)",
+    "message_id": "<673f64de.050a0220.2f5f5d.53f1@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============1517998834994584616==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1517998834994584616==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tabinvoice.com/unsubscribe?id=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1290,
+    "html_length": 2214,
+    "has_text": true,
+    "has_html": true
+  }
+}

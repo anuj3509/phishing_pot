@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: seus pontos serao expirados em breve!",
+    "from": "Banco Bradesco <Bradesco@infoemailseguros.com.br>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Thu, 16 Feb 2023 22:43:29 +0000 (UTC)",
+    "message_id": "<20230216224429.200F845CEE@ujr02fvsb.openstacklocal>",
+    "content_type": "multipart/mixed;boundary=---------------------713397a560bc429b3cb8b2f351588934"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------713397a560bc429b3cb8b2f351588934"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://northamerica-northeast1-black-octagon-376806.cloudfunctions.net/function-3"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1104,
+    "html_length": 7979,
+    "has_text": true,
+    "has_html": true
+  }
+}

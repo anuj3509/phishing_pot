@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "[ACTION REQUEST] You have been red flagged for violating our terms",
+    "from": "\"Amazon Help Center\" <amz@fareast.com.sg>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 15 Dec 2023 00:43:28 +0000",
+    "message_id": "<202312150043.82962697325@smtp-relay.mailin.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://chdgiei.r.bh.d.sendibt3.com/tr/cl/qnG4tBmVq19tzYEbgrWgurbK-U5igUbGJRjdDl16xeau5tLddVMryFP5kMpRTtyuGiJZJdFB9T3Z6z7Jw_ELElQ87ALlTVNDP5RqVqzUGW1PzH3ieCa5D1sAwNkhmTarQJQ7pE2TDjnfrZl6eMBlaOlY4mbT6DzoQ6cZ-578ykF1B99I_D-qKtisAwou77ADpeAGIAcB6mBy5Ac2Z3FlFQGujPn34jJTENazuxo8xB9imnlFi_pDf1OzNujwXGrpEv_dUwj7ocdCL1fmhpv0nUG55ozIGyA7PmCZknsCKHoKn-q-RAItF_lKPBUvOVEehjbYZRLbwvv_ph9yF0rnCihdZxa-CA",
+      "https://chdgiei.r.bh.d.sendibt3.com/im/2736848/efa8fa6d687f584a84b74f518d42f2b14e8b9491f2385af03a9162e0f4bc506f.jpg?e=hCxN0IAjZbbeKF3eptTbhV4ltZS3olRqpkx2rIkyngzwTkvBabcW0OBFNCOPm3Hq8_CdddKAD-3pq0nQMg8gqxN3Qr4JQ7_hDMRnxFVMikNszQF81fXjSB_g1A9viIhsIE2xNaodua7Osf8X2Tgs9pNNr2KmGekRXra9lhNQ45sTg4E_ocoiN2OIhwzZK6FjIIx9ar6DNxwJ_Uhyh9_5YmGkTEUBMa1XAHww-r7h07HsVbSvsjhnYWDoQZ6OzYekErWTOzc-DTWrW_fD6fYf6p-7S8nLEJbLfI_k-_zBnqJgCfBXVVpJUIHlJEYPpKX8xFB2QRxM39nKGBY7KhKLWPMKw3xeENHKAkUhw_DrxfGSLqLC6w7LyMj0Q_Rd5mTNw5ZGxrctjDi-WwhXQFEpwuF8980vcIdk6iXoqGKreoVda196N0MX2HxqWdy2M5ywhf7Y-S9Dkz29sQtOSdhc4otxVcQbVLArjGBf_XDeZpi_MynfBVRDNHkWfMHAJ3_M_A1SoSQEmcyDj4pRCiXH87wpOLgMILK-WpHf6fBxNcryhnG1AcchI9BTnXc7PiAck2cDy921tfa1-ck3PsujZp0uO5UXTHRr0LjNjw",
+      "https://chdgiei.r.bh.d.sendibt3.com/im/2736848/43c7a8ba3f8abbb0bd24061990696fc72fcfb26427f968898d1d1d2a37fb7f78.png?e=c6HqFmGH4KRxUVHmQ_4ZT6gv_Xzsi4LsQxic_Kit-o4y-Y4C5pwfH3A-WC1ieQv_WXDLGcoaBzyVfkJ3sBjPbS3G2scbqbCKdi9e_EUGt_MG8Onv5_uO7R_7Uc4eGkGsUYQzteF0KjCKcoWJorFqNs8SDlnhOGQ6MOd_rRMb0AViHZUescB4W-BXldwi0jCu98gGwJrNEvb9STWncpiynHpAQlb54n6pfqCkxRktz3ZfSr3yhaCiQ51O8VgWtzOQVzUnGIVOYAOeu9G1JEjgyKKD0wmcQsJ8W1kETNRE",
+      "http://www.w3.org/1999/xhtml",
+      "table.body",
+      "https://chdgiei.r.bh.d.sendibt3.com/tr/cl/2r5oQPiqs300Xn5MeiDP6HuBwVN82v-Ps0HpKpycncNrBog6eK2IUTFoP4m2VWWNt70cQywCS3UQFAyEDtu5R6vd_9IfD717pHsJ9I8fQW-i9z2x_koEcC1lr9cyeXoImC733mjYkeSxHUWKmCvoirl2mI_CbL58p-2l6-D_nxcgo7setqTrfhYmuGlqo_wR8IuuCGvO9qWMfpGYWIz6mGsbf4KUlpVcWngBL1W0imm1wg-hyS7uYSZzW8baTGCTw0bFi74fZfv5BTcp4ducYe9jZNdu4fCFpJb9-ZaZKVLX0pmArQk5fSQlziFnBZ406TKuQ4F4Q7YGkm6xDnCgFdXAXWKg-w",
+      "AMAZON.COM",
+      "https://chdgiei.r.bh.d.sendibt3.com/im/2736848/4a8f10aadc4f0604542a2bd40dc49eafb457671a2bed5ecd3d267157e5632ae6.gif?e=6MxbowOJn9t6mxKBIYUwGYOYFENzlGdAAOtEDiGkgo9TEuoCFjjCfrGxLgQAaqyXjTNJBcBnJ6rP2YCVKHJkvgoSKMuLaT02O-DrPdO78CDgt9rCcH4fAdpEQHubPPOArNwC-1hzTx5fcld6i4FbdsMgmO9XQb897Jak5zxlCHx8_kZV0789FuJk-BSzx_bPZCMEI76A7FJiYsHVyfZgyEHwLVUIJq7jaxR2PnLYIwP6gEYDdyI00u2z7YiAd0LWhGt1jdsiyuV5KxRxavVyj-hKLbeAIZufpw",
+      "https://chdgiei.r.bh.d.sendibt3.com/tr/op/eXPe6QuIL0roi1kJwPXqOmRq1G36DKeXzqhCm8DH43llD5EiuzGGDIEXXzIfzMjP1KZzK3sB1Q8VPDtt4YDfhSIwT0-lPqSiwRL-ZTN1CVai5VMSeCv8MzdPjrKJOdDVfL1J_iAcF8EmsZHUQRehcGEE22r99S0E8b-5AUHaykJBGmipq537wVfeEjZSTcGUXJksNby6voelOjiE2g4B__Ru18I-rAw"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1656,
+    "html_length": 6381,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Upgrade your email quota NOW! honey@pot",
+    "from": "Proton mail support <contact@windling.me>",
+    "to": "honey@pot",
+    "date": "14 Jun 2023 13:09:20 +0200",
+    "message_id": "<20230614130920.C680D3C80FD0C173@windling.me>",
+    "content_type": "multipart/mixed;boundary=---------------------f5fad6293c90540b9f3a9a756fdd2464"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------f5fad6293c90540b9f3a9a756fdd2464"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://instruingenieria.com/wp-includes/ugoo/general/index.html%23%5B%5B-Email-%5D",
+      "https://urlzs.com/4GDU6#honey@pot",
+      "https://www.google.com/url?"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 395,
+    "html_length": 5166,
+    "has_text": true,
+    "has_html": true
+  }
+}

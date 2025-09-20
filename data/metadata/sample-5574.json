@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Gewinne einen Coca Cola jahresvorrat + Mini K��hlschrank",
+    "from": "Coca Cola One year + Mini fridge <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 17 Jul 2025 09:10:24 -0400",
+    "message_id": "<BMXnBVb.0.0.BMXnBVb.9.BMXnBVb@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_3910754119212399\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_3910754119212399\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://45.88.90.180/cl/1378_md/1/1159/670/1/210122",
+      "http://45.88.90.180/oop/1378_md/1/1159/670/1/210122",
+      "http://www.w3.org/1999/xhtml",
+      "https://0004196561616220042109.s3.ap-south-1.amazonaws.com/coca.png",
+      "http://45.88.90.180/op/1378_md/1/1159/670/1/210122"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1398,
+    "html_length": 7485,
+    "has_text": true,
+    "has_html": true
+  }
+}

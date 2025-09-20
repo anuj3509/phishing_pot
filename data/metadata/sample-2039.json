@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "stevegeche: Oral B iO Series 9 Exclusive Rewards For You. Details inside.",
+    "from": "\"'Oral B iO Series 9'\"<RzGncBGR@zTfSU.us>",
+    "to": "phish@pot",
+    "date": "Fri, 15 Sep 2023 01:22:43 +0200 . 286071244",
+    "message_id": "<650395c3.5d0a0220.bad1.a20bSMTPIN_ADDED_MISSING@mx.google.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "this.style.display=",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/hatrioua/Oral-B.png",
+      "app-Dating-10.css",
+      "https://storage.googleapis.com/hatrioua/hreflink.html#?Z289MSZzMT0xNzAyNDIxJnMyPTI4NjA3MTI0NCZzMz1HTEI=",
+      "https://storage.googleapis.com/hatrioua/hreflink.html#?Z289MiZzMT0xNzAyNDIxJnMyPTI4NjA3MTI0NCZzMz1HTEI=",
+      "https://storage.googleapis.com/hatrioua/Boots-website-logo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 20874,
+    "html_length": 26013,
+    "has_text": true,
+    "has_html": true
+  }
+}

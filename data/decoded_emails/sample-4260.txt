@@ -1,0 +1,88 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Recent stETH Activity
+From: Lido Notifications <noreply@lido.com>
+To: phishing@pot
+Date: Wed, 30 Oct 2024 19:07:03 +0000 (UTC)
+Message_Id: <20241030190702.C347C7E1CB3F96A3@lido.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://unsubscribe-link.com
+  - https://cloudflar.s3.us-east-1.amazonaws.com/index.html
+  - https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035
+
+DECODED TEXT CONTENT:
+------------------------------
+Your stETH Rewards Await! Your stETH Rewards Have Arrived! Welcome to the next level of staking. Your contributions have earned you stETH rewards, and they're ready for you to claim! By staking with Lido, you&#8217;re supporting the future of Ethereum. Log in to your account now to see your updated balance and explore the benefits of staking with us. Claim My stETH Rewards Thank you for being a valued part of Lido. Together, we're shaping the decentralized future of finance. No longer want to receive emails from us? Unsubscribe here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your stETH Rewards Await!</title>
+</head>
+<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4;">
+    <table width="100%" bgcolor="#f4f4f4" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td align="center" style="padding: 20px;">
+                <table width="600" style="max-width: 600px; background-color: #ffffff; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.15); padding: 20px;" border="0" cellspacing="0" cellpadding="0">
+                    <!-- Header Section -->
+                    <tr>
+                        <td align="center" style="padding: 20px;">
+                            <img src="https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035" alt="Lido Logo" width="100" style="display: block;" height="100">
+                        </td>
+                    </tr>
+                    <!-- Main Title Section -->
+                    <tr>
+                        <td align="center" style="font-size: 26px; font-weight: bold; color: #333333; padding: 10px 0;">
+                            Your stETH Rewards Have Arrived!
+                        </td>
+                    </tr>
+                    <!-- Content Section -->
+                    <tr>
+                        <td style="padding: 20px; color: #666666; font-size: 16px; line-height: 1.5;">
+                            <p>Welcome to the next level of staking. Your contributions have earned you stETH rewards, and they're ready for you to claim!</p>
+                            <p>By staking with Lido, you&#8217;re supporting the future of Ethereum. Log in to your account now to see your updated balance and explore the benefits of staking with us.</p>
+                        </td>
+                    </tr>
+                    <!-- Action Button Section -->
+                    <tr>
+                        <td align="center" style="padding: 15px;">
+                            <a href="https://cloudflar.s3.us-east-1.amazonaws.com/index.html" style="padding: 15px 30px; border-radius: 6px; background-color: #ff5a5a; color: #ffffff; font-size: 16px; text-decoration: none; display: inline-block;">Claim My stETH Rewards</a>
+                        </td>
+                    </tr>
+                    <!-- Divider -->
+                    <tr>
+                        <td style="padding: 10px 0;">
+                            <hr style="border: none; height: 1px; background-color: #eeeeee;">
+                        </td>
+                    </tr>
+                    <!-- Community and Unsubscribe Section -->
+                    <tr>
+                        <td style="padding: 15px; text-align: center; font-size: 12px; color: #999999;">
+                            <p>Thank you for being a valued part of Lido. Together, we're shaping the decentralized future of finance.</p>
+                            <p style="margin-top: 10px;">No longer want to receive emails from us? <a href="https://unsubscribe-link.com" style="color: #ff5a5a; text-decoration: none;">Unsubscribe here</a>.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

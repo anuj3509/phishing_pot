@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Monronee] Login Details
+From: WordPress <wordpress@monronee.com>
+To: phishing@pot
+Date: Wed, 18 Jun 2025 21:42:20 +0000
+Message_Id: <8dqUdIqMSwR7rTffIZ2A7rCk2esJ720QKGz4rKlCk@website-61c39b22.silverfoxmarketingstl.com>
+Content_Type: text/plain; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.gsgvsa.blogspot.ch
+  - http://monronee.com/wp-login.php?login=www.gsgvsa.blogspot.ch%20-%201.330%20BTC%20BINANCE&key=n9f1A55uC3w43CavhfOh&action=rp
+  - http://monronee.com/wp-login.php
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.gsgvsa.blogspot.ch - 1.330 BTC BINANCE
+
+To set your password, visit the following address:
+
+http://monronee.com/wp-login.php?login=www.gsgvsa.blogspot.ch%20-%201.330%20BTC%20BINANCE&key=n9f1A55uC3w43CavhfOh&action=rp
+
+http://monronee.com/wp-login.php
+
+
+

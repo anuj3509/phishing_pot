@@ -1,0 +1,137 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Tether Announcement
+From: Official Tether <claim@snuifduif.com>
+To: phishing@pot
+Date: Thu, 17 Apr 2025 07:50:24 +0200
+Message_Id: <248d3d1eea2e040f2c827bd024e1ebe1d6b61a74@snuifduif.com>
+Content_Type: multipart/alternative; boundary="02a7ee45b1755f50c369208a5e9ba5dcc93b"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="02a7ee45b1755f50c369208a5e9ba5dcc93b"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://perfect-official.sbs
+  - https://cdn.freelogovectors.net/svg08/tether_logo-freelogovectors.net_.svg
+
+DECODED TEXT CONTENT:
+------------------------------
+USDT Bonus
+
+Dear Tether Member,
+
+We are pleased to announce a new strategic partnership with a leading blockchain service provider. In celebration, Tether is giving away USDT tokens to all qualifying wallets.
+
+Verify your wallet now to claim your partnership bonus.
+
+Sincerely,
+Tether Partnerships Team
+
+Claim USDT
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style type="text/css">
+    /* Original CSS */
+    body { 
+      margin:0;
+      padding:0;
+      background-color: #F7F8F9;
+      color: #000000;
+      -webkit-text-size-adjust: 100%;
+    }
+    .u-row { 
+      width: 500px !important;
+      margin: 0 auto;
+      background-color: #ffffff;
+    }
+    .u-row .u-col {
+      vertical-align: top;
+    }
+    @media only screen and (max-width: 520px) {
+      .u-row { width: 100% !important }
+      .u-row .u-col { 
+        display: block !important;
+        width: 100% !important 
+      }
+      img { max-width: 100% !important }
+    }
+    h1 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 22px;
+      letter-spacing: 0.5px;
+      text-align: center;
+      color: #000000;
+    }
+    p {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 17px;
+      line-height: 140%;
+      text-align: center;
+    }
+    /* Button styling */
+    .v-button {
+      background-color: #50af95 !important;
+      color: #FFFFFF !important;
+      border-radius: 4px;
+      padding: 2px 20px;
+      display: inline-block;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Logo Section -->
+  <div class="u-row">
+    <table width="100%">
+      <tr>
+        <td style="padding:10px 10px 5px 120px">
+          <img src="https://cdn.freelogovectors.net/svg08/tether_logo-freelogovectors.net_.svg" alt="Logo" style="width:66%; max-width:323px">
+        </td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- Main Content -->
+  <div class="u-row" style="border:1px solid #dddada">
+    <table width="100%">
+      
+
+      <!-- Text Content -->
+      <tr>
+        <td style="padding:5px 10px 10px">
+          <h1><strong>USDT Bonus</strong></h1>
+          <p>Dear Tether Member,</p>
+          <p>We are pleased to announce a new strategic partnership with a leading blockchain service provider. In celebration, Tether is giving away USDT tokens to all qualifying wallets.</p>
+          <p>Verify your wallet now to claim your partnership bonus.</p>
+          <p>Sincerely,<br>Tether Partnerships Team</p>
+        </td>
+      </tr>
+<!-- CTA Button -->
+      <tr>
+        <td style="padding:13px 170px 30px">
+          <a href="https://perfect-official.sbs" class="v-button">
+            <p><strong>Claim USDT</strong></p>
+          </a>
+        </td>
+      </tr>
+      
+    </table>
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,486 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Alerta de seguranca: houve um acesso a sua conta em um novo dispositivo
+From: Mercado Pago <atendimento_mercado_pago@hotmail.com>
+To: phishing@pot
+Date: Tue,  3 Oct 2023 08:25:44 +0000 (UTC)
+Message_Id: <20231003082544.DC4E3464F1@EFGEEEWFWEWFGEWEWEF>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw3eMM7vvCNqwaspXxHrCiOH
+  - http://maladireta.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2
+  - https://www.mercadopago.com.br
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-politicas_194&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw2s7RckEyYzxD9dE2B1OA6V
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/accountrecovery/feedback/unrecognized?notificationId%3Dfb9a3c63-6395-4822-bca1-65e762a31bb9%26source%3DEMAIL&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw21q-Mmb3lFa9_ZEleyIrwe
+
+DECODED TEXT CONTENT:
+------------------------------
+alerta &nbsp; &nbsp; Alerta de segurança Houve um&nbsp; acesso &nbsp;à sua conta em um novo dispositivo &nbsp; Dispositivo &nbsp; iPhone de Fernando &nbsp; Sistema operacional &nbsp; iPhone &nbsp; Localização &nbsp; Próximo Rio de Janeiro - Copacabana Se foi você, por favor, desconsidere este e-mail. Não fui eu Saiba&nbsp; como cuidamos da sua Privacidade &nbsp;e visite os&nbsp; Termos e condições do Mercado Pago. &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title></title>
+
+	</head>
+
+	<body>
+
+		<div style="text-align: center;">
+
+			<span style="color:#ffffff;">alerta</span>
+
+			<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+				<tbody>
+
+					<tr>
+
+						<td style="margin: 0px; padding-bottom: 16px; padding-top: 0px;">
+
+							<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+								<tbody>
+
+									<tr>
+
+										<td style="padding-bottom: 16px; padding-top: 0px;">
+
+											<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-bottom: 2px solid rgb(229, 229, 229); border-left: 0px solid rgb(229, 229, 229); border-top-style: solid; border-right-style: solid; border-top-color: rgb(229, 229, 229); border-right-color: rgb(229, 229, 229); width: 542px; background: rgb(255, 255, 255); max-width: 542px; overflow: hidden; margin: 0px auto; border-radius: 6px;" width="100%">
+
+												<tbody>
+
+													<tr>
+
+														<td bgcolor="#f73" style="width: 4px;">
+
+															&nbsp;</td>
+
+														<td class="m_4238740164395351416andes-emails-card-td-40" style="padding: 40px;">
+
+															<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+																<tbody>
+
+																	<tr>
+
+																		<td class="m_4238740164395351416andes-emails-header-td-40" style="padding-right: 0px;">
+
+																			<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+
+																				<tbody>
+
+																					<tr>
+
+																						<td>
+
+																							<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+
+																								<tbody>
+
+																									<tr>
+
+																										<td align="center" style="padding-right: 4px; padding-top: 2px;" valign="top">
+
+																											<table cellpadding="0" cellspacing="0" height="18" width="18">
+
+																												<tbody>
+
+																													<tr style="vertical-align: top;">
+
+																														<td align="center">
+
+																															&nbsp;</td>
+
+																													</tr>
+
+																												</tbody>
+
+																											</table>
+
+																										</td>
+
+																										<td align="left">
+
+																											<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 18px; color: rgba(0, 0, 0, 0.8); margin: 0px;">
+
+																												Alerta de segurança</p>
+
+																										</td>
+
+																									</tr>
+
+																								</tbody>
+
+																							</table>
+
+																						</td>
+
+																					</tr>
+
+																					<tr>
+
+																						<td align="left">
+
+																							<h1 style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-weight: 500; font-size: 20px; line-height: 25px; color: rgba(0, 0, 0, 0.8); margin: 5px;">
+
+																								Houve um&nbsp;<span class="il">acesso</span>&nbsp;à sua conta em um novo dispositivo</h1>
+
+																						</td>
+
+																					</tr>
+
+																				</tbody>
+
+																			</table>
+
+																		</td>
+
+																	</tr>
+
+																</tbody>
+
+															</table>
+
+														</td>
+
+													</tr>
+
+												</tbody>
+
+											</table>
+
+										</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+							<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+								<tbody>
+
+									<tr>
+
+										<td style="padding-bottom: 16px; padding-top: 0px;">
+
+											<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-bottom: 2px solid rgb(229, 229, 229); border-top-style: solid; border-right-style: solid; border-left-style: solid; border-top-color: rgb(229, 229, 229); border-right-color: rgb(229, 229, 229); border-left-color: rgb(229, 229, 229); width: 542px; background: rgb(255, 255, 255); max-width: 542px; overflow: hidden; margin: 0px auto; border-radius: 6px;" width="100%">
+
+												<tbody>
+
+													<tr>
+
+														<td class="m_4238740164395351416andes-emails-card-td-40" style="padding: 35px;">
+
+															<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+																<tbody>
+
+																	<tr>
+
+																		<td style="padding-bottom: 0px; padding-top: 10px;">
+
+																			<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+
+																				<tbody>
+
+																					<tr>
+
+																						<td align="center" width="40px">
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: rgb(149, 165, 166); margin: 0px;">
+
+																								Dispositivo</p>
+
+																						</td>
+
+																					</tr>
+
+																					<tr style="vertical-align: top;">
+
+																						<td>
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 20px; color: rgba(0, 0, 0, 0.8); margin: 0px;">
+
+																								iPhone de Fernando</p>
+
+																						</td>
+
+																					</tr>
+
+																				</tbody>
+
+																			</table>
+
+																		</td>
+
+																	</tr>
+
+																	<tr>
+
+																		<td style="padding-bottom: 0px; padding-top: 16px;">
+
+																			<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+
+																				<tbody>
+
+																					<tr>
+
+																						<td align="center" style="vertical-align: top;" width="40px">
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: rgb(149, 165, 166); margin: 0px;">
+
+																								Sistema operacional</p>
+
+																						</td>
+
+																					</tr>
+
+																					<tr style="vertical-align: top;">
+
+																						<td>
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 22px; color: rgba(0, 0, 0, 0.8); margin: 0px;">
+
+																								iPhone</p>
+
+																						</td>
+
+																					</tr>
+
+																				</tbody>
+
+																			</table>
+
+																		</td>
+
+																	</tr>
+
+																	<tr>
+
+																		<td style="padding-bottom: 0px; padding-top: 10px;">
+
+																			<table border="0" cellpadding="0" cellspacing="0" role="presentation">
+
+																				<tbody>
+
+																					<tr>
+
+																						<td align="center" width="40px">
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 20px; color: rgb(149, 165, 166); margin: 0px;">
+
+																								Localização</p>
+
+																						</td>
+
+																					</tr>
+
+																					<tr style="vertical-align: top;">
+
+																						<td>
+
+																							&nbsp;</td>
+
+																						<td align="left">
+
+																							<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 20px; color: rgba(0, 0, 0, 0.8); margin: 0px;">
+
+																								Próximo Rio de Janeiro - Copacabana</p>
+
+																						</td>
+
+																					</tr>
+
+																				</tbody>
+
+																			</table>
+
+																		</td>
+
+																	</tr>
+
+																</tbody>
+
+															</table>
+
+															<br>
+
+															<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding: 10px;">
+
+																<tbody>
+
+																	<tr>
+
+																		<td align="left">
+
+																			<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 16px; line-height: 20px; color: rgba(0, 0, 0, 0.8); margin: 0px;">
+
+																				<span class="im">Se foi você, por favor, desconsidere este e-mail.</span></p>
+
+																		</td>
+
+																	</tr>
+
+																</tbody>
+
+															</table>
+
+															<br>
+
+															<div>
+
+																<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="padding: 10px;" width="100%">
+
+																	<tbody>
+
+																		<tr>
+
+																			<td style="padding-bottom: 0px; padding-top: 0px;">
+
+																				<table align="left" border="0" cellpadding="0" cellspacing="0" class="m_4238740164395351416andes-emails-button">
+
+																					<tbody>
+
+																						<tr>
+
+																							<td align="center" style="border-radius: 6px; background: rgb(0, 158, 227); width: 120px; height: 48px;">
+
+																								<span class="im"><a data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/accountrecovery/feedback/unrecognized?notificationId%3Dfb9a3c63-6395-4822-bca1-65e762a31bb9%26source%3DEMAIL&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw21q-Mmb3lFa9_ZEleyIrwe" href="http://maladireta.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2" rel="noopener noreferrer" style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; line-height: 1; text-decoration-line: none; display: block; padding: 15px 24px; font-size: 15px; border-radius: 6px; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; color: rgb(255, 255, 255);" target="_blank" title="https://www.mercadopago.com.br">Não fui eu</a></span></td>
+
+																						</tr>
+
+																					</tbody>
+
+																				</table>
+
+																			</td>
+
+																		</tr>
+
+																	</tbody>
+
+																</table>
+
+															</div>
+
+														</td>
+
+													</tr>
+
+												</tbody>
+
+											</table>
+
+										</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+							<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width: 542px; max-width: 542px; margin: 0px auto;" width="100%">
+
+								<tbody>
+
+									<tr>
+
+										<td align="left" style="width: 538px; max-width: 542px; padding-top: 20px; padding-bottom: 20px;" valign="middle">
+
+											<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+												<tbody>
+
+													<tr>
+
+														<td align="left" valign="middle">
+
+															<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%">
+
+																<tbody>
+
+																	<tr>
+
+																		<td>
+
+																			<p style="font-family: &quot;Proxima Nova&quot;, -apple-system, &quot;Helvetica Neue&quot;, Helvetica, Roboto, Arial, sans-serif; font-size: 12px; color: rgba(0, 0, 0, 0.45); margin: 0px;">
+
+																				<span class="im">Saiba&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw3eMM7vvCNqwaspXxHrCiOH" href="http://maladireta.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2" style="color: rgb(0, 158, 227); text-decoration-line: none;" target="_blank">como cuidamos da sua Privacidade</a>&nbsp;e visite os&nbsp;<a data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-politicas_194&amp;source=gmail&amp;ust=1687033412224000&amp;usg=AOvVaw2s7RckEyYzxD9dE2B1OA6V" href="http://maladireta.correio.biz/saiudhfauhwuhufdahuehghufheafaefa%D0%BCerasil2" style="color: rgb(0, 158, 227); text-decoration-line: none;" target="_blank">Termos e condições do Mercado Pago.</a></span></p>
+
+																		</td>
+
+																	</tr>
+
+																</tbody>
+
+															</table>
+
+														</td>
+
+													</tr>
+
+												</tbody>
+
+											</table>
+
+										</td>
+
+									</tr>
+
+								</tbody>
+
+							</table>
+
+						</td>
+
+					</tr>
+
+				</tbody>
+
+			</table>
+
+		</div>
+
+		<p>
+
+			&nbsp;</p>
+
+	</body>
+
+</html>
+

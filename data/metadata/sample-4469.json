@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot , 🎉 You’re Just One Step Away from Your New iPhone 15!",
+    "from": "\"Trend'n Daily Rewards\"<admin@vans-schuhe.com.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Nov 2024 03:50:59 +0000",
+    "message_id": "<ipitxsjeosdtiaD_4oh557269040982484769976902936971782432367758747481180230712109966492463801076257454127650552459325367480658384825037701388360179333843321679380153932603460590918118656675737288662911.1.RICMP18BNIKL46XYB9XRTZphnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://0x33c3770d/4QdeOV6127TVoO244dsleglfjxu143NCPNWJIQUGVRRSO62ISPH219D17",
+      "http://0x33c3770d/t/5RtTPj6127ykEK244xbfmopmspg143GQDETBZNYWPLQBA62OCCX219C17",
+      "http://0x33c3770d/t/track/3DmPkf6127GilG244kqgufxwzpu143LPGDHAVXZRXKSPU62BQFC219E17",
+      "http://0x33c3770d/4bFERc6127yhBp244khhvmlbdks143MTPSMLDMITPXJLR62WVTL219i17"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2180,
+    "html_length": 4666,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "SECURITY ALERT! Cleansing Needed!",
+    "from": "Anti Virus - Google Virus Detected  ,_<pbetb@972fbpo03c.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 21 Oct 2023 08:29:11 +0000",
+    "message_id": "\r\n <1e124ae4-b7ba-47cc-ae9f-f931f3a2a5fa@MW2NAM10FT089.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/cyeQUyu.jpg",
+      "https://i.imgur.com/cyeQUyu.jpg",
+      "https://tinyurl.ph/nyipf",
+      "http://dtherhproblem.us/su46250mihzs27537896dfWj1371191UHh67834cPqY3189",
+      "http://vertuoldmuneted.com/track/o46250VSZaM27537896SnoC1371191FTo67834isrF3189",
+      "https://tinyurl.ph/nKbaq"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 300,
+    "html_length": 8739,
+    "has_text": true,
+    "has_html": true
+  }
+}

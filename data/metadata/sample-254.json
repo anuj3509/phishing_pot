@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "ENC: Você tem 342,854 Mil Pontos resgate agora",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:04:24 +0000",
+    "message_id": "\r\n <SA0PR04MB73703432AD9430DA34CBE966B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73703432AD9430DA34CBE966B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73703432AD9430DA34CBE966B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/MsKxYWJ/itaueparceiros.png",
+      "itaucard.com.br",
+      "itaucard.com.br&gt;",
+      "http://ec2-3-138-125-44.us-east-2.compute.amazonaws.com/csdev3/hjngg67/?hash=bWVyY2lheWFubWFjdEBob3RtYWlsLmNvbQ0K"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1164,
+    "html_length": 6662,
+    "has_text": true,
+    "has_html": true
+  }
+}

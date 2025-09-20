@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "CONGRATS__Your Hilton Reward Has Arrived__ Open Immediately!",
+    "from": "Hilton Hotel__Thank You!   ,_<zuxq@lflwfzlvwz.com> ",
+    "to": "phishing@pot",
+    "date": "Mon, 18 Dec 2023 22:59:12 +0000",
+    "message_id": "\r\n <739f8cc8-71ac-424a-8311-1379d9efed80@VI1EUR06FT028.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/luiTgmCkDv",
+      "http://wdeoodlinks.com/rd/u52338bDrAO27539914uKLx1547817mDx70583uCeg3493"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 526,
+    "html_length": 1819,
+    "has_text": true,
+    "has_html": true
+  }
+}

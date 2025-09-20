@@ -1,0 +1,177 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Return to warehouse - Your parcel return to warehouse. GB#8006269098
+From: E͏V͏R͏i͏ N͏o͏t͏i͏f͏i͏c͏a͏t͏i͏o͏n͏ <email.customer.vwgn@delfinul-olimp.ro>
+To: <noreply@customer.mail.evri.com>
+Date: Mon, 5 Aug 2024 17:23:06 +0000
+Message_Id: <7681403881091.224667013682906.0408678511.920494768411@delfinul-olimp.ro>
+Content_Type: multipart/mixed;
+ boundary="inmixAuJmYQ7ZQfprIN2lhAextoRr9YEbL6ltFJlAuig"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+ boundary="inmixAuJmYQ7ZQfprIN2lhAextoRr9YEbL6ltFJlAuig"
+
+ATTACHMENTS:
+--------------------
+- Details Parcel.bJchKSRCfaV91cUM6pJLhonL2yC6UGA32FrFRas7lRU (application/pdf, 0 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://delfinul-olimp.ro
+
+DECODED TEXT CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pengembalian Paket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #444;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+  <div class="x_spacer" style="line-height: 24px; height: 24px;" aria-hidden="true">&nbsp;</div>
+    <div class="container">
+        <table style="background: #ffffff; width: 100%; max-width: 600px; margin: auto; border: 1px solid #CCE5F3; border-radius: 4px;" width="100%" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="x_promo-padding" style="padding: 32px 24px;">
+<div style="font-family: Khalos, serif, EmojiFont; font-size: 50px; line-height: 69px; color: #040d14; text-align: center;"><span style="color: #1578c6;"><strong>EVRi</strong></span></div>
+<div style="font-family: Arial, serif, EmojiFont; font-size: 14px; line-height: 0px; color: #040d14; text-align: center;"><span style="color: #1578c6;"><strong>The new Hermes</strong></span></div>
+<p>&nbsp;</p>
+  <p class="x_mainTitle" style="padding-top: 16px; font-size: 22px; line-height: 19px; font-family: 'Open Sans', OpenSans, Helvetica, Arial, serif, EmojiFont; font-weight: 900; color: #333333; text-align: left;">We Miss You!</p>
+<p style="text-align: left; margin-top: 0; color: #00014d; font-family: Arial; font-size: 16px; font-weight: 400; line-height: 22px;">Your local courier tried to deliver your parcel but you did not seem to be in.</p>
+<p style="text-align: left; margin-top: 0; color: #00014d; font-family: Arial; font-size: 16px; font-weight: 400; line-height: 22px;">There was not a safe place to leave your parcel, so please reschedule a new date for your parcel to be delivered to you.</p>
+<div style="width: 100%; max-width: 100%; display: inline-block; vertical-align: top; text-align: right;"><a class="x_fluid x_button" style="text-decoration: none; display: inline-block; height: 40px; padding: 0 24px; border-radius: 90px; font-family: Arial; font-size: 16px; font-style: normal; font-weight: bold; line-height: 40px; text-align: center; vertical-align: middle; color: #53efef; background-color: #00014d; border: 2px solid #00014D; background-repeat: no-repeat; background-position: 95% center; padding-right: px; min-width: 112px;" href="https://delfinul-olimp.ro" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Reschedule Delivery</a></div>
+  <p style="color: #555555; line-height: 1.6; text-align: left;">Thank you for your cooperation. We look forward to successfully delivering your parcel to you on the rescheduled date.</p>
+<div style="margin-top: 20px; background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; border-radius: 4px; padding: 10px; text-align: left;">
+<p>Note: A small redelivery fee may apply</p>
+</div>
+<p style="color: #555555; line-height: 1.6; text-align: left;">Warm regards,</p>
+<p style="color: #555555; line-height: 1.6; text-align: left;">E͏V͏R͏i͏ Customer Service Team</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+    </div>
+  <div class="x_spacer" style="line-height: 24px; height: 24px;" aria-hidden="true">&nbsp;</div>
+</body>
+</html>
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="id"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pengembalian Paket</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #444;
+        }
+        p {
+            line-height: 1.6;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+  <div class="x_spacer" style="line-height: 24px; height: 24px;" aria-hidden="true">&nbsp;</div>
+    <div class="container">
+        <table style="background: #ffffff; width: 100%; max-width: 600px; margin: auto; border: 1px solid #CCE5F3; border-radius: 4px;" width="100%" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="x_promo-padding" style="padding: 32px 24px;">
+<div style="font-family: Khalos, serif, EmojiFont; font-size: 50px; line-height: 69px; color: #040d14; text-align: center;"><span style="color: #1578c6;"><strong>EVRi</strong></span></div>
+<div style="font-family: Arial, serif, EmojiFont; font-size: 14px; line-height: 0px; color: #040d14; text-align: center;"><span style="color: #1578c6;"><strong>The new Hermes</strong></span></div>
+<p>&nbsp;</p>
+  <p class="x_mainTitle" style="padding-top: 16px; font-size: 22px; line-height: 19px; font-family: 'Open Sans', OpenSans, Helvetica, Arial, serif, EmojiFont; font-weight: 900; color: #333333; text-align: left;">We Miss You!</p>
+<p style="text-align: left; margin-top: 0; color: #00014d; font-family: Arial; font-size: 16px; font-weight: 400; line-height: 22px;">Your local courier tried to deliver your parcel but you did not seem to be in.</p>
+<p style="text-align: left; margin-top: 0; color: #00014d; font-family: Arial; font-size: 16px; font-weight: 400; line-height: 22px;">There was not a safe place to leave your parcel, so please reschedule a new date for your parcel to be delivered to you.</p>
+<div style="width: 100%; max-width: 100%; display: inline-block; vertical-align: top; text-align: right;"><a class="x_fluid x_button" style="text-decoration: none; display: inline-block; height: 40px; padding: 0 24px; border-radius: 90px; font-family: Arial; font-size: 16px; font-style: normal; font-weight: bold; line-height: 40px; text-align: center; vertical-align: middle; color: #53efef; background-color: #00014d; border: 2px solid #00014D; background-repeat: no-repeat; background-position: 95% center; padding-right: px; min-width: 112px;" href="https://delfinul-olimp.ro" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Reschedule Delivery</a></div>
+  <p style="color: #555555; line-height: 1.6; text-align: left;">Thank you for your cooperation. We look forward to successfully delivering your parcel to you on the rescheduled date.</p>
+<div style="margin-top: 20px; background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; border-radius: 4px; padding: 10px; text-align: left;">
+<p>Note: A small redelivery fee may apply</p>
+</div>
+<p style="color: #555555; line-height: 1.6; text-align: left;">Warm regards,</p>
+<p style="color: #555555; line-height: 1.6; text-align: left;">E͏V͏R͏i͏ Customer Service Team</p>
+</td>
+</tr>
+</tbody>
+</table>
+        
+    </div>
+  <div class="x_spacer" style="line-height: 24px; height: 24px;" aria-hidden="true">&nbsp;</div>
+</body>
+</html>
+
+

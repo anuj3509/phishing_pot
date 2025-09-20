@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Último Aviso: Seu pedido esta prestes a voltar ao remetente devido ao não pagamento da taxa alfandegária!",
+    "from": "Correios SA <alfandega132571@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Sep 2024 05:10:09 +0000",
+    "message_id": "<f328f5741d4077b1048662dd8ab65de3@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f328f5741d4077b1048662dd8ab65de3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f328f5741d4077b1048662dd8ab65de3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://clientecorreios-receber-encomenda-internacional.co.ua/rastreamento",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3684,
+    "has_text": true,
+    "has_html": true
+  }
+}

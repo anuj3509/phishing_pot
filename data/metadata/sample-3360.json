@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "💌 Coupon 5%",
+    "from": "\"🌟 Viagra|Cialis-0,36$|0,54$\" <pharma.online.ex1@outlook.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 18 Jun 2024 06:53:39 +0200",
+    "message_id": "T57V4Au8160x63_6435HZd77010I86187Z.8829283762RR747340R-147A9g32lR130@hotmail.com",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      ".button.yes",
+      ".button.no",
+      "ex.pharmacy.online7@gmail.com?subject=Yes&amp;body=I",
+      "http://insighttecnica.com/f.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4656,
+    "html_length": 7678,
+    "has_text": true,
+    "has_html": true
+  }
+}

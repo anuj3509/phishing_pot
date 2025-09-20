@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Cloud Storage",
+    "from": "\"Mail_Inc\" <massin838@gmail.com>",
+    "to": "honey@pot",
+    "date": "Mon, 31 Jul 2023 16:37:38 -0700 (PDT)",
+    "message_id": "<64c845c2.630a0220.fe636.0781@mx.google.com>",
+    "content_type": "multipart/mixed;boundary=---------------------96e7ba018ce44f4ba1abb5eeebd68025"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------96e7ba018ce44f4ba1abb5eeebd68025"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://server-auth-protonme.webflow.io/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 250,
+    "html_length": 394,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Dringend f��r phishing@pot, Car Emergency Kit Versanddetails",
+    "from": "\"Shell  VIP-Einladung\" <Department-client-n64096@alhayatschool.mail.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 21 Feb 2025 15:13:35 +0000",
+    "message_id": "<f570eb20-0d30-46aa-9d1d-da12a3fbbe5b@DB1PEPF000509F8.eurprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://i.imgur.com/PSFoKO8.png",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/PSFoKO8.png",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgur.com/AFizkbn.jpeg",
+      "https://lmy.de/gRbwN?Z8FoeAymiE0JOCilbpMEd0Jb0PpYEvgpT953fOqI9pZJaoa6SIkJ1wyNSVhZZhblZxPFlLUE6RFZ16hYF0hZ7o",
+      "https://privacy.microsoft.com/en-GB/privacystatement",
+      "upload.wikimedia.org/wikipedia/en/thumb/e/e8/Shell_logo.svg/1200px-Shell_logo.svg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7170,
+    "html_length": 22143,
+    "has_text": true,
+    "has_html": true
+  }
+}

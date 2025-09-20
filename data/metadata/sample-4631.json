@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Action Required: Ledger Data Breach – Check Your Recovery Phrase Case: 343650",
+    "from": "Recovery Support <noreply@info.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Dec 2024 10:02:10 +0000 (UTC)",
+    "message_id": "<20241228100210.932EB0A3D9EEC84D@info.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_83F30355.79B8154D\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_83F30355.79B8154D\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://u6520814.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWtt6s-2FMmnKtnaE1ZXl1gNH-2Bfwc4sVye4BusO0DpXXt2c-2B-2FVZPRZriytHwKvv5-2BDQJ1yoFCTimbpRdOhtMFeCF2Wh634Fg3qYg1s-2B25NbOpFckgY-2FtWMnBPV1MeOmngBfbggvWvjomXBmCMbXPlI9OegEmmgXrAwzvUkjNzc7iuFPxpqHSxuzFz8B1emZuRI64-3D.",
+      "https://u6520814.ct.sendgrid.net/ls/click?upn=u001.ivRj2VOlDVozWqDVBBKjeqDsdL3iNlTOzcZCzO0CxvWXUHgcmBR0VfcSwokQMMmu6162DTuvGj0b3vHPfRp2VbRmTMugEG3wD5Zg8d8l048-3D4CD__CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcucx1zlHIoJEhAWXCjhohXgCR0o04Wjy-2BqNNWME4YWSHHlgCtDzpkKRBnvghsuobwRphTTft-2FqStplySgEtAVEVV4RrdIQBsy5Gkwpcjq4WqtwAtqKK9R-2Frjez-2Bw90LrkkeBjwYpPKS7affvMOSSKIOIg4W9YH7Djb60KwGd4t1Mw-3D-3D",
+      "https://u6520814.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWtt6s-2FMmnKtnaE1ZXl1gNH-2Bfwc4sVye4BusO0DpXXt2U4Oj2NfvFmqYxr4O846N-2FCl-2B-2BU6Ll36LcM4aSuISDUDRPh9rHhAxIx-2B-2BAlIjjgaMFx2yqW4bNhkvJN-2FCogvOHPykg9CFqfRbLuEOeuBUKOgZeE2ki3ru7evJORU42kRc4vUArqGrdtqWfLV9KQ-2FOc4-3D",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png",
+      "https://u6520814.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWtt6s-2FMmnKtnaE1ZXl1gNHa0L1H4OmEZlliT6RxPCAeGKPFQpCMxNHqOhLbNB1wZm2tPd1R9MLtqCTgJQBSBDZz6pI9hRFzNRwJ4k8LtxAw-2F5ZkiRS1N3yt7tESoh2cVBrGqNPZQzRrs7hSxRN7X9mPkT-2FWhnKFdlNMAmz3PH1Hg-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 400,
+    "html_length": 5478,
+    "has_text": true,
+    "has_html": true
+  }
+}

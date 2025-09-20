@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "congrats, you've been selected ",
+    "from": "Kohls - Thank You!    ,_<sym7z@96eua96p9g.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 08:14:25 +0000",
+    "message_id": "\r\n <90de81ab-7683-4966-b43c-cb7928927b8f@MW2NAM04FT037.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "confirm",
+      "expires today"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/Qtpjkm8.jpg",
+      "https://t.co/3Zub7DU1r7",
+      "https://i.imgur.com/Qtpjkm8.jpg",
+      "https://t.co/QSQCEvSNK9",
+      "http://dtherhproblem.us/su47456YpoBV27537896Tdrw1371191yIB68981oSfw3218"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 417,
+    "html_length": 8709,
+    "has_text": true,
+    "has_html": true
+  }
+}

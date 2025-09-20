@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "\"���� Auf Ihrem Ger��t wurden mehrere Viren erkannt!\"",
+    "from": "Microsoft-support <noreply@kaufland-online.de>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 19 Mar 2025 18:05:07 +0000",
+    "message_id": "<qs01xuo.y2s425i.m68qrw3@747721uz0u4diifyg.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "security alert"
+    ],
+    "urls": [
+      "https://akorganizing.net/4VGzmp293igYv6fhrvzktzrs14KPOTIPSUHKZLKYT47634DCEW738D4",
+      "https://akorganizing.net/4onnCL293NmOu6urdpzvtvhj14IAEYZPMTHOWBSZK47634HHKJ738h4",
+      "Backdoor.sd",
+      "Hoax.Renos.HX",
+      "https://akorganizing.net/4eryVr293EgeU6eapffquhht14GQLNSFQQYIOCBWR47634BIAE738b4",
+      "imgur.com/6YmcK7i.png",
+      "Look2me.ab",
+      "Adware.Generic",
+      "https://akorganizing.net/4vGyrp293jhrA6pqqyxewlws14XQNULMXEKBCNJUL47634DZMN738s4",
+      "https://akorganizing.net/4kqLXU293KeOr6sypdyvuvsq14DLMIORNVIQHQXXB47634WRSD738u4",
+      "https://akorganizing.net/track/2zuZow293DrRX6fbslibwoxj14DFQDFVYKRLEURRN47634QWOU738f4",
+      "https://akorganizing.net/1DzUNk293VcKE6eskgynlspj14YTZEJYMSQSYZMMN47634GLVZ738e4",
+      "https://akorganizing.net/3MczbE293UAAx6davinhlubt14NDNUGBCLQZKKBDE47634KCOQ738O4",
+      "https://imgur.com/6YmcK7i.png",
+      "https://akorganizing.net/4oKApm293ddHo6bpflxmctzg14SPFZWEURFDEJKID47634AHML738J4",
+      "https://akorganizing.net/4pPbGf293xVVp6oubimngnns14EASQFUPNJVFZWBT47634LWYX738X4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2740,
+    "html_length": 6569,
+    "has_text": true,
+    "has_html": true
+  }
+}

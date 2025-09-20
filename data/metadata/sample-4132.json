@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Enhance Your Holdings with 4 Million LDO Tokens",
+    "from": "Lido Finance<lido@leads305.com>",
+    "to": "phishing@pot",
+    "date": "23 Sep 2024 13:26:35 +0000",
+    "message_id": "<20240923132635.18688AE56DA3D7C1@leads305.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://conradmoving.com/ldo/track.php?email=phishing@pot",
+      "https://conradmoving.com/ldo/track.php?email=rodrigo-f-p@hotmail.com",
+      "https://t.me/lidofinance",
+      "https://twitter.com/lidofinance",
+      "https://discord.com/invite/lidofinance"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 689,
+    "html_length": 3453,
+    "has_text": true,
+    "has_html": true
+  }
+}

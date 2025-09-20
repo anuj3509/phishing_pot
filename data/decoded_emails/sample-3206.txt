@@ -1,0 +1,67 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot, proposta para sua análise
+From: Maria Helena <contato@e.planosdesaude-e.com>
+To: phishing@pot
+Date: Fri, 19 Apr 2024 18:29:17 +0000
+Message_Id: <0102018ef79eb4d0-b0edb340-9a59-4c34-8b22-3ccfce4bf5d0-000000@eu-west-1.amazonses.com>
+Content_Type: Multipart/alternative; boundary="0352BD26_4D50ACAE_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="0352BD26_4D50ACAE_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://web.e-segurohelp.com/app-c/rem.php?id=382C35302C726F647269676F2D662D7040686F746D61696C2E636F6D2C32323330
+  - https://web.e-segurohelp.com/app-c/lnk.php?id=382C35302C726F647269676F2D662D7040686F746D61696C2E636F6D2C32323330
+
+DECODED TEXT CONTENT:
+------------------------------
+mlrch-7c756337808 body{margin:0;padding:0;} Boa Tarde phishing@pot, Temos uma proposta para você economizar no seu plano de saúde. Já tem um plano mais está insatisfeito(a) com a rede e/ou preço. Diante do reajuste aprovado pela ANS (Agência Nacional de Saúde Suplementar), o impacto nos custos dos planos de saúde que fazem aniversário de março a dezembro de 2024, será significativo. Faça sua cotação online&nbsp;e tenha uma condição especial com a tabela de preços 2024 atualizada. Compare preços e condições e encontre o melhor custo-benefício na sua operadora de&nbsp;preferência:&nbsp; Amil Saúde, Porto Saúde, Bradesco Saúde, SulAmérica Seguros,&nbsp;HapVida&nbsp; NotreDame Intermédica, Omint Saúde. - Rede Credenciada de alto nível; - Cobertura de emergências médicas 24 horas após contratação; - Reembolso para consultas e exames; - Acesso aos melhores hospitais do país; Cobertura nos melhores hospitais, clínicas e laboratórios do Brasil, &nbsp; como o Hops. Albert Einstein, Hosp. Sírio Libanês, Rede D'Or São Luiz &nbsp;e muitos outros com padrão de excelência e com preços que cabem no seu bolso. fazer cotação Não desejo mais receber e-mails deste endereço
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>mlrch-7c756337808</title>
+    <style type="text/css">
+        body{margin:0;padding:0;}
+    </style>
+</head>
+
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p>Boa Tarde phishing@pot,</p>
+<p><strong>Temos uma proposta para você economizar no seu plano de saúde.</strong><br>Já tem um plano mais está insatisfeito(a) com a rede e/ou preço.<br><br>Diante do reajuste aprovado pela ANS (Agência Nacional de Saúde Suplementar), o impacto nos custos dos planos de saúde que fazem aniversário de março a dezembro de 2024, será significativo.<br><br>Faça sua cotação online&nbsp;e tenha uma condição especial com a tabela de preços 2024 atualizada.<br><br>Compare preços e condições e encontre o melhor custo-benefício na sua operadora de&nbsp;preferência:&nbsp;<strong>Amil Saúde, Porto Saúde, Bradesco Saúde, SulAmérica Seguros,&nbsp;HapVida&nbsp;</strong><span class="tnt2l"><strong>NotreDame Intermédica, Omint Saúde.</strong></span></p>
+<p>- Rede Credenciada de alto nível;<br>- Cobertura de emergências médicas 24 horas após contratação;<br>- Reembolso para consultas e exames;<br>- Acesso aos melhores hospitais do país;<br><br>Cobertura nos melhores hospitais, clínicas e laboratórios do Brasil,<span class="apple-converted-space">&nbsp;</span><strong>como o Hops. Albert Einstein, Hosp. Sírio Libanês, Rede D'Or São Luiz</strong><span class="apple-converted-space">&nbsp;e muitos outros com padrão de excelência e com preços que cabem no seu bolso.</span></p>
+<p style="text-align: center;"><a style="display: block; background-color: #333399; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="https://web.e-segurohelp.com/app-c/lnk.php?id=382C35302C726F647269676F2D662D7040686F746D61696C2E636F6D2C32323330"><span style="font-size: x-large;">fazer cotação</span></a></p>
+</td>
+</tr>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p style="text-align: center;"><span style="font-size: medium;"><br><a href="https://web.e-segurohelp.com/app-c/rem.php?id=382C35302C726F647269676F2D662D7040686F746D61696C2E636F6D2C32323330"><br><span style="font-size: small;">Não desejo mais receber e-mails deste endereço</span></a><br></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+
+</html>

@@ -1,0 +1,79 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Cree una contraseña para SIX DEGREES IT
+From: SIX DEGREES IT <support@sixdegreesit.zendesk.com>
+To: phishing@pot
+Date: Sun, 14 Apr 2024 21:53:37 +0000
+Message_Id: <661c506193328_3d3aac3551672_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_661c5061986ce_3d3aac355177c";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_661c5061986ce_3d3aac355177c";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.zendesk.com.mx/service/?utm_campaign=text&amp;utm_content=SIX+DEGREES+IT&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification
+  - https://sixdegreesit.zendesk.com/verification/email/O3NUxUCysUAAc9fFwRQbQABp2bLqEwo2
+
+DECODED TEXT CONTENT:
+------------------------------
+Bienvenido a SIX DEGREES IT. Haga clic en el vínculo a continuación para crear una contraseña e iniciar sesión.
+
+https://sixdegreesit.zendesk.com/verification/email/O3NUxUCysUAAc9fFwRQbQABp2bLqEwo2
+
+
+Si no se registró en SIX DEGREES IT usando esta dirección de correo electrónico, puede ignorarlo.
+
+--------------------------------
+Este correo electrónico es un servicio de SIX DEGREES IT.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=rtl] .directional_text_wrapper { direction: rtl; unicode-bidi: embed; }
+
+  </style>
+
+          <style type="text/css">
+            @media only screen and (max-width: 768px) {
+              .simplified-email-footer .namecard {
+                display: block;
+                min-width: 100%;
+                padding: 0 0 16px 0; }
+
+              .simplified-email-footer .content {
+                padding: 16px; }
+            }
+          </style>
+        </head>
+<body style="width: 100%!important; margin: 0; padding: 0;">
+  <div style="padding: 10px ; line-height: 18px; font-family: 'Lucida Grande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style="color: #b5b5b5;"></div>
+    Bienvenido a SIX DEGREES IT. Haga clic en el vínculo a continuación para crear una contraseña e iniciar sesión.
+<p><a href="https://sixdegreesit.zendesk.com/verification/email/O3NUxUCysUAAc9fFwRQbQABp2bLqEwo2">Cree una contraseña</a></p>
+Si no se registró en SIX DEGREES IT usando esta dirección de correo electrónico, puede ignorarlo.
+  </div>
+  <div style="padding: 10px ; line-height: 18px; font-family: 'Lucida Grande',Verdana,Arial,sans-serif; font-size: 12px; color: #aaaaaa;
+    margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;">
+    <span style="color: #49545c;">Este correo electrónico es un servicio de SIX DEGREES IT.</span> <span style="color: #49545c;">Entregado por <a href="https://www.zendesk.com.mx/service/?utm_campaign=text&amp;utm_content=SIX+DEGREES+IT&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification" style="color:black;" target="_blank">Zendesk</a></span>
+  </div>
+</body>
+</html>
+

@@ -1,0 +1,41 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Notificacao Emissao Nota Fiscal Eletronica
+From: NFSE@PEDERNEIRAS.SP.GOV.BR
+To: phishing@pot
+Date: Wed, 25 Sep 2024 20:36:18 -0300 (-03)
+Message_Id: <20240925233618.1AA908F5A8D@sender02.sianet.net.br>
+Content_Type: multipart/mixed; boundary="a1b2c3d4e3f2g1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="a1b2c3d4e3f2g1"
+
+ATTACHMENTS:
+--------------------
+- NOTA_269060.pdf (application/pdf, 47400 bytes)
+- NOTA_269060.xml (application/xml, 2358 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - WWW.PEDERNEIRAS.SP.GOV.BR
+  - farmaciazanqui.com.br
+  - https://pederneiras.obaratec.com.
+  - https://pederneiras.obaratec.com.br/ords/pmp/f?p=1816:70::::::
+  - https://pederneiras.obaratec.com.br/ords/pmp/f?p=1173:116::EMITENOTA:NO:116:P116_CODE,P116_CODET,P116_KEY,P116_KEYT:3666090,2569783,25697831UEA5IUJ9QTUV,NXRLDZ2APPNZ7JOOIIJCTL6P7M5HINPZ
+
+DECODED TEXT CONTENT:
+------------------------------
+Prefeitura Municipal De Pederneiras &nbsp; Prezado(a) RODRIGO FERREIRA, Voc&ecirc; est&aacute; recebendo o aviso de Emiss&atilde;o da Nota Fiscal de Servi&ccedil;o Eletr&ocirc;nica N?. 269060 Emitida pelo prestador(a) de servi&ccedil;os:DE FREITAS ZANQUI FARMACIA PERSONALIZADA LTDA E-mail: sonia@farmaciazanqui.com.br Inscri&ccedil;&atilde;o: 10030203 cnpj: &nbsp;34.446.018/0001-33 Clique aqui para baixar a NF-e Acesse atrav&eacute;s do portal https://pederneiras.obaratec.com. br/ords/pmp/f?p=1816:70:::::: Prefeitura Municipal De Pederneiras HTTPS://WWW.PEDERNEIRAS.SP.GOV.BR
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head><title>Prefeitura Municipal De Pederneiras</title></head><table cellspacing="0" cellpadding="0" width="70%" border=0> <tr><td colspan="3">&nbsp;</td></tr> <tr><td colspan="3"> Prezado(a) RODRIGO FERREIRA, <br> <br> Voc&ecirc; est&aacute; recebendo o aviso de Emiss&atilde;o da Nota Fiscal de Servi&ccedil;o Eletr&ocirc;nica N?. 269060  <br> <br> Emitida pelo prestador(a) de servi&ccedil;os:DE FREITAS ZANQUI FARMACIA PERSONALIZADA LTDA                                    <br> E-mail: sonia@farmaciazanqui.com.br <br> Inscri&ccedil;&atilde;o: 10030203 <br> cnpj: &nbsp;34.446.018/0001-33  <br> <br>   <a href='https://pederneiras.obaratec.com.br/ords/pmp/f?p=1173:116::EMITENOTA:NO:116:P116_CODE,P116_CODET,P116_KEY,P116_KEYT:3666090,2569783,25697831UEA5IUJ9QTUV,NXRLDZ2APPNZ7JOOIIJCTL6P7M5HINPZ'>Clique aqui para baixar a NF-e</a> <br> <br>Acesse atrav&eacute;s do portal <br>   <a href='https://pederneiras.obaratec.com.br/ords/pmp/f?p=1816:70::::::'>https://pederneiras.obaratec.com.
+ br/ords/pmp/f?p=1816:70::::::</a> <br> <br>Prefeitura Municipal De Pederneiras<br>   <a href='HTTPS://WWW.PEDERNEIRAS.SP.GOV.BR'>HTTPS://WWW.PEDERNEIRAS.SP.GOV.BR</a>  </td></tr> </table></html>
+

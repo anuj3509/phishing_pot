@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "ENC: Extrato IR - 11/10/2023 22:29",
+    "from": "Rodrigo Lima <rodrigo.gama94@live.com>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Sat, 14 Oct 2023 14:21:51 +0000",
+    "message_id": "\r\n <SJ0PR05MB8712457064CD60B5037A37AEE0D1A@SJ0PR05MB8712.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SJ0PR05MB8712457064CD60B5037A37AEE0D1ASJ0PR05MB8712namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SJ0PR05MB8712457064CD60B5037A37AEE0D1ASJ0PR05MB8712namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "tU6zlTWjXr.pdf",
+      "content_type": "application/octet-stream",
+      "size": 101116
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com&gt;",
+      "rodrigo.gama94@live.com",
+      "gmail.com",
+      "rodrigo.gama94@live.com&gt;",
+      "rodrigo.gama94@live.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 452,
+    "html_length": 1204,
+    "has_text": true,
+    "has_html": true
+  }
+}

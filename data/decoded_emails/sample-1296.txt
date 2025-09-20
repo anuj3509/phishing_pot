@@ -1,0 +1,475 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: VIP Reward: $5,000 BUSD Awaits Your Redemption
+From: Binance <postmaster@mg.vepoclean.com>
+To: phishing@pot
+Date: Sat, 09 Sep 2023 11:35:45 +0000
+Message_Id: <20230909113545.0cf4e20aa1b994c8@mg.vepoclean.com>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.Sqds0BrK3zf3wr2lA0BDLjuFJ6X2vU18kiorC7CBA4Y
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZWN1cml0eS9hbnRpLXBoaXNoaW5nLWNvZGU_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJjdGkiOiJpanZsbmwiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.VlLYlAXcKP3R18j55LlUgX1ag68bB7gTQIfiwFGFr30
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdHdpdHRlci5jb20vYmluYW5jZT91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.k5OJDS1jy4nSGgnzW8Qn-h7ybiojHmnHsOM4RiM8X7s
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-email/eyJhbGciOiJIUzI1NiJ9.eyJiIjoiMTA0NjM0MyIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTh9.Sk0D6A_EGlw5S-4d9ulc-V0r-SW-u7Lem8LN0ozV7I8.gif
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcmVmZXJlbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaThxcG0iLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.9qSMW8QKH5wk_9XVzQxZzMn723bge7aGI9eGYdcfjE4
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9wcml2YWN5P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTZkbWgiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.tUoPoU1Q-ww1scvfKw1mVY8kM7ks4T9FPHl3ZaYPQwU
+  - https://public.bnbstatic.com/image/social/linkedin-dark.png
+  - https://i.imgur.com/8kFyrO1.png
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6InNwYW4iLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9zdXBwb3J0L2ZhcS9hd2FyZC1zZWxlY3Rpb24tcnVsZXMtYmFzZWQtb24tYm5iLWJlYWNvbi1jaGFpbi1oYXNoLXZhbHVlLWZkNDYyZjAzNGFlZDQ0NDM5ZWY2YzYzNmI5YWFmMzQ1P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTd5cXUiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.wTQSF8ZYCtA0OdkDyKxgZT2IFT8aR5ZwFTxtHHJv4PY
+  - https://public.bnbstatic.com/image/social/reddit-dark.png
+  - Binance.com
+  - https://public.bnbstatic.com/image/social/facebook-dark.png
+  - https://public.bnbstatic.com/image/social/twitter-dark.png
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdC5tZS9CaW5hbmNlRXhjaGFuZ2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.CcA8ZjGO976WPw8iEZdiPkqPrDHx017WbxyQr96qrro
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2JpbmFuY2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.Da6wgtjkVA0MadwITnYWlxVk0iNMKsBFxz7YsFrF6yI
+  - https://public.bnbstatic.com/image/social/telegram-dark.png
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vYXBwLmJpbmFuY2UuY29tL2VuL0ZHVC9NQVkyMDIzP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSbFptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaU2EyUlZUREF4UWxkVVNYZE5hazAlM0QmdXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.pKxWmolQaw5Wh8kWE4T_zwbPJ5JqPbg-tgfRoqGBlao
+  - https://www.bing.com/ck/a?!&amp;&amp;p=a6e670552fb02430JmltdHM9MTY5NDEzMTIwMCZpZ3VpZD0wODI2ODBmNS1jMmZiLTZiZTAtMzM2ZS05Mzk5YzM3NzZhZGImaW5zaWQ9NTYwMw&amp;ptn=3&amp;hsh=3&amp;fclid=082680f5-c2fb-6be0-336e-9399c3776adb&amp;u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cHMlM2ElMmYlMmZ3d3cuZGVhbGVyc3Jlc291cmNlcy5jb20lMmYmc291cmNlPXNlcnAtbG9jYWwmaD16Wk1Gb3ljb2dNemtUdjVBNkk3NVV1VjBqSmtsV0lsdCUyZnpxV0slMmJPSlRwbyUzZCZwPWx3X3RwJmlnPTdGRUQ3Mzg5RkQzNDQ5REM5Njc2MDFBMERGODI1MEVCJnlwaWQ9WU40MjZ4NzY2OTY4Nw&amp;ntb=1
+  - https://public.bnbstatic.com/image/social/youtube-dark.png
+  - Binance.com,
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9hY3Rpdml0eS91bnN1YnNjcmliZS1lbWFpbD9wPUV5eEhuN093Q3NrZHRhdEJuOUolMkJvaHVKM0djJTJCQ0haZnlYTHclMkZzbXE2RXJNbVFyaXNjeXJlaHM1bjZoVUFMVGVRNCUyRmRYcUYyM2tSOVREV1VpeTBsMFNTdnVaelpnYnMzZE94S0RoaHV6c0xsbk9iank1JTJCSzFQcHc3SlBha0s0QWJUVTZEbGVkQWFyazl5SlFidmlDczhxdkglMkI2TklJZXIlMkZWVVRPdFpuSlBNMEp1bEtsaEZ3NHlwVmNZZnpYa0p5NFpLemJGZnM0VnZRR0llZVdPTm5HZnhQa3hGREJrY0ElMkZGczc2YTZpTlc0bUpnaUc1JTJGTzZ2Z212c052UXdiNkclMkZhNXVGNEJwNHNiYW9WWDNlJTJCMFdxZXA3bU5OWjBJaCUyRjJVMllxSjlXSDhLUkJjN0diMkNwZWRqUlV0ZHVpczJWOUFZbyUyQnpNT0ZRY205WkZnemtZQnB2eUlmUUFiRnFMN0olMkY2YXJRZ3FIT294U0NSbVNUcyUzRCIsInMiOiJUQUciLCJjdGkiOiJpcjVjNyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.HehnTUHCbG5fCen0rx509VbDD7drJ0DXPFaE5NgLg4w
+  - https://public.bnbstatic.com/image/social/instagram-dark.png
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.YlJ_klOXnjmXZD8GoJXYLpA9ZHnnUr0S-f1BKtyTW34
+  - http://post.eu.spmailtechnol.com/q/8LWxcOgBe6THGH3GWWPUCA~~/AAA5zgA~/RgRmVwBXPlcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA
+  - http://post.eu.spmailtechnol.com/q/76FiT0vUOflMmfJjj8ClGA~~/AAA5zgA~/RgRmVwBXPVcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvQmluYW5jZVlvdXR1YmUvZmVhdHVyZWQ_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.30N50JtHC84TWYDo0GDqFrYYGrbMDPLMykSx7wORISc
+  - https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png
+  - https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9iaW5hbmNlLz91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.KsbjCmfaWU5H09ySjmdL-k68hbeR8R2Ho0qV4hwvt1U
+
+DECODED TEXT CONTENT:
+------------------------------
+Claim Your Reward Now! Connect Your Wallet and Exchange Your NFT Voucher Congratulations on your active participation in our community! We're excited to reward you with the opportunity to exchange your NFT voucher for $5,000 BUSD. Claim Your BUSD We value your commitment to Binance, and this reward is our way of showing appreciation. If you need assistance at any point, please feel free to reply to this email, and our dedicated support team will assist you promptly. Level Up with the Referral Challenge. Participants who accumulate 8 points each day will qualify to enter an additional daily challenge. In this challenge 175 winners will be selected based on the challenge rules for each one to win a limited edition NFT mystery box for 8 days. These NFTs, with different levels of uniqueness, will amplify your points and contribute to your position in individual and team competitions. Stay connected! To stay secure, setup your phishing code here Risk warning:&nbsp; Digital asset prices can be volatile. The value of your investment may go down or up and you may not get back the amount invested. You are solely responsible for your investment decisions and Binance is not liable for any losses you may incur. Not financial advice. For more information, see our Terms of Use and Risk Warning. Kindly note: Please be aware of phishing sites and always make sure you are visiting the official Binance.com website when entering sensitive data. Manage your email preferences here or unsubscribe .&nbsp;&nbsp; For more information about how we process data, please see our Privacy policy. © 2017 - 2023 Binance.com, All Rights Reserved. 19860
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+
+
+<div>
+
+<div><br>
+<div class="x_gmail_quote">
+
+<br>
+<br>
+<div style="word-spacing:normal; background-color:rgb(239,239,239)">
+<div style="opacity:0; font-size:0px; border:0px; max-height:1px; width:1px; margin:0px; padding:0px; display:none!important; line-height:0px!important; color:transparent">
+<img border="0" width="1" height="1" src="http://post.eu.spmailtechnol.com/q/76FiT0vUOflMmfJjj8ClGA~~/AAA5zgA~/RgRmVwBXPVcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA" alt=""></div>
+<div style="background-color:rgb(239,239,239)">
+<div style="margin:0px auto; max-width:600px; background-color:rgb(255,255,255)">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%; background-color:rgb(255,255,255)">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:5px; text-align:center">
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:5px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-100" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px; padding:0px; word-break:break-word">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:100%; max-width:100%; border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr>
+<td><img height="auto" src="https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png" width="auto" style="border:0px; display:block; outline:none; text-decoration:none; height:auto; min-width:100%; width:100%; max-width:100%; font-size:13px">
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size:0px; padding:0px; word-break:break-word">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:100%; max-width:100%; border-collapse:collapse; border-spacing:0px">
+<tbody>
+<tr>
+<td><a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vYXBwLmJpbmFuY2UuY29tL2VuL0ZHVC9NQVkyMDIzP19kcD1MM2RsWW5acFpYY3ZkMlZpZG1sbGR6OTBlWEJsUFdSbFptRjFiSFFtYm1WbFpFeHZaMmx1UFdaaGJITmxKblZ5YkQxaFNGSXdZMGhOTmt4NU9UTmtNMk4xV1cxc2RWbFhOV3BhVXpWcVlqSXdkbHBYTkhaU2EyUlZUREF4UWxkVVNYZE5hazAlM0QmdXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.pKxWmolQaw5Wh8kWE4T_zwbPJ5JqPbg-tgfRoqGBlao" target="_blank"><img height="auto" src="https://i.imgur.com/8kFyrO1.png" width="auto" style="border:0px; display:block; outline:none; text-decoration:none; height:148; min-width:100%; width:100%; max-width:100%; font-size:13px">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:5px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-100" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="left" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:14px; line-height:15px; text-align:left; color:rgb(0,0,0)">
+<span id="x_m_-4320473883226356294docs-internal-guid-593e2451-7fff-21a9-8204-806281877563" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<br><p dir="ltr" id="x_m_-4320473883226356294iomdt" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<span id="x_m_-4320473883226356294ig4n8" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif"><b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Claim Your Reward Now! Connect Your Wallet and Exchange Your NFT Voucher
+
+</b></span></p>
+<p dir="ltr" id="x_m_-4320473883226356294ixiz1" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<span id="x_m_-4320473883226356294icy8l" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Congratulations on your active participation in our community! We're excited to reward you with the opportunity to exchange your NFT voucher for $5,000 BUSD.
+
+</span></p>
+<p dir="ltr" id="x_m_-4320473883226356294iyvyj" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<br><span id="x_m_-4320473883226356294im1pt" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">   
+</span></p>
+<center><table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate; line-height:100%">
+<tbody>
+<tr>
+<td align="center" bgcolor="#FCD535" role="presentation" valign="middle" style="border:none; border-radius:3px; background-color:rgb(252,213,53)">
+<a href="https://www.bing.com/ck/a?!&amp;&amp;p=a6e670552fb02430JmltdHM9MTY5NDEzMTIwMCZpZ3VpZD0wODI2ODBmNS1jMmZiLTZiZTAtMzM2ZS05Mzk5YzM3NzZhZGImaW5zaWQ9NTYwMw&amp;ptn=3&amp;hsh=3&amp;fclid=082680f5-c2fb-6be0-336e-9399c3776adb&amp;u=a1aHR0cHM6Ly93d3cuYmluZy5jb20vYWxpbmsvbGluaz91cmw9aHR0cHMlM2ElMmYlMmZ3d3cuZGVhbGVyc3Jlc291cmNlcy5jb20lMmYmc291cmNlPXNlcnAtbG9jYWwmaD16Wk1Gb3ljb2dNemtUdjVBNkk3NVV1VjBqSmtsV0lsdCUyZnpxV0slMmJPSlRwbyUzZCZwPWx3X3RwJmlnPTdGRUQ3Mzg5RkQzNDQ5REM5Njc2MDFBMERGODI1MEVCJnlwaWQ9WU40MjZ4NzY2OTY4Nw&amp;ntb=1" target="_blank" style="display:inline-block; font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:14px; font-weight:normal; line-height:15px; margin:0px; text-decoration:none; text-transform:none; padding:10px 25px; border-radius:3px; background-color:rgb(252,213,53); color:rgb(0,0,0)"><b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Claim Your BUSD</b> </a></td>
+</tr>
+</tbody>
+</table></center><br>
+
+<p dir="ltr" id="x_m_-4320473883226356294i08u7" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<span id="x_m_-4320473883226356294i8wyi" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">We value your commitment to Binance, and this reward is our way of showing appreciation. If you need assistance at any point, please feel free to reply to this email, and our dedicated support team will assist you promptly.
+
+</span></p>
+<p dir="ltr" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<b id="x_m_-4320473883226356294igaus" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif"><br>
+</b><span id="x_m_-4320473883226356294ie8ek" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif"><b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Level Up with the Referral Challenge.</b></span></p>
+<p dir="ltr" id="x_m_-4320473883226356294i7s19" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<span id="x_m_-4320473883226356294iqc16" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Participants who accumulate 8 points each day will qualify to enter an additional daily challenge. In this challenge 175 winners will
+ be selected based on </span><a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6InNwYW4iLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9zdXBwb3J0L2ZhcS9hd2FyZC1zZWxlY3Rpb24tcnVsZXMtYmFzZWQtb24tYm5iLWJlYWNvbi1jaGFpbi1oYXNoLXZhbHVlLWZkNDYyZjAzNGFlZDQ0NDM5ZWY2YzYzNmI5YWFmMzQ1P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTd5cXUiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.wTQSF8ZYCtA0OdkDyKxgZT2IFT8aR5ZwFTxtHHJv4PY" id="x_m_-4320473883226356294i6jyf" target="_blank" style="text-decoration:none; font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; color:rgb(252,213,53)"><span id="x_m_-4320473883226356294i7yqu" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">the
+ challenge rules</span></a><span id="x_m_-4320473883226356294is1x9" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif"> for each one to win a limited edition NFT mystery box for 8 days. These NFTs, with different levels of
+ uniqueness, will amplify your points and contribute to your position in individual and team competitions.</span></p>
+
+
+
+
+</span></div>
+</td>
+</tr>
+<tr>
+
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin:0px auto; max-width:600px; background-color:rgb(255,255,255)">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%; background-color:rgb(255,255,255)">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:5px; text-align:center">
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:0px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-100" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="center" style="font-size:0px; padding:0px; word-break:break-word">
+<p style="border-top-width:1px; border-top-style:solid; font-size:1px; margin:0px auto; width:100%; border-top-color:rgb(240,185,11)">
+</p>
+</td>
+</tr>
+<tr>
+<td align="center" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:14px; font-weight:900; line-height:20px; text-align:center; color:rgb(240,185,11)">
+<span style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Stay connected!</span></div>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size:0px; padding:0px; word-break:break-word">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdHdpdHRlci5jb20vYmluYW5jZT91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.k5OJDS1jy4nSGgnzW8Qn-h7ybiojHmnHsOM4RiM8X7s" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/twitter-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vdC5tZS9CaW5hbmNlRXhjaGFuZ2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.CcA8ZjGO976WPw8iEZdiPkqPrDHx017WbxyQr96qrro" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/telegram-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmZhY2Vib29rLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.YlJ_klOXnjmXZD8GoJXYLpA9ZHnnUr0S-f1BKtyTW34" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/facebook-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9jb21wYW55L2JpbmFuY2U_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.Da6wgtjkVA0MadwITnYWlxVk0iNMKsBFxz7YsFrF6yI" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/linkedin-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2MvQmluYW5jZVlvdXR1YmUvZmVhdHVyZWQ_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.30N50JtHC84TWYDo0GDqFrYYGrbMDPLMykSx7wORISc" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/youtube-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vd3d3LnJlZGRpdC5jb20vci9iaW5hbmNlLz91dG1fbWVkaXVtPUVtYWlsJnV0bV9zb3VyY2U9Q1JNIiwicyI6IlRBRyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.KsbjCmfaWU5H09ySjmdL-k68hbeR8R2Ho0qV4hwvt1U" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/reddit-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none; display:inline-table">
+<tbody>
+<tr>
+<td style="padding:4px; vertical-align:middle">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px; width:20px">
+<tbody>
+<tr>
+<td style="padding:0px 5px; font-size:0px; height:20px; vertical-align:middle; width:20px">
+<a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImltZyIsImIiOiIxMDQ2MzQzIiwiciI6Imh0dHBzOi8vaW5zdGFncmFtLmNvbS9iaW5hbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwic2VxIjoyODU4MTQsInRzIjoxNjg1NDQxNzUwOTU3fQ.Sqds0BrK3zf3wr2lA0BDLjuFJ6X2vU18kiorC7CBA4Y" target="_blank"><img height="20" src="https://public.bnbstatic.com/image/social/instagram-dark.png" width="20" style="border-radius:3px; display:block">
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:0px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-50" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="left" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:11px; line-height:20px; text-align:left; color:rgb(0,0,0)">
+<span id="x_m_-4320473883226356294ipunt" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">To stay secure, setup your phishing code
+</span><a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZWN1cml0eS9hbnRpLXBoaXNoaW5nLWNvZGU_dXRtX21lZGl1bT1FbWFpbCZ1dG1fc291cmNlPUNSTSIsInMiOiJUQUciLCJjdGkiOiJpanZsbmwiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.VlLYlAXcKP3R18j55LlUgX1ag68bB7gTQIfiwFGFr30" id="x_m_-4320473883226356294ijvlnl" target="_blank" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; color:rgb(240,185,11)">here</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="x_m_-4320473883226356294mj-column-per-50" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="left" dir="ltr" style="font-size:0px; padding:5px 5px 11px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:14px; line-height:20px; text-align:left; color:rgb(0,0,0)">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:0px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-100" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="left" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:11px; line-height:15px; text-align:left; color:rgb(0,0,0)">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Risk warning:&nbsp;</b>Digital asset prices can be volatile. The value of your investment may go down or up and you may not get back the amount invested. You are solely responsible
+ for your investment decisions and Binance is not liable for any losses you may incur. Not financial advice. For more information, see our Terms of Use and Risk Warning.</div>
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<br>
+</div>
+</div>
+</div>
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+<b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">Kindly note:</b> Please be aware of phishing sites and always make sure you are visiting the official Binance.com website when entering sensitive data.</div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="left" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:11px; line-height:15px; text-align:left; color:rgb(0,0,0)">
+<div id="x_m_-4320473883226356294iqd7v" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+Manage your email preferences <a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9teS9zZXR0aW5ncy9wcmVmZXJlbmNlP3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaThxcG0iLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.9qSMW8QKH5wk_9XVzQxZzMn723bge7aGI9eGYdcfjE4" id="x_m_-4320473883226356294i8qpm" target="_blank" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; color:rgb(240,185,11)">
+here</a> or <a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9hY3Rpdml0eS91bnN1YnNjcmliZS1lbWFpbD9wPUV5eEhuN093Q3NrZHRhdEJuOUolMkJvaHVKM0djJTJCQ0haZnlYTHclMkZzbXE2RXJNbVFyaXNjeXJlaHM1bjZoVUFMVGVRNCUyRmRYcUYyM2tSOVREV1VpeTBsMFNTdnVaelpnYnMzZE94S0RoaHV6c0xsbk9iank1JTJCSzFQcHc3SlBha0s0QWJUVTZEbGVkQWFyazl5SlFidmlDczhxdkglMkI2TklJZXIlMkZWVVRPdFpuSlBNMEp1bEtsaEZ3NHlwVmNZZnpYa0p5NFpLemJGZnM0VnZRR0llZVdPTm5HZnhQa3hGREJrY0ElMkZGczc2YTZpTlc0bUpnaUc1JTJGTzZ2Z212c052UXdiNkclMkZhNXVGNEJwNHNiYW9WWDNlJTJCMFdxZXA3bU5OWjBJaCUyRjJVMllxSjlXSDhLUkJjN0diMkNwZWRqUlV0ZHVpczJWOUFZbyUyQnpNT0ZRY205WkZnemtZQnB2eUlmUUFiRnFMN0olMkY2YXJRZ3FIT294U0NSbVNUcyUzRCIsInMiOiJUQUciLCJjdGkiOiJpcjVjNyIsInNlcSI6Mjg1ODE0LCJ0cyI6MTY4NTQ0MTc1MDk1N30.HehnTUHCbG5fCen0rx509VbDD7drJ0DXPFaE5NgLg4w" id="x_m_-4320473883226356294ir5c7" target="_blank" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; color:rgb(240,185,11)">
+unsubscribe</a>.&nbsp;&nbsp;</div>
+<div id="x_m_-4320473883226356294iku7oh" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+For more information about how we process data, please see our <a href="https://log.bntrace.com/bapi/composite/v1/public/message/view-url?_bEt=eyJhbGciOiJIUzI1NiJ9.eyJjdCI6ImEiLCJiIjoiMTA0NjM0MyIsInIiOiJodHRwczovL3d3dy5iaW5hbmNlLmNvbS9lbi9wcml2YWN5P3V0bV9tZWRpdW09RW1haWwmdXRtX3NvdXJjZT1DUk0iLCJzIjoiVEFHIiwiY3RpIjoiaTZkbWgiLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTd9.tUoPoU1Q-ww1scvfKw1mVY8kM7ks4T9FPHl3ZaYPQwU" id="x_m_-4320473883226356294i6dmh" target="_blank" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; color:rgb(240,185,11)">
+Privacy policy.</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" style="font-size:0px; padding:0px 5px; word-break:break-word">
+<p style="border-top-width:2px; border-top-style:solid; font-size:1px; margin:0px auto; width:100%; border-top-color:rgb(240,185,11)">
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div style="margin:0px auto; max-width:590px">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%">
+<tbody>
+<tr>
+<td style="direction:ltr; font-size:0px; padding:5px; text-align:center">
+<div class="x_m_-4320473883226356294mj-column-per-100" style="font-size:0px; text-align:left; direction:ltr; display:inline-block; vertical-align:top; width:100%">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="vertical-align:top">
+<tbody>
+<tr>
+<td align="center" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:11px; line-height:15px; text-align:center; color:rgb(0,0,0)">
+<b style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">© 2017 - 2023 Binance.com, All Rights Reserved.</b></div>
+</td>
+</tr>
+<tr>
+<td align="center" dir="ltr" style="font-size:0px; padding:5px; word-break:break-word">
+<div style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif; font-size:11px; line-height:5px; text-align:center; color:rgb(0,0,0)">
+<div id="x_m_-4320473883226356294i3g6f" style="font-family:BinancePlex,Arial,PingFangSC-Regular,&quot;Microsoft YaHei&quot;,sans-serif">
+19860</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<img src="https://log.bntrace.com/bapi/composite/v1/public/message/view-email/eyJhbGciOiJIUzI1NiJ9.eyJiIjoiMTA0NjM0MyIsInMiOiJUQUciLCJzZXEiOjI4NTgxNCwidHMiOjE2ODU0NDE3NTA5NTh9.Sk0D6A_EGlw5S-4d9ulc-V0r-SW-u7Lem8LN0ozV7I8.gif" alt="">
+<img border="0" width="1" height="1" alt="" src="http://post.eu.spmailtechnol.com/q/8LWxcOgBe6THGH3GWWPUCA~~/AAA5zgA~/RgRmVwBXPlcFc3BjZXVCCmR018x1ZOQ4861SF3ppYWRyYWhtYW5pMjhAZ21haWwuY29tWAQAAAAA">
+</div>
+</div>
+</div>
+</div>
+
+</body></html>
+

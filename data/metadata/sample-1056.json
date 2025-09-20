@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo temos uma proposta exclusiva esperando você",
+    "from": "\"Proposta Planos Amil\" <marlene@a.simuladordeplanodesaude.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 28 Jul 2023 04:58:09 -0300",
+    "message_id": "\r\n <4735936b-39f9-4fd2-890e-776cee3363b3@DB8EUR06FT045.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "Multipart/alternative; boundary=\"0110F8DF_4E8903C5_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"0110F8DF_4E8903C5_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://zd-d.simuladordeplanodesaude.com/lnk.php?id=322C38392C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313638",
+      "go.planodesaude-2.com?subject=tirar%20email&amp;body=excluir"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 629,
+    "html_length": 2824,
+    "has_text": true,
+    "has_html": true
+  }
+}

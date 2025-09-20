@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Ihr exklusiver 1.000 ��� Decathlon-Gutschein wartet auf Sie!",
+    "from": "Decathlon Kundenservice. <nachrichten@de.idealo.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 19 Feb 2025 05:06:23 -0500",
+    "message_id": "<aQt5OwI.0.0.aQt5OwI.9.aQt5OwI@de.idealo.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://blog.afridox.com/WU9CRGUvSmszVzBGTnhOek1DWGlGSkJzbzJiNEFHSkN4YysyWmR1YUxNV2ExM1R1MzVwSGNiQ3dxcGsxS0F4VGtBVWg0emVHdjN3cDhEUUhCNDNnaHc9PQ__",
+      "http://blog.afridox.com/ZFhjMlowdXRwRXZRcmVZSXFrUHl6WVVFUE5QRU84SkpIbC9XWVhVV0tNY1RGWHpTZUhzSHV3MmpJeEQwc3E4ZEYwZmV4TlNKdXhnRUNVSHYrSWVXU3c9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/25/5451.jpg",
+      "http://blog.afridox.com/bTVMT2lKMXBRMnNyVXByYWE0MkI1ekE3cG45b1pTOTZKVGZCYTVMUHAvMFJVcXo3T2pyeWlRYm5qdzVCbU5PYlpQanB2c3F4aEtFWWV3UUtoL2pLSFE9PQ__",
+      "https://www.zupimages.net/up/23/25/5451.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1342,
+    "html_length": 8900,
+    "has_text": true,
+    "has_html": true
+  }
+}

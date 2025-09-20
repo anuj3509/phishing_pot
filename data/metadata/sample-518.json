@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Confirm the transaction",
+    "from": "ETHER GET <sarahjohnsonsoj@icloud.com>",
+    "to": "manuelcal1@outlook.com",
+    "date": "Sun, 26 Mar 2023 21:24:00",
+    "message_id": "\r\n <50490918-a121-4d91-8f8d-7834b1e8dacf@DM3NAM02FT009.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; \r\n                  boundary=\"1nJp00K2D6YXnb5oYTvRNzM09yaJnG6EqOL\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n                  boundary=\"1nJp00K2D6YXnb5oYTvRNzM09yaJnG6EqOL\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.youtube.com/ads/",
+      "https://www.youtube.com/about/copyright/",
+      "https://www.youtube.com/t/contact_us/",
+      "https://www.youtube.com/about/",
+      "https://docs.google.com/presentation/d/e/2PACX-1vTigbbquTPVq6aK2MyxaCopzMO7K7oAZ6cRsLJjFNSI48I6Cv007T5y5KTGK2ok2plUZM_TY7xo9SC1/pub?start=false&amp;loop=false&amp;delayms=3000",
+      "https://lh3.googleusercontent.com/drive-viewer/AAOQEOQom9e9Zyxos2p5egzeVlTOYX2P56N-U0VTnD5-BsS_f6p9JKTLqXd2RdeEhhIdImZMol6hGoAO_3WQhnlrZYE1rqfozg=w1920-h942",
+      "https://www.youtube.com/about/press/",
+      "https://www.youtube.com/creators/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 889,
+    "html_length": 4106,
+    "has_text": true,
+    "has_html": true
+  }
+}

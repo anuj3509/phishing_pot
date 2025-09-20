@@ -1,0 +1,46 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aviso Importante: Sua Fatura Chegou - Atendimento:36189096667572221379]
+From: "Fatura Digital ltaucard: 47630933871904340152" <soniyathomash3@gmail.com>
+To: <phishing@pot>
+Date: Thu, 26 Jan 2023 05:58:19 +0000
+Message_Id: <f48d2b4dbf4b208c6cf8b2030e2c2a62@gmail.com>
+Content_Type: multipart/mixed;
+	boundary="e143135bcbb2513bbdc08d88000630e1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="e143135bcbb2513bbdc08d88000630e1"
+
+ATTACHMENTS:
+--------------------
+- Fatura-Digital-20232312.pdf (application/pdf, 192116 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+Prezado(a) Cliente,
+Acesse o arquivo em PDF acima e solicite seu desconto na pr&oacute;xima fatura.
+
+Contrato: 47630933871904340152
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><hr>
+<pre id="tw-target-text" class="tw-data-text tw-text-large tw-ta" dir="ltr" data-placeholder="Tradução"><span class="Y2IQFc" lang="pt">
+Prezado(a) Cliente,
+Acesse o arquivo em PDF acima e solicite seu desconto na próxima fatura.
+
+Contrato: 47630933871904340152<br></span></pre>
+<hr>

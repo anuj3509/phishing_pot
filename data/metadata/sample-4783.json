@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "BlockFi Bankruptcy: Confirmation of Payment Section",
+    "from": "BlockFi Inc <campaigns@campaigns.anytimefitness.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 23 Jan 2025 06:44:21 +0000",
+    "message_id": "<20250123064421.c7c7cb962acfbf2e@campaigns.anytimefitness.com>",
+    "content_type": "multipart/alternative;\n boundary=\"c11e0b211f8ee4c1df01337e73cbd12da2c3f2865cfde11058311aed194d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n boundary=\"c11e0b211f8ee4c1df01337e73cbd12da2c3f2865cfde11058311aed194d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://clicks.club-os.com/campaign/click?msgId=&test=true&target=10a1daf317c9aa50c08c12e4fd25238304c919cd&hashLookup=true",
+      "https://www.club-os.com?mockUnsubscribeLink",
+      "Webmail.Widgets.Email.Message.evAddressClick(this);",
+      "https://clicks.club-os.com/campaign/open?msgId=&amp;test=true",
+      "https://clicks.club-os.com/campaign/click?msgId=&amp;test=true&amp;target=10a1daf317c9aa50c08c12e4fd25238304c919cd&amp;hashLookup=true",
+      "https://ipfs.io/ipfs/QmacMvyMTdqbiZbJciQSvGJVx83RUuz5kcqDZk9REztyxK",
+      "digitaldisbursements.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1553,
+    "html_length": 35227,
+    "has_text": true,
+    "has_html": true
+  }
+}

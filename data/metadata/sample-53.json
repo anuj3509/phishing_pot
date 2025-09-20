@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "❌ /// Withdrawal error. /AMOUNT: **** USD/ You need to add a withdrawal address in your profile. /// 1141125616673 ////",
+    "from": "Cato <seeronero663@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 17 Sep 2022 08:01:14 -0700",
+    "message_id": "<CABvB-oMGZheGNOBKONSF_pDeCC3zp0r690pSdNyyWg5xfJTAKg@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000000ab05505e8e0c083\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000000ab05505e8e0c083\""
+  },
+  "attachments": [
+    {
+      "filename": "sSZt7uix.pdf",
+      "content_type": "application/pdf",
+      "size": 16835
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://drive.google.com/file/d/1EMONkPN8uuKTHvpM6wC-21N8mx5tAuTp/preview"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 75,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

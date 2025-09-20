@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscaliza����o alfandegaria Protocolo:322364293",
+    "from": "Correios <aviso@%correios.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 10 Aug 2024 05:47:34 +0300 (IDT)",
+    "message_id": "<20240810025948.30FC637115@gsdgfdafagdgdaf-3-8>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://taxas-correios.co.ua/index.php",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1345,
+    "html_length": 2534,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hai vinto una Shein Mystery Box",
+    "from": "Shein <terredepaix@myt.mu>",
+    "to": "Recipients <terredepaix@myt.mu>",
+    "date": "Sat, 13 Jul 2024 10:31:30 -0700",
+    "message_id": "<202407131732.46DHVUk3015088-46DHVUk5015088@mailsecurity.myt.mu>",
+    "content_type": "multipart/alternative; boundary=\"===============0118849639==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0118849639==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://shienwowo.blogspot.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 850,
+    "html_length": 2541,
+    "has_text": true,
+    "has_html": true
+  }
+}

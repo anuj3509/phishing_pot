@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: A 750��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 15 Dec 2023 10:35:08 +0100",
+    "message_id": "<L39nOEL.0.0.L39nOEL.9.L39nOEL@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fnnl-check.com/?a=6073&amp;oc=14749&amp;c=41305&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "http://amazon.superkoran.info/MTc4Ty93MUFvUjFFbkdVdWt0cG1hQTFDdUpXN1lHNWlWbVRPamhKSlROQzh3R0NSRTVIV1ZoRjQ0OC81cXVOSE9XdmdsZnpsVjZOSzBDNDZIb3VhUUpmdEdJV2t5bUxURXpseEQ5QTBxNEE9",
+      "http://amazon.superkoran.info/NUxQenlVYlVpQUdqWTZSUm1kQjg4VjFlSWQ4clMxL0w3MUdtZXRPYjdpL1RmTEdINlgxVGtHbzFoVmlWTXNHeDBPN2VtN3ZVSUNUb1RZR0RQK0dOWmNCbWlTQ2p5OENhdmMyZ1pYUGVJekk9",
+      "www.zupimages.net/up/23/49/spfw.jpg",
+      "https://www.zupimages.net/up/23/49/spfw.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1973,
+    "html_length": 9267,
+    "has_text": true,
+    "has_html": true
+  }
+}

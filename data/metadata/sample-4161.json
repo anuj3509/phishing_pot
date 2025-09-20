@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Você possui pedidos aguardando taxa de recolhimento da fiscalização alfandegária!",
+    "from": "Pedido Correios <alfandega089670@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 4 Oct 2024 04:25:52 +0000",
+    "message_id": "<d31cdbafb2806e5974cf6d79a947703d@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d31cdbafb2806e5974cf6d79a947703d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d31cdbafb2806e5974cf6d79a947703d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreiofiscalizacaoaduaneira.co.ua/rastreamento/taxas258",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3765,
+    "has_text": true,
+    "has_html": true
+  }
+}

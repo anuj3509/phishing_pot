@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "ENC: .Give Away #2023",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:02:59 +0000",
+    "message_id": "\r\n <SA0PR04MB73707A67019E3D6D3FE1A0A4B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73707A67019E3D6D3FE1A0A4B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73707A67019E3D6D3FE1A0A4B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://bit.ly/3IfsBy8]",
+      "http://bit.ly/3IfsBy8",
+      "tenthousandvillages.com&gt;",
+      "zrzlng.dczcww.com.au&gt;",
+      "zrzlng.dczcww.com.au",
+      "http://bit.ly/3WXTuuG",
+      "tenthousandvillages.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 360,
+    "html_length": 1099,
+    "has_text": true,
+    "has_html": true
+  }
+}

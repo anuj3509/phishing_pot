@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "See this...#939",
+    "from": "\"You've been HACKED\" <vdhvcool@enxo.com.au>",
+    "to": "You <You>",
+    "date": "Tue, 14 Nov 2023 12:24:44 -0800",
+    "message_id": "<0c1782fd09cde7eccf61b813e72318a380290abd65@enxo.com.au>",
+    "content_type": "multipart/alternative; boundary=\"8af4bd16e2260c03b01a53f81d69434b8b909a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"8af4bd16e2260c03b01a53f81d69434b8b909a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1031,
+    "html_length": 1758,
+    "has_text": true,
+    "has_html": true
+  }
+}

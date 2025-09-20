@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Ihr Gratis Lidl Gutschein",
+    "from": "Supermarket Team,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Nov 2024 10:53:19 +0000",
+    "message_id": "<EMZPGBWJPOJDYQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "leaadpersons.com/biz/GutscheinLidl5002.png",
+      "div.kl-row.colstack",
+      "http://topmarktingplace.com/6WZFMm38203Hzsr1164ebyytcawzn14302WKBXAVXVAABUEKW2PPKX2630l10",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "http://topmarktingplace.com/4ZRqAg38203jDLS1164qvhofuzvzh14302OETYINOQWSIKHVM2AEAM2630b10",
+      ".table-mobile-only.block",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "https://leaadpersons.com/biz/GutscheinLidl5002.png",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://leaadpersons.com/biz/lidlbs.png)",
+      "http://topmarktingplace.com/4Rhjyg38203CxNR1164jiqorvrlsd14302EOLOKJZXTGEBSIR2IJLG2630Y10",
+      "https://leaadpersons.com/biz/lidlbs.png",
+      "http://topmarktingplace.com/5dmAWp38203NScD1164gwfmsalzuw14302KYZAQHOXTSFEDIB2BYNK2630p10",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5254,
+    "html_length": 26075,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Dir recht herzlich!",
+    "from": "Kinder <ZawRjJ5.com>, Kinder <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 7 Jan 2025 12:48:35 +0100",
+    "message_id": "<ZawRjJ5.0.0.ZawRjJ5.9.ZawRjJ5@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_8734451325079116\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_8734451325079116\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/mqs0cKA.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://194.87.213.176/aVNjZzRLc1hQWnFnektSWWgveVJ6c3JTdVcyNzNHK012dWUvMVIvWUFSUzBCSTZZblQwRHRFZS9maDhIcE9UZjVITU9kMU9vdTB2TzRCYjY4VzA1N1E9PQ__",
+      "http://194.87.213.176/OGR4eFo3ckZrdWxPL3BLVnYxWHZSSkwzQzFYUnNGZ0tlQllXaHo4NEk5MkpWZTFib0hhcVV4Z29ES0Y5OVpzV2prbkVOMjdwQ0N1a2RDeGU0eFhmZnc9PQ__",
+      "http://194.87.213.176/MlVEQmRqakJlUW02WE9Jbk54YUVNRnhTcmI5MklVV0x0dWZoVGVxS0lrQjk2NFJ6cmYrMnJwV2U1N0hQZjBVRWlYRDNmTE5GMDJ0eitPbGNndGlzSHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1718,
+    "html_length": 8079,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Prazo final para retirada do seu pedido na Alfândega.",
+    "from": "Correios <comercio@correios>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 14 Apr 2025 00:02:16 +0000",
+    "message_id": "<200d112c-77d1-d24d-d323-64e7b721c747@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodejens.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4654,
+    "html_length": 7642,
+    "has_text": true,
+    "has_html": true
+  }
+}

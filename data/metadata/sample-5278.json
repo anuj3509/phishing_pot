@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ihr Paket wurde nicht abgeholt.",
+    "from": "GLS.  <collie@732154-theskimm,com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 22 Apr 2025 14:14:32 +0000",
+    "message_id": "<987470956610217.1.SYL0254298707@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://JLXMilLvCJTxoOokCFWBJLXMilLvCJTxoOokCFWBJLXMi.nexusai.help/6JLXMi8839Rvvi158lrqpuytewv3764KCJZPDHXMLSYZVC91072BZPG1429p201",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd",
+      "http://nexusai.help/5JLXMi8839Rvvi158lrqpuytewv3764KCJZPDHXMLSYZVC91072BZPG1429p201",
+      "http://mzHNybpbeYgbfqSlLvCJTxoOokCFWBmzHNybpbeYgbfqS.nexusai.help/track/3JLXMi8839Rvvi158lrqpuytewv3764KCJZPDHXMLSYZVC91072BZPG1429p201",
+      "http://JLXMilLvCJTxoOokCFWBJLXMi.nexusai.help/4JLXMi8839Rvvi158lrqpuytewv3764KCJZPDHXMLSYZVC91072BZPG1429p201",
+      "zupimages.net/up/24/51/8x1c.jpg",
+      "zupimages.net/up/24/51/z28k.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2045,
+    "html_length": 5283,
+    "has_text": true,
+    "has_html": true
+  }
+}

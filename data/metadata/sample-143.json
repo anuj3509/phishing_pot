@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Heb jij dit weekend tijd?",
+    "from": "\"Helin\" <newsmail@app7I.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Fri, 2 Dec 2022 18:38:51 +0000",
+    "message_id": "<0.0.0.6AE.1D9067D52D8A454.282E@annamagicart.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nospamlink.com/ebc449f0-c9ef-41fb-bc65-2183719864bc/",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);",
+      "http://smarttrck.com/?a=77&amp;c=14&amp;s1=rebha4&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2357,
+    "html_length": 9438,
+    "has_text": true,
+    "has_html": true
+  }
+}

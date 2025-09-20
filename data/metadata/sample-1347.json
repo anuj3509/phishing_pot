@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Amazon Prime Video Standard-Abo",
+    "from": "Amazon Prime, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 13:22:02 +0200",
+    "message_id": "\r\n <7529b136-3d3b-4cb5-895f-2a140c0d1c8c@DB5EUR02FT022.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/media/fd383a1049f3c83.jpg",
+      "http://easilett.com/oop/150_md/2010/66/2/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/op/150_md/2010/66/2/23/2459859",
+      "http://easilett.com/cl/150_md/2010/66/2/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2030,
+    "html_length": 8516,
+    "has_text": true,
+    "has_html": true
+  }
+}

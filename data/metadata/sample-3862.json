@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Sophia versucht, Sie zu kontaktieren",
+    "from": "Dating-Experte,(<service@otto.de>)",
+    "to": "phishing@pot",
+    "date": "Sat, 31 Aug 2024 13:31:03 +0000",
+    "message_id": "<WUPBXSHYZUDYOQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "div.kl-row.colstack",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5DvCGQ32262wING971ujipyzutor14302ZUQULQAPNINAYMS2TTHY2619H10",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6fNyBL32262Ugce971bmyoekqqgd14302HINOIJNKIBPHQLD2WAHM2619K10",
+      ".table-mobile-only.block",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4vEVsy32262MgjN971qalcqpakxc14302GMOCPXYHXUNDSHX2QHIK2619R10",
+      "https://sensiloedper.com/bizgstorage/DEGirl.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4cpmdn32262gXLx971qgrecnzpub14302OHUFYVTSEUKZEWI2ORID2619D10",
+      "sensiloedper.com/bizgstorage/DEGirl.png",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5227,
+    "html_length": 25552,
+    "has_text": true,
+    "has_html": true
+  }
+}

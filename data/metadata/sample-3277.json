@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Geschafft hast du es ��� und jetzt bist du drin! we",
+    "from": "Temu, <service@stayfriends.de.>, Temu, <service@stayfriends.de>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 May 2024 11:42:24 +0200",
+    "message_id": "<wserlne.s0qbm.a4i.a4i@bzumzsdpfqxlcek.bqo>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/tmu-header-de.png",
+      "http://bauunternehmen-mayr.de//oop/9231_md/4049/25757/1374/281/76468",
+      "https://sf22.sendsfx.com/admin/temp/user/2/tmu-header-de.png",
+      "http://bauunternehmen-mayr.de//cl/9231_md/4049/25757/1374/281/76468",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1778,
+    "html_length": 9414,
+    "has_text": true,
+    "has_html": true
+  }
+}

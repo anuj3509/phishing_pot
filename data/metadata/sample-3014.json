@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Proposta exclusiva para: Rodrigo",
+    "from": "\"Plano Amil\" <contato@cotaragora.com>",
+    "to": "\"Rodrigo\" <phishing@pot>",
+    "date": "Wed, 06 Mar 2024 04:03:02 -0600",
+    "message_id": "<20240306100347.3459.319367613.swift@cotaragora.activehosted.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-184516980965e83f56c42417.73258355_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-184516980965e83f56c42417.73258355_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cotaragora.lt.acemlnd.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY290YXJhZ29yYS5jb20lMkZsZWFkcyUyRmFtaWwlMkZhZi5waHAlM0ZhJTNEYWN0aXZl&amp;sig=7f3DdxYKJenNu157LrAgHzyamMjgCXEHajHpfQWk3sy2&amp;iat=1709719427&amp;a=%7C%7C253712859%7C%7C&amp;account=cotaragora%2Eactivehosted%2Ecom&amp;email=OL3IBWb1ZmFGdTchlHZ2UNdX22rjLqEE3gi2gWbNwJ4X5Ht5p9EO%3AMMY38sTEAsjlufNF0PVVliwlZ0x5lHem&amp;s=d7220edfb1b1f74f093793a94fd89618&amp;i=6808A7060A125A20436",
+      "http://cotaragora.activehosted.com/proc.php?nl=125&amp;c=6808&amp;m=7060&amp;s=d7220edfb1b1f74f093793a94fd89618&amp;act=unsub",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1552,
+    "html_length": 5136,
+    "has_text": true,
+    "has_html": true
+  }
+}

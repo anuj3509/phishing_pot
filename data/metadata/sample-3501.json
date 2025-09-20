@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Claim Your $30.000 ETH Reward NOW for a Limited Time Only!",
+    "from": "DeBank <>",
+    "to": "phishing@pot",
+    "date": "Wed, 17 Jul 2024 15:38:09 -0400 (EDT)",
+    "message_id": "<20240717193809.3F51D64514@sk.globalexceltrade.xyz>",
+    "content_type": "multipart/mixed; boundary=\"--tn3FdD492a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--tn3FdD492a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lh3.googleusercontent.com/pw/AP1GczMf5MXi1kKsORKLbkb9eD502cX2fISuwrxndczYdQoULXlZ9LmxZ7TC01ZusmI4tRRQ9U8JAnaGThLiZbZ6NNsNrI_ahUq1DVLu3iYDcae8zzUBioR5eE0LaBK2nlBHRKiBJoqI9MSi05XOTb1Yhcc=w796-h218-s-no-gm",
+      "https://fonts.googleapis.com/css?family=Lato:400,700",
+      "https://google.com/amp/s/innovatech.website"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1844,
+    "html_length": 11045,
+    "has_text": true,
+    "has_html": true
+  }
+}

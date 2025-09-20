@@ -1,0 +1,712 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your currently send was delayed Thu, May 22, 2025
+From: C󠄹o󠄹i󠄹nb󠄹a󠄹s󠄹e <mail.apps-wk@tamperfinder.com>
+To: <customertGUrUCnZcD>@wallets.coinbase.com
+Date: Thu, 22 May 2025 12:47:06 +0000
+Message_Id: <C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>
+Content_Type: multipart/mixed;
+	boundary="inmixwyJqwWlvaXNU8ikl0zPYBhSgvdE5F4S3U7K8GmI"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixwyJqwWlvaXNU8ikl0zPYBhSgvdE5F4S3U7K8GmI"
+
+ATTACHMENTS:
+--------------------
+- emails-tamperfinder.mobileconfig (application/octet-stream, 5214 bytes)
+- carddav-tamperfinder.mobileconfig (application/octet-stream, 5062 bytes)
+- caldav-tamperfinder.mobileconfig (application/octet-stream, 6126 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://ewallet.tamperfinder.com/en-us/member?abd1402c1ac09f07322b213d18b8d816&customer_xa=3642387925
+  - http://mail.tamperfinder.com:2079/calendars/tamperfinder/calendar
+  - http://mail.tamperfinder.com:2079
+  - http://mail.tamperfinder.com:2079/addressbooks/tamperfinder/addressbook
+  - https://ewallet.tamperfinder.com/en-us/member?d29d1b2f2186368b879a6058c943e482&amp;customer_ww=2099292081
+  - https://mail.tamperfinder.com:2080
+  - Mail.app®
+  - tamperfinder.com
+  - https://mail.tamperfinder.com:2080/addressbooks/tamperfinder/addressbook
+  - Mail.app&reg;
+  - ioh.ac.us”
+  - ioh.ac.us&rdquo;
+  - mail.tamperfinder.com
+  - https://mail.tamperfinder.com:2080/calendars/tamperfinder/calendar
+
+DECODED TEXT CONTENT:
+------------------------------
+<p>&nbsp;</p>
+<center>
+<table style="font-family: Arial, sans-serif; font-size: 14px; color: #5e5e5e; background-color: #ffffff;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding: 20px 0;" align="center"><img style="display: block;" src="data:image/png;base64,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" alt="Email Logo" width="246" height="71" /></td>
+</tr>
+<tr>
+<td style="padding: 20px;" align="left">
+<p>&nbsp;</p>
+<div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #dddddd;">
+<h2 style="color: #d9534f; text-align: center;">⚠️ Wallet Activity Detected</h2>
+<p>We noticed new activity on your wallet.</p>
+<p>We noticed a recent transaction send out to bc1qp5jg4xvvh25tj8skfsnlgx23nv9rsqlr7521at has been delayed from your connected wallet.</p>
+<div style="text-align: center; margin: 30px 0;"><a style="background-color: #0052ff; color: #ffffff; padding: 14px 28px; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 6px;" href="https://ewallet.tamperfinder.com/en-us/member?abd1402c1ac09f07322b213d18b8d816&customer_xa=3642387925"> Login To Wallet Now </a></div>
+<p>&nbsp;</p>
+<p style="margin-top: 30px; font-size: 12px; color: #888;">🔒 Never share your recovery phrase or private keys with anyone. We will never ask for them.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<table style="width: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td align="center">
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for &ldquo;tamperfinder&rdquo;.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@tamperfinder.com</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@tamperfinder.com</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">tamperfinder</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.tamperfinder.com:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.tamperfinder.com:2080/calendars/tamperfinder/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.tamperfinder.com:2080/addressbooks/tamperfinder/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">tamperfinder</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.tamperfinder.com:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.tamperfinder.com:2079/calendars/tamperfinder/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.tamperfinder.com:2079/addressbooks/tamperfinder/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS&reg; Mail.app&reg; for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of &ldquo;221.101.23.11&rdquo; through the &ldquo;cpanel&rdquo; service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer&rsquo;s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: &ldquo;IOH B2B&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: &ldquo;For abuse and spam report please contact abuse@ioh.ac.us&rdquo;</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25" /></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright&copy;&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p>&nbsp;</p>
+<center>
+<table style="font-family: Arial, sans-serif; font-size: 14px; color: #5e5e5e; background-color: #ffffff;" border="0" width="600" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="padding: 20px 0;" align="center"><img style="display: block;" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjAAAACiCAMAAABoHgc8AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGDUExURYCAgEBAQCQ3NyAwQAAAACMuOiQuNyoqOSAqNZ+vvxBQ/xBQ7yAwMCAgQCAgMCAwMKevvxBQ9xBQ7yAoOCAoMCAoMBVQ9BBQ9BBQ7yAqNSAqMCAlNSAqMKezvxRQ8yAsOCAsNCAoNBNU+SAqNBNT9RNT8hNQ9RNQ8iApNiApMyAmNhNT9yArNiAoNqqyvxVS8hNS9BNS8hNQ9CAqNSAoNRJT9iAsNyAsNSApNRRS9hRS9BJS9CAsNyArNyApNyApNxRS9xRS9SAqNhRS9RRS8xRQ9SAqNiAqNBRS9iArNRNR9BNR8yAqNSApNyApNRVS9RNT9RNS9xNS9SAqNyAqNRNR9CApNiApNSAqNhRS9hRS9RNS9hNS9SAqNiApNhRR9SAqNhRR9hRR9CArNSApNSApNiAqNhRS9BVR9RRR9RRR9CAqNiAqNSAqNiApNqqzwBVS9RNS9SAqNiApNiAqNqq0wBRS9RNS9RNS9CArNiArNSAqNiAqNSAqNqq0wBRS9SAqNuohuSsAAAB+dFJOUwAAAAAAAQEBARAQEBAQEBEgICAgICEwMDAwMDAxQEBAQEBPT1BQUFBQUFBfX19gYGBgYGBgb29vb3BwcHBwcHF/f3+AgICAgI+PkJCQkJCfn5+fn5+goKCur6+vr6+vsLC/v7+/wM7Pz8/Pz8/e3t/f39/f7u/v7+/v7+/v/pkWlUYAAA0/SURBVHja7Z3/f9tGGcfbIb4sckJlh7ghoOJCZ0K62RDMWEu6dDGmc9PR2HWzgPtFtiFJa5jtQuMsXXV/Oi/JlnR3ujvJsZU09PP5qdHp+/P2c8/d85x6SYOgCXQJrwACMBCAgQAMBGAgAANBAAYCMBCAgQAMBGAgAANBAAYCMBCAgQAMBGAgAANBAAYCMBCAgQAMBGAgCMBAAAYCMBCAgQAMBGAgCMBAAAYCMBCAgQAMBGAgCMBAAAYCMBCAgQAMBGAgCMCcl658882HAOb8pRfG0t/xG/3k7dtPAMz5y7DHMgEMgAEwAAbAAJgZ6VeWbR+sARgAE093R3a3dAADYGKo6Bn+HoABMDHU9wxv6wAGwEQq6/NiXwcwAAbAAJjZSg+AWQIwACZalmf4PoJeABPH8F7UawAYABOfmP6kdgcw7yswmpYvlwtzGoABMIk6JgAj0i/q9XrO+yNVr9fvABgAo9A6IWTd+yNDCGkDGAADYADMewiMYZy+9RRHhoCJdQXdiMpYRe6g6QaAmQ6YpdJOb+jYbnhQW0uH3m9p52Dcuhdu1TRzLK5Jz5d29kante2eVc2npcDoharyCqP9SzsHPfeAoVXNC0HwH8OqSU5jlvZG5zjYKy3NBpiFTCazINoo3rpw4YHRN3s2I4uphTItVStt+N9S5yzscCd1VFsSHrfFXUFUixW6yX6NJ+Jq1I1qWtGKvNDkwGwQQuois5MHol0/vuDA6JvDsGWtAJd+uLW/pgbG2LRsiWgrG7ZU3BVC0Ip2uifYg2VK8Cz99PTAOEY94TfuOsB0+a0dQkjmYgMjAiKIKvS/Rts9BIxpK0RZyFDtt8dYUgLgJrWL8E7LEUTZ9uv89DHMgBCyIthGCN/9HBPy6mLHMCWhIarj1nQ/ht0nA8bu67GAYX/7Mo9lqmmggdFl51ibGphtQgg3u7bo8kJ+yW7NiTqv2QEzGAzaCQNzV2wrI4oXsaeIBYy9Fw8Yhhgrir6iHQXMoew6r9PTArMatuo6ISfHoSCmEmZolsAQQgbJAnNX+ZtT8ULbc0JgglG0HZsYaUy0Nd5hP9jUa7VeDEPA3JNf52BaYFLhIGaXkHYnFMR0BL3URQLmKv3ahq1quVAqN/t+WUuTam2V8kbWLDVF71kFzPBFs1ar1VpDQUTNAPOiVi2Xay1J6D0CplUt5U0zX6b2Gt+rX/U3LI9yoNliiwGG8kCtgqFpc2ajH7tTipyHcUDIMVu6hFQ2eDxSsaz/DgPTp4Hwk81ZM/SOa/5El9EI/7qlwNQKwQRZPrjYa50HpuWnuueKfVF4YdH7UBU4Xg3Obe/PLBVaNQJgAmcZFGEY9+MWfkUCU+GDGCeEyeX4DsjZULnAwAQd0vBWuDV4x8MivT3blxqeB4adTy3zfZIh/oUXj+yQJS12BkfTD9lrehjX2PF+3wPGx/yQLsK4HzM3EQlMjjerE9W4Y6IHfHCcu7jAUL+6rKDZ/9HaXKtxxLmYmMAEgcgtdS7JCHcWocl+kw1rLfbMwanGj+o/KVu0c8iNCk+dGjgm5GSBC2HcnqrN9VN0qLPw60r9SfvJVzcXJwQm82noOHdi2QEmM9JCAsAUZURw/dUW35LnXExcYPztD9XAUEha0rvvMeeywnPNwkeV3FF/WmCecr6j6/Y9FTaIcUKY576FP20TX48WJwDmWnDgy5u0j6NVTwAYORGMdQUvk3MVcYHxjfwsAhjKu0nziA0GmKawS/K1L2nWj2KtwIsGZoONThZH/ORYjFapvMDyt4x9T1biArPYZg70UDsDYLLqkK+hGEKYrAOIDUyD9RuK8gbLVrsMHpiGMhpJS1utWOtjooHh7Lo6ci0pNojZpSaExwYeDAZjYhbjAfPT0f7der3zanSGhbMC5rZ6ULmvwsl7z6+TAqZgR0UXLDCBS9oUTMPdkD7L/SguYwLjZgIWuBCGD2K6VF4gR0jnj8ujf3ZcVxELmEXHMb2pzI/aHpOglYth5mcPTNNWLQ7xV6cJnXyZOTYBYPzLP4sHDDWlM6yZMixq0ge5NS0w7ACoO/Ys2zRGi/QPP9fJsQcHMbMCmEWHy84848nIzTMaJXle4lBThjBC/3ODWRubADASB6cvFUrlHVd9NoBmp4Ktqil61GGP11CUpDwNMKt0McOiRw8TxKzL8wLHdJMCGKdTe0IfeIdhJFlgesrf8A1lUGAwUW8SwDSYTm902qqgwsYDJpSOoMtl9u0oTQ1Mii5mWPUcS4qOhXflpQ1M9lIOjAPiq4x8jjlZYNRRQkHZYWnMi04CGH9OzfMtoqodChhqWtDXvTT320gQGCZNtOvDQwcxA0F9DMVIJRqY3XD51Qbt2c4GmPI7CUyZBeaqNA/6UJMT42Uvj84AGDoR3fWNuB0EJyuiCjxRzkAOjKCaJkPP7bzPwLAeZk1u6oeiCWJ/ZnHpzIDJBTykAnaoIGZdkReIB4ywmuaYgiRZYI5Cb1wIzJJyDJUYME066FXVS9C3bzbF9TJel/S3mkwfTQ0MZbnVoHeigpingjrOyYBxnNhfcpyOqdOeTdB7qEWPg6RjqMRHSRYzJ20Pa4WsIRhW+16m2OiH62X2Y822TAlMEMRsU8FK17f3sSApdDmTW3f0RSxgnhKJzgaYJpdzloyDqspJPzMhYNL05Yt8sYscmBE0VL2M+3TNeDnG6YDZ8O3cpYKVbc8BrITKOK990abzA9HAdM4XmIjc/pEq/ddkUj0JAFOkp4H2RUnShqpHpap2rlOPaiUJTMaLMFL0pMqqF7lscIXiP2tzVo8Gpnu+wJjqjHBTEcSkE88l7VOn0IVfdVUCQ42ZypGTSjMCxhk2DzxGMvT8zJ2xe6BHOH8a2/pNt9PpdLqxgVHeQbLA+Jla8Wu8rcgN3GUHF7MHxncwh/TpliYAxp/dfUg/qpUkMI/HoGwz8y1eEHNMj3A+cHl582B1fpKgN7IiOOECqqZyMZeCpzRXHzlzYILSrjXp6aKAuU9PZPuJg88SBGZ97Ey6zOB3HMTk6Dm3yz9xgpev5yccJT0WLH86S2CCweqBrsjuhXjS+7bE8DMCJqi/dNe7xAEmm5b1Sc/YRxXOEqT1WQCTGgUxKTZlNJ5+qdD91Pecv76eeFi9EV7+dKbAUAk7kY/JSloDc4Zqc2cDDLW6ZYu5kS05MCazCFILjYyCU4Z9jL45NGYBjNNlnHAhjB/EMEtOftQh5LuViYFZiarvTRoYej6MLiPRuWEUs4iZWlpb0xIAhk4a9dlZQmbFGQ8Mt9I6zRYFmpJVvpqWda43G2C23S5jm0sZDRwrp5i8wA8GhPznFKmBQUQReeLLTO4zCxJLpqFpxlJpZ5jmuh7HGu42o2SF10dOD8xeftxTGIUdOseY5Txh/7oCGCdBvRTGerzp78xXHbzL5atWnO/FxgQm5zqTLjd/7wYxbLHmaYFxerKX5wmMLlk+avGd0riYhE0Yf6TNChh3vWKv15OsaqQWSB24VGuGkW+FgXGY2auWC2XqSyP9UOAlutxsgHEqMp+n+IyyY/+VbWZE/P2nhHyXmxwY5wLkS2V24iRRYET5OrqP+J0qX7elzRQY1QUOI3NJ0mzTWtSjzhAYN4hZ5ateHJPf6TLRhxv0/nNyYEYVdhwxf3hOD+EjPyYyHTCy1+itcVcQc0tLGBj6AkenBaYV/eOYITDOMOZlqARhQMg/2PHNpR87ruJfixMD44ZJZEA5p2ttqnmbwulaMsBoekP4Br1J1azkLQ9NLVlg2LV12f7pgOnTd2AcJg3MirBi3y3VZkdFH3zubmtXcsuZhUwm92VcYEbEkIFzYCa3Xv+WaXaXDjxadla6tUlCwGhaUWiMz8JZGUrNOS1RYOgs42jXphoY/YXQv3BnuS3xp1EZg9gfRTx2zflxeEKPkH8z29xOadJckh/4snrEZsz5BNPMgREh08oLE3leqynJbE8IjGaUWsLPb5QFX6E3W2Jg/uw9RCvqs2fOBcthZFrTf1CIcyYr4awkV7vtFDY8Ph0wGnfgKxrPzCt/+5sEgXHqq1vUZz/KBl8v0BwGraWQNfXyWOPRatr7m59AzY+3UyaaM8st2jsMm6WsLN4qNhg/0mvVSuac+DbtXlXiNkz6JL1aKc7/kBAbmFzdEbfxh185G3/D73s58/snXv558OTB+jx9EubT8fwHHzIPvOO6D7hpmVRlhEynMp8oMG6cYBYKhYIp6c4NM69onVZZ9+yFfDbSfEZ29IVXySd959wTRZ1n9Kh5I+5/p5Hkd3onWnQWaDmXW87IWiY64wX6EviFEf43EwjAABgAA2AADIABMAAGwAAYCMBAAAbAABgAA2AADIABMAAGwEAABgIwAAbAABgAA2AADIB5b/Xzt/+9AmCg+LryoQZgIAjAQAAGAjAQgIEADARgIAjAQAAGAjAQgIEADARgIAjAQAAGAjAQgIEADARgIAjAQAAGAjAQgIEADAQBGAjAQAAGAjAQgIEADAQBGAjAQAAGAjAQgIEADAQBGAjAQAAGAjDQ/6H+B6y4dJ+ldJV5AAAAAElFTkSuQmCC" alt="Email Logo" width="246" height="71"></td>
+</tr>
+<tr>
+<td style="padding: 20px;" align="left">
+<p>&nbsp;</p>
+<div style="max-width: 600px; margin: auto; background-color: #ffffff; padding: 30px; border-radius: 8px; border: 1px solid #dddddd;">
+<h2 style="color: #d9534f; text-align: center;">⚠️ Wallet Activity Detected</h2>
+<p>We noticed new activity on your wallet.</p>
+<p>We noticed a recent transaction send out to bc1qp5jg4xvvh25tj8skfsnlgx23nv9rsqlr7521at has been delayed from your connected wallet.</p>
+<div style="text-align: center; margin: 30px 0;"><a style="background-color: #0052ff; color: #ffffff; padding: 14px 28px; font-size: 16px; font-weight: bold; text-decoration: none; border-radius: 6px;" href="https://ewallet.tamperfinder.com/en-us/member?d29d1b2f2186368b879a6058c943e482&amp;customer_ww=2099292081"> Login To Wallet Now </a></div>
+<p>&nbsp;</p>
+<p style="margin-top: 30px; font-size: 12px; color: #888;">🔒 Never share your recovery phrase or private keys with anyone. We will never ask for them.</p>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</center>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<div dir="auto" style="line-break: after-white-space; word-wrap: break-word;">&nbsp;</div>
+<table style="width: 0 auto;" border="0" width="100%" cellspacing="0" cellpadding="10">
+<tbody>
+<tr>
+<td align="center">
+<table style="border: 0; width: 0 auto; max-width: 680px;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 16px; color: #333333;" width="680" height="25">Client Configuration settings for “tamperfinder”.</td>
+</tr>
+<tr>
+<td style="padding: 15px 0 20px 0; background-color: #ffffff; border: 2px solid #E8E8E8; border-bottom: 2px solid #FF6C2C;">
+<table style="background: #FFFFFF; font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;" border="0" width="680" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td width="15">&nbsp;</td>
+<td width="650">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div id="manual_settings_area" class="section">
+<h2 id="hdrManualSettings">Mail Client Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div id="ssl_settings_area" class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended)</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblSSLSettingsAreaUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valSSLSettingsAreaUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@tamperfinder.com</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valSettingsAreaPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valSettingsAreaIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 993</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 995</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="lblSettingsAreaOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="valSettingsAreaOutGoingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 465</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="lblSettingsAreaSmallNote1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div id="nonSSL" class="row" style="display: none;">
+<div class="col-md-6">
+<div id="non_ssl_settings_area" class="panel panel-default panel-warning" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;"><span id="descNonSSLSettings" class="caption not-recommended">Non-SSL Settings (NOT Recommended)</span></div>
+<table id="tblManualSettingsTable" class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td id="lblNonSSLSettingsUsername" style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td id="valNonSSLSettingsUsername" class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">_mainaccount@tamperfinder.com</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsPassword" style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td id="valNonSSLSettingsPassword" class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td id="lblNonSSLSettingsIncomingServer" style="border-top: 1px solid #ddd; padding: 8px;">Incoming Server:</td>
+<td id="valNonSSLSettingsIncomingServer" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Internet Message Access Protocol">IMAP</abbr> Port: 143</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr class="initialism" title="Post Office Protocol 3">POP3</abbr> Port: 110</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td id="NonSSLSettingsOutgoingServer" style="border-top: 1px solid #ddd; padding: 8px;">Outgoing Server:</td>
+<td id="NonSSLSettingsOutgoingServerData" class="data" style="border-top: 1px solid #ddd; padding: 8px;">mail.tamperfinder.com
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><abbr title="Simple Mail Transfer Protocol">SMTP</abbr> Port: 26</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td class="notes" style="border-top: 1px solid #ddd; padding: 8px;" colspan="2">
+<div id="descNonSSLSettingsAuthenticationIsRequiredForIMAPPOP3SMTP1" class="small_note">IMAP, POP3, and SMTP require authentication.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+<div class="section">
+<h2>Calendar &amp; Contacts Manual Settings</h2>
+<div class="row">
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #428bca;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #428bca; border-color: #428bca; color: #fff;">Secure <abbr title="Secure Sockets Layer">SSL</abbr>/<abbr title="Transport Layer Security">TLS</abbr> Settings (Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">tamperfinder</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">https://mail.tamperfinder.com:2080
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2080</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.tamperfinder.com:2080/calendars/tamperfinder/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">https://mail.tamperfinder.com:2080/addressbooks/tamperfinder/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-md-6">
+<div class="preferred-selection panel panel-primary" style="background-color: #fff; border: 1px solid transparent; border-radius: 4px; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05); margin-bottom: 20px; border-color: #f6c342;">
+<div class="panel-heading" style="border-top-left-radius: 3px; border-top-right-radius: 3px; padding: 10px 15px; background-color: #fcf8e1; border-color: #f6c342; color: #333;">Non-SSL Settings (NOT Recommended).</div>
+<table class="table manual_settings_table" style="border-collapse: collapse; border-spacing: 0; margin-bottom: 0; width: 100%; background-color: transparent; max-width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Username:</td>
+<td class="data wrap-text" style="border-top: 1px solid #ddd; padding: 8px;">tamperfinder</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Password:</td>
+<td class="escape-note" style="border-top: 1px solid #ddd; padding: 8px;">Use your cPanel password.</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Server:</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">http://mail.tamperfinder.com:2079
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">Port: 2079</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Calendar URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CalDAV Calendar</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.tamperfinder.com:2079/calendars/tamperfinder/calendar</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px solid #ddd; padding: 8px;">Full Contact List URL(s):</td>
+<td class="data" style="border-top: 1px solid #ddd; padding: 8px;">
+<ul class="port_list list-inline" style="margin-bottom: 10px; margin-top: 0; list-style: outside none none; margin-left: -5px; padding-left: 0;">
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;"><strong>cPanel CardDAV Address Book</strong>:</li>
+<li style="display: inline-block; padding-left: 5px; padding-right: 5px;">http://mail.tamperfinder.com:2079/addressbooks/tamperfinder/addressbook</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>A .mobileconfig file for use with iOS for iPhone/iPad/iPod and MacOS® Mail.app® for Mountain Lion (10.8+) is attached to this message.</p>
+<div style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; border-top: 2px solid #E8E8E8; padding-top: 5px; margin-top: 5px; font-size: 12px; color: #666666;">
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">This notice is the result of a request made by a computer with the <abbr title="Internet Protocol">IP</abbr> address of “221.101.23.11” through the “cpanel” service on the server.</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s location appears to be: United States (US).</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The remote computer’s <abbr title="Internet Protocol">IP</abbr> address is assigned to the provider: “IOH B2B”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The provider supplied the following remarks about the <abbr title="Internet Protocol">IP</abbr> address allocation: “For abuse and spam report please contact abuse@ioh.ac.us”</p>
+<p style="padding: 0 0 0 0; margin: 5px 0 0 0;">The system generated this notice on Saturday, May 17, 2025 at 3:49:02 PM UTC.</p>
+</div>
+<!-- -->
+<p>Do not reply to this automated message.</p>
+<p>&nbsp;</p>
+<p><img style="border: 0; line-height: 100%;" src="cid:auto_cid_1006069461" alt="cP" width="25" height="25"></p>
+<p style="font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif; font-size: 12px; color: #666666; padding: 0; margin: 0;">Copyright©&nbsp;2025 cPanel, L.L.C.</p>
+<p>&nbsp;</p>
+

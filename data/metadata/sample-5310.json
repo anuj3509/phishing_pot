@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Atenção: Seu CPF pode ser cancelado em breve! Protocolo: 48045500.",
+    "from": "Gov <alerta@872513cidadaocpf>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 9 May 2025 04:56:45 +0000",
+    "message_id": "<14015e3d9719ef2c86b43d861d9d3e14@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_14015e3d9719ef2c86b43d861d9d3e14\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_14015e3d9719ef2c86b43d861d9d3e14\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://acessos629536072.segurocpfbrgovbr.biz.ua"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 8229,
+    "has_text": true,
+    "has_html": true
+  }
+}

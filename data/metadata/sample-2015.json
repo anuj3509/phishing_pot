@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Treffen Sie hei��e ukrainische Singles - Siehe Fotos!",
+    "from": "Ukrainian Beauty, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 25 Nov 2023 18:18:01 +0100",
+    "message_id": "\r\n <a375293f-1567-4698-b109-22ef5611635f@DM6NAM04FT008.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.ukrainianbeauty.net//e/email/de/09/t3.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/c3.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/btn_f.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/t1.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/c2.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#oop/2843_md/2009/137/227/23/2459859",
+      "https://www.ukrainianbeauty.net//e/email/de/09/t2.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#cl/2843_md/2009/137/227/23/2459859",
+      "https://www.ukrainianbeauty.net//e/email/de/09/logo.png",
+      "https://www.ukrainianbeauty.net//e/email/de/09/c4.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/c5_f.jpg",
+      "https://www.ukrainianbeauty.net//e/email/de/09/c1.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#un/2843_md/2009/137/227/23/2459859",
+      "UkrainianBeauty.net"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 272,
+    "html_length": 7740,
+    "has_text": true,
+    "has_html": true
+  }
+}

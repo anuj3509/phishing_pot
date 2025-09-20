@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: Voce tem saldo disponivel para resgate expirando em breve!",
+    "from": "Bradesco <livelo@brasil580programarecompensa.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu,  9 Nov 2023 23:18:53 +0000 (UTC)",
+    "message_id": "<20231109233552.CE840146854@esimpd972-imqzt-esimpd972>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bradesco.com.br/livelo-resgate",
+      "https://europe-west2-subcore-synaptic.cloudfunctions.net/exclusivemicrosoft/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg==",
+      "hotmail.com",
+      "https://pilulafilmes.com.br/wp-content/uploads/2023/01/LOGO_BRADESCO_PB.png",
+      "https://i.ibb.co/GpPrN0R/marcador.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1419,
+    "html_length": 12757,
+    "has_text": true,
+    "has_html": true
+  }
+}

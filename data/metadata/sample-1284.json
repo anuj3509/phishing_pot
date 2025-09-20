@@ -1,0 +1,76 @@
+{
+  "headers": {
+    "subject": "Last Claim Reminder - Congratulations on Receiving Your PUDGY PEN...",
+    "from": "P.Penguins\r\n  <no-reply@kucoin.com>",
+    "to": "virtualcurrency-gemini-confirmation@madicetea.me",
+    "date": "Wed, 30 Aug 2023 03:02:46 -0400",
+    "message_id": "<AjrYjVf5QcroqA2CBdCrBziwV3t7T@kucoin.com>",
+    "content_type": "multipart/mixed;boundary=---------------------bf7b02044ae2592192538ed2a387739d"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/mixed;boundary=---------------------bf7b02044ae2592192538ed2a387739d"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://clicks.sorare.com/f/a/6mpY0WFai-3SCSvuIMsylA~~/AAAHagA~/RgRmtiaeP0QaaHR0cHM6Ly90d2l0dGVyLmNvbS9zb3JhcmVXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://content.app-us1.com/z4aN8/2023/08/28/810f04a1-c61d-40c5-89a0-702ad16b196f.png?id=23418010",
+      "https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfMZg.ttf",
+      "http://clicks.sorare.com/f/a/KIpGRy0qH3jTlO4iZI9-Ig~~/AAAHagA~/RgRmtiaeP0QhaHR0cHM6Ly90d2l0dGVyLmNvbS9zb3JhcmVzdXBwb3J0VwVzcGNldUIKZMqeodNkZchIBlIVYW1nc3Ryb2NhQGhvdG1haWwuY29tWAQAAAFC",
+      "news.sorare.com",
+      "http://clicks.sorare.com/f/a/lO8tnydFttcn_G2AElFsUA~~/AAAHagA~/RgRmtiaeP0QdaHR0cHM6Ly9kaXNjb3JkLmdnLzk5Qk5ya1RYWkdXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "...Experience",
+      "http://clicks.sorare.com/f/a/SmqjsC44FsReJvBHlvnHvg~~/AAAHagA~/RgRmtiaeP0QjaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NvcmFyZU1MQi9XBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "td.mj-full-width-mobile",
+      "http://clicks.sorare.com/f/a/vbYDPT92BK1pOaiuwf5f7A~~/AAAHagA~/RgRmtiaeP0QhaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zb3JhcmUvVwVzcGNldUIKZMqeodNkZchIBlIVYW1nc3Ryb2NhQGhvdG1haWwuY29tWAQAAAFC",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a64a1edfd46f0e148fd9/original.png?1657120330",
+      "http://clicks.sorare.com/f/a/6RZpXzHcWfYuhtNi7wrpaQ~~/AAAHagA~/RgRmtiaeP0QiaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NvcmFyZUhRL1cFc3BjZXVCCmTKnqHTZGXISAZSFWFtZ3N0cm9jYUBob3RtYWlsLmNvbVgEAAABQg~~",
+      "http://www.w3.org/1999/xhtml",
+      "http://clicks.sorare.com/f/a/vbcAnR5Za4SJNBgPAXvBcA~~/AAAHagA~/RgRmtiaeP0QbaHR0cHM6Ly9zb3JhcmUuY29tL2NhcmVlcnMvVwVzcGNldUIKZMqeodNkZchIBlIVYW1nc3Ryb2NhQGhvdG1haWwuY29tWAQAAAFC",
+      "http://clicks.sorare.com/f/a/CdBz1biylovoQQT1Zk8yzQ~~/AAAHagA~/RgRmtiaeP0QdaHR0cHM6Ly90d2l0dGVyLmNvbS9Tb3JhcmVOQkFXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "div.container-no-top",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/630cb4a2c348ce4554ef9d68/original.png?1661777058",
+      "http://clicks.sorare.com/f/a/W-O0BZBVqe8F2ELXsUcUIw~~/AAAHagA~/RgRmtiaeP0TjaHR0cHM6Ly9zb3JhcmUuY29tL2Zvb3RiYWxsL2xvYmJ5L3VwY29taW5nP3V0bV9zb3VyY2U9Y3JtJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWNvbnZlcnNpb25fY2FtcGFpZ25fc2Vhc29uX3N0YXJ0X3BsX2Zvb3RiYWxsJnV0bV90ZXJtPXYtY2RkMGEyNjQtYmY2OS00Y2ZiLWI5YWItMTA2YjQ1NmM2YmJkJnV0bV9jb250ZW50PWQtNjRkMzliOWZlOWRlZDQ3ZWZjM2NhMTM1MTFlNGM1ZGFXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/q/ial9z2yS0hWDJVIdX8ztvg~~/AAAHagA~/RgRmtiaePVcFc3BjZXVCCmTKnqHTZGXISAZSFWFtZ3N0cm9jYUBob3RtYWlsLmNvbVgEAAABQg~~",
+      "http://clicks.sorare.com/f/a/Qxp0uhw34Dii2uAfu3FBUQ~~/AAAHagA~/RgRmtiaeP0QgaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL1NvcmFyZS9XBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a285df496f03db529859/original.png",
+      "div.container-no-bottom",
+      "div.container-side",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a285c18d7134429a97ce/original.png",
+      "http://clicks.sorare.com/f/a/uDHVi-qyQlqb7K3HT1aVww~~/AAAHagA~/RgRmtiaeP0QdaHR0cHM6Ly9kaXNjb3JkLmdnL1NUZFd2NURyNzlXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/0FgOufV06beNmqLwTHo2og~~/AAAHagA~/RgRmtiaeP0QdaHR0cHM6Ly90d2l0dGVyLmNvbS9Tb3JhcmVNTEJXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/Bi7OFIFOY1tlqIJSlkNNXA~~/AAAHagA~/RgRmtiaeP0QjaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL1NvcmFyZU5CQS9XBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/QvxqeWv4ev8Z8kzwXnZDAA~~/AAAHagA~/RgRmtiaeP0QjaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zb3JhcmVuYmFXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuI6fMZg.ttf",
+      "http://clicks.sorare.com/f/a/Bzp6pOxo65n05wgQgoWXsg~~/AAAHagA~/RgRmtiaeP0QpaHR0cHM6Ly9zb3JhcmUuY29tL3NldHRpbmdzL25vdGlmaWNhdGlvbnNXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a285dd05483ecbc95fd6/original.png",
+      "http://clicks.sorare.com/f/a/FTAUeTgl0_q2gujY2HYAvg~~/AAAHagA~/RgRmtiaeP4QVAWh0dHBzOi8vc29yYXJlLmNvbS9mb290YmFsbC9tYXJrZXQvdHJhbnNmZXJzP3Jhcml0eT1saW1pdGVkJnNvNUxlYWd1ZT1QcmVtaWVyK0xlYWd1ZSZscz10cnVlJnV0bV9zb3VyY2U9Y3JtJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWNvbnZlcnNpb25fY2FtcGFpZ25fc2Vhc29uX3N0YXJ0X3BsX2Zvb3RiYWxsJnV0bV90ZXJtPXYtY2RkMGEyNjQtYmY2OS00Y2ZiLWI5YWItMTA2YjQ1NmM2YmJkJnV0bV9jb250ZW50PWQtNjRkMzliOWZlOWRlZDQ3ZWZjM2NhMTM1MTFlNGM1ZGFXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/YHMl5IDoRCmkmjxi04K4JQ~~/AAAHagA~/RgRmtiaeP0QmaHR0cHM6Ly93d3cudGlrdG9rLmNvbS9Ac29yYXJlP2xhbmc9ZW5XBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://fonts.gstatic.com",
+      "https://t.co/LXedZYL5RD?FTAUeTgl0_q2gujY2HYAvg~~/AAAHagA~/RgRmtiaeP4QVAWh0dHBzOi8vc29yYXJlLmNvbS9mb290YmFsbC9tYXJrZXQvdHJhbnNmZXJzP3Jhcml0eT1saW1pdGVkJnNvNUxlYWd1ZT1QcmVtaWVyK0xlYWd1ZSZscz10cnVlJnV0bV9zb3VyY2U9Y3JtJnV0bV9tZWRpdW09ZW1haWwmdXRtX2NhbXBhaWduPWNvbnZlcnNpb25fY2FtcGFpZ25fc2Vhc29uX3N0YXJ0X3BsX2Zvb3RiYWxsJnV0bV90ZXJtPXYtY2RkMGEyNjQtYmY2OS00Y2ZiLWI5YWItMTA2YjQ1NmM2YmJkJnV0bV9jb250ZW50PWQtNjRkMzliOWZlOWRlZDQ3ZWZjM2NhMTM1MTFlNGM1ZGFXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/7Gk0jzw0f4Fp82P09ESmsQ~~/AAAHagA~/RgRmtiaeP0TSaHR0cHM6Ly9zb3JhcmUuY29tL2ludml0ZT91dG1fc291cmNlPWNybSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1jb252ZXJzaW9uX2NhbXBhaWduX3NlYXNvbl9zdGFydF9wbF9mb290YmFsbCZ1dG1fdGVybT12LWNkZDBhMjY0LWJmNjktNGNmYi1iOWFiLTEwNmI0NTZjNmJiZCZ1dG1fY29udGVudD1kLTY0ZDM5YjlmZTlkZWQ0N2VmYzNjYTEzNTExZTRjNWRhVwVzcGNldUIKZMqeodNkZchIBlIVYW1nc3Ryb2NhQGhvdG1haWwuY29tWAQAAAFC",
+      "http://clicks.sorare.com/f/a/ZBV1Q7TsWd9HHr5Ovo5Xbg~~/AAAHagA~/RgRmtiaeP0QmaHR0cHM6Ly9kaXNjb3JkLmNvbS9pbnZpdGUvc281bWxmb290ZXJXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "http://clicks.sorare.com/f/a/9wtTjJTj2wshd5MuC01K7g~~/AAAHagA~/RgRmtiaeP0QiaHR0cHM6Ly93d3cueW91dHViZS5jb20vYy9Tb3JhcmVIUVcFc3BjZXVCCmTKnqHTZGXISAZSFWFtZ3N0cm9jYUBob3RtYWlsLmNvbVgEAAABQg~~",
+      "https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a2851edfd45b0e149205/original.png",
+      "https://api.telegram.org/bot6442842193:AAE1Fi0q9T2wIeucXjsucsXM6tL8jbU50JQ/sendMessage?chat_id=6585899818&amp;text=infer1-virtualcurrency-gemini-confirmation@madicetea.me",
+      "http://clicks.sorare.com/f/a/H3C6ZS4wvRvxM655N8xXUQ~~/AAAHagA~/RgRmtiaeP0QjaHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS9zb3JhcmVtbGJXBXNwY2V1Qgpkyp6h02RlyEgGUhVhbWdzdHJvY2FAaG90bWFpbC5jb21YBAAAAUI~",
+      "https://fonts.googleapis.com",
+      "table.mj-full-width-mobile",
+      "https://cdn.braze.eu/appboy/communication/assets/image_assets/images/62c5a285cc6f2027320c9cc3/original.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4936,
+    "html_length": 64934,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,69 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Time-Sensitive: Claim Your Reward Before It Expires!
+From: Immediate: Halfords Advanced 200 Piece Socket & Spanner Set Info Needed <Help@ncfww.com>
+To: <phishing@pot>
+Date: Tue, 22 Jul 2025 12:56:49 +0000
+Message_Id: <e9yML9EJXOtdMWs0RKbasyLzNMNH7D@facebook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - pbs.twimg.com/media/GwdlI60XYAQw28K?format=png&amp;name=small
+  - https://pbs.twimg.com/media/GwdlI60XYAQw28K?format=png&amp;name=small
+  - https://t.co/TsYy3AZQh4
+  - https://t.co/qDsOrAb7C5
+
+DECODED TEXT CONTENT:
+------------------------------
+Survey about Halfords If you no longer wish to receive these emails, you may unsubscribe by clicking here .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Survey about Halfords</title>
+</head>
+<body style="margin:0; padding:0; text-align:center; background-color:#ffffff; font-family: Arial, sans-serif;">
+
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center">
+
+        <table cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td align="center" style="padding: 20px 0;">
+
+              <a href="https://t.co/qDsOrAb7C5" style="text-decoration:none;">
+                <img src="https://pbs.twimg.com/media/GwdlI60XYAQw28K?format=png&amp;name=small" alt="" style="display:block; border:0;"><br>
+                <img src="//pbs.twimg.com/media/GwdlI60XYAQw28K?format=png&amp;name=small" alt="" style="display:block; border:0;">
+              </a>
+
+            </td>
+          </tr>
+
+          <tr>
+            <td align="center" style="padding: 30px 0 10px 0; font-size: 13px; color: #555555;">
+              If you no longer wish to receive these emails, you may unsubscribe by clicking
+              <a href="https://t.co/TsYy3AZQh4">here</a>.
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>
+

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Notice: Wholesale Survey Offer expiring soon!",
+    "from": "Confirmation Needed <xlhlcjfcvt@yris3bofrz.onmicrosoft.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Oct 2023 02:31:27 +0000",
+    "message_id": "<6l69b3ys8w-okwk-1b2x-6879-vph9q0yq7dhu@DM6NAM12FT014.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://dtherhproblem.us/6jSBsO284pukN15xfkdwouixs65HVZXECDGUXRJNPB1371191/10220p9",
+      "https://t.co/t9tSyNLBep",
+      "http://vertuoldmuneted.com/track/3smqPm284rWbI15yssvobnsuq65VMCEZQIRPSVIHPA1371191/10220e9",
+      "i.imgur.com/t71DDoP.jpg",
+      "https://i.imgur.com/t71DDoP.jpg",
+      "https://t.co/NSLsbr3Jaf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 383,
+    "html_length": 8846,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Order Confirmation",
+    "from": "\"Your Order #86765\" <danieldedjaey@gmail.com>",
+    "to": "\"Dear Customer\" <phishing@pot>",
+    "date": "Tue, 29 Nov 2022 05:17:59 +0530",
+    "message_id": "<054c1c77-44894-0ee72214940278@desktop-k6m8mnh>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://d1oco4z2z1fhwp.cloudfront.net/templates/default/3951/header_bg.png",
+      "https://d1oco4z2z1fhwp.cloudfront.net/templates/default/3951/bg_light_green.png",
+      "www.example.com",
+      ".col.num6",
+      ".col.num4",
+      ".col.num2",
+      "img.fullwidthOnMobile",
+      ".col.num10",
+      ".no-stack.two-up",
+      ".img-container.big",
+      ".col.num9",
+      "https://fonts.googleapis.com/css2?family=Alex+Brush&amp;display=swap",
+      "img.fullwidth,",
+      ".col.num5",
+      "https://fonts.googleapis.com/css?family=Lato",
+      ".col.num8",
+      ".col.num3",
+      ".col.num7"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2228,
+    "html_length": 72726,
+    "has_text": true,
+    "has_html": true
+  }
+}

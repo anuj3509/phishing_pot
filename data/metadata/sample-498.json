@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Fwd: First Flight Free",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Johnnatan Doe <phish.me.again@gmail.com>",
+    "date": "Mon, 20 Mar 2023 12:37:45 -0500",
+    "message_id": "<CAHq_4Ws+_rJFoARUEkgSoy4tes_-kGq-vVFyW4NE0-mk2Tpgmw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000029271b05f7586300\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000029271b05f7586300\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://go2.mailengine1.com/click/gd1q-5zuvc-4c1l7-29o9p47/",
+      "http://go2.mailengine1.com/form?5zuvc--ejun-29o9p43&amp;sl=4h2&amp;t=1&amp;ac=gd1q",
+      "http://go2.mailengine1.com/form?5zuvc--ejun-29o9p43&amp;sl=4h2&amp;t=5&amp;ac=gd1q",
+      "gmail.com",
+      "http://go2.mailengine1.com/click/gd1q-5zuvc-4c1l9-29o9p49/",
+      "http://go2.mailengine1.com/form?5zuvc--ejun-29o9p43&sl=4h2&t=1&ac=gd1q",
+      "http://go2.mailengine1.com/form?5zuvc--ejun-29o9p43&sl=4h2&t=5&ac=gd1q",
+      "jetcards-jets.com",
+      "http://go2.mailengine1.com/click/gd1q-5zuvc-4c1l8-29o9p48/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2255,
+    "html_length": 5655,
+    "has_text": true,
+    "has_html": true
+  }
+}

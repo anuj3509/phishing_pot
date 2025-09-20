@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "*** Proton Account Shutdown ***",
+    "from": "\"Proton Mail Alert\r\n                                              notification@proton.me\"\r\n <jbkellyjowl@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 6 Jun 2023 16:05:29 +0100",
+    "message_id": "<CAMBo0xx6hCm1OSmVT4e0cQgbFTTMZR3JP6bV_nyngtHJGGieqA@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------498fb4bf5487ea7cf45df53a3118a5ba"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------498fb4bf5487ea7cf45df53a3118a5ba"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "security alert"
+    ],
+    "urls": [
+      "https://danielcacereslopez.com/Mm84ODhkN3oxZDZWNlU="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 430,
+    "html_length": 5457,
+    "has_text": true,
+    "has_html": true
+  }
+}

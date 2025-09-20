@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "This is your chance to receive a reward",
+    "from": "Congratulations , <no-replay@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Wed, 15 Feb 2023 23:46:38 +0100",
+    "message_id": "\r\n <37f5e304-415f-4e21-a7f3-a7264150a09d@BN8NAM12FT068.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://ahlens.xyz/open_C/phishing@pot/14724/fr/bonobo",
+      "http://laredouteshop.com/cl/3385_md/22222/1634/1764/410/1190",
+      "http://laredouteshop.com/un/3385_md/22222/1634/1764/410/1190",
+      "http://laredouteshop.com/oop/3385_md/22222/1634/1764/410/1190",
+      "https://storage.de.cloud.ovh.net/v1/AUTH_baa59772cedd4e3b9dbf22f9a645fa6c/KawBiz/Cash%20App.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 173,
+    "html_length": 2765,
+    "has_text": true,
+    "has_html": true
+  }
+}

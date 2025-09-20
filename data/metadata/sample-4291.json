@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "��� URGENTE: Regularize sua encomenda at�� 10/11/2024 para evitar devolu����o 756",
+    "from": "Notificacao dos Correios <no-reply@taxascorreios756>",
+    "to": "phishing@pot",
+    "date": "Thu,  7 Nov 2024 14:09:35 +0000 (UTC)",
+    "message_id": "<20241107140935.903AD42693@Ubuntu-zqdn-1vcpu-1gb-35gb-intel>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://taxasdereenviore.com/taxas/gomeuspontos756"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 795,
+    "html_length": 2785,
+    "has_text": true,
+    "has_html": true
+  }
+}

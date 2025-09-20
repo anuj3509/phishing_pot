@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "O seu resgate 84 disponivel imediatamente. Protocolo: 107129662.",
+    "from": "Livelo <Resgate84pontos@carstock-109.biposh>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Wed, 28 Feb 2024 14:06:55 +0100",
+    "message_id": "<20240228130655.752F2704074@fbsftcbb120-dabsrcod-fbsftcbb120>",
+    "content_type": "multipart/mixed;boundary=---------------------ce7763723f0df12add7c95ee9a65ef0e"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------ce7763723f0df12add7c95ee9a65ef0e"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://www.livelo.com.br/resgate-beneficio.htm",
+      "https://alnetma1.websiteseguro.com/contents"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 985,
+    "html_length": 26200,
+    "has_text": true,
+    "has_html": true
+  }
+}

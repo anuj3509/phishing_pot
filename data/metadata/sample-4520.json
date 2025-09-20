@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta retido.",
+    "from": "Correios <notificacoes@correios>",
+    "to": "phishing@pot",
+    "date": "Thu, 12 Dec 2024 16:08:50 +0000",
+    "message_id": "<83375c8c-c469-254a-5207-df061ab2dabd@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.univali.brdireitoepolitica",
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 41640,
+    "html_length": 71353,
+    "has_text": true,
+    "has_html": true
+  }
+}

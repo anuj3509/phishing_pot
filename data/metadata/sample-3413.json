@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Wollten Sie schon immer Ihre Lieblings-Casinospiele von zu Hause aus spielen?",
+    "from": "Eine Chance, Eine Chance, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 02 Jul 2024 11:30:07 +0000",
+    "message_id": "<CCGKDCIOJPKNZQ8AU9KYO1L@team.mobile.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6UZRFq25898pDSe987wfwcaiyqrk14302OJIAPKNUIVFBVEH2UEAV5371o11",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4FLeLa25898XhjT987jdhwunxceq14302KQNZQFFJGOFVBQW2CROH5371V11",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5SPkIk25898NbXE987yqabrgfiwv14302XLVEKHVPEBAJOZG2BKRK5371T11",
+      "ontsWebfontsKit.css",
+      "table.center-on-narrow",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4IoEUG25898VhOj987fcmnioazro14302IXDCXNCAEGSYCPS2EZFW5371c11",
+      "span.preheader",
+      "staticsweb.s3.eu-central-1.amazonaws.com/lukkide.PNG"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4766,
+    "html_length": 14755,
+    "has_text": true,
+    "has_html": true
+  }
+}

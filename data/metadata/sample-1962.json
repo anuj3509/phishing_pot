@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Consultar e solicitar a devolução de Valores a Receber - e6l84FcBSG1GUQ416:21",
+    "from": "\"Central de Atendimento e Relacionamento | (Portal BB)\r\n 92470933194595916:21\" <turk41244@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 16 Nov 2023 11:21:41 -0800 (PST)",
+    "message_id": "<65566bc5.050a0220.794d0.0b16@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_98_118a646b-2341-4ff7-a98b-1b4bfbe73e46"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_98_118a646b-2341-4ff7-a98b-1b4bfbe73e46"
+  },
+  "attachments": [
+    {
+      "filename": "Informativo-e6l84FcBSG1GUQ4XTz1sX6AWxmibUQ.pdf",
+      "content_type": "application/octet-stream",
+      "size": 190825
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 176,
+    "html_length": 529,
+    "has_text": true,
+    "has_html": true
+  }
+}

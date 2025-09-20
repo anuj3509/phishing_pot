@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Hi Paid, your order no J6wb10HRRO833j4uza is paid",
+    "from": "\"Paid Customer\" <marosimama26@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Thu, 20 Feb 2025 06:13:28 -0800 (PST)",
+    "message_id": "<67b73888.170a0220.373b40.e164@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============4297454444334064436==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============4297454444334064436==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 869,
+    "html_length": 1401,
+    "has_text": true,
+    "has_html": true
+  }
+}

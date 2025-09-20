@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Confirm Your Subscription",
+    "from": "razroy6969 <razroy6969@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 18 Feb 2023 05:33:28 +0000 (UTC)",
+    "message_id": "<BgINhf_8QT2dqLQO1TeyoA@geopod-ismtpd-3-6>",
+    "content_type": "multipart/alternative; boundary=1197a15f59cbd26e272e935fdcfc63ba1fbd1603e37b6465f4b9df5e9e62"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=1197a15f59cbd26e272e935fdcfc63ba1fbd1603e37b6465f4b9df5e9e62"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214)",
+      "https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 390,
+    "html_length": 2541,
+    "has_text": true,
+    "has_html": true
+  }
+}

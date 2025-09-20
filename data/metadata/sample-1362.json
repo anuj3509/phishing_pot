@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Case Success: Your Assets Are Approved",
+    "from": "\"Daniel Kroll ( FTX )\" <claims-cxqoz@cpms.iceapple.tech>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Sep 2023 13:29:29 +0000",
+    "message_id": "<0100018ab7ee66af-7f1a3dc2-c6f1-4049-8f2f-8028c87043d8-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_63AB6E5C.D530F090\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_63AB6E5C.D530F090\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.lesechos.fr/industrie-services/automobile/la-start-up-francaise-hopium-devisse-apres-son-placement-en-redressement-judiciaire-1964213",
+      "https://oxfambelgique.be/sites/default/files/2022-08/In%C3%A9galit%C3%A9s%20de%20Carbone%202030%20FR.pdf",
+      "https://generalpaulochagas.com.br/b",
+      "https://d.ibtimes.com/en/full/3408542/ftx.png?w=736&amp;f=8795e2f08463bd229e3c4c99fbb7e8f7"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2794,
+    "html_length": 6884,
+    "has_text": true,
+    "has_html": true
+  }
+}

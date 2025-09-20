@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "IF FOUND IN SPAM , PLEASE MOVE TO INBOX",
+    "from": "\"Andrew Hales\" <shore@qualitygardening4less.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 07 Nov 2024 09:02:37 +0200",
+    "message_id": "\r\n <21b72241-dee6-4e58-af4b-d14e29028459@AMS0EPF000001A1.eurprd05.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1025899082==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1025899082==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 319,
+    "html_length": 453,
+    "has_text": true,
+    "has_html": true
+  }
+}

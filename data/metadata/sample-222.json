@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Anna would like to meet you, phishing@pot!",
+    "from": "Ukrainian Beauties <newstvtune@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Sun, 08 Jan 2023 10:31:10 +0100",
+    "message_id": "\r\n <0d1e86fc-89c8-4d96-8aed-160edc347f59@HE1EUR01FT012.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://laredouteshop.com/oop/2121_md/22222/1080/700/410/1190",
+      "worker-008.s3.us-east-1.amazonaws.com/FireShot%20Capture%20054%20-%20Hot%20Russian%20Online-%20winter%20-%20.png",
+      "http://laredouteshop.com/un/2121_md/22222/1080/700/410/1190",
+      "http://laredouteshop.com/op/2121_md/22222/1080/700/410/1190",
+      "https://worker-008.s3.us-east-1.amazonaws.com/FireShot%20Capture%20054%20-%20Hot%20Russian%20Online-%20winter%20-%20.png",
+      "http://laredouteshop.com/cl/2121_md/22222/1080/700/410/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 141,
+    "html_length": 1472,
+    "has_text": true,
+    "has_html": true
+  }
+}

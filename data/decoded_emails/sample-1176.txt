@@ -1,0 +1,60 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: La tua occasione è arrivata!
+From: Commercio di Bitcoin <vzygwjnn@fascentury.com>
+To: phishing@pot
+Date: Fri, 25 Aug 2023 13:09:34 -0400
+Message_Id: 
+ <9f6391e4-8562-49e2-b554-53c9818ba83a@DBAEUR03FT034.eop-EUR03.prod.protection.outlook.com>
+Content_Type: text/html; charset=us-ascii;
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset=us-ascii;
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781_vl_intervl_18w3.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0l39LZ
+  - https://imgur.com/4yxzjMQ.jpg
+  - imgur.com/4yxzjMQ.jpg
+  - http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781t0t_outvl_inter.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0u6Nvi
+  - http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=8syj64e8dcc710781_vl_intervl_18w3.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0p49bd
+  - http://fascentury.com/23/1891/7405/UGEZgSdgi.jpg
+  - http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781_outvl_inter.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0e2MvS
+
+DECODED TEXT CONTENT:
+------------------------------
+Congratulazioni, migliaia di notifiche ti sono state inviate!
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"></head>
+<body>
+	<center>
+		<a style="color:#000000" href="http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781_vl_intervl_18w3.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0l39LZ">
+			<h2>Congratulazioni, migliaia di notifiche ti sono state inviate!</h2>
+		</a>
+		<br>
+		<a href="http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781_vl_intervl_18w3.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0l39LZ">
+			<img src="//imgur.com/4yxzjMQ.jpg"><img src="https://imgur.com/4yxzjMQ.jpg">
+		</a>
+		<br>
+		<a href="http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781_outvl_inter.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0e2MvS">
+			<img src="http://fascentury.com/23/1891/7405/UGEZgSdgi.jpg">
+		</a>
+		<br>
+		<a href="http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=1syj64e8dcc710781t0t_outvl_inter.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0u6Nvi">
+			<img src="http://fascentury.com/rbxq2qmq6sirscrqlm344mqqmvlozq.html?od=8syj64e8dcc710781_vl_intervl_18w3.395vf2s.U0000rgoisb1xog3zy_wy1616.goisbMTl1Z3puLTJzdnM3cjY0p49bd">
+		</a>
+		<br>
+	</center>
+</body>
+</html>
+

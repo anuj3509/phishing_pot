@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Fw: Someone tried to Iog in To Your Account",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Tue, 28 Feb 2023 05:12:22 +0000",
+    "message_id": "\r\n <SA0PR04MB73706C1896519A84898E513BB3AC9@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73706C1896519A84898E513BB3AC9SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73706C1896519A84898E513BB3AC9SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "weareknitters.com&gt;",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "https://live.staticflickr.com/65535/52715705006_716b2d721b_b.jpg",
+      "weareknitters.com",
+      "gmail.com?cc=fwrakib03@gmail.com&subject=Report-User-Now.",
+      "https://live.staticflickr.com/65535/52715705006_716b2d721b_b.jpg]",
+      "gmail.com?cc=fwrakib03@gmail.com&amp;subject=Report-User-Now."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 454,
+    "html_length": 920,
+    "has_text": true,
+    "has_html": true
+  }
+}

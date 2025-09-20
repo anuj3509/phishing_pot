@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Registro de atendimento confirmado com o protocolo wKauFXKMEi3LDC",
+    "from": "Atendimento Bradesco - 44cfmi8m\n\t<no-reply@580c6ec5-f82c-4914-87bd-0101a257329d.us1.azurecomm.net>",
+    "to": "cliededelcampo <cliededelcampo@hotmail.com>",
+    "date": "Fri, 24 Jan 2025 07:57:46 +0000",
+    "message_id": "<202501240757.7ffec11d101b4b67939ea71c5b17d14f-NVZWS5D4IFBVGRKNIFEUYLKQKJHUILRQGM2EKMKBGBDEIRRSGM2EMQJWIIZEKMSEGVDDINZUGBCUMMJXGB6FG3LUOA======@microsoft.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bradanotif2061068380.z22.web.core.windows.net/?eZhmHUhemRmgDvl9Eg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1001,
+    "html_length": 2367,
+    "has_text": true,
+    "has_html": true
+  }
+}

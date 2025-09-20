@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Your Ukrainian Girl is waiting for you",
+    "from": "UkrainianLove <jasmin.kolmitz@shopner.uk>",
+    "to": "[to]",
+    "date": "Wed, 28 Aug 2024 15:50:21 +0200",
+    "message_id": "<20240828131002.B66732C8F3@mail.shopner.uk>",
+    "content_type": "multipart/mixed; boundary=\"===============6147123411698788652==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============6147123411698788652==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "event.preventDefault();",
+      "document.getElementById(",
+      "http://sharedse.com/un/2636_md/2222/11643/48/270/1190",
+      "window.location.href",
+      "localStorage.setItem(",
+      "https://firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-28%20at%2013-57-47%20Email%2001.png?alt=media&amp;token=571f23b2-958e-415f-adb1-12f6165e2f42",
+      "http://sharedse.com/oop/2636_md/2222/11643/48/270/1190",
+      "http://sharedse.com/cl/2636_md/2222/11643/48/270/1190",
+      "localStorage.getItem(",
+      "http://sharedse.com/op/2636_md/2222/11643/48/270/1190",
+      "Math.abs(mouseY",
+      "firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-28%20at%2013-57-47%20Email%2001.png?alt=media&amp;token=571f23b2-958e-415f-adb1-12f6165e2f42",
+      "event.clientX;",
+      "Math.abs(mouseX",
+      "event.clientY;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1456,
+    "html_length": 4934,
+    "has_text": true,
+    "has_html": true
+  }
+}

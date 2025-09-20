@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "ENC: Microsoft account unusual sign-in activity",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:06:41 +0000",
+    "message_id": "\r\n <SA0PR04MB7370CA7B61CAA92684772023B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370CA7B61CAA92684772023B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370CA7B61CAA92684772023B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&amp;cc=unusual.sign-in.activity@techconsulting-pay-3.com&amp;Subject=Report+The+User",
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&cc=unusual.sign-in.activity@techconsulting-pay-3.com&Subject=Unsubscribe+me",
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&cc=unusual.sign-in.activity@techconsulting-pay-3.com&subject=unusual%20sign-in%20activity&body=Report%20The%20User",
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&amp;cc=unusual.sign-in.activity@techconsulting-pay-3.com&amp;Subject=Unsubscribe+me",
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&amp;cc=unusual.sign-in.activity@techconsulting-pay-3.com&amp;subject=unusual",
+      "http://thema214.com/track/o13951wxBjk8777226tllT2112931cbZ33571QSnd176",
+      "unusual.sign-in.activity@techconsulting-pay-3.com?&cc=unusual.sign-in.activity@techconsulting-pay-3.com&Subject=Report+The+User",
+      "microsoft.com",
+      "microsoft.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1276,
+    "html_length": 5792,
+    "has_text": true,
+    "has_html": true
+  }
+}

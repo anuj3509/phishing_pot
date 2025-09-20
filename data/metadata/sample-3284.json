@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Mandatory Activation of Two-Factor Authentication by 26/05/2024",
+    "from": "LEDGER <info@sec-ledger.pt>",
+    "to": "phishing@pot",
+    "date": "Fri, 24 May 2024 15:57:30 +0000",
+    "message_id": "<4un50zjjotcp.3xXPOci2pX9T5dj5U1hV2Q2@tracking.sec-ledger.pt>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"=-eZCfV3rtzgrPLpWOUpAbPC3LhzEz3ch3/XWKzQ==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"=-eZCfV3rtzgrPLpWOUpAbPC3LhzEz3ch3/XWKzQ==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://sec-ledger.pt/activate/2FA/",
+      "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap);",
+      "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&amp;family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&amp;family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&amp;family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&amp;display=swap",
+      "http://www.w3.org/1999/xhtml",
+      "span.MsoHyperlink",
+      "http://tracking.sec-ledger.pt/view?msgid=3xXPOci2pX9T5dj5U1hV2Q2",
+      "https://api.smtprelay.co/userfile/f3c7f97b-9f40-4851-b26a-480926671671/image.png",
+      "http://tracking.sec-ledger.pt/tracking/unsubscribe?d=zuuuOvpSVF_fd2G2CQGDyR-3bJO2LALwrtoJzuytNRul76UY_2VmIW7FJTewvnVbXZUZ8mPeXhuU-E0urxJpLAKZJSInJpV9tR7njfQfwn9N0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2835,
+    "html_length": 16599,
+    "has_text": true,
+    "has_html": true
+  }
+}

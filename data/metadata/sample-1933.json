@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Cashback Bradesco, mais de 750.952 MIL pontos para resgate!",
+    "from": "Banco Bradesco  <sac5651@desco.com.br>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Mon, 13 Nov 2023 11:08:56 +0000 (UTC)",
+    "message_id": "<20231113122021.5162747E54@ekdzz27ykufu.lgg2cgslwzao-14>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bradesco.com.br/livelo-resgate",
+      "http://198.141.167.72.host.secureserver.net",
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1395,
+    "html_length": 11160,
+    "has_text": true,
+    "has_html": true
+  }
+}

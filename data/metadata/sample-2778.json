@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "CFai clic sul numero di tracciamento qui sotto per procedere.",
+    "from": "Re-deliver T&T, Re-deliver T&T, <servizio@bonprix.it>",
+    "to": "phishing@pot",
+    "date": "Mon, 05 Feb 2024 18:53:56 +0000",
+    "message_id": "<XLOGRQVVQAKPNQ8AU9KYO1L@bonprix.it>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4isJCJ11361tqvv385jzczupwwtv9962XPJKNKFQQYJUZBU3157789NCGF82s10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4zyxeF11361THhc385aummktnmvm9962GZQGEFDJULRKGPA3157789DHAP82f10",
+      "http://koinmail.net/track/3hQdKg11361MVIL385yftxmrgdie9962RVDMCQIHTFPFBWQ3157789SIJA82W10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6IIfZL11361IKJR385xxdlpybipu9962AQDITFMKTXWFMHE3157789LGEI82x10",
+      "https://i.imgur.com/qfPyCDW.png",
+      "i.imgur.com/qfPyCDW.png",
+      "https://i.imgur.com/WkYx3Iq.png",
+      "i.imgur.com/WkYx3Iq.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5hNrLy11361Djdh385eyljsgablt9962SAKGHPCJQLHGZHF3157789LWRQ82B10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4Qrsqi11361kjZE385qtzphezvnr9962WIGIXDWIXGJVIGW3157789ZUTP82R10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4NfFwH11361guxK385sdderpzlwi9962SFKPSUPZSRWGKHR3157789MIPW82g10",
+      "https://i.imgur.com/AuWaa7h.png",
+      "i.imgur.com/AuWaa7h.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4KTJfC11361nJSI385drbvbqyyil9962TWRWCKHGPHJDGCK3157789WIUO82d10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4HAlRz11361pXvG385yudhflxqru9962QWLXTGNFECJTDEC3157789TZBG82c10",
+      "https://i.imgur.com/XQN753B.png",
+      "i.imgur.com/XQN753B.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1150,
+    "html_length": 21974,
+    "has_text": true,
+    "has_html": true
+  }
+}

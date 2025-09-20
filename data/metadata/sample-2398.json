@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Recent Lеԁgеr breach",
+    "from": "Lеԁgеr <jennifer@shalinimisra.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 22 Dec 2023 14:52:44 -0000",
+    "message_id": "<mid-94744822810759364586595290457518921271@rxtqed.shared.klaviyomail.com>",
+    "content_type": "multipart/alternative; boundary=\"===============0069993488447923744==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0069993488447923744==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ctrk.klclick.com/l/01HJ907CRWWYGJ9Q3XXR57K86X_0",
+      "div.kl-row.colstack",
+      "https://manage.kmail-lists.com/subscriptions/web-view?a=V7fhrr&c=01HJ7QS2GNSB1E9DEZZ0XWXS64&k=e3b0b8e37fdc4be6c46336d7e08e7ca9&g=XL5gMS&m=01HJ8YZ6NP1M0P6DHFJ8HCKCV7&r=3fjEs5cM)",
+      "https://d3k81ch9hvuctc.cloudfront.net/company/V7fhrr/images/99214051-3535-449b-ab35-6336ba4030e8.png",
+      "https://manage.kmail-lists.com/subscriptions/unsubscribe?a=V7fhrr&c=01HJ7QS2GNSB1E9DEZZ0XWXS64&k=e3b0b8e37fdc4be6c46336d7e08e7ca9&g=XL5gMS&m=01HJ8YZ6NP1M0P6DHFJ8HCKCV7&r=3fjEs5cM).",
+      ".content-padding.last",
+      "http://www.w3.org/1999/xhtml",
+      ".table-mobile-only.inline-block",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "https://ctrk.klclick.com/o/01HJ907CRWWYGJ9Q3XXR57K86X",
+      ".kl-hlb-wrap.nospc.nospc",
+      ".table-mobile-only.block",
+      "https://ctrk.klclick.com/l/01HJ907CRWWYGJ9Q3XXR57K86X_1",
+      "https://static-forms.klaviyo.com/fonts/api/v1/V7fhrr/custom_fonts.css);",
+      "td.mobile-only",
+      ".kl-hlb-stack.vspc",
+      "div.kl-column",
+      "table.mobile-only",
+      "https://d3k81ch9hvuctc.cloudfront.net/company/V7fhrr/images/2c04ee07-d6cb-4c6e-b74a-d350b83943e0.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 986,
+    "html_length": 21786,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Congratulations - Details Apply! You Could Win! See Inside to Get your Home Depot Rewards ",
+    "from": "Home Depot _Thank you!  - You Are Our December Winner  ,_<nmeyk@cutynaledriite.com> ",
+    "to": "phishing@pot",
+    "date": "12-06-2023",
+    "message_id": "\r\n <ab1b2964-4dbe-4a6d-8c87-587056c55f2a@DM6NAM10FT083.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/PaQvCoSpoE",
+      "https://t.co/r6Kar7YwTa"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 571,
+    "html_length": 8867,
+    "has_text": true,
+    "has_html": true
+  }
+}

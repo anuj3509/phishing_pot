@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Vara Trabalho",
+    "from": "gisele.abdala@smtplw-03.com",
+    "to": "<phishing@pot>",
+    "date": "Tue, 19 Nov 2024 21:17:17 +0000",
+    "message_id": "<2024191121171783AF021228-8EAB60111A@terra.com.br>",
+    "content_type": "multipart/alternative; boundary=\"2NPXowOZ2HSvpHzHgIPd2=_UnQBKt3i2du\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"2NPXowOZ2HSvpHzHgIPd2=_UnQBKt3i2du\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/ff6e1c7be1a6f6a9041a1313fe3ce63d-1732051044.13/a/ff6e1c7be1a6f6a9041a1313fe3ce63d/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/e901641ce3740c5cd9c69635a06b3e4b3d94a86a",
+      "https://www.maxieduca.com.br/storage/simulado/cache/b64a071c8fc945fd5af42e498033ad06/b64a071c8fc945fd5af42e498033ad06-240x.png",
+      "https://consult.verifica-online.com/pje"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 694,
+    "html_length": 7033,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Ein Geschenk f��r Sie: 250��� Einkaufsguthaben bei Netto!",
+    "from": "\" Netto team.\" <nachrichten@de.idealo.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 23 Feb 2025 09:19:06 -0500",
+    "message_id": "<Rgy4Gkx.0.0.Rgy4Gkx.9.Rgy4Gkx@de.idealo.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/23/36/ts2s.png",
+      "http://blog.afridox.com/VVRxbjNEZUpvQmtUOENINXlONVVsU0J3bGNvd3RoUmo3Z0R3NWlndi9GT1I2Q3RULzNxSEkxODBsaW1VTmtBUVhIMEdDMlBZV2xieFo3K0EwZEVMc0E9PQ__",
+      "http://blog.afridox.com/bnRtVERVQnFvQStxUFExR0FjTTZ6NTJXMWNmWjhadWZrZlZvT0pkUWc2WGRxbWNTdU5LTXROaVRIZFhoaU9OQ1MyS3lBN01VdDh5bkl1c3dBY0Z2dHc9PQ__",
+      "https://www.zupimages.net/up/23/36/l2jt.png",
+      "www.zupimages.net/up/23/36/ts2s.png",
+      "http://blog.afridox.com/cUdqK1ZEMUxyMURYRGxNVTRHemlPQUdOWTFGeEk2dFBoVWFiVVl2aEV2OFFLRjQ5YnlScFVHeEd0WEN3UEVsbUpYQTRmRzhEcjNzZ0JBenVnZHR6MlE9PQ__",
+      "www.zupimages.net/up/23/36/l2jt.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1556,
+    "html_length": 10584,
+    "has_text": true,
+    "has_html": true
+  }
+}

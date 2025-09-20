@@ -1,0 +1,122 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Consegna non andata a buon fine: ordine 3788546-03
+From: Poste Italiane, Poste Italiane, <ikea@news.email.ikea.it>
+To: phishing@pot
+Date: Wed, 07 Feb 2024 03:15:57 +0000
+Message_Id: <XICNIMYODAMZFQ8AU9KYO1L@news.email.ikea.it>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://storage.googleapis.com/koin/topmarktingplace.html#5XNLtb11682khYR11cmebyxywqg9962DKKOMUMIZPLEUFY3157789CCDD99t10
+  - https://storage.googleapis.com/koin/topmarktingplace.html#4oujEW11682bYXA11kltwkffiqw9962SQILWZEFTTNXSDG3157789FQGP99b10
+  - https://storage.googleapis.com/koin/topmarktingplace.html#6lqQmM11682bQlN11qyraibwgvm9962DYCYAVTXCENZDXL3157789GZVM99o10
+  - https://leaadpersons.com/biz/packageblue.png
+  - http://koinmail.net/track/3cdztm11682xVZj11zzhdffdelt9962OMSMQBHRLZYWSVL3157789RHLT99C10
+  - https://leaadpersons.com/biz/Service-Poste-logo2.png
+  - leaadpersons.com/biz/Service-Poste-logo2.png
+  - leaadpersons.com/biz/packageblue.png
+
+DECODED TEXT CONTENT:
+------------------------------
+ServicePoste CONSEGNA DEL PACCHETTO SOSPESO Hai (1) pacco in attesa di consegna. Usa il tuo codice per rintracciarlo e riceverlo Pianifica la tua consegna e iscriviti alle nostre notifiche push per evitare che ciò accada di nuovo! Pianifica la tua consegna Ci auguriamo che ti piaccia ricevere questo messaggio. Tuttavia, se preferisci non ricevere email future. si prega di annullare l'iscrizione qui. click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ServicePoste</title>
+
+
+</head>
+
+<body style="size:1040px; height:960px;" bgcolor="eedc00" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<a href="https://storage.googleapis.com/koin/topmarktingplace.html#4oujEW11682bYXA11kltwkffiqw9962SQILWZEFTTNXSDG3157789FQGP99b10" style="text-decoration:none;">
+    <table width="500" border="0" align="center" cellpadding="0" style="border-radius:30px; background-color: RGB(238,220,0)">
+        <tr>
+            <td width="500" align="center">
+                <br>
+                <img src="//leaadpersons.com/biz/Service-Poste-logo2.png" width="250">
+                  <img src="https://leaadpersons.com/biz/Service-Poste-logo2.png" width="250">
+                <br><br>
+                <table bgcolor="#fff" width="300" border="0" style="border-radius:30px; border-style: none; padding-bottom: 0px; background-color: RGB(255,255,255);">
+                    <tr>
+                        <td>
+
+                            <!-- start -->
+                        
+                            
+                            <table width="500" border="0" cellpadding="0" style="border-radius:30px; background-color: RGB(255,255,255);">
+                               
+                                <tr align="center" style="font-family: sans-serif; text-align: center; font-size: 18px; padding-left: 30px; padding-right: 30px; margin: 0px;padding-top: 50px;">
+                                    <center><br><br>
+                                        <strong style="font-size:23px; padding-top: 35px; font-family: Arial, Helvetica, sans-serif;">CONSEGNA DEL PACCHETTO SOSPESO</strong><br>
+                                        <br><br>
+                                        <img src="//leaadpersons.com/biz/packageblue.png" width="250">
+                                         <img src="https://leaadpersons.com/biz/packageblue.png" width="250"><br><br><br>
+                                        
+                                        <p style="font-family:Arial, Helvetica, sans-serif; padding-right:30px; padding-left:30px;">
+                                            Hai (1) pacco in attesa di consegna. Usa il tuo codice per rintracciarlo e riceverlo <br><br>
+                                            Pianifica la tua consegna e iscriviti alle nostre notifiche push per evitare che ciò accada di nuovo!
+                                        </p>
+                                        <br>
+                                    </center>            
+                                   
+                                </tr>
+
+                            </table>
+
+
+                            <center>
+                                <button style="color:white; font-size: 20Px; border-radius: 30px;background-color: RGB(1,72,186); border: 0px; padding-left: 80px; padding-right: 80px;padding-top: 15px; padding-bottom:15px;">
+                                    Pianifica la tua consegna</button>
+                            </center>
+                            <br><br>
+
+                            <table width="500" border="0" cellpadding="0">
+                                <tr align="center">
+                                    
+                                        <center><hr></center>
+                                      
+                                        <center><p style=" padding: 0px 20px; font-size: 10px;font-family: monospace; width: 500px; text-align: center; color: black">
+                                            Ci auguriamo che ti piaccia ricevere questo messaggio. Tuttavia, se preferisci non ricevere email future. si prega di annullare l'iscrizione
+                                            <a href="https://storage.googleapis.com/koin/topmarktingplace.html#5XNLtb11682khYR11cmebyxywqg9962DKKOMUMIZPLEUFY3157789CCDD99t10" style="border: none; outline: none; text-decoration: none; display: inline-block; color: rgb(43, 104, 236); padding: 0px; margin: 0;">qui.</a>
+                                        </p>
+                                        </center>
+                                        
+                                </tr>
+                            </table>
+
+                            <!-- end -->
+
+                        </td>
+                    </tr>
+                </table>
+
+            </td>
+        </tr>
+    </table>
+<img src="http://koinmail.net/track/3cdztm11682xVZj11zzhdffdelt9962OMSMQBHRLZYWSVL3157789RHLT99C10" width="1px" height="1px">
+
+</body>
+
+</html>
+
+
+  </center> 
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://storage.googleapis.com/koin/topmarktingplace.html#6lqQmM11682bQlN11qyraibwgvm9962DYCYAVTXCENZDXL3157789GZVM99o10">here</a> to remove yourself from our emails list</span><br><br>
+

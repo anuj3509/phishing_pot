@@ -1,0 +1,383 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot: Lieferung in Bearbeitung: Best��tigen Sie Ihre Versanddetails
+From: "Zustellung des Pakets" <Department-client-n01262@alhayatschool.mail.onmicrosoft.com>
+To: <phishing@pot>
+Date: Tue, 25 Feb 2025 16:45:28 +0000
+Message_Id: <2f37bad7-9b20-4159-aa6f-661bd67d7dec@DU6PEPF0000A7DE.eurprd02.prod.outlook.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, update
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.microsoft.com/en-GB/servicesagreement/
+  - http://www.w3.org/1999/xhtml
+  - https://urly.fi/3Ly1?MRRVHaOyaaAY2Grc1omgTlTZlrt1Rv1yPylMeXlejyyMwPskw8b0IM2jx1b2Q89VP88VNUZlJsJ3wUownkTp4y
+  - https://i.imgur.com/yF5Giem.png
+  - https://urly.fi/3Ly1?krLEFLB6x5qVeKQWVcn6Io6NDdKMrNmWt4JwbuqW7nRM4V6hXwSzfz78gWl6m5YJz3oE4a2AZMZBcMnv7EsTyY
+  - https://passwordreset.microsoftonline.com/images/1_MSLogo.png
+  - shippingsupport.com
+  - https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q
+  - https://urly.fi/3Ly1?4tRjOwJJpQNxAEjgfYAmKusk1Zb2FZZHxolavQ68P7GJOPTr7U3qLZewEfFwhW2kVjIaaHRFGlN23QRzPMoxNy
+  - i.imgur.com/yF5Giem.png
+  - https://urly.fi/3Ly1?RhxPVTCFJjnOL4RctHTJz0aM3YF1Gw1KxciJFNgEiyoamdh3rhrdxgpRzq5xarFZaAlH5QcWp1CIw5zCZ5UIAt
+  - https://privacy.microsoft.com/en-GB/privacystatement
+
+DECODED TEXT CONTENT:
+------------------------------
+Order Shipped Email body { font-family: Arial, sans-serif; background-color: #fff3cd; display: flex; justify-content: center; align-items: center; margin: 10px; } .email-container { width: 400px; background: white; border-radius: 1px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); } .brand { color: #5c4033; font-size: 28px; margin-bottom: 10px; } .banner { background-color: #ffb503; color: #373330; padding: 15px; border-radius: 1px; margin-bottom: 20px; } .banner h2 { font-size: 24px; margin: 0; } .banner p { font-size: 18px; font-weight: bold; margin: 5px 0 0; } .progress-container { display: flex; justify-content: space-around; align-items: center; margin: 20px 0; } .progress-step { width: 80px; font-size: 12px; text-align: center; padding: 5px; border-bottom: 3px solid #ddd; } .completed { color: #373330; font-weight: bold; border-bottom: 3px solid #5c4033; } .active { font-weight: bold; border-bottom: 3px solid #ffb503; } .update-info { font-size: 12px; color: #5c4033; margin-bottom: 10px; } .update-btn { background-color: #5c4033; color: white; padding: 10px 25px; border: none; border-radius: 5px; cursor: pointer; margin-bottom: 20px; font-weight: bold; display: block; } .update-btn:hover { background-color: #ffb503; color: #5c4033; } .info-section { display: flex; justify-content: space-between; text-align: left; font-size: 12px; } .questions, .order-summary { width: 45%; } h3 { font-size: 14px; color: #5c4033; margin-bottom: 5px; } a { color: #ffb503; text-decoration: none; font-weight: bold; } .footer { background: #f0f0f0; font-size: 11px; padding: 10px; font-weight: normal; } Sie haben (1) neue Aktualisierung zu Ihrem Versandpaket! Klicken Sie unten, um die Details anzusehen. BESTELLT VERSENDET (gestoppt) ZUGESTELLT Bitte hier klicken für weitere Informationen Versanddetails anzeigen FRAGEN? info@shippingsupport.com (So - Sa, 9:00 - 21:00 Uhr EST) BESTELLÜBERSICHT BESTELLNUMMER: UP5S4147205 BESTELLSTATUS: Nicht bestätigt VERSANDMETHODE: SmartPost-Versand Verfolgen Sie Ihr Paket hier Abbestellen RtQL3aNpNz2Y4oS8L6VAbwVbriFCYB2pxovTfjetmTQbYOv6vYf1xzq9nPAiN2rmxuIbYLe4BrmElhamDxjJDpuG9mQjvKGBp1N5D3oU9DbzY0C09z4R75hlLOj QVIR4MtRAoaMWAeUmntYlwVZi5SeNaMQrEmlglly1csnPHbIC0Xp6IMd0lj6onVX5sZjMqEKh3wOekpWDu8GDTMBJOW9DtdhnaNLthtxIY2oKbVe569n5QSV30TcFzL7cBrVcoRq6jBvQDyyjQH6gkxcs 7mNK3jls494WfH5udOFOy1KMUl1w2ib5jDAfXmD48PPCGEqVa3ucLhT55GXoyhjifPwNxKhgUp0qjqi42mdI7MMtrBvKnDdxYnrZpFieMBpqCR18Acnz499e6uYByPmSPlyDfPWKkoUhkp3cvPJ8xuHWliO0b5dxYF1 9jvNzVSjeRRpMwtyWRzNBkJtSlkJ560eX34oud0UxQlDi5KgQHQKY4ldYa6f9JW32KwR2qZRzcZWSiHEhWXdb3QmqoRFfIwGbudXp8d3ETf8tVUWdf4NaUUxSvjzRRi94hoZgd7Jc8cC4nX5A10teHjvQxArqiempjMayjAAJRzN0 zg9DKMSo3dyPKH83XGNxAXaCZcxMHWz3W6NuamoBl3q7xkKHhhKc1dJaTSYR8wcDtg2CXDt3NUUZncDAuAehBYVjduTjTGG2h035UUXhicWVBsJen QMLQlfxkTO5Vbptig7AVU9ZGzwjZmoVTW7FUkM5rZfdkEWPeg09ATtgyn6AgF5XEkRLguSsbGLLvyMUcYScFnh9mMrpvPMqilruzxBxDAbxvvGDnY7x CJ80QfK5dyYIrv5jltiEPGp0jD36ThC9J3a7ZtddfeyvIJsAK96feMMgp439UbL6eS9EHlKK7TlDLFCfOBJWcPNlQXgdKlSuJiwZtQXoBUlnAI6F0IcuqamqNYu ssQ6hLEKV6HZOrd0grJOXDdma3sSEkBJ1jPJm6StZ7vqhYdtpD3XKsj3pEhzlB4iYxRL3cLqYDyx1P4QUHouwKrkIC9KSqX7lPR2e0qsKrlb5prH4cmyQIKjqJ8CX2mtQGD6Ag1PG4AXzmzvL4Jw1FnBWFxS6oktB67qp5honZZT9gI1iclfreL0Jz7Sr --> United Institute account email verification code table td {border-collapse:collapse;margin:0;padding:0;} &#160; Verify your email address &#160; &#160; Thanks for verifying your phishing@pot account! Your code is: 792874 Yours sincerely, United Institute &#160; &#160; &#160; &#160; Microsoft Corporation | One Microsoft Way, Redmond, WA 98052-6399, United States This message was sent from an unmonitored email address. Please do not reply to this message. Privacy | Legal &#160; --> x7woyc4a2g7VHun3RxG1AtrjHnRdctl6s0mzOYFpnP2dZUEQGAmpWpF8HlDYtQOz2OkCoQthqBCI7vdMpyvOzuBP8kDKLuOFmP3bVmC9JoGuWuP5fJpOhUyYIfk298YyOq7ReXzKHYso1LgZzeXuX346T7802lCAwigviqtHeEtXDtfIRLFDGa ciVIaqf5EGDHSiR7Aln5mzSZQnaqY88Kxj5vmBdMOXql5rIUhutUFkgyyw3AGjxtPmZypB2P1BN06dtDnSVFQPIVxISu399dPtjQjJsLmeX7a4IQptOTAej yRbSP7k1YkDYAP487AmKkAZtOl7yOxir9ZUBRN0yoUgKveNjvqzC1AM28fqTnMgyIxvbu1QbiPsu8PLYmRFUjtWIytjJZLoa8h8W1hU5oDgymuAOL7t3nodKjHVni4r7BjHM9qmVGMYIbwyFjyRdtYJFg6hhEmDzwxuUdpOt3h1gMtoi8jRHKCZyKLqZxK MmVdcIkiFe81ZUCFcfN7IGOKFc1MiOK5HdT2ghYA0lspxoVuTUKyCPVQTBvzz8AWmBb3rRr77Qhe1ulIpfdDMr8SA9o210Cy8IZGK02juOYRA77Bb3TSwfhNkPUrOWKZc6utO5OKhxy
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Order Shipped Email</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff3cd;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: 10px;
+    }
+
+    .email-container {
+      width: 400px;
+      background: white;
+      border-radius: 1px;
+      text-align: center;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .brand {
+      color: #5c4033;
+      font-size: 28px;
+      margin-bottom: 10px;
+    }
+
+    .banner {
+      background-color: #ffb503;
+      color: #373330;
+      padding: 15px;
+      border-radius: 1px;
+      margin-bottom: 20px;
+    }
+
+    .banner h2 {
+      font-size: 24px;
+      margin: 0;
+    }
+
+    .banner p {
+      font-size: 18px;
+      font-weight: bold;
+      margin: 5px 0 0;
+    }
+
+    .progress-container {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      margin: 20px 0;
+    }
+
+    .progress-step {
+      width: 80px;
+      font-size: 12px;
+      text-align: center;
+      padding: 5px;
+      border-bottom: 3px solid #ddd;
+    }
+
+    .completed {
+      color: #373330;
+      font-weight: bold;
+      border-bottom: 3px solid #5c4033;
+    }
+
+    .active {
+      font-weight: bold;
+      border-bottom: 3px solid #ffb503;
+    }
+
+    .update-info {
+      font-size: 12px;
+      color: #5c4033;
+      margin-bottom: 10px;
+    }
+
+    .update-btn {
+      background-color: #5c4033;
+      color: white;
+      padding: 10px 25px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-bottom: 20px;
+      font-weight: bold;
+      display: block;
+    }
+
+    .update-btn:hover {
+      background-color: #ffb503;
+      color: #5c4033;
+    }
+
+    .info-section {
+      display: flex;
+      justify-content: space-between;
+      text-align: left;
+      font-size: 12px;
+    }
+
+    .questions, .order-summary {
+      width: 45%;
+    }
+
+    h3 {
+      font-size: 14px;
+      color: #5c4033;
+      margin-bottom: 5px;
+    }
+
+    a {
+      color: #ffb503;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .footer {
+      background: #f0f0f0;
+      font-size: 11px;
+      padding: 10px;
+      font-weight: normal;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <div style="padding: 20px">
+    <img src="https://i.imgur.com/yF5Giem.png" width="100px" style="margin-bottom: 20px">
+	<img src="//i.imgur.com/yF5Giem.png" width="100px" style="margin-bottom: 20px">
+    <div class="banner">
+      <h4>Sie haben <span style="color: #ff4c4c">(1) neue</span> Aktualisierung zu Ihrem Versandpaket!</h4>
+      <h3>Klicken Sie unten, um die Details anzusehen.</h3>
+    </div>
+    <div class="progress-container">
+      <div class="progress-step completed">BESTELLT</div>
+      <div class="progress-step active">VERSENDET <span style="font-weight: 1000; color: #ff4c4c">(gestoppt)</span></div>
+      <div class="progress-step">ZUGESTELLT</div>
+    </div>
+    <p class="update-info" style="margin-bottom: 15px">Bitte <a href="https://urly.fi/3Ly1?RhxPVTCFJjnOL4RctHTJz0aM3YF1Gw1KxciJFNgEiyoamdh3rhrdxgpRzq5xarFZaAlH5QcWp1CIw5zCZ5UIAt" style="font-weight: bold">hier klicken</a> für weitere Informationen</p>
+    <a href="https://urly.fi/3Ly1?4tRjOwJJpQNxAEjgfYAmKusk1Zb2FZZHxolavQ68P7GJOPTr7U3qLZewEfFwhW2kVjIaaHRFGlN23QRzPMoxNy" class="update-btn">Versanddetails anzeigen</a>
+
+    <div class="info-section">
+      <div class="questions">
+        <h3>FRAGEN?</h3>
+        <p>info@shippingsupport.com</p>
+        <p>(So - Sa, 9:00 - 21:00 Uhr EST)</p>
+      </div>
+      <div class="order-summary">
+        <h3>BESTELLÜBERSICHT</h3>
+        <p><strong>BESTELLNUMMER:</strong> UP5S4147205</p>
+        <p><strong>BESTELLSTATUS:</strong><span style="color: #ff4c4c; font-style: italic"> Nicht bestätigt</span></p>
+        <p><strong>VERSANDMETHODE:</strong> SmartPost-Versand</p>
+        <a href="https://urly.fi/3Ly1?MRRVHaOyaaAY2Grc1omgTlTZlrt1Rv1yPylMeXlejyyMwPskw8b0IM2jx1b2Q89VP88VNUZlJsJ3wUownkTp4y">Verfolgen Sie Ihr Paket hier</a>
+      </div>
+    </div>
+  </div>
+  <div class="footer">
+    <a href="https://urly.fi/3Ly1?krLEFLB6x5qVeKQWVcn6Io6NDdKMrNmWt4JwbuqW7nRM4V6hXwSzfz78gWl6m5YJz3oE4a2AZMZBcMnv7EsTyY" style="color: gray; font-weight: normal">Abbestellen</a>
+  </div>
+</div>
+
+</body>
+
+
+
+
+
+<style>
+
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">RtQL3aNpNz2Y4oS8L6VAbwVbriFCYB2pxovTfjetmTQbYOv6vYf1xzq9nPAiN2rmxuIbYLe4BrmElhamDxjJDpuG9mQjvKGBp1N5D3oU9DbzY0C09z4R75hlLOj</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">QVIR4MtRAoaMWAeUmntYlwVZi5SeNaMQrEmlglly1csnPHbIC0Xp6IMd0lj6onVX5sZjMqEKh3wOekpWDu8GDTMBJOW9DtdhnaNLthtxIY2oKbVe569n5QSV30TcFzL7cBrVcoRq6jBvQDyyjQH6gkxcs</div>
+<DIV dIR=ltrdata-sEtDIr=false Style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">7mNK3jls494WfH5udOFOy1KMUl1w2ib5jDAfXmD48PPCGEqVa3ucLhT55GXoyhjifPwNxKhgUp0qjqi42mdI7MMtrBvKnDdxYnrZpFieMBpqCR18Acnz499e6uYByPmSPlyDfPWKkoUhkp3cvPJ8xuHWliO0b5dxYF1</DiV>
+<div DiR=ltrdata-sEtDiR=false stYle="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">9jvNzVSjeRRpMwtyWRzNBkJtSlkJ560eX34oud0UxQlDi5KgQHQKY4ldYa6f9JW32KwR2qZRzcZWSiHEhWXdb3QmqoRFfIwGbudXp8d3ETf8tVUWdf4NaUUxSvjzRRi94hoZgd7Jc8cC4nX5A10teHjvQxArqiempjMayjAAJRzN0</diV>
+<diV DIr=ltrdata-setDiR=false stYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">zg9DKMSo3dyPKH83XGNxAXaCZcxMHWz3W6NuamoBl3q7xkKHhhKc1dJaTSYR8wcDtg2CXDt3NUUZncDAuAehBYVjduTjTGG2h035UUXhicWVBsJen</diV>
+<Div DIr=ltrdata-setdIR=false StYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">QMLQlfxkTO5Vbptig7AVU9ZGzwjZmoVTW7FUkM5rZfdkEWPeg09ATtgyn6AgF5XEkRLguSsbGLLvyMUcYScFnh9mMrpvPMqilruzxBxDAbxvvGDnY7x</div>
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">CJ80QfK5dyYIrv5jltiEPGp0jD36ThC9J3a7ZtddfeyvIJsAK96feMMgp439UbL6eS9EHlKK7TlDLFCfOBJWcPNlQXgdKlSuJiwZtQXoBUlnAI6F0IcuqamqNYu</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">ssQ6hLEKV6HZOrd0grJOXDdma3sSEkBJ1jPJm6StZ7vqhYdtpD3XKsj3pEhzlB4iYxRL3cLqYDyx1P4QUHouwKrkIC9KSqX7lPR2e0qsKrlb5prH4cmyQIKjqJ8CX2mtQGD6Ag1PG4AXzmzvL4Jw1FnBWFxS6oktB67qp5honZZT9gI1iclfreL0Jz7Sr</div
+       <style>
+     
+--> <div style"display: none">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- This is the new email template for SSPR which aligns well with the email that are sent out from IW portal -->
+
+<!-- To make use this template, you will need to add a new page to the EmailTemplates directory that has this page as the master page. 
+     
+     The new page must specify the following placeholders:
+
+        - SubjectPlaceholder - The email subject
+        - HeaderPlaceholder - The header of the e-mail document
+        - BodyPlaceholder - The body of the e-mail document
+
+-->
+
+<!-- For dir and lang attributes you will need to define them at the individual tables as well. Otherwise some email clients do not render the email properly -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head id="Head1"><title>
+	
+    United Institute account email verification code
+
+</title><meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <!-- Template B O365 -->
+    <style>
+        table td {border-collapse:collapse;margin:0;padding:0;}
+    </style><style>
+</head>
+<body  dir="ltr" lang="en">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+         <tr>
+            <td valign="top" width="50%"></td>
+            <td valign="top">
+               <!-- Email Header --> 
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="border-left:1px solid #e3e3e3;border-right: 1px solid #e3e3e3;">
+                <tr style="background-color: #0072C6;">
+                    <td width="1" style="background:#0072C6; border-top:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-top:1px solid #e3e3e3;border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="310" valign="middle" style="border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3;padding:12px 0;">
+                        <h1 style="line-height:20pt;font-family:Segoe UI Light; font-size:18pt; color:#ffffff; font-weight:normal;">
+                            
+    <span id="HeaderPlaceholder_UserVerificationEmailHeader"><font color="#FFFFFF">Verify your email address</font></span>
+
+                        </h1>
+                    </td>
+                    <td width="24" style="border-top: 1px solid #e3e3e3;border-bottom: 1px solid #e3e3e3;">&#160;</td>
+                </tr>
+               </table>
+               <!-- Email Content -->
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+                <tr>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                    <td width="24">&#160;</td>
+                    <td id="PageBody" width="640" valign="top" colspan="2" style="border-bottom:1px solid #e3e3e3; padding:10px 0 20px;">		
+                        <table cellpadding="0" cellspacing="0" border="0" >
+                            <tr>
+                                <td width="630" style="font-size:10pt; line-height:13pt; color:#000;">
+                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="" dir="ltr" lang="en">
+                                        <tr>
+                                            <td>
+                                                
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence1">Thanks for verifying your phishing@pot account!</span>
+    </div>
+    <br/>
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333; font-weight: bold">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence2">Your code is: 792874</span>
+    </div>
+    <br/>
+    <br/>
+
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+                                                Yours sincerely,
+                                                </div>
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; font-style:italic; color:#333;">
+                                                    United Institute
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+
+                    <td width="1">&#160;</td>
+                    <td width="1"></td>
+                    <td width="1">&#160;</td>
+                    <td width="1" valign="top"></td>			 
+                    <td width="29">&#160;</td>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                </tr>
+                <tr >
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td id="PageFooterContainer" width="585" valign="top" colspan="6" style="border-bottom:1px solid #e3e3e3; padding:20px 0;">
+                        <table id="PageFooter" cellpadding="0" cellspacing="0" border="0" width="585">
+	<tr>
+		<td>
+                                        <table cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="margin-right:30px;">
+                                            <tr>
+                                                <td>
+                                                    <p style="font-family:'Segoe UI', Tahoma, sans-serif; margin:0px 0px 0px 5px; color:#666; font-size:10px;">
+                                                        <span id="ContactInfo">
+                                                            Microsoft Corporation
+                                                            |
+                                                            One Microsoft Way, Redmond, WA 98052-6399, United States
+                                                            <br/><br/>
+                                                        </span>
+                                                        This message was sent from an unmonitored email address. Please do not reply to this message.
+                                                        <span id="PrivacyAndLegalLinks" style="color:#0072c6;">
+                                                            <br/><br/>
+                                                            <a href="https://privacy.microsoft.com/en-GB/privacystatement" id="PrivacyLinkAnchor">
+                                                                Privacy
+                                                            </a>
+                                                             |
+                                                             <a href="https://www.microsoft.com/en-GB/servicesagreement/" id="LegalLinkAnchor">
+                                                             Legal
+                                                             </a>
+                                                        </span>
+                                                        
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                </td>
+		<td style="padding:0; text-align:right;">
+                                    <img id="CompanyLogo" src="https://passwordreset.microsoftonline.com/images/1_MSLogo.png" />
+                                </td>
+	</tr>
+</table>
+
+
+                    </td>
+
+                    <td width="29" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                </tr>
+               </table>
+
+            </td>
+            <td valign="top" width="50%"></td>
+        </tr>
+    </table>
+<img src='https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q' width='1' height='1' tabindex='-1' aria-hidden='true' alt='' /></body>-->
+ </div>
+<style>
+  
+</body>
+
+<DIV dIR=ltrdata-sEtDIr=false Style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">x7woyc4a2g7VHun3RxG1AtrjHnRdctl6s0mzOYFpnP2dZUEQGAmpWpF8HlDYtQOz2OkCoQthqBCI7vdMpyvOzuBP8kDKLuOFmP3bVmC9JoGuWuP5fJpOhUyYIfk298YyOq7ReXzKHYso1LgZzeXuX346T7802lCAwigviqtHeEtXDtfIRLFDGa</DiV>
+<div DiR=ltrdata-sEtDiR=false stYle="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">ciVIaqf5EGDHSiR7Aln5mzSZQnaqY88Kxj5vmBdMOXql5rIUhutUFkgyyw3AGjxtPmZypB2P1BN06dtDnSVFQPIVxISu399dPtjQjJsLmeX7a4IQptOTAej</diV>
+<diV DIr=ltrdata-setDiR=false stYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">yRbSP7k1YkDYAP487AmKkAZtOl7yOxir9ZUBRN0yoUgKveNjvqzC1AM28fqTnMgyIxvbu1QbiPsu8PLYmRFUjtWIytjJZLoa8h8W1hU5oDgymuAOL7t3nodKjHVni4r7BjHM9qmVGMYIbwyFjyRdtYJFg6hhEmDzwxuUdpOt3h1gMtoi8jRHKCZyKLqZxK</diV>
+<Div DIr=ltrdata-setdIR=false StYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">MmVdcIkiFe81ZUCFcfN7IGOKFc1MiOK5HdT2ghYA0lspxoVuTUKyCPVQTBvzz8AWmBb3rRr77Qhe1ulIpfdDMr8SA9o210Cy8IZGK02juOYRA77Bb3TSwfhNkPUrOWKZc6utO5OKhxy</div>
+</style>
+  </body>
+
+</html>
+
+

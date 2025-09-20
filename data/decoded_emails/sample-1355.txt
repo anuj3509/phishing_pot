@@ -1,0 +1,655 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Withdrawal Requested Received
+From: Binance <noreply@streetaway.co.uk>
+To: phishing@pot
+Date: Thu, 21 Sep 2023 11:34:13 +0000
+Message_Id: <010b018ab784df34-9f04b1ee-77ce-4ae6-b3dd-8040bbdd91e2-000000@eu-west-2.amazonses.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://fonts.googleapis.com/css?family=Noto+Sans:400,700
+  - http://notification-emails.com/
+  - http://wataniafire.com/?email=rodrigo-f-p@hotmail.com
+  - http://email.mgdirectmail.binance.com/o/eJw8zNGNgzAMANBpyB8o9tlx_JFhgm3urhRFKkWVOn3_usDzloEzSooGRRlFhDj9tZBY1UO8OGDdNLutEkDWpffumv5bJSyVQGRBAUFdvgAp8ET5iPPsvzFXLqzs5jzb7bVrerR3t-PaDPBnojyu532MfbFxfAIAAP__lFYoBQ
+  - hotmail.com
+  - https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png
+  - Binance.com,
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd
+
+DECODED TEXT CONTENT:
+------------------------------
+/** * SimpleApp * http://notification-emails.com/ * Last Modified: 10/05/2016 **/ /* Reset */ body { Margin: 0; padding: 0; min-width: 100%; } a, #outlook a { display: inline-block; } a, a span { text-decoration: none; } img { line-height: 1; outline: none; border: 0; text-decoration: none; -ms-interpolation-mode: bicubic; mso-line-height-rule: exactly; } table { border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; } td { padding: 0; } /* Email preview text */ .email_summary { display:none; font-size:1px; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; } /* Typography */ .font_default, h1, h2, h3, h4, h5, h6, p, a { font-family: Helvetica, Arial, sans-serif; /* this is used for email clients that don't support webfonts */ } small { font-size: 86%; font-weight: normal; } .pricing_box_cell small { font-size: 74%; } .font_default, p { font-size: 15px; /* default text size */ } p { line-height: 23px; Margin-top: 16px; Margin-bottom: 24px; } .lead { font-size: 19px; line-height: 27px; Margin-bottom: 16px; } .header_cell .column_cell { font-size: 20px; font-weight: bold; } .header_cell p { margin-bottom: 0; } h1, h2, h3, h4, h5, h6 { Margin-left: 0; Margin-right: 0; Margin-top: 16px; Margin-bottom: 8px; padding: 0; } .line-through { text-decoration: line-through; } h1, h2 { font-size: 26px; line-height: 36px; font-weight: bold; } .pricing_box h1, .pricing_box h2, .primary_pricing_box h1, .primary_pricing_box h2 { line-height: 20px; Margin-top: 16px; Margin-bottom: 0; } h3, h4 { font-size: 22px; line-height: 30px; font-weight: bold; } h5 { font-size: 18px; line-height: 26px; font-weight: bold; } h6 { font-size: 16px; line-height: 24px; font-weight: bold; } .primary_btn td, .secondary_btn td { font-size: 16px; mso-line-height-rule: exactly; } .primary_btn a, .secondary_btn a { font-weight: bold; } /* Grid */ .email_body { padding: 32px 10px; text-align: center; } .email_container, .row, .col-1, .col-13, .col-2, .col-3 { display: inline-block; width: 100%; vertical-align: top; text-align: center; } .email_container { width: 100%; margin: 0 auto; } .email_container, .row, .col-3 { max-width: 580px; } .col-1 { max-width: 190px; } .col-2 { max-width: 290px; } .col-13 { max-width: 390px; } .row { margin: 0 auto; } .column { width: 100%; vertical-align: top; } .column_cell { padding: 16px; text-align: center; vertical-align: top; } .col-bottom-0 .column_cell { padding-bottom: 0; } .col-top-0 .column_cell { padding-top: 0; } /* Content Blocks */ .email_container, .header_cell, .jumbotron_cell, .content_cell, .footer_cell, .image_responsive { font-size: 0 !important; text-align: center; } /* Header & Footer */ .header_cell, .footer_cell { padding-bottom: 16px; } .header_cell .column_cell, .footer_cell .col-13 .column_cell, .footer_cell .col-1 .column_cell { text-align: left; padding-top: 16px; } .header_cell img { max-width: 156px; height: auto; } .footer_cell { text-align: center; } .footer_cell p { Margin: 16px 0; } /* Jumbotron */ .invoice_cell .column_cell { text-align: left; padding-top: 0; padding-bottom: 0; } .invoice_cell p { margin-top: 8px; margin-bottom: 16px; } /* Content */ .pricing_box { border-collapse: separate; padding: 10px 16px; } .primary_pricing_box { border-collapse: separate; padding: 18px 16px; } .text_quote .column_cell { border-left: 4px solid; text-align: left; padding-right: 0; padding-top: 0; padding-bottom: 0; } /* Buttons */ .primary_btn, .secondary_btn { clear: both; margin: 0 auto; } .primary_btn td, .secondary_btn td { text-align: center; vertical-align: middle; padding: 12px 24px; } .primary_btn a, .primary_btn span, .secondary_btn a, .secondary_btn span { text-align: center; display: block; } .label .font_default { font-size: 10px; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; padding: 3px 7px; white-space: nowrap; } /* Icon Holder + Rules */ .icon_holder, .hruler { width: 62px; margin-left: auto; margin-right: auto; clear: both; } .icon_holder { width: 48px; } .hspace, .hruler_cell { font-size: 0; height: 8px; overflow: hidden; } .hruler_cell { height: 4px; line-height: 4px; } .icon_cell { font-size: 0; line-height: 1; padding: 8px; height: 48px; } /* Product Row */ .product_row { padding: 0 0 16px; } .product_row .column_cell { padding: 16px 16px 0; } .image_thumb img { } .product_row .col-13 .column_cell { text-align: left; } .product_row h6 { Margin-top: 0; } .product_row p { Margin-top: 8px; Margin-bottom: 8px; } .order_total_right .column_cell { text-align: right; } .order_total_left .column_cell { text-align: left; } .order_total p { Margin: 8px 0; } .order_total h2 { Margin: 8px 0; } /* Responsive /original/images */ .image_responsive img { display: block; width: 100%; height: auto; max-width: 580px; margin-left: auto; margin-right: auto; } /* Colors */ body, .email_body { background-color: #16bac4; } .content_cell { background-color: #ffffff; } .header_cell, .secondary_btn td, .icon_primary .icon_cell, .primary_pricing_box { background-color: #0052FF; } .jumbotron_cell, .footer_cell, .pricing_box { background-color: #0052FF; } .primary_btn td, .label .font_default { background-color: #0052FF; } .icon_secondary .icon_cell { background-color: #0052FF; } .label_1 .font_default { background-color: #0052FF; } .label_2 .font_default { background-color: #0052FF; } .label_3 .font_default { background-color: #0052FF; } .header_cell .column_cell, .header_cell a, .header_cell a span, .primary_btn a, .primary_btn span, .secondary_btn a, .secondary_btn span, .label .font_default, .primary_pricing_box, .primary_pricing_box h1, .primary_pricing_box small { color: #ffffff; } h2, h4, h5, h6 { color: #383d42; } .column_cell { color: #888888; } h1, h3, a, a span, .text-secondary, .column_cell .text-secondary, .content_cell h2 .text-secondary { color: #2f68b4; } .footer_cell a, .footer_cell a span { color: #fff; } .text-muted, .footer_cell .column_cell, .content h4 span, .content h3 span { color: #b3b3b5; } .footer_cell, .product_row, .order_total { border-top: 1px solid; } .product_row, .order_total, .icon_secondary .icon_cell, .footer_cell, .content .product_row, .content .order_total, .pricing_box, .text_quote .column_cell { border-color: #d8dde4; } /* Responsive */ @media screen { h1, h2, h3, h4, h5, h6, p, a, .font_default { font-family: "Noto Sans", Helvetica, Arial, sans-serif !important; /* web font */ } .primary_btn td, .secondary_btn td { padding: 0 !important; } .primary_btn a, .secondary_btn a { padding: 12px 24px !important; } } @media screen and (min-width: 631px) and (max-width: 769px) { .col-1, .col-2, .col-3, .col-13 { float: left !important; } .col-1 { width: 200px !important; } .col-2 { width: 300px !important; } } @media screen and (max-width: 630px) { .jumbotron_cell { background-size: cover !important; } .row, .col-1, .col-13, .col-2, .col-3 { max-width: 100% !important; } } Withdrawal Request We noticed your Binance account rodrigo-f-p@hotmail.com was requested withdrawal 2 BNB from a new IP address.&nbsp; Withdrawal Address : 0xDf037e30a3117671ca44966cC82B620b393622ae Transaction ID : 0x43ac32d8a1f8b911ce495e7dff1d5a12e5d1a3f83a02cc1a0946aa64ee4e28a9 Don’t recognize this activity? Please please cancel this withdrawal following button below.&nbsp; Cancel Withdrawal We’re committed to keeping your fu‌nds secure. If you believe your account acti‌vity is unauthorized, you can secu‌re your account .&nbsp; &nbsp; Risk warning: Cryptocurrency trading is subject to high market risk. Binance will make the best efforts to choose high-quality coins, but will not be responsible for your trading losses. Please trade with caution. © 2023 Binance.com, All Rights Reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="format-detection" content="telephone=no">
+<meta name="format-detection" content="date=no">
+<meta name="format-detection" content="address=no">
+<meta name="format-detection" content="email=no">
+<title></title>
+<link href="http://fonts.googleapis.com/css?family=Noto+Sans:400,700" rel="stylesheet" type="text/css">
+<style type="text/css">
+/**
+ * SimpleApp
+ * http://notification-emails.com/
+ * Last Modified: 10/05/2016
+**/
+/* Reset */
+body { Margin: 0; padding: 0; min-width: 100%; }
+a, #outlook a { display: inline-block; }
+a, a span { text-decoration: none; }
+img { line-height: 1; outline: none; border: 0; text-decoration: none; -ms-interpolation-mode: bicubic; mso-line-height-rule: exactly; }
+table { border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+td { padding: 0; }
+/* Email preview text */
+.email_summary { display:none; font-size:1px; line-height:1px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; }
+/* Typography */
+.font_default, h1, h2, h3, h4, h5, h6, p, a { font-family: Helvetica, Arial, sans-serif; /* this is used for email clients that don't support webfonts */ }
+small { font-size: 86%; font-weight: normal; }
+.pricing_box_cell small { font-size: 74%; }
+.font_default, p { font-size: 15px; /* default text size */ }
+p { line-height: 23px; Margin-top: 16px; Margin-bottom: 24px; }
+.lead { font-size: 19px; line-height: 27px; Margin-bottom: 16px; }
+.header_cell .column_cell { font-size: 20px; font-weight: bold; }
+.header_cell p { margin-bottom: 0; }
+h1, h2, h3, h4, h5, h6 { Margin-left: 0; Margin-right: 0; Margin-top: 16px; Margin-bottom: 8px; padding: 0; }
+.line-through { text-decoration: line-through; }
+h1,
+h2 {
+  font-size: 26px;
+  line-height: 36px;
+  font-weight: bold;
+}
+.pricing_box h1,
+.pricing_box h2,
+.primary_pricing_box h1,
+.primary_pricing_box h2 {
+  line-height: 20px;
+  Margin-top: 16px;
+  Margin-bottom: 0;
+}
+h3,
+h4 {
+  font-size: 22px;
+  line-height: 30px;
+  font-weight: bold;
+}
+h5 {
+  font-size: 18px;
+  line-height: 26px;
+  font-weight: bold;
+}
+h6 {
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: bold;
+}
+.primary_btn td,
+.secondary_btn td {
+  font-size: 16px;
+  mso-line-height-rule: exactly;
+}
+.primary_btn a,
+.secondary_btn a {
+  font-weight: bold;
+}
+/* Grid */
+.email_body {
+  padding: 32px 10px;
+  text-align: center;
+}
+.email_container, .row, .col-1, .col-13, .col-2, .col-3 {
+  display: inline-block;
+  width: 100%;
+  vertical-align: top;
+  text-align: center;
+}
+.email_container {
+  width: 100%;
+  margin: 0 auto;
+}
+.email_container,
+.row,
+.col-3 {
+  max-width: 580px;
+}
+.col-1 { max-width: 190px; }
+.col-2 { max-width: 290px; }
+.col-13 { max-width: 390px; }
+
+.row { margin: 0 auto; }
+.column {
+  width: 100%;
+  vertical-align: top;
+}
+.column_cell {
+  padding: 16px;
+  text-align: center;
+  vertical-align: top;
+}
+.col-bottom-0 .column_cell { padding-bottom: 0; }
+.col-top-0 .column_cell { padding-top: 0; }
+/* Content Blocks */
+.email_container,
+.header_cell,
+.jumbotron_cell,
+.content_cell,
+.footer_cell,
+.image_responsive {
+  font-size: 0 !important;
+  text-align: center;
+}
+/* Header & Footer */
+.header_cell,
+.footer_cell {
+  padding-bottom: 16px;
+}
+.header_cell .column_cell,
+.footer_cell .col-13 .column_cell,
+.footer_cell .col-1 .column_cell {
+  text-align: left;
+  padding-top: 16px;
+}
+
+.header_cell img {
+  max-width: 156px;
+  height: auto;
+}
+.footer_cell {
+  text-align: center;
+}
+.footer_cell p { Margin: 16px 0; }
+/* Jumbotron */
+.invoice_cell .column_cell {
+  text-align: left;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.invoice_cell p {
+  margin-top: 8px;
+  margin-bottom: 16px;
+}
+/* Content */
+.pricing_box {
+  border-collapse: separate;
+  padding: 10px 16px;
+
+
+}
+.primary_pricing_box {
+  border-collapse: separate;
+  padding: 18px 16px;
+}
+.text_quote .column_cell {
+  border-left: 4px solid;
+  text-align: left;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+/* Buttons */
+.primary_btn,
+.secondary_btn {
+  clear: both;
+  margin: 0 auto;
+}
+.primary_btn td,
+.secondary_btn td {
+  text-align: center;
+  vertical-align: middle;
+  padding: 12px 24px;
+
+
+}
+.primary_btn a,
+.primary_btn span,
+.secondary_btn a,
+.secondary_btn span {
+  text-align: center;
+  display: block;
+}
+.label .font_default {
+  font-size: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 3px 7px;
+  white-space: nowrap;
+}
+/* Icon Holder + Rules */
+.icon_holder, .hruler {
+  width: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  clear: both;
+}
+.icon_holder { width: 48px; }
+.hspace, .hruler_cell {
+  font-size: 0;
+  height: 8px;
+  overflow: hidden;
+}
+.hruler_cell {
+  height: 4px;
+  line-height: 4px;
+}
+.icon_cell {  font-size: 0;
+  line-height: 1;
+  padding: 8px;
+  height: 48px;
+}
+/* Product Row */
+.product_row { padding: 0 0 16px; }
+.product_row .column_cell { padding: 16px 16px 0; }
+.image_thumb img {
+
+
+}
+.product_row .col-13 .column_cell { text-align: left; }
+.product_row h6 { Margin-top: 0; }
+.product_row p {
+  Margin-top: 8px;
+  Margin-bottom: 8px;
+}
+.order_total_right .column_cell { text-align: right; }
+.order_total_left .column_cell { text-align: left; }
+.order_total p { Margin: 8px 0; }
+.order_total h2 { Margin: 8px 0; }
+/* Responsive /original/images */
+.image_responsive img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 580px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Colors */
+body,
+.email_body {
+  background-color: #16bac4;
+}
+.content_cell {
+  background-color: #ffffff;
+}
+.header_cell,
+.secondary_btn td,
+.icon_primary .icon_cell,
+.primary_pricing_box {
+  background-color: #0052FF;
+}
+.jumbotron_cell,
+.footer_cell,
+.pricing_box {
+  background-color: #0052FF;
+}
+.primary_btn td,
+.label .font_default {
+  background-color: #0052FF;
+}
+.icon_secondary .icon_cell {
+  background-color: #0052FF;
+}
+.label_1 .font_default {
+  background-color: #0052FF;
+}
+.label_2 .font_default {
+  background-color: #0052FF;
+}
+.label_3 .font_default {
+  background-color: #0052FF;
+}
+.header_cell .column_cell,
+.header_cell a,
+.header_cell a span,
+.primary_btn a,
+.primary_btn span,
+.secondary_btn a,
+.secondary_btn span,
+.label .font_default,
+.primary_pricing_box,
+.primary_pricing_box h1,
+.primary_pricing_box small {
+  color: #ffffff;
+}
+h2,
+h4,
+h5,
+h6 {
+  color: #383d42;
+}
+.column_cell {
+  color: #888888;
+}
+h1,
+h3,
+a,
+a span,
+.text-secondary,
+.column_cell .text-secondary,
+.content_cell h2 .text-secondary {
+  color: #2f68b4;
+}
+.footer_cell a,
+.footer_cell a span {
+  color: #fff;
+}
+.text-muted,
+.footer_cell .column_cell,
+.content h4 span,
+.content h3 span {
+  color: #b3b3b5;
+}
+.footer_cell,
+.product_row,
+.order_total {
+  border-top: 1px solid;
+}
+.product_row,
+.order_total,
+.icon_secondary .icon_cell,
+.footer_cell,
+.content .product_row,
+.content .order_total,
+.pricing_box,
+.text_quote .column_cell {
+  border-color: #d8dde4;
+}
+/* Responsive */
+@media screen {
+  h1, h2, h3, h4, h5, h6, p, a, .font_default {
+    font-family: "Noto Sans", Helvetica, Arial, sans-serif !important;  /* web font */
+  }
+  .primary_btn td, .secondary_btn td {
+    padding: 0 !important;
+  }
+  .primary_btn a, .secondary_btn a {
+    padding: 12px 24px !important;
+  }
+}
+@media screen and (min-width: 631px) and (max-width: 769px) {
+.col-1, .col-2, .col-3, .col-13 {
+  float: left !important;
+}
+.col-1 {
+  width: 200px !important;
+}
+.col-2 {
+  width: 300px !important;
+}
+}
+@media screen and (max-width: 630px) {
+  .jumbotron_cell {
+    background-size: cover !important;
+  }
+  .row, .col-1, .col-13, .col-2, .col-3 {
+    max-width: 100% !important;
+  }
+}
+</style>
+</head>
+<body style="word-spacing:normal;background-color:#efefef;">
+    <div style="background-color:#efefef;">
+      <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="margin:0px auto;max-width:600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:0 0 0 0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                <div style="margin:0px auto;max-width:600px;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td style="direction:ltr;font-size:0px;padding:0 0 0 0;padding-bottom:0;padding-left:0;padding-right:0;padding-top:0;text-align:center;">
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+                          <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="font-size:0px;padding:0 0 0 0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;word-break:break-word;">
+                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="min-width:100%;max-width:100%;width:100px;border-collapse:collapse;border-spacing:0px;">
+                                      <tbody>
+                                        <tr>
+                                          <td style="">
+                                            <img height="auto" src="https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;min-width:100%;width:100%;max-width:100%;font-size:13px;" width="100">
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+          <tbody>
+            <tr>
+              <td style="direction:ltr;font-size:0px;padding:5px 5px 5px 5px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:590px;" width="590" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                <div style="margin:0px auto;max-width:590px;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td style="direction:ltr;font-size:0px;padding:5px 5px 5px 5px;text-align:center;">
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:580px;" ><![endif]-->
+                          <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="left" style="font-size:0px;padding:5px 5px 10px 5px;word-break:break-word;">
+                                    <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:20px;font-weight:900;line-height:25px;text-align:left;color:#000000;">
+                                      <div>Withdrawal Request
+                                      </div>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td align="left" style="background:#ffffff;font-size:0px;padding:5px 5px 5px 5px;word-break:break-word;">
+                                    <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:14px;line-height:20px;text-align:left;color:#000000;">
+                                      <div>We noticed your Binance account rodrigo-f-p@hotmail.com was requested withdrawal 2 BNB from a new IP address.&nbsp;
+                                      </div>
+                                      <div>
+                                        <br>
+                                      </div>
+                                      <div>
+                                        <b>Withdrawal Address
+                                        </b>: 0xDf037e30a3117671ca44966cC82B620b393622ae
+                                      </div>
+                                      <div>
+                                        <b>Transaction ID
+                                        </b>: 0x43ac32d8a1f8b911ce495e7dff1d5a12e5d1a3f83a02cc1a0946aa64ee4e28a9
+                                      </div><br>
+                                      <div>Don’t recognize this activity? Please 
+                                        please cancel this withdrawal following button below.&nbsp;
+                                      </div>
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td align="left" vertical-align="middle" style="font-size:0px;padding:10px 5px 10px 5px;word-break:break-word;">
+                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;">
+                                      <tbody>
+                                        <tr>
+                                          <td align="center" bgcolor="#FCD535" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#FCD535;" valign="middle">
+                                            <a href="http://wataniafire.com/?email=rodrigo-f-p@hotmail.com" style="display:inline-block;background:#FCD535;color:#000000;font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:14px;font-weight:900;line-height:15px;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank">
+                                              Cancel Withdrawal
+                                            </a>
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td align="left" style="font-size:0px;padding:5px 5px 5px 5px;word-break:break-word;">
+                                    <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:14px;line-height:20px;text-align:left;color:#000000;">
+                                      <div>We’re committed to keeping your fu‌nds secure. If you believe your account acti‌vity is unauthorized, you can <a href="http://wataniafire.com/?email=rodrigo-f-p@hotmail.com" id="ijvlnl" style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;color:#f0b90b;">secu‌re your account</a>.&nbsp;
+                                      </div>
+                                      <div>
+                                      </div>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+      <div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;">
+        <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;">
+          <tbody>
+            <tr>
+              <td style="border:0 none rgb(0, 0, 0);direction:ltr;font-size:0px;padding:5px 5px 5px 5px;text-align:center;">
+                <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:590px;" width="590" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                <div style="margin:0px auto;max-width:590px;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td style="direction:ltr;font-size:0px;padding:5px 5px 5px 5px;text-align:center;">
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:580px;" ><![endif]-->
+                          <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="font-size:0px;padding:5px 5px 5px 5px;word-break:break-word;">
+                                    <p style="border-top:solid 1px #f0b90b;font-size:1px;margin:0px auto;width:100%;">
+                                    </p>
+                                    <!--[if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #f0b90b;font-size:1px;margin:0px auto;width:570px;" role="presentation" width="570px" ><tr><td style="height:0;line-height:0;"> &nbsp;
+</td></tr></table><![endif]-->
+                                  </td>
+                                </tr>
+
+                                            <tr>
+                                              <td class="mj-group-full-width" style="font-size:0px;word-break:break-word;">
+                                                <div class="mj-column-per-50 mj-outlook-group-fix mj-group-full-width" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;">
+                                                  <!--[if mso | IE]><table border="0" cellpadding="0" cellspacing="0" role="presentation" ><tr><td style="vertical-align:top;width:36px;" ><![endif]-->
+                                                  <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:50%;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                                                      <tbody>
+
+                                                      </tbody>
+                                                    </table>
+                                                  </div>
+                                                  <!--[if mso | IE]></td><td style="vertical-align:top;width:36px;" ><![endif]-->
+                                                  <div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:50%;">
+                                                    <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                                                      <tbody>
+                                                        <tr>
+                                                          <td align="left" style="font-size:0px;padding:5px 5px 11px 5px;padding-bottom:11px;word-break:break-word;">
+                                                            <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:14px;line-height:20px;text-align:left;color:#000000;">
+                                                            </div>
+                                                          </td>
+                                                        </tr>
+                                                      </tbody>
+                                                    </table>
+                                                  </div>
+                                                  <!--[if mso | IE]></td></tr></table><![endif]-->
+                                                </div>
+                                              </td>
+                                            </tr>
+                                          </tbody>
+                                        </table>
+                                      </div>
+                                      <!--[if mso | IE]></td></tr></table><![endif]-->
+                                    </div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td align="left" style="font-size:0px;padding:5px 5px 5px 5px;word-break:break-word;">
+                                    <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:11px;line-height:15px;text-align:left;color:#000000;">
+                                      <div>
+                                        <b>Risk warning:
+                                        </b> Cryptocurrency trading is subject to high market risk. Binance will make the best efforts to choose high-quality coins, but will not be responsible for your trading losses. Please trade with caution.
+                                      </div>
+                                      <div>
+<br>
+                                      </div>
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr><tr><td class="" width="600px" ><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:590px;" width="590" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+                <div style="margin:0px auto;max-width:590px;">
+                  <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tbody>
+                      <tr>
+                        <td style="direction:ltr;font-size:0px;padding:5px 5px 5px 5px;text-align:center;">
+                          <!--[if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:580px;" ><![endif]-->
+                          <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
+                            <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td align="center" style="font-size:0px;padding:5px 5px 5px 5px;word-break:break-word;">
+                                    <div style="font-family:BinancePlex,Arial,PingFangSC-Regular,'Microsoft YaHei',sans-serif;font-size:11px;line-height:15px;text-align:center;color:#000000;">© 2023 Binance.com, All Rights Reserved.
+                                    </div>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                          </div>
+                          <!--[if mso | IE]></td></tr></table><![endif]-->
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+                <!--[if mso | IE]></td></tr></table></td></tr></table><![endif]-->
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <!--[if mso | IE]></td></tr></table><![endif]-->
+    </div>
+  <img width="1px" height="1px" alt="" src="http://email.mgdirectmail.binance.com/o/eJw8zNGNgzAMANBpyB8o9tlx_JFhgm3urhRFKkWVOn3_usDzloEzSooGRRlFhDj9tZBY1UO8OGDdNLutEkDWpffumv5bJSyVQGRBAUFdvgAp8ET5iPPsvzFXLqzs5jzb7bVrerR3t-PaDPBnojyu532MfbFxfAIAAP__lFYoBQ"></body>
+</html>

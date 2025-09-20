@@ -1,0 +1,69 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Rodrigo temos uma proposta exclusiva esperando você
+From: "Proposta Planos Amil" <marlene@cp.e-compareplanossaude.com>
+To: phishing@pot
+Date: Tue, 1 Aug 2023 05:16:46 -0300
+Message_Id: <20230801081649.73c7542bb12c6735@cp.e-compareplanossaude.com>
+Content_Type: Multipart/alternative; boundary="01220585_3B4BCF95_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="01220585_3B4BCF95_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://go.compareplanossaude.com/zd-d/oimg.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831
+  - https://go.compareplanossaude.com/zd-d/lnk.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831
+  - cp.e-compareplanossaude.com?subject=tirar%20email&amp;body=excluir
+
+DECODED TEXT CONTENT:
+------------------------------
+consultas body{margin:0;padding:0;} Rodrigo,&nbsp; Plano até 40% mais barat o para você que é MEI ou PJ Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência do seu plano. Faça sua cotação e&nbsp;consulte a tabela preços 2023 ATUALIZADA cote agora &nbsp; cancele sua inscrição aqui
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>consultas</title>
+    <style type="text/css">
+        body{margin:0;padding:0;}
+    </style>
+</head>
+
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 550px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p><strong><strong>Rodrigo,&nbsp;</strong></strong></p>
+<p><span style="color: #0000ff;"><strong>Plano até 40% mais barat</strong><strong>o para você que é MEI ou PJ</strong></span><br>Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência do seu plano.</p>
+<p>Faça sua cotação e&nbsp;consulte a tabela preços 2023 ATUALIZADA</p>
+<p style="text-align: center;"><a style="display: block; background-color: #0000ff; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="https://go.compareplanossaude.com/zd-d/lnk.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831"><span style="font-size: x-large;"><span style="font-size: xx-large;"><span style="font-size: x-large;">cote agora</span></span></span></a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; line-height: 1.2;">
+<p>&nbsp;</p>
+<p><span style="font-size: 8pt;"><span style="font-family: arial, helvetica, sans-serif;"><a href="mailto:sair@cp.e-compareplanossaude.com?subject=tirar%20email&amp;body=excluir">cancele sua inscrição aqui</a><br></span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+
+<img src="https://go.compareplanossaude.com/zd-d/oimg.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831" width="1" height="1" border="0" alt=""></html>

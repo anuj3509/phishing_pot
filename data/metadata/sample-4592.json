@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Pedido taxado pela fiscaliza����o alfandeg��ria. 359074450",
+    "from": "Pedido Correios <entregas@naoresponder71160%pedidos.net>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Dec 2024 10:39:25 +0000 (UTC)",
+    "message_id": "<20241223103925.2E1454223F@redhat-b-9vcpu-2gb-nyc1-27>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://buscaencomendas.encomendasrastreiobusca.co.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 545,
+    "html_length": 4219,
+    "has_text": true,
+    "has_html": true
+  }
+}

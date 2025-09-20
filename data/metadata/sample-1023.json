@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Hi",
+    "from": "shore@suksapan.or.th",
+    "to": "Recipients <shore@suksapan.or.th>",
+    "date": "Tue, 01 Aug 2023 17:09:24 +0100",
+    "message_id": "\r\n <481485b6-1e17-4ac0-aa95-77fd08bac8b8@DM6NAM10FT113.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1074596951==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1074596951==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 279,
+    "html_length": 409,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "First batch of XRP ready for claiming",
+    "from": "Ripple <xrp@dmi-ida.org>",
+    "to": "phishing@pot",
+    "date": "Sat, 07 Oct 2023 15:44:47 +0000 (UTC)",
+    "message_id": "<Qqdq4hOPTw6zDZRBUU97RA@geopod-ismtpd-25>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u33764687.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FIen7fhdxEY6lo-2B3jilU7q-2By14-2FJcwyuG-2FKfHaw-2FGx8IZpmnFqRPocIqIEtb9SDCDM8WM9AxQRkKdBub9L5LlsCKlT7q9UG7RYnsgspKMqcHE-2ButxHJStpf1AbcMFZ-2B5011Us2-2FropyRMiBNtSK5yPK-2BpCtDkXi0XcCZIGKrKl9BAPphyAjUYRaQbNc2KWarU-3D",
+      "https://i.imgur.com/R9jm7Ay.png",
+      "https://emailserv112-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://fonts.gstatic.com/s/sourcesanspro/v10/toadOcfmlt9b38dHJxOBGFkQc6VGVFSmCnC_l7QZG60.woff)",
+      "https://emailserv112-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "https://fonts.gstatic.com/s/sourcesanspro/v10/ODelI1aHBYDBqgeIAH2zlBM0YzuT7MdOe03otPbuUS0.woff)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2366,
+    "html_length": 12155,
+    "has_text": true,
+    "has_html": true
+  }
+}

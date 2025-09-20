@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Trust Wallet",
+    "from": "\"noreply\" <call@yaronbrookshow.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 14 Dec 2022 06:37:12 +0100",
+    "message_id": "<46281340136723234721849@WIN-HM6FI4VOIEP>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/assets/images/media/preview/horizontal_blue.png",
+      "http://aak-ngo.org/home"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 376,
+    "html_length": 9717,
+    "has_text": true,
+    "has_html": true
+  }
+}

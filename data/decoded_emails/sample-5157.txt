@@ -1,0 +1,66 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: :loudspeaker: AVISO IMPORTANTE: Taxa de servi��o necess��ria para liberar envio! ID:441
+From: Correios Atendimento <contato@produtobloqueado441correios.co.ua-servic-atendimento>
+To: <phishing@pot>
+Date: Sat, 15 Mar 2025 05:01:30 +0000
+Message_Id: <20250315050130.4387C3F867@Servidor-ezyv-sist-1gb-clienteves-tret>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com,
+  - https://imobiliariaslima.com.br/corr
+
+DECODED TEXT CONTENT:
+------------------------------
+Correios 📦 Atenção: Entrega Suspensa 🚚 &nbsp; Prezado(a) rodrigo-f-p@hotmail.com, Seu pacote foi temporariamente retido pela fiscalização aduaneira devido a pendências de importação. Para que a entrega seja concluída, é necessário o pagamento da taxa obrigatória. O pagamento deve ser realizado dentro do prazo estabelecido para evitar a devolução da encomenda ao remetente. Clique no botão abaixo para regularizar a situação: Efetuar Pagamento Correios 2024 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="border: 0px; font-size: 15px; line-height: inherit; font-family: 'Segoe UI', Arial, sans-serif; margin: 0px; padding: 0px; text-align: center; color: #242424; background-color: #ffffff;">
+    <div class="x_container" style="margin: 40px auto; width: 600px; max-width: 600px; background-color: #0033a0; border-radius: 8px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px;">
+        <div class="x_header" style="padding: 20px; background-color: #ffcc00; color: #0033a0;">
+            <h1>Correios</h1>
+        </div>
+        <div class="x_content" style="padding: 20px; color: #ffffff;">
+            <h1 style="font-size: 26px; margin: 0px;">📦 Atenção: Entrega Suspensa 🚚</h1>
+            <h1 style="font-size: 26px; margin: 0px;">&nbsp;</h1>
+            <div class="x_x_content" style="padding: 30px; background-color: #f4f4f4; color: #333333;">
+                <p style="font-size: 16px; margin-bottom: 20px; line-height: 1.6;">
+                    <strong>Prezado(a) rodrigo-f-p@hotmail.com,</strong>
+                </p>
+                <p style="font-size: 16px; margin-bottom: 20px; line-height: 1.6;">
+                    Seu pacote foi temporariamente retido pela fiscalização aduaneira devido a pendências de importação. Para que a entrega seja concluída, é necessário o pagamento da taxa obrigatória.
+                </p>
+                <p style="font-size: 16px; margin-bottom: 20px; line-height: 1.6;">
+                    O pagamento deve ser realizado dentro do prazo estabelecido para evitar a devolução da encomenda ao remetente. 
+                </p>
+            </div>
+            <p style="margin: 15px 0px;">
+                Clique no botão abaixo para regularizar a situação:
+            </p>
+            <p>
+                <a href="https://imobiliariaslima.com.br/corr" target="_blank">
+                    <span style="color: #0033a0; font-size: 16px; padding: 15px 25px; display: inline-block; background-color: #ffcc00; border-radius: 5px;">
+                        Efetuar Pagamento
+                    </span>
+                </a>
+            </p>
+        </div>
+        <div class="x_footer" style="padding: 10px; background-color: #ffcc00; color: #0033a0; font-size: 12px;">
+            <p style="margin: 15px 0px;">Correios 2024 - Todos os direitos reservados</p>
+        </div>
+    </div>
+</div>
+

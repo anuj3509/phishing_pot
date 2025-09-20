@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atualização de perfil: mantenha sua  assinatura em dia.",
+    "from": "Netflix <noreply@netflix>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 7 Jun 2025 17:07:45 +0000",
+    "message_id": "<04508b0c-0ee0-808a-072e-370f855302d6@netflix>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://castelesiv.icu/t?email=phishing@pot&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name=phishing@pot",
+      "http://castelesiv.icu/email=phishing@pot&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name=Rodrigo"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5629,
+    "html_length": 11441,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,67 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Announcement* :   Withdraw Process is Authorized Now !!
+From: "FTXTeam." <qplvww@obus.com.tr>
+To: phishing@pot
+Date: Fri, 8 Sep 2023 03:42:40 +0000
+Message_Id: <0108018a72e27f22-904e193e-18ac-4b81-8bd1-217521707d68-000000@ap-southeast-2.amazonses.com>
+Content_Type: text/html;
+	charset="iso-8859-1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+	charset="iso-8859-1"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://i.stack.imgur.com/79Ohi.png
+
+DECODED TEXT CONTENT:
+------------------------------
+body { background-color: #f2f2f2; text-align: center; font-family: Arial, sans-serif; } .container { padding: 20px; background-color: #ffffff; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); max-width: 600px; margin: 0 auto; } img { max-width: 100%; height: auto; display: block; margin: 0 auto; } .footer { margin-top: 20px; font-size: 12px; color: #888888; } You have been identified as an eligible client to begin withdrawing digital assets from your account.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to Our Newsletter Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor tellus quis leo tristique. Read More Copyright © 2023 Your Company. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><style>
+        body {
+            background-color: #f2f2f2;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 0 auto;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px;
+            color: #888888;
+        }
+    </style>
+
+<meta name="GENERATOR" content="MSHTML 11.00.10570.1001"></head>
+<body>
+<div class="container" style="COLOR: #ffffff"><img alt="Image Description" src="https://i.stack.imgur.com/79Ohi.png"> 
+<h1>You have been identified as an eligible client to begin withdrawing digital assets from your account.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to Our Newsletter</h1>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam auctor tellus quis leo tristique.</p><button>Read More</button> </div>
+<div class="footer">
+<p>Copyright © 2023 Your Company. All rights reserved.</p></div></body></html>
+

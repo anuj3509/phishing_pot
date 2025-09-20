@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "FIDO's, WebAuthn's Post-Quantum Future",
+    "from": "\"Nitrokey\" <info@nitrokey.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 15:48:04 -0000",
+    "message_id": "<587935769889192.1699631260.751336097717285-openerp-reply_to@2a6b5ef90fd4>",
+    "content_type": "multipart/mixed; boundary=\"===============3052200126664790534==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============3052200126664790534==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo_with_background.png",
+      "https://shop.nitrokey.com/mail/mailing/93/unsubscribe?db=odoo&amp;res_id=75073&amp;email=rodrigo-f-p%40hotmail.com&amp;token=5b144f922be436a3e1850aab1e398daa972c1971d48c36312d7ed9fe02e2a5f744749b9b15ff755e2d3cdc858ba00b430c06c3d0c17b1ec4e0ff1cb35800f68d",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo.png",
+      "https://shop.nitrokey.com/mail/track/37496211/blank.gif?db=odoo",
+      "https://nitrokey.com/newsletter",
+      "https://www.nitrokey.com/",
+      "nitrokey.com",
+      "https://shop.nitrokey.com/web/image/414093/pqc3.png?access_token=a59cd8ea-1d33-438a-8f3e-4b3791d387f1",
+      "https://github.com/sandbox-quantum/pqc-fido2-impl",
+      "http://www.w3.org/1999/xhtml",
+      "https://github.com/trussed-dev/trussed",
+      "https://shop.nitrokey.com/unsubscribe_from_list",
+      "https://www.facebook.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/facebook.png",
+      "https://cryptographycaffe.sandboxaq.com/posts/pq-fido/",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/twitter.png",
+      "https://twitter.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/newsletter.png",
+      "https://www.nitrokey.com/products/nitrokeys"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2709,
+    "html_length": 13228,
+    "has_text": true,
+    "has_html": true
+  }
+}

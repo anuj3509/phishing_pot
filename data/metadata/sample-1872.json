@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Jetzt kostenlos teilnehmen und ein neues Tesla Model S gewinnen",
+    "from": "Tesla Model S <info@news.lidl.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 16:22:29 +0100",
+    "message_id": "<qlRoquN.70433.493.fgD@jhnsfourhgroup.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://getlevsgt.online/YjQ3Q0FRK3RUQUtBaDJXM3ZrUmtlc3V1d2hDZlBsK0ZjWXJ4QXU4QmErVGJoSzFabmtRaFh1YitsdGdWYlpjMiswZWw0NlpkNXZqMmxpR0hDYlhibGdiM1dKVTF0M0dCbjF1eXNUNFdUUjQ9",
+      "https://i.imgur.com/0wct4Wz.png",
+      "http://getlevsgt.online/YmVSRis5RGtzMjNkYmJ1STRUTE9GUTZZZEpEK1ZBQWdlR3BoajlKQXVpZVpEUjNEYXdHNTQ5MFpwdU4zU0NTNXpMckZPdVFWTDYvbnZ0dW9haVlFWVE9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "http://getlevsgt.online/RFVjZ2JzaytoczQ5NGNEbUZZL3JxMWNLc2FpbHZERzJDTHIwWEtaUVQraW40T3JSTjVFL2NFdlpkeGx2NE5OKzlUQUt2dFpienRQYnF4R3huazRacXc9PQ__",
+      "i.imgur.com/0wct4Wz.png",
+      "http://getlevsgt.online/MFF0VENVUzg4REtkU3VrQ2YraHkxZDdTNG0rWlVqT0RmcHRQbE5VWnV1R3drWVVDSDlNbVF6djN1cmFDdWhEQXI0UjQwbklQTnYwOW1TMDNMMm5wb3c9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1651,
+    "html_length": 9067,
+    "has_text": true,
+    "has_html": true
+  }
+}

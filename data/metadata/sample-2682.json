@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Prezado(a) 4231371\tphishing@pot, Seu convite para ser PRIME! [Protocolo: 360906]",
+    "from": "Bradesco Prime <conviteprime320@bradesco.com.br>",
+    "to": "4231371@smtp.gmail.com, phishing@pot,\r\n\tN@smtp.gmail.com, N@smtp.gmail.com, N@smtp.gmail.com,\r\n\t0@smtp.gmail.com, N@smtp.gmail.com, N@smtp.gmail.com,\r\n\tN@smtp.gmail.com, N@smtp.gmail.com, 2020-04-09@smtp.gmail.com",
+    "date": "Wed, 24 Jan 2024 02:20:39 +0000",
+    "message_id": "<20240124022100.F295941BBD@cllopgbym.gyoakwtscyinmb.com.br>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1706062839137509219\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_1706062839137509219\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "banco.brad",
+      "https://iwb2bradescoapp-combr.one/iwb12-ibpfprime-upgrade-paravoce-com-br/?conviteprime=NDIzMTM3MQlyb2RyaWdvLWYtcEBob3RtYWlsLmNvbQkJXE4JXE4JXE4JMAlcTglcTglcTglcTgky"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2051,
+    "html_length": 12003,
+    "has_text": true,
+    "has_html": true
+  }
+}

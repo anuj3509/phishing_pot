@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Seus pontos vao expirar! ID6623 - 27/02/2023 ",
+    "from": "Aviso Importante Livelo <root@pontos22.livelo01.shop>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Feb 2023 20:57:13 +0000 (UTC)",
+    "message_id": "<zzqqAXg8f4tU6k9uDUOd6PibsrV3Ua4Vi@pontos22.livelo01.shop>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://240.91.74.97.host.secureserver.net/001/?hash=phishing@pot",
+      "http://www.w3.org/1999/xhtml",
+      "http://www.w3.org/TR/xht=",
+      "xhtml1-transitional.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1332,
+    "html_length": 7779,
+    "has_text": true,
+    "has_html": true
+  }
+}

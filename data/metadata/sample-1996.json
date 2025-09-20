@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Notificação Emitida - wpsPADwQak6ANPRYv",
+    "from": "\"(Banco CentraI) - Valores a Receber - Protocolo: 782138398640256\" <dsafqw34567@gmail.com>",
+    "to": "<heron_baruch@live.com>",
+    "date": "Wed, 08 Nov 2023 15:37:14 +0000",
+    "message_id": "<2aa0b584475d6bab329c53603bab214d@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"0bf27e87448cadde2661ecd300093371\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"0bf27e87448cadde2661ecd300093371\""
+  },
+  "attachments": [
+    {
+      "filename": "NlpYZCgrb0C8961.pdf",
+      "content_type": "application/pdf",
+      "size": 107701
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "live.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 245,
+    "html_length": 347,
+    "has_text": true,
+    "has_html": true
+  }
+}

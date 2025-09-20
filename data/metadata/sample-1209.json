@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Password Expired honey@pot",
+    "from": "proton.me\r\n   <support@tik.toyota-industries.com>",
+    "to": "honey@pot",
+    "date": "1 Aug 2023 16:41:09 -0400",
+    "message_id": "<20230801164108.4D3F182D9615DA97@tik.toyota-industries.com>",
+    "content_type": "multipart/mixed;boundary=---------------------b40ab00c9b6e2447d3aae8044c14d761"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------b40ab00c9b6e2447d3aae8044c14d761"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "expires today"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=https://aggarwalpaints.in/.well-known/acme-challenge/system/ios/app-domain.html%23%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1690841350056000&amp;usg=AOvVaw2VUPabCpi6KsiM599SoRSX",
+      "proton.me&nbsp;will",
+      "https://hssaturno.com.br/wp-admin/user/401/gitch/app-domain.html#honey@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 318,
+    "html_length": 4030,
+    "has_text": true,
+    "has_html": true
+  }
+}

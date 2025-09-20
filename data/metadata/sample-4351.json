@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Atualize suas informações e continue utilizando nossos serviços.",
+    "from": "Bradesco S/A <infoemailservicoseatendimentos@bradescosa>",
+    "to": "phishing@pot",
+    "date": "Sat, 9 Nov 2024 18:13:46 +0000",
+    "message_id": "<28d7d19d2f924806d0fe283e67e6ffb2@kinotop.live>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_28d7d19d2f924806d0fe283e67e6ffb2\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_28d7d19d2f924806d0fe283e67e6ffb2\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://is.gd/3ugtl5",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1055,
+    "html_length": 3031,
+    "has_text": true,
+    "has_html": true
+  }
+}

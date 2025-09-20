@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificação de Urgência: Taxa obrigatória pendente para regularização do seu CPF. Evite bloqueios. Protocolo: 99405828.",
+    "from": "Receita Federal <pendencia707911@receitafederal>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 18 Apr 2025 08:38:16 +0000",
+    "message_id": "<4b0f42e35d58e519ab402f90bf0884a6@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_4b0f42e35d58e519ab402f90bf0884a6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_4b0f42e35d58e519ab402f90bf0884a6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://corre-765775392619.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3382,
+    "has_text": true,
+    "has_html": true
+  }
+}

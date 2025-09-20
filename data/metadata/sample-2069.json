@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Notificação Urgente - egeZ2Fb4pfL",
+    "from": "[BB Cartões] - Comunicado: 59439491563 <dsartwertyusdfg@gmail.com>",
+    "to": "<math.kichuu@hotmail.com>",
+    "date": "Wed, 29 Nov 2023 21:33:02 +0000",
+    "message_id": "<31a0487cc629609fa3e58a911dd5d5f1@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"1b381fd9130f51b9142bb73600072f01\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"1b381fd9130f51b9142bb73600072f01\""
+  },
+  "attachments": [
+    {
+      "filename": "0LE613QYRMda13479.pdf",
+      "content_type": "application/pdf",
+      "size": 68565
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 284,
+    "html_length": 600,
+    "has_text": true,
+    "has_html": true
+  }
+}

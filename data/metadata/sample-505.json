@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fw: Attention: Dear Friend, URGENT RESPONSE IS NEEDED. ",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Thu, 23 Mar 2023 01:19:23 +0000",
+    "message_id": "\r\n <SA0PR04MB7370E9072D73B92D5AD503B8B3879@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370E9072D73B92D5AD503B8B3879SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370E9072D73B92D5AD503B8B3879SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "MR.KISHORE",
+      "ksh.venkat04@gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 788,
+    "html_length": 1302,
+    "has_text": true,
+    "has_html": true
+  }
+}

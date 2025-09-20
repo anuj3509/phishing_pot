@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "ATENÇÃO: Evite a Suspensão Definitiva da CNH – ID: 94192019",
+    "from": "Detran <cnh-gov774668@webmail>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 20 Jan 2025 03:54:27 +0000",
+    "message_id": "<882570e14420d67695301fd6d1a39895@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_882570e14420d67695301fd6d1a39895\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_882570e14420d67695301fd6d1a39895\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap",
+      "https://detran.gov.br/",
+      "gov.br",
+      "https://northamerica-northeast1-steam-bonbon-387615.cloudfunctions.net/det-5"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3906,
+    "has_text": true,
+    "has_html": true
+  }
+}

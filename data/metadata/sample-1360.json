@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "[TrustWallet APP] Compliance Alert: Avoid Asset Freeze",
+    "from": "TrustWallet APP <noreply@pepsup.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Sep 2023 03:04:47 +0000",
+    "message_id": "<30477602.20230923030447.650e55cfa78e24.84322027@mail.pepsup.com>",
+    "content_type": "multipart/alternative; boundary=\"_av-77CVF3F2ZJE5b6K3H-TbTA\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_av-77CVF3F2ZJE5b6K3H-TbTA\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mandrillapp.com/track/open.php?u=30477602&amp;id=7c0bd8d52de6453fbacb2654902474d8",
+      "http://www.w3.org/1999/xhtml",
+      "https://mandrillapp.com/track/click/30477602/click.pstmrk.it?p=eyJzIjoibmxmc0M3NjVSQkRON0Y3NjVmRFhvbS1nd1lBIiwidiI6MSwicCI6IntcInVcIjozMDQ3NzYwMixcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL2NsaWNrLnBzdG1yay5pdFxcXC8zc1xcXC9jb25uZWN0YXMuY2F0YWxvZy55YW1waS5pbyUyRlxcXC9SYTBcXFwvdENpd0FRXFxcL0FRXFxcLzUxZmNjZGIzLWE5YjUtNDU2OC1hOTg3LTBlN2I3ZmIzZDRjNlxcXC8xXFxcL0M5MVdTY3VkMklcIixcImlkXCI6XCI3YzBiZDhkNTJkZTY0NTNmYmFjYjI2NTQ5MDI0NzRkOFwiLFwidXJsX2lkc1wiOltcIjhjNmFlMmQxZmYyZDY4OTA5N2RlMTgwYWY2MTRkODA2MDZiYmE5Y2FcIl19In0",
+      "https://click.pstmrk.it/3s/connectas.catalog.yampi.io%2F/Ra0/tCiwAQ/AQ/51fccdb3-a9b5-4568-a987-0e7b7fb3d4c6/1/C91WScud2I",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 969,
+    "html_length": 29830,
+    "has_text": true,
+    "has_html": true
+  }
+}

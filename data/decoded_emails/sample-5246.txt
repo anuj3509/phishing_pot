@@ -1,0 +1,31 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aw:
+From: "Lee Shau-kee" <leeshaukee@desarrollominero.gob.ve>
+To: Recipients <leeshaukee@desarrollominero.gob.ve>
+Date: Tue, 13 May 2025 12:47:08 -0700
+Message_Id: <20250513194724.5FD1911C22A0@correo.desarrollominero.gob.ve>
+Content_Type: multipart/mixed;boundary=---------------------5a3cb5d0412bb06c83e1fa1ff9d26f9e
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;boundary=---------------------5a3cb5d0412bb06c83e1fa1ff9d26f9e
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Hallo Ich wende mich im Namen der Lee Shau-kee Charity/Stiftung an Sie. Sie wurden für eine Spende von 1 Million US-Dollar ausgewählt. Bitte kontaktieren Sie die Stiftung unter leeshaukee11@gmail.com Mit freundlichen Grüßen, Peter Lee Ka-kit Lee Shau-kee Charity/Stiftung.
+
+DECODED HTML CONTENT:
+------------------------------
+<HTML><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/></head><BODY><P>Hallo<BR>Ich wende mich im Namen der Lee Shau-kee Charity/Stiftung an Sie. Sie wurden für eine Spende von 1 Million US-Dollar ausgewählt. Bitte kontaktieren Sie die Stiftung unter <A href="mailto:leeshaukee11@gmail.com">leeshaukee11@gmail.com</A></P>
+<P>Mit freundlichen Grüßen,<BR>Peter Lee Ka-kit<BR>Lee Shau-kee Charity/Stiftung.</P></BODY></HTML>

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Die Apple Box wird Ihnen f��r nur 1,95 Euro pr��sentiert.",
+    "from": "Apple MysteryBox, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 06 Jan 2024 19:06:17 +0100",
+    "message_id": "<JrZg20F.0.0.JrZg20F.9.JrZg20F@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/01/2wgz.png",
+      "https://www.zupimages.net/up/23/48/zjun.png",
+      "http://superkoran.info/dnNMMmdvODc5QzQxWm1VY2p6dHNpTktEWkg4c0hOVG9QVThtTUhEd0VRSTJhSTZxbUwwTjduWm1qQVo4QjRpQ3h6S2k4RTRwVlJGaGRNN1ZKTjNVWmxMTDZBVnA3VDJqQlF3U2NldFVjenc9",
+      "www.zupimages.net/up/24/01/2wgz.png",
+      "bgasdfasdfa.jpg",
+      "https://fair-forward1.com/?a=6073&amp;oc=19663&amp;c=53174&amp;m=3&amp;s1=",
+      "https://t.ly/RNGjV",
+      "www.zupimages.net/up/23/48/zjun.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5081,
+    "html_length": 11716,
+    "has_text": true,
+    "has_html": true
+  }
+}

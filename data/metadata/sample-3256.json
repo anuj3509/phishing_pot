@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinne jetzt einen Einkaufgutschein im Wert von 100���!",
+    "from": "Bahngutscheine, <service@stayfriends.de.>, Bahngutscheine,\r\n\t<service@stayfriends.de>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 09 May 2024 18:51:20 +0200",
+    "message_id": "<cbrbudb.g1bix.zll.zll@qmbhtzkitivplhn.ofm>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/9047_md/4049/24791/1397/281/76468",
+      "http://www.w3.org/1999/xhtml",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/9047_md/4049/24791/1397/281/76468",
+      "sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/9047_md/4049/24791/1397/281/76468"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2067,
+    "html_length": 9343,
+    "has_text": true,
+    "has_html": true
+  }
+}

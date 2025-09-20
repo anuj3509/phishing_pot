@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Status crítico: Seu CPF está na lista de pendências da Receita Federal. Código: 37108247.",
+    "from": "Central Receita Federal <tributos@regularizeid972256>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 12 Jul 2025 09:58:14 +0000",
+    "message_id": "<8c0483196aae5aab6e18bde35fd11a9b@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_8c0483196aae5aab6e18bde35fd11a9b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_8c0483196aae5aab6e18bde35fd11a9b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ksn-859670592555.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6697,
+    "has_text": true,
+    "has_html": true
+  }
+}

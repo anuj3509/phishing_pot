@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Sephora.",
+    "from": "Sephora, <laredoute@fr.redoute.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 15 Jan 2024 08:38:20 +0100",
+    "message_id": "<OuhOrSd.51050.214.wML@fr.redoute.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://marcosrenn.xyz/oop/68448_md/617/35340/1783/198/186909",
+      "https://zupimages.net/up/24/03/gq8z.gif",
+      "zupimages.net/up/23/19/dw91.png",
+      "http://marcosrenn.xyz/op/68448_md/617/35340/1783/198/186909",
+      "https://zupimages.net/up/23/19/dw91.png",
+      "zupimages.net/up/24/03/gq8z.gif",
+      "bgasdfasdfa.jpg",
+      "http://marcosrenn.xyz/cl/68448_md/617/35340/1783/198/186909"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5154,
+    "html_length": 11637,
+    "has_text": true,
+    "has_html": true
+  }
+}

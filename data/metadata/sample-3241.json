@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "FTX Trading Ltd., et al, Case No. 22-11068, US Bankruptcy Court for\r\n the District of Delaware",
+    "from": "ftxnoticing@ra.Kroll.com",
+    "to": "phishing@pot",
+    "date": "Sat, 04 May 2024 15:06:14 +0000 (UTC)",
+    "message_id": "<2hDJHpqyQMCy6FrnvBkpxA@geopod-ismtpd-0>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://media.ra.kroll.com/ftx/plananddisclosurestatement/1/FTXDisclosureStatement.html",
+      "table.wrapper-mobile",
+      "http://email.lucid-is.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVfqcOz5KKbIFlfQ6WsFHZNPcjRIk1PvKanqHcZXBt-2Bn8A0rhyDfKSbazEJvq8TYML5N0ILYwtZu6kQNuKCZdRj2RCzXKHKUjyVR1PLqxwVEiJFLjJwlgxy5wVBug5GHdMQy8HxfpRK-2Fo0BRGFQBwpwcjraTwSTPDWzODQ4c2hgfV95OqyLa0hr0Qgn-2F-2Bk4OIwjC5Y05d0RWx4gFK-2FkREcUYm7UYD3isAw5-2Frv8-2BspVmg-3D-3D",
+      ".column.of-3",
+      "table.wrapper",
+      ".column.of-4",
+      "a.bulletproof-button",
+      "http://www.w3.org/1999/xhtml",
+      "img.max-width",
+      "https://restructuring.ra.kroll.com/FTX",
+      "https://media.primeclerk.com/ftx/plananddisclosurestatement/docs/FTX-DSHN.pdf",
+      ".column.of-2",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3082,
+    "html_length": 9382,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "50 % Rabatt auf handgefertigte Messer!",
+    "from": "HUUSK-MESSER, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Oct 2023 11:00:21 +0200",
+    "message_id": "\r\n <ac8a820b-049c-4737-a335-78bea93201db@SN1NAM02FT0059.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/oop/637_md/2010/3/7/23/2459859",
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/382/22w34-pagal-veikiancius-huusk-07-191x1.jpg",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "http://ip/cl/637_md/2010/3/7/23/2459859",
+      "http://easilett.com/un/637_md/2010/3/7/23/2459859",
+      "huuskstore.com",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "https://cdn-m4m.chd01.com/pro/uploads/account_2319/20/Huusk_black__3_.png",
+      "https://fonts.googleapis.com/css?family=Ubuntu",
+      "http://easilett.com/cl/637_md/2010/3/7/23/2459859",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5920,
+    "html_length": 16295,
+    "has_text": true,
+    "has_html": true
+  }
+}

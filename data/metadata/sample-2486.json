@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "New update",
+    "from": "Trust Wallet - Support <lewis@ccasite.org>",
+    "to": "phishing@pot",
+    "date": "Thu, 04 Jan 2024 06:39:59 +0000 (UTC)",
+    "message_id": "<8e0c7126d21666a58628f15aae6a52694ae1bd24b5@ccasite.org>",
+    "content_type": "multipart/alternative; boundary=\"83296091ad6947dcff551ca561a58e933177\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"83296091ad6947dcff551ca561a58e933177\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u35717334.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2B4VxqJm34HyIn0Q2zWQ5AhjpM0-2Ff6jD4Fmhuc4z38yGbpZ5hpgdbr4VrhnC6Oops1OLGSDfZNgLpxoTzzlPHhS3e7aduBkW8dZEeaK99VPWi7vvvKLQ4-2FAlWn0Da8tqMdOfZPHmCYDz4uCxQCTW7qx2FVIEmLoiDxXXYD-2FiW0CV-2FUe4gjzX9qE9mzPZI5vMT0-3D",
+      "https://u35717334.ct.sendgrid.net/ls/click?upn=MXFR42TVt2-2Bo76zJeyWMiWP85JGKf9QqlTteL4-2BpKw7ZfBU4dkiQzgxmN4EaW58y4-I8_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPkXNS0Z2VMhV6orwH6-2BMjRQiOTk4EMFfbioKK2Iv06MgbEADaI-2B981OTxihxUyww4Y7O-2FyJNGXbzqtt81K1Kl0fP9ZTXgcZGYqwhU7dGApUAfJf4P4WICtanh1Xfx2j7gV3AaQ1xIjqqi7EkSiWubQ-2Bnm42fOn-2F3OnDYvoBe9ZE3lSSltTcQgWvFnNBT-2BOWC24-3D",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tOil2H2wV-13cq89kTKvanGKraq1SPaWyg&amp;usqp=CAU"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 455,
+    "html_length": 9929,
+    "has_text": true,
+    "has_html": true
+  }
+}

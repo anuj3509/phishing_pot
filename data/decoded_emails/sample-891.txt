@@ -1,0 +1,125 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [GitHub Support] - A note from GitHub about private information in
+ your repository
+From: GitHub <support@githubsupport.com>
+To: phishing@pot <phish@pot>
+Date: Thu, 13 Jul 2023 16:49:06 +0000
+Message_Id: <66J721E1GEV_64b02b028c28e_4d3a5c46521c_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_64b02b02ebe56_4d3a5c4653ac";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_64b02b02ebe56_4d3a5c4653ac";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions).
+  - https://docs.github.com/articles/remove-sensitive-data)
+  - https://github.zendesk.com/system/photos/13586262291860/github-mark.png
+  - http://schema.org/ViewAction
+  - https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private)
+  - https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L88184
+  - https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_453.eml#L123
+  - http://schema.org/EmailMessage
+  - https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private
+  - https://enterprise.githubsupport.com/hc/requests/2250562
+  - https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions
+  - https://docs.github.com/articles/remove-sensitive-data
+  - https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_350.eml#L165
+  - https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_102.eml#L146
+  - https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L85562
+
+DECODED TEXT CONTENT:
+------------------------------
+## Please do not write below this line ##
+
+----------------------------------------------
+
+GitHub Trust & Safety, Jul 13, 2023, 4:49 PM UTC
+
+Hello,
+
+I'm reaching out on behalf of the GitHub Trust & Safety Team to let you know we received a report that one of your repositories contains private information that was posted without consent. Specifically, the following content was reported:
+
+> https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_102.eml#L146 (line 146)
+https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_350.eml#L165 (line 165)
+https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_453.eml#L123 (line 123)
+https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L85562 (line 85562)
+https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L88184 (line 88184)
+
+In order to remove the content in question, we ask that you refer to the following article for help:
+
+[Removing sensitive data from a repository](https://docs.github.com/articles/remove-sensitive-data)
+
+***Please make sure to follow those instructions carefully, as simply deleting the content will not remove it completely from the repository commit history.***
+
+Alternately, you may simply want to switch the repository to private by following the instructions found here:
+
+[Making a repository private](https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private)
+
+If these changes are not made within 3 business days, we will continue our review of the complaint. We may need to disable your repository at that time in order to protect the owner of  private information that has been posted in violation of our [Acceptable Use Policies](https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions). 
+
+If you have any questions, concerns, or feedback regarding this notice, please let us know as soon as possible.
+
+Regards,&nbsp;
+GitHub Trust & Safety
+
+--------------------------------
+This email is a service from GitHub Support.
+
+
+
+
+
+
+
+
+
+
+[66J721-E1GEV]
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+    table td {
+      border-collapse: collapse;
+    }
+  </style>
+
+          <style type="text/css">
+            @media only screen and (max-width: 768px) {
+              .simplified-email-footer .namecard {
+                display: block;
+                min-width: 100%;
+                padding: 0 0 16px 0; }
+
+              .simplified-email-footer .content {
+                padding: 16px; }
+            }
+          </style>
+        </head>
+<body style="width: 100%!important; margin: 0; padding: 0;">
+  <div style="padding: 10px ; line-height: 18px; font-family: 'Lucida Grande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style="color: #b5b5b5;">## Please do not write below this line ##</div>
+    <p dir="ltr"></p><div style="margin-top: 25px" data-version="2"><table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">  <tbody><tr>    <td width="100%" style="padding: 15px 0; border-top: 1px dotted #c5c5c5;">      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;" role="presentation">        <tbody><tr>                      <td valign="top" style="padding: 0 15px 0 15px; width: 40px;">              <img width="40" height="40" alt="" style="height: auto; line-height: 100%; outline: none; text-decoration: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;" src="https://github.zendesk.com/system/photos/13586262291860/github-mark.png">            </td>                    <td width="100%" style="padding: 0; margin: 0;" valign="top">            <p style="font-family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0; color:#1b1d1e;" dir="ltr">                                                <strong>GitHub Trust &amp; Safety</strong> (GitHub Support)                                          </p>            <p style="font-family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 13px; line-height: 25px; margin-bottom: 15px; margin-top: 0; padding: 0; color:#bbbbbb;" dir="ltr">              Jul 13, 2023, 4:49 PM UTC            </p>                                    <div class="zd-comment" dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">Hello,</p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">I'm reaching out on behalf of the GitHub Trust &amp; Safety Team to let you know we received a report that one of your repositories contains private information that was posted without consent. Specifically, the following content was reported:</p><blockquote dir="ltr" style="border-left-color: #CCC; border-left-style: solid; border-left-width: 2px; margin: -6px 0 0; padding-left: 10px"><p dir="ltr" style="color: #888; font-size: 14px !important; font-weight: normal; line-height: 22px; margin: 15px 0"><a href="https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_102.eml#L146" rel="noreferrer">https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_102.eml#L146</a> (line 146)<br><a href="https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_350.eml#L165" rel="noreferrer">https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_350.eml#L165</a> (line 165)<br><a href="https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_453.eml#L123" rel="noreferrer">https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_453.eml#L123</a> (line 123)<br><a href="https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L85562" rel="noreferrer">https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L85562</a> (line 85562)<br><a href="https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L88184" rel="noreferrer">https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L88184</a> (line 88184)</p></blockquote><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">In order to remove the content in question, we ask that you refer to the following article for help:</p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><a href="https://docs.github.com/articles/remove-sensitive-data" rel="noreferrer">Removing sensitive data from a repository</a></p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><strong><em>Please make sure to follow those instructions carefully, as simply deleting the content will not remove it completely from the repository commit history.</em></strong></p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">Alternately, you may simply want to switch the repository to private by following the instructions found here:</p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><a href="https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private" rel="noreferrer">Making a repository private</a></p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">If these changes are not made within 3 business days, we will continue our review of the complaint. We may need to disable your repository at that time in order to protect the owner of  private information that has been posted in violation of our <a href="https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions" rel="noreferrer">Acceptable Use Policies</a>.</p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">If you have any questions, concerns, or feedback regarding this notice, please let us know as soon as possible.</p><p dir="ltr" style="color: #2b2e2f; line-height: 22px; margin: 15px 0">Regards,&nbsp;<br>
+GitHub Trust &amp; Safety</p><p dir="ltr"></p></div>                      </td>        </tr>      </tbody></table>    </td>  </tr></tbody></table></div>
+    <div style="color: #aaaaaa; margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;">
+      This email is a service from GitHub Support.
+    </div>
+  </div>
+<span style="color:#FFFFFF" aria-hidden="true">[66J721-E1GEV]</span>
+
+<div itemscope="" itemtype="http://schema.org/EmailMessage" style="display:none">  <div itemprop="action" itemscope="" itemtype="http://schema.org/ViewAction">    <link itemprop="url" href="https://enterprise.githubsupport.com/hc/requests/2250562">    <meta itemprop="name" content="View ticket">  </div></div></body></html>

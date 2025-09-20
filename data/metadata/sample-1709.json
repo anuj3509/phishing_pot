@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "You have won an Milwaukee Power Drill ",
+    "from": "Ace Hardware   ,_<sixpb@btuvrzvvyx.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Oct 2023 21:21:53 +0000",
+    "message_id": "\r\n <aeb0c2ba-fe76-462f-a965-6df47be0c1d3@MW2NAM12FT078.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/2qrztNgun5",
+      "https://i.imgur.com/U4l8b4D.jpg",
+      "i.imgur.com/U4l8b4D.jpg",
+      "http://dtherhproblem.us/su47368ccUAH22448528lZCi49413pyZ68020Oste3263",
+      "https://t.co/gnpPdsGeh2"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 472,
+    "html_length": 8764,
+    "has_text": true,
+    "has_html": true
+  }
+}

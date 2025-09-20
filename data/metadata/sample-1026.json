@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "[IMPORTANT] Your wallet has been Blocked",
+    "from": "\"MetaMask\" <info@kommunal.se>",
+    "to": "phishing@pot",
+    "date": "Thu, 27 Jul 2023 01:17:35 +0200",
+    "message_id": "<BDEF4AADC843409C912172FC440191F7@kommunal.se>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----81A9F65A8D79406BAFE381793844A6B1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----81A9F65A8D79406BAFE381793844A6B1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Lato:400,700",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700",
+      "https://ci3.googleusercontent.com/proxy/0yoQk8_5pBr6apWWQp4eTtcCXqKYef7BhMnF7jj7lI_URjffO-ADX5xvX2RbA_GWHkNUNhccXCcHb8ZXJ1PAebbpGnPms2GihulQ_6pmUiM_b6Kc9_5REt35j0LTxaeMJwGa__T4oUteNn4uZOzjbCDr6b-vpmCj_ihAuGVEr9Vhypk_7i5IBHyrvfqNpQ0JyeIj4vPZ6jzCPpCgm_HXaQOIoNg3K_9QnJQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/9f580ca418154d088cd87adad5f0a439/62e777ae33adf.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "table.full-width-mobile",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Lato:400,700);",
+      "https://img2.anpdm.com/Forever_Living_Products/photo-2023-03-22-19-33-36.png",
+      "div.hide_section_on_mobile",
+      "https://one-lnk.com/x1exEpKh4Q1i491fEvFn7cpmv_YQsdHzLL1dhXR772nojRlXZTB0QjPF9QHLcYlETD84DA9UgYp15Nl643ZPvDgCg/x1eETYKgASBA-vIPFwQsRnI_FhZ5cm-c4SFIvu24OOgZxgRjA0cElYfz2tqEBiZnjHXq92IXJcItKDFQtMria5TupjjP-227kmAtQ8tIIEPb9PHpx6vhXMz1MK2se-yRiHza3IUJGBXPxXYrXUtd6VKQ-VhKkLKWKkdkA-ISE_FVh4/x1eel39R182iBI9C4w2VHoolGRsG8Vny6Nlg6qfpcySLLhhT67NgPLrOX2rQvgF_VxD/",
+      "https://www.anpdm.com/newsletterweb/48425F427549445B4679424459/444650437648425C4A7842425A4271",
+      "https://one-lnk.com/x1eoqXFM56tdj81GNw3yd7wwHkxHH6fGi-bSx6Lxr4zjyGbWAsH5pDch0e_SBoMjNe1S2BIArRJe8waNsrr4YEaIQ/",
+      "td.full-width-mobile",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);",
+      "https://www.anpdm.com/oa/32676051/444650437648425C4A7842425A4271",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 308,
+    "html_length": 17342,
+    "has_text": true,
+    "has_html": true
+  }
+}

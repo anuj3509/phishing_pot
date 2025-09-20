@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Notice for phishing@pot",
+    "from": "Lowes      ,_<4uh0k@7rye9ue08e.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 25 Oct 2023 23:02:58 +0000",
+    "message_id": "\r\n <5d81446b-0a44-4fcd-abf9-0e57b064828e@VI1EUR05FT029.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://vertuoldmuneted.com/track/o47008UbTpd27537896rWRz1371191fza68899vbJj3233",
+      "http://dtherhproblem.us/su47008gBQsS27537896sAXL1371191ver68899qLeG3233",
+      "https://t.co/yMODIB1U4c",
+      "https://t.co/pIuyGDS3sM",
+      "https://i.imgur.com/k8FWsML.jpg",
+      "i.imgur.com/k8FWsML.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 446,
+    "html_length": 8886,
+    "has_text": true,
+    "has_html": true
+  }
+}

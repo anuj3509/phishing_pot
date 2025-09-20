@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch,phishing@pot-f-p ",
+    "from": "Kunden Service, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 28 Jan 2024 07:46:30 +0100",
+    "message_id": "<sjxLC9B.0.0.sjxLC9B.9.sjxLC9B@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fair-forward1.com/?a=6073&amp;oc=14647&amp;c=41082&amp;m=3&amp;s1=",
+      "http://theowensfamily.info/NTVzUmdSV0w3Y1E2NWRwYkJIR3grK3lpR0hHZ0FpYkNxYTJibjBkSXVGYzMyOHI2UjJBU000Q3ZmSysrc1cwbmRxdGpvdkJtUjgxTnl1YWtCUjZKY1E9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/14/3chv.png",
+      "https://www.zupimages.net/up/23/14/3chv.png",
+      "http://theowensfamily.info/ZVJuVHJyOUh6SWVtRHZuUy9VTXA3NGNlTDRkTlBnMWV5WHBYS3ljVnExRXlJUVZQb2xET1J3aVZFR2RIMGpXT1pBYVZXRmkwamU1aVFncUp6SGFSSEE9PQ__",
+      "www.zupimages.net/up/24/01/v7mz.png",
+      "https://www.zupimages.net/up/24/01/v7mz.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1896,
+    "html_length": 9440,
+    "has_text": true,
+    "has_html": true
+  }
+}

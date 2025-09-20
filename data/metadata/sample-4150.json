@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Action Requierd",
+    "from": "\"Trust wallet\" <support@trustyourwallet.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Sep 2024 16:31:04 -0700",
+    "message_id": "<852400002856877016920@optop>",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_23D5_5A973E8A.1DF93206\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_23D5_5A973E8A.1DF93206\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/terms-of-services",
+      "https://support.trustwallet.com/en/support/home",
+      "https://trustsecureweb3.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1893,
+    "html_length": 4620,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Notice: Wholesale Survey Offer expiring soon!",
+    "from": "Confirmation Needed ,<jamesrudy@thardacerudy.onmicrosoft.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 00:42:32 +0000",
+    "message_id": "<kvybpyazjf.1frc0sgmxx.i1olvz0ua2@geopod-ismtpd-3>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/wQ3KbKh.jpg",
+      "https://i.imgur.com/wQ3KbKh.jpg",
+      "https://t.co/5gy2rTVv7Y",
+      "https://t.co/ViYEKEkN9x"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 309,
+    "html_length": 8554,
+    "has_text": true,
+    "has_html": true
+  }
+}

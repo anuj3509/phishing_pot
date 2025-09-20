@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Nachricht f��r dich!",
+    "from": "Reifefrauen, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Nov 2023 09:36:27 +0100",
+    "message_id": "\r\n <4dd2f48c-a3cf-441d-93d3-d83b05d5b11d@VI1EUR05FT015.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://144.172.64.14/media/cb2560e1cc536b6.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://144.172.64.14/oop/3154_md/31/1/77/23/2459859",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://144.172.64.14/cl/3154_md/31/1/77/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5307,
+    "html_length": 9297,
+    "has_text": true,
+    "has_html": true
+  }
+}

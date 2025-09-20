@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Your account has been flagged for unusual activity.",
+    "from": "Outlook Support Team <20150339@fue.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 May 2024 05:41:56 -0900",
+    "message_id": "<6yodYczhKXfq9FODMuqy8yOtXnbxFgrG75zKDllQ@vultr>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "unusual activity"
+    ],
+    "urls": [
+      "http://a.to/24jKBKb",
+      "https://i.imgur.com/bW0xBmr.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1080,
+    "html_length": 21678,
+    "has_text": true,
+    "has_html": true
+  }
+}

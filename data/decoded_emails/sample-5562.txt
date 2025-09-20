@@ -1,0 +1,65 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Detectamos um novo acesso a sua conta. [891847]
+From: Mercado Pago <noreply@seguranca20487.-1>
+To: <phishing@pot>
+Date: Wed, 16 Jul 2025 14:01:34 +0800
+Message_Id: <202507160601.56G61YZk003054@j4cdfjnl.vm>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Email de Notificação Mercado Pago Olá, rodrigo-f-p@hotmail.com Detectamos um novo acesso à sua conta Hoje às 00:24 h. Dispositivo: Lucas (iPhone 14 Pro Max) Localização: São Paulo, Brasil Não reconheço este acesso - Clique aqui Se foi você, por favor, desconsidere este e-mail. Não tem certeza? Recomendamos que você altere sua senha agora . Este é um e-mail automático, por favor, não responda. Se precisar de ajuda, entre em contato com o nosso suporte . Se você deseja cancelar a inscrição, por favor clique aqui .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email de Notificação</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f7f7f7;">
+    <div style="max-width: 600px; width: 100%; margin: auto; background: #fff; padding: 30px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+        <div style="background: #ffe600; color: white; padding: 20px; text-align: center;">
+            <strong style="font-size: 36px;">Mercado Pago</strong>
+        </div>
+
+        <p style="text-align: center; font-size: 24px; margin-top: 20px;">Olá, rodrigo-f-p@hotmail.com</p>
+
+        <p style="text-align: center; font-size: 20px; margin-top: 20px;"><strong>Detectamos um novo acesso à sua conta</strong></p>
+
+        <p style="text-align: center; margin-top: 20px;">Hoje às 00:24 h.</p>
+        <p style="text-align: center;">Dispositivo: Lucas (iPhone 14 Pro Max)</p>
+        <p style="text-align: center;">Localização: São Paulo, Brasil</p>
+
+        <p style="text-align: center; margin-top: 30px;"><a href="https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1" style="text-decoration: none; color: white; background-color: #ffe600; border-radius: 5px; padding: 12px 20px; font-weight: bold; display: inline-block;">Não reconheço este acesso - Clique aqui</a></p>
+
+        <p style="text-align: center; margin-top: 30px;">Se foi você, por favor, desconsidere este e-mail.</p>
+
+        <p style="text-align: center; margin-top: 30px;">Não tem certeza? Recomendamos que você <a href="https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1" style="text-decoration: none; color: #ffe600; font-weight: bold;">altere sua senha agora</a>.</p>
+
+        <div style="font-size: 14px; text-align: center; margin-top: 40px;">
+            <p>Este é um e-mail automático, por favor, não responda.</p>
+            <p>Se precisar de ajuda, entre em contato com o nosso <a href="https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1" style="color: #ffe600; text-decoration: none; font-weight: bold;">suporte</a>.</p>
+            <p>Se você deseja cancelar a inscrição, por favor <a href="https://meli-auth-hoje.kyiv.ua/veri/?atendimento=1" style="color: #ffe600; text-decoration: none; font-weight: bold;">clique aqui</a>.</p>
+        </div>
+    </div>
+</body>
+</html>
+
+

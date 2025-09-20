@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie eine Geschenkkarte im Wert von 250 ��� f��r Ihren n��chsten Einkaufsbummel!",
+    "from": "Ihr lokaler Discounter,(<service@otto.de>)",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Dec 2024 12:15:33 +0000",
+    "message_id": "<WJLZPMPMOEPDSQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4ruuUq42219iMUg1163ptnfycctfm14302NLLANEHJVTEEIPU2HLHJ17344k10",
+      "leaadpersons.com/biz/e2b2be6e-defd-5407-fd7a-cac1bfbdd16f.jpg",
+      "http://topmarktingplace.com/5gijdN42219wXHv1163muvtcurydn14302MSQATOPTMMFRURO2NBRP17344v10",
+      "http://topmarktingplace.com/4NmnEf42219yULB1163arujhrofvc14302EBCYOPESRQOPEIT2WKAZ17344c10",
+      "https://leaadpersons.com/biz/e2b2be6e-defd-5407-fd7a-cac1bfbdd16f.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/6KkReb42219SfOw1163aaqxjupiuk14302SHXWETIEEUCELUF2GCOF17344e10",
+      "http://topmarktingplace.com/4vnepL42219PUfT1163pvtrfcrjfq14302FXFMBKUGTURQVTW2CIRU17344k10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1906,
+    "html_length": 10342,
+    "has_text": true,
+    "has_html": true
+  }
+}

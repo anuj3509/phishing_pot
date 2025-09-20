@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot, sua conta foi bloqueada temporariamente,\r\n habilite o BBCODE.",
+    "from": "Banco Do Brasil <notifica@bb.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 05 Apr 2023 22:09:11 +0000",
+    "message_id": "<fc557178-e931-a095-198a-e229f0d368c1@bb.com.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i-6otvybu4aq-rj.a.run.app/bb/?tr=f6dd0c0aa2e64454bfbb7c6003b454fc&amp;t1=bb",
+      "https://selectra.net.br/sites/selectra.net.br/files/styles/article_hero/public/images/banco-do-brasil-825.png?itok=CuwyfwL7&amp;cc***nome***=***valor***"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 668,
+    "html_length": 9939,
+    "has_text": true,
+    "has_html": true
+  }
+}

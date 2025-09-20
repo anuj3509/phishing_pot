@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "New protonmail.com Shared_Document_ 0DFDA1C6",
+    "from": "\"HR TEAM HR@geropharm\" <marina.rykova@geropharm.com>",
+    "to": "<wpx@protonmail.com>",
+    "date": "Thu, 30 Sep 2021 09:11:52 -0700",
+    "message_id": "<20210930091051.41360A89F9711B7C@geropharm.com>",
+    "content_type": "multipart/mixed;boundary=---------------------1324d4a91771a6a6976e4a065607e9be"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------1324d4a91771a6a6976e4a065607e9be"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "https://600427.selcdn.ru/papi/redbun.htm#wpx@protonmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 229,
+    "html_length": 2970,
+    "has_text": true,
+    "has_html": true
+  }
+}

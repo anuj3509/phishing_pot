@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Sua Fatura Chegou - Atendimento:36189096667572221379]",
+    "from": "\"Fatura Digital ltaucard: 47630933871904340152\" <soniyathomash3@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 26 Jan 2023 05:58:19 +0000",
+    "message_id": "<f48d2b4dbf4b208c6cf8b2030e2c2a62@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"e143135bcbb2513bbdc08d88000630e1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"e143135bcbb2513bbdc08d88000630e1\""
+  },
+  "attachments": [
+    {
+      "filename": "Fatura-Digital-20232312.pdf",
+      "content_type": "application/pdf",
+      "size": 192116
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 140,
+    "html_length": 360,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Score released: 💲 +$284 date 2024.01.15 time 16:57 ",
+    "from": "malletflore022@gmail.com",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Jan 2024 15:59:06 +0000",
+    "message_id": "<autogen-java-b1115432-9e6f-4dac-b484-1db95cec7a73@google.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000cfc06a060f1235dc\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000cfc06a060f1235dc\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://docs.google.com/forms/u/0/d/e/1FAIpQLSfYklY2l_mec8qhqUGB6DJFSWH5oS9Im2Jl_wAM802SQ50sxA/viewscore?vc=0&amp;c=0&amp;w=1&amp;flr=0&amp;viewscore=AE0zAgCWvEtWAXC-JvAUY1MKkNVA79pfgrduMhlMCOwLlPZbOWw0lRPEm2XkUUa25SFPCRc",
+      "https://www.gstatic.com/docs/forms/google_forms_logo_lockup_white_2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 950,
+    "html_length": 3521,
+    "has_text": true,
+    "has_html": true
+  }
+}

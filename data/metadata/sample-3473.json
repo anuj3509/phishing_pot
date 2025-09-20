@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Seus pontos expiram em breve. ID:3780782143",
+    "from": "Banco.Bradesco <bradescpontoslivelo@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Jul 2024 11:41:07 -0400 (EDT)",
+    "message_id": "<20240716154107.626CE1238C@bradepontos28.net-3>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://224.182.205.92.host.secureserver.net/a1b2/267"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 518,
+    "html_length": 4368,
+    "has_text": true,
+    "has_html": true
+  }
+}

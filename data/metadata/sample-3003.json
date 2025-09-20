@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Valor bloqueado por seguranca18566383xoUO7qW5qP",
+    "from": "Nubank - Bloqueio por fraude20880091 <green.monica645794@gmail.com>",
+    "to": "phish@pot",
+    "date": "Wed, 06 Mar 2024 09:24:42 -0800 (PST)",
+    "message_id": "<65e8a6da.c80a0220.241e7.e389@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============5660669665978651567==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============5660669665978651567==\""
+  },
+  "attachments": [
+    {
+      "filename": "pdf_IqUBnW.pdf",
+      "content_type": "application/pdf",
+      "size": 52290
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 508,
+    "html_length": 637,
+    "has_text": true,
+    "has_html": true
+  }
+}

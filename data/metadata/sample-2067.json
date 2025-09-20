@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch, phishing@pot",
+    "from": "Kunden Service, <telekom@email-telekom.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 29 Nov 2023 23:16:23 +0100",
+    "message_id": "<Zp8I1CE.0.0.Zp8I1CE.9.Zp8I1CE@email-telekom.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://Zp8I1CE.istresults.info/YmlSZFJXajVjcUpsdXhTSmd2cmRvSkZiVFFCdjlWa1VUSld3L2tTTVRPbXlaL1Z1TWhrR0xMSVNCTE96TEMrVHkzVnJCNTlwN3ZWdG1KNERWdXA3bTBSS3YxeldnVHFISURUUlhlV1JaRlE9",
+      "http://Zp8I1CE.istresults.info/MzgwY0NkTGZUOHEwTXBMVFFpSitqbWx5SFppYVRzMkZONFp1WWc3SkRST3dyUTVicWx5Rkd4MHhyd3lHL1JqVGxvUmYyMWJqSENlOSsvSkdsKzB0VTZHV0xGcFFORERQT1Z1YTM4aUJjR0U9",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1399231/596c97659fc383a.jpg",
+      "http://Zp8I1CE.istresults.info/cXNmUnZwS2RXS2tFU1QrODFBY0xtRytTczZvMm1sWHZwY3hIZ2ZUck5VUHFtd1BIZXh5b3Z5RUw1cVVhWlZoSVRaQmVCejA5ekt1YmFxcUxENzFyU0R0WFV3dWR6YnIrdjdvMmg5eFNsNU09",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1399231/596c97659fc383a.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1891,
+    "html_length": 9742,
+    "has_text": true,
+    "has_html": true
+  }
+}

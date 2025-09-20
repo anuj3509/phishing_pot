@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot, economize no seu plano de saúde com a nova tabela 2024 atualiza",
+    "from": "Plano Saúde Amil <contato@e.seu-carro-seguro.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 May 2024 20:25:09 +0000",
+    "message_id": "<0100018fbbba7174-ccb01991-212a-4aa4-9ad5-6dda3d94c2ce-000000@email.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"03BCDAAF_3DA9C150_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"03BCDAAF_3DA9C150_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://newslettersautoimgneweu.s3-eu-west-1.amazonaws.com/news_1716475832/imagens/image_1.png",
+      "https://api.seu-carro-seguro.com/app-c/lnk.php?id=382C35392C726F647269676F2D662D7040686F746D61696C2E636F6D2C32393734",
+      "https://api.seu-carro-seguro.com/app-c/rem.php?id=382C35392C726F647269676F2D662D7040686F746D61696C2E636F6D2C32393734",
+      "https://newslettersautoimgneweu.s3-eu-west-1.amazonaws.com/news_1716475832/imagens/image_0.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 701,
+    "html_length": 2716,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your Wallet access is temporarily Blocked.",
+    "from": "MetaMask <notifications@cremedelacreme.io>",
+    "to": "phishing@pot",
+    "date": "Sun, 19 Mar 2023 23:15:05 +0000",
+    "message_id": "<20230319231505.026d13e8f7add7eb@cio53983.cremedelacreme.io>",
+    "content_type": "multipart/alternative;\r\n boundary=\"012fdb4e07a5c9e16d8480dc19ef3b92e0457a83011fc514964a086e478b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"012fdb4e07a5c9e16d8480dc19ef3b92e0457a83011fc514964a086e478b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://userimg-assets.customeriomail.com/images/client-env-100309/1679266362325_az_01GVY16DE5HY8TVFTD61HR61HY.png",
+      "http://track.customer.io/unsubscribe/dgTVjwYDAKebGqabGgGG_Bke5MqHfjtFHjl3JZM=",
+      "https://domiza-tree.com/phishing@pot",
+      "https://e.customeriomail.com/e/c/eyJlbWFpbF9pZCI6ImRnVFZqd1lEQUtlYkdxYWJHZ0dHX0JrZTVNcUhmanRGSGpsM0paTT0iLCJocmVmIjoiaHR0cHM6Ly9kb21pemEtdHJlZS5jb20vcm9kcmlnby1mLXBAaG90bWFpbC5jb20iLCJpbnRlcm5hbCI6ImQ1OGYwNjBlODY0YWE3OWIxYSIsImxpbmtfaWQiOjE2fQ/a83ec889217d51f7c11a88aec8f8b9dd1bbbce8864ca8b3a98abef3700c7a58c",
+      "https://e.customeriomail.com/e/o/eyJlbWFpbF9pZCI6ImRnVFZqd1lEQUtlYkdxYWJHZ0dHX0JrZTVNcUhmanRGSGpsM0paTT0ifQ==",
+      "https://e.customeriomail.com/unsubscribe/dgTVjwYDAKebGqabGgGG_Bke5MqHfjtFHjl3JZM=",
+      "https://fonts.googleapis.com/css?family=Lato",
+      "https://userimg-bee.customeriomail.com/bee-templates/happy-birthday/borderdown.png",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 532,
+    "html_length": 12419,
+    "has_text": true,
+    "has_html": true
+  }
+}

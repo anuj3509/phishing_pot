@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual sign-in activity",
+    "from": "Microsoft account team <no-reply@microsoft.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 3 Nov 2022 02:44:27 +0000",
+    "message_id": "\r\n <ce2fb41e-b910-4df7-bbfb-43b8126ba45c@DM6NAM11FT012.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "usual-assist.com?&amp;cc=media-protection@usual-assist.com",
+      "usual-assist.com",
+      "usual-assist.com?&amp;cc=media-protection@usual-assist.com&amp;subject=unusual",
+      "http://sefnet.net/track/o7436EVFfO5968877utQY8065QJB8855GHAz1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15317,
+    "has_text": true,
+    "has_html": true
+  }
+}

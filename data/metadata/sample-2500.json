@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ledger Data Breach",
+    "from": "\"Ledger\" <rodrigo@tradestars.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 02 Jan 2024 21:36:56 -0600",
+    "message_id": "<20240103034416.29290.1190350747.swift@tradestar.activehosted.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-8142866886594d658ebd1e5.36639869_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-8142866886594d658ebd1e5.36639869_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tradestar.lt.acemlnc.com/Prod/link-tracker?nl=276&amp;c=5353&amp;m=6453&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;l=open&amp;account=tradestar.activehosted.com&amp;a=89772694",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D",
+      "Ledger.com",
+      "http://tradestar.activehosted.com/proc.php?nl=276&amp;c=5353&amp;m=6453&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;act=unsub",
+      "https://tradestar.lt.acemlnc.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZsaXZlLW15bGVkZ2VyLmNvbQ==&amp;sig=4JUah64hY9Gxxi1hkjoSjj7YCyEXLAoimFNFwFmpniPf&amp;iat=1704253456&amp;a=%7C%7C89772694%7C%7C&amp;account=tradestar%2Eactivehosted%2Ecom&amp;email=AD2bRDx4afvVlHKrcg4mXLysjwJ%2By842twGF%2B29QNRq4RUMrdN0S%3A5TNRMfZrSCl%2BSsULmHCNaVdm%2BcwqbXUu&amp;s=6d7b1963728338ead9026764a7fcbd73&amp;i=5353A6453A276A38622"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1700,
+    "html_length": 20931,
+    "has_text": true,
+    "has_html": true
+  }
+}

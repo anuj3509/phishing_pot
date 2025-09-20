@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "AAVE: ($AAVE) Airdrop Claim",
+    "from": "AAVE liquidity protocol <noreply@messages.homeaway.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 22 Oct 2023 21:49:48 +0200",
+    "message_id": "<621f71f2c9001186a3a39314a45a11e6@localhost>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"------=_Part_621f71f2c9001186a3a39314a45a11e6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"------=_Part_621f71f2c9001186a3a39314a45a11e6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://aave.com/claim.",
+      "https://aave.com/claim",
+      "https://app.aave.com/",
+      "https://app.aave.com/aaveLogo.svg",
+      "https://mandrillapp.com/track/click/30255250/www.giorgiobarbagelata.eu?p=eyJzIjoiOGZTS3BlTWlSTGNsMkNFVFVVOHVCN3JYQXNFIiwidiI6MSwicCI6IntcInVcIjozMDI1NTI1MCxcInZcIjoxLFwidXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5naW9yZ2lvYmFyYmFnZWxhdGEuZXVcXFwvQ29hdGluZy5odG1sXCIsXCJpZFwiOlwiNmJhYTllMTA2Y2U1NGI0NzkyMTZjNzg0NWRlYTRkNTBcIixcInVybF9pZHNcIjpbXCI4Y2IyOWQ2MTkyMTAyYWZkZGIxZTM3MGE1MTk2Njk0MjRmMzhiNDRkXCJdfSJ9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1377,
+    "html_length": 3380,
+    "has_text": true,
+    "has_html": true
+  }
+}

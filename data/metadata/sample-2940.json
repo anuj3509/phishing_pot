@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Verify your Wallet",
+    "from": "\"Trust Wallet\" <support@trust-wallet.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 22 Feb 2024 09:29:39 -0800",
+    "message_id": "<1728383301480295410612@vps-zap65083-7>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/accounts/wallet-verification=45181285156c45e305ca87a65ab9107a1eca7e00",
+      "https://trust-unlock.com",
+      "https://ffnews.com/wp-content/uploads/2021/09/Trust-Wallet-Fintech-Finance-News.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 706,
+    "html_length": 4981,
+    "has_text": true,
+    "has_html": true
+  }
+}

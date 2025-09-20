@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Du gehörst zu den 50 glücklichen Finalisten und hast jetzt die Chance, 1 von 5 Paypal-Gutscheinen im Wert von 100 € zu gewinnen! ",
+    "from": "Paypal Guthaben <angebote@newsletter.baur.de>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 28 Mar 2025 05:40:00 -0400",
+    "message_id": "<bttAoPr.0.0.bttAoPr.9.bttAoPr@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://blog.dury.agency/YVRRZ0tEU24yZDlMWkdoYlNGM25UZm9mN3dsc3pZQy94SXlhL2F3eUY2MXh3blpyV3cxV2loQlNFY3YxQURCdjFOUFczNmJUZUxUZEJlYkZBMUVEd3c9PQ__",
+      "http://blog.dury.agency/V3djdU1NRWJEVkpkUEdBN0sxNEU4YnhxY1dZM3I2UStwRmNhcWxxWTkwcml3R01TNlQwMmFYa3J5bGJoUVI0RU43eFl5TWV2ZDNmWlk4aXQrZDhjblpQc0xqNmNQdFJkMDQ2bFNuU2dFaWs9",
+      "http://blog.dury.agency/em96Z1BCeEFvQWgxR2pOVDNOT1ZFdHNGSzNpSjJ2eHFJNG9LYklpYkZoYU1EMmJhYngvUlcrYzZDRUQ5SzFZd0ZacXkvbzFYYU5xd0dSOFRxT0NuSkE9PQ__",
+      "sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1020,
+    "html_length": 2891,
+    "has_text": true,
+    "has_html": true
+  }
+}

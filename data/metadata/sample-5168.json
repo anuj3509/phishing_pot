@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ihr Paket wurde nicht abgeholt.",
+    "from": "UPS <collie@757772922452171zalando.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 15 Mar 2025 17:08:40 +0000",
+    "message_id": "<757772922452171.0.ICJ7093020072@zalando.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://lOdJwvfMD1caK4ObZsRRlOdJwvfMD1caK4ObZsRRlOdJw.globeescape.world/6/186451/1472/21498/78745/5329/9/h85f5jbr2e",
+      "http://globeescape.world/5/186451/1472/21498/78745/5329/9/h85f5jbr2e",
+      "http://hXAuoVSypIGvccgvfMD1caK4ObZsRRhXAuoVSypIGvccg.globeescape.world/track/3/186451/1472/21498/78745/5329/9/h85f5jbr2e",
+      "zupimages.net/up/23/33/dpjt.png",
+      "zupimages.net/up/24/29/ous9.jpeg",
+      "http://lOdJwvfMD1caK4ObZsRRlOdJw.globeescape.world/4/186451/1472/21498/78745/5329/9/h85f5jbr2e",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2074,
+    "html_length": 5218,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Before being fulfilled, a transfer request must be approved.",
+    "from": "\"James L. Colbert\" <tnkodshonjkop@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Jan 2023 11:30:26 -0800",
+    "message_id": "<CAPKy_sPw-QG99Ret1mT-niRX+MnQkmLCmOSS-Fa0_fgr0dXr7w@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000f4ebcd05f32fc700\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000f4ebcd05f32fc700\""
+  },
+  "attachments": [
+    {
+      "filename": "TGE-5986-5932-5487.pdf",
+      "content_type": "image/jpeg",
+      "size": 87755
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 606,
+    "html_length": 677,
+    "has_text": true,
+    "has_html": true
+  }
+}

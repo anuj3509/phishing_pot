@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Ihre Chance, 500 ��� f��r Lebensmittel zu gewinnen ��� jetzt teilnehmen!",
+    "from": "EDEKA, EDEKA, <noreply@dhl.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Dec 2024 16:24:32 +0000",
+    "message_id": "<TNXICYHDUBNGRQ8AU9KYO1L@dhl.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "leaadpersons.com/biz/67472848-9a40-5081-7e42-696cedb19fd8.jpg",
+      "http://wmasurvey.com/4Bflxi42178wWAA1167yfqxbanafn14302GRFGVXFDFFAVUXC2UNSU17281y12",
+      "http://www.w3.org/1999/xhtml",
+      "http://wmasurvey.com/4lIZHL42178wSmU1167ypskopqyzu14302BNVWTVUKAFHMJDK2OXKX17281T12",
+      "http://wmasurvey.com/5VtrXb42178Vshg1167vxydhiqdbz14302KIDZQSXXRXPCJWR2LSHO17281S12",
+      "https://leaadpersons.com/biz/67472848-9a40-5081-7e42-696cedb19fd8.jpg",
+      "http://wmasurvey.com/6NYYKR42178OZDp1167jiluiqwqjh14302FLOWVXCJVSKIUXM2RKTS17281M12",
+      "http://wmasurvey.com/4lEkvU42178uQne1167bqlgchucyo14302GEUYPKXZQZTFWBM2XPTY17281n12"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1847,
+    "html_length": 8447,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,65 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Wir haben eine ��berraschung f��r ADAC-Kunden.
+From: ADAC, <service@stayfriends.de>
+To: phishing@pot
+Date: Mon, 30 Dec 2024 14:35:11 -0600
+Message_Id: <WAXTW6W.0.0.WAXTW6W.9.WAXTW6W@stayfriends.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://hysucs.com/op/564_md/1000/308/9/3/569318
+  - http://hysucs.com/cl/564_md/1000/308/9/3/569318
+
+DECODED TEXT CONTENT:
+------------------------------
+ADAC Online-Shop Notfall-Kfz-Set für Unterwegs Vorher: 49,99 € Jetzt: 0,00 € Nutzen Sie diesen 100 %-Rabatt einfach durch folgende Schritte: Drücken Sie auf die Schaltfläche unten. Beantworten Sie die kurze Umfrage zu Ihren Erfahrungen. Bestätigen Sie Ihre Lieferadresse, und Sie erhalten Ihr Produkt in nur 1 Werktagen. Jetzt starten
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><body style="font-family:'Helvetica Neue', sans-serif; font-size:16px; line-height:1.6; color:#2b2b2b; margin:0; padding:0;">
+    <div class="container" style="max-width:600px; margin:20px auto; background-color:#fefefe; border:1px solid #ddd; border-radius:8px; overflow:hidden;" bgcolor="#fefefe">
+        
+        <!-- Banner Section -->
+        <div class="header-banner" style="background-color:#ffd600; padding:15px 20px; display:flex; align-items:center;" bgcolor="#ffd600">
+            <div class="brand-name" style="font-size:28px; font-weight:bold; color:#000; margin-right:10px;">ADAC</div>
+            <div class="shop-title" style="font-size:20px; font-weight:normal; color:#d9d9d9; background-color:#003366; padding:5px 10px; border-radius:4px;" bgcolor="#003366">
+Online-Shop</div>
+        </div>
+
+        <!-- Product Title -->
+        <div class="product-header" style="padding:15px; background-color:#e6f2ff; font-size:20px; font-weight:bold; color:#003366; text-align:left;" bgcolor="#e6f2ff" align="left">
+            Notfall-Kfz-Set für Unterwegs
+        </div>
+
+        <!-- Product Information -->
+        <div class="product-details" style="padding:15px 20px;">
+            <p class="original-price" style="font-size:22px; line-height:1.5; color:#cc0000; margin:0; padding:0; font-weight:bold; text-decoration:line-through;">Vorher: 49,99 €</p>
+            <p class="discounted-price" style="font-size:26px; line-height:1.5; color:#007a00; margin:5px 0 0; padding:0; font-weight:bold;">Jetzt: 0,00 €</p>
+            <p style="font-size:16px; color:#2b2b2b; margin:10px 0 0; padding:0;">Nutzen Sie diesen <span style="color:#cc0000; font-weight:bold;">100 %-Rabatt</span> einfach durch folgende Schritte:</p>
+            <ul style="padding-left:20px; margin:15px 0;">
+                <li>Drücken Sie auf die Schaltfläche unten.</li>
+                <li>Beantworten Sie die kurze Umfrage zu Ihren Erfahrungen.</li>
+                <li>Bestätigen Sie Ihre Lieferadresse, und Sie erhalten Ihr Produkt in nur 1 Werktagen.</li>
+            </ul>
+        </div>
+
+        <!-- Call to Action Button -->
+        <a href="http://hysucs.com/cl/564_md/1000/308/9/3/569318" style="display:block; width:220px; background-color:#ffd600; color:#000; text-align:center; padding:15px; margin:20px auto; font-weight:bold; text-decoration:none; border-radius:5px;" width="220" bgcolor="#ffd600" align="center">Jetzt starten</a>
+
+    </div>
+</body>
+
+<img src="http://hysucs.com/op/564_md/1000/308/9/3/569318">
+

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "ENC: Celebrating Currys PC World anniversary with an Electric Smeg\r\n Kettle",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:02:38 +0000",
+    "message_id": "\r\n <SA0PR04MB7370EB210E9B5DFBAC19B04FB3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EB210E9B5DFBAC19B04FB3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EB210E9B5DFBAC19B04FB3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "ycrvwsoapdnu.com&gt;",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144161/dfbca44f-eb8e-4757-9ccb-96022fafb1ef.png",
+      "https://substack.com/redirect/4f3a8076-9b0b-42ca-8bf9-6f5b5d6f7572?j=eyJ1IjoiMXo0dHBzIn0.706ZXhI3FSy9gaefnDOCorqrws0dbfr3jhYHQwylQgg/#18/557/187034/ocil4epqxnz0ecd9jzwffffpzhvwgnc8wmz6s3kdcg11buw6jtqopc1aa2hoxuslbnabjxofubxvnsqw1rz5daorujo65fxbzx88",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144161/4cb98c09-871b-415d-8737-2e752ac9f351.png",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144161/4573f6cb-f589-4541-a7a8-2e39ed0c4f1c.png",
+      "https://substack.com/redirect/5daac751-8d38-436d-9f72-181d0edbe56b?j=eyJ1IjoiMXo0dHBzIn0.706ZXhI3FSy9gaefnDOCorqrws0dbfr3jhYHQwylQgg/#18/557/187034/ocil4epqxnz0ecd9jzwffffpzhvwgnc8wmz6s3kdcg11buw6jtqopc1aa2hoxuslbnabjxofubxvnsqw1rz5daorujo65fxbzx88",
+      "ycrvwsoapdnu.com",
+      "http://kxngqwwqfmddgy.com/NGpoZ2lxY1hZQWRsZ1MxczhrL1hsSUJabllydE0zM1daeWE5NTJCNGltQUs5ODdYR3JxUEUvdnhHTlFkdEtSUjQzTTF3eTh5Nk1WQ1Q3Wm9GQkR1K3dsREtOQzZLNmdVUW9XMXBZSUtvb289",
+      "ac-landing-pages-user-uploads-production.s3.amazonaws.com/0000144161/a97fa5ea-aaa8-41f5-98dc-b9ab42bbbb33.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1488,
+    "html_length": 5287,
+    "has_text": true,
+    "has_html": true
+  }
+}

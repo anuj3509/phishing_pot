@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "We have a surprise for Marriott customers.",
+    "from": "Message from Marriott:;, <grabone@grabone.co.nz>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jul 2024 11:00:37 +0100",
+    "message_id": "<fVm3Y7d.0.0.fVm3Y7d.9.fVm3Y7d@grabone.co.nz>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://wear-prodct.com/?a=7835&amp;oc=20892&amp;c=55927&amp;p=r&amp;m=3&amp;s1=",
+      "zupimages.net/up/24/17/w2t2.png",
+      "https://zupimages.net/up/24/17/w2t2.png",
+      "www.zupimages.net/up/24/18/zjm3.png",
+      "http://theowensfamily.info/bXZuVTVTSTZBQm1sL00wTU4zd0hkVFRPeXRDaEorcVVmVFYyMndRRnM3d1dTZjN2TjRrZXFjWnlpdEJ0RnFmY0FiZDF5azdvYWVLem1MYU9RbkZ3cXc9PQ__",
+      "https://www.zupimages.net/up/24/18/zjm3.png",
+      "bgasdfasdfa.jpg",
+      "http://theowensfamily.info/SjVwRUo1NVFaNHZ0b2U3UENJeDVObW1VOWo3bE9tNTFibXd4aTFPbm9XQTRNcEZsekJSUnNWOVRkTVhkYzMxeEszWlJpZyt5LzhVTlRnb2t6aDZWMnc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5141,
+    "html_length": 12367,
+    "has_text": true,
+    "has_html": true
+  }
+}

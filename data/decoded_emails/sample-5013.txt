@@ -1,0 +1,78 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Hi Paid, your order no J6wb10HRRO833j4uza is paid
+From: "Paid Customer" <marosimama26@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Thu, 20 Feb 2025 06:13:28 -0800 (PST)
+Message_Id: <67b73888.170a0220.373b40.e164@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============4297454444334064436=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============4297454444334064436=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #068ACC; } .auto-style2 { color: #022BDB; } Sale Order id: 662-LOLJ-501 Pay Pal Your Order is Confirmed! We're happy to let you know that we're received your order. Once your package ships, we will send you an email with a tracking number and link so you can see the movement of your package. If you have any questions, contact us here or call us on 1 855 596 2198. We are here to help! Receipt Summary Seller: COINBASE EXCHANGE PVT LTD PAYMENT Product: Cryptocurrency Exchange Quantity: 1x Buyer: Paid Customer Wallet Id: 4179735d-49e1-417e-b969-ff6196bf6ebc Amount: $1246.27 Returns: If you would like to return your product, please contact us 1 855 596 2198. Sincerely, PayPal, LLC. Copyright © 2024 Company. All rights reserved. Terms of Use | Privacy Policy | Sales and Refunds Our Mailing address is: 94-1165 Awaiki Fl Mesa Arizona 60297 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #068ACC;
+}
+.auto-style2 {
+	color: #022BDB;
+}
+</style>
+</head>
+
+<body>
+
+Sale Order id: 662-LOLJ-501<h2><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></h2>
+<strong>Your Order is Confirmed!</strong><br>
+<br>
+We're happy to let you know that we're received your order.<br>
+Once your package ships, we will send you an email with a tracking number and 
+link so you can see the movement of your package.<br>
+<br>
+If you have any questions, contact us here or call us on 1 855 596 2198.<br>
+We are here to help!<br>
+<br>
+<strong>Receipt Summary</strong><br>
+Seller: COINBASE EXCHANGE PVT LTD PAYMENT<br>
+Product: Cryptocurrency Exchange<br>
+Quantity: 1x<br>
+Buyer: Paid Customer<br>
+Wallet Id: 4179735d-49e1-417e-b969-ff6196bf6ebc<br>
+Amount: $1246.27<br>
+<br>
+Returns: If you would like to return your product, please contact us 1 855 596 2198.<br>
+<br>
+Sincerely,<br>
+PayPal, LLC.<br>
+<br>
+Copyright © 2024 Company. All rights reserved.<br>
+Terms of Use | Privacy Policy | Sales and Refunds<br>
+Our Mailing address is: 94-1165 Awaiki Fl Mesa Arizona 60297 USA
+
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "N.F. Eletr��nica N�� 47484 emitida em 21/09/2024",
+    "from": "Nf-e de compra <sincatowebfazenda@atendimento.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 21 Sep 2024 04:45:47 -0400 (EDT)",
+    "message_id": "<2024092phishing@pot4547.BE0B51797@jobsgyhdgf75.net-1-3>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700",
+      "http://pproxiismais.space-to-rent.com/?hash={EMAIL_CODIFICADO}"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 572,
+    "html_length": 4344,
+    "has_text": true,
+    "has_html": true
+  }
+}

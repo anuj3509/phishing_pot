@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Houve um acesso incomum. 3123628457 ",
+    "from": "Mercado.Pago <mpvalidesac@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 27 Jun 2024 12:38:57 +0000 (UTC)",
+    "message_id": "<20240627123857.8C4B0301D55@vpsurfcloud0711.example.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://dadosmercad.online/modules/conta",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/ic_logomp@2x.png",
+      "hotmail.com",
+      "http://enviomarket.duckdns.org/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 349,
+    "html_length": 7085,
+    "has_text": true,
+    "has_html": true
+  }
+}

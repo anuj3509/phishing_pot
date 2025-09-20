@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Meet the New Electrum Extension, A Modern Twist on Classic\n Security",
+    "from": "ELECTRUM Wallet <electrum@business-data-lighthouse.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 11 May 2025 00:26:38 +0000",
+    "message_id": "<010f0196bcbc970f-bef32a5f-26b0-47ed-a976-80e0e4d8e5b6-000000@us-east-2.amazonses.com>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://electrumextension.store/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 977,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Comunicado urgente: Irregularidade detectada em seu CPF junto à Receita Federal. Bloqueio em 24h! Código: 98797108.",
+    "from": "Comunicado Receita Federal <regularizacao790592@receita>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 7 May 2025 19:03:46 +0000",
+    "message_id": "<7bd249e855a761458f3e7561bbb965f8@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_7bd249e855a761458f3e7561bbb965f8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_7bd249e855a761458f3e7561bbb965f8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://rcta-608096400629.southamerica-east1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 8235,
+    "has_text": true,
+    "has_html": true
+  }
+}

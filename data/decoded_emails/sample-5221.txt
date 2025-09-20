@@ -1,0 +1,133 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sichern Sie sich Ihren Platz, bevor es zu sp��t ist!
+From: Wichtige Mitteilung zur OBI Umfrage <support@sweeterpasta.de>
+To: <phishing@pot>
+Date: Thu, 19 Jun 2025 19:06:11 +0000
+Message_Id: <uMng9mTY3PgGZF6hRYCSIvUYwu@email.amazonses.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://pbs.twimg.com/media/GttrW6tXEAEaPwy?format=jpg&amp;name=large
+  - https://visioninsights.info/cl/2431_md/400/7235/81/32/426936
+  - pbs.twimg.com/media/GttrW6tXEAEaPwy?format=jpg&amp;name=large
+  - https://pbs.twimg.com/media/GttrW6sXMAANlDy?format=jpg&amp;name=small
+  - https://insidechina.net/op/2431_md/400/7235/81/32/426936
+  - https://saveimagesusa.com/file_0312aa99-6f48-46fb-a311-77cadc944268.jpg
+  - https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Obi.svg/1280px-Obi.svg.png
+  - https://visioninsights.info/un/2431_md/400/7235/81/32/426936
+  - pbs.twimg.com/media/GttrW6sXMAANlDy?format=jpg&amp;name=small
+
+DECODED TEXT CONTENT:
+------------------------------
+OBI Makita body { font-family: "Poppins", sans-serif; background-color: #f9f9f9; text-align: center; padding: 20px; } .email-container { max-width: 450px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: auto; background-image: url("https://saveimagesusa.com/file_0312aa99-6f48-46fb-a311-77cadc944268.jpg"); background-size: cover; background-position: center; } .logo img { max-width: 200px; } .title { font-size: 24px; font-weight: bold; color: #ff740b; } .subtitle { font-size: 18px; font-weight: bold; color: black; margin-top: 10px; } .content p { font-size: 16px; color: #333; } .highlight { font-weight: bold; color: red; } .promo-image img { width: 400px; margin-top: 50px; } .claim-button { display: inline-block; margin-top: 20px; background-color: #ff740b; color: white; padding: 10px 40px; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; } .footer { margin-top: 20px; font-size: 12px; color: #666; } Makita Werkzeugset Jetzt handeln: Nur noch wenige Plätze für exklusive Vorteile! Letzte Chance, Ihr kostenloses Geschenk zu sichern! Hier klicken und einlösen ©2025 OBI. Alle Rechte vorbehalten. abmelden
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OBI Makita</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&amp;display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Obi.svg/1280px-Obi.svg.png" type="image/x-icon">
+    <style>
+      body {
+        font-family: "Poppins", sans-serif;
+        background-color: #f9f9f9;
+        text-align: center;
+        padding: 20px;
+      }
+      .email-container {
+        max-width: 450px;
+        background-color: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: auto;
+        background-image: url("https://saveimagesusa.com/file_0312aa99-6f48-46fb-a311-77cadc944268.jpg");
+        background-size: cover;
+        background-position: center;
+      }
+      .logo img {
+        max-width: 200px;
+      }
+      .title {
+        font-size: 24px;
+        font-weight: bold;
+        color: #ff740b;
+      }
+      .subtitle {
+        font-size: 18px;
+        font-weight: bold;
+        color: black;
+        margin-top: 10px;
+      }
+      .content p {
+        font-size: 16px;
+        color: #333;
+      }
+      .highlight {
+        font-weight: bold;
+        color: red;
+      }
+      .promo-image img {
+        width: 400px;
+        margin-top: 50px;
+      }
+      .claim-button {
+        display: inline-block;
+        margin-top: 20px;
+        background-color: #ff740b;
+        color: white;
+        padding: 10px 40px;
+        border-radius: 5px;
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: bold;
+      }
+      .footer {
+        margin-top: 20px;
+        font-size: 12px;
+        color: #666;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="email-container">
+      <div class="logo">
+        <img src="https://pbs.twimg.com/media/GttrW6tXEAEaPwy?format=jpg&amp;name=large" alt="Obi">
+		<img src="//pbs.twimg.com/media/GttrW6tXEAEaPwy?format=jpg&amp;name=large" alt="Obi">
+      </div>
+      <div class="title">Makita Werkzeugset</div>
+      <div class="subtitle">
+        Jetzt handeln: Nur noch wenige Plätze für exklusive Vorteile!
+      </div>
+      <div class="promo-image">
+        <img src="https://pbs.twimg.com/media/GttrW6sXMAANlDy?format=jpg&amp;name=small" alt="" style="max-width: 280px">
+		<img src="//pbs.twimg.com/media/GttrW6sXMAANlDy?format=jpg&amp;name=small" alt="" style="max-width: 280px">
+      </div>
+      <div class="content">
+        <p class="highlight" style="color: red !important">
+          Letzte Chance, Ihr kostenloses Geschenk zu sichern!
+        </p>
+        <a href="https://visioninsights.info/cl/2431_md/400/7235/81/32/426936" class="claim-button">Hier klicken und einlösen</a>
+      </div>
+      <div class="footer">©2025 OBI. Alle Rechte vorbehalten.</div>
+	  <br><br><center> <a href="https://visioninsights.info/un/2431_md/400/7235/81/32/426936">abmelden</a>
+    </div>
+	<br><br><img alt="" src="https://insidechina.net/op/2431_md/400/7235/81/32/426936" width="1px" height="1px" style="visibility:hidden">
+  </body>
+</html>
+

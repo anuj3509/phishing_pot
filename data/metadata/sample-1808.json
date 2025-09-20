@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Ihr 100��� Geschenkgutschein",
+    "from": "Zalando , <noreply@zdf.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 06 Nov 2023 03:51:19 +0100",
+    "message_id": "<NIkjdVZ.00405.681.BXm@jhnsfourhgroup.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://getlevsgt.online/MmNnVkVkUm54MzlDQWpnYS8xVHVsVkNXSVpzemYybU1takNiayswYW1QTDNDc0w5SnRrZkhMeXNiWDVza2JOS2lEV05ESjFybXdKZzl1c2x2QlVVT0ptcS9pNkNrOU5uc1BJT2Jsc3o1YjQ9",
+      "http://getlevsgt.online/SjR3Ym51bUN0VkFMRTFaUEUwVXVoaVlLWDE0cjNVbElveWVPZmhGa09jQjhoVTNxanZjekd6UjdmTmNsZm9ydkhsRUQ4VlBGeW5lWlkwMG1sSXI1VXc9PQ__",
+      "http://getlevsgt.online/dUc1b3BQOTJKK1NTYjhFb3NxVXZpcmxDcEF5Mm00ZFRzbDRFb2pvSDdzTjQ2VS9sQnNCL2ZXbFliRjM2K3lGNnFoZUU5QWpWT3prRTdDdFlHM1BGb3c9PQ__",
+      "table.icons-inner",
+      "i.imgur.com/CFJeCQx.png",
+      "https://i.imgur.com/CFJeCQx.png",
+      "i.imgur.com/2eTsART.png",
+      "http://getlevsgt.online/Y3RZdWI3a0hxMFRTYlhDQVprdUx0YVErdFZlNlpnL2lyR1I3SGRPeTdSTEZXcE1SUjZSeUhtbThYVWxVTWFTSUc3ZkJBR0pzckM5WDFJRm9CdFdISUE9PQ__",
+      "https://i.imgur.com/2eTsART.png",
+      "https://trk2.de/l929m5j7"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1412,
+    "html_length": 14119,
+    "has_text": true,
+    "has_html": true
+  }
+}

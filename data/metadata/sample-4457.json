@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Ze is single, dichtbij en klaar om jou te ontmoeten!",
+    "from": "Je Geheimzinnige Geliefde <info@mail.bebopstation.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Thu, 28 Nov 2024 03:27:31 +0000",
+    "message_id": "<ab30c10cdfb2c1e9a44d164fd478f33ab99b2636@mail.bebopstation.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1732764451_2e6c9d6a83a76e4e4b974224347de1a5_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1732764451_2e6c9d6a83a76e4e4b974224347de1a5_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.bebopstation.com/index.php/campaigns/qw554pak1s7aa/track-url/fm831qer5l935/92912acffbba219a41a10c55865053a15114d832]",
+      "https://mail.bebopstation.com/index.php/campaigns/qw554pak1s7aa/track-url/fm831qer5l935/46405d01a0810cf4c7410bf90f3aa0aca52a7bf2]",
+      "https://mail.bebopstation.com/index.php/campaigns/qw554pak1s7aa/track-opening/fm831qer5l935",
+      "https://mail.bebopstation.com/index.php/campaigns/qw554pak1s7aa/track-url/fm831qer5l935/46405d01a0810cf4c7410bf90f3aa0aca52a7bf2",
+      "https://mail.bebopstation.com/index.php/campaigns/qw554pak1s7aa/track-url/fm831qer5l935/92912acffbba219a41a10c55865053a15114d832"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 914,
+    "html_length": 4564,
+    "has_text": true,
+    "has_html": true
+  }
+}

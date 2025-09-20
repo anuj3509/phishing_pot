@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Haal vandaag nog je gratis boxershorts in huis",
+    "from": "Gratis boxershorts, <postbode@emv.hallmark.nl.>, Office,\r\n\t<postbode@emv.hallmark.nl>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Feb 2024 00:02:38 +0100",
+    "message_id": "<z1uqybn.sv1ad.ubh.ubh@sfbdjututmgkiwa.cvq>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://onthatass.com/images/email/content/affiliate/mail-banner.png",
+      "userimg-bee.customeriomail.com/images/client-env-96027/Mailing-logo.png",
+      "onthatass.com/images/email/content/affiliate/mail-banner.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/6471_md/4049/25068/1164/257/8664",
+      "https://userimg-bee.customeriomail.com/images/client-env-96027/Mailing-logo.png",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/6471_md/4049/25068/1164/257/8664",
+      "onthatass.com/images/email/content/affiliate/review.jpg",
+      "https://onthatass.com/images/email/content/affiliate/review.jpg",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/6471_md/4049/25068/1164/257/8664",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1298,
+    "html_length": 18512,
+    "has_text": true,
+    "has_html": true
+  }
+}

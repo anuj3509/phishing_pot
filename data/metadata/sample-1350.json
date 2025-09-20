@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ben &amp; Jerry���s Produkt Tester f��r 1 Jahr!",
+    "from": "Ihr Gewinnerteam, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 18:10:23 +0200",
+    "message_id": "\r\n <adda5f5b-d745-4fee-803d-61adc5801e7b@DB8EUR05FT047.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://cdn.adperia.eu/global/newsletter/ben_jerrys/bg.jpg);",
+      "http://easilett.com/oop/160_md/31/66/31/23/2459859",
+      "http://easilett.com/cl/160_md/31/66/31/23/2459859",
+      "http://easilett.com/media/f852232e98e1bfa.png",
+      "http://easilett.com/media/2904809bbacc2cf.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 632,
+    "html_length": 4127,
+    "has_text": true,
+    "has_html": true
+  }
+}

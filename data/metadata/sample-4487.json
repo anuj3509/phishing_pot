@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Thank you for your order (#375829).",
+    "from": "\"Paid Customer\" <daud76642@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Thu, 05 Dec 2024 04:39:45 -0800 (PST)",
+    "message_id": "<67519f11.630a0220.phishing@pot4b1.36e8@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============5564731040067202424==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============5564731040067202424==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cshinvoice.com/unsubscribe?id=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 959,
+    "html_length": 2948,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "headers": {
+    "subject": "Login Attempt Detected – Please Review Your Account Activity",
+    "from": "Gemini Customer Service <mail.info.rs@msproducoeseeventos.com.br>",
+    "to": "<customer-ulfqcptspavikdob@coinbase.com>",
+    "date": "Tue, 27 May 2025 17:28:40 +0000",
+    "message_id": "<6835f649.0d0a0220.26d6d3.33caSMTPIN_ADDED_BROKEN@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixzqZMWqJJ6k4uH3zmBKpZAYQ1nRp12wdfHKfjO0ohhdg\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixzqZMWqJJ6k4uH3zmBKpZAYQ1nRp12wdfHKfjO0ohhdg\""
+  },
+  "attachments": [
+    {
+      "filename": "email-mecan801.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6380
+    },
+    {
+      "filename": "caldav-powerpak.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    },
+    {
+      "filename": "carddav-powerpak.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ec2-13-52-185-2.us-west-1.compute.amazonaws.com&rdquo;.",
+      "http://aws-portal.amazon.com/gp/aws/html-forms-controller/contactus/AWSAbuse",
+      "https://msproducoeseeventos.com.br/app/gemini.png",
+      "Amazon.com,",
+      "http://ec2.amazonaws.com/",
+      "Mail.app®",
+      "ec2-13-52-185-2.us-west-1.compute.amazonaws.com”.",
+      "Mail.app&reg;",
+      "mail.mecanicacamillo.com.br",
+      "mecanicacamillo.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 12697,
+    "html_length": 12653,
+    "has_text": true,
+    "has_html": true
+  }
+}

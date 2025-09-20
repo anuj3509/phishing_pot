@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "MetaMask Activity",
+    "from": "MetaMask <freeprints-ie@freeprintsapp.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 28 Jul 2024 01:35:01 +0000",
+    "message_id": "<01000190f6fa0ea6-d263c75b-7c1f-4148-9ed1-2339047136a4-000000@email.amazonses.com>",
+    "content_type": "multipart/mixed; boundary=\"===============4192940590745103602==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============4192940590745103602==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://secured-077.de/MET/META.php",
+      "https://ci3.googleusercontent.com/proxy/9M52mjPab1xoQwIpPfNY9PKoFbNn0jSP1EnnQIC9rN3iWz5vXgJkuAPtfPdmFQFYynUquMY9p6dqpy0VVOQINeYNLL9imx4YTe9M5sy3FyYN3tm9Rh_ZxAX549d1xfbu7fB5L-8cTCH1z7dqSFPfqEYbw54XVzY38ijxaQFWKCpJkeUNzWSEpyxaLKDYpBzKUFs=s0-d-e1-ft#http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/ad0d61769970917c7cc7a2795fd94588f5e15938.png",
+      "https://ci6.googleusercontent.com/proxy/ZR7g4Dk1YiGqC0wIZG0ASKuEMalC6oxaFbC9a6xPN6BrSA-tj2mta9ceSV-p0dNUn7YsywxPgSWXAfECR8pZRrhNOMgEzUMrFgMI1eK1rLs95IG8qW7Chlh6kxAof3XO6t99XFMws9Ff9pQXhz_4NsbiTfEz8EAAkmjb9dGurl-PPUFhxo1FbB7JIwUXRASOYz4=s0-d-e1-ft#http://img.sarbacane.com/63ab7cfdf1fc1a03ffa67b0e/templates/eRWc5LPsQcKmNcwUpFdBfA/bded7189d484b714539d4ca7e9d3a9d46cff6d89.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 764,
+    "html_length": 5288,
+    "has_text": true,
+    "has_html": true
+  }
+}

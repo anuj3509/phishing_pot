@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot, klicke und gewinne KNORR. Das ist dein kostenloses Promobox",
+    "from": "nur heute, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Oct 2023 08:22:59 +0200",
+    "message_id": "\r\n <e2dd890e-3443-40bc-adb3-2bbab8f876fa@CO1NAM11FT059.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://Missionoakdesigns.com/cl/973_md/31/75/133/23/2459859",
+      "http://Missionoakdesigns.com/oop/973_md/31/75/133/23/2459859",
+      "https://sf22.sendsfx.com/admin/temp/user/2/knorr-header-b-de.png",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6026,
+    "html_length": 12923,
+    "has_text": true,
+    "has_html": true
+  }
+}

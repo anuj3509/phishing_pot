@@ -1,0 +1,59 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Norton Order Confirmation For Order #NP00X11235555
+From: E-Payment Notification <zwbfyifxdjp.customer-service@markelliotson.com>
+To: noreply_emails11235502555@bill.norton-us.com
+Date: Thu, 14 Aug 2025 23:24:52 +0700
+Message_Id: <CAEad5fvy-T03mdeMyQQ9dHxxx_F3Vx8=OXEMiqU2LYdPqEPqQQ@mail.gmail.com>
+Content_Type: multipart/mixed; boundary="000000000000731e4b063c55b7f4"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="000000000000731e4b063c55b7f4"
+
+ATTACHMENTS:
+--------------------
+- Purchase-Details#NP00X00569879234.docx (application/vnd.openxmlformats-officedocument.wordprocessingml.document, 28636 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear Customer,
+
+We are pleased to notify you that your Norton Ultimate Plus – 1 Year plan
+is now active. Your devices are covered with continuous protection starting
+today.
+
+Order Summary:
+Transaction ID: NP00X11235555
+Date: Thursday, 14 August 2025
+Plan: Norton Ultimate Plus – 1 Year
+Total Paid: $299.00
+Validity: August 14, 2025 – August 13, 2026
+
+For any questions, please contact Norton Billing at +1 856-342-1241 within
+24 hours.
+
+Regards,
+Norton Billing Department
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr"><div>Dear Customer,</div>
+<br>
+<div>We are pleased to notify you that your Norton Ultimate Plus – 1 Year plan is now active. Your devices are covered with continuous protection starting today.</div>
+<br>
+<div>Order Summary:<br>Transaction ID: NP00X11235555<br>Date: Thursday, 14 August 2025<br>Plan: Norton Ultimate Plus – 1 Year<br>Total Paid: $299.00<br>Validity: August 14, 2025 – August 13, 2026</div>
+<br>
+<div>For any questions, please contact Norton Billing at <span style="color:rgb(0,5,185)">+1 856-342-1241</span> within 24 hours.</div>
+<br>
+Regards,<br>Norton Billing Department<br></div>
+

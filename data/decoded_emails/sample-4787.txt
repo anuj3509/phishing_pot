@@ -1,0 +1,67 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: CORREIOS | ALERTA DE ENTREGA - DETALHES DO PACOTE: 4WY51TIR
+From: Correios | Central de Atendimento | atendimento3159.correios.com.br <eppichuacb@gmx.us>
+To: phishing@pot
+Date: Wed, 15 Jan 2025 23:15:28 +0000
+Message_Id: <1MYeR1-1u3oFr0B5H-00IbqH@mail.gmx.net>
+Content_Type: multipart/mixed; boundary="===============0495915320285672667=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="===============0495915320285672667=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://enviocorreios.z15.web.core.windows.net/?/KrIYC7lR.SwlOfC.2xYWj3I.LdR0RU.hkPHpdVb.J9ccJZ
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Prezado(a), rodrigo-f-p@hotmail.com Sua encomenda encontra-se retida e necessita de liberação para que o processo de entrega possa continuar. Código de Rastreamento: O93CSOBPSFT6 Status: Retida - Aguardando Resolução Última Atualização: Hoje Evite atrasos ou devolução. Resolva esta pendência agora mesmo. Resolver Pendência Se precisar de assistência, nossa equipe está disponível para ajudar você a qualquer momento. Atenciosamente, Equipe de Atendimento Correios %tag_complexa%
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><body style="font-family: Arial, sans-serif; background-color: #f4f4f4; color: #333333; padding: 20px;">
+    <div style="max-width: 580px; margin: 0 auto; background-color: #ffffff; border-radius: 6px; padding: 20px;">
+
+        <!-- Saudação inicial -->
+        <p><b>Prezado(a), rodrigo-f-p@hotmail.com</b></p>
+
+        <!-- Mensagem principal -->
+        <p>Sua encomenda encontra-se <b>retida</b> e necessita de liberação para que o processo de entrega possa continuar.</p>
+
+        <!-- Bloco de informações -->
+        <p style="background-color: #FFFAE6; padding: 10px; border-radius: 5px; border-left: 4px solid #FFCC00; margin: 15px 0;">
+            <b>Código de Rastreamento:</b> O93CSOBPSFT6<br>
+            <b>Status:</b> Retida - Aguardando Resolução<br>
+            <b>Última Atualização:</b> Hoje
+        </p>
+
+        <!-- Chamada de ação -->
+        <p style="color: #CC0000; font-weight: bold; text-align: center; margin-bottom: 20px;">Evite atrasos ou devolução. Resolva esta pendência agora mesmo.</p>
+
+        <!-- Botão de ação -->
+        <p style="text-align: center;">
+            <a href="https://enviocorreios.z15.web.core.windows.net/?/KrIYC7lR.SwlOfC.2xYWj3I.LdR0RU.hkPHpdVb.J9ccJZ" style="display: inline-block; background-color: #005CA9; color: #ffffff; text-decoration: none; padding: 12px 30px; border-radius: 6px; font-weight: bold;">Resolver Pendência</a>
+        </p>
+
+        <!-- Mensagem de suporte -->
+        <p>Se precisar de assistência, nossa equipe está disponível para ajudar você a qualquer momento.</p>
+
+        <!-- Assinatura -->
+        <p>Atenciosamente,</p>
+        <p>Equipe de Atendimento Correios</p>
+
+        <!-- Tag oculta -->
+        <p style="display: none;">%tag_complexa%</p>
+
+    </div>
+</body>
+

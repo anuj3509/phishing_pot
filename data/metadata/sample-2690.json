@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "��� Verpassen Sie nicht Ihre Chance, ein makita f��r 4 ��� zu gewinnen!",
+    "from": "MAKITA, <service@stayfriends.de.>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 21 Jan 2024 19:06:35 +0100",
+    "message_id": "<synszjy.1u2mz.1mj.1mj@tmvvyifdffxpzwh.ewp>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://cdn.eztalks.com/20240116205119114/2024-01-18/OqMxjPO1705615840134.html#cl/5593_md/4049/25172/1254/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "imgsupload.com/nl/342/btn.png",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-18/OqMxjPO1705615840134.html#oop/5593_md/4049/25172/1254/143/149762",
+      "imgsupload.com/nl/342/header.png",
+      "http://imgsupload.com/nl/342/btn.png",
+      "https://imgsupload.com/nl/342/header.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 484,
+    "html_length": 5162,
+    "has_text": true,
+    "has_html": true
+  }
+}

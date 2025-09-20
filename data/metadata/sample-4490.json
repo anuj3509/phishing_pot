@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot, wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Dec 2024 23:21:49 +0000",
+    "message_id": "<q6amFbU.0.0.q6amFbU.9.q6amFbU@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/24/48/ob6z.png",
+      "https://whispeechless.com/?a=8616&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "http://syp.clientmagic.de/QlVYZGVaaHVEN2E4dS8zdUk5MUp5WFF3YmZiT0Jpa3JlY1FvZXBBTC9JblF0eENFL2R1SWNRMTNNcHpjK08rS2pLalVlNktmeTNnS0dLdnZFTEZpZnc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/48/ghpk.jpg",
+      "https://www.zupimages.net/up/24/48/ghpk.jpg",
+      "http://clientmagic.de/cHZHOHhMV1FteFZzWWExSXBxQ3Urb0oyR1B6NWtTTWs4OEJoTVJDcnhBSFU3QTF5UVNFa29pWnJUVjJNOXpEZjZNSi9zQ1ljd1VjWWxxSGpqc1NUbFE9PQ__",
+      "https://www.zupimages.net/up/24/48/ob6z.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1703,
+    "html_length": 9176,
+    "has_text": true,
+    "has_html": true
+  }
+}

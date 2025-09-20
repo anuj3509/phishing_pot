@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Rodrigo, Proposta exclusiva no plano NotreDame Intermédica",
+    "from": "\"Plano NotreDame Intermédica\" <contato@cotaragora.com>",
+    "to": "\"Rodrigo\" <phishing@pot>",
+    "date": "Wed, 28 Feb 2024 07:01:38 -0600",
+    "message_id": "<20240228130210.4866.14566085.swift@cotaragora.activehosted.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-60593892065df2eb2213568.83336270_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-60593892065df2eb2213568.83336270_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://cotaragora.lt.acemlnd.com/Prod/link-tracker?redirectUrl=aHR0cHMlM0ElMkYlMkZ3d3cuY290YXJhZ29yYS5jb20lMkZsZWFkcyUyRm5vdHJlZGFtZSUyRmFmLnBocCUzRmElM0RhY3RpdmU=&amp;sig=FSZf2rH9TeRhJCyQvCYP6HFp24fMDGiiFxTB8y6jS2eN&amp;iat=1709125330&amp;a=%7C%7C253712859%7C%7C&amp;account=cotaragora%2Eactivehosted%2Ecom&amp;email=gtQI8WvQnPSdwyGFH2HrtEFpslgUuXBmrePcqygIfVgGOYCv5eZn%3AywLjdBieM6NOns29FdaRgxT99WBEoo%2FE&amp;s=d7220edfb1b1f74f093793a94fd89618&amp;i=6747A6999A125A20253",
+      "http://cotaragora.activehosted.com/proc.php?nl=125&amp;c=6747&amp;m=6999&amp;s=d7220edfb1b1f74f093793a94fd89618&amp;act=unsub"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1487,
+    "html_length": 5504,
+    "has_text": true,
+    "has_html": true
+  }
+}

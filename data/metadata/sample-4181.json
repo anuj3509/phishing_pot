@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Sichern Sie sich Ihren 100��� DEUTSCHE BAHN Gutschein",
+    "from": "Deutsche Bahn, Deutsche Bahn, <newsletter@mail.toom.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Sep 2024 14:00:04 +0000",
+    "message_id": "<DJZDEHTOLERMZQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "http://topmarktingplace.com/4FpYjo36300VFOb188esedwxavzc14302XUFYHMQMETAAPXG2URMP6292X10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/6HarlH36300jIle188lohrqnyntl14302FEDLWWYPHJKBIRM2JLSG6292R10",
+      "sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "http://topmarktingplace.com/5iSRCj36300nbCl188srqthnvddd14302ZVAAGXOQMIIFYZO2BCXN6292l10",
+      "http://topmarktingplace.com/4DBvSR36300yyNi188lxlcmrnqvy14302CBBHZAJUFSQLCKY2PLJW6292K10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2014,
+    "html_length": 9319,
+    "has_text": true,
+    "has_html": true
+  }
+}

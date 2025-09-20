@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 94687856.",
+    "from": "Correios S.A <alfandega-informa099347@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Dec 2024 12:41:44 +0000",
+    "message_id": "<8cf48b0ad612581f573161b8dfe50cb5@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8cf48b0ad612581f573161b8dfe50cb5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8cf48b0ad612581f573161b8dfe50cb5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com.br-pt-bralfandegacorreios615828685@interna-taxalfandega.co.ua/rastreamento/taxa657"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 5451,
+    "has_text": true,
+    "has_html": true
+  }
+}

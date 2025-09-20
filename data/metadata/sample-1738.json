@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Confirmation Needed Act Now !",
+    "from": "KOHL's   ,_<r5mk7@ri69aezzhy.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 29 Oct 2023 06:17:27 +0000",
+    "message_id": "\r\n <baa7b6f4-bdad-4596-a357-1a8493934df0@VI1EUR04FT053.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expiring"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/ILJcReCQtr",
+      "i.imgur.com/9XLDnR2.jpg",
+      "https://t.co/k2FXJOglkU",
+      "http://dtherhproblem.us/su47342NqTjx22448528zpmO49413DqO67743isCN3363",
+      "https://i.imgur.com/9XLDnR2.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 487,
+    "html_length": 8779,
+    "has_text": true,
+    "has_html": true
+  }
+}

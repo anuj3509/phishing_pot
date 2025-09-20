@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira, valor bloqueado por seguranca0qlmuotcTjl",
+    "from": "\"Nubank - Bloqueio por fraude phishing@pot.868.6*****\" <brewer.marilyn307167@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Mar 2024 12:39:13 -0700 (PDT)",
+    "message_id": "<65f0af61.050a0220.d09da.3820@mx.google.com>",
+    "content_type": "multipart/mixed; boundary=\"===============5763136063547058771==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============5763136063547058771==\""
+  },
+  "attachments": [
+    {
+      "filename": "pdf_zc7LZ8j.pdf",
+      "content_type": "application/pdf",
+      "size": 52480
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 685,
+    "html_length": 821,
+    "has_text": true,
+    "has_html": true
+  }
+}

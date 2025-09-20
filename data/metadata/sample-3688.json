@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r DM-Kunden.",
+    "from": "Nachricht von DM, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Aug 2024 04:30:28 +0200",
+    "message_id": "<vmeB2hx.0.0.vmeB2hx.9.vmeB2hx@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/25/c94s.png",
+      "https://www.zupimages.net/up/23/40/uynt.png",
+      "http://magicmotorworks.info/oop/494_md/1/1735/1220/50/112483",
+      "https://wear-prodct.com/?a=8101&amp;oc=20415&amp;c=54961&amp;p=r&amp;m=3&amp;s1=",
+      "http://magicmotorworks.info/op/494_md/1/1735/1220/50/112483",
+      "https://www.zupimages.net/up/23/25/c94s.png",
+      "bgasdfasdfa.jpg",
+      "www.zupimages.net/up/23/40/uynt.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4998,
+    "html_length": 11250,
+    "has_text": true,
+    "has_html": true
+  }
+}

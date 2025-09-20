@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ledger Security Team: Immediate Action Recommended",
+    "from": "Ledger Notification <contact@vidsens.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 10 Apr 2025 16:39:45 +0000",
+    "message_id": "<020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000@eu-west-1.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png",
+      "https://dfkb80hf.r.eu-west-1.awstrack.me/I0/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/kANQCSf_Z3Npty78eSxzv2lR8n8=421",
+      "https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fledger.com%2Funsubscribe/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/UZbafAGq0S0vxcKl-zDtNY6Xyyk=421",
+      "https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fsafety-ledger.s3.us-east-1.amazonaws.com%2Frecovery.html/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/5M_qyhaLoMQUjVQ5tehawoYAJPc=421",
+      "https://dfkb80hf.r.eu-west-1.awstrack.me/L0/https:%2F%2Fwww.ledger.com%2Fsupport/1/020200000pvk2k4k-v9in8aum-kg6k-neoh-ccpb-br57dkhrecg0-000000/65EgPLyrcYGH62SWevRT3uGh1L4=421"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 866,
+    "html_length": 4678,
+    "has_text": true,
+    "has_html": true
+  }
+}

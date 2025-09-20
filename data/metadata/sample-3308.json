@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Atenção! Último dia antes do cancelamento de seus serviços",
+    "from": "\"HostGator Brasil\" <contatos0@f2moto.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 29 May 2024 02:04:19 -0300",
+    "message_id": "<2911202405040291AE75FCDB-6D68BA1E07@f2moto.com.br>",
+    "content_type": "multipart/mixed; boundary=\"U9tCJnKIJUJ56=_SkcLNxKyYhioO6b472E\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"U9tCJnKIJUJ56=_SkcLNxKyYhioO6b472E\""
+  },
+  "attachments": [
+    {
+      "filename": "Fatura.pdf",
+      "content_type": "application/pdf",
+      "size": 146471
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.tableType",
+      "https://www.hostgator.com.br/hospedagem-de-sites",
+      "hostgator.com.br",
+      "table.deviceWidth",
+      "hotmail.com!",
+      "img.imageMobile{",
+      "https://suporte.hostgator.com.br/hc/pt-br",
+      "table.deviceWidth{",
+      "table.tableType{"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1380,
+    "html_length": 8030,
+    "has_text": true,
+    "has_html": true
+  }
+}

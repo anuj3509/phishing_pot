@@ -1,0 +1,246 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Houve um acesso a sua conta em um novo dispositivo!
+From: Mercado Livre <suportemercadolivre@hotmail.com>
+To: phishing@pot
+Date: Sun, 17 Sep 2023 14:47:13 +0000 (UTC)
+Message_Id: <20230917144713.730FF21986@localhost.members.linode.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_device.png
+  - https://fonts.googleapis.com/css?family=Open+Sans:400,700
+  - https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-8.png
+  - https://mercadolivre.com/org-img/mkt/email-mkt-assets/andes-emails/icon-warning@2x.png
+  - https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_clock.png
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-condicoes_299&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1pdT5WLVvlRLhh3tEwVzeK
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/communication-preferences&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1ND-hcE1Qv83cfCAD_E4C8
+  - https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw0Ej0SkY0ug01fAY_oXX3a_
+  - http://mercado.pago.hoje.comercial.ws/?
+  - https://mercadolibre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_geo.png
+
+DECODED TEXT CONTENT:
+------------------------------
+MERCADOPAGO /* ----- Reset ----- */ html, body { width: 100% !important; height: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0 !important; padding: 0 !important; background-color: #edeef0 !important; } #outlook a { padding: 0; } .ExternalClass { width: 100%; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } #body-table { margin: 0; padding: 0; width: 100% !important; height: 100% !important; line-height: 100% !important; } img { outline: none; text-decoration: none; -ms-interpolation-mode: bicubic; } a img { border: none; } .image-fix { display: block; } table td { border-collapse: collapse; } table { border-spacing: 0 !important; border-collapse: collapse !important; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; } div[style*="margin: 16px 0"] { margin: 0 !important; } .yshortcuts a { border-bottom: none !important; } a[x-apple-data-detectors] { color: inherit !important; text-decoration: none !important; font-size: inherit !important; font-family: inherit !important; font-weight: inherit !important; line-height: inherit !important; } /* ----- Fim Reset ----- */ .container { width: 100% !important; max-width: 600px } .responsive-box { max-width: 600px } .center { text-align:left!important; } @media screen and (max-width: 600px) { .container { width: 100% !important; } .responsive-box { width: 100% !important; } .content { height: auto!important; } .center { text-align:center !important; } #rodape-2016 { width:100% !important; } .rodape-2016-divisao { float:left !important; width:100% !important; margin:0px auto 20px auto !important; } } body { background-color: #fff; } .responsive-box1 {max-width: 600px } .responsive-box1 {width: 100% !important; } .center1 {text-align:left!important; } .center1 {text-align:center !important; } .ted { font-weight: bold; } .tess { font-weight: bold; } .etes { font-weight: bold; } .container tbody tr td .responsive-box tbody tr td table tr th { color: #CC0000; } .container tbody tr td .responsive-box tbody tr td table tr th h1 { color: #000000; font-size: 16px; } .container tbody tr td .responsive-box tbody tr td table tr th div { color: #000000; } .arial { font-family: Arial, Helvetica, sans-serif; } Houve um acesso à sua conta em um novo dispositivo Data e hora: 17 de Setembro, 11:59 hs. Dispositivo: Samsung Galaxy A031 Core Localização: Próximo a Belo Horizonte, Minas Gerais, Brasil Se foi você, por favor, desconsidere este e-mail. NÃO FUI EU Lembre-se de que, salvamos suas informações pessoais com os mais rígidos padrões de segurança. Em caso de dúvidas, você pode&nbsp; consultar como cuidamos dos seus dados . Administrar preferências de e-mails . Nunca envie sua senha ou detalhes de conta por e-mail. Veja&nbsp; como cuidamos da sua Privacidade &nbsp;e confira os&nbsp; Termos e condições do Mercado Pago .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet">
+
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+      <title>MERCADOPAGO</title>
+
+      <style type="text/css">
+
+      /* ----- Reset ----- */  			html,  			body {  			width: 100% !important;  			height: 100% !important;  			-webkit-text-size-adjust: 100%;  			-ms-text-size-adjust: 100%;  			margin: 0 !important;  			padding: 0 !important;  			background-color: #edeef0 !important;  			}  			#outlook a {  			padding: 0;  			}  			.ExternalClass {  			width: 100%;  			}  			.ExternalClass,  			.ExternalClass p,  			.ExternalClass span,  			.ExternalClass font,  			.ExternalClass td,  			.ExternalClass div {  			line-height: 100%;  			}  			#body-table {  			margin: 0;  			padding: 0;  			width: 100% !important;  			height: 100% !important;  			line-height: 100% !important;  			}  			img {  			outline: none;  			text-decoration: none;  			-ms-interpolation-mode: bicubic;  			}  			a img {  			border: none;  			}  			.image-fix {  			display: block;  			}  			table td {  			border-collapse: collapse;  			}  			table {  			border-spacing: 0 !important;  			border-collapse: collapse !important;  			mso-table-lspace: 0pt !important;  			mso-table-rspace: 0pt !important;  			}  			div[style*="margin: 16px 0"] {  			margin: 0 !important;  			}  			.yshortcuts a {  			border-bottom: none !important;  			}  			a[x-apple-data-detectors] {  			color: inherit !important;  			text-decoration: none !important;  			font-size: inherit !important;  			font-family: inherit !important;  			font-weight: inherit !important;  			line-height: inherit !important;  			}  			/* ----- Fim  Reset ----- */  			.container {  			width: 100% !important;  			max-width: 600px  			}  			.responsive-box {  			max-width: 600px  			}  			.center {  			text-align:left!important;  			}  			@media screen and (max-width: 600px) {  			.container {  			width: 100% !important;  			}  			.responsive-box {  			width: 100% !important;  			}  			.content {  			height: auto!important;  			}  			.center {  			text-align:center !important;  			}  			#rodape-2016 {  			width:100% !important;  			}  			.rodape-2016-divisao {  			float:left !important;  			width:100% !important;  			margin:0px auto 20px auto !important;  			}  			}  	body {
+
+	background-color: #fff;
+
+}
+
+      .responsive-box1 {max-width: 600px  			}
+
+.responsive-box1 {width: 100% !important;  			}
+
+      .center1 {text-align:left!important;  			}
+
+.center1 {text-align:center !important;  			}
+
+      .ted {
+
+	font-weight: bold;
+
+}
+
+      .tess {
+
+	font-weight: bold;
+
+}
+
+      .etes {
+
+	font-weight: bold;
+
+}
+
+      .container tbody tr td .responsive-box tbody tr td table tr th {
+
+	color: #CC0000;
+
+}
+
+      .container tbody tr td .responsive-box tbody tr td table tr th h1 {
+
+	color: #000000;
+
+	font-size: 16px;
+
+}
+
+      .container tbody tr td .responsive-box tbody tr td table tr th div {
+
+	color: #000000;
+
+}
+
+      .arial {
+
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+      </style>
+
+   </head>
+
+   <body style="margin:0; padding:0;background-color: #fff;">
+
+      <table align="center" border="0" cellpadding="0" cellspacing="0" class="container" width="600">
+
+      </table>
+
+      <table align="center" bgcolor="#fff" border="0" cellpadding="0" cellspacing="0" class="container" style="background-color: #fff;" width="100%">
+
+         <tbody>
+
+            <tr bgcolor="#fafafa">
+
+               <td><table align="center" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" class="responsive-box" width="600">
+
+                  <tbody>
+
+                        <tr style="font-family:'Open Sans', Arial, sans-serif;font-size:16px;line-height:24px;color:#000000;">
+
+                          <td style="padding: 30px 30px 30px 30px;"><p><strong style="font-size:18px; color: #000"><img src="https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-8.png" width="146" height="37"><br>
+
+                          </strong></p>
+
+                            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                              <tr>
+
+                                <th height="81" scope="col"><div align="left"><img src="https://mercadolivre.com/org-img/mkt/email-mkt-assets/andes-emails/icon-warning@2x.png" alt="ale" width="15" height="15"> Houve um acesso à sua conta em um novo dispositivo</div></th>
+
+                              </tr>
+
+                            </table>
+
+                            <p><img src="https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_clock.png" alt="ale" width="15" height="15"> Data e hora: <span class="arial">17 de Setembro, 11:59 hs.</span></p>
+
+                            <p><img src="https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_device.png" alt="ale" width="15" height="15"> Dispositivo: <span class="arial">Samsung Galaxy A031 Core</span></p>
+
+                            <p><img src="https://mercadolibre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_geo.png" alt="ale" width="15" height="15"> Localização: <span class="arial">Próximo a Belo Horizonte, Minas Gerais, Brasil<br>
+
+                            </span><br>
+
+                            </p>
+
+                            <p>Se foi você, por favor, desconsidere este e-mail.
+
+                              <br>
+
+                            </p>
+
+                            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+
+                              <tbody>
+
+                                <tr bgcolor="#FFFFFF" class="responsive-box1" style="font-family:'Lato', Arial, Helvetica, sans-serif;font-weight:400; font-size: 14px; line-height: 18px">
+
+                                  <td style="padding: 0px 30px"><div> <a href="http://mercado.pago.hoje.comercial.ws/? atendimento=1" title="link" style="background-color:#fff159;border-radius:4px;color:#1C1C1C;display:inline-block;font-family:sans-serif;font-size:13px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:100%;-webkit-text-size-adjust:none;">NÃO FUI EU</a></div></td>
+
+                                </tr>
+
+                              </tbody>
+
+                            </table></td>
+
+                        </tr>
+
+                        <tr style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#5e5e5e;">
+
+                           <td bgcolor="#fff" style="padding: 20px; background-color: #fff">Lembre-se de que, salvamos suas informações pessoais com os mais rígidos padrões de segurança. Em caso de dúvidas, você pode&nbsp;<a rel="noopener noreferrer" href="http://mercado.pago.hoje.comercial.ws/? atendimento=1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw0Ej0SkY0ug01fAY_oXX3a_">consultar como cuidamos dos seus dados</a>.</td>
+
+                        </tr>
+
+                        <tr>
+
+                           <td align="justify" bgcolor="#F0F0F0" style="font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#424040; padding:10px 20px 20px 20px;"><br>
+
+                             <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+
+                               <tbody>
+
+                                 <tr>
+
+                                   <td valign="middle" align="left"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+
+                                     <tbody>
+
+                                       <tr>
+
+                                         <td valign="middle" align="left"><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%">
+
+                                           <tbody>
+
+                                             <tr>
+
+                                               <td><p><a href="http://mercado.pago.hoje.comercial.ws/? atendimento=1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/communication-preferences&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1ND-hcE1Qv83cfCAD_E4C8">Administrar preferências de e-mails</a>.</p>
+
+                                                 <p>Nunca envie sua senha ou detalhes de conta por e-mail.</p>
+
+                                               <p>Veja&nbsp;<a href="http://mercado.pago.hoje.comercial.ws/? atendimento=1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw0Ej0SkY0ug01fAY_oXX3a_">como cuidamos da sua Privacidade</a>&nbsp;e confira os&nbsp;<a href="http://mercado.pago.hoje.comercial.ws/? atendimento=1" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-condicoes_299&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1pdT5WLVvlRLhh3tEwVzeK">Termos e condições do Mercado Pago</a>.</p></td>
+
+                                             </tr>
+
+                                           </tbody>
+
+                                         </table></td>
+
+                                       </tr>
+
+                                     </tbody>
+
+                                   </table></td>
+
+                                 </tr>
+
+                               </tbody>
+
+                           </table></td>
+
+                        </tr>
+
+                 </tbody>
+
+                  </table>
+
+               </td>
+
+           </tr>
+
+        </tbody>
+
+   </table>
+
+</body>
+
+</html>

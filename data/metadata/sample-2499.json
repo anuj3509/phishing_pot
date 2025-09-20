@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Tenemos una sorpresa para los clientes de Carrefour.",
+    "from": "Encuesta consumidores, <message@my.zalando.es>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 02 Jan 2024 22:25:10 +0100",
+    "message_id": "<1672xmd.ernbj.9mr.9mr@kvmslejqyqkpifj.jrm>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/23/24/rcqm.png",
+      "www.zupimages.net/up/23/45/ynmx.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1337849/lnkss.shtml#WGFGd2s5Y3ZXR25KZUlvWklpeE5nU21JeWhENGVQUGY3THFleXorQ1VmQTBzN05mSmhDWVEwVEV5M29ESU94L3ZBT2xDc0lXNGtTOS94K2VMZXNvV2h5MFY0NUwvSWUwZ0tORmhqZG1YTlNBTC83TkkwaXBmRWdqbEtlcDFqNGw_",
+      "https://www.zupimages.net/up/23/45/ynmx.png",
+      "www.zupimages.net/up/23/24/rcqm.png",
+      "bgasdfasdfa.jpg",
+      "http://176.105.253.85/TkxVTTBaSjJKYWVvbmVVWUhBcnRFdDVxZnJDYlhqc3daMVBheVpjdU96UWlnTmF5NjNneUozT09Sb1R2bTEvRjNWSjZLcnUyUytvQmYrenFTMit2Ny9IVlNDV3BoWjdScklDc3Z5YVErL29iWGl6L0VDN1lJZ0w5ZUNIQ3RZdHI_",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1337849/lnkss.shtml#QWtSRFJPbmFyeHRPNjZRdEVTUDN0UU1aMDU1YWNHWGNkeTk1aGFDRzM3S3FFV3Y1dHRSWWtML2RtallJKzlsOUlDcko1ZFdGaFY0VHRBUllUT3MvNFVUdlpVZkdYcSs3SnR1S3U4dFNhS1hLRlUza1ltOHZ3SjVKa1RETkNveFQ_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5080,
+    "html_length": 12300,
+    "has_text": true,
+    "has_html": true
+  }
+}

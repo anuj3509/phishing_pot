@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Seus 245.579 mil pontos expiram em 72 horas.",
+    "from": "Bradesco <bradesco@sac.com.br>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Tue, 10 Oct 2023 10:22:48 +0000",
+    "message_id": "<20231010102248.46D0140F68@nadamaisimpot3.homesecuritymac.com>",
+    "content_type": "multipart/mixed;boundary=---------------------d26df8d67330331c5548fe3bbc9f6da4"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------d26df8d67330331c5548fe3bbc9f6da4"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "http://65.29.168.184.host.secureserver.net/ibs.php",
+      "http://171.188.109.208.host.secureserver.net/ib2.php",
+      "https://i.imgur.com/f8JKPW7.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 878,
+    "html_length": 8550,
+    "has_text": true,
+    "has_html": true
+  }
+}

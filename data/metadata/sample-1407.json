@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "We have an important message for you!  Sam's Club",
+    "from": "Dear Sam's Club Customer  <account-security-noreply@accountprotection.Club-sams.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Sep 2023 04:49:25 +0200",
+    "message_id": "<8MSAJ4R2IKU4.N163YRJLUDGISOpWUBJT@BY1PEPF00001B90>",
+    "content_type": "multipart/alternative; boundary=\"=-c+N9aFhvstMujYexHGQxcA==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-c+N9aFhvstMujYexHGQxcA==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://clicktime.symantec.com/3BCC63nXY1USLfHHTQnRWsw6H2?u=0x3E.0004.0x10.0256/cl/1752_md/1/13/92/39/632580",
+      "https://i.imgur.com/i1YBUY1_d.webp?maxwidth=760&amp;fidelity=grand",
+      "https://clicktime.symantec.com/3BCC63nXY1USLfHHTQnRWsw6H2?u=0x3E.0004.0x10.0256/op/1752_md/1/13/92/39/632580",
+      "eu1-us1.ckcdnassets.com/448/creatives/50478/",
+      "bgasdfasdfa.jpg",
+      "https://i.imgur.com/9szKPx3_d.webp?maxwidth=760&amp;fidelity=grand"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5156,
+    "html_length": 11535,
+    "has_text": true,
+    "has_html": true
+  }
+}

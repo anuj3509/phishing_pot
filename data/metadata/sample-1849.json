@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Vous n'��tes plus qu'�� un pas de votre Apple Box !",
+    "from": "Cadeaux Apple, <laredoute@fr.redoute.com.>, <laredoute@fr.redoute.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 09 Nov 2023 07:38:13 +0100",
+    "message_id": "<vx3ejyf.r7c2t.00t.00t@iwhkhbzteaukiis.exu>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://freeimghost.net/images/2023/11/09/9dcb492c84823ce.png",
+      "https://fonts.googleapis.com/css2?family=Cabin:wght@100;200;300;400;500;600;700;800;900",
+      "table.icons-inner",
+      "http://revision-online.info/c1ZBOGo3ZUgySVB3dXFBbUEwbVdocjJyWlNQNnAwY3QrUlg3VWsxb2I1R0ZpbTZac2t1dHlQMDkzanc4bFlEMWdDblFoNkozRnk4aUFHc2JreHp6K0FwQklVNTk2dzAyS1hXZGxiWDZob0VKbmUzeFRLN2hua2xOWDNGTnl3MVBvWGcwVTAzcDBDa3ZaUy94V2RyaVZ3PT0_",
+      "http://revision-online.info/cEx4N3huNUR3aWdQVE43UU9MMkZBeWExRk5FQjBob3E5T3VXZ3RLemZ3UFJRQXBHWmZvd2ZxZDNLTzk1eStYVnpLK0RDbmpTYzlzeW5NVnJtYmJPYWRFQjBEQ2ZwT3UxNGwrWGFpQzFiMmQyYzN0V3FBb2NWY3lFY3E2dHU2ZDh3QXRZZElMb2F5elk0Vk1jYTFCeXR3PT0_",
+      "freeimghost.net/images/2023/11/09/9dcb492c84823ce.png",
+      "http://revision-online.info/N2hRL3E2MXgvUTYyVVlUcTlPSmVWcE96K0lPVktkUFdCWnVCOHBCanFDbmtESkQ1OTZnNlJXY1RwQm8rTlZ2MU9WMEoyMzVpb3hZK0ZrajF2QThPaUVMY0Z3WTNOYTBiK2VuZEJLVTEwZVJlbFFTQVhoK2FSZWFSTHJpUlJvd2RSMm5HWWkrNjFIa1FlaWhPSWh3NitRPT0_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1325,
+    "html_length": 9218,
+    "has_text": true,
+    "has_html": true
+  }
+}

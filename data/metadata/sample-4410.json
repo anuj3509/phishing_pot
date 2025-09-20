@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Ação Necessária: Sua encomenda aguarda pagamento para continuar o processo de entrega! Protocolo: 80483211.",
+    "from": "Correios S.A <rastreamento-encomendas005254@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Nov 2024 14:24:32 +0000",
+    "message_id": "<2d1339844f249cbf6850329dbac85ee9@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_2d1339844f249cbf6850329dbac85ee9\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_2d1339844f249cbf6850329dbac85ee9\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://www.google.com.br-pt-bralfandegacorreios043757391@paguealfandega.co.ua/site/consultar655"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3401,
+    "has_text": true,
+    "has_html": true
+  }
+}

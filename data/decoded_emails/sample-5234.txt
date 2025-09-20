@@ -1,0 +1,111 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: A Entrega sera devolvida ao remetente sem reembolso ! Evite a devolucao. Verifique o status: 4242324686
+From: Correios <Encomenda@%status.net>
+To: <phishing@pot>
+Date: Mon, 31 Mar 2025 13:17:56 +0000
+Message_Id: <20250331131756.2C9233F6E2@vmkakammd883xxxbwhjbunmrr.openstacklocal>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://pedidos4017348586Sedexpac.pacenviou.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Mensagem Correios Correios 📦&nbsp; Evite transtornos com sua encomenda&nbsp; 🚚 Olá, rodrigo-f-p@hotmail.com Sua encomenda encontra-se retida pela Receita Federal devido à pendência no pagamento das taxas alfandegárias . Se já efetuou o pagamento e ainda recebeu este aviso, pode haver um problema no processamento da sua transação, ou não foi realizado o pagamento da tarifa de algum item do pacote. Atenção: Caso o pagamento não seja concluído dentro do prazo estipulado, sua encomenda poderá ser devolvida ao remetente sem possibilidade de reembolso. Evite problemas e regularize sua situação agora no botão abaixo:&nbsp; 🙋‍♂️ Regularizar Pagamento 🙋‍♂️ Última oportunidade de pagamento A data limite para regularização é 10/04/2025 . Após essa data, podem ser aplicadas taxas adicionais e sua encomenda será devolvida ao remetente. Correios 2025 - Todos os direitos reservados. Este e-mail foi gerado automaticamente. Por favor, não responda. &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<title>Mensagem Correios</title>
+
+	</head>
+
+	<body>
+
+		<div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #F4F4F4;">
+
+			<div style="max-width: 700px; margin: 40px auto; background-color: #FFFFFF; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 16px; overflow: hidden;">
+
+				<div style="background-color:#FFC107; padding:30px; text-align:center; color:#003087;">
+
+					<h1 style="margin:0; font-size:24px; font-weight:bold">
+
+						<span style="font-size:36px;">Correios</span></h1>
+
+					<h1 style="margin:0; font-size:24px; font-weight:bold">
+
+						📦&nbsp;<span style="font-size: 18px;">Evite transtornos com sua encomenda&nbsp;</span>🚚</h1>
+
+				</div>
+
+				<div style="padding: 30px; background-color: #003087; color: #FFFFFF; text-align: center;">
+
+					<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+
+						Olá, <strong>rodrigo-f-p@hotmail.com</strong></p>
+
+					<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+
+						Sua encomenda encontra-se <strong>retida pela Receita Federal</strong> devido à pendência no pagamento das <strong>taxas alfandegárias</strong>. Se já efetuou o pagamento e ainda recebeu este aviso, pode haver um problema no processamento da sua transação, ou não foi realizado o pagamento da tarifa de algum item do pacote.</p>
+
+					<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+
+						<strong>Atenção:</strong> Caso o pagamento não seja concluído dentro do prazo estipulado, sua encomenda poderá ser <strong>devolvida ao remetente</strong> sem possibilidade de reembolso.</p>
+
+					<p style="font-size: 18px; line-height: 1.6; font-weight: bold; margin-bottom: 30px;">
+
+						Evite problemas e regularize sua situação agora no botão abaixo:&nbsp;</p>
+
+					<a href="https://pedidos4017348586Sedexpac.pacenviou.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com" style="display: inline-block; padding: 15px 30px; font-size: 18px; font-weight: bold; color: #003087; background-color: #FFC107; text-decoration: none; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px;">🙋‍♂️ Regularizar Pagamento 🙋‍♂️</a></div>
+
+				<div style="background-color: rgb(255, 193, 7); padding: 20px; text-align: center; color: rgb(0, 48, 135);">
+
+					<p style="margin: 0px; font-size: 18px; font-weight: bold;">
+
+						Última oportunidade de pagamento</p>
+
+					<p style="margin: 10px 0px 0px; font-size: 16px;">
+
+						A data limite para regularização é <strong style="">10/04/2025</strong>. Após essa data, podem ser aplicadas taxas adicionais e sua encomenda será devolvida ao remetente.</p>
+
+				</div>
+
+				<div style="padding: 15px; text-align: center; font-size: 14px; color: rgb(102, 102, 102); background-color: rgb(244, 244, 244);">
+
+					<p style="margin: 0px;">
+
+						Correios 2025 - Todos os direitos reservados.</p>
+
+					<p style="margin: 5px 0px 0px;">
+
+						Este e-mail foi gerado automaticamente. Por favor, não responda.</p>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<p>
+
+			&nbsp;</p>
+
+	</body>
+
+</html>
+

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Last reminder to verify your Ledger device",
+    "from": "Ledger <sales@blueants.co.uk>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Sep 2024 14:00:57 +0000",
+    "message_id": "<010b01922ea28cba-732bf125-e1d8-4631-a5c8-60cd33845350-000000@eu-west-2.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://response-tw.com/",
+      "https://tw-deactivation.com/",
+      "https://developers.ledger.com/connectivity/ledger-horizontal.png",
+      "https://joulink.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 581,
+    "html_length": 3268,
+    "has_text": true,
+    "has_html": true
+  }
+}

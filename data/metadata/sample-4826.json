@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Lieferung in Bearbeitung: Best��tigen Sie Ihre Versanddetails",
+    "from": "\"Paketzustellung\" <Department-client-n63123@organizationmv.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 18 Feb 2025 16:17:44 +0000",
+    "message_id": "<b550ad54-4b5f-4c55-b6c7-6718a574dadf@MA1PEPF00007262.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "prodddss.jpg}}",
+      "llgggoosss.png}}",
+      "i.imgur.com/1RijV7q.png",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://lmy.de/HyOcd?4tJA0hGkanqW4jvzoWLzrqUvLJSWTgyomqVhyUZ58C2BxzlPOWXbK3L22ImiLmnylJnAmXWjq8a4zLQkkKvK74",
+      "http://www.w3.org/1999/xhtml",
+      "i.imgur.com/QPPp95p.png",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgurcom/1RijV7q.png",
+      "https://i.imgur.com/jJH76hf.jpeg",
+      "https://privacy.microsoft.com/en-GB/privacystatement",
+      "https://i.imgur.com/QPPp95p.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7195,
+    "html_length": 22499,
+    "has_text": true,
+    "has_html": true
+  }
+}

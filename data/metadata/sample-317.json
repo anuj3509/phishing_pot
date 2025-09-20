@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Fwd: It's Your Lucky Day!",
+    "from": "phish@pot <phish@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 13 Feb 2023 10:09:47 -0600",
+    "message_id": "<CAHq_4Ws7k=W4LHFct9P+YN4oRBSuWxhg6vmo=VPQhLB0sPSZjg@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000006fe0e705f4971460\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000006fe0e705f4971460\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gycia.uy"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 428,
+    "html_length": 800,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Warning: Suspicious Activity Detected in Your Wallet!",
+    "from": "MetaMask <info@sbdsmartorder.co.in>",
+    "to": "phishing@pot",
+    "date": "Tue, 18 Jun 2024 14:34:47 +0000",
+    "message_id": "<010001902bc596c2-d3fa2321-bb3b-46b4-ab6e-c01b7c0f57fa-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_1548386_276423833.1718721287836\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_1548386_276423833.1718721287836\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://links.sbdsmartorder.co.in/u/click?_t=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_m=598b465a750b48e6b0c2bcea88a9927a&amp;_e=zKenjIvRO4-G3wMvKYYeYMkdMe1metwSoMMFiDAtyHwWUD7SwFidy1S4Wt_zVlahDTrIxSF-LzuGYSGWTTAvGPXuFg9GzzNO721n-yAq92zLk2FYBxPMU9MzoS1CUHAlO1tipFPej_YcHMWvPTBpP11_44d3BwsM2VSUix9xXhChUkv7WsO4iqFH8dpCrjwCN-59rvOVi5L-5mQK4ByAD_rd8FijPsIvNm7FrT8u9gOTSFByZzwRAX7wnD81ST-JJwCG2USdi3S7G0iqhtfGvw%3D%3D",
+      "http://links.sbdsmartorder.co.in/u/click?_t=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_m=598b465a750b48e6b0c2bcea88a9927a&amp;_e=zKenjIvRO4-G3wMvKYYeYBlqnxkiFen8cLZMzU__jaSOA_RnIL5d3B-mRmdWdv28bK-Ls8XcDjlkHahCY9E0RNUBsNX4wADDG7lcSCDG-Plk5RUgZztOAaLC-5nwJ6A62vsq0ORr4C4SCROFje165X9p6U2YS_GXUgGiIfmEnS95_nYMlcGumQI41DtB22F6VDO5AJZf5djd1J_sJINy7A%3D%3D",
+      "http://links.sbdsmartorder.co.in/u/click?_t=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_m=598b465a750b48e6b0c2bcea88a9927a&amp;_e=zKenjIvRO4-G3wMvKYYeYBlqnxkiFen8cLZMzU__jaSOA_RnIL5d3B-mRmdWdv28vjhoa0TbtenuwQVNH0RKGDyt48c32ka4Ga36frWmmAcgiCtsJeKLYeq62rRXP-WhAHT0qM8lfxiQ-CXM8piNZiV4AafFTe8go3I2bXxZUFoBfh5SZtqpBLtnR4wRWLPJ5-9AyqWxw2XNOQYjMeX2gQ%3D%3D",
+      "http://links.sbdsmartorder.co.in/u/click?_t=ef0eb3f6706c433ba5eecfb1e1027a14&_m=598b465a750b48e6b0c2bcea88a9927a&_e=zKenjIvRO4-G3wMvKYYeYA0Op7bv_su_cp9zglObdy6NcVxHEq1tvLwOwamxxyrBNJQYwag1uRow0cbQcLzNaf3w5RMGpIZHPOKyhBYPkJlszZwNR0TU_OTGjjShq3uC4qDFer_IG9BCnBYQDUcyrDEdBZJtmWAldevc1f3jPfdj-lIApCPSo0Y2BGGIhEGEAzFr6K6JOCeh4b671TBXjxR1bObqqab4NUJVts83b44%3D",
+      "https://www.sbdsmartorder.co.in/",
+      "https://app-loads.com/sphishing@pot",
+      "http://links.sbdsmartorder.co.in/e/encryptedUnsubscribe?_r=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_s=598b465a750b48e6b0c2bcea88a9927a&amp;_t=2RP6Z0mUxAN2u0F9WaskITbhEZAh6hLoNdUMWV2c7NZ5ohfAzi_MqNCrGE2Hw6mQPbFgnfjlecz9N_u90vrbesGoK5Sm-btXLx_ck87z11hqLgMGogZD33cwZ5AFI1-5",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/ef0eb3f6706c433ba5eecfb1e1027a14/metamok.png",
+      "http://links.sbdsmartorder.co.in/e/encryptedUnsubscribe?_r=ef0eb3f6706c433ba5eecfb1e1027a14&_s=598b465a750b48e6b0c2bcea88a9927a&_t=2RP6Z0mUxAN2u0F9WaskITbhEZAh6hLoNdUMWV2c7NZ5ohfAzi_MqNCrGE2Hw6mQPbFgnfjlecz9N_u90vrbesGoK5Sm-btXLx_ck87z11hqLgMGogZD33cwZ5AFI1-5",
+      "div.fullWidth{max-width:100%!important}.mobile_hide{display:none}.row-content{width:100%!important}.stack",
+      "http://links.sbdsmartorder.co.in/e/eo?_t=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_m=598b465a750b48e6b0c2bcea88a9927a&amp;_e=2RP6Z0mUxAN2u0F9WaskITbhEZAh6hLoNdUMWV2c7NZ5ohfAzi_MqNCrGE2Hw6mQPbFgnfjlecz9N_u90vrbesGoK5Sm-btXLx_ck87z11jA4G5dpQDn0pbdnyM52DVwqCQO4yOx7CteTuG2mmaqrw%3D%3D",
+      "https://www.stanleyblackanddecker.com/privacy-policy/global-privacy-policy",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/ef0eb3f6706c433ba5eecfb1e1027a14/fbdfc2f9-86e9-4da6-8247-1d9e3163f754.png",
+      "http://links.sbdsmartorder.co.in/u/click?_t=ef0eb3f6706c433ba5eecfb1e1027a14&amp;_m=598b465a750b48e6b0c2bcea88a9927a&amp;_e=zKenjIvRO4-G3wMvKYYeYA0Op7bv_su_cp9zglObdy6NcVxHEq1tvLwOwamxxyrBNJQYwag1uRow0cbQcLzNaSN3CLL9eRVgnIFzmggwu1xgTBGdVN2RgUXXT7a-TahCesEbpVuYpNKYTyrB-l5pNjpzRG9Q63aqGKb1B5ODHhNp-nhR-iuLbvMWnJ-ns9rNPc06N4_k8UD2nvp13K-8Oy1g9S6TkTzDQkM8J4taOKM%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1106,
+    "html_length": 16302,
+    "has_text": true,
+    "has_html": true
+  }
+}

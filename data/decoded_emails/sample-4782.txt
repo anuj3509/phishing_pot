@@ -1,0 +1,114 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Bestellen Sie Ihr Medicare-Kit noch heute!
+From: Nachricht der AOK<datenschutz@{aok.de}>
+To: <phishing@pot>
+Date: Tue, 7 Jan 2025 08:58:52 +0000
+Message_Id: <06a4eb6f-99ff-4092-ba37-5445bb2a5703@DU2PEPF00028D13.eurprd03.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - aok.de
+  - https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png
+  - http://emailservicesnetau.com/6osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11
+  - http://emailservicesnetau.com/8osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11
+  - upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png
+  - http://emailservicesnetau.com/5osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11
+  - http://emailservicesnetau.com/track/3osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11
+  - http://emailservicesnetau.com/4osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11
+
+DECODED TEXT CONTENT:
+------------------------------
+Kostenloses Medizinisches Kit Angebot body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; } .container { background-color: #ffffff; width: 100%; max-width: 600px; margin: 20px auto; padding: 20px; box-shadow: 0 0 10px rgba(0,0,0,0.1); } .button { display: block; width: 200px; margin: 20px auto; padding: 10px; text-align: center; background-color: #00b330; color: #ffffff; text-decoration: none; border-radius: 5px; } .footer { text-align: center; font-size: 12px; color: #777777; } .unsubscribe { font-size: 12px; text-align: center; margin-top: 20px; } .logo { display: block; margin: 0 auto 20px auto; width: 100px; height: auto; } Fordern Sie Ihr kostenloses Medizinisches Kit jetzt an! Sehr geehrtes Mitglied von AOK, Als Teil unseres Engagements für Ihre Gesundheit und Ihr Wohlbefinden bieten wir allen geschätzten Mitgliedern in Kanada ein kostenloses medizinisches Kit an. Dieses Kit enthält grundlegende Erste-Hilfe-Ausstattung, rezeptfreie Medikamente und nützliche Gesundheitsleitfäden. So fordern Sie Ihr kostenloses Kit an: Melden Sie sich in Ihrem AOK Konto an. Gehen Sie zum Bereich „Angebote“. Klicken Sie auf die Schaltfläche „Kostenloses medizinisches Kit anfordern“ und bestätigen Sie Ihre Angaben. Kit jetzt anfordern Wenn Sie Fragen haben, können Sie unser Unterstützung-Team unter unterstützung@aok.de kontaktieren oder uns unter +(030) 195 71-0 anrufen. AOK , für ein gesünderes Deutschland. Wenn Sie keine weiteren E-Mails erhalten möchten, klicken Sie bitte hier . Click here to remove yourself from our email list.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Kostenloses Medizinisches Kit Angebot</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 0;
+    }
+    .container {
+        background-color: #ffffff;
+        width: 100%;
+        max-width: 600px;
+        margin: 20px auto;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .button {
+        display: block;
+        width: 200px;
+        margin: 20px auto;
+        padding: 10px;
+        text-align: center;
+        background-color: #00b330;
+        color: #ffffff;
+        text-decoration: none;
+        border-radius: 5px;
+    }
+    .footer {
+        text-align: center;
+        font-size: 12px;
+        color: #777777;
+    }
+    .unsubscribe {
+        font-size: 12px;
+        text-align: center;
+        margin-top: 20px;
+    }
+    .logo {
+        display: block;
+        margin: 0 auto 20px auto;
+        width: 100px;
+        height: auto;
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png" alt="AOK Logo" class="logo">
+             <img src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Allgemeine_Ortskrankenkasse_logo.svg/1200px-Allgemeine_Ortskrankenkasse_logo.svg.png" alt="AOK Logo" class="logo">
+    <h1>Fordern Sie Ihr kostenloses Medizinisches Kit jetzt an!</h1>
+    <p>Sehr geehrtes Mitglied von AOK,</p>
+    <p>Als Teil unseres Engagements für Ihre Gesundheit und Ihr Wohlbefinden bieten wir allen geschätzten Mitgliedern in Kanada ein <strong>kostenloses medizinisches Kit</strong> an. Dieses Kit enthält grundlegende Erste-Hilfe-Ausstattung, rezeptfreie Medikamente und nützliche Gesundheitsleitfäden.</p>
+    <p>So fordern Sie Ihr kostenloses Kit an:</p>
+    <ol>
+        <li>Melden Sie sich in Ihrem <a href="http://emailservicesnetau.com/4osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11">AOK Konto</a> an.</li>
+        <li>Gehen Sie zum Bereich „Angebote“.</li>
+        <li>Klicken Sie auf die Schaltfläche „Kostenloses medizinisches Kit anfordern“ und bestätigen Sie Ihre Angaben.</li>
+    </ol>
+    <a href="http://emailservicesnetau.com/4osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11" class="button">Kit jetzt anfordern</a>
+    <p>Wenn Sie Fragen haben, können Sie unser Unterstützung-Team unter 
+       <a href="mailto:unterstützung@aok.de">unterstützung@aok.de</a> kontaktieren oder uns unter <strong>+(030) 195 71-0</strong> anrufen.</p>
+    <p class="footer">AOK , für ein gesünderes Deutschland.</p>
+    <p class="unsubscribe">Wenn Sie keine weiteren E-Mails erhalten möchten, klicken Sie bitte 
+       <a href="http://emailservicesnetau.com/5osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11">hier</a>.</p>
+</div>
+</body>
+</html>
+<center>
+    <p>Click <a href="http://emailservicesnetau.com/6osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11">here</a> to remove yourself from our email list.</p>
+    <img alt="" src="http://emailservicesnetau.com/track/3osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11" width="1px" height="1px" style="visibility:hidden">
+    <img src="http://emailservicesnetau.com/8osjPf10690qdRm409zvrshmqilz2036SJQLWQUFRYNAHSY3349597KKKB8771M11" width="1px" height="1px" style="visibility:hidden">
+</center>
+</body>
+</html>
+

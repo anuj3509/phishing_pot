@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "C'est votre chance de recevoir une r��compense pour le Black Friday.",
+    "from": "Darty, <programme_tv@ml.tv-news.fr.>, Darty,\r\n\t<programme_tv@ml.tv-news.fr>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 12:31:29 +0100",
+    "message_id": "<B85Gxqs.0.0.B85Gxqs.9.B85Gxqs@ml.tv-news.fr>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://stabrino.info/op/5401_md/1995/978/2032/222/428764",
+      "https://imgur.com/P34S1rz.png",
+      "http://stabrino.info/oop/5401_md/1995/978/2032/222/428764",
+      "imgur.com/Wn89n4z.png",
+      "https://imgur.com/Wn89n4z.png",
+      "http://stabrino.info/cl/5401_md/1995/978/2032/222/428764",
+      "bgasdfasdfa.jpg",
+      "imgur.com/P34S1rz.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5121,
+    "html_length": 11868,
+    "has_text": true,
+    "has_html": true
+  }
+}

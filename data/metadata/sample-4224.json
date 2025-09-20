@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Ação Necessária: Pagamento Pendente para Liberação da Sua Encomenda nos Correios",
+    "from": "Correios <contato@correios>",
+    "to": "phishing@pot",
+    "date": "Tue, 22 Oct 2024 07:31:54 +0000",
+    "message_id": "<1598809f-c78e-e74d-d477-7425922baeb9@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreio.correios-encomendas.com/?mailID=d502f677-32e7-484c-b2f4-7e12e490d52b",
+      "Pets.com.."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 28633,
+    "html_length": 52039,
+    "has_text": true,
+    "has_html": true
+  }
+}

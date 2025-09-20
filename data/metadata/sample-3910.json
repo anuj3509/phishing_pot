@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 03131460.",
+    "from": "Correios <aviso176705@correios>",
+    "to": "phishing@pot",
+    "date": "Thu, 29 Aug 2024 12:19:57 +0000",
+    "message_id": "<077f7ad111c6cb42ecfc7d5ae2c84ecb@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_077f7ad111c6cb42ecfc7d5ae2c84ecb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_077f7ad111c6cb42ecfc7d5ae2c84ecb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://correiosrastreamentoalfandegario.com/api/rastreamento.php",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2265,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Pagamento Urgente: Liberação de Envio Imediato",
+    "from": "ganine <naoresponder@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Nov 2024 05:10:25 +0000",
+    "message_id": "<aa080255-8332-30b9-9bd6-31b1a7a16de7@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpwww.gpoaccess.goveop",
+      "https://juliodejens.icu/?mailID=6jc-DXJ9th7po-fUHXCAaDv2xCV8tqQWOvRn4ir19KPGcJjXHQjp3qbhxJS1vA-csj37lhSNlgeEH0BvVoGpMzIrZnqFnRgcVsGLmsB8GZ6DG1LsrW0KqYym3DiAwQOrxilcAgIJ3_JB_Uy-jD8KNV0zVsMIJtNprwHqxol3xjfWE8BCR8knB-EbKltdlL1fdjoFv9enmGnH2-bKG1y63EQ9WaxAbVvKm0AaHaa9CQKXWsB2jXEr9-UkjxKO0rOd78uvN6Ti4Lm5StYc8xEjT42YpR8QKexIPx_5J6QlsAfk9lVZ_S3b9jsLQ9Btbi6XwerLWTl70fHqpDqX4FbQGg",
+      "Jim.Eis",
+      "produtivos.Olhei"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 42022,
+    "html_length": 74980,
+    "has_text": true,
+    "has_html": true
+  }
+}

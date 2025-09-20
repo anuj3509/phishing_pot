@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BB INFORMA: Caro Cliente, você possui (_PONTOS_LIVELO_) vinculados em seu cartão prestes a expirar.* - ID GK8DK7575E",
+    "from": "BANCO DO BRASIL <b080696@bbatendimento.lb>",
+    "to": "phishing@pot",
+    "date": "Thu, 31 Aug 2023 22:41:33 +0000",
+    "message_id": "<7d1e19dbb0f4fcec741358e09f47b767@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7d1e19dbb0f4fcec741358e09f47b767\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7d1e19dbb0f4fcec741358e09f47b767\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mykisel.com/assets/js/pages/jss/",
+      "https://dundazela9298.shop/alegria123.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2174,
+    "has_text": true,
+    "has_html": true
+  }
+}

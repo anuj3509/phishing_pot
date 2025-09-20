@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "🦸‍♂️ Invitation to connect",
+    "from": "Ash <hello@onyxxxmail.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Thu, 16 Mar 2023 01:08:36 +0000",
+    "message_id": "<b05d5b18c8cae97d4438faf83e52d6ad7d5d3a4b@onyxxxmail.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1678928916_7a93960cfa317a2d7f0faa089c0c4a89_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1678928916_7a93960cfa317a2d7f0faa089c0c4a89_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mailxfast.com/index.php/campaigns/bj9719l8gv47c/track-url/tx787omlroe2b/fb8412e686793802ca04ce0c6f1eb4dd2b4200b1",
+      "http://mailxfast.com/index.php/campaigns/bj9719l8gv47c/track-url/tx787omlroe2b/aa59f79158b71f1f3e83196d8deb1aabfe0debe8]",
+      "http://mailxfast.com/index.php/campaigns/bj9719l8gv47c/track-opening/tx787omlroe2b",
+      "http://mailxfast.com/index.php/campaigns/bj9719l8gv47c/track-url/tx787omlroe2b/fb8412e686793802ca04ce0c6f1eb4dd2b4200b1].",
+      "http://mailxfast.com/index.php/campaigns/bj9719l8gv47c/track-url/tx787omlroe2b/aa59f79158b71f1f3e83196d8deb1aabfe0debe8"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 406,
+    "html_length": 4387,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Reset Your Password Immediately",
+    "from": "Liam From Metamask TS <support@vvauc.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Sat, 02 Dec 2023 11:21:37 +0000",
+    "message_id": "<VDK234NDYMR_656b134164c28_4939d043485db_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_656b134189522_4939d04348685\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_656b134189522_4939d04348685\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "http://schema.org/ViewAction",
+      "https://captur3dhelp.zendesk.com/images/2016/default-avatar-80.png",
+      "metamask.zendesk.com",
+      "http://schema.org/EmailMessage",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=91e4f636738aa80eJmltdHM9MTcwMTQ3NTIwMCZpZ3VpZD0wYTBhZDNkMC0wZmQ2LTZmM2QtMTM2Ni1jMDA1MGU5MDZlYzAmaW5zaWQ9NTEzMg&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=0a0ad3d0-0fd6-6f3d-1366-c0050e906ec0&amp;psq=site%3a+nebbiashop.co.il&amp;u=a1aHR0cHM6Ly9uZWJiaWFzaG9wLmNvLmlsL3Nob3Av&amp;ntb=1",
+      "https://vvauc.zendesk.com/hc/requests/177949"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 986,
+    "html_length": 3959,
+    "has_text": true,
+    "has_html": true
+  }
+}

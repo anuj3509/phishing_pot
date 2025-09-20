@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "500��� IKEA-Black Friday Gutscheins",
+    "from": "Black Friday,<office-re7tmx09k07wqizphmlj@shopdesign.shop>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 26 Nov 2023 03:31:31 +0100",
+    "message_id": "<0qKq9hc.0.0.0qKq9hc.9.0qKq9hc@no-reply@0qKq9hc.shopdesign.shop>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://goodm.shop/enhVQ2p0RlR1WlZhUm5tK1VxMzdqV3IxaStkcWFTZVBjcElkdDNtbURIQkRUV1lOdUdFUlJqckovMXZla3h5SXdXMnRxOTIxOHF5Y1l1TEtrWWxMeFE9PQ__",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/s1d6c1s6d1c6s1d6c51s6d889d4sc.html#Mm1pZExDVjNPM29zT0pIeXJXbGtzZTVZalZPRktjTHR3Q2ZDNGd1S1JQekFzRjFPZHlRY1BnSUhrbTVRL0MwWEFiZ2w4T2M3ODBaS25zWUZaK0ZrZkE9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/s1d6c1s6d1c6s1d6c51s6d889d4sc.html#c2RFdURpSFovb3AyUFUzcE85VEsxcTNzZ3JKK2lQZWRWMWR4YVRsa3BLbWVULzJhU2ZTeEplRlpnR2RNMjNOdVcvTDc2NjQrSnQ1a0FraUllQlF0WlE9PQ__",
+      "sf22.sendsfx.com/admin/temp/user/2/ikea-header-bf.jpg",
+      "http://crystalland.shop/enhVQ2p0RlR1WlZhUm5tK1VxMzdqV3IxaStkcWFTZVBjcElkdDNtbURIQkRUV1lOdUdFUlJqckovMXZla3h5SXdXMnRxOTIxOHF5Y1l1TEtrWWxMeFE9PQ__",
+      "https://sf22.sendsfx.com/admin/temp/user/2/ikea-header-bf.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1909,
+    "html_length": 9900,
+    "has_text": true,
+    "has_html": true
+  }
+}

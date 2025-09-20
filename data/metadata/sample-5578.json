@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "����Gl��ckwunsch zu dieser Chance",
+    "from": "BAHNGUTSCHEIN<noreply@bahn>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 16 Jun 2025 13:33:23 +0000",
+    "message_id": "<a1af7c78-c9a7-4e46-bc06-34acbc7b6a11@BN3PEPF0000B36F.namprd21.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://zupimages.net/up/22/43/w02r.png",
+      "http://WXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/4WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217",
+      "http://www.w3.org/1999/xhtml",
+      "http://WXBMTjeYbCEG4uqSGcSlWXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/6WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217",
+      "http://NDFbWDHPfLoBIPpjeYbCEG4uqSGcSlNDFbWDHPfLoBIPp.wellnesshaven.space/track/3WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217",
+      "zupimages.net/up/22/43/w02r.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1779,
+    "html_length": 10144,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "Haarausfall? Es gibt definitiv eine L��sung.",
+    "from": "Kraftvolles Haar, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Dec 2023 01:29:23 +0100",
+    "message_id": "\r\n <5967f6be-290b-49a5-a934-abc65ea0cb21@DB3EUR04FT049.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/17971592225750414.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/85541592229181092.png",
+      "anregt.Mangel",
+      "a.es-button",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/31.shtml#oop/6312_md/2009/89/406/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/67271592226200995.png",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "table.es-table-not-adapt,",
+      "table.es-social",
+      "https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/31.shtml#cl/6312_md/2009/89/406/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/81361592226411861.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/88631592227853179.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9144,
+    "html_length": 44088,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "ATENÇÃO: Evite a Suspensão Definitiva da CNH – ID: 96337864",
+    "from": "Detran <comunicado254744@portal-cnh>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 10 Feb 2025 00:35:08 +0000",
+    "message_id": "<b07821d979143204a21c54f5b3fe4223@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b07821d979143204a21c54f5b3fe4223\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_b07821d979143204a21c54f5b3fe4223\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap",
+      "https://us-central1-steam-bonbon-387615.cloudfunctions.net/fev0902",
+      "https://detran.gov.br/",
+      "gov.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3888,
+    "has_text": true,
+    "has_html": true
+  }
+}

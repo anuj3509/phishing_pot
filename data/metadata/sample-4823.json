@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "phishing@pot , Ihr Medicare Kit ist auf dem Weg!",
+    "from": "\"Rossmann VIP-Einladung\" <Department-client-n12494@exploreintschool.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 5 Feb 2025 23:50:59 +0000",
+    "message_id": "<a8b267c4-1918-4542-9336-388edb5af773@PN2PEPF00000190.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://i.imgur.com/tvXFTdu.png",
+      "https://urlz.fr/u01T?wG3kSjPOfEkt0CAXhfJiZn4fwCJYmf3bRSO7fq78wybgsXKgrPIUTaLH0Zf00wQj2MYX60TEqGGFTpRBayOxR5",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/gNWKesX.jpeg",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "http://google-mail.sytes.net/track/o4473rjmyL7205649bCRG3phishing@pot7htb928735rmJr408",
+      "i.imgur.com/tvXFTdu.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgur.com/EvouyLB.png",
+      "i.imgur.com/CIuwzbq.png",
+      "https://i.imgur.com/CIuwzbq.png",
+      "https://i.imgur.com/dA5qxWz.png",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7863,
+    "html_length": 23473,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "[URGENT] Verify Your Trust Wallet",
+    "from": "Trust Wallet <claudia@itpro.net.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Oct 2023 03:36:18 +0000 (UTC)",
+    "message_id": "<jgJYtMbqRRuvIINiD49ZlA@geopod-ismtpd-12>",
+    "content_type": "multipart/alternative; boundary=46c3ee13d847dcc1baa5d70d97a9c5be8abc9202fecdec26c3b1e774d795"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=46c3ee13d847dcc1baa5d70d97a9c5be8abc9202fecdec26c3b1e774d795"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      ".slot.HALF",
+      ".slot.ONE_THIRD",
+      ".slot-spacing.CENTER",
+      "https://t.rdsv1.net/ls/click?upn=QJHDLu6c7joILAshEaWRB5nJC51MJXm-2FQPPxULVOU4OA8PEMSol4bCrWJITJNhVNtBHxbQoltxdN6ciDT6ZdI8DL5RjeMvGn2joXvwqSWv-2FcCZZ5nZzjdpzQqryhYLBn5rd9Y1A-2B4u7DoUvicvwPzaN4np7cgQ6hBlFFfI3qHa9PICeHgB9dUWdGo8xiWthns8Pv_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpS-2FgBIi0kCscqQ2eF5uxf7eBclKL-2FG-2Fk-2BSQt4vyKY64-2BVSo3yfJaLwM-2BtuNxIscN0f9YCkG7zabGkMATkBenL-2FQkWxx5NgM4rMRJq5OxlGN40IYJmq5Mf-2FCIKO5BAx2UpRiaQ4ohqO45jtE5mZCg8PNM-2FZtBwzrKLM5s3lS-2FgU9dfRlVYS19qq-2B60kVJG1wrAYzzdoHQGuqVRy9txac4VVroOEfdwo6y1JAMLy7tw6fY2HFzV0gd5h8qGljrm-2BJka2LNoIKYSHH-2BRvrl7dtzsOHdkM6q7x3mC777aQbF4eF2vuyp5nut8NVvQuC85gy-2F8MrDH7mfNgyInJ5mOMqXIiysZX97Zmw3rJf-2FvTKaLx-2BXNHhMfodHWPWQcUnJZ5b7XOAlV0hLO6nmW9tsGaiv6T3y38qEZUe09DxxdQ7KxvA94XfeuxbF9KA3BgOd-2B7bkDv16Q5kHE9z1FFqSPKbu4UvXbJoxa8ywFL-2FXDeeTSxbA-2B1R-2B1zYzkiTcCJdS-2B7zjJLTwk12IYrM4JUnGhovCpHL0akjA6TVJkqguTvWgFTPDfy56CHjhBNgpMCi5Zq6pB",
+      "https://t.rdsv1.net/ls/click?upn=vmZSPIdvJlJEjv0U0GmezzhgBNOgVLg9sDeuRDN5ukBu2XdEKKTNqn-2BTffRkm6Cq-2Fstx0tlloil59vERVMvbfAymjNnGqOwZeyqzM8a5b4w-3D56NZ_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpS-2FgBIi0kCscqQ2eF5uxf7eBclKL-2FG-2Fk-2BSQt4vyKY64-2BVSo3yfJaLwM-2BtuNxIscN0f9YCkG7zabGkMATkBenL-2FQkWxx5NgM4rMRJq5OxlGN40IYJmq5Mf-2FCIKO5BAx2UpRiaQ4ohqO45jtE5mZCg8PNM-2FZtBwzrKLM5s3lS-2FgU9dfRlVYS19qq-2B60kVJG1wrAYzzdoHQGuqVRy9txac4VVroOEfdwo6y1JAMLy7tw6fY2HFzV0gd5h8qGljrm-2BJka2LNoIKYSHH-2BRvrl7dtzsOHdkM6q7x3mC777aQbF4eF2vuyp5nut8NVvQuC85gy-2F8MrDH7mfNgyInJ5mOMqXIiysZX97Zmw3rJf-2FvTKaLx-2BXNHhMfodHWPWQcUnJZ5b7XOAlV0hLO6nmW9tsGaiv6T3y38qEZUe09DxxdQ7KxvA-2BZXcTfm9N-2Bpyjzpo-2F2XqxRDQCQsgGoNj-2FFc8gi91bML3gjpXMDcS1SrwstznC7GaGJT4VGMnSpIxULDYVNLdocbB-2FVwyVPIaGylWXcF-2BF8R35pk3lxZ8Yk6OFh48q6Q6b5t4d8wjNsTmDynbC8EkU0",
+      "img.not-resized",
+      "https://t.rdsv1.net/ls/click?upn=QJHDLu6c7joILAshEaWRB5nJC51MJXm-2FQPPxULVOU4OA8PEMSol4bCrWJITJNhVNtBHxbQoltxdN6ciDT6ZdI8DL5RjeMvGn2joXvwqSWv-2FcCZZ5nZzjdpzQqryhYLBn5rd9Y1A-2B4u7DoUvicvwPzaN4np7cgQ6hBlFFfI3qHa9PICeHgB9dUWdGo8xiWthnhF6z_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpS-2FgBIi0kCscqQ2eF5uxf7eBclKL-2FG-2Fk-2BSQt4vyKY64-2BVSo3yfJaLwM-2BtuNxIscN0f9YCkG7zabGkMATkBenL-2FQkWxx5NgM4rMRJq5OxlGN40IYJmq5Mf-2FCIKO5BAx2UpRiaQ4ohqO45jtE5mZCg8PNM-2FZtBwzrKLM5s3lS-2FgU9dfRlVYS19qq-2B60kVJG1wrAYzzdoHQGuqVRy9txac4VVroOEfdwo6y1JAMLy7tw6fY2HFzV0gd5h8qGljrm-2BJka2LNoIKYSHH-2BRvrl7dtzsOHdkM6q7x3mC777aQbF4eF2vuyp5nut8NVvQuC85gy-2F8MrDH7mfNgyInJ5mOMqXIiysZX97Zmw3rJf-2FvTKaLx-2BXNHhMfodHWPWQcUnJZ5b7XOAlV0hLO6nmW9tsGaiv6T3y38qEZUe09DxxdQ7KxvA9FTdsPuzr9PyrFOVVIkcXh0D2wg9hnVO9naGuL-2FdQS7HmsxzRoBmKt5SmK6odrtC9EH9PkGxFf6eTwmD86JPk0DmVNSJUDsmy6ypiK0nWc4LoS7olg8yBhhq2Ybr1-2BYQ2z7E9y80O8b2Z1cS6NeIqB",
+      "http://www.w3.org/1999/xhtml",
+      "https://moosendimages.imgix.net/62803dee-385e-30d1-854a-c1ebfb7dac77/44776b9148ba4946a47406a622962918/bbnnbbnn.jpg?auto=format%2Ccompress&amp;dpr=1&amp;fit=clip&amp;ixjsv=2.2.4&amp;w=508",
+      ".slot.FULL",
+      "https://cdn.designer-images.net/62803dee-385e-30d1-854a-c1ebfb7dac77/44776b9148ba4946a47406a622962918/bbnnbbnn.jpg",
+      ".slot.ONE_FOURTH",
+      ".slot.TWO_THIRDS",
+      "https://t.rdsv1.net/ls/click?upn=vmZSPIdvJlJEjv0U0GmezzhgBNOgVLg9sDeuRDN5ukD7iD-2BC6wItpoab0w8mupO6J-2Frw1fZgPLQFZN5ff5Iwzct0hGMAfg55u4ANYA1KY-2FLdxHxjrFcoEbqNtMlt63iM1m7z_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOzEdxpPZTG3-2FcbtSAK-2BaUclKhX3UXigAovFtamcPLixidlDIa9dezstz6DOOZsPHpS-2FgBIi0kCscqQ2eF5uxf7eBclKL-2FG-2Fk-2BSQt4vyKY64-2BVSo3yfJaLwM-2BtuNxIscN0f9YCkG7zabGkMATkBenL-2FQkWxx5NgM4rMRJq5OxlGN40IYJmq5Mf-2FCIKO5BAx2UpRiaQ4ohqO45jtE5mZCg8PNM-2FZtBwzrKLM5s3lS-2FgU9dfRlVYS19qq-2B60kVJG1wrAYzzdoHQGuqVRy9txac4VVroOEfdwo6y1JAMLy7tw6fY2HFzV0gd5h8qGljrm-2BJka2LNoIKYSHH-2BRvrl7dtzsOHdkM6q7x3mC777aQbF4eF2vuyp5nut8NVvQuC85gy-2F8MrDH7mfNgyInJ5mOMqXIiysZX97Zmw3rJf-2FvTKaLx-2BXNHhMfodHWPWQcUnJZ5b7XOAlV0hLO6nmW9tsGaiv6T3y38qEZUe09DxxdQ7KxvA-2BFO-2Fusvwr8IdLFtEBdDDz3kG4XErWRGwfptid4OhdTlKNMCJkjhuuABaRRQEZOZJ8eQHYPs-2FnHYs4-2BqoXW74VMUj67Qh9gOfoTG0JeEpG2eTatBkQZlCVr-2BY5GujbdXA72zOlh-2Bp5Sp3Mow5tp5qlI",
+      "https://t.rdsv1.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7s6SIf2h0P4-2FKGRVnol28cj6O9eqqTNPW6iN8bJPBTmz4cLUE2hKuC2-2FfjKpN0k5y5wu3Oj9o00STqpRsUbNia8iqfhShmiCWzo-2Bz2sPAbXAfQfQzefMktG2GWg46La7nXkNgXnffxauKjqpBP1gAWRIYZ7NrLTm837wsfxUXYIaAUpJ3ijFKnnQUkV9jbcaTG8CpsvRp-2F1yExiA5rwqBdwnvALxWZJETX1NsyklhEMFj4uZUvdMDXjIVH8WalOPHgAoyzxqkXW1jG8l5M9IbnRWL6iPlR2UBeScJlIGrXWIHogERulJmDlK6B7fhJuqu06UdLt-2BxryP1lbCzo-2FcHqD67uVRyXy-2FUJb9F-2FWLjHAMNBIwAYzFAN71kJb92yH5Z9FEYZog1Cl5yYEDpzdJwkQYtQb6H4YanNumo5NsD4jiaxJ4Loipef4-2FDVymELgLm-2BSNt4KUME1lvrvVYm39vFraiuLtqUqRxOTHUksCGdSi0c08A978oIVxErs1IeoGFrTDOKhqPtDhkanbqjKKvwFmCaAx-2FMjQ2k3hS7BxhwZBIcS87K-2B8VUB7oGP5qjLc2MlWXNTqb-2Fih76xCMI1ufh5c6S3ONSLQysw-2Bsj62v8FJ8A0MP2u-2F-2BhxZZ5JgpUzGbD",
+      ".component.text-component"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1580,
+    "html_length": 28068,
+    "has_text": true,
+    "has_html": true
+  }
+}

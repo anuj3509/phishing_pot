@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "💗 De buurvrouw kan je hier ook vinden",
+    "from": "Eske Volkers <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Sat, 03 Dec 2022 10:09:21 +0000",
+    "message_id": "\r\n <c1ca0020-7eff-4dc9-b593-b799d39c20a6@AM7EUR03FT047.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://secure-trck.com/?a=72&amp;c=100&amp;s1=&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 783,
+    "html_length": 1623,
+    "has_text": true,
+    "has_html": true
+  }
+}

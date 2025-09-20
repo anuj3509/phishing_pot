@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Infoemail Cliente - Informar que seus pontos do programa de b��nus do Livelo ir�� expirar.",
+    "from": "sac@infobradesco.com.br",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Dec 2022 10:23:09 +0000 (UTC)",
+    "message_id": "<20221227102309.8D7863FE57@ubuntu-s-1vcpu-1gb-intel-syd1-09>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tinypic.host/images/2022/11/17/bradesco-logo.png",
+      "https://atendimento.gustavofaltionplus.online/",
+      "https://imagizer.imageshack.com/img922/5931/nnjcjZ.png",
+      "hotmail.com",
+      "https://imagizer.imageshack.com/img923/2600/HF2T1B.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1148,
+    "html_length": 27048,
+    "has_text": true,
+    "has_html": true
+  }
+}

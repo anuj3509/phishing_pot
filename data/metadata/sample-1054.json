@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Rodrigo temos uma proposta exclusiva esperando você",
+    "from": "\"Proposta Planos Amil\" <marlene@cp.e-compareplanossaude.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 1 Aug 2023 05:16:46 -0300",
+    "message_id": "<20230801081649.73c7542bb12c6735@cp.e-compareplanossaude.com>",
+    "content_type": "Multipart/alternative; boundary=\"01220585_3B4BCF95_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"01220585_3B4BCF95_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://go.compareplanossaude.com/zd-d/oimg.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831",
+      "https://go.compareplanossaude.com/zd-d/lnk.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313831",
+      "cp.e-compareplanossaude.com?subject=tirar%20email&amp;body=excluir"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 314,
+    "html_length": 1946,
+    "has_text": true,
+    "has_html": true
+  }
+}

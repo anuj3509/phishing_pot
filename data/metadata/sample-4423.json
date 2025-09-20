@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "[Kraken] It's important to review the latest terms",
+    "from": "Kraken <daniela.zurova@wiama.cz>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Nov 2024 12:28:07 -0800",
+    "message_id": "<RFDKESP4POU4.NCKOFPGWLUFJ3@wiama.cz>",
+    "content_type": "multipart/alternative; boundary=\"=-Ido2TZfoSDQH9kWTcJ51jw==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-Ido2TZfoSDQH9kWTcJ51jw==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://unsubscribe.kraken.com",
+      "https://www.kraken.com/favicon.ico",
+      "https://dalfoam.co.zw",
+      "https://support.kraken.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 523,
+    "html_length": 3509,
+    "has_text": true,
+    "has_html": true
+  }
+}

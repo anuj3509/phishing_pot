@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "For your convenience, all medications can be purchased without a prescription at our store.",
+    "from": "\"🌟 Viagra|Cialis-0,36$|0,54$\" <contact@fugarwetribe.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 23 Jun 2025 15:30:03 +0300",
+    "message_id": "<9BD2DD12.4F3DC71B@fugarwetribe.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.automac.it/f.html",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=Yes,I",
+      ".button.secondary",
+      "ex.pharmacy.online.store@gmail.com?subject=No&amp;body=No,",
+      "ex.pharmacy.online@gmail.com?subject=Yes&body=Yes,I",
+      "http://www.w3.org/1999/xhtml",
+      ".button.danger",
+      "ex.pharmacy.online.store@gmail.com?subject=No&body=No,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3588,
+    "html_length": 10850,
+    "has_text": true,
+    "has_html": true
+  }
+}

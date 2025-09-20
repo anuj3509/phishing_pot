@@ -1,0 +1,67 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Reset Your Password Immediately
+From: Liam From Metamask TS <support@vvauc.zendesk.com>
+To: Rodrigo-f-p <phishing@pot>
+Date: Sat, 02 Dec 2023 11:21:37 +0000
+Message_Id: <VDK234NDYMR_656b134164c28_4939d043485db_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_656b134189522_4939d04348685";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_656b134189522_4939d04348685";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: immediate action required
+URLs found:
+  - http://schema.org/ViewAction
+  - https://captur3dhelp.zendesk.com/images/2016/default-avatar-80.png
+  - metamask.zendesk.com
+  - http://schema.org/EmailMessage
+  - https://www.bing.com/ck/a?!&amp;&amp;p=91e4f636738aa80eJmltdHM9MTcwMTQ3NTIwMCZpZ3VpZD0wYTBhZDNkMC0wZmQ2LTZmM2QtMTM2Ni1jMDA1MGU5MDZlYzAmaW5zaWQ9NTEzMg&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=0a0ad3d0-0fd6-6f3d-1366-c0050e906ec0&amp;psq=site%3a+nebbiashop.co.il&amp;u=a1aHR0cHM6Ly9uZWJiaWFzaG9wLmNvLmlsL3Nob3Av&amp;ntb=1
+  - https://vvauc.zendesk.com/hc/requests/177949
+
+DECODED TEXT CONTENT:
+------------------------------
+----------------------------------------------
+
+Rodrigo-f-p, Dec 2, 2023, 22:21 GMT+11
+
+Dear Valued Customer,
+
+We are contacting you from Meta Support due to a critical security concern regarding your Wallet. Our system has detected an unusual login attempt from an unrecognized IP address, specifically 87.21.58.55, using an Android device. This could potentially indicate unauthorized access to your account.
+
+**Immediate Action Required:** To secure your assets and account, it is imperative that you reset your MetaMask wallet password without delay. Please use the following secure link to proceed with the reset: **Reset Password Link**
+
+**Do Not Delay:** Please note, ignoring this notification can put your wallet and assets at significant risk. It is essential to act promptly to safeguard your account.
+
+Thank you for your immediate attention to this matter.
+
+Sincerely,
+
+The MetaMask Support Team support@metamask.zendesk.com
+
+
+
+
+
+
+
+
+
+[VDK234-NDYMR]
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body><p dir="ltr"></p><div style="margin-top: 25px" data-version="2"><table width="100%" cellpadding="0" cellspacing="0" border="0" role="presentation">  <tbody><tr>    <td width="100%" style="padding: 15px 0; border-top: 1px dotted #c5c5c5;">      <table width="100%" cellpadding="0" cellspacing="0" border="0" style="table-layout:fixed;" role="presentation">        <tbody><tr>                      <td valign="top" style="padding: 0 15px 0 15px; width: 40px;">              <img width="40" height="40" alt="" style="height: auto; line-height: 100%; outline: none; text-decoration: none; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;" src="https://captur3dhelp.zendesk.com/images/2016/default-avatar-80.png">            </td>                    <td width="100%" style="padding: 0; margin: 0;" valign="top">            <p style="font-family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 15px; line-height: 18px; margin-bottom: 0; margin-top: 0; padding: 0; color:#1b1d1e;" dir="ltr">                              <strong>Rodrigo-f-p</strong>                          </p>            <p style="font-family:'Lucida Grande','Lucida Sans Unicode','Lucida Sans',Verdana,Tahoma,sans-serif; font-size: 13px; line-height: 25px; margin-bottom: 15px; margin-top: 0; padding: 0; color:#bbbbbb;" dir="ltr">              Dec 2, 2023, 22:21 GMT+11            </p>                                    <div class="zd-comment" dir="auto" style="color: #2b2e2f; line-height: 22px; margin: 15px 0"><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr">Dear Valued Customer,</p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr">We are contacting you from Meta Support due to a critical security concern regarding your Wallet. Our system has detected an unusual login attempt from an unrecognized IP address, specifically 87.21.58.55, using an Android device. This could potentially indicate unauthorized access to your account.</p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr"><strong>Immediate Action Required:</strong> To secure your assets and account, it is imperative that you reset your MetaMask wallet password without delay. Please use the following secure link to proceed with the reset: <strong><a href="https://www.bing.com/ck/a?!&amp;&amp;p=91e4f636738aa80eJmltdHM9MTcwMTQ3NTIwMCZpZ3VpZD0wYTBhZDNkMC0wZmQ2LTZmM2QtMTM2Ni1jMDA1MGU5MDZlYzAmaW5zaWQ9NTEzMg&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=0a0ad3d0-0fd6-6f3d-1366-c0050e906ec0&amp;psq=site%3a+nebbiashop.co.il&amp;u=a1aHR0cHM6Ly9uZWJiaWFzaG9wLmNvLmlsL3Nob3Av&amp;ntb=1" rel="noreferrer">Reset Password Link</a></strong></p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr"><strong>Do Not Delay:</strong> Please note, ignoring this notification can put your wallet and assets at significant risk. It is essential to act promptly to safeguard your account.</p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr">Thank you for your immediate attention to this matter.</p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr">Sincerely,</p><p style="color: #2b2e2f; line-height: 22px; margin: 15px 0" dir="ltr">The MetaMask Support Team <a href="mailto:support@metamask.zendesk.com" rel="noreferrer">support@metamask.zendesk.com</a></p></div><p dir="ltr">                      </p></td>        </tr>      </tbody></table>    </td>  </tr></tbody></table></div><span style="color:#FFFFFF" aria-hidden="true">[VDK234-NDYMR]</span><div itemscope="" itemtype="http://schema.org/EmailMessage" style="display:none">  <div itemprop="action" itemscope="" itemtype="http://schema.org/ViewAction">    <link itemprop="url" href="https://vvauc.zendesk.com/hc/requests/177949">    <meta itemprop="name" content="View ticket">  </div></div></body></html>

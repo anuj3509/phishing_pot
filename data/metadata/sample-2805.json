@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Nespresso.",
+    "from": "Nespresso, <info@ml.femmeactuelle-news.fr>",
+    "to": "phishing@pot",
+    "date": "Thu, 01 Feb 2024 18:58:39 +0100",
+    "message_id": "<rStKzWF.0.0.rStKzWF.9.rStKzWF@ml.tv-news.fr>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/05/3fhy.png",
+      "http://theowensfamily.info/Yk5Na2paME1YYXRGUE9GMWhJNVM1c3F0V0IyYkt6bVNlVVhEb0tJS1dNV2VvSnhRQzNkVENYVmo5ZHQxemlINTMyc0dpU3JtdGVnRUZIZmcyZWl1ZGc9PQ__",
+      "https://fair-forward1.com/?a=6073&amp;oc=20065&amp;c=54236&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/02/cl4q.png",
+      "http://theowensfamily.info/amJzT2hyTnRValo4a3NPNC90K1Q0cW5uWmkycXJzRmI4a0hYaExYbWZ3WS9GclZzdEJYTTVqRUl3NThKQTM2VmRiYmRhQSs0Mi8rR0hqbEdaSmFjdWc9PQ__",
+      "https://www.zupimages.net/up/24/02/cl4q.png",
+      "bgasdfasdfa.jpg",
+      "www.zupimages.net/up/24/05/3fhy.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5150,
+    "html_length": 12337,
+    "has_text": true,
+    "has_html": true
+  }
+}

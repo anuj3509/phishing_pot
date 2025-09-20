@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Bereisen Sie die Welt mit Zuversicht",
+    "from": "Enence, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Sep 2023 17:50:56 +0200",
+    "message_id": "\r\n <d164fcf5-14f2-436a-be65-25f846fecc9d@BN8NAM04FT045.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/op/49_md/2010/4/24/4/383653",
+      "http://easilett.com/media/d279bf3bec1494c.jpg",
+      "a.mcnButton{",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/cl/49_md/2010/4/24/4/383653",
+      "http://easilett.com/oop/49_md/2010/4/24/4/383653",
+      "http://easilett.com/media/353cf8004aeb7c5.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14465,
+    "html_length": 31787,
+    "has_text": true,
+    "has_html": true
+  }
+}

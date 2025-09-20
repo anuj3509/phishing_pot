@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich. ",
+    "from": "Fressnapf Gutschein, Office <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Oct 2023 19:06:54 +0000",
+    "message_id": "\r\n <79717360-8931-402f-8ff5-ddd2bdbd10d8@DB8EUR05FT041.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://kiteforfriends.eu/op/2356_md/4049/25277/1147/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/s51dc65s16d1c6s51dc6s1d651s5dc151c51d5c15dc1c.html#oop/2356_md/4049/25277/1147/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/freesnapf-header.jpg",
+      "https://sf22.sendsfx.com/admin/temp/user/2/freesnapf-header.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/s51dc65s16d1c6s51dc6s1d651s5dc151c51d5c15dc1c.html#cl/2356_md/4049/25277/1147/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1771,
+    "html_length": 9026,
+    "has_text": true,
+    "has_html": true
+  }
+}

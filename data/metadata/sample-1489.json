@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Emissao - 05/10/2023 17:34",
+    "from": "\"Nota Emitida - 813704788758188 \" <macciondonaldo@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 05 Oct 2023 13:34:16 -0700 (PDT)",
+    "message_id": "<651f1dc8.170a0220.15045.780d@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_1854_fd148378-c05b-4794-8c4a-7d3289028b49"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_1854_fd148378-c05b-4794-8c4a-7d3289028b49"
+  },
+  "attachments": [
+    {
+      "filename": "MIOoXvzids.pdf",
+      "content_type": "application/octet-stream",
+      "size": 83011
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 128,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

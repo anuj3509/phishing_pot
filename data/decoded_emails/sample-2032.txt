@@ -1,0 +1,42 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Notificação ao cliente - iDWKZM2On1v
+From: "(BB - Valores a Receber) - 567213892811406" <plop23203@gmail.com>
+To: <phishing@pot>
+Date: Sat, 25 Nov 2023 21:11:22 +0000
+Message_Id: <f8ec71d9155b99384e836b0331c110d9@gmail.com>
+Content_Type: multipart/mixed;
+	boundary="aa0b90447ac970480086c060000aa531"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="aa0b90447ac970480086c060000aa531"
+
+ATTACHMENTS:
+--------------------
+- Valores_a_Receber_2023_3e9gjEhiz2JM2433.pdf (application/pdf, 65477 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+
+DECODED TEXT CONTENT:
+------------------------------
+____________________________________________
+Valores a Receber - Protocolo: 212856673395
+CYNTHIA TIEMI SUZUKI saldo a rerceber junto a Receita Federal
+Mais informa&ccedil;&otilde;es em anexo | Senha PDF: 123
+__________________________________________________
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p style="text-align: center;">____________________________________________</p>
+<p style="text-align: center;">Valores a Receber - Protocolo: 212856673395</p>
+<p style="text-align: center;">CYNTHIA TIEMI SUZUKI saldo a rerceber junto a Receita Federal</p>
+<p style="text-align: center;">Mais informações em <b>anexo</b> | Senha PDF: <b>123</b></p>
+<p style="text-align: center;">__________________________________________________</p>

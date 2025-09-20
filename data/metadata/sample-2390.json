@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "your parcel has been shipment",
+    "from": "<Confirnation@skyfon-varna.eu-NEW>",
+    "to": "phishing@pot",
+    "date": "Fri, 22 Dec 2023 19:17:28 +0000 (UTC)",
+    "message_id": "<20231222191729.0000290573@skyfon-varna.eu-NEW>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://skyfon-varna.eu/anti/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 426,
+    "html_length": 1663,
+    "has_text": true,
+    "has_html": true
+  }
+}

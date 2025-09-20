@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "F��r ADAC-Kunden gibt es jetzt etwas ganz Besonderes! ",
+    "from": "Message from ADAC, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Dec 2024 18:01:51 +0000",
+    "message_id": "<m2ZNONV.0.0.m2ZNONV.9.m2ZNONV@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://limecastle.co.uk/RllrYVNzeVM2WHRhclE0RUx5Q2NVT09BRGw4QSt4alM0NlQ1TC9pYlY5V2xtQUxreXlsTURhU1BIWTBLaTRCRWx3T0JXNkF0S25aVE11ay8rSk9ra1pROVFDTzVUUXNCcGF6MTkwNG5DOTA9",
+      "https://salesales1.com/?a=8096&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "http://limecastle.co.uk/eVpsanpYMjYxb2hRdnExdHh0VDdOS0N6NEJDMzc4WnpzNnVsQWJvRjd5eVRkNGQySjhhYlRKMXJzbWtCRHY1Umh6YzlKODFjU2tTM2FTZlVaNlZUWDcwdm16dWxvTWF2ZUZYeUlDK0hEMjA9",
+      "www.zupimages.net/up/24/43/xfm3.png",
+      "https://www.zupimages.net/up/24/43/xfm3.png",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/37/y0fz.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5178,
+    "html_length": 12841,
+    "has_text": true,
+    "has_html": true
+  }
+}

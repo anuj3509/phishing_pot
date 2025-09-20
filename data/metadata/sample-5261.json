@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Dringende Warnung: phishing@pot, Ihr Total AV-Abonnement muss erneuert werden!",
+    "from": "\"Total AV\" <info@markettodaybe.de>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 30 Mar 2025 21:17:42 +0000",
+    "message_id": "<ZQ5ILqJU5ALqzUsguiqOxyFxSU@markettodaybe.de>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.l-iz.de/vpn/wp-content/uploads/2023/03/total-av.png",
+      "https://t.co/l5GeWWEZOK",
+      "https://t.co/xVtf46rWMf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1108,
+    "html_length": 7950,
+    "has_text": true,
+    "has_html": true
+  }
+}

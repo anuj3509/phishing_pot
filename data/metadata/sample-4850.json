@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "My Dear Beloved Friend,",
+    "from": "Jose Antonio <joseantonio8463@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 17 Feb 2025 20:47:49 +0200",
+    "message_id": "<CAGhE10rq_De=s3W9Xs50cWhCW-BTJkQ6x5vsZAzzY6D7ogTjNw@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000000efda4062e5af79b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000000efda4062e5af79b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2018,
+    "html_length": 5213,
+    "has_text": true,
+    "has_html": true
+  }
+}

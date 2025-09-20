@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Expira hoje o prazo para o resgate de seus pontos. ",
+    "from": "Bradesco <Livelo@localhost.members.linode.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 24 Mar 2023 10:12:05 +0000 (UTC)",
+    "message_id": "<20230324101205.14C5120E0A@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imgs.via.com.br/55050394/2g.jpg?imwidth=292",
+      "https://images-americanas.b2w.io/produtos/01/00/img/4645251/4/4645251413G1.jpg",
+      "https://a-static.mlcdn.com.br/1500x1500/smart-tv-55-4k-qled-samsung-55q70a-wi-fi-som-em-movimento-virtual-processador-ia-hdr/magazineluiza/193442900/c51c2dbddd1415bde1de083989428c86.jpg",
+      "https://www.bradesco.com.br/livelo/resgatar/Samsung-Galaxy-S22",
+      "https://www.bradesco.com.br/livelo/resgatar/Apple-iPhone-14-Pro-Max",
+      "https://images-americanas.b2w.io/produtos/01/00/img/5881867/0/5881867050_1SZ.jpg",
+      "https://haryxt-gaucz45evq-wn.a.run.app/?hash={rodrigo-f-p@hotmail.com",
+      "https://www.bradesco.com.br/livelo/resgatar/Geladeira-LG-Side",
+      "https://www.bradesco.com.br/livelo/resgatar/Smart-TV-55",
+      "https://www.bradesco.com.br/livelo/resgatar/1.279.352pts"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1285,
+    "html_length": 16049,
+    "has_text": true,
+    "has_html": true
+  }
+}

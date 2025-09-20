@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Re: Quote/package/proposal.",
+    "from": "\"David\" <davidytcanctemarry@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 8 Sep 2023 11:35:21 +0530",
+    "message_id": "<02ee01d9e21a$9beb5aa0$d3c20fe0$@gmail.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_02EF_01D9E248.B5A5B980\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_02EF_01D9E248.B5A5B980\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "span.MsoHyperlinkFollowed",
+      "p.xmsonormal,",
+      "li.yiv9059565770msonormal,",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "div.yiv9059565770msonormal",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "li.xmsonormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "p.yiv9059565770msonormal,",
+      "http://www.w3.org/TR/REC-html40",
+      "div.xmsonormal"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 592,
+    "html_length": 6796,
+    "has_text": true,
+    "has_html": true
+  }
+}

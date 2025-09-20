@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "ENC: D.I.Y. 10-Second Carb Ritual Strips Away Fat",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:03:39 +0000",
+    "message_id": "\r\n <SA0PR04MB7370AF8AB2DFDC76884C7E78B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370AF8AB2DFDC76884C7E78B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370AF8AB2DFDC76884C7E78B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://go.sv/QDzQyA",
+      "rKEhoIySW.com",
+      "rKEhoIySW.com&gt;",
+      "....Without",
+      "...Even"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1098,
+    "html_length": 1942,
+    "has_text": true,
+    "has_html": true
+  }
+}

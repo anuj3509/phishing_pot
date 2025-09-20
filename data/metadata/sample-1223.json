@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "USDT Withdrawal Request Received",
+    "from": "Coinbase <sobrit@calompisa.pietraridambovita.ro>",
+    "to": "phishing@zinnlegal.com, virtualcurrency-gemini-confirmation@madicetea.me,\r\n  phishing@runbox.com",
+    "date": "Sun, 6 Aug 2023 00:11:59 +0000",
+    "message_id": "<01000189c82fbd10-03831073-c480-42d4-b9ea-3b5e0c8b5c8f-000000@email.amazonses.com>",
+    "content_type": "multipart/mixed;boundary=---------------------650fce852b1ab70cb04c628a43fca75c"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------650fce852b1ab70cb04c628a43fca75c"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "http://yeraquot.com/white.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://yedyda.com/",
+      "https://fonts.googleapis.com/css?family=Montserrat:400,400i,700,700i|Source+Sans+Pro:400,400i,700,700i|Merriweather:400,400i,700,700i",
+      "https://cloud-api.schail.com/static/email/split-line.jpg);background-color:#0060f0;background-repeat:repeat-x;background-position:bottom"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4115,
+    "html_length": 8878,
+    "has_text": true,
+    "has_html": true
+  }
+}

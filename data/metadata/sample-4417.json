@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Verwarm je huis met een airco en bespaar flink!",
+    "from": "\"Mijnwooncomfort\" <airCo-Experts@aprimarse.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 19 Nov 2024 20:17:12 +0000",
+    "message_id": "<55_HTML-632855995-05254-6259770304-0274@ynPndE2j.xt.local>",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://click.sas.aprimarse.com/c3FVem9sVHF3QXJIdThTSVk0VHR5ZVNNN1pCWlp5WG9WR0R1QVF0aWZTWkRoNHZnS0hlbExJeVZpTVFoY2l1U3lkTGlIZHNGM0lGVUFIdkV0dzVCQVlFMmIzMDVnMHBjamFBbEN2SHM1ckE9",
+      "div.fullWidth",
+      "http://click.sas.aprimarse.com/Y2t2MjBKM1BFZG02M0VSZWJFNXB3YlhHNWxscFdJRGlxNmtTTjhKZFFaOGVYVnZGY29wcEFjOFE2R2x6SmNubWVLRjhBVGRONjBDM0N3d3RCWlN1b0E3Sy91aTYrb1lOL0VoM0NabEJ3STg9",
+      "http://click.sas.aprimarse.com/Z3pkYzgxVUZRVjl3MS9TUFo1Um9OUlVTV2lGL1o5UkZVRDh5TUdFdC9kUTJPZ0RaUWtRWCtXTlYxaEFSUWJ1VlpiVE5tdHNFM0J5Y3o2VnQ1Y2djOE80ZHRuWDNMQ0Z4MmFXT2F3SGx1WlE9",
+      "https://fonts.googleapis.com/css?family=Roboto",
+      "https://click.sas.aprimarse.com/airco-Zonnepanelen-nieuwe-afbeelding.png",
+      "click.sas.aprimarse.com/airco-Zonnepanelen-nieuwe-afbeelding.png",
+      "MijnWooncomfort.nl",
+      "click.sas.aprimarse.com/debf421677b2621.jpg",
+      "https://click.sas.aprimarse.com/debf421677b2621.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1576,
+    "html_length": 14920,
+    "has_text": true,
+    "has_html": true
+  }
+}

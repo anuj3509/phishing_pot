@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Sophia versucht, Sie zu kontaktieren",
+    "from": "Dating-Experte,(<noreply@team.mobile.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Sep 2024 16:06:05 +0000",
+    "message_id": "<AGTXTBUMIWTPGQ8AU9KYO1L@dhl.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "div.kl-row.colstack",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6Hanxx34010PWHX971kyjzelnwrk14302YJPARYCRHHKWKFO2KWRJ6277G10",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4UPawo34010nkRN971dmnsaqeram14302VWUAYCZIDMRESUC2LVQD6277F10",
+      ".table-mobile-only.block",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5IipUQ34010iovh971ozgzhaeqjq14302UIITBUQJUFGHACT2JUHM6277Y10",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4bMJFm34010jeJC971nhgdsiauss14302NAVSPDCFWOFEIEF2QDEI6277W10",
+      "https://sensiloedper.com/bizgstorage/DEGirl.png",
+      "sensiloedper.com/bizgstorage/DEGirl.png",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5227,
+    "html_length": 25552,
+    "has_text": true,
+    "has_html": true
+  }
+}

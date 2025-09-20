@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot  Feuer-Sicherheitsset Versandaktualisierung",
+    "from": "\"Allianz VIP-Einladung\" <Department-client-n27743@0nmicr0s0ft.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 4 Mar 2025 14:54:13 +0000",
+    "message_id": "<85e9c9ad-88ea-49cd-8065-d1ea8bedfdc8@PN2PEPF0000018F.INDPRD01.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "i.imgur.com/bSnz3cw.png",
+      "https://i.imgur.com/bSnz3cw.png",
+      "upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz.svg/2560px-Allianz.svg.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Allianz.svg/2560px-Allianz.svg.png",
+      "https://urly.fi/3LWX?hUmLIMLh957DWycail9XB9477GldtW0M7jtKAuH1ahjXDHCH4Ljd59pdyUTcCtHv0m0rKwR8acfv3AcZhSH4qx",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imgur.com/AFizkbn.jpeg",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7165,
+    "html_length": 22123,
+    "has_text": true,
+    "has_html": true
+  }
+}

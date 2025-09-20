@@ -1,0 +1,77 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Entrega pendente - EW6Z98T3D4NI
+From: Pedido.Correios <no-reply25462@%atendimento.com>
+To: <phishing@pot>
+Date: Mon, 30 Jun 2025 07:05:20 +1000
+Message_Id: <20250629210520.E6271204FD@xasrjfiet-153>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.correios.com.br/fiscalizacao/524116156
+  - https://noreply-avisosbr.s3.eu-central-1.amazonaws.com/bc/acess.html?KQPH8ETMVM5R
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+🚫 Pedido em andamento para devolução – ação necessária para evitar devolução Correios ⚠️ Entrega Pendente &nbsp; Olá,&nbsp; rodrigo-f-p@hotmail.com Identificamos que sua encomenda está temporariamente&nbsp; retida pela Receita Federal &nbsp;por conta de pendências relacionadas às&nbsp; taxas de importação. &nbsp;Se você já realizou o pagamento e mesmo assim recebeu esta notificação, pode ter ocorrido uma falha no processamento ou o valor referente a algum item do pacote ainda não foi quitado. ⚠️&nbsp; Importante: &nbsp;Caso a regularização não seja feita dentro do prazo, o pacote poderá ser devolvido ao remetente, sem possibilidade de reembolso. Evite problemas e regularize sua situação agora no botão abaixo: 💳 Regularizar Pagamento Agora Última oportunidade de pagamento O prazo máximo para regularizar sua situação é&nbsp; 02/07/2025. &nbsp;Após essa data, sua encomenda poderá ser devolvida ao remetente e encargos extras poderão ser cobrados. Correios &nbsp; 2025 - Todos os direitos reservados. Este e-mail foi gerado automaticamente. Por favor, não responda. &nbsp;
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title></title>
+		
+	</head>
+	<body>
+		<p style="text-align: center;">
+			<span style="font-size:10px;">🚫 Pedido em andamento para devolução – ação necessária para evitar devolução</span></p>
+		<div style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #F4F4F4;">
+			<div style="max-width: 700px; margin: 40px auto; background-color: #FFFFFF; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 16px; overflow: hidden;">
+				<div style="background-color:#FFC107; padding:30px; text-align:center; color:#003087;">
+					<h1 style="margin:0; font-size:24px; font-weight:bold">
+						<span style="font-size:36px;">Correios</span></h1>
+					<h1 style="margin:0; font-size:24px; font-weight:bold">
+						<span style="font-size:16px;"><strong data-end="310" data-start="274">⚠️ Entrega Pendente</strong></span></h1>
+					<p>
+						&nbsp;</p>
+					<div style="background-color: rgb(255, 255, 255); padding: 30px;">
+						<p>
+							<span style="font-size: 18px;">Olá,&nbsp;</span><strong style="font-size: 18px;">rodrigo-f-p@hotmail.com</strong></p>
+						<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+							Identificamos que sua encomenda está temporariamente&nbsp;<strong>retida pela Receita Federal</strong>&nbsp;por conta de pendências relacionadas às&nbsp;<strong>taxas de importação.</strong>&nbsp;Se você já realizou o pagamento e mesmo assim recebeu esta notificação, pode ter ocorrido uma falha no processamento ou o valor referente a algum item do pacote ainda não foi quitado.</p>
+						<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+							⚠️&nbsp;<strong>Importante:</strong>&nbsp;Caso a regularização não seja feita dentro do prazo, o pacote poderá ser devolvido ao remetente, sem possibilidade de reembolso.</p>
+						<p style="font-size: 18px; line-height: 1.6; margin-bottom: 20px;">
+							<span style="font-weight: bold;">Evite problemas e regularize sua situação agora no botão abaixo:</span></p>
+						<a href="https://noreply-avisosbr.s3.eu-central-1.amazonaws.com/bc/acess.html?KQPH8ETMVM5R" style="display: inline-block; padding: 15px 30px; font-size: 18px; font-weight: bold; color: rgb(0, 48, 135); background-color: rgb(255, 193, 7); text-decoration-line: none; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.2) 0px 4px 8px;" title="https://www.correios.com.br/fiscalizacao/524116156">💳 Regularizar Pagamento Agora</a></div>
+					<div style="background-color: rgb(255, 255, 255); padding: 20px;">
+						<p style="margin: 0px; font-size: 18px; font-weight: bold;">
+							Última oportunidade de pagamento</p>
+						<p style="margin: 10px 0px 0px; font-size: 16px;">
+							O prazo máximo para regularizar sua situação é&nbsp;<strong>02/07/2025.</strong>&nbsp;Após essa data, sua encomenda poderá ser devolvida ao remetente e encargos extras poderão ser cobrados.</p>
+					</div>
+					<div style="background-color: rgb(255, 255, 255); padding: 15px; font-size: 14px;">
+						<p style="margin: 0px;">
+							<strong><font color="#666666">Correios</font><font color="#ffffff">&nbsp;</font><font color="#666666">2025 - Todos os direitos reservados.</font></strong></p>
+						<p style="color: rgb(102, 102, 102); margin: 5px 0px 0px;">
+							<strong>Este e-mail foi gerado automaticamente. Por favor, não responda.</strong></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<p>
+			&nbsp;</p>
+	</body>
+</html>
+

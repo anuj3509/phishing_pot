@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Notificacao Emissao Nota Fiscal Eletronica",
+    "from": "NFSE@PEDERNEIRAS.SP.GOV.BR",
+    "to": "phishing@pot",
+    "date": "Sat, 28 Dec 2024 23:29:41 -0300 (-03)",
+    "message_id": "<20241229022941.03F0A8F5A65@sender02.sianet.net.br>",
+    "content_type": "multipart/mixed; boundary=\"a1b2c3d4e3f2g1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"a1b2c3d4e3f2g1\""
+  },
+  "attachments": [
+    {
+      "filename": "NOTA_375578.pdf",
+      "content_type": "application/pdf",
+      "size": 47413
+    },
+    {
+      "filename": "NOTA_375578.xml",
+      "content_type": "application/xml",
+      "size": 2358
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pederneiras.obaratec.com.br/ords/pmp/f?p=1173:116::EMITENOTA:NO:116:P116_CODE,P116_CODET,P116_KEY,P116_KEYT:3922250,2761491,2761491EUO71358I21E2,NXRLDZ2APPNZ7JOOIIJCTL6P7M5HINPZ",
+      "WWW.PEDERNEIRAS.SP.GOV.BR",
+      "farmaciazanqui.com.br",
+      "https://pederneiras.obaratec.com.",
+      "https://pederneiras.obaratec.com.br/ords/pmp/f?p=1816:70::::::"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 580,
+    "html_length": 1197,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Das ist leider das letzte Mal",
+    "from": "EDEKA-Gutschein, <angebote@newsletter.baur.de.>, EDEKA-Gutschein,\r\n\t<angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 03 Oct 2023 15:12:38 +0200",
+    "message_id": "<WnGg5x5.0.0.WnGg5x5.9.WnGg5x5@newsletter.baur.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://imgur.com/cXbMi2q.jpg",
+      "http://stabrino.info/cl/4051_md/1995/724/1444/222/428764",
+      "imgur.com/cXbMi2q.jpg",
+      "http://stabrino.info/oop/4051_md/1995/724/1444/222/428764",
+      "http://www.w3.org/1999/xhtml",
+      "http://stabrino.info/op/4051_md/1995/724/1444/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1877,
+    "html_length": 8832,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 35905523.",
+    "from": "Aviso Correios <infocorreios095394@alfandega>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Sep 2024 14:40:57 +0000",
+    "message_id": "<fe201f39b6e88ecd000a7685941a5e89@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_fe201f39b6e88ecd000a7685941a5e89\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_fe201f39b6e88ecd000a7685941a5e89\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://clientesrastreamentoalfandega.co.ua/rastreamento/taxas962",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3626,
+    "has_text": true,
+    "has_html": true
+  }
+}

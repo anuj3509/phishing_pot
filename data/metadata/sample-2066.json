@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "GET BACK TO ME NOW WITH YOU INFO,197.159.23.194",
+    "from": "\"Mr.A X\" <info@lee.com>",
+    "to": "Recipients <info@lee.com>",
+    "date": "Thu, 30 Nov 2023 01:18:40 +0100",
+    "message_id": "<20231130001837.E388543601B3@mta01.camwater.cm>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "safe.The",
+      "5.Swift",
+      "3.Bank",
+      "1.Account",
+      "day.It",
+      "2.Bank",
+      "gmail.com",
+      "payments.Also,due",
+      "10.Your",
+      "Mr.Jacobs",
+      "4.Home",
+      "Dumurrage.You",
+      "6.Your",
+      "7.Occupation..........",
+      "8.Age.................",
+      "M.Ajekigbe,the",
+      "Federation.As",
+      "payments.Be"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3215,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

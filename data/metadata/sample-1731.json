@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "2nd attempt for phishing@pot",
+    "from": "Costco    ,_<2gbf0@t63i2z7tgh.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Oct 2023 04:30:37 +0000",
+    "message_id": "\r\n <7c865bc0-7ec6-477d-8b4e-bd32902ba201@MW2NAM04FT024.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/66P2olthCB",
+      "http://dtherhproblem.us/su47370TJbIb27537896csuF1371191Cqj68007XePB3373",
+      "i.imgur.com/Zup1nzO.jpg",
+      "https://i.imgur.com/Zup1nzO.jpg",
+      "https://t.co/GaHRmWzy92"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 411,
+    "html_length": 8704,
+    "has_text": true,
+    "has_html": true
+  }
+}

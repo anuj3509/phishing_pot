@@ -1,0 +1,70 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Data Breach – Check Your Recovery Phrase
+From: Ledger Recovery <noreply@recovery.com>
+To: phishing@pot
+Date: Sun, 19 Jan 2025 14:53:52 +0000
+Message_Id: <20250119145352.607733919C907DBD@recovery.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - https://recovery-support.s3.eu-north-1.amazonaws.com/recovery.html
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Important: Verify Your Recovery Phrase Important: Verify Your Recovery Phrase Due to Data Breach Dear Customer, We regret to inform you that a recent data breach has affected our service. While your Ledger wallet remains secure, there is a possibility that recovery phrases (also known as &quot;seed phrases&quot;) linked to certain accounts may have been exposed in this breach. To ensure the safety of your assets, it is crucial that you verify the security of your recovery phrase using our secure verification tool. Steps to Protect Your Assets: Visit our official verification page. Follow the on-screen instructions to check your recovery phrase. If necessary, follow the steps provided to secure your wallet and prevent any further risk. If you have any questions or concerns, our support team is here to assist you. Click the button below to start the verification process: Verify My Recovery Phrase
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Important: Verify Your Recovery Phrase</title>
+	</head>
+	<body style="margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333333; line-height: 1.5;">
+		<div style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+			<div style="background-color: #000000; padding: 20px; text-align: center;">
+				<img alt="Ledger Logo" src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" style="width: 150px;" width="150" height="84">
+			</div>
+			<div style="padding: 0 25px; color: #333333;">
+				<h1 style="font-size: 24px; color: #333333;">Important: Verify Your Recovery Phrase Due to Data Breach</h1>
+				<p style="line-height: 1.6; margin: 15px 10px;">Dear Customer,</p>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					We regret to inform you that a recent data breach has affected our service. While your Ledger wallet remains secure, there is a possibility that recovery phrases (also known as &quot;seed phrases&quot;) linked to certain accounts may have been exposed in this breach.
+				</p>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					To ensure the safety of your assets, it is crucial that you verify the security of your recovery phrase using our secure verification tool. 
+				</p>
+				<h2 style="font-size: 20px; color: #333333;">Steps to Protect Your Assets:</h2>
+				<ol style="margin: 15px 10px; padding-left: 20px;">
+					<li style="margin-bottom: 10px;">Visit our official verification page.</li>
+					<li style="margin-bottom: 10px;">Follow the on-screen instructions to check your recovery phrase.</li>
+					<li style="margin-bottom: 10px;">If necessary, follow the steps provided to secure your wallet and prevent any further risk.</li>
+				</ol>
+				<p style="line-height: 1.6; margin: 15px 10px;">
+					If you have any questions or concerns, our support team is here to assist you. Click the button below to start the verification process:
+				</p>
+				<div style="text-align: center; margin: 25px 0;">
+					<a href="https://recovery-support.s3.eu-north-1.amazonaws.com/recovery.html" style="display: inline-block; background-color: #1c1e21; color: #ffffff; padding: 12px 24px; text-align: center; text-decoration: none; border-radius: 6px;">
+						Verify My Recovery Phrase
+					</a>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+

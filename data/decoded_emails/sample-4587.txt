@@ -1,0 +1,164 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Hi Dear phishing@pot , We have been trying many times to reach you - Please respond!  
+From: "State Farm"<admin@5stardivebar.com>
+To: phishing@pot
+Date: Fri, 20 Dec 2024 06:06:19 +0000
+Message_Id: <xvmupsxlzmpflrD_4oh713381501979131907270141320813243281293393437843537189421360993238337780711701548052668552132404047960319800333463611046787844898936462580085103486528991693167280683378625426864769.1.4EHMC926GU1JZ1C3DB6YL6phnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>
+Content_Type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: binary
+content_type: multipart/mixed;boundary="--_=_swift-QBMGOLV1CVLWARW_=_"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, expires, act now, expires soon
+URLs found:
+  - http://scoutly.online/t/track/3DWHjj6769lYPT247xqsxzmawqy143OSHHWNTWFIAAUGA62RLVA14355u18
+  - https://scoutly.online#5Jwgrk6769xOpW247qmwfimekhx143XJRZSACXHHMQOIA62INIE14355W18
+  - http://scoutly.online/t/4WhhJr6769ZGUU247vvfldoshsk143LVEKVOAIXMYBAUO62NFNS14355s18
+
+DECODED TEXT CONTENT:
+------------------------------
+Claim Your Exclusive Reward body { background-color: #ffffff; font-family: 'Arial', sans-serif; margin: 0; padding: 0; } .container { margin: 20px auto; max-width: 600px; width: 100%; border: 2px solid #d9534f; border-radius: 10px; overflow: hidden; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); } .header { background-color: #d9534f; color: #ffffff; font-size: 36px; padding: 20px; font-weight: bold; } .content { padding: 20px; color: #000000; line-height: 1.6; font-size: 18px; } .highlight { color: #d9534f; font-weight: bold; } .cta-btn { display: inline-block; margin: 20px auto; background-color: #d9534f; color: #ffffff; font-size: 20px; padding: 15px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; } .cta-btn:hover { background-color: #c12e2a; } .fine-print { margin: 15px 0; font-size: 14px; color: #808080; } .disclaimer { font-size: 12px; color: #a1a1a1; margin-top: 10px; } .tracking-img { display: none; } Exclusive Rewards Worth Over $50 ACT NOW! You���ve been selected to participate in our exclusive rewards program! Complete a short survey and unlock FREE rewards worth $50+ . Why You Shouldn't Wait: Rewards are limited and filling up fast. Survey takes less than 2 minutes to complete. Your opinion helps improve valuable services! Don't miss your chance to win! CLAIM YOUR REWARD NOW Offer expires soon. Supplies are extremely limited! This is a promotional email. State Farm is not affiliated with this advertisement. Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Your Exclusive Reward</title>
+    <style>
+        body {
+            background-color: #ffffff;
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            margin: 20px auto;
+            max-width: 600px;
+            width: 100%;
+            border: 2px solid #d9534f;
+            border-radius: 10px;
+            overflow: hidden;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .header {
+            background-color: #d9534f;
+            color: #ffffff;
+            font-size: 36px;
+            padding: 20px;
+            font-weight: bold;
+        }
+
+        .content {
+            padding: 20px;
+            color: #000000;
+            line-height: 1.6;
+            font-size: 18px;
+        }
+
+        .highlight {
+            color: #d9534f;
+            font-weight: bold;
+        }
+
+        .cta-btn {
+            display: inline-block;
+            margin: 20px auto;
+            background-color: #d9534f;
+            color: #ffffff;
+            font-size: 20px;
+            padding: 15px 30px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .cta-btn:hover {
+            background-color: #c12e2a;
+        }
+
+        .fine-print {
+            margin: 15px 0;
+            font-size: 14px;
+            color: #808080;
+        }
+
+        .disclaimer {
+            font-size: 12px;
+            color: #a1a1a1;
+            margin-top: 10px;
+        }
+
+        .tracking-img {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <a href="http://scoutly.online/t/4WhhJr6769ZGUU247vvfldoshsk143LVEKVOAIXMYBAUO62NFNS14355s18" style="text-decoration: none; color: inherit;">
+        <div class="container">
+            <div class="header">Exclusive Rewards Worth Over $50</div>
+            <div class="content">
+                <h1>ACT NOW!</h1>
+                <p>
+                    You���ve been selected to participate in our exclusive rewards program! Complete a short survey and unlock
+                    <span class="highlight">FREE rewards worth $50+</span>.
+                </p>
+                <p><strong>Why You Shouldn't Wait:</strong></p>
+                <ul style="text-align: left; margin: 0 auto; display: inline-block;">
+                    <li>Rewards are limited and filling up fast.</li>
+                    <li>Survey takes less than 2 minutes to complete.</li>
+                    <li>Your opinion helps improve valuable services!</li>
+                </ul>
+                <p class="highlight" style="margin-top: 15px;">Don't miss your chance to win!</p>
+                <div>
+                    <span class="cta-btn">CLAIM YOUR REWARD NOW</span>
+                </div>
+                <p class="fine-print">Offer expires soon. Supplies are extremely limited!</p>
+                <p class="disclaimer">
+                    This is a promotional email. <strong>State Farm</strong> is not affiliated with this advertisement.
+                </p>
+            </div>
+        </div>
+    </a>
+    
+
+</html>
+
+<br>
+<p style="text-align: center;"><a href="https://scoutly.online#5Jwgrk6769xOpW247qmwfimekhx143XJRZSACXHHMQOIA62INIE14355W18"><strong>Unsubscribe</strong></a></p>
+
+
+
+
+
+
+
+
+
+
+</div><br>
+<br><br><br><center>
+  </body>
+  <img src="http://scoutly.online/t/track/3DWHjj6769lYPT247xqsxzmawqy143OSHHWNTWFIAAUGA62RLVA14355u18" style="display:none;" />
+
+</html>
+
+

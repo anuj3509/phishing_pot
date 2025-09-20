@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "kette \"[your-subject]\"",
+    "from": "kette <wordpress@kette.jp>",
+    "to": "phishing@pot",
+    "date": "Fri, 11 Nov 2022 22:50:06 +0000",
+    "message_id": "<o1dAtVFgTC4pzTaXi78ymlZMKzO8bAzkOsqggnXvPPA@kette.jp>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://australia-news.fantasydax.com/news-4356",
+      "https://kette.jp)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 185,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

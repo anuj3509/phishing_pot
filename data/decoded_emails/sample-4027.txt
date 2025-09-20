@@ -1,0 +1,177 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Cotação de Produto/Serviço
+From: Juliana <lucas@val1458123k.emktlw-03.com>
+To: phishing@pot
+Date: Tue, 10 Sep 2024 04:03:45 -0300
+Message_Id: <0.6.0.3.1DB034F94063C86.8D12E@hm1720-emkt11-19.locaweb.com.br>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_66dfef4b6c73_1ffd63fc4da7738bc9116d";
+ charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="--==_mimepart_66dfef4b6c73_1ffd63fc4da7738bc9116d";
+ charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/1999/xhtml
+  - http://emailmarketing.locaweb.com.br/accounts/193959/unsubscribes/3/102135?emkt_c=1725862220&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=5
+  - https://emailmarketing.locaweb.com.br/accounts/193959/messages/3/clicks/102135/3?envelope_id=5
+  - Anexo5587.pdf
+  - https://img.icons8.com/?size=25&amp;id=E6YWCTmNEs3h&amp;format=png
+  - http://emailmarketing.locaweb.com.br/accounts/193959/messages/3/openings/102135?envelope_id=5
+
+DECODED TEXT CONTENT:
+------------------------------
+
+Estou interessada em adquirir alguns dos seus produtos e serviços listados no PDF em Anexo5587.pdf
+Anexo5587.pdf
+Agradeceria se pudesse nos enviar o orçamento o mais breve possível.
+Desde já, agradeço pela atenção e fico no aguardo do seu retorno.
+Atenciosamente,
+Juliana Correia de Souza Negocios Imobiliarios
+CNPJ: 33.346.171/0001-26
+Não contém vírus - Checado por AVG Anti Virus
+Se você não deseja mais receber nossos e-mails, cancele sua inscrição através do link %{link}
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cotação Bem</title>
+	<style type="text/css">body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            width: 90%;
+            max-width: 800px;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            box-sizing: border-box;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #ffffff;
+            background-color: #ff1b0e; /* Cor do botão */
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+            margin-top: 20px; /* Espaço acima do botão */
+        }
+        .button:hover {
+            background-color: #c81006; /* Cor do botão ao passar o mouse */
+        }
+        .header-img, .footer-img {
+            margin: 20px 0;
+        }
+        .header-img img, .footer-img img {
+            max-width: 100%;
+            height: auto;
+        }
+        .content {
+            text-align: left;
+            margin-bottom: 20px;
+        }
+        .content p {
+            margin: 10px 0;
+            color: #495057;
+        }
+        .signature {
+            margin-top: 30px;
+            text-align: left;
+        }
+        .signature strong {
+            display: block;
+            margin: 5px 0;
+        }
+        .footer-img {
+            margin: 30px 0;
+            text-align: center;
+        }
+        .footer-img img {
+            width: 20px; /* Tamanho do ícone */
+            vertical-align: middle;
+            margin-right: 5px; /* Espaço entre o ícone e o texto */
+        }
+        .footer-img p {
+            display: inline;
+            color: #495057;
+            font-size: 14px;
+            margin: 0;
+        }
+
+        /* Media Queries */
+        @media (max-width: 768px) {
+            .content {
+                text-align: center;
+            }
+            .signature {
+                text-align: center;
+            }
+            .button {
+                width: 100%;
+                box-sizing: border-box;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 15px;
+            }
+            .button {
+                padding: 12px;
+                font-size: 14px;
+            }
+            .signature strong {
+                font-size: 14px;
+            }
+        }
+	</style>
+</head>
+<body>
+<div class="container">
+<div class="content">
+<p><strong style="color:#2f4f4f;"></strong></p>
+
+<p>Estou interessada em adquirir alguns dos seus produtos e serviços listados no PDF em Anexo5587.pdf</p>
+<a class="button" href="https://emailmarketing.locaweb.com.br/accounts/193959/messages/3/clicks/102135/3?envelope_id=5" target="_blank">Anexo5587.pdf</a>
+
+<p>Agradeceria se pudesse nos enviar o orçamento o mais breve possível.</p>
+
+<p>Desde já, agradeço pela atenção e fico no aguardo do seu retorno.</p>
+
+<p>Atenciosamente,</p>
+
+<div class="signature"><strong>Juliana Correia de Souza Negocios Imobiliarios<br>
+CNPJ: 33.346.171/0001-26</strong></div>
+</div>
+
+<div class="footer-img"><img alt="Ícone de Verificação" src="https://img.icons8.com/?size=25&amp;id=E6YWCTmNEs3h&amp;format=png">
+<p>Não contém vírus - Checado por AVG Anti Virus</p>
+</div>
+</div>
+<div style="text-align:center;"><p><span style="font-family:arial,helvetica,sans-serif;">Se você não deseja mais receber nossos e-mails, <a href="http://emailmarketing.locaweb.com.br/accounts/193959/unsubscribes/3/102135?emkt_c=1725862220&amp;emkt_v=cm9kcmlnby1mLXBAaG90bWFpbC5jb20&amp;envelope_id=5">cancele a sua inscrição.</a></span></p></div><img src="http://emailmarketing.locaweb.com.br/accounts/193959/messages/3/openings/102135?envelope_id=5" width="1" height="1" border="0" alt=""></body>
+</html>
+

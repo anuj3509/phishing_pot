@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot RE : Votre livraison a ��t�� manqu��e.",
+    "from": "AVIS DE COLIS, <laredoute@fr.redoute.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 29 Dec 2023 04:28:35 +0100",
+    "message_id": "<hmS4fol.0.0.hmS4fol.9.hmS4fol@fr.redoute.com>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/23/39/i8pn.png",
+      "https://www.zupimages.net/up/23/39/i8pn.png",
+      "https://fnnl-check.com/?a=6073&amp;oc=17232&amp;c=47004&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/21/23/2xgf.png",
+      "https://www.zupimages.net/up/20/10/lbbg.png",
+      "https://www.zupimages.net/up/19/48/c7lz.png",
+      "www.zupimages.net/up/20/10/lbbg.png",
+      "http://gls.theowensfamily.info/oop/1185_md/1997/259/726/30/256935",
+      "www.zupimages.net/up/19/48/c7lz.png",
+      "www.zupimages.net/up/23/36/9ifk.png",
+      "http://theowensfamily.info/op/1185_md/1997/259/726/30/256935",
+      "https://www.zupimages.net/up/23/36/9ifk.png",
+      "https://www.zupimages.net/up/21/23/2xgf.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1016,
+    "html_length": 21859,
+    "has_text": true,
+    "has_html": true
+  }
+}

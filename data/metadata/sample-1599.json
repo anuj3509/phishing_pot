@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Treffen Sie hei��e russische Singles ��� siehe Fotos!",
+    "from": "RussianSingles, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Oct 2023 15:10:02 +0200",
+    "message_id": "\r\n <8e1c7f9e-b9f2-4c64-91e9-b9092815df06@AMS1EPF00000046.eurprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "russianBeauty.net",
+      "http://Missionoakdesigns.com/cl/978_md/2010/4/71/23/2459859",
+      "http://Missionoakdesigns.com/oop/978_md/2010/4/71/23/2459859",
+      "https://Missionoakdesigns.com//e/email/de/07/L02.jpg",
+      "https://Missionoakdesigns.com//e/email/de/07/L04.jpg",
+      "https://Missionoakdesigns.com//e/email/de/07/dot.png",
+      "https://Missionoakdesigns.com//e/email/de/07/slogan.jpg",
+      "https://Missionoakdesigns.com//e/email/de/07/btn.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 560,
+    "html_length": 6206,
+    "has_text": true,
+    "has_html": true
+  }
+}

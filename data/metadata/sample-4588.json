@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "I Am Awaiting Your Response",
+    "from": "\"SARAH JAWAD\"<release@sweet.jp>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 19 Dec 2024 08:17:37 -0800",
+    "message_id": "\r\n <f815a884-f4a7-4b50-ae20-21b8b5a59e74@CY4PEPF0000E9D2.namprd03.prod.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2423,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

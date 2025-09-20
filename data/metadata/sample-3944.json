@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Deine Chance auf einen 1.000��� Amazon Gutschein  & Samsung Galaxy S24",
+    "from": "Max Steller von Amazon,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Sep 2024 14:36:19 +0000",
+    "message_id": "<LELRYHKFIJFEGQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4OdPyc33418fSSZ1051vctkpftxka14302OHNFELVNJUWRGWE2JMIX2626i10",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/header-amz-s24-prize-de.jpg",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5dwnSg33418pIRk1051psljxansas14302ZKTYCRDAGJDQBSV2FJXZ2626v10",
+      "https://sf22.sendsfx.com/admin/temp/user/2/header-amz-s24-prize-de.jpg",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6iltBy33418JuUG1051enccnlzvkk14302UMTLXCXAUUZXGGM2DDFE2626q10",
+      "http://topmarktingplace.com/4teAQw33418GNXV1051qszazsnjmy14302KKXCUUSWRALWHHB2ECMU2626C10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1790,
+    "html_length": 10240,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r Decathlon-Kunden.",
+    "from": "Nachricht von Decathlon, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 30 Aug 2024 15:41:27 +0000",
+    "message_id": "<hA6wP9F.0.0.hA6wP9F.9.hA6wP9F@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/17/cv6t.png",
+      "https://wear-prodct.com/?a=7908&amp;oc=21608&amp;c=57359&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/17/cv6t.png",
+      "http://sklj.info/N2M4alEyNVptVVFzeFRuZXRENFB2RjlhTFlrbUYrVXVyOUJoQWk1dUhVa3lURiszSVJDOGVkVTRkZStpclVzbklxN0pXSVpHMEdpdFJJaDY3SEUxalE9PQ__",
+      "https://www.zupimages.net/up/24/32/65nb.png",
+      "www.zupimages.net/up/24/32/65nb.png",
+      "bgasdfasdfa.jpg",
+      "http://sklj.info/djJjVzB0ak4rUDVlZjd5Umo2U1NEMWFPZXlDR1B2ci9acE5Fc1dFKzJnTDEwNWpHZGJvOWtWZHEzS1VpbmFmM0l2U0dSdm1LYzY0TGlYMHUyaGNwT3c9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5122,
+    "html_length": 12060,
+    "has_text": true,
+    "has_html": true
+  }
+}

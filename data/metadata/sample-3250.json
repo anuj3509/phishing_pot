@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Transação pendente -    YydtzJJTBFBvIBDBt9jk",
+    "from": "\"Banco NU.  Protocolo -      7793574292872\" <fidhkwwjy@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 06 May 2024 19:57:04 +0000",
+    "message_id": "<737ce7e984241303eacd24a02ea75b5b@gmail.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"e1ec0662d6f2cb9232acdab9000fa280\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"e1ec0662d6f2cb9232acdab9000fa280\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 205,
+    "html_length": 454,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "support <craver1553@student.d211.org>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Aug 2024 04:45:26 +0000",
+    "message_id": "\r\n <DS0PR19MB732800968834AC3E08717E60AC942@DS0PR19MB7328.namprd19.prod.outlook.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t6wer.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 71,
+    "html_length": 147,
+    "has_text": true,
+    "has_html": true
+  }
+}

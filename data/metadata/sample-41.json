@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Want to meet hot women?",
+    "from": "- Your perfect woman <no-replay@esetupkeys.xyz>",
+    "to": "phishing@pot",
+    "date": "Sun, 04 Sep 2022 13:34:45 +0200",
+    "message_id": "<TZpFBrlH.8bFw.XUoFPm.TZpFBrlH@email.nexxt.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://esetupkeys.xyz/op/10488_md/3/4809/5451/681/1190",
+      "https://esetupkeys.xyz/cl/10488_md/3/4809/5451/681/1190",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/u8jznmR.png",
+      "https://www.tencableplug.com/o-wbvw-l14-066cf59207cd2b113f7bc27513ec78a0",
+      "https://esetupkeys.xyz/oop/10488_md/3/4809/5451/681/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 250,
+    "html_length": 1955,
+    "has_text": true,
+    "has_html": true
+  }
+}

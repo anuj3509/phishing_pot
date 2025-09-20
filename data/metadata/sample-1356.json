@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Your claim is now available for withdrawal",
+    "from": "\"Celsius.Network\" <seaims-gpoqx@es.iceapple.tech>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Sep 2023 11:30:33 +0000",
+    "message_id": "<0100018ab7818769-5ade864f-30e2-474d-b304-42f8bb004644-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_2F32B486.6C0E1362\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_2F32B486.6C0E1362\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Celsius_logo.svg/1200px-Celsius_logo.svg.png",
+      "https://celsius.network/privacy-policy",
+      "https://celsius.network/terms-of-use",
+      "https://help.celsius.network",
+      "help.celsius.network.",
+      "https://villa-angelina.gr/if"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2340,
+    "html_length": 3530,
+    "has_text": true,
+    "has_html": true
+  }
+}

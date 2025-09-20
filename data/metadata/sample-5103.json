@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "We need to talk. Now.",
+    "from": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 14 Mar 2025 03:28:32 -0700",
+    "message_id": "<22cb8235975a707f8c266f1014d1c0ee17bf@hotmail.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"03a9fc01fc3816cdee44d9827788a2b910\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"03a9fc01fc3816cdee44d9827788a2b910\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3081,
+    "html_length": 4671,
+    "has_text": true,
+    "has_html": true
+  }
+}

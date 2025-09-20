@@ -1,0 +1,714 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [29th, August] Reminder from Ledger
+From: Ledger Security <ledger@secureliveupdates.com>
+To: <phishing@pot.org>
+Date: Mon, 29 Aug 2022 09:46:46 +0000
+Message_Id: <f61cd5fab09d8a8362ea924a7.be5e943cfb.20220829094637.2f3fffa5a1.fe77e6f3@mail45.suw13.rsgsv.net>
+Content_Type: multipart/alternative; boundary="_----------=_MCPart_1116239607"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="_----------=_MCPart_1116239607"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://links.ledger.com/e/evib?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv
+  - https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1
+  - https://ci4.googleusercontent.com/proxy/hDaRMKIQb_UVBkY_QXedbNxXK3UDTEWwWmsYEJW2juLPaidvjmuw_J6TivmCe-MpB5A_HQvkBVg0qB4Q6mc-5k05maMZwxZaPYmLNqpnLBXrQFbVzqvtKmbNJUS5-H1y9FvSCVQfuB2SEKbM5E9Zqsv0nEGEU9LjKbZhFzcnrrxxJ5LQT5tSsQYaftqFB3uSvyLPOloZx9bJrun-kj6bWrqZotPpyqWfVY9x3V7d_uM7RH-UCvpLbKxFIao=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Vector%20%2857%29.png
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=bb427aea37&amp;e=be5e943cfb
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw3N0Ny16Mhv37n9f3EJsxdh
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=fb39dd62c5&amp;e=be5e943cfb
+  - https://ci3.googleusercontent.com/proxy/SMF6w7Q_f5dBkMaxsiNox04GnmnCKcqvc9OxDQ2CaY85nPDgraK9-558QY0sXnyzod5AL7kOJDfF79yxoOZUcr5lBbYjXsHWGYg9XTLZ3W-meyAECSaEr6qXdJMQZBsPulNSWuJs7MLttoeNhJbnEsIJwiQhwSl2Y6nLC59zu6g7wGvoBeBk9VVQVS_oX8z9xqFD-kX-H2AtehBqnTU8y-x3Byi1KuoxQ7c=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/Img%20%281%29.png
+  - https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%3D
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw2z1dfTjEiUp_Ylb5hBLwbA
+  - http://www.w3.org/1999/xhtml
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw1Oh0rKHVn0Gpesb2yLFF1M
+  - https://www.google.com/url?q=https://links.ledger.com/e/evib?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3DmksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw3tHy-lyRqGYW914vMeycor
+  - https://i.imgur.com/YJ27bWL.png
+  - https://ci4.googleusercontent.com/proxy/98H2RuRcayKwZA0ASzqcuqdN4z6hdhq66Zwuat6DLCy14ddAVggzfEIDkCavWlcA91cQVOzKhqNfURRzfbQvk7ok7VlapUy3sa7jrvokhv11lj2OzcqC4rdPwL9HGKulsEPvjwayKMq44A1YSnco7jWDNbclxlp_qrx3A4dN7L6N3bIQX72kwRSXbsdKqvgjRFCdAkZiLaP8mFizpV6MXL2J0B673Kg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/White_64_3.png
+  - https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=5f8e819ec0&amp;e=be5e943cfb
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw04be83KUkP2KTddeSspKx5
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw2Vn77AchlJcNo_USq0SVTe
+  - https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)
+  - https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)
+  - https://ci3.googleusercontent.com/proxy/70fkHGUpDtUOOGht5AHLstyZVDHlofjej1ffkABuKoJT_0tQP4NvqE7KpjkI7EWmETNjiRWaUM_7yGDYBTdVxq1nBJLNHr2cirAP4LBLboJ_l4t7cJz9hBdbP04zJVeO1D_5suAr0Vn0dg9RKSnCMpYg-4NOb6D2Ivx8RbH9zdKy5Kva-0b4KxBPjMdeBdKkgIeZoUzYyGZuqmoviw8IWGk2qvrS_tSVLrDU2Nv4QFV6zroQaAE6Ya_e6kXhsoM2Q8i3kwUSbUTi8aM4IyxQ7mZxfsHFsH00pz9F44bAiC3a5d_CDjcaQAPZMbGmXNE8TZkDX7RdEhtJV7ritO42hNqZxK9G9-G_D-ErAyHdIx1lsiHpu00itQiyPXLrnuBXzH6taQK0ZfGVVjo=s0-d-e1-ft#https://links.ledger.com/e/eo?_t=62c6a4ea5484430dbb7571e36c7bde50&amp;_m=05e39c34e9844470a4886400a10772c8&amp;_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufVYx5y6kDfSu4BCTARdtRhJqyr2sxyJ3dAedG0iOLxpMWf33dfiBJtngI3HHInljHfSMTgFHibOFmG9d_FmyZGDkQqLokgGIZa3X0mkT-hrzllaxzx2ud8VHgm-8nR62-A%3D
+  - https://delfinasf.us2.list-manage.com/track/open.php?u=f61cd5fab09d8a8362ea924a7&amp;id=2f3fffa5a1&amp;e=be5e943cfb
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL
+  - hotmail.com)
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=62272483a8&amp;e=be5e943cfb
+  - https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=58d1590996&amp;e=be5e943cfb
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%3D
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=619492bf33&amp;e=be5e943cfb
+  - a.mcnButton{
+  - https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1
+  - https://ci4.googleusercontent.com/proxy/4xG8USgxPZGpbkKd7MQuXClH6WBhcyTP_bVlqvZHSJZm6LeXFqRXS6eYw9P1r-frms3axbdFm-LEL6lCisq8_uSrCTkwLYaksA6vdbGtSAIzTn1RR76MwjESAmvUjBeMGsCR_KTJ9_5_eTzLCuixx7YmuxGKWJmmoOqRe1qXIcX026Be9ZVnvqYoPfcbfdNzT92XVPFUH9ZOSWof25vqWyku_bWcZQOO738TLz9irOq_upvNywwu=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Frame%204331.png
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN)
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=108f4c372a&amp;e=be5e943cfb
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%3D
+  - pot.org
+  - https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=ef0fc7c84b&amp;e=be5e943cfb
+  - https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw0nS5A_VntBdGBYEyvTjaNN
+  - https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%3D
+  - https://sites.google.com/view/ledger-live/ledger-live-winx86-upgrade
+
+DECODED TEXT CONTENT:
+------------------------------
+A mandatory security update has been released - please update your Ledger Live if you're using an outdated version
+
+The fast, simple, secure way to swap crypto
+
+https://links.ledger.com/e/evib?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv
+https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%3D
+
+[29th, August] Your device may be vulnerable
+https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%3D
+
+Multiple versions of the Ledger Live app on Desktop, Mac & both mobile operating systems (Android & iOS) have been found to have (3) security flaws that affect all current versions.
+
+Please run Google's webscan while connected to your Ledger to detect if your current version of Ledger Live is vulnerable
+
+
+*Ledger can not be held accountable for any loses due to outdated software.
+
+https://sites.google.com/view/ledger-live/ledger-live-winx86-upgrade
+
+We’ve partnered with FTX
+https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%3D
+
+You can now swap 120+ crypto assets easily, securely, and affordably through Ledger Live with our partner FTX. Without leaving the security of Ledger’s ecosystem.
+
+
+*The number of supported assets can vary depending on your country of residence.
+https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL
+
+Enjoy the best from
+two crypto leaders
+
+
+FTX, leader in crypto trading
+* Lowest fees
+* Access 120+ crypto assets
+* Available worldwide
+
+Ledger, leader in Web3 security
+* Top security
+* Full ownership
+* Convenience: all in the Ledger
+Live app
+
+Learn more (https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN)
+https://links.ledger.com/u/click?_t=62c6a4ea5484430dbb7571e36c7bde50&_m=05e39c34e9844470a4886400a10772c8&_e=3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%3D
+
+The secure platform to buy, swap, and grow your crypto assets.*
+
+* Buy, swap, lend, and other crypto transaction services are provided by third-party partners. Ledger provides no advice or recommendations on use of these third-party services.
+
+
+============================================================
+
+This email was sent to phishing@pot.org (mailto:phishing@pot@hotmail.com)
+why did I get this? (https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)     unsubscribe from this list (https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)     update subscription preferences (https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&id=942833b800&e=be5e943cfb&c=2f3fffa5a1)
+Delfina . 3621 18th St . San Francisco, CA 94110-1531 . USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head><!-- NAME: 1 COLUMN - FULL WIDTH --><!--[if gte mso 15]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>[29th, August] Reminder from Ledger</title>
+
+    <style type="text/css">
+		p{
+			margin:10px 0;
+			padding:0;
+		}
+		table{
+			border-collapse:collapse;
+		}
+		h1,h2,h3,h4,h5,h6{
+			display:block;
+			margin:0;
+			padding:0;
+		}
+		img,a img{
+			border:0;
+			height:auto;
+			outline:none;
+			text-decoration:none;
+		}
+		body,#bodyTable,#bodyCell{
+			height:100%;
+			margin:0;
+			padding:0;
+			width:100%;
+		}
+		.mcnPreviewText{
+			display:none !important;
+		}
+		#outlook a{
+			padding:0;
+		}
+		img{
+			-ms-interpolation-mode:bicubic;
+		}
+		table{
+			mso-table-lspace:0pt;
+			mso-table-rspace:0pt;
+		}
+		.ReadMsgBody{
+			width:100%;
+		}
+		.ExternalClass{
+			width:100%;
+		}
+		p,a,li,td,blockquote{
+			mso-line-height-rule:exactly;
+		}
+		a[href^=tel],a[href^=sms]{
+			color:inherit;
+			cursor:default;
+			text-decoration:none;
+		}
+		p,a,li,td,body,table,blockquote{
+			-ms-text-size-adjust:100%;
+			-webkit-text-size-adjust:100%;
+		}
+		.ExternalClass,.ExternalClass p,.ExternalClass td,.ExternalClass div,.ExternalClass span,.ExternalClass font{
+			line-height:100%;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		.templateContainer{
+			max-width:600px !important;
+		}
+		a.mcnButton{
+			display:block;
+		}
+		.mcnImage,.mcnRetinaImage{
+			vertical-align:bottom;
+		}
+		.mcnTextContent{
+			word-break:break-word;
+		}
+		.mcnTextContent img{
+			height:auto !important;
+		}
+		.mcnDividerBlock{
+			table-layout:fixed !important;
+		}
+		body,#bodyTable{
+			background-color:#FAFAFA;
+		}
+		#bodyCell{
+			border-top:0;
+		}
+		h1{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:26px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h2{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:22px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h3{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:20px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		h4{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:18px;
+			font-style:normal;
+			font-weight:bold;
+			line-height:125%;
+			letter-spacing:normal;
+			text-align:left;
+		}
+		#templatePreheader{
+			background-color:#FAFAFA;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templatePreheader .mcnTextContent a,#templatePreheader .mcnTextContent p a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateHeader{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:0;
+		}
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateHeader .mcnTextContent a,#templateHeader .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateBody{
+			background-color:#FFFFFF;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			color:#202020;
+			font-family:Helvetica;
+			font-size:16px;
+			line-height:150%;
+			text-align:left;
+		}
+		#templateBody .mcnTextContent a,#templateBody .mcnTextContent p a{
+			color:#007C89;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+		#templateFooter{
+			background-color:#FAFAFA;
+			background-image:none;
+			background-repeat:no-repeat;
+			background-position:center;
+			background-size:cover;
+			border-top:0;
+			border-bottom:0;
+			padding-top:9px;
+			padding-bottom:9px;
+		}
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			color:#656565;
+			font-family:Helvetica;
+			font-size:12px;
+			line-height:150%;
+			text-align:center;
+		}
+		#templateFooter .mcnTextContent a,#templateFooter .mcnTextContent p a{
+			color:#656565;
+			font-weight:normal;
+			text-decoration:underline;
+		}
+	@media only screen and (min-width:768px){
+		.templateContainer{
+			width:600px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body,table,td,p,a,li,blockquote{
+			-webkit-text-size-adjust:none !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		body{
+			width:100% !important;
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnRetinaImage{
+			max-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImage{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCartContainer,.mcnCaptionTopContent,.mcnRecContentContainer,.mcnCaptionBottomContent,.mcnTextContentContainer,.mcnBoxedTextContentContainer,.mcnImageGroupContentContainer,.mcnCaptionLeftTextContentContainer,.mcnCaptionRightTextContentContainer,.mcnCaptionLeftImageContentContainer,.mcnCaptionRightImageContentContainer,.mcnImageCardLeftTextContentContainer,.mcnImageCardRightTextContentContainer,.mcnImageCardLeftImageContentContainer,.mcnImageCardRightImageContentContainer{
+			max-width:100% !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer{
+			min-width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupContent{
+			padding:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnCaptionLeftContentOuter .mcnTextContent,.mcnCaptionRightContentOuter .mcnTextContent{
+			padding-top:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardTopImageContent,.mcnCaptionBottomContent:last-child .mcnCaptionBottomImageContent,.mcnCaptionBlockInner .mcnCaptionTopContent:last-child .mcnTextContent{
+			padding-top:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardBottomImageContent{
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockInner{
+			padding-top:0 !important;
+			padding-bottom:0 !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageGroupBlockOuter{
+			padding-top:9px !important;
+			padding-bottom:9px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnTextContent,.mcnBoxedTextContentColumn{
+			padding-right:18px !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnImageCardLeftImageContent,.mcnImageCardRightImageContent{
+			padding-right:18px !important;
+			padding-bottom:0 !important;
+			padding-left:18px !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcpreview-image-uploader{
+			display:none !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h1{
+			font-size:22px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h2{
+			font-size:20px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h3{
+			font-size:18px !important;
+			line-height:125% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		h4{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		.mcnBoxedTextContentContainer .mcnTextContent,.mcnBoxedTextContentContainer .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templatePreheader .mcnTextContent,#templatePreheader .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateHeader .mcnTextContent,#templateHeader .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateBody .mcnTextContent,#templateBody .mcnTextContent p{
+			font-size:16px !important;
+			line-height:150% !important;
+		}
+
+}	@media only screen and (max-width: 480px){
+		#templateFooter .mcnTextContent,#templateFooter .mcnTextContent p{
+			font-size:14px !important;
+			line-height:150% !important;
+		}
+
+}</style><!--[if !mso]><!--><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet"><!--<![endif]--></head>
+    <body style="height: 100%;margin: 0;padding: 0;width: 100%;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;">
+        <!--
+-->
+        <!--[if !gte mso 9]><!----><span class="mcnPreviewText" style="display:none; font-size:0px; line-height:0px; max-height:0px; max-width:0px; opacity:0; overflow:hidden; visibility:hidden; mso-hide:all;">A mandatory security update has been released - please update your Ledger Live if you're using an outdated version</span><!--<![endif]-->
+        <!--
+-->
+        <center>
+            <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="bodyTable" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #FAFAFA;">
+                <tr>
+                    <td align="center" valign="top" id="bodyCell" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;">
+                        <!-- BEGIN TEMPLATE // -->
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <tr>
+                                <td align="center" valign="top" id="templatePreheader" style="background:#FAFAFA none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="preheaderContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="mcnCodeBlock" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody class="mcnTextBlockOuter">
+        <tr>
+            <td valign="top" class="mcnTextBlockInner" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="m_6606396211636156853bodyTable" style="border-collapse: collapse;height: 100%;margin: 0;padding: 0;width: 100%;background-color: #fafafa;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <tbody><tr>
+                    <td align="center" valign="top" id="m_6606396211636156853bodyCell" style="height: 100%;margin: 0;padding: 0;width: 100%;border-top: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                        <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                            <tbody><tr>
+                                <td align="center" valign="top" id="m_6606396211636156853templatePreheader" style="background: #fafafa none no-repeat center/cover;background-color: #fafafa;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_6606396211636156853templateContainer" style="border-collapse: collapse;max-width: 600px!important;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tbody><tr>
+                                            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+    <tbody>
+        <tr>
+            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                <div><div></div><div id="m_6606396211636156853:y8"></div><div id="m_6606396211636156853:10s"><div id="m_6606396211636156853:10r"><u></u><div style="box-sizing:border-box;background-color:#e5e5e5;margin:0;padding:0"><span style="color:transparent;display:none;opacity:0;height:0;width:0;font-size:0">The fast, simple, secure way to swap crypto</span><img src="https://ci3.googleusercontent.com/proxy/70fkHGUpDtUOOGht5AHLstyZVDHlofjej1ffkABuKoJT_0tQP4NvqE7KpjkI7EWmETNjiRWaUM_7yGDYBTdVxq1nBJLNHr2cirAP4LBLboJ_l4t7cJz9hBdbP04zJVeO1D_5suAr0Vn0dg9RKSnCMpYg-4NOb6D2Ivx8RbH9zdKy5Kva-0b4KxBPjMdeBdKkgIeZoUzYyGZuqmoviw8IWGk2qvrS_tSVLrDU2Nv4QFV6zroQaAE6Ya_e6kXhsoM2Q8i3kwUSbUTi8aM4IyxQ7mZxfsHFsH00pz9F44bAiC3a5d_CDjcaQAPZMbGmXNE8TZkDX7RdEhtJV7ritO42hNqZxK9G9-G_D-ErAyHdIx1lsiHpu00itQiyPXLrnuBXzH6taQK0ZfGVVjo=s0-d-e1-ft#https://links.ledger.com/e/eo?_t=62c6a4ea5484430dbb7571e36c7bde50&amp;_m=05e39c34e9844470a4886400a10772c8&amp;_e=mksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufVYx5y6kDfSu4BCTARdtRhJqyr2sxyJ3dAedG0iOLxpMWf33dfiBJtngI3HHInljHfSMTgFHibOFmG9d_FmyZGDkQqLokgGIZa3X0mkT-hrzllaxzx2ud8VHgm-8nR62-A%3D" style="border: 0;width: 1px;height: 1px;border-width: 0px!important;display: none!important;line-height: 0!important;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="1" height="1" class="CToWUd" data-bit="iit"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #e5e5e5;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" bgcolor="#e5e5e5"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="100%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;background-color: #000;border-bottom: 1px solid #e5e5e5;padding-top: 0;padding-bottom: 0;border-top: 0;border-right: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top" bgcolor="#000"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-left: 20px;padding-right: 20px;padding-top: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;font-size:12px;color:#142533;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: right;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:12px;color:#d8d8d8"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=bb427aea37&amp;e=be5e943cfb" rel="noopener" style="box-sizing: border-box;color: #d8d8d8;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/e/evib?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3DmksJhyDPhO6KuQX6z_JqQ0vxXFI9cwDcg-sSZj1NufV2NqLOP2AZ_KqQdhKDuwYwdSV5eXxmorKjhtCwGkiIgiqTMl_nBUdzOFwpAzX8Nc-5o2wIcTphaaYQ3bJOORQv&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw3tHy-lyRqGYW914vMeycor"></a></span></p></div></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="20" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;line-height:10px"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=ef0fc7c84b&amp;e=be5e943cfb" style="box-sizing: border-box;outline: none;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0C90LJUka7fnCqoAy99KLGdMQRO1mYtA34QT7TDUlj_5_aXc40yruDtB0FgBXkiFI2L5sekF5DnM1tuVoQ8NtYEBN_xP6zb2Fc2nwcTshVe335Bk1c40rDJ3IjN4HSu-Zyx41Jd9_TVFFyWqBjqL--auMozLIqu5WaU8gkmYXGKaESOgG8FBqXlqT76MIT1gfRe-wxpJdNo_6OoGYtHr4m0%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw0nS5A_VntBdGBYEyvTjaNN"><img src="https://ci4.googleusercontent.com/proxy/hDaRMKIQb_UVBkY_QXedbNxXK3UDTEWwWmsYEJW2juLPaidvjmuw_J6TivmCe-MpB5A_HQvkBVg0qB4Q6mc-5k05maMZwxZaPYmLNqpnLBXrQFbVzqvtKmbNJUS5-H1y9FvSCVQfuB2SEKbM5E9Zqsv0nEGEU9LjKbZhFzcnrrxxJ5LQT5tSsQYaftqFB3uSvyLPOloZx9bJrun-kj6bWrqZotPpyqWfVY9x3V7d_uM7RH-UCvpLbKxFIao=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Vector%20%2857%29.png" style="box-sizing: border-box;display: block;height: auto;border: 0;width: 105px;max-width: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="105" alt="Ledger Logo" title="Ledger Logo" class="CToWUd" data-bit="iit"></a></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #000;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#000"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="100%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;padding-left: 20px;padding-right: 20px;padding-top: 20px;padding-bottom: 20px;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 20px;padding-left: 10px;padding-right: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.5"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:30px;color:#ffffff">[29th, August] Your device may be vulnerable</span></p></div></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;width: 100%;padding-right: 0;padding-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%"><div align="center" style="box-sizing:border-box;line-height:10px"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=fb39dd62c5&amp;e=be5e943cfb" style="box-sizing: border-box;outline: none;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMh2RkojZbw00SZ-m_xkGJjRNLtXQGVsoQW9jcaDkiqREcvZziVBqdOHKKHqG5d5wJZ8OYQfZ69Tt2kg0yUYlyPAY_pg75drS2dw8QNVFLKsHE6BL2Mu0TPZuOa-fetnSNN4rms7CSIjU7fiBYRzz0VuNVogtx8dnnEBD8yT1RoLlI8rqgRrKhv2jGWzSYujJqTZdK2cnE8M7PLX6llVArtc%253D&amp;source=gmail&amp;ust=1661689919573000&amp;usg=AOvVaw2z1dfTjEiUp_Ylb5hBLwbA"></a></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 30px;padding-left: 10px;padding-right: 10px;padding-top: 30px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:14px;color:#ffffff">Multiple versions of the Ledger Live app on Desktop, Mac &amp; both mobile operating systems (Android &amp; iOS) have been found to have (3) security flaws that affect all current versions.<br><br>Please run Google's webscan while connected to your Ledger to detect if your current version of Ledger Live is vulnerable</span></p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">&nbsp;</p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:12px;color:#ffffff">*Ledger can not be held accountable for any loses due to outdated software.</span>
+<br></p><br>
+
+<center>
+<a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=62272483a8&amp;e=be5e943cfb" target="_blank" data-saferedirecturl="https://sites.google.com/view/ledger-live/ledger-live-winx86-upgrade" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><img src="https://i.imgur.com/YJ27bWL.png" style="box-sizing: border-box;display: block;height: 100%;border: 0;width: 60%;max-width: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="163" alt="button shop now" title="button shop now" class="CToWUd" data-bit="iit"></a>
+</center></div></div></td>
+
+</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;background-color: #000;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#000"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="100%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;padding-left: 10px;padding-right: 10px;padding-top: 40px;padding-bottom: 40px;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 20px;padding-left: 10px;padding-right: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.5"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:30px;color:#ffffff">We’ve partnered with FTX</span></p></div></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;width: 100%;padding-right: 0;padding-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%"><div align="center" style="box-sizing:border-box;line-height:10px"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=108f4c372a&amp;e=be5e943cfb" style="box-sizing: border-box;outline: none;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd4ZBaCo74bnPHtKJpILd5ZFX0PBCVCLouXpLm-zkFSVJHPpREKQbLlKbt-15boOGxft35otDABueE7oBTZDNkLNuD7BC0W7ZD-lox7w5B3oi44n4fBnOSKLy554OlaobMnHxLZyA3U1bEw6uiFGJ9L4YaHYST2dHha9CJrVxQCgs-Sj1xJzuv6dpoJbMVfEiEwTqZC8ZzXvTwGO1etct-aN3xUAyzGD5Pc1L_ncyH7XWoRjX4ca3IkcXdJa1j1UZakS7vQRMz5LCTC9q_kvpagFLxeget3dPEzUsEFAg7fd5aA1QwRJawR6T1vpS9t5dZT_bLOgxtnNTE7uOVe1Tkro%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw3N0Ny16Mhv37n9f3EJsxdh"><img src="https://ci3.googleusercontent.com/proxy/SMF6w7Q_f5dBkMaxsiNox04GnmnCKcqvc9OxDQ2CaY85nPDgraK9-558QY0sXnyzod5AL7kOJDfF79yxoOZUcr5lBbYjXsHWGYg9XTLZ3W-meyAECSaEr6qXdJMQZBsPulNSWuJs7MLttoeNhJbnEsIJwiQhwSl2Y6nLC59zu6g7wGvoBeBk9VVQVS_oX8z9xqFD-kX-H2AtehBqnTU8y-x3Byi1KuoxQ7c=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/Img%20%281%29.png" style="box-sizing: border-box;display: block;height: auto;border: 0;width: 330px;max-width: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="330" alt="ledger live dashboard" title="ledger live dashboard" class="CToWUd" data-bit="iit"></a></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 10px;padding-left: 10px;padding-right: 10px;padding-top: 30px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <span style="box-sizing:border-box;font-size:14px;color:#ffffff">You can now swap 120+ crypto assets easily, securely, and affordably through <span>Ledger</span> Live with our partner FTX. Without leaving the security of <span>Ledger</span>’s ecosystem.</span></p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">&nbsp;</p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;font-size:12px;color:#ffffff">*The number of supported assets can vary depending on your country of residence.</span></p> </div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="50%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;background-color: #000;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top" bgcolor="#000"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;width: 100%;padding-right: 0;padding-left: 0;padding-top: 5px;padding-bottom: 5px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="100%"><div align="center" style="box-sizing:border-box;line-height:10px"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=58d1590996&amp;e=be5e943cfb" style="box-sizing: border-box;outline: none;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATLVHfFvqcMblFPsiG0GRDft7wV_HqFTI0LqLhqV3xCj3smH2WyJU2OSaqGSL7eO0Om90DS_x9HkgTB4XYm-aFpQtV2nQW9LVr9DuCxM4DAWNY_KO0ThJW5RSFkl3100B_JDz1rn52QuxVReGam_BqX49Q4S3uOBB16SsM941aPqNm8FKPI_3A9y2j4wg98u79LL09-WzSiU_n0dG7kGwbwC9NeaXOlwZroXVfNPnwEyL&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw2Vn77AchlJcNo_USq0SVTe"><img src="https://ci4.googleusercontent.com/proxy/4xG8USgxPZGpbkKd7MQuXClH6WBhcyTP_bVlqvZHSJZm6LeXFqRXS6eYw9P1r-frms3axbdFm-LEL6lCisq8_uSrCTkwLYaksA6vdbGtSAIzTn1RR76MwjESAmvUjBeMGsCR_KTJ9_5_eTzLCuixx7YmuxGKWJmmoOqRe1qXIcX026Be9ZVnvqYoPfcbfdNzT92XVPFUH9ZOSWof25vqWyku_bWcZQOO738TLz9irOq_upvNywwu=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/editor_images/Frame%204331.png" style="box-sizing: border-box;display: block;height: auto;border: 0;width: 299px;max-width: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="299" alt="ftx logo" title="ftx logo" class="CToWUd" data-bit="iit"></a></div></td></tr></tbody></table></td><td width="50%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;background-color: #000;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top" bgcolor="#000"><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;display: none;max-height: 0;overflow: hidden;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 15px;padding-left: 10px;padding-right: 10px;padding-top: 15px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff;font-size:18px">Enjoy the best from </span><br style="box-sizing:border-box"> <span style="box-sizing:border-box;color:#ffffff;font-size:18px">two </span><span style="box-sizing:border-box;color:#ffffff;font-size:18px">crypto leaders</span></p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">&nbsp;</span></p><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff;font-size:15px">FTX, leader in crypto trading</span></p><ul style="box-sizing:border-box;line-height:1.2;font-size:14px"><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">Lowest fees</span></li><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <span style="box-sizing:border-box;color:#ffffff">Access 120+ crypto assets</span></li><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">Available worldwide</span></li></ul><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff;font-size:15px"><span>Ledger</span>, leader in Web3 security</span></p><ul style="box-sizing:border-box;line-height:1.2"><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">Top security</span></li><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">Full ownership</span></li><li style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">Convenience: all in the <span>Ledger</span>&nbsp;</span><br style="box-sizing:border-box"> <span style="box-sizing:border-box;color:#ffffff">Live app</span></li></ul><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=5f8e819ec0&amp;e=be5e943cfb" style="box-sizing: border-box;text-decoration: underline;color: #ffffff;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" rel="noopener" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd-IbFHDvE4lyBdeEwgc1qZXjzWHp-JIvqlP7cL9U0x_2RvcOHS7kLzsM_gXxkz2BpVT4FJoQl7DFENbMw15hDbZyp2FGnwp1ZlphUMOPBnfSzfXHSG_b2OpMSpeq5hIhaeVypVuMqoQSoy5vKbU1pFa7qW2pN7m-tocLoSmI_5Co6Zilh5gf54zdYnSnhLdATOVHOgyb9h565LCD6YFJHNhjAOKq9RBTr0R5j2PjNhyszRV_eD7AdXeaT0nJZqFfSRT_DQPqQJSS_9YPYxQx4Ttl15v9ozk8-RSiOMjTuq5fMEPmKKfdb1CKwUFrza6RDt_1r_Fy1Fsda4iBzn5Wk-H7zrPTejMABQLxE9tnUdy4SKALyxx_tAqeyCEzPjGibPAxBphq18DbEOEXT3WvinjwlcFRNZf1OsxI9lskZ6yN&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw04be83KUkP2KTddeSspKx5"><span style="box-sizing:border-box;color:#ffffff"><u style="box-sizing:border-box">Learn more</u></span></a></p></div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"> <tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #f1f1f1;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#f1f1f1"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="100%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;background-color: #000;padding-top: 5px;padding-bottom: 5px;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top" bgcolor="#000"><table width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div align="center" style="box-sizing:border-box;line-height:10px"><a href="https://delfinasf.us2.list-manage.com/track/click?u=f61cd5fab09d8a8362ea924a7&amp;id=619492bf33&amp;e=be5e943cfb" style="box-sizing: border-box;outline: none;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://links.ledger.com/u/click?_t%3D62c6a4ea5484430dbb7571e36c7bde50%26_m%3D05e39c34e9844470a4886400a10772c8%26_e%3D3jXjHxV-Dczx3ZByTYnjd90HNgic7VsnHLNCR7Q7_fNgS2q7BGsxaeI3fNtst5CLC7rsMadQBia4wv6pIEqErjC8EtMgSGU5m7IKCCd1HgYDed6rYl4B0pCaBenqoDmf0Ad2NmrNYvwY-gcEotZS0G5vl9JAAYy_hntLLtvMFxPc8WSzX9WUSPh7-j4f_8PMc4-3aZH9KzcdlJ3uatWTPK-uvi8JWZdzOo8F0uM3xReEbC-vHNz2A-D4-Rfoi-yrJRFlRxC-7gLwwS2EKXwUdsUzB0fppNQcaA_-q_N_wcy-3AobtQpupEgMVdbmNZzzplSJMk1ekz0NV8XvMpb084M2zqH7hDPBCKQQUcsZD-M%253D&amp;source=gmail&amp;ust=1661689919574000&amp;usg=AOvVaw1Oh0rKHVn0Gpesb2yLFF1M"><img src="https://ci4.googleusercontent.com/proxy/98H2RuRcayKwZA0ASzqcuqdN4z6hdhq66Zwuat6DLCy14ddAVggzfEIDkCavWlcA91cQVOzKhqNfURRzfbQvk7ok7VlapUy3sa7jrvokhv11lj2OzcqC4rdPwL9HGKulsEPvjwayKMq44A1YSnco7jWDNbclxlp_qrx3A4dN7L6N3bIQX72kwRSXbsdKqvgjRFCdAkZiLaP8mFizpV6MXL2J0B673Kg=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/62c6a4ea5484430dbb7571e36c7bde50/White_64_3.png" style="box-sizing: border-box;display: block;height: auto;border: 0;width: 62px;max-width: 100%;outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;" width="62" alt="ledger logo" title="ledger logo" class="CToWUd" data-bit="iit"></a></div></td></tr> </tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 30px;padding-left: 15px;padding-right: 15px;padding-top: 10px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.8"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff"><span style="box-sizing:border-box;font-size:15px">The secure platform to buy, swap, </span><span style="box-sizing:border-box;font-size:15px">and grow </span></span><span style="box-sizing:border-box;color:#ffffff"><span style="box-sizing:border-box;font-size:15px">your crypto assets</span></span><span style="box-sizing:border-box;color:#0f0f0f;font-size:15px"><span style="box-sizing:border-box;color:#ffffff">.*&nbsp;</span><br style="box-sizing:border-box"></span></p></div></div></td></tr></tbody></table><table width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-size:14px;font-family:Inter,'Open sans',Arial,sans-serif;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"> <span style="box-sizing:border-box;color:#ffffff;font-size:11px">* Buy, swap, lend, and other crypto transaction services are provided by third-party partners. <span>Ledger</span> provides no advice or recommendations on use of these third-party services.</span></p></div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table><table align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;background-color: #fff;color: #000;width: 600px;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" width="600" bgcolor="#fff"><tbody style="box-sizing:border-box"><tr style="box-sizing:border-box"><td width="100%" style="box-sizing: border-box;font-weight: 400;text-align: left;vertical-align: top;background-color: #000;padding-top: 0;padding-bottom: 5px;border-top: 0;border-right: 0;border-bottom: 0;border-left: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;" align="left" valign="top" bgcolor="#000"><table width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:sans-serif"><div style="box-sizing:border-box;font-family:Open Sans,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:12px;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 14px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></p>   <p style="margin: 10px 0;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></p></div></div></td></tr></tbody></table> <table width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="box-sizing: border-box;word-break: break-word;border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><tbody><tr style="box-sizing:border-box"><td style="box-sizing: border-box;padding-bottom: 20px;padding-left: 20px;padding-right: 20px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><div style="box-sizing:border-box;font-family:Arial,sans-serif"><div style="box-sizing:border-box;font-family:Inter,'Open sans',Arial,sans-serif;font-size:12px;color:#555;line-height:1.2"><p style="box-sizing: border-box;line-height: inherit;margin: 10px 0;font-size: 12px;text-align: center;padding: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"><span style="box-sizing:border-box;color:#ffffff">&nbsp;</span></p></div></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></div></div><div></div></div><div id="m_6606396211636156853:yc" style="display:none"><div id="m_6606396211636156853:yd"></div></div><div></div></div>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </tbody></table>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="m_6606396211636156853templateHeader" style="background: #ffffff none no-repeat center/cover;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 0;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_6606396211636156853templateContainer" style="border-collapse: collapse;max-width: 600px!important;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tbody><tr>
+                                            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </tbody></table>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="m_6606396211636156853templateBody" style="background: #ffffff none no-repeat center/cover;background-color: #ffffff;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_6606396211636156853templateContainer" style="border-collapse: collapse;max-width: 600px!important;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tbody><tr>
+                                            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </tbody></table>
+
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="m_6606396211636156853templateFooter" style="background: #fafafa none no-repeat center/cover;background-color: #fafafa;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="m_6606396211636156853templateContainer" style="border-collapse: collapse;max-width: 600px!important;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;">
+                                        <tbody><tr>
+                                            <td valign="top" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </tbody></table>
+
+                                </td>
+                            </tr>
+                        </tbody></table>
+
+                    </td>
+                </tr>
+            </tbody></table>
+            </td>
+        </tr>
+    </tbody>
+</table></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateHeader" style="background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 0;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="headerContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateBody" style="background:#FFFFFF none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FFFFFF;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="bodyContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                            <tr>
+                                <td align="center" valign="top" id="templateFooter" style="background:#FAFAFA none no-repeat center/cover;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;background-color: #FAFAFA;background-image: none;background-repeat: no-repeat;background-position: center;background-size: cover;border-top: 0;border-bottom: 0;padding-top: 9px;padding-bottom: 9px;">
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    <table align="center" border="0" cellspacing="0" cellpadding="0" width="600" style="width:600px;">
+                                    <tr>
+                                    <td align="center" valign="top" width="600" style="width:600px;">
+                                    <![endif]-->
+                                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" class="templateContainer" style="border-collapse: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;max-width: 600px !important;">
+                                        <tr>
+                                            <td valign="top" class="footerContainer" style="mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;"></td>
+                                        </tr>
+                                    </table>
+                                    <!--[if (gte mso 9)|(IE)]>
+                                    </td>
+                                    </tr>
+                                    </table>
+                                    <![endif]-->
+                                </td>
+                            </tr>
+                        </table>
+                        <!-- // END TEMPLATE -->
+                    </td>
+                </tr>
+            </table>
+        </center>
+                <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" id="canspamBarWrapper" style="background-color:#FFFFFF; border-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align="center" valign="top" style="padding-top:20px; padding-bottom:20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" id="canspamBar">
+                                <tr>
+                                    <td align="center" valign="top" style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-height:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-align:center;">
+                                        This email was sent to <a href="mailto:phishing@pot.org" target="_blank" style="color:#404040 !important;">phishing@pot.org</a>
+                                        <br>
+                                        <a href="https://delfinasf.us2.list-manage.com/about?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1" target="_blank" style="color:#404040 !important;"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://delfinasf.us2.list-manage.com/unsubscribe?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1" style="color:#404040 !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://delfinasf.us2.list-manage.com/profile?u=f61cd5fab09d8a8362ea924a7&amp;id=942833b800&amp;e=be5e943cfb&amp;c=2f3fffa5a1" style="color:#404040 !important;">update subscription preferences</a>
+                                        <br>
+                                        Delfina · 3621 18th St · San Francisco, CA 94110-1531 · USA
+                                        <br>
+                                        <br>
+
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type="text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src="https://delfinasf.us2.list-manage.com/track/open.php?u=f61cd5fab09d8a8362ea924a7&amp;id=2f3fffa5a1&amp;e=be5e943cfb" height="1" width="1" alt=""></body>
+</html>

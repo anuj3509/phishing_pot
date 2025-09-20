@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Ihr Yeti 42oz Rambler wird vorbereitet",
+    "from": "\"McDonald's VIP-Einladung\" <Department-client-n51239@alhayatschool.mail.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 26 Feb 2025 17:56:29 +0000",
+    "message_id": "<2cb6a93a-b813-4efd-b95d-beef056a9b08@DB5PEPF00014B9B.eurprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "https://urly.fi/3LCS?swWSgWbjN6LIaxQFa0myndzZeB3VD7yV01p4LpKQ6tSSR1ssnkm3dKfSXI5ZX2xJxVWbkSt9t533pMn4hIPH4Z",
+      "https://i.imgur.com/P320dH1.png",
+      "https://yeti-webmedia.imgix.net/m/7dc515a821a8fa0c/W-site_studio_drinkware_Rambler_42oz_Straw_Mug_Low_Country_Peach_Front_0459_Primary_A_2400x2400.png?bg=0fff&amp;auto=format&amp;w=500&amp;q=68&amp;h=500&amp;fit=fill&amp;hattr=500px&amp;wattr=500px",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/x8xcmVW.png",
+      "https://i.imgur.com/3m9hAJO.jpeg",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "seeklogo.com/images/M/mcdonald-s-logo-7553424BEB-seeklogo.com.png",
+      "https://seeklogo.com/images/M/mcdonald-s-logo-7553424BEB-seeklogo.com.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "yeti-webmedia.imgix.net/m/7dc515a821a8fa0c/W-site_studio_drinkware_Rambler_42oz_Straw_Mug_Low_Country_Peach_Front_0459_Primary_A_2400x2400.png?bg=0fff&amp;auto=format&amp;w=500&amp;q=68&amp;h=500&amp;fit=fill&amp;hattr=500px&amp;wattr=500px",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7973,
+    "html_length": 24113,
+    "has_text": true,
+    "has_html": true
+  }
+}

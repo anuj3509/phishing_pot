@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Hi Dear phishing@pot ,\"Access Your Credit Scores Today  Stay Ahead of Fraud!\"",
+    "from": "\"FreeScore360 Credit Alert\" <admin@bimboys.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Dec 2024 19:37:06 +0000",
+    "message_id": "<lwrjeetnqwiqjhD_4oh800534869242772957050537766655309670549594503296182482696308950469458732770694256866464103945611558850626608269706834126715601990491508912976597288882940617424269531phishing@pot076036023190.1.5JVNX6QIDJ59IFX2PCOSW0phnA@DB5EUR02FT061.eop-EUR02.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed;boundary=\"--_=_swift-QBMGOLV1CVLWARW_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://scoutly.online/t/4jcMoS6474noOc265lufimpeaxn143AZGVHHJYFMAAPHM62NLNS14356K17",
+      "https://scoutly.online#5zWuXw6474mpbe265xnbohylnop143FDLPYYMNRSVNMRW62VURK14356s17",
+      "http://scoutly.online/t/track/3gOjPc6474fKiE265negsykurjf143FXGRXGGCKELCQTZ62REAB14356N17"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3884,
+    "html_length": 7734,
+    "has_text": true,
+    "has_html": true
+  }
+}

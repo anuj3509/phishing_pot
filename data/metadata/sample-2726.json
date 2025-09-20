@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Guten Tag  phishing@pot-f-p ",
+    "from": "Fressnapf, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jan 2024 18:38:24 +0100",
+    "message_id": "<uqBSOZ6.0.0.uqBSOZ6.9.uqBSOZ6@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fair-forward1.com/?a=6073&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "https://fressnapfblackfriday01.blogspot.com/#VnJVc2gva1JzOWZveGsyYnNXMUJqYXI2SzFUZUhJQVp2SjJzMTVDMFhEbGxjZStBSlkwbFZleGhpOGw0UVhCcXdTcGtrL0xkOVhYNU10VWxmU0tZS3c9PQ__",
+      "https://fressnapfblackfriday01.blogspot.com/#bmZKZGt5NmdMSmxnUXNWUWZETEhzcU83S3JRMnFwZ0ZaNzQxNXpmdVdiWTRYb0U1M1Q2dkJYSDloNURJQ0k2dU1XWnBWeWJCRkFQUGtJbHNLc25OVHc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/41/xq4r.png",
+      "www.zupimages.net/up/23/41/xq4r.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8540,
+    "has_text": true,
+    "has_html": true
+  }
+}

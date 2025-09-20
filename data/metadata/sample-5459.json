@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Zorg dat je pensioen op orde is ��� Doe nu de pensioenscan!",
+    "from": "Jouw Pensioenadviseur <noreply@beslist.nl>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 16 Jul 2025 20:59:38 +0200",
+    "message_id": "<0455340d-c05c-448f-b253-1d778ebecd51@SJ1PEPF0000231B.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fonts.googleapis.com/css2?family=Albert+Sans:wght@400;500;700;800&amp;display=swap",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#TVppbENLUk03RnBRSXhnQ3EzN0xqckxQVjdUYm5vdUtzNk9MdlREYlZySEhhQmNZQlk2UHpKYVBVekh1czhjVm5ZdWx0SDZDZzFBeURPbFNsbElSYmk3SVBCRzU1YTZPU1dUUUsyYitmamM9",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#N0FhbGlUdkwxWENneHZBMjdXZGpQZjRJcEhIaVJuWlVBVDhpc2dodm1yTDFhRkZhSTRUNWd1bVdiQVZuODdmN3BQT0F0aTVOTTRQdW9GTmJhem5OOHY2WXZST013NERuR200eExlNE9YRzA9",
+      "https://tracking.agtrk3.com/aff_i?offer_id=862&amp;file_id=1742&amp;aff_id=1038"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3687,
+    "html_length": 26903,
+    "has_text": true,
+    "has_html": true
+  }
+}

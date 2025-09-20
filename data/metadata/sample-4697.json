@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Ihre Chance auf einen gro��en Gewinn!",
+    "from": "Temu,(<service@otto.de>)",
+    "to": "<phishing@pot>",
+    "date": "Fri, 3 Jan 2025 12:21:21 +0000",
+    "message_id": "<JSKYBFAQTRBFSQ8AU9KYO1L@telekom.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg",
+      "http://wmasurvey.com/4uyBCx42476vthu1267gpenprnajz14302ENJDSBFJKOQTPKY2ZVVR17316g10",
+      "http://wmasurvey.com/4nbNfy42476eFtc1267lhpvozkzkx14302VWHUTKVGYCTEFDY2XMJC17316g10",
+      "http://www.w3.org/1999/xhtml",
+      "http://wmasurvey.com/6mZRtH42476bYGa1267rudeedrjwc14302JLZAMFBQMJULJCD2WZQN17316o10",
+      "http://wmasurvey.com/5XAbAi42476xIHM1267tfhgdettql14302EJZAEBTVGBAYHLH2UXJJ17316n10",
+      "https://mcusercontent.com/053324a315bf8f7b8e223691c/images/9597b338-d7d7-8815-3e87-28d436ab1e6a.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1798,
+    "html_length": 8060,
+    "has_text": true,
+    "has_html": true
+  }
+}

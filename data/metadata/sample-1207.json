@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Password Expiry Notification",
+    "from": "\"proton.me IT Support\" <user@grandkanayahotel.id>",
+    "to": "honey@pot",
+    "date": "26 Jun 2023 22:29:15 +0200",
+    "message_id": "<20230626222915.A7BEF29B278314BD@grandkanayahotel.id>",
+    "content_type": "multipart/mixed;boundary=---------------------c2d2c17ca171abf96c3febde6a3e5efe"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------c2d2c17ca171abf96c3febde6a3e5efe"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.costom.best/international.html?look=honey@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 333,
+    "html_length": 3968,
+    "has_text": true,
+    "has_html": true
+  }
+}

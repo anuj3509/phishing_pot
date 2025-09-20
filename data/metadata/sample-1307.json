@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "AVISO: Seus 82.833 est��o pr��ximos de vencer. Efetue o resgate imediatamente - PROTOCOLO 20230822342.",
+    "from": "BB <info@bb.appliveloclube.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Sep 2023 14:47:09 +0000 (UTC)",
+    "message_id": "<20230911144709.DAE3F4DBA1@ubuntu-s-1vcpu-512mb-10gb-sfo3-03>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/fXP6i7S.png",
+      "https://i.imgur.com/dBpEY55.png",
+      "https://i.imgur.com/WkibSPw.png",
+      "https://i.imgur.com/svRYvLj.png",
+      "https://i.imgur.com/4Fwh8Cq.png",
+      "https://function-14-zka7zvb73a-nn.a.run.app",
+      "hotmail.com",
+      "https://i.imgur.com/6mSsBXq.png",
+      "https://i.imgur.com/tdGRkSH.png",
+      "https://i.imgur.com/sPXI2T8.png",
+      "https://i.imgur.com/nlZHkY7.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 697,
+    "html_length": 26623,
+    "has_text": true,
+    "has_html": true
+  }
+}

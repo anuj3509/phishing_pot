@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Nous avons une offre surprise pour vous-ouvrez-la maintenant!",
+    "from": "Disney - offres, <eglantine@news.meteocity.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 24 Dec 2023 16:28:22 +0100",
+    "message_id": "<f4yh9nc.iheq0.tvr.tvr@rjxhgcwppnggnpw.bxt>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.ibb.co/v1f1nwf/j185.jpg",
+      "https://i.ibb.co/v1f1nwf/j185.jpg",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1378522/zz33.shtml#SVlBVmpXZk9OUGRRc1ZaalNCdks0WUVEVDZYTGU2Ti9hTlJxa2tzcHhIVXh6bTN3cDBjbkFrUzJHbVBZN2R4RW9rWXZ3RE91dHk5OTNwQWNVK3Z1b2JPYVRlYWtlOEN2enpRd2V3cjdFZlM2SmdHV2R2RmxERlc3cUdVdE9IZmY_",
+      "https://fonts.googleapis.com/css?family=Open+Sans",
+      "http://revision-online.info/eml1WVNRM24yd1lBZFNHK09DSFNTQ1laanNSaG5XYy96TkJKOXVQQmdFSFB2UytsczFtbzVyQjhhQ2ROak1pZUFQc2c2dDdEdkkwT3I3bnhWTjdCUFVDU2U5QnExWUw2bm5tNnBsdERHUE16ck1WR3VzYkxCVU84VjVHOHA4Yks_",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1378522/zz33.shtml#Vm5XajU4OEgvaVJDWFVSKzlMVWdqam1HTlZkOWZ6Mi9ub2Jabnl1RVVMK1E1cVpiNHVpbnNjQnl0UnFHMU5HVHA0Z3U0dS9HV0YxTXh0N1JVNUJPcjZRa085WCthV0lCYkwyMTBrRHpaWkxZcEJSMjA3MWxOcUR0RHl5L1gzaUxKZjAydVBobzdUamtiZVd2NXZQUnZ3PT0_",
+      "img.big,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1052,
+    "html_length": 20893,
+    "has_text": true,
+    "has_html": true
+  }
+}

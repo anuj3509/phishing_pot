@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "You’ve got new messages from Aamir Bakht",
+    "from": "Support PRO <support@labsintown.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 31 May 2024 10:30:52 -0700",
+    "message_id": "<185ffe5be3681b5316336e22e3141eb2@labsintown.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_185ffe5be3681b5316336e22e3141eb2\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_185ffe5be3681b5316336e22e3141eb2\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=https://links.opensea.io/e/encryptedUnsubscribe?_r=79321cd9dcd645da85fea8d0a49bebde&amp;_s=109da80f4da54d29b816e9d6140dbbc4&amp;_t=ZhradNx8KplrC5Dg5rqo9Bs0MCQRa0Al727Kb0aKIbWGc-fa92TLG0cF0I8DIauuDBi3vv7J3KWV2TSoSJl0N1DDuBWeoPtdg4587hKgnd7dEG79V6wPKppSVpLKhCI77gr6cZ5qO-TrYv30Jcn-7bLft6HFfA8LpNvIJDO93aaTQNALfipHCqrSdzckW-Cw&amp;source=gmail&amp;ust=1716870068408000&amp;usg=AOvVaw2wSjpmLsvHBZkjJ_bN2yQZ",
+      "https://www.google.com/url?q=https://links.opensea.io/u/click?_t=79321cd9dcd645da85fea8d0a49bebde&amp;_m=109da80f4da54d29b816e9d6140dbbc4&amp;_e=mhl7GQCftB20g7EJXnwdsRQSFgQyELvo-Tu4CGByRp-dH2XTVUbaLvKeOXAICUtbQOYCJ6_buQgNfEaRE1RuNorKdJAJCTpW6smk_RNSEy7hJMErw4sZdbAnb37e7KpnTZf6m8g5meTwsxRoHZHJAqDcEqWMs5Dxg9PzEeszZWlsazphMyPPFCqFWjFX7VXgKZ3zMeyuoSr3SgqqZB3BECCpwmgFYgr2K1QQJlX101I=&amp;source=gmail&amp;ust=1716870068408000&amp;usg=AOvVaw2m7FRNgnA891LqHSvIJ_hV",
+      "https://uxangency.redesign-omgroup.ch/constitutive/zincked?email_sent_for=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 541,
+    "html_length": 7877,
+    "has_text": true,
+    "has_html": true
+  }
+}

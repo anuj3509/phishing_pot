@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "A mensalidade do seu plano foi reajustada phishing@pot?",
+    "from": "\"Ana Santos - Corretora\" <contato@cp.meucorretoronline.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Apr 2024 11:29:37 -0300",
+    "message_id": "\r\n <0SBU00M4E2XEWST1@rmta-ad2-fd1-201-us-ashburn-1.rmtaad2.vcndpiad.oraclevcn.com>",
+    "content_type": "Multipart/alternative; boundary=\"02775DA2_2542717E_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"02775DA2_2542717E_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://api.cotar-saude.com/app-d/lnk.php?id=332C33322C726F647269676F2D662D7040686F746D61696C2E636F6D2C32333732",
+      "table.MsoNormalTable"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1346,
+    "html_length": 38308,
+    "has_text": true,
+    "has_html": true
+  }
+}

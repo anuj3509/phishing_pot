@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "ALERTA: A importacao do seu pedido esta pendente devido ao pagamento da taxa de importacao. Regularize a sua situacao. 2730160476",
+    "from": "Pedidos Taxados <taxasalfandegarias@%atendimentos.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Sep 2024 20:32:34 -0400 (EDT)",
+    "message_id": "<20240914003234.2E4F644E02@nxizufnw-wdf1bu0qg49uwoc>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "http://liberar-pedidotaxado.co.ua/br/taxa33"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 360,
+    "html_length": 1463,
+    "has_text": true,
+    "has_html": true
+  }
+}

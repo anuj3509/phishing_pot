@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Greetings.",
+    "from": "\"MRS. ELIZABETH JOHNSON\" <debohjohnson058@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 28 Apr 2025 10:51:19 +0200",
+    "message_id": "<CAN3J-dEQx6sXNQaNUKZxx=ZLiW_2cGLivAQaQzjq0O88XUfy3g@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000009e4fa20633d2ca57\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000009e4fa20633d2ca57\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1402,
+    "html_length": 5742,
+    "has_text": true,
+    "has_html": true
+  }
+}

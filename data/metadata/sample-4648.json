@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Dir recht herzlich!",
+    "from": "Milka <Q4HVyV3.com>, Milka <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Dec 2024 17:03:45 +0100",
+    "message_id": "<Q4HVyV3.0.0.Q4HVyV3.9.Q4HVyV3@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_6862432544023011\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_6862432544023011\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/HnnSmKb.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://194.87.213.176/RC9kT0txZkdDNEN2K0dQcmUydFlIeXo4NE01Z1YzQ3lwY2phRU84NUFFNE5SNmRHZWxiWVRGZTJpVTdvZWJ1Ni8wb0plcjVVSWt3RWc0MnVGTUZiZEFhUDJLYUtCTytZRmxqY21xVTM1cW89",
+      "http://194.87.213.176/NjNWMDNpSEY1a2lKMTBpeGl4R1Rxd1g4MnlwZFFHMTN3dUVqQXp0N2lHOWxGV0FrdkpkbzNTTVRSeTZlUk12OHZqSVFhVnh2QXliMWo4dXVYcEhOUWZmVmNnSjcvaitndEM5bUFMUS9ib0U9",
+      "http://194.87.213.176/N2pkQ0tuV3ZlQnVPckpiTmR2cWFRSTk3U3I5RlJkVUtEY2NlYlRINnJJVUdxc3hZV2luL2NJY3Zpa00rSmVpZ1ozVWdsNEdxUHAxSUxBcUViR3d0UzN1c1docnJiWE56eFp3OVNJR3hyUG89"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1712,
+    "html_length": 9349,
+    "has_text": true,
+    "has_html": true
+  }
+}

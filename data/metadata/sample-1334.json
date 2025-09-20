@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "No Contract, Super Fast WiFI Speed!",
+    "from": "Muama Ryoko, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Sep 2023 01:48:32 +0200",
+    "message_id": "\r\n <26dc9a69-eaad-4d63-9f7e-5758e744b02a@AM7EUR06FT052.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://rnmgqf.stripocdn.email/content/guids/CABINET_b9423879c8bdc26733f87f9863646ac3/images/75111622026123189.png",
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "http://easilett.com/op/24_md/31/18/10/4/383653",
+      "http://www.w3.org/1999/xhtml",
+      "button.es-button",
+      "a.es-button,",
+      "tr.es-desk-hidden,",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://rnmgqf.stripocdn.email/content/guids/CABINET_b9423879c8bdc26733f87f9863646ac3/images/11111622025316745.png",
+      "http://easilett.com/cl/24_md/31/18/10/4/383653",
+      "http://easilett.com/oop/24_md/31/18/10/4/383653",
+      ".es-button.es-button-1",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4210,
+    "html_length": 10197,
+    "has_text": true,
+    "has_html": true
+  }
+}

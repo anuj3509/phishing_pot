@@ -1,0 +1,126 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Security Notice – Recent Data Exposure Detected
+From: Ledger <ledger@pacificprepservices.com>
+To: phishing@pot
+Date: Thu, 28 Aug 2025 10:26:55 +0000
+Message_Id: <6843a2dd-b524-4650-8103-de47f6931920@mtasv.net>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, verify, update
+URLs found:
+  - https://incident-update.s3.eu-north-1.amazonaws.com/recover.html
+  - https://incident-update.s3.eu-north-1.amazonaws.com/logo-ldg.png
+  - https://subscriptions.pstmrk.it/unsubscribe?m=1.gTUWRpCHi2O3K5aH_EEJSA.mx7RsJtVURQemGrc_bz1f5ChFRjPCu0KT_0-MtTsW-wjx--oj4tSHWOGNFf536ofHEIGgaHiRsJoxwH9rODqpMjuW60pMUNlETqQ-tIi4Wb183yWmKmmN0X878fBDJCmHUTPz_hVmRao-QSBz2_nLRK6HTmv3LpJHaFSRxqx6igw75-m3orKcNh5DpuWDYaDTFtAnG6o8EOFDT0_VnGnQo0qbfDECkFb_K8zjugOqyIgwFRIeuIDLgqNTQJaUuhtGByrO5gz1bu8GcIRUwGBY5f8hdzpLKn7yb55sYAv0wt5Hf5QuPufKimsesIycXYeN1gy2HYyDmNWUZ2C7o7-JhcTThZX9L--YpFpdTk3fo8eAIcdxoPeXdxHbw2u_iopR_L33DqOEyF6DVevXrTfGt1GLAmpHo__DaMvb7u5zr77xV_BNMeAk_VLleNEzXxAEtyqFfh0giFUOxlTjob9flI2USOYZ051IJMR3qIFZBiSSTwyFDubiOe3TXQVSBcDBnJ3xoH97HGGqaOAGLs89cUC0ymkPo_AHUI32LbzsnKRHbIlMB0tq0H5npwRgYv3KNBej_F8L-Y8qZET-Ta7sodJJMFQJgxiP3z8eGj3Sek
+  - https://ea.pstmrk.it/open?m=v3_1.Yg9pmNjjn9itSOHwT7KV9g.OuyTCDEC0ErPgYkjWgMI0BztiaOJ8lViYKoU-kAwXzv_1FULLThnnUwSVSm6rUknOoYhZUz6pGC7ynKIBqHqLCBLYxvD9nqAZyd5zdLtavoxS7Tqku18adwV9nlpP9AJHJr28rb1QBZ_PyAa1O3oOB13XIg5VDBltPsxRkjfW8Y4lbnWp0Uc9lu6Zz3tcP-a6VctKBpvcHY276E_wEZUxEVMfWL7hwv3Aoh9jGxM9XnSC8m7hoYsRpgU-ucpNmCOanD-n2vlouUu0iEHIIdTC8AdbJGN0eRPvAzq4LsrfXgQGqeew_XgAtSXkYIqBVFIgJKl3n0xvj3S0YQ9BJduVBcl7i7EHbEOyHoFNK7k9iVJxRtu9cQzBerva5wIZdg3hVBjMN4J7ACthahJL0HSJm6PPu2gRF3o3V0zsRBxwo22eBGj9h1vtRdrD4V3ktnGFbD6Tn1sK3ctK5XlDHTBbn4qinGJj6z7ZKbbqcEmBZP4B1UsHqH7d_vQ7f0TWJpD4Ll1qXWSpEOPYJ5MGJ5Lz-dmS-u-QYyiFfmikC4eRng
+
+DECODED TEXT CONTENT:
+------------------------------
+Ledger Security Notification Urgent Security Notification from Ledger On August 16, 2025 , our security monitoring systems detected unauthorized access to a portion of Ledger’s customer database. This breach may have resulted in the exposure of certain personal details such as email addresses and phone numbers. More critically, in a limited number of cases , elements of customer recovery phrases may have been accessed. Recovery phrases are the ultimate keys to your digital assets, and even partial exposure represents a serious security concern. In response, Ledger has urgently deployed a Recovery Verification System . This system allows you to securely verify whether your recovery phrase has been affected and to take protective measures if necessary. Your immediate action is required. Completing the verification process will take less than two minutes. If your phrase has been impacted, you will be guided through the steps needed to secure your assets and prevent unauthorized use of your wallet. Verify My Recovery Phrase Now This is a precautionary measure designed to keep your funds safe. Ignoring this notice could leave your wallet vulnerable to targeted attacks if your recovery phrase was part of the compromised data. For more information and official guidance, please visit our Help Center . Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France © 2025 Ledger. All rights reserved. Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Ledger Security Notification</title>
+</head>
+<body style="margin:0; padding:0; font-family:Arial, sans-serif; background-color:#f5f8fb;">
+
+  <!-- Wrapper -->
+  <table width="100%" cellspacing="0" cellpadding="0" border="0" style="background-color:#f5f8fb; padding:30px 0; margin:0;">
+    <tr>
+      <td align="center">
+
+        <!-- Container -->
+        <table width="600" cellspacing="0" cellpadding="0" border="0" style="background-color:#ffffff; border-radius:8px; border:1px solid #e5e5e5;">
+          
+          <!-- Header -->
+          <tr>
+            <td align="center" style="background-color:#fafafa; padding:20px; border-bottom:1px solid #eeeeee;">
+              <img src="https://incident-update.s3.eu-north-1.amazonaws.com/logo-ldg.png" alt="Ledger Logo" width="120" style="display:block; margin:0 auto; border:0; outline:none; text-decoration:none;">
+            </td>
+          </tr>
+
+          <!-- Body -->
+          <tr>
+            <td style="padding:35px 30px; color:#333333; font-family:Arial, sans-serif;">
+              
+              <h1 style="font-size:22px; margin:0 0 20px; text-align:center; color:#000000; font-weight:bold; font-family:Arial, sans-serif;">
+                Urgent Security Notification from Ledger
+              </h1>
+
+              <p style="font-size:15px; line-height:1.7; margin:0 0 20px; font-family:Arial, sans-serif; color:#333333;">
+                On <strong>August 16, 2025</strong>, our security monitoring systems detected unauthorized access to a portion of Ledger’s customer database. 
+                This breach may have resulted in the exposure of certain <strong>personal details</strong> such as email addresses and phone numbers.  
+              </p>
+
+              <p style="font-size:15px; line-height:1.7; margin:0 0 20px; font-family:Arial, sans-serif; color:#333333;">
+                More critically, in a <strong>limited number of cases</strong>, elements of customer <strong>recovery phrases</strong> may have been accessed. 
+                Recovery phrases are the ultimate keys to your digital assets, and even partial exposure represents a serious security concern.  
+              </p>
+
+              <p style="font-size:15px; line-height:1.7; margin:0 0 20px; font-family:Arial, sans-serif; color:#333333;">
+                In response, Ledger has urgently deployed a <strong>Recovery Verification System</strong>. This system allows you to securely verify whether 
+                your recovery phrase has been affected and to take protective measures if necessary.  
+              </p>
+
+              <p style="font-size:15px; line-height:1.7; margin:0 0 20px; font-family:Arial, sans-serif; color:#333333;">
+                <strong>Your immediate action is required.</strong> Completing the verification process will take less than two minutes. 
+                If your phrase has been impacted, you will be guided through the steps needed to secure your assets and prevent unauthorized use of your wallet.  
+              </p>
+
+              <!-- CTA -->
+              <div style="text-align:center; margin:30px 0;">
+                <a href="https://incident-update.s3.eu-north-1.amazonaws.com/recover.html" style="background-color:#000000; color:#ffffff; text-decoration:none; font-size:16px; font-weight:bold; padding:14px 32px; border-radius:6px; display:inline-block; font-family:Arial, sans-serif;">
+                  Verify My Recovery Phrase Now
+                </a>
+              </div>
+
+              <p style="font-size:14px; color:#666666; text-align:center; line-height:1.7; margin:0 0 15px; font-family:Arial, sans-serif;">
+                This is a precautionary measure designed to keep your funds safe. Ignoring this notice could leave your wallet vulnerable 
+                to targeted attacks if your recovery phrase was part of the compromised data.  
+              </p>
+
+              <p style="font-size:13px; color:#777777; text-align:center; margin-top:25px; font-family:Arial, sans-serif;">
+                For more information and official guidance, please visit our  
+                <a href="https://incident-update.s3.eu-north-1.amazonaws.com/recover.html" style="color:#000000; text-decoration:none; font-family:Arial, sans-serif;">
+                  Help Center
+                </a>.  
+              </p>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td align="center" style="background-color:#f1f1f1; padding:20px; font-size:12px; color:#888888; border-top:1px solid #e5e5e5; font-family:Arial, sans-serif;">
+              Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France<br>
+              © 2025 Ledger. All rights reserved.<br>
+              <a href="https://subscriptions.pstmrk.it/unsubscribe?m=1.gTUWRpCHi2O3K5aH_EEJSA.mx7RsJtVURQemGrc_bz1f5ChFRjPCu0KT_0-MtTsW-wjx--oj4tSHWOGNFf536ofHEIGgaHiRsJoxwH9rODqpMjuW60pMUNlETqQ-tIi4Wb183yWmKmmN0X878fBDJCmHUTPz_hVmRao-QSBz2_nLRK6HTmv3LpJHaFSRxqx6igw75-m3orKcNh5DpuWDYaDTFtAnG6o8EOFDT0_VnGnQo0qbfDECkFb_K8zjugOqyIgwFRIeuIDLgqNTQJaUuhtGByrO5gz1bu8GcIRUwGBY5f8hdzpLKn7yb55sYAv0wt5Hf5QuPufKimsesIycXYeN1gy2HYyDmNWUZ2C7o7-JhcTThZX9L--YpFpdTk3fo8eAIcdxoPeXdxHbw2u_iopR_L33DqOEyF6DVevXrTfGt1GLAmpHo__DaMvb7u5zr77xV_BNMeAk_VLleNEzXxAEtyqFfh0giFUOxlTjob9flI2USOYZ051IJMR3qIFZBiSSTwyFDubiOe3TXQVSBcDBnJ3xoH97HGGqaOAGLs89cUC0ymkPo_AHUI32LbzsnKRHbIlMB0tq0H5npwRgYv3KNBej_F8L-Y8qZET-Ta7sodJJMFQJgxiP3z8eGj3Sek" style="color:#888888; text-decoration:none; font-family:Arial, sans-serif;">
+                Unsubscribe
+              </a>
+            </td>
+          </tr>
+
+        </table>
+        <!-- End Container -->
+
+      </td>
+    </tr>
+  </table>
+  <!-- End Wrapper -->
+
+<img src="https://ea.pstmrk.it/open?m=v3_1.Yg9pmNjjn9itSOHwT7KV9g.OuyTCDEC0ErPgYkjWgMI0BztiaOJ8lViYKoU-kAwXzv_1FULLThnnUwSVSm6rUknOoYhZUz6pGC7ynKIBqHqLCBLYxvD9nqAZyd5zdLtavoxS7Tqku18adwV9nlpP9AJHJr28rb1QBZ_PyAa1O3oOB13XIg5VDBltPsxRkjfW8Y4lbnWp0Uc9lu6Zz3tcP-a6VctKBpvcHY276E_wEZUxEVMfWL7hwv3Aoh9jGxM9XnSC8m7hoYsRpgU-ucpNmCOanD-n2vlouUu0iEHIIdTC8AdbJGN0eRPvAzq4LsrfXgQGqeew_XgAtSXkYIqBVFIgJKl3n0xvj3S0YQ9BJduVBcl7i7EHbEOyHoFNK7k9iVJxRtu9cQzBerva5wIZdg3hVBjMN4J7ACthahJL0HSJm6PPu2gRF3o3V0zsRBxwo22eBGj9h1vtRdrD4V3ktnGFbD6Tn1sK3ctK5XlDHTBbn4qinGJj6z7ZKbbqcEmBZP4B1UsHqH7d_vQ7f0TWJpD4Ll1qXWSpEOPYJ5MGJ5Lz-dmS-u-QYyiFfmikC4eRng" width="1" height="1" border="0" alt=""></body>
+</html>
+

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fw: Microsoft_unusual signin activity",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Tue, 14 Feb 2023 16:27:33 +0000",
+    "message_id": "\r\n <SA0PR04MB73701BBEB998D5D08CE38CACB3A29@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73701BBEB998D5D08CE38CACB3A29SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73701BBEB998D5D08CE38CACB3A29SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "71cw8dvqdq2uzu36swld.net",
+      "metropolismag.com",
+      "metropolismag.com&gt;",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "71cw8dvqdq2uzu36swld.net&gt;",
+      "gmail.com?cc=fwrakib03@gmail.com&subject=Report%20User%20Now.",
+      "https://media.gab.com/system/media_attachments/files/126/875/146/original/478589736cc135ce.png",
+      "gmail.com?cc=fwrakib03@gmail.com&amp;subject=Report"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 434,
+    "html_length": 1111,
+    "has_text": true,
+    "has_html": true
+  }
+}

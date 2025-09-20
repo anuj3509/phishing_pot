@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Processo de suspens��o de CNH - Protocolo 15483041",
+    "from": "Detran <detran@gov.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Dec 2024 19:04:37 +0100 (CET)",
+    "message_id": "<20241216180437.C7DDB4E237@vmi2350971.contaboserver.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap",
+      "https://function-5-181094903240.us-central1.run.app",
+      "https://detran.gov.br/",
+      "gov.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1609,
+    "html_length": 3917,
+    "has_text": true,
+    "has_html": true
+  }
+}

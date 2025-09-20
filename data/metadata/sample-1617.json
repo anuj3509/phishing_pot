@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "You have won an Hexclad Hybrid Cookware ",
+    "from": "Costco - Thank you!!   ,_<amprc@75unl106i8.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Oct 2023 23:05:40 +0000",
+    "message_id": "\r\n <3a186167-c772-4b68-b06e-e864eb1ecf6a@MWH0EPF000971E4.namprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "expires today"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/f8yOfzG.jpg",
+      "https://t.co/HIQQ2d9bdZ",
+      "https://t.co/1u8rIEwsnB",
+      "https://i.imgur.com/f8yOfzG.jpg",
+      "http://vertuoldmuneted.com/track/o46267BmWxb27537896zBQy1371191uYH67744yLgp3224",
+      "http://dtherhproblem.us/su46267eoHJN27537896nKam1371191Vmf67744nAYq3224"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 480,
+    "html_length": 8918,
+    "has_text": true,
+    "has_html": true
+  }
+}

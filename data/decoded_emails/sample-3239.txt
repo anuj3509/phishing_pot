@@ -1,0 +1,81 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sie haben es GESCHAFFT ��� SIE sind dabei!
+From: Temu, <service@stayfriends.de>, Office, <service@stayfriends.de>, Temu,
+	<service@stayfriends.de.>
+To: phishing@pot
+Date: Fri, 03 May 2024 10:19:22 +0200
+Message_Id: <iqywevu.ypblf.zxy.zxy@zrlypwzxyjwtafi.raw>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://imgsupload.com/nl/879/btn.png
+  - http://www.w3.org/1999/xhtml
+  - https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8778_md/4049/26058/1381/281/76468
+  - https://fonts.googleapis.com/css?family=Roboto:400,700,900
+  - imgsupload.com/nl/879/header.png
+  - https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/8778_md/4049/26058/1381/281/76468
+  - https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/8778_md/4049/26058/1381/281/76468
+  - https://imgsupload.com/nl/879/header.png
+  - imgsupload.com/nl/879/btn.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Gutschein Gewinnspiel Hallo phishing@pot , Sie sind einer unserer möglichen Finalisten für einen Temu Shopping-Gutschein im Wert von 3.000€! Nutzen Sie jetzt die Chance auf einen Temu Gutschein. Bitte bestätigen Sie Ihre Angaben: Name: phishing@pot Email: phishing@pot HIER BESTÄTIGEN Viel Spaß beim Shoppen! Ihr Gutschein-Team click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+ <body style="font-family:Arial, Helvetica, sans-serif; font-size: 14px; color: #000000; margin: 0; padding: 0; min-width: 100%!important;" bgcolor="#ffffff">
+  <title>Gutschein Gewinnspiel</title> 
+   
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,700,900" rel="stylesheet">   
+  <table width="100%" border="0" cellpadding="0" cellspacing="0"> 
+   <tbody>
+    <tr> 
+     <td class="box" style="padding: 20px 0;"> 
+      <!-- content block --> 
+      <table bgcolor="FFFFFF" align="center" cellpadding="0" cellspacing="0" border="0" style=" width: 100%; width: 600px; border: 3px solid #fb7701; box-shadow: 0 4px 8px rgba(0,0,0,0.4);"> 
+       <tbody>
+        <tr> 
+         <td> <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8778_md/4049/26058/1381/281/76468" style="outline: none; border: none;"><img style="outline: none; border: none; display: block; text-align: center; font-weight: bold;font-size: 20px; color: #fb7701;" src="https://imgsupload.com/nl/879/header.png"><img style="outline: none; border: none; display: block; text-align: center; font-weight: bold;font-size: 20px; color: #fb7701;" src="//imgsupload.com/nl/879/header.png"></a> </td> 
+        </tr> 
+        <tr> 
+         <td bgcolor="#FFFFFF" style="padding-top: 0; padding-right: 50px; padding-bottom: 10px; padding-left: 50px;"> 
+          <table align="center" cellpadding="0" cellspacing="0" border="0" style="width: 100%; width: 500px; color: #000; text-align: left;"> 
+           <tbody>
+            <tr> 
+             <td style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; font-family: 'Roboto', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif'; font-size: 18px; line-height: 1.3; color: #000; text-align: left;"> <b>Hallo phishing@pot</b>, </td> 
+            </tr> 
+            <tr> 
+             <td style="padding-top: 0px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; font-family: 'Roboto', 'Lucida Sans Unicode', 'Lucida Sans', 'DejaVu Sans', Verdana, 'sans-serif'; font-size: 16px; line-height: 1.3; color: #000; text-align: left;"> Sie sind einer unserer möglichen Finalisten für einen Temu Shopping-Gutschein im Wert von 3.000€!<br> <br> Nutzen Sie jetzt die Chance auf einen Temu Gutschein. <br> Bitte bestätigen Sie Ihre Angaben:<br> <br> <b> Name: phishing@pot<br> Email: phishing@pot </b><br> <br> <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8778_md/4049/26058/1381/281/76468" style="text-decoration: underline; color: #fb7701;">HIER BESTÄTIGEN</a><br> <br> Viel Spaß beim Shoppen!<br> Ihr Gutschein-Team <br> </td> 
+            </tr> 
+           </tbody>
+          </table> </td> 
+        </tr> 
+        <tr> 
+         <td style="padding-bottom: 10px;"> <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#cl/8778_md/4049/26058/1381/281/76468" style="outline: none; border: none;"><img style="outline: none; border: none; text-align: center; display: block; font-size: 20px; font-weight: bold; color: #fb7701;" src="https://imgsupload.com/nl/879/btn.png"><img style="outline: none; border: none; text-align: center; display: block; font-size: 20px; font-weight: bold; color: #fb7701;" src="//imgsupload.com/nl/879/btn.png"></a> </td> 
+        </tr> 
+       </tbody>
+      </table> </td> 
+    </tr> 
+   </tbody>
+  </table> 
+  <img src="[]" width="1" height="1" border="0">  
+ </body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#oop/8778_md/4049/26058/1381/281/76468">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="https://app.simplycast.com//files/7147649/files/cnsjdncksdjnckjsdjcnjc.shtml#op/8778_md/4049/26058/1381/281/76468" width="1px" height="1px" style="visibility:hidden">
+

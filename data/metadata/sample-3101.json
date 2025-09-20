@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Tingling or numbness in your feet or hands?",
+    "from": "Nerve support ad <NEW_OFFRE_1_54636@iesfranch8.wqura.beauty >",
+    "to": "<phishing@pot_PbheALwsGc@comcast.net>",
+    "date": "Fri, 29 Mar 2024 09:49:56 +0000",
+    "message_id": "<ZF3lf1bGTw-Ct-Y9ADdP_QXBCgj92QUePqY7ejqbjyW4BjTX7URsWmFA3uAskp0snV.e6Fv6f6jeLq1ROGYgHg-1kOrn6uzH9hsPbheALwsGc.ec03rB6DLHo1ys7No7e7gj.fDBWoT2NP1zEMHIW9xnkpmCgvXzeD5CkJJcsfK7KCnqC@foWDxDtiqPOhey.chat.openai.com>",
+    "content_type": "multipart/digest; boundary=\"----=_Part___DynTag1_____DynTag2__.__DynTag3__\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/digest; boundary=\"----=_Part___DynTag1_____DynTag2__.__DynTag3__\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/Q8C2eFTHTM",
+      "http://104.219.248.205/track/3uNFoa3218YywM37hnvexkaije257UBHOZUJITEEPIWM28SEPV1147513H9",
+      "https://t.co/bI7eOYBFPH",
+      "https://storage.googleapis.com/7didan/Screenshot%202024-03-20%20at%2019-59-16%20Screenshot.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 574,
+    "html_length": 2034,
+    "has_text": true,
+    "has_html": true
+  }
+}

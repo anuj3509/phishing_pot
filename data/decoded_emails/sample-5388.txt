@@ -1,0 +1,86 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Order payment is confirmed Friday, 09 May 2025
+From: "Paid Customer" <sokinabibi723@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Fri, 09 May 2025 07:08:49 -0700 (PDT)
+Message_Id: <681e0c71.170a0220.326dc.cc73@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============7385494949135164382=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============7385494949135164382=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #0760FA; } .auto-style2 { color: #0D30FE; } Pay Pal Shipment Confirmation for Your Purchase Greetings Paid, Exciting news! Your 1092-736-10785, is on its way to you. Here are your tracking details: Seller details: Seller: Binance Global, Inc. Product: Power BTC 2x Qyt: 1x Shipping Charge: Free Order Total: $1107.95 Buyer details: To: Paid Customer Email: rodrigo-f-p@hotmail.com Wallet address: 52d3ca5f-5b26-47f9-8237-a21290938fd6 You can track the progress of your shipment by visiting the PayPal website and entering your tracking number. Here is the link to track your package: tracking. If you have any questions or encounter any issues with tracking your package, please contact our customer service team at 1-828-630-5012. Thank you once again for choosing PayPal. We appreciate your business and hope you enjoy your purchase! Kind Regards, Hero Wilhite Tel: 1-828-630-5012 Copyright ©2024 Company, all rights reserved. 12741 Bellflower Blvd 204 Ca Chillicothe Ohio 83140 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #0760FA;
+}
+.auto-style2 {
+	color: #0D30FE;
+}
+</style>
+</head>
+
+<body>
+
+<h2><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></h2>
+<p><strong>Shipment Confirmation for Your Purchase</strong><br>
+<br>
+Greetings Paid,<br>
+Exciting news! Your 1092-736-10785, is on its way to you. Here are your tracking details:<br>
+<br>
+<strong>Seller details:</strong><br>
+Seller: Binance Global, Inc.<br>
+Product: Power BTC 2x<br>
+Qyt: 1x<br>
+Shipping Charge: Free<br>
+Order Total: $1107.95<br>
+<br>
+<strong>Buyer details:</strong><br>
+To: Paid Customer<br>
+Email: rodrigo-f-p@hotmail.com<br>
+Wallet address: 52d3ca5f-5b26-47f9-8237-a21290938fd6<br>
+<br>
+You can track the progress of your shipment by visiting the PayPal website and 
+entering your tracking number. Here is the link to track your package: tracking.<br>
+<br>
+If you have any questions or encounter any issues with tracking your package, 
+please contact our customer service team at 1-828-630-5012.<br>
+Thank you once again for choosing PayPal. We appreciate your business and hope 
+you enjoy your purchase!<br>
+<br>
+Kind Regards,<br>
+Hero Wilhite<br>
+Tel: 1-828-630-5012<br>
+<br>
+Copyright ©2024 Company, all rights reserved.<br>
+12741 Bellflower Blvd 204 Ca Chillicothe Ohio 83140 USA</p>
+
+</body>
+
+</html>

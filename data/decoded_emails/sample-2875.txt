@@ -1,0 +1,225 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Data Breach
+From: Ledger <luke@canix.com>
+To: <phishing@pot>
+Date: Mon, 19 Feb 2024 15:21:45 +0000
+Message_Id: <5da25878ff2eb343122436614.55341744aa.20240219152134.71281491c1.24eefe56@mail158.suw14.mcdlv.net>
+Content_Type: multipart/alternative; boundary="_----------=_MCPart_1593002775"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="_----------=_MCPart_1593002775"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: immediately, update
+URLs found:
+  - https://ledger.critical-update.com)
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1
+  - https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&id=14bb8dcfc2&t=b&e=55341744aa&c=71281491c1)
+  - https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)
+  - https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D
+  - https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;t=b&amp;e=55341744aa&amp;c=71281491c1
+  - https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)
+  - https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1
+  - hotmail.com
+  - https://getcanix.us19.list-manage.com/track/click?u=5da25878ff2eb343122436614&amp;id=6ff6051fc8&amp;e=55341744aa
+  - https://getcanix.us19.list-manage.com/track/open.php?u=5da25878ff2eb343122436614&amp;id=71281491c1&amp;e=55341744aa
+  - hotmail.com)
+
+DECODED TEXT CONTENT:
+------------------------------
+Dear client,
+
+We regret to inform you that Ledger has fallen victim to a sophisticated phishing attack on February 18, 2024. An employee was tricked into giving administrative credentials to hackers, which resulted in the sensitive data of approximently 267,000 customers being exported.
+
+The data of customers which was exposed is limited. The breach consists of emails, transaction history, firmware version, & customer orders. The hackers were unable to export all of the data on the Ledger Live servers due to our Cyber Security team discovering the threat actor.
+
+After a damage assesment performed by the Cyber Security team, it was discovered that there was a leaked Github API token that allowed hackers to roll out updates on ~53,000 ledger devices, with the patch now marked as CVE-2024-8471.
+
+If you're receiving this email, it is because you are one of the customers affected by the data breach. Due to the severity of this situation, it is recommended that you upgrade your Ledger immediately or risk loss of assets. Customer's have reported assets missing from their wallet, and all transactions lead to the same wallet now marked as Ledger Exploiter Wallet.
+
+If you have not upgraded your firmware to the latest version already, do so now in order to ensure no loss of assets.
+
+Sincerly,
+Ledger
+
+
+Upgrade to latest version (https://ledger.critical-update.com)
+
+
+This email was sent to phishing@pot (mailto:phishing@pot-f-p@hotmail.com)
+why did I get this? (https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)     unsubscribe from this list (https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&id=14bb8dcfc2&t=b&e=55341744aa&c=71281491c1)     update subscription preferences (https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&id=14bb8dcfc2&e=55341744aa&c=71281491c1)
+Ledger . 63 Bluxome St . San Francisco, CA 94107-1605 . USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><table class="yiv1505425762nl-container" bgcolor="#fff" width="100%" role="presentation" cellspacing="0" cellpadding="0" style="line-height:inherit;table-layout:fixed;vertical-align:top;min-width:320px;border-spacing:0;border-collapse:collapse;background-color:#fff;width:100%;">
+        <tbody style="line-height:inherit;">
+            <tr valign="top" style="line-height:inherit;border-collapse:collapse;vertical-align:top;">
+                <td valign="top" style="line-height:inherit;border-collapse:collapse;vertical-align:top;">
+                    
+                    <div style="line-height:inherit;background-color:transparent;overflow:hidden;">
+                        <div style="line-height:inherit;min-width:320px;max-width:600px;word-wrap:break-word;Margin:0 auto;width:100%;background-color:#ffffff;">
+                            <div style="line-height:inherit;border-collapse:collapse;display:table;width:100%;background-color:#ffffff;">
+                                
+                                
+                                <div class="yiv1505425762hjHo5OWx yiv1505425762num12" style="line-height:inherit;min-width:320px;max-width:600px;display:table-cell;vertical-align:top;width:600px;">
+                                    <div style="line-height:inherit;width:100% !important;">
+                                        
+                                        <div style="line-height:inherit;border-top:0px solid transparent;border-left:0px solid transparent;border-bottom:0px solid transparent;border-right:0px solid transparent;padding-top:0px;padding-bottom:0px;padding-right:0px;padding-left:0px;">
+                                            
+                                            
+                                            <div style="color:#142533;font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;line-height:1.2;padding-top:20px;padding-right:0px;padding-bottom:00px;padding-left:0px;">
+                                                <div style="font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;line-height:1.2;color:#142533;">
+                                                    <p style="font-size:12px;line-height:1.2;text-align:right;font-family:'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;margin:0;"></p>
+                                                </div>
+                                            </div>
+                                            
+                                            
+                                            <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+                                                <div style="line-height:1.2;font-size:12px;color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+                                                    <p style="font-size:14px;line-height:1.2;margin:0;">
+
+
+                                                        
+
+                                                        
+                                                    </p>    
+<table style="border-bottom:1px solid #D8D8D8;width:100%;max-width:600px;margin:0 auto 12px;border-collapse:collapse;font-size:11px;line-height:1.7;color:#999;font-family:'Open Sans', arial, verdana, sans-serif;">
+                                                        <tbody><tr>
+                                                            <td style="padding:22px 0;"> <a title="Ledger" rel="noopener noreferrer" target="_blank"><img style="max-height:20px;" height="20" alt="" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D"></a> </td>
+                                                        </tr>
+                                                    </tbody>    
+</table>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div style="line-height:inherit;background-color:transparent;overflow:hidden;">
+                        <div style="line-height:inherit;min-width:320px;max-width:600px;word-wrap:break-word;Margin:0 auto;width:100%;background-color:#f3f3f3;">
+                            <div style="line-height:inherit;border-collapse:collapse;display:table;width:100%;background-color:#f3f3f3;">
+                                
+                                
+                                <div class="yiv1505425762hjHo5OWx yiv1505425762num12" style="line-height:inherit;min-width:320px;max-width:600px;display:table-cell;vertical-align:top;width:600px;">
+                                    <div style="line-height:inherit;width:100% !important;">
+                                        
+                                        <div style="line-height:inherit;border-top:0px solid transparent;border-left:0px solid transparent;border-bottom:0px solid transparent;border-right:0px solid transparent;padding-top:10px;padding-bottom:10px;padding-right:0px;padding-left:0px;">
+                                            
+                                            
+                                            <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:2;padding-top:10px;padding-right:60px;padding-bottom:10px;padding-left:60px;">
+                                                <div style="line-height:2;font-size:12px;color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">
+                                                    <p style="text-align:left;line-height:2;font-size:14px;margin:0;">
+                                                        <span style="line-height:inherit;font-size:14px;">Dear client,</span>    
+<br>    
+<br><span style="line-height:inherit;font-size:14px;">We regret to inform you that Ledger has fallen victim to a sophisticated phishing attack on February 18, 2024. An employee was tricked into giving administrative credentials to hackers, which resulted in the sensitive data of approximently 267,000 customers being exported. </span>    
+<br>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">The data of customers which was exposed is limited. The breach consists of emails, transaction history, firmware version, &amp; customer orders. The hackers were unable to export all of the data on the Ledger Live servers due to our Cyber Security team discovering the threat actor.</span>    
+<br>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">After a damage assesment performed by the Cyber Security team, it was discovered that there was a leaked Github API token that allowed hackers to roll out updates on ~53,000 ledger devices, with the patch now marked as <b>CVE-2024-8471.</b></span>    
+<br>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">If you're receiving this email, it is because you are one of the customers affected by the data breach. Due to the severity of this situation, it is recommended that you upgrade your Ledger immediately or <b>risk loss of assets</b>. Customer's have reported assets missing from their wallet, and all transactions lead to the same wallet now marked as <b>Ledger Exploiter Wallet</b>.</span>    
+<br>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">If you have not upgraded your firmware to the latest version already, do so now in order to ensure no loss of assets.</span>    
+<br>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">Sincerly,</span>    
+<br>
+                                                            <span style="line-height:inherit;font-size:14px;">Ledger</span>
+                                                        </p>
+                                                    <p style="font-size:14px;line-height:2;text-align:center;margin:0;">
+                                                        &nbsp;</p>
+                                                        <div class="yiv1505425762button-container" style="line-height:inherit;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;" align="center">
+                                                            <a style="line-height:inherit;text-decoration:none;display:inline-block;color:#ffffff;background-color:#41CCB4;border-radius:4px;width:auto;width:auto;border-top:1px solid #41CCB4;border-right:1px solid #41CCB4;border-bottom:1px solid #41CCB4;border-left:1px solid #41CCB4;padding-top:10px;padding-bottom:10px;font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif;text-align:center;" href="https://getcanix.us19.list-manage.com/track/click?u=5da25878ff2eb343122436614&amp;id=6ff6051fc8&amp;e=55341744aa" rel="noopener noreferrer" target="_blank"><span style="line-height:inherit;padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;">
+                                                                    <span style="font-size:16px;line-height:2;">Upgrade to latest version</span> </span></a>
+                                                            
+                                                        </div>
+                                                    <p style="font-size:14px;line-height:2;text-align:center;margin:0;">
+                                                        &nbsp;</p>
+                                                </div>
+                                            </div>
+                                            
+                                            
+                                        </div>
+                                        
+                                    </div>
+                                </div>
+                                
+                                
+                            </div>
+                        </div>
+                    </div>
+                    <div style="line-height:inherit;background-color:transparent;overflow:hidden;">
+                        <div style="line-height:inherit;min-width:320px;max-width:600px;word-wrap:break-word;Margin:0 auto;width:100%;background-color:#ffffff;">
+                            <div style="line-height:inherit;border-collapse:collapse;display:table;width:100%;background-color:#ffffff;">
+                                
+                                
+                                <div class="yiv1505425762hjHo5OWx yiv1505425762num12" style="line-height:inherit;min-width:320px;max-width:600px;display:table-cell;vertical-align:top;width:600px;">
+                                    <div style="line-height:inherit;width:100% !important;">
+                                        
+                                        <div style="line-height:inherit;border-top:0px solid transparent;border-left:0px solid transparent;border-bottom:0px solid transparent;border-right:0px solid transparent;padding-top:5px;padding-bottom:5px;padding-right:0px;padding-left:0px;">
+                                            
+                                            
+                                            <div style="color:#555555;font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;line-height:1.2;padding-top:10px;padding-right:10px;padding-bottom:10px;padding-left:10px;">
+                                                <div style="font-family:Open Sans, Helvetica Neue, Helvetica, Arial, sans-serif;font-size:12px;line-height:1.2;color:#555555;">
+                                                    <p style="font-size:14px;line-height:1.2;text-align:center;font-family:Arial, Helvetica Neue, Helvetica, sans-serif;margin:0;">
+                                                    </p>    
+<table class="yiv1505425762cLMsNNK8" style="border-top:1px solid #D8D8D8;width:100%;max-width:600px;margin:22px auto;border-collapse:collapse;font-size:11px;line-height:1.7;color:#999;font-family:'Open Sans', arial, verdana, sans-serif;">
+                                                        <tbody><tr>
+                                                            <td style="padding:22px 0;" width="auto"> <a title="Ledger" rel="noopener noreferrer" target="_blank"><img style="max-height:20px;" height="20" alt="" src="https://ecp.yusercontent.com/mail?url=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F2974%2F4858%2Ffiles%2Fledger-logo-grey.png%3Fv%3D1601546568&amp;t=1703250218&amp;ymreqid=0c566e52-1e50-5526-1c02-fa001001c600&amp;sig=SURGutgEtk4F7Q5bl82Jhw--~D"></a> </td>
+                                                    </tr></tbody>    
+                                                    </table></div></div></div></div></div></div></div></div></td></tr></tbody></table>            <center>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <br>
+                <table border="0" cellpadding="0" cellspacing="0" width="100%" id="canspamBarWrapper" style="background-color:#FFFFFF; border-top:1px solid #E5E5E5;">
+                    <tr>
+                        <td align="center" valign="top" style="padding-top:20px; padding-bottom:20px;">
+                            <table border="0" cellpadding="0" cellspacing="0" id="canspamBar">
+                                <tr>
+                                    <td align="center" valign="top" style="color:#606060; font-family:Helvetica, Arial, sans-serif; font-size:11px; line-height:150%; padding-right:20px; padding-bottom:5px; padding-left:20px; text-align:center;">
+                                        This email was sent to <a href="mailto:phishing@pot" target="_blank" style="color:#404040 !important;">phishing@pot-f-p@hotmail.com</a>
+                                        <br>
+                                        <a href="https://getcanix.us19.list-manage.com/about?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1" target="_blank" style="color:#404040 !important;"><em>why did I get this?</em></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getcanix.us19.list-manage.com/unsubscribe?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;t=b&amp;e=55341744aa&amp;c=71281491c1" style="color:#404040 !important;">unsubscribe from this list</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getcanix.us19.list-manage.com/profile?u=5da25878ff2eb343122436614&amp;id=14bb8dcfc2&amp;e=55341744aa&amp;c=71281491c1" style="color:#404040 !important;">update subscription preferences</a>
+                                        <br>
+                                        Ledger &middot; 63 Bluxome St &middot; San Francisco, CA 94107-1605 &middot; USA
+                                        <br>
+                                        <br>
+                                        
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <style type="text/css">
+                    @media only screen and (max-width: 480px){
+                        table#canspamBar td{font-size:14px !important;}
+                        table#canspamBar td a{display:block !important; margin-top:10px !important;}
+                    }
+                </style>
+            </center><img src="https://getcanix.us19.list-manage.com/track/open.php?u=5da25878ff2eb343122436614&amp;id=71281491c1&amp;e=55341744aa" height="1" width="1" alt="">

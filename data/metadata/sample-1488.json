@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "ein Apple iPhone 15 Pro zu gewinnen! ! phishing@pot",
+    "from": "Kaufland, jehd <webmestre@ccmp.daf-mag.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Oct 2023 11:45:21 +0200",
+    "message_id": "\r\n <c5b528c9-09a6-4e80-9ac0-6cda93242eea@BN8NAM11FT116.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://144.172.64.14/media/c74c2b1902ad1a8.png",
+      "http://144.172.64.14/media/ef255bb8e2724a0.png",
+      "http://easilett.com/oop/615_md/2010/1/98/23/2459859",
+      "http://easilett.com/op/615_md/2010/1/98/23/2459859",
+      "bgasdfasdfa.jpg",
+      "http://easilett.com/cl/615_md/2010/1/98/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5111,
+    "html_length": 11832,
+    "has_text": true,
+    "has_html": true
+  }
+}

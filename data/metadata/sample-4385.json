@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Pagamento Necessário: Seu Pedido Correios Retido na Alfândega",
+    "from": "ganine <notificacoes@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 16 Nov 2024 20:46:03 +0000",
+    "message_id": "<f810672e-d463-dd50-8190-eb04e9e6cccd@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu/?mailID=SJhmiosY81eWpAoSvQHHOg7AaU8yTZDbvm-t13KPZsHzdxCSftSeMUt7KDxLgp7g8M84Y9NE0Tgho1rTAPLwE8H_ENpCNQ0so1nRZjKd4QDNkUg5Hf7V7YOvgh14hQ4BmOM-f6c4PHEtEVKY6YwhqGlk_HDLOwnZozCKmXyTtN5-beNB8HaGCMpr-s5k-n77LW6jgtZKP5Lnm8dHDRpXXOXpFYBNcNkHy7ClWz2eb-ShQb_Murwb5sAHqHdyiQCcdN2TFjlznI34AvXJbFPIXiIiSNZom0Mm2NKiyZ771EhonqL8ZPSa5WWn8rcGx96HMN2R3bUJxy1Wv2_e-sJnQ1H0FLSaDGI",
+      "Franc.pdf",
+      "pinheiros.Depois"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 33328,
+    "html_length": 60509,
+    "has_text": true,
+    "has_html": true
+  }
+}

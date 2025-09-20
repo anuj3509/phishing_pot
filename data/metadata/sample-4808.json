@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Urgent! Je bestelling is niet helemaal goed gegaan!",
+    "from": "\"DHL\" <dhl-opsporen-volgen.internationaal@aprimarse.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 9 Feb 2025 06:28:16 +0000",
+    "message_id": "<84_HTML-073276629-98475-4041958211-1249@qznbn59W.xt.local>",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://click.e.infiniteinterests.sa.com/SVlWNHBkUVloSW95Z3BLZEF3YXVPMVJ6TS90L2pRMDl0bHJ6Q2k3UXR2bmJrZ2ZFOTV2MEs1dnZ0NnQ5T284VW4zcGxkRDZEbG5XeUJRMXVHU3c1aENzZkNyL2NXRFZFb29wSmdtUzM2YXM9",
+      "https://click.e.infiniteinterests.sa.com/Umw4M1RaTmtFdU5VSU5KN2kxSlN6Q0lrRVI3b2dLVVI4K1dBZGRkcWZKUkdzZ2VWMFM1Q0FiblJaUllSSHlIWFpLWmVtZ0Q3bG5wYXZPblkwVThmWlI2WFB1OGs1dHR6SmNuY1JTZU1EYWc9",
+      "https://click.e.infiniteinterests.sa.com/2db89d11b71f1d2.png",
+      "https://click.e.infiniteinterests.sa.com/eTJEOEJlamowcmcxTVNDTnY3QVRsZCtNb1JoVWs5SWFmanlLL0FUdnIyQlluUTVOVklqRGpEU21YNEY4VjhNZDFFMHpJU0xlRnFqRWRpQTE2eVBoQjBvQXRnWTFiZ1ZSdmhic0hBOFRrOTQ9",
+      "click.e.infiniteinterests.sa.com/b131053c0dda959.png",
+      "https://click.e.infiniteinterests.sa.com/SVlWNHBkUVloSW95Z3BLZEF3YXVPMVJ6TS90L2pRMDl0bHJ6Q2k3UXR2bmJrZ2ZFOTV2MEs1dnZ0NnQ5T284VW4zcGxkRDZEbG5XeUJRMXVHU3c1aENzZkNyL2NXRFZFb29wSmdtUzM2YXM9",
+      "https://click.e.infiniteinterests.sa.com/b131053c0dda959.png",
+      "http://click.e.infiniteinterests.sa.com/Umw4M1RaTmtFdU5VSU5KN2kxSlN6Q0lrRVI3b2dLVVI4K1dBZGRkcWZKUkdzZ2VWMFM1Q0FiblJaUllSSHlIWFpLWmVtZ0Q3bG5wYXZPblkwVThmWlI2WFB1OGs1dHR6SmNuY1JTZU1EYWc9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1561,
+    "html_length": 6453,
+    "has_text": true,
+    "has_html": true
+  }
+}

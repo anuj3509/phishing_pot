@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Exclusive Update: Your stETH Rewards are Ready!",
+    "from": "Lido Finance <noreply@lido.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 26 Oct 2024 05:33:10 +0000 (UTC)",
+    "message_id": "<20241026053310.774D863A9B0BF194@lido.com>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://email.foreupsoftware.com/ls/click?upn=u001.ZK6KYvh4v871ibCBSUEFnd-2BHOvaekCTsy6-2FY83JJA6lImjAs-2BqNC9tb-2B2hfD-2B10xlgyQqet2UY2fBNVuwB1d4A-3D-3DDYSP_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsGu54rPEaHaLplzUi-2F2vjFxbTw3GIEwelVdPVfv5k-2FMf4TrXpv2HaN0oYOVP-2B170KdzP010e-2BoHN3f7S6TdNfXuOfiKD5hxTrl5Mx75Aqf4rX8GUlAwkCsTdxeqlXP6OLUDMN700X3Oh5GI-2BJ6zalW-2F6z-2F4OVgajRJza-2FK7Axnlg-3D-3D",
+      "https://email.foreupsoftware.com/ls/click?upn=u001.xAB3H7sePfTHOEmy9Y4-2BpymlKvHV-2Fd3CuEEG72jXzK3YTRf2hee5JofHtwgeU4069CsF_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcsGu54rPEaHaLplzUi-2F2vjFxbTw3GIEwelVdPVfv5k-2FMXA8YSbjJpR2koei2KSY-2BR0vcDsxPaodjIz8rZELK8GXAb-2BRFT8h6RjuJI-2F8hcHTfPU3ykYY0FZJjncdl5rzXF4zAMrGXBej84mbhCRsFukjn4lW18ZWoChLuz6IGj55Cg-3D-3D",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035",
+      "https://email.foreupsoftware.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXdcX0gT2r8CNqtw1No328xwbndfPDqTWyxGWPMU49288nPIxVQ1-2FGamYg98FsgSpTV2jk5vP9izgFTFuJ37OWXAUw1Of-2FRStSjJB2PRSbzpgPYLibRMVUXEV2j1YBm2yZjtUezDFoFJSdPej7PPi4oZ-2Bm-2FLZLpmnHaXCwDBN1GGQ-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1420,
+    "html_length": 4891,
+    "has_text": true,
+    "has_html": true
+  }
+}

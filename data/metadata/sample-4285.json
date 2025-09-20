@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Unlock New Opportunities with Optimism Today",
+    "from": "Team Optimism <optimism@powayimpact.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 7 Nov 2024 18:06:04 +0000",
+    "message_id": "<0100019307ce0cc4-2a6cd5cd-149a-4e31-a127-f12c864f66c7-000000@email.amazonses.com>",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://discord.optimism.io",
+      "https://optimism-holder.com",
+      "https://twitter.com/optimismPBC",
+      "https://t.me/optimismPBC"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1066,
+    "html_length": 3036,
+    "has_text": true,
+    "has_html": true
+  }
+}

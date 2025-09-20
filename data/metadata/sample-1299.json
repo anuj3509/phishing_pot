@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Restriction on your Account",
+    "from": "Coinbase <werner.huett@t-online.de>",
+    "to": "\"verifyacct@coinbase.com\" <verifyacct@coinbase.com>",
+    "date": "Thu, 07 Sep 2023 14:07:33 +0200",
+    "message_id": "<1694088453272.1925511.1d1e405078406005db45e0bb25dc8ddacd94f2d1@spica.telekom.de>",
+    "content_type": "multipart/mixed;boundary=---------------------2c02a86a7a4db0abc6426fcece26c3a3"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------2c02a86a7a4db0abc6426fcece26c3a3"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cutt.ly/Uwl4IwNO",
+      "https://static-assets.coinbase.com/email/coinbase-transactional-wordmark-white.png",
+      "https://www.coinbase.com/assets/app/icon_email-e8c6b940e8f3ec61dcd56b60c27daed1a6f8b169d73d9e79b8999ff54092a111.png",
+      "https://www.coinbase.com/",
+      "http://ss"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 584,
+    "html_length": 5447,
+    "has_text": true,
+    "has_html": true
+  }
+}

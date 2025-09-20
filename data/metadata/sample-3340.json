@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Wir haben eine wichtige Nachricht f��r Sie!",
+    "from": "Nachricht von T-Online, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 15 Jun 2024 08:09:13 +0200",
+    "message_id": "<rMrFP7y.0.0.rMrFP7y.9.rMrFP7y@stayfriends.de> ",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://magicmotorworks.info/un/214_md/1995/986/737/26/123038",
+      "www.zupimages.net/up/23/37/blca.png",
+      "https://unmarcomm.com/?a=8101&amp;oc=21066&amp;c=56280&amp;p=r&amp;m=3&amp;s1=",
+      "http://magicmotorworks.info/op/214_md/1995/986/737/26/123038",
+      "https://www.zupimages.net/up/24/23/v30x.png",
+      "https://www.zupimages.net/up/23/37/blca.png",
+      "bgasdfasdfa.jpg",
+      "http://magicmotorworks.info/oop/214_md/1995/986/737/26/123038",
+      "www.zupimages.net/up/24/23/v30x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5188,
+    "html_length": 12291,
+    "has_text": true,
+    "has_html": true
+  }
+}

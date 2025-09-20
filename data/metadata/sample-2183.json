@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Es ist obligatorisch einen Rauchmelder zu Hause zu haben",
+    "from": "Sicher leben, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Dec 2023 17:46:13 +0100",
+    "message_id": "\r\n <62de5eca-7c47-4cc9-b384-f433c84a6249@BN8NAM04FT010.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/5078_md/2009/89/250/23/2459859",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=qGhzZ7FMcXrqCkBnjUcC9Zdju9ORwdUDu8epr9oY0-U.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiI2MmI0YWJlOC02ZGE0LTQ0MWEtYjVmZC0wMWEzYTU5YjdlODEiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/5078_md/2009/89/250/23/2459859",
+      "https://imagehostr.com/img/Ingebouwde%20batterij%20(2).png",
+      "https://imagehostr.com/img/Ingebouwde%20batterij%20(1).png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1413,
+    "html_length": 20074,
+    "has_text": true,
+    "has_html": true
+  }
+}

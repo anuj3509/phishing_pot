@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Voce possui 245.579 mil pontos acumulados! ",
+    "from": "Cliente Bradesco <BIA@BRADESCO.COM.BR>",
+    "to": "phishing@pot",
+    "date": "Wed, 15 Mar 2023 01:04:04 +0000 (UTC)",
+    "message_id": "<20230315010404.2A9EB3F67E@ubuntu-s-1vcpu-512mb-10gb-nyc1-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://240.91.74.97.host.secureserver.net/001/?hash=rodrigo-f-p@hotmail.com",
+      "http://www.w3.org/TR/xht=",
+      "xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1175,
+    "html_length": 7534,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Multa de Trânsito",
+    "from": "\"YCMAS83NHCA\" <expremultinf2@outlook.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 9 Aug 2023 16:56:46 +0000",
+    "message_id": "<0946202308561663EBEF0539-4D1AB852CB@outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"2t3MzULPhAg=_Bba3U1tE5gZfsAx7OLdCW\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"2t3MzULPhAg=_Bba3U1tE5gZfsAx7OLdCW\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/dcbf1821739d2d5c06cad0645efa9d6e-1691600206.88/a/dcbf1821739d2d5c06cad0645efa9d6e/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/8631974b273ff9dd73a0334b287450940139b42b",
+      "https://login4.conteudo-protegido.one"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 593,
+    "html_length": 6383,
+    "has_text": true,
+    "has_html": true
+  }
+}

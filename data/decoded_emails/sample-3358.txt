@@ -1,0 +1,206 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Livelo Info: Seus pontos Livelo valem R$ 9.630,92 e estão expirando em breve!
+From: Bradesco <infomail123983@bradesco>
+To: phishing@pot
+Date: Tue, 18 Jun 2024 22:24:06 +0000
+Message_Id: <63c09497282ba7896b8ca15f67d62533@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_63c09497282ba7896b8ca15f67d62533"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_63c09497282ba7896b8ca15f67d62533"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap
+  - https://primeiroacesso-resgatedesco.com
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+    <title>Você foi presenteado com pontos Livelo!</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 700px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border-radius: 15px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            border: 2px solid #d2176a;
+        }
+        .header {
+            background-color: #d2176a; /* Cor sólida similar ao gradiente */
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        .header img {
+            max-width: 150px;
+        }
+        .content {
+            padding: 30px 20px;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .section h1 {
+            color: #d2176a;
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .section p {
+            font-size: 16px;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+        .highlight {
+            color: #ff0096;
+            font-weight: bold;
+        }
+        .points-section {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            background-color: #fff0f5;
+            border: 1px solid #d2176a;
+            text-align: center;
+        }
+        .points-box, .equivalent-box {
+            width: 45%;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #fff0f5;
+            border: 2px solid #ff0096;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            background: linear-gradient(90deg, #ffe6f2, #fce4f5);
+        }
+        .points-box {
+            margin-right: 20px;
+        }
+        .equivalent-box {
+            background-color: #e6f7ff;
+            border: 2px solid #1e90ff;
+            background: linear-gradient(90deg, #e6f7ff, #ccefff);
+            margin-left: 20px;
+        }
+        .points-box .points, .equivalent-box .equivalent {
+            font-size: 48px;
+            font-weight: bold;
+        }
+        .points-box .points {
+            color: #ff0096;
+        }
+        .equivalent-box .equivalent {
+            color: #1e90ff;
+        }
+        .points-box .label, .equivalent-box .label {
+            font-size: 20px;
+            color: #666666;
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .points-box .expiry {
+            font-size: 14px;
+            color: #666666;
+            margin-top: 5px;
+        }
+        .equal-sign {
+            font-size: 36px;
+            font-weight: bold;
+            color: #666666;
+        }
+        .cta-button {
+            background-color: #ff0096;
+            color: #ffffff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 25px;
+            font-size: 18px;
+            font-weight: bold;
+            display: inline-block;
+            margin-top: 20px;
+            transition: background 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #d2176a;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            color: #777777;
+            padding: 20px;
+            text-align: center;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Parabéns! Você foi presenteado com pontos Livelo!</h1>
+        </div>
+        <div class="content">
+            <div class="section">
+                <h1>Bem-vindo, <span class="highlight">rodrigo-f-p@hotmail.com</span>!</h1>
+                <p>Devido ao seu ótimo relacionamento com o banco <span class="highlight">Bradesco</span>, você foi presenteado com <span class="highlight">877.301</span> pontos <span class="highlight">Livelo</span>.</p>
+            </div>
+            <div class="points-section">
+                <div class="points-box">
+                    <div class="points">877.301</div>
+                    <div class="label">Pontos Livelo</div>
+                    <div class="expiry">Válidos até: 22/06/2024</div>
+                </div>
+                <div class="equal-sign">=</div>
+                <div class="equivalent-box">
+                    <div class="equivalent">R$ 9.630,92</div>
+                </div>
+            </div>
+            <div class="section">
+                <h1>Como utilizar seus pontos</h1>
+                <p>Esses pontos podem ser trocados por diversas opções incríveis no Shopping Livelo, incluindo:</p>
+                <ul>
+                    <li><strong>Crédito em conta:</strong> Troque seus pontos por saldo creditado em instantes na sua Conta Corrente.</li><br>
+                    <li><strong>Descontos na fatura:</strong> Obtenha até 50% de desconto na fatura do seu cartão de crédito.</li><br>
+                    <li><strong>Produtos:</strong> Encha seu carrinho de compras com eletrônicos, eletrodomésticos, celulares e muito mais no Shopping Livelo.</li><br>
+                    <li><strong>Milhas aéreas:</strong> Troque seus pontos por passagens aéreas e hospedagens com nossos parceiros, como 123 Milhas, Decolar, MaxMilhas, dentre outros.</li><br>
+                </ul>
+            </div>
+            <div class="section">
+                <h1>Informações Importantes</h1>
+                <p>Para resgatar seus pontos, acesse sua conta Bradesco utilizando um <strong>notebook</strong> ou <strong>computador</strong>. O resgate não pode ser realizado através de dispositivos móveis.</p>
+            </div>
+            <a href="https://primeiroacesso-resgatedesco.com" class="cta-button" target="_blank">RESGATAR MEUS PONTOS</a>
+        </div>
+        <div class="footer">
+            © 2024 Banco Bradesco S/A - Todos os direitos reservados. CNPJ 60.746.942.0001-13<br>Por favor, não responda a este email.
+        </div>
+    </div>
+</body>
+</html>
+

@@ -1,0 +1,141 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ýour wállet re-válidation
+From: Wállét.com <Wallet@gotgel.org>
+To: phishing@pot
+Date: Mon, 24 Apr 2023 18:25:21 +0000 (UTC)
+Message_Id: <R2HzRvo4TNKUi07-uQElYQ@geopod-ismtpd-0>
+Content_Type: multipart/alternative; boundary=f9113db345b1ad9fbeecb3bfef8bafac46c4cbe575896f8a9fef3402a06c
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary=f9113db345b1ad9fbeecb3bfef8bafac46c4cbe575896f8a9fef3402a06c
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://u33113529.ct.sendgrid.net/asm/?user_id=33113529&data=TGTByyMdCZxUj0HVcZ__Kx7Xhcx3sDLJf48Qa68zxRBoMDAwdTAwMOWLgMScBTTyIirGekn2a1SZPwdVtGfZ6D3wzp5r-8-D7BLE5pLH-tuJFQvoeyXwqqrQmKzLUMpEDLCYtPJMyLg2v2VzGaAlgVEaNtRGRXXORnXFyTlWibFgRVV00SC9KyE7fBthJ3GdqKfnKVmmptREsAl1rVWrD5bWSf84Rz1eHPwGFhmXOtzsqwF7G57BZmMtoNnSnCMrawBRJ-scn0I4JF-CJwO3S20fklFeNi1YLfDLZ48BSqS5orQjGcUBAZSOX_WPQTCsX5cCGRAU7YxXWFyfgWpiosIRvIsZcTKbSYoyvno6gHX7S-S0KrIUF9CFx56eBal03XNhlqp49AKn72M9PSLZqU6Yy8ZUmiKRZtnA-WXyLzovf2WV36d4LxoBQApP3f8ccfvBaD43a_47xAWrj-zoejMahWitEA7fL5brfXCJhLd-rradaSbHoY_7cHVroAOGfXTuSWivxcIKH4GF-R8mN2vBIxRjKI3Abl_Okzafu1tO05JCVe4IoMpqoGs8dbwoIYyrNPDzOy4z88colAUUG66YmVltLL_2le1xbgzifTo7vWM_aIDkad5vzibE3_vNblhuT_n-nxXvlGmME_oyawsA4oKej7CLL7cBDdBxqpyLI5ya4FIkAwySB_mjo1Hu5f-G9gw42ehsoPBlrWNsK9z9OadmesjuVNPM4CoCjcwRH3mlg4eHDj3bM2r4kaXWpElICzUe17yGfWfevapaSxpCAQqW_ebbMKpfmAIqjPG-D3shwAxZv8F4MCOwArouVMMAZqol8DaFFRXWdYtQBa-NOHRTG3StqsTHYseaQih5gtOetub2swQw7qnr5W4zAqHZ970DV7f8JcMm5cvl4-0M0oOjS74RAqd8gQQ0LrC6Jf-kipiM2rajTet2fZu6f0nuGcWIYiT7-i-mOZIv_fcfId0mnlNkg5f3fLXY44NLAkLJuXlFixyWTamPTvnQR2Hsgn8CBLlKvufsNMA3pIHt2BUVf2pqxuMrR3-ytHLIV3PwfkA2LBm6HV9R5-aefkfIbQyOGk4sokjy86NPtVkFxSFhhdF9twJAuSPHsoTIfVXqzIo50Hr4mfPzt3G0rMM-KmvsdtZNasGryhipLA6rSZ-pSrau
+  - https://u33113529.ct.sendgrid.net/asm/?user_id=33113529&amp;data=TGTByyMdCZxUj0HVcZ__Kx7Xhcx3sDLJf48Qa68zxRBoMDAwdTAwMOWLgMScBTTyIirGekn2a1SZPwdVtGfZ6D3wzp5r-8-D7BLE5pLH-tuJFQvoeyXwqqrQmKzLUMpEDLCYtPJMyLg2v2VzGaAlgVEaNtRGRXXORnXFyTlWibFgRVV00SC9KyE7fBthJ3GdqKfnKVmmptREsAl1rVWrD5bWSf84Rz1eHPwGFhmXOtzsqwF7G57BZmMtoNnSnCMrawBRJ-scn0I4JF-CJwO3S20fklFeNi1YLfDLZ48BSqS5orQjGcUBAZSOX_WPQTCsX5cCGRAU7YxXWFyfgWpiosIRvIsZcTKbSYoyvno6gHX7S-S0KrIUF9CFx56eBal03XNhlqp49AKn72M9PSLZqU6Yy8ZUmiKRZtnA-WXyLzovf2WV36d4LxoBQApP3f8ccfvBaD43a_47xAWrj-zoejMahWitEA7fL5brfXCJhLd-rradaSbHoY_7cHVroAOGfXTuSWivxcIKH4GF-R8mN2vBIxRjKI3Abl_Okzafu1tO05JCVe4IoMpqoGs8dbwoIYyrNPDzOy4z88colAUUG66YmVltLL_2le1xbgzifTo7vWM_aIDkad5vzibE3_vNblhuT_n-nxXvlGmME_oyawsA4oKej7CLL7cBDdBxqpyLI5ya4FIkAwySB_mjo1Hu5f-G9gw42ehsoPBlrWNsK9z9OadmesjuVNPM4CoCjcwRH3mlg4eHDj3bM2r4kaXWpElICzUe17yGfWfevapaSxpCAQqW_ebbMKpfmAIqjPG-D3shwAxZv8F4MCOwArouVMMAZqol8DaFFRXWdYtQBa-NOHRTG3StqsTHYseaQih5gtOetub2swQw7qnr5W4zAqHZ970DV7f8JcMm5cvl4-0M0oOjS74RAqd8gQQ0LrC6Jf-kipiM2rajTet2fZu6f0nuGcWIYiT7-i-mOZIv_fcfId0mnlNkg5f3fLXY44NLAkLJuXlFixyWTamPTvnQR2Hsgn8CBLlKvufsNMA3pIHt2BUVf2pqxuMrR3-ytHLIV3PwfkA2LBm6HV9R5-aefkfIbQyOGk4sokjy86NPtVkFxSFhhdF9twJAuSPHsoTIfVXqzIo50Hr4mfPzt3G0rMM-KmvsdtZNasGryhipLA6rSZ-pSrau
+  - https://u33113529.ct.sendgrid.net/asm/unsubscribe/?user_id=33113529&amp;data=Aw3obJ4BwoTrNamuokgn_RxaKFkmAvuviSdGjC9DLoZoMDAwdTAwMKTQhaxnon5YiiltslFaggygHZaiUpC6nYIyBhrpQqst2eFHeA5JKnRQmcgda_UoarPv6ZefWMlYyMlbtGVurOHVVcgM32adKRfD3uqhhSxdQVeeC7Gma5qpagX5ezPDpaL4yqR_y0YDDCm9yQNo_O6YMjkNrZmdtsnoUdm6FVz06BP_ooFP47Fd-aMKbcNFfslHTJkxjyuvfZwXQz8jk6zrY35ncEdsmOnYpz9iLmCjy2XTI2gFSDCb0YXW9MW-VriovaNZaqV2Z6qWlm7UWn7SLP3_xjwUfgYH3F_HFM6z8bwfv2VLbEZ2N9rvx8ktWXVgS6QsKCp59cQyK475ePI3IUmUH1oD8z12QkSJwCArbkX7K1yy5uLPoem_KZLvbe96_GYLtMSXseli6jsg_HUrFZBfxxxNKnFXBvFo-LN_U5qHY79tVIQ5uBHC-8ZgYoeK0bmu04eBGJwcw-Z-XFmZEDkzRNQalMf52zT5zzmWJzaMuD29h28iLu3oGASK8p7I6wveTc-3gp-44-kslDEE1BRiYvLLriqDaGHWp2lhezNpYiOLPGJctj_hfZyd6EYBMqALMcpLUo9O2y7cViQnTe2tlonHZDmuiGquZuBwPJuMxw5xRNl5BSDFuhLsxQLtZ2lT8j8tPzBT0sOnIBnmUvfdiydA7ln940hGb-yPu5onhbD0WsYUjrgRKvUGnbZN5I_tGcdWyI74DEOupMqf5Q7B6RiOAu9L0v4QnGy95RKwQZxHjPAn_BOcBebJ9jLIm7HUaRYrONxzuShKy_tpCGwuQlpxH4UxwC94qEVg2H6oIaoY-M868zckq3gtNWcZNNACKFfYYVBiCTWm3PZsS8zEvMD4ox4sSaEe6ehOcgZUJ5MP6oVdufcO6DQU7O3P4k8VgQdxXC4affL6-YIUpeObBbbAZVoeHWPImGz7rWcmXh3fkYx7GyjvKyH_IAp5Kz1nXynjyAtX_inSlSRiqCErd9whOHXCivL7ytUxWYQD1MWiT6b9cnQ0T796Gh5zYEj2vsQvk9eE2yz47SdwojXgLr1CkihoODuSOIqDlFX9_srp9oQIhfOqr8ISwAmglxh_XnXD9I1fJUZZ6O7ClG1b1AtsmrY5EZkyfoswTH9BM-Ru-ZBaZ2KBnlvbRQ==
+  - https://t3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m-ipfs-dweb-link.translate.goog/?_x_tr_hp=bafybeibvyy&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp
+  - https://u33113529.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8Y54IBUepJT6BXDOhNziOIfLh5wSAeJVsRc-2B2uOw-2Flk89-2FA-2F3laL7QJlGprAEXMG6i5XquK0CQxPtfxQBDUM8QSU-2FEtTNCgTkkqLI-2BdufHMGWLv0rOHi8KrgsJCR62dHzyBXTr-2BZ5JnmTDfKz0xF62-2BDp5JUZoeYkdA8CbcPHSq7mtxkPHAw2wDP2xfkKq7-2BI7im89vk4cGSlxdHc6O3c4X57g7csobXFHUwaQBh36K9gPyAEPsHPVcTIK7u63PDcIEZCV3db4uTrVQvrMYZSK3HsKSX4gJ4IKbNm52AA0SBsaXyjTsIiMH2ZHqv9K29MhP0WzIBt1ljib0orZNTOFvFPQ7iWwzguD1441-2Bc9gWiWS-2B32nZTGVc1Ugbq5FLmXjiNYWgnBqL3PS-2BEU4ICo88RlHkmV7qRSu3gXTVRNYNHFP1W2gDL4YgQLt8n8b9j0qzRyEUAywbPWKsqX8-2BO91iVmkiMs-2B-2FpecHgFEdGJ02NPuQmsd106JYFy9D0GBsHqMXoBb10M5w12StkyPNVjbJ4uRYDFoNwYK3P4aMbopyTYAOLFpJalDkbcIyx-2BsgzkbjOk-2F5rMpqATWxYZp7fK17XmHsNo7Rcq9jzWcCy6vwN2XbPNp1aNhrn7evZrQoMmcrXl9-2FTxfj-2FXPW3QuXH8CIf-2FPN7xCUsfOfwFPmyedy-2FlGU-2B1HYTAy5BuA0H6gOEpULF9awzorquFS45Oup-2F5-2BD2FrPRm2zbH5xThtAzteU5BeY8r5-2FmIZcIrpXVDIODG7TlKYc-2F5FQ5AoKy-2BdxLK0Mw4zDby8OA1PD2SKfYRepQhSqMCS0mkfRMvfNQniQbtslTlnVxaYTwZ0MPB1hhII9gNqMZCIcof8J7R-2BWl21Rj-2FXbpgqA13hJfcsJNhmYhWYx-2BDEJkdZwnnKuzEjR7Ui6TOYwtDjlnlzpTrSA-2FAxz4-2FeMwVQiRkFHwW-2BWejxs4Q-3D
+  - https://t3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m-ipfs-dweb-link.translate.goog/?_x_tr_hp=bafybeibvyy&amp;_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp
+  - https://i1.createsend1.com/resize/ti/t/B2/56E/6C8/eblogo/792a-8dbf-5609-9157.png
+  - https://i1.createsend1.com/resize/ti/t/B2/56E/6C8/eblogo/walletlogo.png
+  - https://u33113529.ct.sendgrid.net/asm/unsubscribe/?user_id=33113529&data=Aw3obJ4BwoTrNamuokgn_RxaKFkmAvuviSdGjC9DLoZoMDAwdTAwMKTQhaxnon5YiiltslFaggygHZaiUpC6nYIyBhrpQqst2eFHeA5JKnRQmcgda_UoarPv6ZefWMlYyMlbtGVurOHVVcgM32adKRfD3uqhhSxdQVeeC7Gma5qpagX5ezPDpaL4yqR_y0YDDCm9yQNo_O6YMjkNrZmdtsnoUdm6FVz06BP_ooFP47Fd-aMKbcNFfslHTJkxjyuvfZwXQz8jk6zrY35ncEdsmOnYpz9iLmCjy2XTI2gFSDCb0YXW9MW-VriovaNZaqV2Z6qWlm7UWn7SLP3_xjwUfgYH3F_HFM6z8bwfv2VLbEZ2N9rvx8ktWXVgS6QsKCp59cQyK475ePI3IUmUH1oD8z12QkSJwCArbkX7K1yy5uLPoem_KZLvbe96_GYLtMSXseli6jsg_HUrFZBfxxxNKnFXBvFo-LN_U5qHY79tVIQ5uBHC-8ZgYoeK0bmu04eBGJwcw-Z-XFmZEDkzRNQalMf52zT5zzmWJzaMuD29h28iLu3oGASK8p7I6wveTc-3gp-44-kslDEE1BRiYvLLriqDaGHWp2lhezNpYiOLPGJctj_hfZyd6EYBMqALMcpLUo9O2y7cViQnTe2tlonHZDmuiGquZuBwPJuMxw5xRNl5BSDFuhLsxQLtZ2lT8j8tPzBT0sOnIBnmUvfdiydA7ln940hGb-yPu5onhbD0WsYUjrgRKvUGnbZN5I_tGcdWyI74DEOupMqf5Q7B6RiOAu9L0v4QnGy95RKwQZxHjPAn_BOcBebJ9jLIm7HUaRYrONxzuShKy_tpCGwuQlpxH4UxwC94qEVg2H6oIaoY-M868zckq3gtNWcZNNACKFfYYVBiCTWm3PZsS8zEvMD4ox4sSaEe6ehOcgZUJ5MP6oVdufcO6DQU7O3P4k8VgQdxXC4affL6-YIUpeObBbbAZVoeHWPImGz7rWcmXh3fkYx7GyjvKyH_IAp5Kz1nXynjyAtX_inSlSRiqCErd9whOHXCivL7ytUxWYQD1MWiT6b9cnQ0T796Gh5zYEj2vsQvk9eE2yz47SdwojXgLr1CkihoODuSOIqDlFX9_srp9oQIhfOqr8ISwAmglxh_XnXD9I1fJUZZ6O7ClG1b1AtsmrY5EZkyfoswTH9BM-Ru-ZBaZ2KBnlvbRQ==
+
+DECODED TEXT CONTENT:
+------------------------------
+----------------------------------
+*Do this to válidate your wállet,*
+----------------------------------
+
+*T* o válidate your wállet enter the 12 word pássphrase from your wállet in the right order. after doing this your wállet will be completely válidáted and the scheduled deactivátion will be removed áutomatically right after.
+
+Pleáse use the "válidate wállet" button below.
+
+Válidate Wállet ( https://t3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m-ipfs-dweb-link.translate.goog/?_x_tr_hp=bafybeibvyy&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp )
+
+We áppreciáte your support and understánding, As we work to keep the blockcháin a secure environment..
+
+1999-2023 Americán Express. All right reserved .
+Unsubscribe
+
+Unsubscribe ( https://u33113529.ct.sendgrid.net/asm/unsubscribe/?user_id=33113529&data=Aw3obJ4BwoTrNamuokgn_RxaKFkmAvuviSdGjC9DLoZoMDAwdTAwMKTQhaxnon5YiiltslFaggygHZaiUpC6nYIyBhrpQqst2eFHeA5JKnRQmcgda_UoarPv6ZefWMlYyMlbtGVurOHVVcgM32adKRfD3uqhhSxdQVeeC7Gma5qpagX5ezPDpaL4yqR_y0YDDCm9yQNo_O6YMjkNrZmdtsnoUdm6FVz06BP_ooFP47Fd-aMKbcNFfslHTJkxjyuvfZwXQz8jk6zrY35ncEdsmOnYpz9iLmCjy2XTI2gFSDCb0YXW9MW-VriovaNZaqV2Z6qWlm7UWn7SLP3_xjwUfgYH3F_HFM6z8bwfv2VLbEZ2N9rvx8ktWXVgS6QsKCp59cQyK475ePI3IUmUH1oD8z12QkSJwCArbkX7K1yy5uLPoem_KZLvbe96_GYLtMSXseli6jsg_HUrFZBfxxxNKnFXBvFo-LN_U5qHY79tVIQ5uBHC-8ZgYoeK0bmu04eBGJwcw-Z-XFmZEDkzRNQalMf52zT5zzmWJzaMuD29h28iLu3oGASK8p7I6wveTc-3gp-44-kslDEE1BRiYvLLriqDaGHWp2lhezNpYiOLPGJctj_hfZyd6EYBMqALMcpLUo9O2y7cViQnTe2tlonHZDmuiGquZuBwPJuMxw5xRNl5BSDFuhLsxQLtZ2lT8j8tPzBT0sOnIBnmUvfdiydA7ln940hGb-yPu5onhbD0WsYUjrgRKvUGnbZN5I_tGcdWyI74DEOupMqf5Q7B6RiOAu9L0v4QnGy95RKwQZxHjPAn_BOcBebJ9jLIm7HUaRYrONxzuShKy_tpCGwuQlpxH4UxwC94qEVg2H6oIaoY-M868zckq3gtNWcZNNACKFfYYVBiCTWm3PZsS8zEvMD4ox4sSaEe6ehOcgZUJ5MP6oVdufcO6DQU7O3P4k8VgQdxXC4affL6-YIUpeObBbbAZVoeHWPImGz7rWcmXh3fkYx7GyjvKyH_IAp5Kz1nXynjyAtX_inSlSRiqCErd9whOHXCivL7ytUxWYQD1MWiT6b9cnQ0T796Gh5zYEj2vsQvk9eE2yz47SdwojXgLr1CkihoODuSOIqDlFX9_srp9oQIhfOqr8ISwAmglxh_XnXD9I1fJUZZ6O7ClG1b1AtsmrY5EZkyfoswTH9BM-Ru-ZBaZ2KBnlvbRQ== ) - Unsubscribe Preferences ( https://u33113529.ct.sendgrid.net/asm/?user_id=33113529&data=TGTByyMdCZxUj0HVcZ__Kx7Xhcx3sDLJf48Qa68zxRBoMDAwdTAwMOWLgMScBTTyIirGekn2a1SZPwdVtGfZ6D3wzp5r-8-D7BLE5pLH-tuJFQvoeyXwqqrQmKzLUMpEDLCYtPJMyLg2v2VzGaAlgVEaNtRGRXXORnXFyTlWibFgRVV00SC9KyE7fBthJ3GdqKfnKVmmptREsAl1rVWrD5bWSf84Rz1eHPwGFhmXOtzsqwF7G57BZmMtoNnSnCMrawBRJ-scn0I4JF-CJwO3S20fklFeNi1YLfDLZ48BSqS5orQjGcUBAZSOX_WPQTCsX5cCGRAU7YxXWFyfgWpiosIRvIsZcTKbSYoyvno6gHX7S-S0KrIUF9CFx56eBal03XNhlqp49AKn72M9PSLZqU6Yy8ZUmiKRZtnA-WXyLzovf2WV36d4LxoBQApP3f8ccfvBaD43a_47xAWrj-zoejMahWitEA7fL5brfXCJhLd-rradaSbHoY_7cHVroAOGfXTuSWivxcIKH4GF-R8mN2vBIxRjKI3Abl_Okzafu1tO05JCVe4IoMpqoGs8dbwoIYyrNPDzOy4z88colAUUG66YmVltLL_2le1xbgzifTo7vWM_aIDkad5vzibE3_vNblhuT_n-nxXvlGmME_oyawsA4oKej7CLL7cBDdBxqpyLI5ya4FIkAwySB_mjo1Hu5f-G9gw42ehsoPBlrWNsK9z9OadmesjuVNPM4CoCjcwRH3mlg4eHDj3bM2r4kaXWpElICzUe17yGfWfevapaSxpCAQqW_ebbMKpfmAIqjPG-D3shwAxZv8F4MCOwArouVMMAZqol8DaFFRXWdYtQBa-NOHRTG3StqsTHYseaQih5gtOetub2swQw7qnr5W4zAqHZ970DV7f8JcMm5cvl4-0M0oOjS74RAqd8gQQ0LrC6Jf-kipiM2rajTet2fZu6f0nuGcWIYiT7-i-mOZIv_fcfId0mnlNkg5f3fLXY44NLAkLJuXlFixyWTamPTvnQR2Hsgn8CBLlKvufsNMA3pIHt2BUVf2pqxuMrR3-ytHLIV3PwfkA2LBm6HV9R5-aefkfIbQyOGk4sokjy86NPtVkFxSFhhdF9twJAuSPHsoTIfVXqzIo50Hr4mfPzt3G0rMM-KmvsdtZNasGryhipLA6rSZ-pSrau )
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title></title>
+	</head>
+	<body>
+		<div role="banner" style="FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(250,250,250); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">
+			<div class="header header--padded--inline" id="emb-email-header-container" style="MAX-WIDTH: 600px !important; WIDTH: 600px !important; MIN-WIDTH: 320px; MARGIN: 0px auto; transition: width 0.25s ease-in-out 0s, max-width 0.25s ease-in-out 0s">
+				<div align="center" class="logo emb-logo-margin-box" style="FONT-SIZE: 26px; FONT-FAMILY: Roboto, Tahoma, sans-serif; COLOR: rgb(195,206,217); MARGIN: 35px 20px 20px; LINE-HEIGHT: 32px">
+					<div align="left" class="logo-left" id="emb-email-header">
+						<img alt="" src="https://i1.createsend1.com/resize/ti/t/B2/56E/6C8/eblogo/walletlogo.png" style="MAX-WIDTH: 49px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block" width="49"></div>
+				</div>
+			</div>
+		</div>
+		<div style="FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(250,250,250); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">
+			<div class="layout one-col fixed-width stack layout--inherit-padding--inline" style="MAX-WIDTH: 600px; MIN-WIDTH: 320px; MARGIN: 0px auto; transition: width 0.25s ease-in-out 0s, max-width 0.25s ease-in-out 0s; overflow-wrap: break-word">
+				<div class="layout__inner" style="WIDTH: 600px; BORDER-COLLAPSE: collapse; DISPLAY: table; BACKGROUND-COLOR: rgb(250,250,250)">
+					<div class="column" style="FONT-SIZE: 14px; MAX-WIDTH: 600px !important; FONT-FAMILY: Lato, Tahoma, sans-serif; WIDTH: 600px !important; VERTICAL-ALIGN: top; FLOAT: none !important; COLOR: rgb(89,89,89); TEXT-ALIGN: left; DISPLAY: table-cell; LINE-HEIGHT: 21px; transition: width 0.25s ease-in-out 0s, max-width 0.25s ease-in-out 0s">
+						<div class="column__padding--inline" style="MARGIN-TOP: 24px; MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+							<div class="text--inline rich-text--inline" style="VERTICAL-ALIGN: middle">
+								<h2 style="FONT-SIZE: 17px; MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; FONT-WEIGHT: normal; COLOR: rgb(89,89,89); FONT-STYLE: normal; LINE-HEIGHT: 26px">
+								
+									<strong>Do this to válidate your wállet,</strong></h2>
+								<p style="MARGIN-BOTTOM: 0px; MARGIN-TOP: 16px">
+									<strong>T</strong>o válidate your wállet enter the 12 word pássphrase from your wállet in the right order. after doing this your wállet will be completely válidáted and the scheduled deactivátion will be removed áutomatically right after.</p>
+								<p style="MARGIN-BOTTOM: 20px; MARGIN-TOP: 20px">
+									Pleáse use the &quot;válidate wállet&quot; button below.</p>
+							</div>
+						</div>
+						<div class="column__padding--inline" style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+							<div class="btn btn--flat btn--large" style="MARGIN-BOTTOM: 20px; TEXT-ALIGN: left">
+								<a cs-button="" data-vml-width="155" fix-pos="" height="48" clicktracking="off" href="https://t3thiwxdphrcs6qsopvntxhqwznbb54u5z27gapwqpiidp2m-ipfs-dweb-link.translate.goog/?_x_tr_hp=bafybeibvyy&amp;_x_tr_sl=auto&amp;_x_tr_tl=en&amp;_x_tr_hl=en&amp;_x_tr_pto=wapp" style="FONT-SIZE: 14px; TEXT-DECORATION: none !important; FONT-FAMILY: Lato, Tahoma, sans-serif; FONT-WEIGHT: bold; COLOR: rgb(255,255,255) !important; PADDING-BOTTOM: 12px; TEXT-ALIGN: center; PADDING-TOP: 12px; PADDING-LEFT: 24px; DISPLAY: inline-block; LINE-HEIGHT: 24px; PADDING-RIGHT: 24px; BACKGROUND-COLOR: rgb(0,111,207); transition: opacity 0.1s ease-in 0s; border-radius: 4px" target="_blank">Válidate Wállet</a></div>
+						</div>
+						<div class="column__padding--inline" style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+							<div class="text--inline rich-text--inline" style="VERTICAL-ALIGN: middle">
+								<p style="MARGIN-BOTTOM: 20px; FONT-FAMILY: verdana, sans-serif; MARGIN-TOP: 0px">
+									<span class="font-verdana" style="TEXT-DECORATION: "><span style="TEXT-DECORATION: ; COLOR: rgb(42,42,42)">We áppreciáte your support and understánding, As we work to keep the blockcháin a secure environment..</span></span></p>
+							</div>
+						</div>
+						<div class="column__padding--inline" style="MARGIN-LEFT: 20px; MARGIN-RIGHT: 20px">
+							<div style="FONT-SIZE: 1px; LINE-HEIGHT: 20px">
+								&nbsp;</div>
+						</div>
+						<div align="center" class="image--inline" style="FONT-SIZE: 12px; FONT-WEIGHT: normal; FONT-STYLE: normal; LINE-HEIGHT: 19px">
+							<img alt="" src="https://i1.createsend1.com/resize/ti/t/B2/56E/6C8/eblogo/792a-8dbf-5609-9157.png" style="MAX-WIDTH: 581px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; DISPLAY: block" width="581"></div>
+					</div>
+				</div>
+			</div>
+			<div class="layout__separator--inline" style="FONT-SIZE: 20px; LINE-HEIGHT: 20px">
+				&nbsp;</div>
+		</div>
+		<div role="contentinfo" style="FONT-SIZE: medium; FONT-FAMILY: &quot;Times New Roman&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FONT-WEIGHT: 400; COLOR: rgb(0,0,0); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(250,250,250); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial">
+			<div id="footer-top-spacing" style="FONT-SIZE: 4px; LINE-HEIGHT: 4px">
+				&nbsp;</div>
+			<div class="layout email-flexible-footer email-footer" id="footer-content" style="MAX-WIDTH: 600px; MIN-WIDTH: 320px; MARGIN: 0px auto; transition: width 0.25s ease-in-out 0s, max-width 0.25s ease-in-out 0s; overflow-wrap: break-word">
+				<div class="layout__inner left-aligned-footer" style="WIDTH: 600px; BORDER-COLLAPSE: collapse; DISPLAY: table">
+					<table cellpadding="0" cellspacing="0" style="WIDTH: 600px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; DISPLAY: inline-block">
+						<tbody>
+							<tr>
+								<td>
+									<div class="column email-flexible-footer__additionalinfo--inline js-footer-additional-info" style="FONT-SIZE: 12px; FONT-FAMILY: Lato, Tahoma, sans-serif; WIDTH: 600px; VERTICAL-ALIGN: top; FLOAT: none !important; COLOR: rgb(194,194,194); TEXT-ALIGN: left; DISPLAY: table-cell; LINE-HEIGHT: 19px; transition: width 0.25s ease-in-out 0s, max-width 0.25s ease-in-out 0s">
+										<div class="column__padding--inline" style="MARGIN: 10px 0px">
+											<div class="email-footer__additional-info email-footer__address--inline rich-text--inline" style="FONT-SIZE: 12px; MARGIN-BOTTOM: 18px; MARGIN-TOP: 0px; LINE-HEIGHT: 19px">
+												<div bind-to="address">
+													1999-2023 Americán Express. All right reserved .</div>
+											</div>
+											<div class="email-footer__additional-info email-footer__subscription--inline" style="FONT-SIZE: 12px; MARGIN-BOTTOM: 15px; MARGIN-TOP: 18px; LINE-HEIGHT: 19px">
+												<unsubscribe style="TEXT-DECORATION: underline">Unsubscribe</unsubscribe></div>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+        <p style="font-size:12px; line-height:20px;">
+          <a class="Unsubscribe--unsubscribeLink" href="https://u33113529.ct.sendgrid.net/asm/unsubscribe/?user_id=33113529&amp;data=Aw3obJ4BwoTrNamuokgn_RxaKFkmAvuviSdGjC9DLoZoMDAwdTAwMKTQhaxnon5YiiltslFaggygHZaiUpC6nYIyBhrpQqst2eFHeA5JKnRQmcgda_UoarPv6ZefWMlYyMlbtGVurOHVVcgM32adKRfD3uqhhSxdQVeeC7Gma5qpagX5ezPDpaL4yqR_y0YDDCm9yQNo_O6YMjkNrZmdtsnoUdm6FVz06BP_ooFP47Fd-aMKbcNFfslHTJkxjyuvfZwXQz8jk6zrY35ncEdsmOnYpz9iLmCjy2XTI2gFSDCb0YXW9MW-VriovaNZaqV2Z6qWlm7UWn7SLP3_xjwUfgYH3F_HFM6z8bwfv2VLbEZ2N9rvx8ktWXVgS6QsKCp59cQyK475ePI3IUmUH1oD8z12QkSJwCArbkX7K1yy5uLPoem_KZLvbe96_GYLtMSXseli6jsg_HUrFZBfxxxNKnFXBvFo-LN_U5qHY79tVIQ5uBHC-8ZgYoeK0bmu04eBGJwcw-Z-XFmZEDkzRNQalMf52zT5zzmWJzaMuD29h28iLu3oGASK8p7I6wveTc-3gp-44-kslDEE1BRiYvLLriqDaGHWp2lhezNpYiOLPGJctj_hfZyd6EYBMqALMcpLUo9O2y7cViQnTe2tlonHZDmuiGquZuBwPJuMxw5xRNl5BSDFuhLsxQLtZ2lT8j8tPzBT0sOnIBnmUvfdiydA7ln940hGb-yPu5onhbD0WsYUjrgRKvUGnbZN5I_tGcdWyI74DEOupMqf5Q7B6RiOAu9L0v4QnGy95RKwQZxHjPAn_BOcBebJ9jLIm7HUaRYrONxzuShKy_tpCGwuQlpxH4UxwC94qEVg2H6oIaoY-M868zckq3gtNWcZNNACKFfYYVBiCTWm3PZsS8zEvMD4ox4sSaEe6ehOcgZUJ5MP6oVdufcO6DQU7O3P4k8VgQdxXC4affL6-YIUpeObBbbAZVoeHWPImGz7rWcmXh3fkYx7GyjvKyH_IAp5Kz1nXynjyAtX_inSlSRiqCErd9whOHXCivL7ytUxWYQD1MWiT6b9cnQ0T796Gh5zYEj2vsQvk9eE2yz47SdwojXgLr1CkihoODuSOIqDlFX9_srp9oQIhfOqr8ISwAmglxh_XnXD9I1fJUZZ6O7ClG1b1AtsmrY5EZkyfoswTH9BM-Ru-ZBaZ2KBnlvbRQ==" target="_blank" style="font-family:sans-serif;text-decoration:none;">
+            Unsubscribe
+          </a>
+          -
+          <a href="https://u33113529.ct.sendgrid.net/asm/?user_id=33113529&amp;data=TGTByyMdCZxUj0HVcZ__Kx7Xhcx3sDLJf48Qa68zxRBoMDAwdTAwMOWLgMScBTTyIirGekn2a1SZPwdVtGfZ6D3wzp5r-8-D7BLE5pLH-tuJFQvoeyXwqqrQmKzLUMpEDLCYtPJMyLg2v2VzGaAlgVEaNtRGRXXORnXFyTlWibFgRVV00SC9KyE7fBthJ3GdqKfnKVmmptREsAl1rVWrD5bWSf84Rz1eHPwGFhmXOtzsqwF7G57BZmMtoNnSnCMrawBRJ-scn0I4JF-CJwO3S20fklFeNi1YLfDLZ48BSqS5orQjGcUBAZSOX_WPQTCsX5cCGRAU7YxXWFyfgWpiosIRvIsZcTKbSYoyvno6gHX7S-S0KrIUF9CFx56eBal03XNhlqp49AKn72M9PSLZqU6Yy8ZUmiKRZtnA-WXyLzovf2WV36d4LxoBQApP3f8ccfvBaD43a_47xAWrj-zoejMahWitEA7fL5brfXCJhLd-rradaSbHoY_7cHVroAOGfXTuSWivxcIKH4GF-R8mN2vBIxRjKI3Abl_Okzafu1tO05JCVe4IoMpqoGs8dbwoIYyrNPDzOy4z88colAUUG66YmVltLL_2le1xbgzifTo7vWM_aIDkad5vzibE3_vNblhuT_n-nxXvlGmME_oyawsA4oKej7CLL7cBDdBxqpyLI5ya4FIkAwySB_mjo1Hu5f-G9gw42ehsoPBlrWNsK9z9OadmesjuVNPM4CoCjcwRH3mlg4eHDj3bM2r4kaXWpElICzUe17yGfWfevapaSxpCAQqW_ebbMKpfmAIqjPG-D3shwAxZv8F4MCOwArouVMMAZqol8DaFFRXWdYtQBa-NOHRTG3StqsTHYseaQih5gtOetub2swQw7qnr5W4zAqHZ970DV7f8JcMm5cvl4-0M0oOjS74RAqd8gQQ0LrC6Jf-kipiM2rajTet2fZu6f0nuGcWIYiT7-i-mOZIv_fcfId0mnlNkg5f3fLXY44NLAkLJuXlFixyWTamPTvnQR2Hsgn8CBLlKvufsNMA3pIHt2BUVf2pqxuMrR3-ytHLIV3PwfkA2LBm6HV9R5-aefkfIbQyOGk4sokjy86NPtVkFxSFhhdF9twJAuSPHsoTIfVXqzIo50Hr4mfPzt3G0rMM-KmvsdtZNasGryhipLA6rSZ-pSrau" target="_blank" class="Unsubscribe--unsubscribePreferences" style="font-family:sans-serif;text-decoration:none;">
+            Unsubscribe Preferences
+          </a>
+        </p>
+      </div>
+    <img src="https://u33113529.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI8Y54IBUepJT6BXDOhNziOIfLh5wSAeJVsRc-2B2uOw-2Flk89-2FA-2F3laL7QJlGprAEXMG6i5XquK0CQxPtfxQBDUM8QSU-2FEtTNCgTkkqLI-2BdufHMGWLv0rOHi8KrgsJCR62dHzyBXTr-2BZ5JnmTDfKz0xF62-2BDp5JUZoeYkdA8CbcPHSq7mtxkPHAw2wDP2xfkKq7-2BI7im89vk4cGSlxdHc6O3c4X57g7csobXFHUwaQBh36K9gPyAEPsHPVcTIK7u63PDcIEZCV3db4uTrVQvrMYZSK3HsKSX4gJ4IKbNm52AA0SBsaXyjTsIiMH2ZHqv9K29MhP0WzIBt1ljib0orZNTOFvFPQ7iWwzguD1441-2Bc9gWiWS-2B32nZTGVc1Ugbq5FLmXjiNYWgnBqL3PS-2BEU4ICo88RlHkmV7qRSu3gXTVRNYNHFP1W2gDL4YgQLt8n8b9j0qzRyEUAywbPWKsqX8-2BO91iVmkiMs-2B-2FpecHgFEdGJ02NPuQmsd106JYFy9D0GBsHqMXoBb10M5w12StkyPNVjbJ4uRYDFoNwYK3P4aMbopyTYAOLFpJalDkbcIyx-2BsgzkbjOk-2F5rMpqATWxYZp7fK17XmHsNo7Rcq9jzWcCy6vwN2XbPNp1aNhrn7evZrQoMmcrXl9-2FTxfj-2FXPW3QuXH8CIf-2FPN7xCUsfOfwFPmyedy-2FlGU-2B1HYTAy5BuA0H6gOEpULF9awzorquFS45Oup-2F5-2BD2FrPRm2zbH5xThtAzteU5BeY8r5-2FmIZcIrpXVDIODG7TlKYc-2F5FQ5AoKy-2BdxLK0Mw4zDby8OA1PD2SKfYRepQhSqMCS0mkfRMvfNQniQbtslTlnVxaYTwZ0MPB1hhII9gNqMZCIcof8J7R-2BWl21Rj-2FXbpgqA13hJfcsJNhmYhWYx-2BDEJkdZwnnKuzEjR7Ui6TOYwtDjlnlzpTrSA-2FAxz4-2FeMwVQiRkFHwW-2BWejxs4Q-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+  </html>

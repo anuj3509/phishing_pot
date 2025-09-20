@@ -1,0 +1,112 @@
+{
+  "headers": {
+    "subject": "VOCÊ TEM CARTELAS DISPONÍVEIS!",
+    "from": "santander@santander.com.br",
+    "to": "REDACTED@GMAIL.COM",
+    "date": "Tue, 19 Dec 2023 15:26:28 -0300",
+    "message_id": "<1373110588.2776364.1703010388538@localhost>",
+    "content_type": "multipart/mixed;boundary=---------------------3d8bbe647d04e0f2b6b09423af6d63e6"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------3d8bbe647d04e0f2b6b09423af6d63e6"
+  },
+  "attachments": [
+    {
+      "filename": "01_seloS.png",
+      "content_type": "image/png",
+      "size": 3757
+    },
+    {
+      "filename": "02_linha.png",
+      "content_type": "image/png",
+      "size": 121
+    },
+    {
+      "filename": "04_chama.png",
+      "content_type": "image/png",
+      "size": 593
+    },
+    {
+      "filename": "05_texto.png",
+      "content_type": "image/png",
+      "size": 11521
+    },
+    {
+      "filename": "06_textoCTA.png",
+      "content_type": "image/png",
+      "size": 5164
+    },
+    {
+      "filename": "07_bloco.png",
+      "content_type": "image/png",
+      "size": 98
+    },
+    {
+      "filename": "08_cta.png",
+      "content_type": "image/png",
+      "size": 1307
+    },
+    {
+      "filename": "09_bloco.png",
+      "content_type": "image/png",
+      "size": 97
+    },
+    {
+      "filename": "10_bloco.png",
+      "content_type": "image/png",
+      "size": 446
+    },
+    {
+      "filename": "11_santander.png",
+      "content_type": "image/png",
+      "size": 2379
+    },
+    {
+      "filename": "12_canais.png",
+      "content_type": "image/png",
+      "size": 29084
+    },
+    {
+      "filename": "14_seloS.png",
+      "content_type": "image/png",
+      "size": 14079
+    },
+    {
+      "filename": "15_texto.png",
+      "content_type": "image/png",
+      "size": 3528
+    },
+    {
+      "filename": "16_texto.png",
+      "content_type": "image/png",
+      "size": 2651
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "canais.png",
+      "texto.png",
+      "linha.png",
+      "cta.png",
+      "seloS.png",
+      "https://www.santander.com.br/s/dindinraspadinha",
+      "bloco.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://pxmsg.santander.com.br/pixelconvert/pixel-conversao/dataClient?param=473425fb-5b75-4685-b6c8-74384aa8fc79",
+      "santander.png",
+      "chama.png",
+      "textoCTA.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 462,
+    "html_length": 6402,
+    "has_text": true,
+    "has_html": true
+  }
+}

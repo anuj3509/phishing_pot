@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "Olá amigo",
+    "from": "Mrs Melisa Selin Ozan <mmeerwv12@outlook.com>",
+    "to": "phishing@pot",
+    "date": "15 Dec 2023 11:40:07 +0200",
+    "message_id": "\r\n <CWLP123MB3828016DC0A696C584E9902CAC93A@CWLP123MB3828.GBRP123.PROD.OUTLOOK.COM>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 175,
+    "html_length": 231,
+    "has_text": true,
+    "has_html": true
+  }
+}

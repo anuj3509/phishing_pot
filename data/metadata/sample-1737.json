@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Attention",
+    "from": "\"Mr.UKA Ezekiel\" <dianaf65@icloud.com>",
+    "to": "Recipients <dianaf65@icloud.com>",
+    "date": "Fri, 27 Oct 2023 08:40:18 -0700",
+    "message_id": "<20231027154023.CCE7FB87BB8@mail.decipherhealth.in>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 608,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

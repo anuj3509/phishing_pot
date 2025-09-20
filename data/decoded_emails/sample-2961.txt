@@ -1,0 +1,35 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Arbitrum airdrop : Claim your share of $1,040,666.67 !
+From: Arbitrum <support@dreamhost.com>
+To: phishing@pot
+Date: Thu, 22 Feb 2024 05:01:26 -0800
+Message_Id: <I1dtRE2fVYMf1SJPfDDzL0ovLksMG568zSvRDI4KfY@www.beyondcoursework.com>
+Content_Type: multipart/alternative;
+	boundary="b1_I1dtRE2fVYMf1SJPfDDzL0ovLksMG568zSvRDI4KfY"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_I1dtRE2fVYMf1SJPfDDzL0ovLksMG568zSvRDI4KfY"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://s3.amazonaws.com/coursera-assessments/assessments/1708524484737/3f538ed0-7925-4015-b56a-773a84aec826/google.html
+  - https://d1bqobzsowu5wu.cloudfront.net/494662/be5c935c05024ca99c5d3108f33c711e
+
+DECODED TEXT CONTENT:
+------------------------------
+<p><a href="https://s3.amazonaws.com/coursera-assessments/assessments/1708524484737/3f538ed0-7925-4015-b56a-773a84aec826/google.html"><img alt="" src="https://d1bqobzsowu5wu.cloudfront.net/494662/be5c935c05024ca99c5d3108f33c711e" style="height:100%; width:600px" /></a></p>
+
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><p><a href="https://s3.amazonaws.com/coursera-assessments/assessments/1708524484737/3f538ed0-7925-4015-b56a-773a84aec826/google.html"><img alt="" src="https://d1bqobzsowu5wu.cloudfront.net/494662/be5c935c05024ca99c5d3108f33c711e" style="height:100%; width:600px"></a></p>
+

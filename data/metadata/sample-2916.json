@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "¿Has actualizado tu dirección?",
+    "from": "\"Envío pendiente\" ,JQO <newsletter@newsmail.volksfreund.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Feb 2024 04:43:16 -0500 (EST)",
+    "message_id": "\r\n <e277449d-3255-4d58-b101-92df9414900d@SG2PEPF000B66CF.apcprd03.prod.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/aUIQG6b.png",
+      "https://i.imgur.com/3TYznIN.png",
+      "https://i.imgur.com/IMuf7yq.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1cW0qp0j1J4_qjAnutzPgCRaaJ8Hj0-axBLte7_4xDWqxh4-9ddHeQM3CQAz4C0ShLOgpretTPJRmlaTtJqdHFWkc8d2rQIrBUvYaf7Q_V365Is0gbu-KBG8qPO9TO6PrWIq8q4IxnlLqqRVlm5-1pXBmQ==",
+      "i.imgur.com/aUIQG6b.png",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1cW0lr8B66ndPthVK82xvd1u7MYxRgC4pbRcANj2g2btymttiXfXegVExHqrz0qnmQVtN2dKsACn_BSOap0sLOrVrS2zR-OrIjo9p7kZm7aNhsjy0Rt15C_FMBVUwuLxfnKa5Fac_EhxqdQ9WQxztrJ5DA==",
+      "i.imgur.com/IMuf7yq.png",
+      "http://tracks.o2.co.uk/9mrSc4Vu.kdja?gAAAAABl1cW0h5VLg9Fcuyft0lJOHxKVgVrZQYLRRiLO2WzmZ1aqtujv4ueH3h7RVuzcbEiFMA7HqunQlN2sG61q12mKJPqz_qHMmJpOqWhShF-TcHzTYBSnbPUbrooU3HJmPmWtf5Y2HW-eUqB3K5AzeUg-2pXuGg====",
+      "http://tracks.o2.co.uk/r60ff.php?gAAAAABl1cW0k-Uhe0BYcgnKUv3UYnJqguUtj4LqtCiyIhfQwluQGgML_X5NgtzIPQw1xzJOZ6AVjhc38seVVHeBKQNONVtTKiIAeSAWKKGK5JN7opOSScOETppL12sG3gxetLD4VxDSqCpuoovcw0nahwOfxTQvDA==",
+      "i.imgur.com/3TYznIN.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 2474,
+    "has_text": false,
+    "has_html": true
+  }
+}

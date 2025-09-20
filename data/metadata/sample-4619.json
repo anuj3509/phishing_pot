@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Exklusives Gewinnspiel: Gewinnen Sie einen 1000��� Einkaufsgutschein!",
+    "from": "Amazon Voucher,(<service@stayfriends.de>)",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Dec 2024 12:36:23 +0000",
+    "message_id": "<XRJLAEHOJRWFOQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "https://leaadpersons.com/biz/header-amz-s24-prize-de.jpg",
+      "http://wmasurvey.com/5GaFto42236kFjE1268ylrctwrhlb14302KUHQVYZSIEFOXGV2UBRC17344d10",
+      "leaadpersons.com/biz/header-amz-s24-prize-de.jpg",
+      "http://wmasurvey.com/4QExsJ42236YPhm1268fhwrnnrsty14302HQDNJTFWUVYIDFD2HFPV17344D10",
+      "http://wmasurvey.com/4NULhj42236YiLC1268mlrjenztyo14302ELEYUYRIAQHQTXX2OTLS17344h10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1815,
+    "html_length": 9945,
+    "has_text": true,
+    "has_html": true
+  }
+}

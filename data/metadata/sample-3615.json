@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nous voulons vous r��compenser pour votre fid��lit��.",
+    "from": "Message de Veepee, <info@ml.femmeactuelle-news.fr>",
+    "to": "phishing@pot",
+    "date": "Fri, 09 Aug 2024 18:07:06 +0100",
+    "message_id": "<3r0r1zX.0.0.3r0r1zX.9.3r0r1zX@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/24/25/g0qx.png",
+      "www.zupimages.net/up/24/25/mm2c.png",
+      "https://wear-prodct.com/?a=8096&amp;oc=21197&amp;c=56513&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/25/mm2c.png",
+      "http://limecastle.co.uk/Q2I2SmloTHRjT2REejVSOGpJQTZ3ZmloL081QlpGQ1B1YisyT1VIVXRKc1FpVXJCY2pmeWZjdExxaXRTbFFxakpFSmtKWnpPaDdEbDZuejhvSHZlL1E9PQ__",
+      "http://limecastle.co.uk/enN0NUdzK3FIWHZJVEYyZFlTNVVISkNmSnlxeTNTNDVwWWJZQWcyc09ybFJ5b2xuQmMrRm9rN3BKUXVIY3V2VTNOQzd2V2pJUkR6M25tRnIxUDlZTnc9PQ__",
+      "https://www.zupimages.net/up/24/25/g0qx.png",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5166,
+    "html_length": 12851,
+    "has_text": true,
+    "has_html": true
+  }
+}

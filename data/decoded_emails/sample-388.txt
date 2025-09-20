@@ -1,0 +1,73 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Machance 750 € Récompense VIP
+From: Réclamez vos récompenses VIP , <bonobo@news.bonobojeans.com>
+To: [to]
+Date: Mon, 27 Feb 2023 11:07:25 +0100
+Message_Id: 
+ <69f8dc17-718f-4e48-b7d4-ccc8df432e7c@MW2NAM12FT038.eop-nam12.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - i.postimg.cc/260pt1gg/Fire-Shot-Capture-089.png
+  - http://daycassino.shop/un/3858_md/22222/1721/1796/410/1190
+  - http://daycassino.shop/op/3858_md/22222/1721/1796/410/1190
+  - http://daycassino.shop/oop/3858_md/22222/1721/1796/410/1190
+  - http://daycassino.shop/cl/3858_md/22222/1721/1796/410/1190
+  - https://i.postimg.cc/260pt1gg/Fire-Shot-Capture-089.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Casino en ligne /* Define the congratulation animation */ @keyframes congratulation { 0% { transform: scale(1); } 50% { transform: scale(1.2); } 100% { transform: scale(1); } } /* Apply the congratulation animation to the title */ h1 { animation-name: congratulation; animation-duration: 1.5s; animation-iteration-count: infinite; text-align: center; font-size: 2rem; color: #qf18b4; } Ne vous manquez pas 750 € de récompense VIP UNSUBSCRIBE click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Casino en ligne</title>
+    <style>
+      /* Define the congratulation animation */
+      @keyframes congratulation {
+        0% {
+          transform: scale(1);
+        }
+        50% {
+          transform: scale(1.2);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+
+      /* Apply the congratulation animation to the title */
+      h1 {
+        animation-name: congratulation;
+        animation-duration: 1.5s;
+        animation-iteration-count: infinite;
+        text-align: center;
+        font-size: 2rem;
+        color: #qf18b4;
+      }
+    </style>
+  </head>
+  <body>  
+<center>
+  <a href="http://daycassino.shop/cl/3858_md/22222/1721/1796/410/1190"><h1>Ne vous manquez pas 750 € de récompense VIP</h1>
+ <a href="http://daycassino.shop/cl/3858_md/22222/1721/1796/410/1190"><img src="//i.postimg.cc/260pt1gg/Fire-Shot-Capture-089.png"> <br> <img src="https://i.postimg.cc/260pt1gg/Fire-Shot-Capture-089.png"> <br> <br> <br></a>
+<div style="text-align:center; background-color:#fff;padding-top:10px;padding-bottom:10px;font-size:8pt;font-family:sans-serif;"><a href="http://daycassino.shop/un/3858_md/22222/1721/1796/410/1190" style="text-align:center;text-decoration:none;color:#666;">UNSUBSCRIBE</a></div> 
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://daycassino.shop/oop/3858_md/22222/1721/1796/410/1190">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://daycassino.shop/op/3858_md/22222/1721/1796/410/1190" width="1px" height="1px" style="visibility:hidden">  </center>
+</body>
+</html>
+

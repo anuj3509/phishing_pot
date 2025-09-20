@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Latest Services Agreement
+From: Microsoft Personal <hachim.tib@riadalandalous.com>
+To: phishing@pot
+Date: Thu, 12 Oct 2023 14:19:05 +0000
+Message_Id: <ec3094a3-f5fb-f059-a47e-ca0f30507921@riadalandalous.com>
+Content_Type: text/html; charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://www.bing.com/ck/a?!&amp;&amp;p=43b1b126ae5a96f9JmltdHM9MTY5NzA2ODgwMCZpZ3VpZD0wYzU3NmY3OC0zYTQ1LTZiY2MtM2NlOC03Y2U1M2I1NTZhN2QmaW5zaWQ9NTE3Nw&amp;ptn=3&amp;hsh=3&amp;fclid=0c576f78-3a45-6bcc-3ce8-7ce53b556a7d&amp;psq=boaboca.pt&amp;u=a1aHR0cHM6Ly93d3cuYm9hYm9jYS5wdC9lbi8&amp;ntb=1
+  - schema.org/ViewAction
+  - https://accounts.google.com/AccountChooser?Email=madamex65@gmail.com&amp;continue=https://myaccount.google.com/alert/nt/1689870304000?rfn%3D325%26rfnc%3D1%26eid%3D2769998158710366834%26et%3D2
+  - http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png
+  - hotmail.com
+  - schema.org/EmailMessage
+
+DECODED TEXT CONTENT:
+------------------------------
+We're updating our terms phishing@pot@hotmail.com We noticed a new Services Agreement to your account on Saturday, 14 Oct 2023. You must update the new terms to continue using our services. Accept tems You received this email to let you know about important changes to your account and services.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div dir="ltr">
+<div style="background-color:white;margin:0;padding:0;"><table lang="en" width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" style="min-width:348px;">
+<tbody><tr style="height:32px;">
+<td></td></tr>
+<tr align="center">
+<td>
+<div itemscope="" itemtype="//schema.org/EmailMessage">
+<div itemscope="" itemprop="action" itemtype="//schema.org/ViewAction"><link href="https://accounts.google.com/AccountChooser?Email=madamex65@gmail.com&amp;continue=https://myaccount.google.com/alert/nt/1689870304000?rfn%3D325%26rfnc%3D1%26eid%3D2769998158710366834%26et%3D2" itemprop="url"><meta itemprop="name" content="Review Activity"></div></div><table border="0" cellspacing="0" cellpadding="0" style="max-width:516px;padding-bottom:20px;min-width:220px;">
+<tbody><tr>
+<td style="width:8px;"></td>
+<td>
+<div align="left" style="border-radius:8px;padding:40px 20px;border:2px solid #DADCE0;"><img data-imagetype="External" src="http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png" width="104" height="24" alt="Google" aria-hidden="true" style="margin-bottom:16px;"> 
+<div style="color: black; font-family: Google Sans, Roboto, RobotoDraft, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-bottom: 24px; border-bottom: 2px solid rgb(218, 220, 224); word-break: break-word; line-height: 32px;">
+<div style="font-size:24px;text-align:left">We're updating our terms </div><table style="margin-top:8px;">
+<tbody><tr style="line-height:normal;">
+<td><a style="color:black;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;line-height:20px;">phishing@pot@hotmail.com</a></td></tr></tbody></table></div>
+<div style="color: black; font-size: 14px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: left; padding-top: 20px; line-height: 20px;">We noticed a new Services Agreement to your account on Saturday, 14 Oct 2023. You must update the new terms to continue using our services.
+<div style="text-align:left;padding-top:32px;"><a href="https://www.bing.com/ck/a?!&amp;&amp;p=43b1b126ae5a96f9JmltdHM9MTY5NzA2ODgwMCZpZ3VpZD0wYzU3NmY3OC0zYTQ1LTZiY2MtM2NlOC03Y2U1M2I1NTZhN2QmaW5zaWQ9NTE3Nw&amp;ptn=3&amp;hsh=3&amp;fclid=0c576f78-3a45-6bcc-3ce8-7ce53b556a7d&amp;psq=boaboca.pt&amp;u=a1aHR0cHM6Ly93d3cuYm9hYm9jYS5wdC9lbi8&amp;ntb=1" target="_blank" rel="noopener noreferrer" data-auth="VerificationFailed" originalsrc="https://accounts.google.com/AccountChooser?Email=madamex65@gmail.com&amp;continue=https://myaccount.google.com/alert/nt/1689870304000?rfn%3D325%26rfnc%3D1%26eid%3D2769998158710366834%26et%3D2" shash="xQTHDx4IurUv0d5PIbLp67Nn3O2AhjcUj95EsuA0pPXLpb5modCYzoVXlAk9X03k2svC6QJzLIBEOkNRmJntCIZ3oxpaP/JX50swW2jXrUmRG2Eo0i870161IWpsnp9Jj6occk6Ap1QRQS0XqmNgUIoK0Vpbem9ZUWaOWSxhhrM=" style="color:white;font-size:14px;font-family:Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;font-weight:400;background-color:#4184F3;display:inline-block;text-decoration:none;border-radius:5px;padding:10px 24px;min-width:90px;line-height:16px;text-align:center" title="" data-linkindex="1">Accept tems</a></div></div></div>
+<div style="text-align:left;">
+<div style="color: rgba(0, 0, 0, 0.57); font-size: 11px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif, serif, EmojiFont; text-align: center; padding-top: 12px; line-height: 18px;">
+<div>You received this email to let you know about important changes to your account and services.</div>
+</div></div></td>
+<td style="width:8px;"></td></tr></tbody></table></td></tr>
+<tr style="height:32px;">
+<td></td></tr></tbody></table></div></div>
+

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Coca-Cola NFT Collection now available on Coinbase Claim your free\r\n NFT!",
+    "from": "Coca-Cola NFT <conft01@coinbasecola.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Feb 2024 18:14:40 +0000 (UTC)",
+    "message_id": "<255abd57.AVQAADcTP8YAAAAOp6wAAHoHxWsAAAACRycABAmjACfo8QBlz6YQ@mailjet.com>",
+    "content_type": "multipart/alternative; boundary=\"=-AwDTeOQEqZpCorJZBzfU\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-AwDTeOQEqZpCorJZBzfU\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://sm71g.mjt.lu/oo/AVQAADcTP8YAAAAOp6wAAHoHxWsAAAACRycABAmjACfo8QBlz6YQRT4blBmPRnWVeIfy-KFcXwAlDxc/c1204d47/e.gif",
+      "https://sm71g.mjt.lu/unsub2?hl=en&amp;m=AVQAADcTP8YAAAAOp6wAAHoHxWsAAAACRycABAmjACfo8QBlz6YQRT4blBmPRnWVeIfy-KFcXwAlDxc&amp;b=255abd57&amp;e=b3f8bd48&amp;x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.coinbasecola.com/?cola=phishing@pot-f-p@hotmail.com",
+      "https://www.coinbasecola.com/?cola=phishing@pot-f-p@hotmail.com]",
+      "https://sm71g.mjt.lu/unsub2?hl=en&m=AVQAADcTP8YAAAAOp6wAAHoHxWsAAAACRycABAmjACfo8QBlz6YQRT4blBmPRnWVeIfy-KFcXwAlDxc&b=255abd57&e=b3f8bd48&x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1229,
+    "html_length": 11480,
+    "has_text": true,
+    "has_html": true
+  }
+}

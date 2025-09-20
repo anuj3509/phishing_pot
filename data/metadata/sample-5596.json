@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 1727959718",
+    "from": "Status Entrega - Correios <no-397-reply@%Encomenda.online>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 19 Jun 2025 15:30:25 +0000",
+    "message_id": "<20250619153025.AAC013F489@vps-219-71>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wytf1727959718abhg.pasdowqsd.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2230,
+    "html_length": 4162,
+    "has_text": true,
+    "has_html": true
+  }
+}

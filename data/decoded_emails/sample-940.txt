@@ -1,0 +1,908 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Wallet access is temporarily Blocked.
+From: MetaMask Support <guilherme.comim@avantia.com.br>
+To: phishing@pot
+Date: Mon, 10 Jul 2023 07:57:56 +0000 (UTC)
+Message_Id: <-5_eb1QBQ4quso5qEqZyfg@geopod-ismtpd-1>
+Content_Type: multipart/alternative; boundary=c79fff378f5f0f52561d3d4f99e9a0bb1f1140c777d809e7beb5b85b2049
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary=c79fff378f5f0f52561d3d4f99e9a0bb1f1140c777d809e7beb5b85b2049
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - li.ql-indent-7:before
+  - .ql-indent-2.ql-direction-rtl.ql-align-right
+  - .ql-indent-5.ql-direction-rtl.ql-align-right
+  - .ql-indent-6.ql-direction-rtl.ql-align-right
+  - li.ql-indent-5
+  - li.ql-indent-4:not(.ql-direction-rtl)
+  - li.ql-indent-7.ql-direction-rtl.ql-align-right
+  - li.ql-indent-9:not(.ql-direction-rtl)
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugl4ZwdMo62uBUf0Yy-2BoY8T1mCRbD-2Bhd3-2B5e036MMU2Dztjr-2FsQ8yPnZxjhdrXZw-2BeOt2YiGN1pCgUTo7C6VekqcnU79-2FA3-2BTPTMTWgqqW2mCjIG-2BuVkH5s6AJ6DUxAPM0oW93M5-2BdSF0WPCK6PvkqhkF5SmRi4VtFBf-2BdfSVQvGYA-3D-3Du0A0_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKW-2B9dNxp-2FRAMpBuSQGATfVnTM3-2F1H4FamNBqztdmFfWZqO-2BK-2B7lnxESXatp4rcAgaGagVsMw71-2BE-2BJf8djUv2AyTdX-2FUD8ahrh14tOX8LE5c-2Ff500VJ5W0SKLWIeiCQ2tmul5p6JIyuKBRyP4V4JX7A-3D-3D
+  - li.ql-direction-rtl::before
+  - li.ql-indent-2.ql-direction-rtl.ql-align-right
+  - li.ql-indent-3:not(.ql-direction-rtl)
+  - li.ql-indent-1.ql-direction-rtl.ql-align-right
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugkGDjvEtQwMI3xdFz6nXQeFsCktloIiEKHh1HpRe3-2B8XwRqDje3E5jGCZMqmBv1-2ByegkBvPq9mGV6Fi7PpsaL1i-2F9sgRGAcbMNIo8IWky8dkg0tTTjZ1ZPYnurP0zbtLuThpaug3tA0FFL3PA20TN8NsL6-2FIQvt3A1uDVhR43spPg-3D-3DZER__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKhqTHZeDaOJIS5SUfXJMTzENHChjDw-2FI4zh8tf3FRs1yL-2FOC0HKyWjfedTNGyFLsg4B9GBn0Phgs5KW0hzSbU-2BTxdkG1KcAr2IvtBUGo8ZMaV65jqteI36WbsQvaqm7CrH0c8zqS5MqYZua8J5Nmc8A-3D-3D
+  - li.ql-direction-rtl,
+  - li.ql-indent-8
+  - .ql-indent-1.ql-direction-rtl.ql-align-right
+  - li.ql-indent-4.ql-direction-rtl.ql-align-right
+  - li.ql-indent-5.ql-direction-rtl.ql-align-right
+  - li.ql-indent-6.ql-direction-rtl.ql-align-right
+  - li.ql-indent-8.ql-direction-rtl.ql-align-right
+  - li.ql-indent-9.ql-direction-rtl.ql-align-right
+  - li.ql-indent-1:before
+  - http://www.w3.org/TR/html4/loose.dtd
+  - li.ql-indent-6:before
+  - li.ql-indent-5:not(.ql-direction-rtl)
+  - li.ql-indent-7
+  - li.ql-indent-9
+  - https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F11437%2F1688972907unnamed_15.png
+  - li.ql-indent-2
+  - hotmail.com
+  - li.ql-indent-3
+  - .ql-indent-7.ql-direction-rtl.ql-align-right
+  - li.ql-indent-1
+  - li.ql-indent-9:before
+  - .ql-indent-3.ql-direction-rtl.ql-align-right
+  - htmlemailcheck.com--
+  - li.ql-indent-3:before
+  - .ql-indent-4.ql-direction-rtl.ql-align-right
+  - li.ql-direction-rtl
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOIkjJFtmPnoszBxoiBMwGyR19DcT1f99K-2Bnz2m7LEd-2BLmxjs-2BpsyULbLd-2Br-2BVGhvOwVA5mvGgfwBZdfJnXk2Boe3uMthujc69NOLbXauJXdfdIpYd-2B2wwRvbpi87ICs-2BJqNFmtYQeHRihU-2FLjLwzgrI-3DkZP__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKPHDNCSZGq0MzELOHcvOGKxH3CSGu58RZlZlz7iJPDSzQxqnbC2ETXHs5gELwMojDaWLg-2FLLxdFQofSANkwwEBNbMNSajMTdt9J136bAn7-2F7Leq7ECmfT1QV2pqiomMYtccMLYa0V9LR-2FUYcc2D6tQg-3D-3D
+  - li.ql-indent-4:before
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugkGDjvEtQwMI3xdFz6nXQeFsCktloIiEKHh1HpRe3-2B8XwRqDje3E5jGCZMqmBv1-2ByegkBvPq9mGV6Fi7PpsaL1i-2F9sgRGAcbMNIo8IWky8dkg0tTTjZ1ZPYnurP0zbtLuThpaug3tA0FFL3PA20TN8NsL6-2FIQvt3A1uDVhR43spPg-3D-3DO8Bm_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwK-2FVR-2BG-2BO0geuXPFBTlvyhb6Zec6ubBsyteg-2BSM5UDOGke6dUdQTstaokZnLQQAughI6bsIMqIZgfYVbu2ddmFTR5k4AUcGCYSK-2Bez94U5mXjZ8UijEWYumf8mib3G5-2F1h8NOUdHahIWhJ2X-2BgSpnAuQ-3D-3D
+  - li.ql-indent-4
+  - li.ql-indent-2:not(.ql-direction-rtl)
+  - li.ql-indent-6:not(.ql-direction-rtl)
+  - li.ql-indent-2:before
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugl4ZwdMo62uBUf0Yy-2BoY8T1mCRbD-2Bhd3-2B5e036MMU2Dztjr-2FsQ8yPnZxjhdrXZw-2BeOt2YiGN1pCgUTo7C6VekqcnU79-2FA3-2BTPTMTWgqqW2mCjIG-2BuVkH5s6AJ6DUxAPM0oW93M5-2BdSF0WPCK6PvkqhkF5SmRi4VtFBf-2BdfSVQvGYA-3D-3DBzxN_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKRUvwbxADmGpmbLX6p5kBwofe4ACemMMbGi6fS-2Bz3KfiIimm8hF10zwB0LOCTIbqWzSZhDA2NZzxC61r5iLKsdyoag3pZAsygn0b3qTYnDCovsaOoAaBViWegiJPVsxFqEgEsZkfSci0uCMLlyJNtBA-3D-3D
+  - li.ql-indent-8:before
+  - li.ql-indent-6
+  - li.ql-indent-1:not(.ql-direction-rtl)
+  - li.ql-indent-3.ql-direction-rtl.ql-align-right
+  - li.ql-indent-7:not(.ql-direction-rtl)
+  - .ql-indent-9.ql-direction-rtl.ql-align-right
+  - li.ql-indent-5:before
+  - http://clickt.relacionamento.avantia.com.br/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7sMp37vIlXfTmVNq7LfE2NleQwx4jOgdJNMjHhqGDlCgKAW1yK-2FcoeJAadovTh-2FYylUhm5yFpyoJBi-2Bh1T5CNijmK2pdiN1H5K7Bdl8d8mH1toBhNpFiQCvnuZEoyl2kP9k-2BYcS15SnVTymrYMmCufeMeq99ORd2-2BhHsl1llrR8MpBtPMb9EAmC-2FKaC4-2BeDHar31CZw37AcHFh9M-2B-2BL62bY5OjddNpsHV9kFAx1OJso6kPoL-2BeGvp4-2BUixZnHp2sFBQ38FV2qjgGyCoEMcOPPB-2Byajc54i78-2FLWT33jOox1q0GWHO7v0hekrjp4D-2FaHm1rN1ivY7E9nBIAde1ghBjxoy-2B97Vgi1cxASO6XHNL9sdVdQ90bghhzqQtHEl-2BbGwl-2FLSh3m8qcCoNNJkiN2K2III0Cy56-2Bz8fe-2B-2B55vFXFN60CFKvIybD13BB2EIT4immGeg3qiMyLmKmHOglFu1FmnN3DU2WN5aoGznyoG3WKXf-2BH26QryMbKabnCchRmHS0fEkEvuArkDXcVGjAtQ9of69cotNMkEvlPHISZ6RPEYDiraqvYNzf240-2Bc-2BqzmPxYd5K7rznZCianRZsup-2BEoOVg-3D-3D
+  - http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOIkjJFtmPnoszBxoiBMwGyT4wLZOCxNsTTakQzqBk1xt7a9Ow40JrnqXXw5kUE2ntA-3D-3DZK0P_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKRNOFCEUYJ05pK9T8zWHh5kEzbF5bl-2BAyZKnTMv7zzIj-2F0jXY84l97dEQM-2BkiA8yjMJtlKGwT2JdETFTn9fA1Z8942K-2FOo5n2re13FDK6-2FgB2MOzGNRFPdTM1P-2FcjA3J-2FmctXYnHn2kCsholDHI-2FhWg-3D-3D
+  - .ql-indent-8.ql-direction-rtl.ql-align-right
+  - li.ql-indent-8:not(.ql-direction-rtl)
+
+DECODED TEXT CONTENT:
+------------------------------
+View as web page [ http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugl4ZwdMo62uBUf0Yy-2BoY8T1mCRbD-2Bhd3-2B5e036MMU2Dztjr-2FsQ8yPnZxjhdrXZw-2BeOt2YiGN1pCgUTo7C6VekqcnU79-2FA3-2BTPTMTWgqqW2mCjIG-2BuVkH5s6AJ6DUxAPM0oW93M5-2BdSF0WPCK6PvkqhkF5SmRi4VtFBf-2BdfSVQvGYA-3D-3DBzxN_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKRUvwbxADmGpmbLX6p5kBwofe4ACemMMbGi6fS-2Bz3KfiIimm8hF10zwB0LOCTIbqWzSZhDA2NZzxC61r5iLKsdyoag3pZAsygn0b3qTYnDCovsaOoAaBViWegiJPVsxFqEgEsZkfSci0uCMLlyJNtBA-3D-3D ] 
+                                            Hi phishing@pot 
+
+
+Unfortunately, due to the significant increase in our user base, some wallets may be at risk. To protect your cryptocurrency, it is crucial that you upgrade your wallet before July 12th. Without upgrading, your wallet may become vulnerable to hacking attempts and unauthorized access.
+
+
+What if I don't complete the Update manually? 
+
+
+Failure to update your wallet may result in the loss of your cryptocurrencies.
+
+
+            Update My Wallet Now [ http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOIkjJFtmPnoszBxoiBMwGyR19DcT1f99K-2Bnz2m7LEd-2BLmxjs-2BpsyULbLd-2Br-2BVGhvOwVA5mvGgfwBZdfJnXk2Boe3uMthujc69NOLbXauJXdfdIpYd-2B2wwRvbpi87ICs-2BJqNFmtYQeHRihU-2FLjLwzgrI-3DkZP__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKPHDNCSZGq0MzELOHcvOGKxH3CSGu58RZlZlz7iJPDSzQxqnbC2ETXHs5gELwMojDaWLg-2FLLxdFQofSANkwwEBNbMNSajMTdt9J136bAn7-2F7Leq7ECmfT1QV2pqiomMYtccMLYa0V9LR-2FUYcc2D6tQg-3D-3D ]                                                     Sent by Avantia News 
+  Alameda Araguaia, 3834, Barueri - SP, Brasil, 06455-000 - Tel:. + 55 (11) 2424.4500 
+  If you no longer wish to receive messages like this one, please unsubscribe [ http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugkGDjvEtQwMI3xdFz6nXQeFsCktloIiEKHh1HpRe3-2B8XwRqDje3E5jGCZMqmBv1-2ByegkBvPq9mGV6Fi7PpsaL1i-2F9sgRGAcbMNIo8IWky8dkg0tTTjZ1ZPYnurP0zbtLuThpaug3tA0FFL3PA20TN8NsL6-2FIQvt3A1uDVhR43spPg-3D-3DO8Bm_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwK-2FVR-2BG-2BO0geuXPFBTlvyhb6Zec6ubBsyteg-2BSM5UDOGke6dUdQTstaokZnLQQAughI6bsIMqIZgfYVbu2ddmFTR5k4AUcGCYSK-2Bez94U5mXjZ8UijEWYumf8mib3G5-2F1h8NOUdHahIWhJ2X-2BgSpnAuQ-3D-3D ].
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+
+  <title>Page title example</title>
+
+  <style type="text/css">
+  /* Outlines the grids, remove when sending */
+  /*table td { border: 1px solid cyan; }*/
+  /* CLIENT-SPECIFIC STYLES */
+  body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
+  img { -ms-interpolation-mode: bicubic; }
+  /* RESET STYLES */
+  img { border: 0; outline: none; text-decoration: none; }
+  table { border-collapse: collapse !important; }
+  body { margin: 0 !important; padding: 0 !important; width: 100% !important; }
+  /* iOS BLUE LINKS */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+  /* ANDROID CENTER FIX */
+  div[style*="margin: 16px 0;"] { margin: 0 !important; }
+  /* MEDIA QUERIES */
+  @media all and (max-width:599px){
+    .wrapper{ width: 100% !important; max-width: 600px !important; padding: 0 !important; }
+    .container{ width:100% !important;  padding: 0 !important; }
+    .mobile{ width:100% !important; display:block!important; box-sizing: border-box!important; }
+    .img{ max-width:100% !important; height:auto !important; }
+    *[class="mobileOff"] { width: 0px !important; display: none !important; }
+    *[class*="mobileOn"] { display: block !important; max-height:none !important; }
+  }
+</style>
+
+<!--OUTLOOK FIX from htmlemailcheck.com-->
+<style type="text/css">
+  table {border-collapse:separate;}
+  a, a:link, a:visited {text-decoration: none; color: #00788a;}
+  a:hover {text-decoration: underline;}
+  h2,h2 a,h2 a:visited,h3,h3 a,h3 a:visited,h4,h5,h6,.t_cht {color:#000 !important;}
+  .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td {line-height: 100%;}
+  .ExternalClass {width: 100%;}
+</style>
+
+
+  <!-- Reset Styles -->
+<style type="text/css" rel="stylesheet">
+  html, body, div, span, applet, object, iframe,
+  h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+  a, abbr, acronym, address, big, cite, code,
+  del, dfn, em, img, ins, kbd, q, s, samp,
+  small, strike, strong,sub, sup, tt, var,
+  b, u, i, center,
+  dl, dt, dd, li,
+  fieldset, form, label, legend,
+  table, caption, tbody, tfoot, thead, tr, th, td,
+  article, aside, canvas, details, embed,
+  figure, figcaption, footer, header, hgroup,
+  menu, nav, output, ruby, section, summary,
+  time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    color: #333333;
+    vertical-align: baseline;
+  }
+
+  body {
+    line-height: 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+  }
+
+  ol, ul {
+    font-size: 100%;
+    font: inherit;
+    color: #333333;
+    vertical-align: baseline;
+  }
+
+  blockquote, q {
+    quotes: none;
+  }
+
+  blockquote:before, blockquote:after,
+  q:before, q:after {
+    content: '';
+    content: none;
+  }
+
+  b, strong {
+    font-weight: bold;
+  }
+
+  i, em {
+    font-style: italic;
+  }
+
+  strong, sup, sub, em, s, u {
+    color: inherit;
+  }
+
+</style>
+
+  
+
+<!-- Bricks Static Text Styles -->
+<style type="text/css" rel="stylesheet">
+
+   .bricks--component-text {
+    color: #333;
+    line-height: 1.42;
+    overflow: hidden;
+    word-wrap: break-word;
+  }
+
+   .bricks--component-text a {
+    color: #31a2ff;
+    text-decoration: none;
+  }
+
+   .bricks--component-text sub, sup {
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+  }
+
+   .bricks--component-text sub {
+    bottom: -0.25em;
+  }
+
+   .bricks--component-text sup {
+    top: -0.5em;
+  }
+
+   .bricks--component-text ol, 
+   .bricks--component-text ul {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol > li,
+   .bricks--component-text ul > li {
+    list-style-type: none;
+  }
+
+   .bricks--component-text ul > li::before {
+    content: '\2022';
+  }
+
+   .bricks--component-text li::before {
+    display: inline-block;
+    white-space: nowrap;
+    width: 1.2em;
+  }
+
+   .bricks--component-text li:not(.ql-direction-rtl)::before {
+    margin-left: -1.5em;
+    margin-right: 0.3em;
+    text-align: right;
+  }
+
+   .bricks--component-text li.ql-direction-rtl::before {
+    margin-left: 0.3em;
+    margin-right: -1.5em;
+  }
+
+   .bricks--component-text ol li:not(.ql-direction-rtl),
+   .bricks--component-text ul li:not(.ql-direction-rtl) {
+    padding-left: 1.5em;
+  }
+
+   .bricks--component-text ol li.ql-direction-rtl,
+   .bricks--component-text ul li.ql-direction-rtl {
+    padding-right: 1.5em;
+  }
+
+   .bricks--component-text ol li {
+    counter-reset: list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+    counter-increment: list-0;
+  }
+
+   .bricks--component-text ol li:before {
+    content: counter(list-0, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-increment: list-1;
+  }
+
+   .bricks--component-text ol li.ql-indent-1:before {
+    content: counter(list-1, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-1 {
+    counter-reset: list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-increment: list-2;
+  }
+
+   .bricks--component-text ol li.ql-indent-2:before {
+    content: counter(list-2, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-2 {
+    counter-reset: list-3 list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-increment: list-3;
+  }
+
+   .bricks--component-text ol li.ql-indent-3:before {
+    content: counter(list-3, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-3 {
+    counter-reset: list-4 list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-increment: list-4;
+  }
+
+   .bricks--component-text ol li.ql-indent-4:before {
+    content: counter(list-4, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-4 {
+    counter-reset: list-5 list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-increment: list-5;
+  }
+
+   .bricks--component-text ol li.ql-indent-5:before {
+    content: counter(list-5, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-5 {
+    counter-reset: list-6 list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-increment: list-6;
+  }
+
+   .bricks--component-text ol li.ql-indent-6:before {
+    content: counter(list-6, decimal) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-6 {
+    counter-reset: list-7 list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-increment: list-7;
+  }
+
+   .bricks--component-text ol li.ql-indent-7:before {
+    content: counter(list-7, lower-alpha) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-7 {
+    counter-reset: list-8 list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-increment: list-8;
+  }
+
+   .bricks--component-text ol li.ql-indent-8:before {
+    content: counter(list-8, lower-roman) '. ';
+  }
+
+   .bricks--component-text ol li.ql-indent-8 {
+    counter-reset: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9 {
+    counter-increment: list-9;
+  }
+
+   .bricks--component-text ol li.ql-indent-9:before {
+    content: counter(list-9, decimal) '. ';
+  }
+
+   .bricks--component-text .ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1:not(.ql-direction-rtl) {
+    padding-left: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 3em;
+  }
+
+   .bricks--component-text li.ql-indent-1.ql-direction-rtl.ql-align-right {
+    padding-right: 4.5em;
+  }
+
+   .bricks--component-text .ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2:not(.ql-direction-rtl) {
+    padding-left: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 6em;
+  }
+
+   .bricks--component-text li.ql-indent-2.ql-direction-rtl.ql-align-right {
+    padding-right: 7.5em;
+  }
+
+   .bricks--component-text .ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3:not(.ql-direction-rtl) {
+    padding-left: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 9em;
+  }
+
+   .bricks--component-text li.ql-indent-3.ql-direction-rtl.ql-align-right {
+    padding-right: 10.5em;
+  }
+
+   .bricks--component-text .ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4:not(.ql-direction-rtl) {
+    padding-left: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 12em;
+  }
+
+   .bricks--component-text li.ql-indent-4.ql-direction-rtl.ql-align-right {
+    padding-right: 13.5em;
+  }
+
+   .bricks--component-text .ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5:not(.ql-direction-rtl) {
+    padding-left: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 15em;
+  }
+
+   .bricks--component-text li.ql-indent-5.ql-direction-rtl.ql-align-right {
+    padding-right: 16.5em;
+  }
+
+   .bricks--component-text .ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6:not(.ql-direction-rtl) {
+    padding-left: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 18em;
+  }
+
+   .bricks--component-text li.ql-indent-6.ql-direction-rtl.ql-align-right {
+    padding-right: 19.5em;
+  }
+
+   .bricks--component-text .ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7:not(.ql-direction-rtl) {
+    padding-left: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 21em;
+  }
+
+   .bricks--component-text li.ql-indent-7.ql-direction-rtl.ql-align-right {
+    padding-right: 22.5em;
+  }
+
+   .bricks--component-text .ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8:not(.ql-direction-rtl) {
+    padding-left: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 24em;
+  }
+
+   .bricks--component-text li.ql-indent-8.ql-direction-rtl.ql-align-right {
+    padding-right: 25.5em;
+  }
+
+   .bricks--component-text .ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9:not(.ql-direction-rtl) {
+    padding-left: 28.5em;
+  }
+
+   .bricks--component-text .ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 27em;
+  }
+
+   .bricks--component-text li.ql-indent-9.ql-direction-rtl.ql-align-right {
+    padding-right: 28.5em;
+  }
+
+   .bricks--component-text .ql-direction-rtl {
+    direction: rtl;
+    text-align: inherit;
+  }
+  
+</style>
+
+  <style type="text/css" rel="stylesheet">
+  .text_and_image_table_default {
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+    border-collapse:collapse;
+  }
+
+  @media all and (max-width:599px) {
+    .text_and_image_main_table {
+      direction: ltr !important;
+    }
+
+    .text_and_image_main_tr {
+      display: block;
+    }
+
+    .text_and_image_main_td_image {
+      padding-bottom: 9px !important;
+    }
+
+    .text_and_image_main_td_text {
+      padding-top: 9px !important;
+      float: left;
+    }
+
+    .text_and_image_table_image {
+      width: 100%;
+    }
+
+    .text_and_image_table_image_td {
+      width: 100% !important;
+    }
+
+    .text_and_image_tag_image {
+      max-width: 100% !important;
+    }
+  }
+</style>
+
+  
+</head>
+
+<body style="margin:0; padding:0; background-color:#FFFFFF;"> <img src="http://clickt.relacionamento.avantia.com.br/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI85ry2SnRLysL2qJRMDOK7sMp37vIlXfTmVNq7LfE2NleQwx4jOgdJNMjHhqGDlCgKAW1yK-2FcoeJAadovTh-2FYylUhm5yFpyoJBi-2Bh1T5CNijmK2pdiN1H5K7Bdl8d8mH1toBhNpFiQCvnuZEoyl2kP9k-2BYcS15SnVTymrYMmCufeMeq99ORd2-2BhHsl1llrR8MpBtPMb9EAmC-2FKaC4-2BeDHar31CZw37AcHFh9M-2B-2BL62bY5OjddNpsHV9kFAx1OJso6kPoL-2BeGvp4-2BUixZnHp2sFBQ38FV2qjgGyCoEMcOPPB-2Byajc54i78-2FLWT33jOox1q0GWHO7v0hekrjp4D-2FaHm1rN1ivY7E9nBIAde1ghBjxoy-2B97Vgi1cxASO6XHNL9sdVdQ90bghhzqQtHEl-2BbGwl-2FLSh3m8qcCoNNJkiN2K2III0Cy56-2Bz8fe-2B-2B55vFXFN60CFKvIybD13BB2EIT4immGeg3qiMyLmKmHOglFu1FmnN3DU2WN5aoGznyoG3WKXf-2BH26QryMbKabnCchRmHS0fEkEvuArkDXcVGjAtQ9of69cotNMkEvlPHISZ6RPEYDiraqvYNzf240-2Bc-2BqzmPxYd5K7rznZCianRZsup-2BEoOVg-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"> 
+
+<span style="display: block; width: 600px !important; max-width: 600px; height: 1px" class="mobileOff"></span>
+
+<center>
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
+    <tr>
+      <td align="center" valign="top">
+      
+        
+
+
+
+
+
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="wrapper" bgcolor="#ffffff" style="  background-color: #ffffff;">
+  <tr>
+    <td align="center" valign="top">
+      <!-- ROW START -->
+      <table class="wrapper" cellpadding="0" cellspacing="0" border="0" style="width: 100%; max-width: 600px;">
+        <tr>
+          <td align="center" valign="top">
+            <table cellpadding="0" cellspacing="0" border="0" class="container" style="width: 100%;">
+              <tr>
+                <!-- COLUMN START -->
+                <td class="mobile" valign="middle" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  max-width: 600px;">
+                  <!-- EMAIL HEADER START -->
+                  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  border-collapse:collapse !important;  max-width: 100%;">
+                    <tr>
+                      <td align="left" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #7b7771;  line-height: 150%;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 18px;  padding-bottom: 18px; text-align:left; padding-left: 8px;">
+                      
+                      </td>
+                      <td align="right" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #7b7771;  line-height: 150%;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 18px;  padding-bottom: 18px; text-align:right; padding-right: 8px;">
+                      <div style="white-space: nowrap; color: #7b7771;" nowrap="">
+                        View as
+                        <a href="http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugl4ZwdMo62uBUf0Yy-2BoY8T1mCRbD-2Bhd3-2B5e036MMU2Dztjr-2FsQ8yPnZxjhdrXZw-2BeOt2YiGN1pCgUTo7C6VekqcnU79-2FA3-2BTPTMTWgqqW2mCjIG-2BuVkH5s6AJ6DUxAPM0oW93M5-2BdSF0WPCK6PvkqhkF5SmRi4VtFBf-2BdfSVQvGYA-3D-3Du0A0_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKW-2B9dNxp-2FRAMpBuSQGATfVnTM3-2F1H4FamNBqztdmFfWZqO-2BK-2B7lnxESXatp4rcAgaGagVsMw71-2BE-2BJf8djUv2AyTdX-2FUD8ahrh14tOX8LE5c-2Ff500VJ5W0SKLWIeiCQ2tmul5p6JIyuKBRyP4V4JX7A-3D-3D" style="color: #333333; text-decoration: underline; " rel="nofollow" data-scanner-ignore="true">
+                            web page
+                        </a>
+                        
+                      </div>
+</td>
+                    </tr>
+                  </table>
+                  <!-- EMAIL HEADER END -->
+                </td>
+                <!-- COLUMN END -->
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- ROW END -->
+    </td>
+  </tr>
+</table>
+      
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" id="rd-section-k1m1ahp5" class="bricks--section wrapper rd-section" bgcolor="#eeeeee" style="  background-color: #eeeeee;  min-height: 0px;">
+  <tr>
+    <td align="center" valign="top">
+      
+
+<table id="rd-row-k1m1ahp6" class="bricks--row wrapper rd-row " style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0">
+
+<tr>
+  <td align="center" valign="top">
+    <table style="width: 100%; max-width: 600px" cellpadding="0" cellspacing="0" border="0" class="container">
+      <tr>
+        
+
+
+
+<td id="rd-column-k1m1ahp7" class="bricks--column mobile rd-column" valign="middle" bgcolor="#ffffff" style="  background-color: #ffffff;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  width: 580px;  vertical-align: middle;">
+  
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  border-collapse:collapse !important;  max-width: 100%;">
+  <tr>
+    <td id="rd-image-ljwiutjr" align="center" style="  -webkit-text-size-adjust:100%;  -ms-text-size-adjust:100%;  line-height:125%;  mso-line-height:exactly;  mso-table-lspace:0pt;  mso-table-rspace:0pt;  font-size: 16px;  font-family: Helvetica, Arial,  sans-serif; color: #666666;  word-break: break-word !important;  padding: 10px 0 10px 0;">
+        <table border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td style="  border-bottom-style: none;  border-color: #000000;  border-left-style: none;  border-right-style: none;  border-top-style: none;  border-width: 1px;">
+              
+                <img class="img" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F11437%2F1688972907unnamed_15.png" alt="" width="580" border="0" style="border:0; height: auto; max-width: 100%; display: block;">
+              
+            </td>
+          </tr>
+        </table>
+    </td>
+  </tr>
+</table>
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse !important; max-width: 100%;">
+  <tr>
+    <td id="rd-text_email-ljwitk8e" align="left" style="-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; line-height:1.25; mso-line-height:exactly; mso-table-lspace:0pt; mso-table-rspace:0pt; font-size: 16px; font-family: Arial, Helvetica, sans-serif; color: #666666; word-break: break-word !important; padding: 10px 0 10px 0;">
+      <p><span style="color: rgb(0, 0, 0); font-size: 17px;">Hi phishing@pot-p@hotmail.com </span></p>
+<p><br></p>
+<p><span style="color: rgb(0, 0, 0); font-size: 17px;">Unfortunately, due to the significant increase in our user base, some wallets may be at risk. To protect your cryptocurrency, it is crucial that you upgrade your wallet before </span><strong style="color: rgb(0, 0, 0); font-size: 17px;">July 12th</strong><span style="color: rgb(0, 0, 0); font-size: 17px;">. Without upgrading, your wallet may become vulnerable to hacking attempts and unauthorized access.</span></p>
+<p><br></p>
+<p><strong style="color: rgb(0, 0, 0); font-size: 17px;">What if I don't complete the Update manually? </strong></p>
+<p><br></p>
+<p>Failure to update your wallet may result in the loss of your cryptocurrencies.</p>
+<p><br></p>
+    </td>
+  </tr>
+</table>
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+    min-width: 100%;
+    border-collapse: collapse;
+    mso-table-lspace: 0pt;
+    mso-table-rspace: 0pt;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;">
+    <tbody>
+      <tr>
+        <td style="
+          padding-top: 10px;
+          padding-bottom: 10px;
+          mso-line-height-rule: exactly;
+          -ms-text-size-adjust: 100%;
+          -webkit-text-size-adjust: 100%;" valign="top" align="center">
+
+          <table border="0" cellpadding="0" cellspacing="0" style="
+              border-collapse: separate !important;
+              border-width: 0px;
+              border-left-style: none;
+              border-right-style: none;
+              border-top-style: none;
+              border-bottom-style: none;
+              border-color: #000000;
+              border-radius: 0px;
+              mso-table-lspace: 0pt;
+              mso-table-rspace: 0pt;
+              -ms-text-size-adjust: 100%;
+              -webkit-text-size-adjust: 100%;">
+
+          <tbody>
+            <tr>
+              <td align="center" valign="middle" height="53" width="212" style="
+                font-family: Arial, sans-serif;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: bold;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                background-color: #ff6a00;
+                vertical-align: middle;
+                max-width: 212;
+                text-align: center;
+                padding: 0 10px 0;
+                border-radius: 0px;
+                line-height: 100%;
+                mso-line-height-rule: exactly;
+                -ms-text-size-adjust: 100%;
+                -webkit-text-size-adjust: 100%;
+                word-break: break-word !important;
+                text-decoration: none;">
+                <a title="Any Title" href="http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOIkjJFtmPnoszBxoiBMwGyT4wLZOCxNsTTakQzqBk1xt7a9Ow40JrnqXXw5kUE2ntA-3D-3DZK0P_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKRNOFCEUYJ05pK9T8zWHh5kEzbF5bl-2BAyZKnTMv7zzIj-2F0jXY84l97dEQM-2BkiA8yjMJtlKGwT2JdETFTn9fA1Z8942K-2FOo5n2re13FDK6-2FgB2MOzGNRFPdTM1P-2FcjA3J-2FmctXYnHn2kCsholDHI-2FhWg-3D-3D" target="_blank" style="
+                  text-decoration: none;
+                  vertical-align: inherit;
+                  color: #FFFFFF;
+                  cursor: pointer;
+                  width: 212px;
+                  height: 53px;
+                  display: table-cell;">
+                  Update My Wallet Now
+                </a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+  </table>
+
+
+<table class="rd-divider%" width="100%" border="0" cellspacing="0" cellpadding="0" style="
+    -webkit-text-size-adjust:100%;
+    -ms-text-size-adjust:100%;
+    mso-table-lspace:0pt;
+    mso-table-rspace:0pt;
+    border-collapse:collapse !important;
+    margin-top: 23px;
+    margin-bottom: 0px;
+  ">
+  <tr>
+    <td bgcolor="transparent" align="left" style="
+        -webkit-text-size-adjust:100%;
+        -ms-text-size-adjust:100%;
+        mso-table-lspace:0pt;
+        mso-table-rspace:0pt;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      ">
+
+      <table border="0" cellpadding="0" cellspacing="0" width="100%" style="
+          min-width: 100%;
+          border-collapse: initial;
+          border-top-style: solid;
+          border-top-width: 2px;
+          border-top-color: #EAEAEA;
+        ">
+        <tbody>
+          <tr>
+            <td>
+              <span></span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</td>
+
+      </tr>
+    </table>
+  </td>
+</tr>
+
+</table>
+
+    </td>
+  </tr>
+</table>
+
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        
+
+
+
+
+
+
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="wrapper" bgcolor="#ffffff" style="  background-color: #ffffff;">
+  <tr>
+    <td align="center" valign="top">
+      <!-- ROW START -->
+      <table class="wrapper" width="600" cellpadding="0" cellspacing="0" border="0">
+        <tr>
+          <td align="center" valign="top">
+            <table width="600" cellpadding="0" cellspacing="0" border="0" class="container">
+              <tr>
+                <!-- COLUMN START -->
+                <td class="mobile" valign="middle" width="600" bgcolor="transparent" style="  background-color: transparent;  padding-top: 0px;  padding-right: 10px;  padding-bottom: 0px;  padding-left: 10px;  max-width: 600px;">
+                  <!-- SIGNATURE START -->
+                  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  border-collapse:collapse !important;  max-width: 100%;">
+                    <tr>
+                      <td align="center" valign="middle" style="  font-size: 11px;  font-family: Helvetica, Arial, sans-serif;  color: #888888;  line-height: 120%;  text-align: center;  -webkit-text-size-adjust: 100%;  -ms-text-size-adjust: 100%;  mso-line-height: exactly;  mso-table-lspace: 0pt;  mso-table-rspace: 0pt;  word-break: break-word !important;  padding-top: 10px;  padding-bottom: 10px">
+                        <p style="color: #888888;">
+                          Sent by <b style="color: #888888;">Avantia News</b>
+                        </p>
+                        <p style="color: #888888;">
+                          Alameda Araguaia, 3834, Barueri - SP, Brasil, 06455-000 - Tel:. + 55 (11) 2424.4500 
+                        </p>
+                        <p style="color: #888888;">
+                          If you no longer wish to receive messages like this one, please
+                          <a href="http://clickt.relacionamento.avantia.com.br/ls/click?upn=f6ugmqSIERJE5ol7xaiOOHt-2BE9-2BbXQ9a-2Bx22Xpd1ugkGDjvEtQwMI3xdFz6nXQeFsCktloIiEKHh1HpRe3-2B8XwRqDje3E5jGCZMqmBv1-2ByegkBvPq9mGV6Fi7PpsaL1i-2F9sgRGAcbMNIo8IWky8dkg0tTTjZ1ZPYnurP0zbtLuThpaug3tA0FFL3PA20TN8NsL6-2FIQvt3A1uDVhR43spPg-3D-3DZER__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmq9lJRJyAOpJGecmhmqQ-2BOT3aJBcbUXh07ATUJpDX3TwsUmEmDNKBXUDF5IQ8twHvpHZDuyf6aU4Og6FcioKnAPi4-2BsYlqrm0RO1U17VabynR5eXxinCI84VXSKmNuBs-2FYbFbjukyhqekzhf1ifGJlJIRarbCkotlCbwwJFxroUhfcTGFZXszO8LFJe-2FLw9Qdai9-2F7-2FS2ZGpa-2BaXI-2BaJMwGfcqybzdeHVxErkfDDwl7yDXo5hY4UyjNMJIeLMLqz9pMML6Nr8hLrhjjmJDazbNlQj1rl16HQWGxqmuK-2F-2FCu8VvD6paf57X9AjPlqeW6UuyG19ckutngRbRy2-2BuO66fR9BvXlE94L9Av4Ul0F85fktekrzE-2BKGF76llsS3dvJy3zahU4ysyTjZWYckrvXyX39wizRuqSW1R-2FBaCpY9cmxoimm2FlDrV6AfGN6uQuB0aT6lpn-2BnwSSvSAmY3PAwKhqTHZeDaOJIS5SUfXJMTzENHChjDw-2FI4zh8tf3FRs1yL-2FOC0HKyWjfedTNGyFLsg4B9GBn0Phgs5KW0hzSbU-2BTxdkG1KcAr2IvtBUGo8ZMaV65jqteI36WbsQvaqm7CrH0c8zqS5MqYZua8J5Nmc8A-3D-3D" style="color: #333333; text-decoration: underline;" rel="nofollow" data-scanner-ignore="true">
+                            unsubscribe</a>.
+                        </p>
+                      </td>
+                    </tr>
+                  </table>
+                  <!-- SIGNATURE END -->
+                </td>
+                <!-- COLUMN END -->
+              </tr>
+            </table>
+          </td>
+        </tr>
+      </table>
+      <!-- ROW END -->
+    </td>
+  </tr>
+</table>
+
+      </td>
+    </tr>
+  </table>
+</center>
+
+</body>
+</html>
+
+<span style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">•</span>
+

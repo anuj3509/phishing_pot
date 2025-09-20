@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch,phishing@pot",
+    "from": "Kundenservice, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Dec 2023 15:55:17 +0100",
+    "message_id": "<d5sYcKV.0.0.d5sYcKV.9.d5sYcKV@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://mercides.superkoran.info/NEw2WmVya3h3WkQyQkliWjkybU93UzlIUlJBcko5cE8vZmRqV0ZydlZZVU5ndC9GTVFNYm5RQ3ZtR2g3YVdMaGp1VlljT045aUtDaDZNSmtOQ3RRbDUxakkwTm52K2xBbGFlUzJja1p6OTQ9",
+      "www.zupimages.net/up/23/24/r59j.jpg",
+      "https://www.zupimages.net/up/23/24/r59j.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://mercides.superkoran.info/WllaQ09iajNZd3hCUCt6TEtQUDJ6b29IdFpVWG8ya1VFcDdKejcwM3pOZWJ3b2hGTzNGdHBOVU50cW1RTUVUUzQ3dUh2S1R2V2ZZdXlMRFE1YloyWlE9PQ__",
+      "https://linkingroutes6.com/?a=6073&amp;oc=16970&amp;c=46295&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1846,
+    "html_length": 10223,
+    "has_text": true,
+    "has_html": true
+  }
+}

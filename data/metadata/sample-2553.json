@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "��� Die Tickets schicken wir, direkt zu dir nach Hause.",
+    "from": "MoviePark, <service@stayfriends.de.>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 10 Jan 2024 21:27:15 +0100",
+    "message_id": "<wciheph.ded2n.ch6.ch6@gdkpapmhmhvuvvc.obf>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/50941/moviepark.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/50941/hero1.png",
+      "eu1-us1.ckcdnassets.com/448/creatives/50941/hero1.png",
+      "table.icons-inner",
+      "https://trk2.de/0q5eeffz",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#oop/5176_md/4049/24687/1222/143/149762",
+      "http://kiteforfriends.eu/op/5176_md/4049/24687/1222/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#cl/5176_md/4049/24687/1222/143/149762",
+      "eu1-us1.ckcdnassets.com/448/creatives/50941/moviepark.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1360,
+    "html_length": 12933,
+    "has_text": true,
+    "has_html": true
+  }
+}

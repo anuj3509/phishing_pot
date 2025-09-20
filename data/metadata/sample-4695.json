@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot,����Exklusives Angebot: Nehmen Sie an einer Umfrage teil und erhalten Sie ein Premium-Werkzeugset!",
+    "from": "OBI Umfrage Exklusivangebot <phishing@pot_obi_offer>, OBI Umfrage\n Exklusivangebot <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 16 Jan 2025 02:00:01 +0100",
+    "message_id": "<BkDxHVR.0.0.BkDxHVR.9.BkDxHVR@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/25/03/93uf.png",
+      "http://jex.getclients.us/S1orZyt5Qy9xbVdVS1ZobmNhWmlsQlZyV1lkbGRWNHd0NTZWR3MvTGNGUndidnpNMDBMdEFIZEpjTG5HcmRHd0I0ZnU5VDVyb2pOaGZmQm15UFlZbnc9PQ__",
+      "https://www.zupimages.net/up/25/03/luub.png",
+      "https://www.zupimages.net/up/25/03/93uf.png",
+      "http://jex.clientassistance.de/Zzkrc1B5bG5UWWZjV2w4ZHZjSmwxZWNqRDk4dWh6N3NaNjNKOHpXZ0dHNmFZUzVUY2M2SUlqcHIyRU1NUVVTQlpmTE1tRmFabkpYbVBWRUI1RXVBWHc9PQ__",
+      "www.zupimages.net/up/25/03/luub.png",
+      "http://getclients.us/STgwQlF4VmVUM3RtdFdhM0Nlc2RyUGR0RUJ6VG9XUjRiZkc1dnJrOXN6MmpaUE5UZGZocG5ra0haUlJsbjJuSTRzTE16cHJtZlVNd09INGZIcDhwTnc9PQ__",
+      "http://aio.clientassistance.de/Zzkrc1B5bG5UWWZjV2w4ZHZjSmwxZWNqRDk4dWh6N3NaNjNKOHpXZ0dHNmFZUzVUY2M2SUlqcHIyRU1NUVVTQlpmTE1tRmFabkpYbVBWRUI1RXVBWHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2279,
+    "html_length": 4858,
+    "has_text": true,
+    "has_html": true
+  }
+}

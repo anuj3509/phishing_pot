@@ -1,0 +1,236 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Parab��ns, um novo limite de cr��dito te espera(515).
+From: Mercado Pago <aviso@%atendimento.com>
+To: phishing@pot
+Date: Fri, 25 Oct 2024 22:41:42 +0800 (CST)
+Message_Id: <20241025144143.00AE34D9DF9@0bq6nrsh.vm>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com
+  - https://wa.me/+5511919219501?text=Olá%20estou%20interessado%20no%20aumento%20de%20crédito%20aprovado
+
+DECODED TEXT CONTENT:
+------------------------------
+25 Anos de Mercado Pago | Aniversário com Crédito Aprovado body { font-family: Arial, sans-serif; background-color: #f2f2f2; margin: 0; padding: 0; color: #333; } .container { width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); overflow: hidden; } .header { background-color: #009ee3; /* Azul Mercado Pago */ color: #ffffff; text-align: center; padding: 20px; } .header h1 { margin: 10px 0; font-size: 24px; } .content { padding: 20px; } .content h2 { color: #009ee3; /* Azul Mercado Pago */ font-size: 20px; margin-bottom: 10px; } .content p { line-height: 1.6; font-size: 16px; margin-bottom: 20px; } .cta { text-align: center; margin-top: 20px; } .cta a { background-color: #009ee3; /* Azul Mercado Pago */ color: #ffffff; text-decoration: none; padding: 15px 25px; border-radius: 5px; font-size: 16px; display: inline-block; } .cta a:hover { background-color: #007bb5; } .footer { background-color: #f1f1f1; text-align: center; padding: 20px; font-size: 14px; color: #666; } .footer a { color: #009ee3; text-decoration: none; } .footer a:hover { text-decoration: underline; } 25 Anos de Mercado Pago! Parabéns rodrigo-f-p@hotmail.com , Estamos comemorando 25 anos de Mercado Pago e quem ganha é você! Seu crédito de até R$ 15.000 foi aprovado. Aproveite essa oportunidade para realizar suas compras, pagar suas contas ou investir no que quiser. Nosso crédito é rápido, fácil e pensado para você. Consulte seu limite e fale diretamente conosco para mais informações. Consulte no WhatsApp Se precisar de mais informações, acesse nossa Central de Ajuda . © 2024 Mercado Pago. Todos os direitos reservados.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+
+    <title>25 Anos de Mercado Pago | Aniversário com Crédito Aprovado</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            background-color: #f2f2f2;
+
+            margin: 0;
+
+            padding: 0;
+
+            color: #333;
+
+        }
+
+        .container {
+
+            width: 100%;
+
+            max-width: 600px;
+
+            margin: 0 auto;
+
+            background-color: #ffffff;
+
+            border-radius: 8px;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+            overflow: hidden;
+
+        }
+
+        .header {
+
+            background-color: #009ee3; /* Azul Mercado Pago */
+
+            color: #ffffff;
+
+            text-align: center;
+
+            padding: 20px;
+
+        }
+
+        .header h1 {
+
+            margin: 10px 0;
+
+            font-size: 24px;
+
+        }
+
+        .content {
+
+            padding: 20px;
+
+        }
+
+        .content h2 {
+
+            color: #009ee3; /* Azul Mercado Pago */
+
+            font-size: 20px;
+
+            margin-bottom: 10px;
+
+        }
+
+        .content p {
+
+            line-height: 1.6;
+
+            font-size: 16px;
+
+            margin-bottom: 20px;
+
+        }
+
+        .cta {
+
+            text-align: center;
+
+            margin-top: 20px;
+
+        }
+
+        .cta a {
+
+            background-color: #009ee3; /* Azul Mercado Pago */
+
+            color: #ffffff;
+
+            text-decoration: none;
+
+            padding: 15px 25px;
+
+            border-radius: 5px;
+
+            font-size: 16px;
+
+            display: inline-block;
+
+        }
+
+        .cta a:hover {
+
+            background-color: #007bb5;
+
+        }
+
+        .footer {
+
+            background-color: #f1f1f1;
+
+            text-align: center;
+
+            padding: 20px;
+
+            font-size: 14px;
+
+            color: #666;
+
+        }
+
+        .footer a {
+
+            color: #009ee3;
+
+            text-decoration: none;
+
+        }
+
+        .footer a:hover {
+
+            text-decoration: underline;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="header">
+
+            <h1>25 Anos de Mercado Pago!</h1>
+
+        </div>
+
+        <div class="content">
+
+            <h2>Parabéns rodrigo-f-p@hotmail.com
+,</h2>
+
+            <p>
+
+                Estamos comemorando 25 anos de Mercado Pago e quem ganha é você! Seu crédito de até <strong>R$ 15.000</strong> foi aprovado.
+
+                Aproveite essa oportunidade para realizar suas compras, pagar suas contas ou investir no que quiser.
+
+            </p>
+
+            <p>
+
+                Nosso crédito é rápido, fácil e pensado para você. Consulte seu limite e fale diretamente conosco para mais informações.
+
+            </p>
+
+            <div class="cta">
+
+                <a href="https://wa.me/+5511919219501?text=Olá%20estou%20interessado%20no%20aumento%20de%20crédito%20aprovado" target="_blank">Consulte no WhatsApp</a>
+
+            </div>
+
+        </div>
+
+        <div class="footer">
+
+            <p>
+
+                Se precisar de mais informações, acesse nossa <a href="#">Central de Ajuda</a>.
+
+            </p>
+
+            <p>© 2024 Mercado Pago. Todos os direitos reservados.</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot ,Sicherheit zuerst: Gewinnen Sie ein Notfallset f��rs Auto, indem Sie die ADAC-Umfrage ausf��llen!",
+    "from": "ADAC Kundenservice, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Sep 2024 15:07:44 +0200",
+    "message_id": "<wOFhr7R.0.0.wOFhr7R.9.wOFhr7R@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "http://rlmqrwx.primawan.info/b0FUMkZoU0ZjUXhJT0ZKZGhaL3MvdERsRFF1QmptN1VEd3hUc1RqVlo3clh3MFRYWTVLRVdUM1pDZ05JSFEva2NQRG9UOGdJbytNV2Z4ZU1BS2lwOGc9PQ__",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "http://primawan.info/Y0pCWVRJUnFRR25VZGJWVFNsRXc1ZGx6ZEQ1Z2toMDRHU05PWUxpZm5mNDZHZmFZRDlkRUFSQTgwNUxvd2ZoNitic1dQU2xXVlF6T0xTMi9wYktnbFE9PQ__",
+      "https://emailmarcomms.com/?a=6073&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/37/y0fz.png",
+      "www.zupimages.net/up/24/36/2cef.png",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2634,
+    "html_length": 5514,
+    "has_text": true,
+    "has_html": true
+  }
+}

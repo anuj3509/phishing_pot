@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "New Security Update !",
+    "from": "Trust Wallet<noreply@mtn.com>",
+    "to": "Recipients <noreply@mtn.com>",
+    "date": "Mon, 02 Oct 2023 08:06:31 +0100",
+    "message_id": "\r\n <c9ed2bb6-9b0b-4c19-ba4c-b819ed55a8f2@BN8NAM11FT010.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"===============0553597297==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============0553597297==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rb.gy/9yyiw",
+      "https://community.trustwallet.com/uploads/default/original/3X/5/6/564e4902b8f939903f164e8d7a07c72e5879c64a.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 722,
+    "html_length": 23723,
+    "has_text": true,
+    "has_html": true
+  }
+}

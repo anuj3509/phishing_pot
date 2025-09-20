@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Seu pedido foi bloqueado !",
+    "from": "Correios <alfandega@correios.com.br>",
+    "to": "RODRIGO-F-P@HOTMAIL.COM",
+    "date": "Wed, 16 Oct 2024 16:34:03 +0000",
+    "message_id": "<6c4cea4df1ff12e91fb4858a0f5a9ffe@patraoluis.com.br>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "HOTMAIL.COM",
+      "https://rolandweight.com/correios92673/?cliente=RODRIGO-F-P@HOTMAIL.COM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1198,
+    "html_length": 2015,
+    "has_text": true,
+    "has_html": true
+  }
+}

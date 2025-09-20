@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "MD_94",
+    "from": "DIE Lösung! Endlich!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Nov 2024 12:24:38 +0100",
+    "message_id": "<J7xlAS2.0.0.J7xlAS2.9.J7xlAS2@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://emailmarcomms.com/?a=3143&amp;oc=22356&amp;c=59045&amp;m=3&amp;s1=",
+      "i.goopics.net/mwo3j2.png",
+      ".block-4.button_block",
+      "https://i.goopics.net/mwo3j2.png",
+      ".block-1.image_block",
+      "i.goopics.net/fiw08f.png",
+      "https://INSERT_PROMO_LINK_HERE.com",
+      "https://i.goopics.net/fiw08f.png",
+      "http://qweixm43.org/5bf462897a3b3c6.png",
+      "td.pad",
+      "https://rebrand.ly/6enlidh#oop/21824_md/1/5351/805/63/160880"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1484,
+    "html_length": 9800,
+    "has_text": true,
+    "has_html": true
+  }
+}

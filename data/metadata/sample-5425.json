@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Umay Placenta Treasures] Login Details",
+    "from": "\"Umay Placenta Treasures, LLC.\" <information@ymirpress.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 09 May 2025 18:38:22 +0000",
+    "message_id": "<acf776ce9e18f71d33e9dd24553c4c5b@umayplacenta.com>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.iygkhc.blogspot.ro",
+      "https://umayplacenta.com/wp-login.php?login=www.iygkhc.blogspot.ro%20-%2091%20453%20USD%20BITFINEX&key=Es631RfOBQTjwHVHWv0Y&action=rp",
+      "https://umayplacenta.com/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 282,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

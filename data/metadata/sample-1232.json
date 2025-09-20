@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Amazon Prime Video Standard-Abo",
+    "from": "Amazon Prime, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 02 Sep 2023 09:58:09 +0200",
+    "message_id": "\r\n <b11e8fcf-dd0f-4be6-bcd5-af64ed546053@VI1EUR03FT052.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://77.91.100.118/oop/78_md/2010/19/679/3/315429",
+      "http://77.91.100.118/op/78_md/2010/19/679/3/315429",
+      "https://zalando.com/user/verify/XyZBDKglsSHUSbIO1e7hYEZlbxf29af5be62ec27881c464cf392002e749f524d19f8dac50a03c9a",
+      "http://77.91.100.118/media/41c162f3e41273b.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "www.oncf2255.ma.",
+      "oncf-voyages.ma",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma",
+      "http://77.91.100.118/cl/78_md/2010/19/679/3/315429",
+      "murrelektronik.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6469,
+    "html_length": 13104,
+    "has_text": true,
+    "has_html": true
+  }
+}

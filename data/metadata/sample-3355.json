@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "[IMPORTANT] : Your wallet has been disabled!",
+    "from": "MetaMask <info@sbdsmartorder.com.mx>",
+    "to": "phishing@pot",
+    "date": "Tue, 18 Jun 2024 16:52:08 +0000",
+    "message_id": "<010001902c435392-d3b2f520-3329-4080-90c5-c7c711183f22-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_4260005_2004062966.1718729526968\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_4260005_2004062966.1718729526968\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://links.sbdsmartorder.com.mx/e/encryptedUnsubscribe?_r=ff02276bda264a88a475bc522606c2e6&_s=990d877dc54f4755911034c0ffdd3a4c&_t=1j_yFfaPdkpbQR2xmBQ8fF1UwrQW0tMBPlc-Ul3fa6P9qG6DIx4iyBmOsC_9vTkYyv97fwtH57neniaDj6LaB2VbX8z_BvLJr8cM6JKx-UMxghEy8J-Fk-dEvtZcXGYl",
+      "https://app-loads.com/saphishing@pot",
+      "http://links.sbdsmartorder.com.mx/u/click?_t=ff02276bda264a88a475bc522606c2e6&amp;_m=990d877dc54f4755911034c0ffdd3a4c&amp;_e=A4nxExYtEu2mZucDF0AmLSBMU3dmuYp3MKo6HPb5-lC3SIoHSqRHWTjo-i6Xuw8Sl-mqMuWc2JvPo93QkSuqBDEFkYWHUw4bwPqcrg0QWmIur787-3LIKGhbSKK_0-3g9XFDRoBPW0CNm_55f0bdYuoP4NHZA8E_LneGs5vqJro4seo7jFpYwfqfQyjxsVUrKOOuxgKpPs-_T776X0vNA4AZMgcfiDyuhjNbq5bUITQ%3D",
+      "http://links.sbdsmartorder.com.mx/e/encryptedUnsubscribe?_r=ff02276bda264a88a475bc522606c2e6&amp;_s=990d877dc54f4755911034c0ffdd3a4c&amp;_t=1j_yFfaPdkpbQR2xmBQ8fF1UwrQW0tMBPlc-Ul3fa6P9qG6DIx4iyBmOsC_9vTkYyv97fwtH57neniaDj6LaB2VbX8z_BvLJr8cM6JKx-UMxghEy8J-Fk-dEvtZcXGYl",
+      "http://links.sbdsmartorder.com.mx/u/click?_t=ff02276bda264a88a475bc522606c2e6&_m=990d877dc54f4755911034c0ffdd3a4c&_e=A4nxExYtEu2mZucDF0AmLSBMU3dmuYp3MKo6HPb5-lC3SIoHSqRHWTjo-i6Xuw8Sl-mqMuWc2JvPo93QkSuqBGWNP0rTF6eBq1Ki2a2fvBBMZwfSO7CLDTYbqWj59uAyVxsQVuy0nZ1udE_vfDH-u9hmLfWwvUnM8_P7vDqtUpfV3yIokIgLBTNV37Cg5eOgcGpcBDRf8agMPugwNlK4gJ_1RiCaEEV-KM_u8hyGOrg%3D",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/ff02276bda264a88a475bc522606c2e6/unnamed.png",
+      "http://links.sbdsmartorder.com.mx/e/eo?_t=ff02276bda264a88a475bc522606c2e6&amp;_m=990d877dc54f4755911034c0ffdd3a4c&amp;_e=1j_yFfaPdkpbQR2xmBQ8fF1UwrQW0tMBPlc-Ul3fa6P9qG6DIx4iyBmOsC_9vTkYyv97fwtH57neniaDj6LaB2VbX8z_BvLJr8cM6JKx-UORUlqDCYARwvPk6C8ZVVq7atijWtpzxhA2OEPgtQpyBw%3D%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 817,
+    "html_length": 9405,
+    "has_text": true,
+    "has_html": true
+  }
+}

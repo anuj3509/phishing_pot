@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "🤑 Get Ready to Receive Your Virtual Payment: Heres How! 📈",
+    "from": "Darla Timon (via Apresentações Google) <drive-shares-noreply@google.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Dec 2024 00:26:58 +0000",
+    "message_id": "<autogen-java-4944df38-981f-444d-8712-51595d1d8c44@google.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000f9b8d50629e50d63\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000f9b8d50629e50d63\""
+  },
+  "attachments": [
+    {
+      "filename": "Open 8368.pdf",
+      "content_type": "application/pdf",
+      "size": 37683
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lh3.googleusercontent.com/a/ACg8ocISyMcvkv2xXYNpFok7H9vT2iczXxmrPSLBtScd5MuN6rEllA=s64",
+      "https://docs.google.com/drawings/d/11lOfsYfBY1li_EW6YZhOqF3gWmDrRoyQLBaaEcGzWes/preview",
+      "https://docs.google.com/",
+      "lnozdnnzl.zeqifeku.quest",
+      "https://workspace.google.com/",
+      "https://ssl.gstatic.com/docs/doclist/images/mediatype/icon_1_presentation_x64.png",
+      "8368.pdf",
+      "https://www.gstatic.com/docs/documents/share/images/googleworkspace_logo_192x80.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 923,
+    "html_length": 5062,
+    "has_text": true,
+    "has_html": true
+  }
+}

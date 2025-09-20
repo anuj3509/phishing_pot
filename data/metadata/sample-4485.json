@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Secure your wallet today to avoid disruptions",
+    "from": "\"contact@notifications-metamask.io via SurveyMonkey\" <member@surveymonkeyuser.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 09 Dec 2024 09:09:41 +0000",
+    "message_id": "<87.5A.08744.5D3B6576@i-016fad88dc765d2d4.mta2vsmtp.sd.prd.sparkpost>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update",
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pt.surveymonkey.com/tr/v1/te/fQSziO_2FYPSjkbCmTBKqWjUjG38HDqXQ8lnUG8XbnPR4EGCF_2FM83iXTJiGva9amgTI_2F_2FNI5mQ8VuytrNLrmeEPRnS1S0Ee5O0SjdfPOcHxnMjLD_2FSE_2F5VMMGPjsPD1brzbeyA9_2FDKgtg4ekX5UdqXdp3UAxjrCINt1fpAyNhSSOs_3D",
+      "https://surveymonkey-assets.s3.amazonaws.com/collector/471552273/message/122226904/logo/dd55d6d1-1bbc-42a2-9ffb-b999c01f0d45.png",
+      "https://pt.surveymonkey.com/tr/v1/te/UQ5P8ghOtkmPLuGCuO5L1YCD3jAZzNf1QkXQqb59OVzS3TZhMko2dDvBA6317o7JMvenWIJ5ZykoOoB89Ea2_2FysiczVGVbmu2e_2FOhLKsuG9eBFIynFp7_2FyzriwhMNLSXKmdNUKxu0GmvBd3wM1SvE_2Fe8_2FBSmteV2qoTTr_2FH8GBaAHsuGkQR27baOCt3viBI_2BsFgVUimWXVbQxXXN0a0slDOvBSqENykj_2B0gM5_2B5KDVOwWciKJXkOcpdW0ETOirfCABjCqcEM63VNriviwe_2FmTg_3D_3D",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://pt.surveymonkey.com/mp/legal/privacy/",
+      "https://pt.surveymonkey.com/tr/v1/te/JpjXUiMp_2Bpth4kbanZcA_2BgSQRl27z_2FYTBlbAV50fVzD5nKxfyzFMs35m43osQRdK.png",
+      "https://click.outbound.surveymonkey.com/q/Y4Hv0K1MDv06zJb8PCXf9A~~/AAAAAQA~/RgRpN-dVPlcMc3VydmV5bW9ua2V5QgpnVdWzVmd61iV4Uhdyb2RyaWdvLWYtcEBob3RtYWlsLmNvbVgEAAAAZg~~",
+      "https://pt.surveymonkey.com/tr/v1/te/UQ5P8ghOtkmPLuGCuO5L1YCD3jAZzNf1QkXQqb59OVwXpAyZjFyejj4QaImYEnBeR_2FDvhD2BvyB8UXuQanswEefelVYbaJ5Is9ID_2FbOERckBl9OuWXhcZKet5Uqf7dck2DLW_2BjBvicL7llY7jSkEQSIBGBrdWe0SaauAybfJkXSO3s7zYvRi94bFUqiJTB6vjQbXh_2BJgW8MLmYhtm_2B_2BfagX_2FTAui8xSjfcHvQJWwCoRq3XYXdXzN9NG_2B1eFhAjQkoligZRNw_2BRlkxDR_2BzptyrkSmY7xrdf5TqC0JS40pwMFM8qsnjeeQYe4BGGXn7x9XyDERXF_2BBSrCMY_2FnTb1S7XZUwor9CKDBHw72ZjbF92NQDtcp68E7UkZJ5LhUKlJNsQg0niu1u7GqLAaNeAPVLVdkjnatiLvlDQR9JHWJuxLOuGxb_2BFHy_2F_2Bh4lb44Wck6XjaqdbMnAFlWgkzxwpfx_2FnM6A9pGrcqUXq05AB_2BLNvGkXEWyI0vqsqoUoybuHo0iLzCm7uVpSyCRCoPbFM376PP8mU7HGJRHEuH2bg0dsCkVTHPZRtrqxOJXzdzYXmonLVWkmv2kYcW7hW_2FDCiRhNzJhobqwPJ2VW7DFj0gR6yguTNy2edgaaPsKh1c4yVcGe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 805,
+    "html_length": 7793,
+    "has_text": true,
+    "has_html": true
+  }
+}

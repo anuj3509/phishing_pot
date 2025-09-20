@@ -1,0 +1,44 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Confirm Your Subscription
+From: razroy6969 <razroy6969@gmail.com>
+To: phishing@pot
+Date: Sat, 18 Feb 2023 05:33:28 +0000 (UTC)
+Message_Id: <BgINhf_8QT2dqLQO1TeyoA@geopod-ismtpd-3-6>
+Content_Type: multipart/alternative; boundary=1197a15f59cbd26e272e935fdcfc63ba1fbd1603e37b6465f4b9df5e9e62
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary=1197a15f59cbd26e272e935fdcfc63ba1fbd1603e37b6465f4b9df5e9e62
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214)
+  - https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214
+
+DECODED TEXT CONTENT:
+------------------------------
+‌
+
+Confirm your subscription
+
+[Yes, I want to subscribe](https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214)
+
+If you didn't subscribe to this list or you're not sure why you received this email, you can delete it. You will not be subscribed if you don't click on the link above.
+
+ 
+
+If you have any questions, you can reply to this email.
+
+DECODED HTML CONTENT:
+------------------------------
+<html lang="en"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><div style="visibility: hidden; font-size: 1px; color: rgb(255, 255, 255); line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"> ‌</div></head><body style="background-color: rgb(245, 245, 245); height: 100%;"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td align="center" style="padding-top: 48px; border-collapse: separate; padding-bottom: 48px;"><table width="558" cellspacing="0" cellpadding="0" style="border-collapse: separate; width: 558px;"><tbody><tr><td style="background-color: rgb(255, 255, 255); border-radius: 0px; border-color: rgb(204, 204, 204); border-style: none; padding: 60px;"><table width="100%" style="border-collapse: collapse;"><tbody><tr><td align="center" style="padding: 0px 0px 20px;"><div style="font-family: &quot;Helvetica Neue&quot;, Arial; color: rgb(34, 34, 34);"><h1>Confirm your subscription</h1></div></td></tr></tbody></table><table width="100%" style="border-collapse: collapse;"><tbody><tr><td align="center" style="background-color: rgba(255, 255, 255, 0); padding: 10px 6px;"><table cellspacing="0" cellpadding="0" style="border-collapse: collapse;"><tbody><tr><td align="center" style="background-color: rgb(17, 85, 204); border-color: rgb(34, 34, 34); border-style: solid; border-width: 0px; border-radius: 0px; height: 50px;"><a href="https://manage.kmail-lists.com/subscriptions/subscribed?opt=730a545b2a9b309eaf722f170f31e214" style="display: block; cursor: pointer; font-family: &quot;Helvetica Neue&quot;, Arial; color: rgb(255, 255, 255); font-weight: 400; font-size: 16px; padding: 15px; line-height: normal;">Yes, I want to subscribe</a></td></tr></tbody></table></td></tr></tbody></table><table width="100%" style="border-collapse: collapse;"><tbody><tr><td align="center" style="background-color: rgba(255, 255, 255, 0); padding: 20px 6px;"><div style="font-family: &quot;Helvetica Neue&quot;, Arial; color: rgb(34, 34, 34);"><p style="margin: 0;"><span style="font-size: 16px;">If you didn't subscribe to this list or you're not sure why you received this email, you can delete it. You will not be subscribed if you don't click on the link above.</span></p>
+<p style="margin: 0;"><span style="font-size: 16px;">&nbsp;</span></p>
+<p style="margin: 0;"><span style="font-size: 16px;">If you have any questions, you can reply to this email.</span></p></div></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>

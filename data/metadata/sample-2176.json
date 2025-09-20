@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "USPS® Item being held, addressee being notified CY1022030750US",
+    "from": "USPS Tracking Status <social201811500@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Dec 2023 06:01:09 -1000",
+    "message_id": "<lDpaXKoyyaJCaLsgw0ub4DiGZer4A5NfxjHhL7kn5ik@vultr>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.funnel-preview.com/for_domain/vincentpeterson558.clickfunnels.com/optin1702225158123?updated_at=adc3c9d25ea32bd8ea9a66183d04722av2&amp;track=0&amp;preview=true",
+      "https://www.zupimages.net/up/23/48/dlm5.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 815,
+    "html_length": 11515,
+    "has_text": true,
+    "has_html": true
+  }
+}

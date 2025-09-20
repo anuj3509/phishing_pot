@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein,<angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 02 Oct 2023 13:05:15 +0200",
+    "message_id": "<loCQqBW.0.0.loCQqBW.9.loCQqBW@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://fressnapf.theowensfamily.info/VEowamlleHVFRjRUbEVUeWRUeWNodmxiOGZWa3V0R0E2UGpkbGNENCtFUTExL1laTXpwbEdKWXlGU2NBazRCeUpUOFJuUmVYdkN6UkF1amFuTGpKMXc9PQ__",
+      "https://www.zupimages.net/up/23/39/6qbt.png",
+      "www.zupimages.net/up/23/39/6qbt.png",
+      "http://fressnapf.theowensfamily.info/TlNid2tvUDVhUEp6R2hvNFd3VmZhTEV0aTJxWUdoNkJUcDRnRkhGUTZnbzBPV3M3R1V0TkZ5S245ZndHallUZDB2aU11L09YelN1U3JGZk5Fcy9QSlE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 85,
+    "html_length": 3184,
+    "has_text": true,
+    "has_html": true
+  }
+}

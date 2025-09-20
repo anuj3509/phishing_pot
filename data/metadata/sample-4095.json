@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r ADAC-Kunden!.",
+    "from": "Message from ADAC, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Sep 2024 12:06:21 +0100",
+    "message_id": "<99SxuUa.0.0.99SxuUa.9.99SxuUa@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "http://limecastle.co.uk/NnRZdlM5a0lsbUFlQnFIMUlaTGZJSjYrZjVuT3Nrd1RKT1crK2hnblpDVkFkV2cwVG5nZjZ2MHZsSnpXQTQ1UVNZY1p2OGI5WEduWVJKU1YwRDdvRkE9PQ__",
+      "https://fnnl-fwd.com/?a=8096&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "http://limecastle.co.uk/bGV6eWRwVFA4ZFVleXpHWVd1N1MyaVBkODhsNHdvV0JJOXFuc0IvWFpra01oM0dKWE9pNTJEWkk3ZDlsVkFkK0FTUmJRODVlTk5URzBhVGlhZjFWVEJTVjN4SFVNd2J5dWVoRVpJakdqZlE9",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/37/y0fz.png",
+      "www.zupimages.net/up/24/36/2cef.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5178,
+    "html_length": 12810,
+    "has_text": true,
+    "has_html": true
+  }
+}

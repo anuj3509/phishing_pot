@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [john-users] Re: SNMPv3 format
+From: Albert Veli <albert.veli@gmail.com>
+To: john-users@lists.openwall.com
+Date: Tue, 3 Jun 2025 10:53:20 +0200
+Message_Id: <c25d9b24-d759-430b-98ab-71cc1cd483e7@gmail.com>
+Content_Type: multipart/mixed;
+	boundary="------------oVdfAyZgJrW6xtzEaBrcqu8j"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="------------oVdfAyZgJrW6xtzEaBrcqu8j"
+
+ATTACHMENTS:
+--------------------
+- snmpv3_user_albert_auth_md5_aes128.pcap (application/vnd.tcpdump.pcap, 1128 bytes)
+- snmpv3_unencrypted_user_albert_auth_md5.pcap (application/vnd.tcpdump.pcap, 1092 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - aes128.pcap
+  - md5.pcap
+  - https://oidref.com/1.3.6.1.2.1.1.1
+  - https://github.com/openwall/john/blob/bleeding-jumbo/src/snmp_fmt_plug.c
+
+DECODED TEXT CONTENT:
+------------------------------
+I'll add two pcap-files for clarity.
+
+On 2025-06-03 10:02, Albert Veli wrote:
+>
+> There is a format for SNMPv3 in the john source here:
+> https://github.com/openwall/john/blob/bleeding-jumbo/src/snmp_fmt_plug.c
+>
+snmpv3_unencrypted_user_albert_auth_md5.pcap was created with the command:
+
+snmpwalk -v3 -l authNoPriv -u albert -a MD5 -A iloveyou 198.18.1.1 
+1.3.6.1.2.1.1.1.0
+
+Only authentication, no privacy protocol (encryption).
+
+snmpv3_user_albert_auth_md5_aes128.pcap was created with:
+
+snmpwalk -v3 -l authPriv -u albert -a MD5 -A iloveyou -x AES-128 -X 
+princess 198.18.1.1 1.3.6.1.2.1.1.1.0
+
+Here I turned on encryption on the device with a second passphrase 
+(princess).
+
+The OID is sysDescr which should contain a textual description of the 
+device. This is good for testing.
+https://oidref.com/1.3.6.1.2.1.1.1
+

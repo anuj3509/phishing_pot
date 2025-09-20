@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung f��r ADAC-Kunden!.",
+    "from": "Message from ADAC, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 12 Oct 2024 15:30:56 +0100",
+    "message_id": "<NgBPOhD.0.0.NgBPOhD.9.NgBPOhD@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://clearwayrouting.com/?a=8096&amp;oc=21775&amp;c=57770&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/37/y0fz.png",
+      "http://limecastle.co.uk/RmNyL09sM050RkpFNUJPd2tBMUxtY1hwbVY1LzZEM20wUllub2JGWDNyS1pwT1NJcko1ejRUaG5keENDamhKWnVNR0EyekN5b3M0ZnNvNitqVU9wUU0yb1dYOWN6akhXSUlJWmthbGRiQzA9",
+      "https://www.zupimages.net/up/24/36/2cef.png",
+      "http://limecastle.co.uk/TDMxYVJJVlZPTVFMZHliVEd6cDlMMFRPWUVpVGx1QUdGbTVlQTU3aHY2OG5jdkkzVkNNL2E4bi81TC9Qa0QwTXRpaFJsZys1aDRDYjZkbzBoZEhuNGs2UFhJdDVlakRrWTYrRy9QZXFZQTA9",
+      "bgasdfasdfa.jpg",
+      "https://www.zupimages.net/up/24/37/y0fz.png",
+      "www.zupimages.net/up/24/36/2cef.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5178,
+    "html_length": 12861,
+    "has_text": true,
+    "has_html": true
+  }
+}

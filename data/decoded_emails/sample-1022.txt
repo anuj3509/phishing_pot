@@ -1,0 +1,44 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Hi
+From: shore@suksapan.or.th
+To: Recipients <shore@suksapan.or.th>
+Date: Wed, 02 Aug 2023 13:47:50 +0100
+Message_Id: 
+ <6e0afff7-e921-4f9b-a051-93760dc1e4ca@AM7EUR06FT021.eop-eur06.prod.protection.outlook.com>
+Content_Type: multipart/alternative; boundary="===============0460794037=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="===============0460794037=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gmail.com
+  - needs.Whether
+
+DECODED TEXT CONTENT:
+------------------------------
+Hello
+ Are you looking for a reliable and experienced partner to fulfill your loan requirements? Look no further! Global Merit Expert specializes in all kinds of loans to meet your financial needs.Whether you need a personal loan for unexpected expenses, a mortgage for your dream home, an auto loan for your new car, or a business loan to boost your enterprise, we've got you covered!
+ Contact: globalmeritexperts@gmail.com
+ Let Global Merit Expert be your trusted partner in achieving your goals.
+ Best regards,
+ Mr Richard Owen
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body><p>Hello</p>
+<p>Are you looking for a reliable and experienced partner to fulfill your loan requirements? Look no further! Global Merit Expert specializes in all kinds of loans to meet your financial needs.Whether you need a personal loan for unexpected expenses, a mortgage for your dream home, an auto loan for your new car, or a business loan to boost your enterprise, we've got you covered!</p>
+<p>Contact: <a href="mailto:globalmeritexperts@gmail.com">globalmeritexperts@gmail.com</a></p>
+<p>Let Global Merit Expert be your trusted partner in achieving your goals.</p>
+<p>Best regards,</p>
+<p>Mr Richard Owen</p></body></html>

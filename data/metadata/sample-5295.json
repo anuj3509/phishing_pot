@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "New app has been connected to your Microsoft account",
+    "from": "\"DocuSign via files phishing@pot-f-p\" <werner.rautenberg@denkpark.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 06 Apr 2025 15:16:29 +0000",
+    "message_id": "<c95aa91a-56eb-0537-d54f-ecd940c04231@denkpark.de>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app-ladioactivemail.cfd/?bjtykptv&amp;qrc=phishing@pot",
+      "https://na2.docusign.net/member/Images/email/docInvite-white.png",
+      "https://na2.docusign.net/Signing/Images/email/Email_Logo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1178,
+    "html_length": 5448,
+    "has_text": true,
+    "has_html": true
+  }
+}

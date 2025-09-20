@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Einkaufsgutschein im Wert von 250 ��� ",
+    "from": "netto <noreply@netto>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 28 May 2025 13:43:20 +0000",
+    "message_id": "<618388011068761.6.JED9179265434@about.amazon.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;700&amp;family=Montserrat:wght@400;700&amp;family=Lato:wght@400;700&amp;family=Poppins:wght@400;700&amp;family=Nunito:wght@400;700&amp;family=Open+Sans:wght@400;700&amp;family=Roboto:wght@400;700&amp;family=Raleway:wght@400;700&amp;family=Ubuntu:wght@400;700&amp;family=Source+Sans+Pro:wght@400;700&amp;family=Merriweather:wght@400;700&amp;family=Playfair+Display:wght@400;700&amp;family=Lora:wght@400;700&amp;family=EB+Garamond:wght@400;700&amp;family=Georgia:wght@400;700&amp;family=Fira+Code:wght@400;700&amp;family=JetBrains+Mono:wght@400;700&amp;family=Courier+Prime:wght@400;700&amp;family=IBM+Plex+Mono:wght@400;700&amp;family=Source+Code+Pro:wght@400;700&amp;display=swap",
+      "http://XxlFSOkB9C9Yl9xERBcHXxlFS.healthspherespace.site/4XxlFS19954FAwZ292etbklpqfmt3764KPIVSYNLOZWNVRT91072FKMV1611b207",
+      "zupimages.net/up/25/22/2vhu.png",
+      "zupimages.net/up/23/36/l2jt.png",
+      "zupimages.net/up/23/36/ts2s.png",
+      "https://zupimages.net/up/23/36/ts2s.png",
+      "https://zupimages.net/up/25/22/2vhu.png",
+      "http://XxlFSOkB9C9Yl9xERBcHXxlFSOkB9C9Yl9xERBcHXxlFS.healthspherespace.site/6XxlFS19954FAwZ292etbklpqfmt3764KPIVSYNLOZWNVRT91072FKMV1611b207",
+      "https://zupimages.net/up/23/36/l2jt.png",
+      "http://vtScJMzVwxHMvKnOkB9C9Yl9xERBcHvtScJMzVwxHMvKn.healthspherespace.site/track/3XxlFS19954FAwZ292etbklpqfmt3764KPIVSYNLOZWNVRT91072FKMV1611b207"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1198,
+    "html_length": 5326,
+    "has_text": true,
+    "has_html": true
+  }
+}

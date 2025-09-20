@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Ihnen sehr herzlich.",
+    "from": "Fressnapf friends, <service@stayfriends.de>",
+    "to": "phishing@pot ",
+    "date": "Sat, 25 Nov 2023 14:49:25 +0100",
+    "message_id": "<Eti5GB9.0.0.Eti5GB9.9.Eti5GB9@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "https://group-global.blogspot.com#WkdiT3RPWDVwQmVudCtVRW1kZEVRYlJXTHFlcUVrV0hCanJtTzBBdGQ0Q0xpcFhGbElVcHNUajZPaTlzTzl1OWxzbjc0MmRhSlVYbGlNb0t2ZTh1ZE1TT1BpTmNnV3VwdzhOOFpDdDRNdmc9",
+      "http://fressnapf.magicmotorworks.info/andvbmN0TWhPOThJRC9scDYvVmVBOXBJdkpPM3BZSTlWSk44RGlnV2QzLzBsKzlnOU1MQmx1VXZYUDF2WUhUalNwMTFEbDU1SXdCNUpEeUErWU1sSHc9PQ__",
+      "https://www.zupimages.net/up/23/41/xq4r.png",
+      "www.zupimages.net/up/23/41/xq4r.png",
+      "https://group-global.blogspot.com#MzlHOTlzbDlrQTNUTWRSb1ljNENwZFhSa3BQcGNDaFBjWXByZEdwakNGeEt4emVvU0dBSkZjZ1I2NWNxSmExbHJYMmpabzgvN2UrVDh4c3JpcVhHaXc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8706,
+    "has_text": true,
+    "has_html": true
+  }
+}

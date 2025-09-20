@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your_transfer_0.7495_BTC",
+    "from": "Kristle Harutunian <rasezvah@gmail.com>",
+    "to": "houbigc@126.com",
+    "date": "Sun, 25 Dec 2022 14:18:59 -0800",
+    "message_id": "<CAP_x_ifAK-9uTdmnnoNR2ObsAtJs7Qo6gMJKsBpOPNSASANU3A@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000de3fe305f0ae6734\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000de3fe305f0ae6734\""
+  },
+  "attachments": [
+    {
+      "filename": "Your.Mining.balance.0.7495.BitcoinhkFf2LMrWCXiSI2ojqYufScCz.pdf",
+      "content_type": "application/pdf",
+      "size": 81177
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 121,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

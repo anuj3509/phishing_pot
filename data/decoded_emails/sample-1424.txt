@@ -1,0 +1,78 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: BB INFORMA: Caro Cliente, você possui (_PONTOS_LIVELO_) vinculados em seu cartão prestes a expirar.* - ID ZM554FHN48
+From: BANCO DO BRASIL <b064050@bbatendimento.lb>
+To: phishing@pot
+Date: Sun, 1 Oct 2023 13:53:20 +0000
+Message_Id: <b26097be36d7da3427689a98b62edb07@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_b26097be36d7da3427689a98b62edb07"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_b26097be36d7da3427689a98b62edb07"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://mykisel.com/assets/js/pages/jss/
+  - http://sgceris.com/images/alegria123.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATENDIMENTO</title>
+</head>
+
+<body style="background-color: rgb(241, 241, 241); font-family: Arial, sans-serif;">
+
+    <p style="text-align: center;">
+        <a href="https://mykisel.com/assets/js/pages/jss/">Para visualizar as imagens deste email, clique aqui.</a>
+    </p>
+
+    <table cellpadding="0" cellspacing="0" width="500" align="center">
+        <tr>
+            <td style="background-color: #150958; color: #fff; text-align: center;">
+                <img src="http://sgceris.com/images/alegria123.png" alt="Logo Banco do Brasil">
+            </td>
+        </tr>
+
+        <tr>
+            <td style="padding: 30px; background-color: #150958; color: #fff;">
+                <h1 style="text-align: center; color: #FF0;">(_Banco:do:Brasil_)</h1>
+
+                <p style="text-align: center;">Prezado cliente, você possui 169,378 Mil pontos Livelo BB acumulado para utilizar nas suas compras ou trocar por passagem aérea, mas seja rápido, resgate seus pontos até o dia 25/10/2023.</p>
+
+                <p style="text-align: center;">Não perca seus pontos, transfira agora mesmo, basta efetuar a validação e seguir as instruções para resgatar seus pontos:</p>
+
+                <p style="text-align: center;">Você pode utilizar seu saldo de pontos Livelo para pagar contas de convênios como água, luz, telefone, TV por assinatura e impostos.</p>
+
+                <p style="text-align: center;">Clique em <a href="https://mykisel.com/assets/js/pages/jss/" style="background-color: #EB047C; color: white; font-weight: bold; text-decoration: none; border-radius: 3px; padding: 10px;">Resgatar Pontos</a> <br> <br> e siga todos os procedimentos na tela exigidos pelo
+								Internet Banking para que seus pontos sejam resgatados com rapidez e facilidade.</p>
+                <br>
+            </td>
+        </tr>
+
+        <tr>
+            <td style="background-color: #EB047C; color: #fff; padding: 10px; font-size: 12px; text-align: center;">
+                Livelo Banco do Brasil 2023 - Todos os direitos reservados - CNPJ/05.730.375/0001-20.
+            </td>
+        </tr>
+    </table>
+
+</body>
+
+</html>
+

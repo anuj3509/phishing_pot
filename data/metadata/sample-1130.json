@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "⚠️ Urgent: Verify Your Account Now",
+    "from": "Notification trust account <help@gaksbdad.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Wed, 16 Aug 2023 19:02:05 +0000",
+    "message_id": "<L6LGWWGWY9J_64dd1d2d24ad8_3e468c53699e_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64dd1d2d46143_3e468c53708a\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64dd1d2d46143_3e468c53708a\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here",
+      "verify your account"
+    ],
+    "urls": [
+      "https://scnv.io/i5iT",
+      "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f6cc581e20353b4e65d5e86ed92dbcac/trust-wallet.jpg)",
+      "https://goubba.zendesk.com/images/2016/default-avatar-80.png",
+      "https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_f6cc581e20353b4e65d5e86ed92dbcac/trust-wallet.jpg",
+      "https://www.zalando.fr/zalando-protection-donnees/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1011,
+    "html_length": 4859,
+    "has_text": true,
+    "has_html": true
+  }
+}

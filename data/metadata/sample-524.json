@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pontos dispon��veis rewards Nubank, resgate agora. - REGISTRO: 819188373.",
+    "from": "NuBank <sac@nubank.com.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Mar 2023 18:15:50 +0000 (UTC)",
+    "message_id": "<20230326181550.6B3D0805B2@ubuntu-s-1vcpu-512mb-10gb-sgp1-03>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-east1-decisive-plasma-381522.cloudfunctions.net/nubank1",
+      "https://www.foregon.com/blog/wp-content/uploads/2020/05/programadepontosnubankrewards-1024x576.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 372,
+    "html_length": 16407,
+    "has_text": true,
+    "has_html": true
+  }
+}

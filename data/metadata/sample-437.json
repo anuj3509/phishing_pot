@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Voce foi bloqueado dos recursos de nosso sistema por razoes de seguranca.",
+    "from": "Banco do Brasil <equipe@bbseguro.com.br>",
+    "to": "sergio@karismarepresentacoes.com.br",
+    "date": "Fri,  3 Mar 2023 19:08:09 +0000 (UTC)",
+    "message_id": "<20230303192615.835E74E006@d2-4-us-east-va-1-2.openstacklocal>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/MXPtKCx.png",
+      "https://us-central1-black-octagon-376806.cloudfunctions.net/bbnew",
+      "https://i.imgur.com/cBJPTtH.jpg",
+      "https://i.imgur.com/y8VWVmn.png",
+      "https://i.imgur.com/ZZOnE4c.png",
+      "https://i.imgur.com/KZsKGLi.png",
+      "https://i.imgur.com/xxksjpg.png",
+      "https://s4.gifyu.com/images/Banner_animado.gif",
+      "https://i.imgur.com/2GJpejZ.png",
+      "https://i.imgur.com/k36Votx.png",
+      "https://i.imgur.com/Vbp4IYM.png",
+      "https://i.imgur.com/WubP2JQ.png",
+      "https://i.imgur.com/6On4Fnu.png",
+      "https://i.imgur.com/xp5QGXL.png",
+      "https://i.imgur.com/ICZ0uqb.jpg",
+      "https://i.imgur.com/Gk2msoA.jpg",
+      "https://i.imgur.com/Dh0B5aq.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 727,
+    "html_length": 11649,
+    "has_text": true,
+    "has_html": true
+  }
+}

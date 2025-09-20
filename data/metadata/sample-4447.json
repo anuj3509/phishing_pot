@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda aguarda o pagamento da taxa de importação! Protocolo: 28075838.",
+    "from": "Correios Brasil <infomail-alfandega055365@correios>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Nov 2024 10:29:38 +0000",
+    "message_id": "<5bf57fdaae8dbe48f9f5b3a1fa52ef9c@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_5bf57fdaae8dbe48f9f5b3a1fa52ef9c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_5bf57fdaae8dbe48f9f5b3a1fa52ef9c\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://www.gov.br-pt-br818281486correiosbrasil@pague-alfandega.co.ua/status/acompanhamento61"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3750,
+    "has_text": true,
+    "has_html": true
+  }
+}

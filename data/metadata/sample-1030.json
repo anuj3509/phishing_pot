@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "3nd attempt: You Are Our July Winner Ultimate Nonstick Cookware",
+    "from": "Costco Customer Support <noreply@costco.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 02 Aug 2023 20:45:14 +0000",
+    "message_id": "<510151082534901.6.WDH4866854924@pcvelocity.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "i.imgur.com/r3tErDX.png",
+      "http://thebandalisty.com/rd/u40160ctlWW22448528lFms49413vFR67002TmWk2845",
+      "http://thebandalisty.com/rd/c40160pGvPy22448528YPxp49413HPa67002PzOZ2845",
+      "https://i.imgur.com/r3tErDX.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 16551,
+    "html_length": 19834,
+    "has_text": true,
+    "has_html": true
+  }
+}

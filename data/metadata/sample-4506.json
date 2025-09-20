@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Erinnerung: Der exklusive Zugang endet bald - verpassen Sie es nicht!",
+    "from": "IKEA dankt Ihnen!, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 07 Dec 2024 14:25:21 +0000",
+    "message_id": "<ZevRKVG.0.0.ZevRKVG.9.ZevRKVG@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/48/t8za.png",
+      "http://xdhsmlp.clientassistance.de/TldKNU9rOC8wN3g5cFdSMTNrK1FUWDB4OXNIODF5VTJmcjM4QnlzRGd6N0Zhd2ZDS3lUL0pHcFQ1Zm9JR0k0cmN5WE9jbGxpeEdPbVA3T2xWUFhoRm1jUkU3dzRoclljQ3hSU0t3UGJTem89",
+      "www.zupimages.net/up/24/48/t8za.png",
+      "www.zupimages.net/up/24/47/o3t6.png",
+      "http://laz.clientassistance.de/Y1BnMkJxbmNXSEpyMzNGNUo0QU45SEpwSlY1Wi92NUV6TTJQTkh3THNlUHRJVEFCbjR6MHNnVkJSeGEzSUVNQzBGdHRtdDFVL2cvcitFT2JKNHVJNDJmRmFSMTVxOHlVS0l4RVpNdmhiZlE9",
+      "https://www.zupimages.net/up/24/47/o3t6.png",
+      "http://laz.getclients.us/MFBZY1l6ckVJcm1TMWU4cm43OUhTYU50NUVJdkF2bGd0OHdmUjBMbjF4ZVd2N2FMSm84WDVuMXNCeWxKTTRObEV6SkpoTkc5RGgzb3RRN04vVWVRS2U4d0gwRWhSRWVIRjUvU0syalRRUTA9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1806,
+    "html_length": 4497,
+    "has_text": true,
+    "has_html": true
+  }
+}

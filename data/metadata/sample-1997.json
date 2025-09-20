@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Seu convite para ser PRIME phishing@pot! [Protocolo: 848222]",
+    "from": "Bradesco <prime6593@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 24 Nov 2023 06:29:24 +0000",
+    "message_id": "<20231124063215.462B146B44@wrkeynmwp.iwvobaoqfbvovy.com.br>",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17008073641302048655\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "multipart/mixed; boundary=\"_----------=_17008073641302048655\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "banco.brad",
+      "https://southamerica-west1-inspired-micron-405720.cloudfunctions.net/brappbr/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg=="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2002,
+    "html_length": 11865,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Unlock the door to exclusive Adidas rewards today!",
+    "from": "Adidas <privacy.no-reply@cs.adidas.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Fri, 10 Jan 2025 03:36:38 +0000 (GMT)",
+    "message_id": "<XQcLY000000000000000000000000000000000000000000000SPUSOX000KXGQfI3QK6SSvdqGL9UXw@sfdc.net>",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_10462_1687049775.1736480198676\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_10462_1687049775.1736480198676\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.pinimg.com/originals/2f/9a/98/2f9a988eba3ea6f7be964e16ff5f8a86.png",
+      "https://adclick.g.doubleclick.net/pcs/click?fjFILE-10-2023-25_RefHHB119kd&amp;&amp;adurl=//claim-disney.plus/moncler",
+      "https://adidas.my.salesforce.com/servlet/servlet.ImageServer?oid=00D20000000mJS8&amp;esid=018dr00000A5bCm&amp;from=ext",
+      "https://www.adidas.com/",
+      "adidas.com",
+      "adidas.com.",
+      "https://www.adidas.com/help"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 916,
+    "html_length": 4548,
+    "has_text": true,
+    "has_html": true
+  }
+}

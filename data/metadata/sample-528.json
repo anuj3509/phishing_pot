@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "ENC: Troque os seus PontosuVJqw2XO2CHaagw9T",
+    "from": "Rodrigo Lima <phish@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Fri, 31 Mar 2023 16:41:42 +0000",
+    "message_id": "\r\n <SN7PR05MB7613180579D344EE65D8E7DDE08F9@SN7PR05MB7613.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613180579D344EE65D8E7DDE08F9SN7PR05MB7613namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613180579D344EE65D8E7DDE08F9SN7PR05MB7613namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "Banco do Brasil - Voce tem Pontos  2712.pdf",
+      "content_type": "application/pdf",
+      "size": 57776
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "rodrigo.gama94@live.com",
+      "gmail.com",
+      "https://go.microsoft.com/fwlink/?LinkId=550986",
+      "p.MsoNormal,",
+      "li.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 646,
+    "html_length": 2328,
+    "has_text": true,
+    "has_html": true
+  }
+}

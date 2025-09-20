@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "😘 Van bil gaan is wat we willen                                                                                                                                  ",
+    "from": "Mirza Leijen <contact@123gereedschap.nl>                                                                                                          ",
+    "to": "phishing@pot                                                                                                                                                    ",
+    "date": "Tue, 21 Feb 2023 23:18:24 +0000",
+    "message_id": "<0.0.0.0.1D9464ACB289AA6.1DF1@kilmore.com>",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit                                                                                                      ",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://smarttrck.com/?a=72&amp;c=14&amp;s1=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 784,
+    "html_length": 4237,
+    "has_text": true,
+    "has_html": true
+  }
+}

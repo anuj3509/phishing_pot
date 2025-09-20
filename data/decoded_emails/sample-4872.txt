@@ -1,0 +1,148 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ���� Herzlichen Gl��ckwunsch! Ihre Chance auf 500��� von ROSSMANN!
+From: "Rossmann ." <service@stayfriends.de>
+To: <phishing@pot>
+Date: Mon, 17 Feb 2025 04:33:14 -0500
+Message_Id: <V1tOHCf.0.0.V1tOHCf.9.V1tOHCf@stayfriends.de>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://blog.afridox.com/Q2ZlUUxvaC9vdy9pVTRMalhVZmlXdnluVldKNllVYnhiM09rQUJMMlFrUFlHZTcyQjZid0x1R3FmZGo1cjRPUTdoSkxnbWs1Z2NnSHJpdG1oTkZkd0E9PQ__
+  - http://blog.afridox.com/K2JPdVF2bWh6dEU5S2RWOWp4ZUl3aW84YmFBYU00MXpxT2g1dk9HV0JWY1psb1ZCcnlDTWs0R2M1YVNlOFdiWnZESVcwY0tNMTR2bFBRN2x0SGpyYWc9PQ__
+  - http://www.w3.org/1999/xhtml
+  - www.zupimages.net/up/24/12/p1jr.png
+  - https://www.zupimages.net/up/24/12/p1jr.png
+  - http://blog.afridox.com/UmtKMHY5cGR3T1ZSWm9KREt6QlMzZVR2eEhMMW52c0RnNS8raEppUVNkQU9QSjUzUkx5ckRMaFNIUEZ0aFc5Q3NROEttV1FGWkVRWVNmOFZYUWxSMlE9PQ__
+
+DECODED TEXT CONTENT:
+------------------------------
+Herzlichen Glückwunsch - ROSSMANN Gewinnspiel /* General Styles */ body {Margin:0 auto; padding:0; font-family: Arial, Helvetica, sans-serif; background-color: #f2f2f2; color: #333;} img {max-width: 100%;} table {border-spacing: 0!important; border: none; padding: 0; width: 100%;} td {padding: 0;} /* Outlook Styles */ #outlook a {padding: 0;} .ReadMsgBody {width: 100%;} .ExternalClass {width: 100%;} .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;} body, table, td, a {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;} table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt;} img {-ms-interpolation-mode: bicubic;} /* Button Styling */ .cta-button { display: inline-block; background-color: #ce0b2b; color: white; padding: 15px 40px; font-size: 18px; text-decoration: none; text-transform: uppercase; font-weight: bold; border-radius: 5px; transition: all 0.3s ease; margin-top: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); } .cta-button:hover { background-color: #b00a26; transform: scale(1.1); box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); } /* Container Styling */ .container {width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;} .header {background-color: #ce0b2b; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0;} .content {padding: 20px; text-align: center;} .footer {text-align: center; padding: 15px; background-color: #f1f1f1; border-radius: 0 0 8px 8px; color: #888;} .footer a {color: #4CAF50; text-decoration: none;} /* Responsive Design */ @media screen and (max-width: 600px) { .container {width: 100%;} } Herzlichen Glückwunsch! 500€ ROSSMANN-GUTSCHEIN-KARTE! Hallo phishing@pot Wir gratulieren Ihnen, denn Sie sind einer der Finalisten für unser ROSSMANN Gewinnspiel für 500€ Geschenkcoupons. Die Ziehung wurde in Berlin von der Gewinnspielzentrale durchgeführt. Verlieren Sie keine Zeit und machen Sie jetzt mit, um sich Ihren möglichen Gewinn zu sichern . » BESTÄTIGEN « Wenn Sie keine weiteren E-Mails von uns erhalten möchten, klicken Sie hier , um sich abzumelden. click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Herzlichen Glückwunsch - ROSSMANN Gewinnspiel</title>
+
+    <style type="text/css">
+        /* General Styles */
+        body {Margin:0 auto; padding:0; font-family: Arial, Helvetica, sans-serif; background-color: #f2f2f2; color: #333;}
+        img {max-width: 100%;}
+        table {border-spacing: 0!important; border: none; padding: 0; width: 100%;}
+        td {padding: 0;}
+
+        /* Outlook Styles */
+        #outlook a {padding: 0;}
+        .ReadMsgBody {width: 100%;}
+        .ExternalClass {width: 100%;}
+        .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+        body, table, td, a {-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;}
+        table, td {mso-table-lspace: 0pt; mso-table-rspace: 0pt;}
+        img {-ms-interpolation-mode: bicubic;}
+
+        /* Button Styling */
+        .cta-button {
+            display: inline-block;
+            background-color: #ce0b2b;
+            color: white;
+            padding: 15px 40px;
+            font-size: 18px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .cta-button:hover {
+            background-color: #b00a26;
+            transform: scale(1.1);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        /* Container Styling */
+        .container {width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); border-radius: 8px;}
+        .header {background-color: #ce0b2b; color: white; padding: 20px; text-align: center; border-radius: 8px 8px 0 0;}
+        .content {padding: 20px; text-align: center;}
+        .footer {text-align: center; padding: 15px; background-color: #f1f1f1; border-radius: 0 0 8px 8px; color: #888;}
+        .footer a {color: #4CAF50; text-decoration: none;}
+
+        /* Responsive Design */
+        @media screen and (max-width: 600px) {
+            .container {width: 100%;}
+        }
+    </style>
+</head>
+<body>
+    <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="center" valign="top">
+                <table class="container" cellpadding="0" cellspacing="0" border="0">
+                    <!-- Header -->
+                    <tr>
+                        <td class="header">
+                            <h1>Herzlichen Glückwunsch!</h1>
+                            <p>500€ ROSSMANN-GUTSCHEIN-KARTE!</p>
+                        </td>
+                    </tr>
+
+                    <!-- Promotional Image -->
+                    <tr>
+                        <td align="center">
+                             <a href="http://blog.afridox.com/K2JPdVF2bWh6dEU5S2RWOWp4ZUl3aW84YmFBYU00MXpxT2g1dk9HV0JWY1psb1ZCcnlDTWs0R2M1YVNlOFdiWnZESVcwY0tNMTR2bFBRN2x0SGpyYWc9PQ__" target="_blank">
+                                <img src="https://www.zupimages.net/up/24/12/p1jr.png" alt="" style="border-radius: 8px;">
+                                <img src="//www.zupimages.net/up/24/12/p1jr.png" alt="" style="border-radius: 8px;">
+                            </a>
+                        </td>
+                    </tr>
+
+                    <!-- Main Content -->
+                    <tr>
+                        <td class="content">
+                            <p><strong>Hallo  phishing@pot</strong></p>
+                            <p>Wir gratulieren Ihnen, denn Sie sind einer der <strong>Finalisten</strong> für unser <strong>ROSSMANN</strong> Gewinnspiel für 500€ Geschenkcoupons. Die Ziehung wurde in Berlin von der Gewinnspielzentrale durchgeführt.</p>
+                            <p>Verlieren Sie keine Zeit und machen Sie jetzt mit, um sich Ihren <strong>möglichen Gewinn zu sichern</strong>.</p>
+                            <a href="http://blog.afridox.com/K2JPdVF2bWh6dEU5S2RWOWp4ZUl3aW84YmFBYU00MXpxT2g1dk9HV0JWY1psb1ZCcnlDTWs0R2M1YVNlOFdiWnZESVcwY0tNMTR2bFBRN2x0SGpyYWc9PQ__" class="cta-button" target="_blank">» BESTÄTIGEN «</a>
+                        </td>
+                    </tr>
+
+                    <!-- Footer -->
+                    <tr>
+                        <td class="footer">
+                            <p>Wenn Sie keine weiteren E-Mails von uns erhalten möchten, klicken Sie <a href="http://blog.afridox.com/UmtKMHY5cGR3T1ZSWm9KREt6QlMzZVR2eEhMMW52c0RnNS8raEppUVNkQU9QSjUzUkx5ckRMaFNIUEZ0aFc5Q3NROEttV1FGWkVRWVNmOFZYUWxSMlE9PQ__" target="_blank">hier</a>, um sich abzumelden.</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+    <!-- Tracking Image -->
+    <img src="http://blog.afridox.com/Q2ZlUUxvaC9vdy9pVTRMalhVZmlXdnluVldKNllVYnhiM09rQUJMMlFrUFlHZTcyQjZid0x1R3FmZGo1cjRPUTdoSkxnbWs1Z2NnSHJpdG1oTkZkd0E9PQ__" width="1px" height="1px" style="visibility:hidden">
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://blog.afridox.com/UmtKMHY5cGR3T1ZSWm9KREt6QlMzZVR2eEhMMW52c0RnNS8raEppUVNkQU9QSjUzUkx5ckRMaFNIUEZ0aFc5Q3NROEttV1FGWkVRWVNmOFZYUWxSMlE9PQ__">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://blog.afridox.com/Q2ZlUUxvaC9vdy9pVTRMalhVZmlXdnluVldKNllVYnhiM09rQUJMMlFrUFlHZTcyQjZid0x1R3FmZGo1cjRPUTdoSkxnbWs1Z2NnSHJpdG1oTkZkd0E9PQ__" width="1px" height="1px" style="visibility:hidden">
+

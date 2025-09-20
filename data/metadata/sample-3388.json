@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "For your convenience, all medications can be purchased without a prescription at our store.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <pharma.online.ex1@outlook.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 01 Jul 2024 14:24:16 +0200",
+    "message_id": "<EC6E6873.242FCD94@outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      ".button.yes",
+      "http://rschreiber.com/f.html",
+      ".button.no",
+      "ex.pharmacy.online7@gmail.com?subject=Yes&amp;body=I"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4208,
+    "html_length": 6967,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,61 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot Ferreira Peixoto, Aviso Importante sobre seu Pedido.
+From: Correios <contato@correios>
+To: <phishing@pot>
+Date: Mon, 24 Feb 2025 20:00:32 +0000
+Message_Id: <b1d578f5-1d57-eeca-9a01-bc24612d4c8d@correios>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://juliodedansk.icu
+
+DECODED TEXT CONTENT:
+------------------------------
+body{margin:0;padding:0;background:#f3f3f3;font-family:Verdana,sans-serif} .container{max-width:700px;margin:30px auto;background:#f8f8f8;border-radius:10px;box-shadow:0 3px 5px rgba(0,0,0,.2);overflow:hidden} .header{background:#1a6ac6;padding:25px;text-align:center;color:#f7f7f7} .header h1{margin:0;font-size:26px} .content{padding:25px;color:#444;font-size:18px;line-height:1.6} .button{display:inline-block;margin:25px auto;padding:12px 24px;background:#f8e53c;color:#111;text-decoration:none;border-radius:6px;font-weight:bold;text-align:center} .footer{background:#f8e53c;padding:12px;text-align:center;font-size:14px;color:#111} @media (max-width:700px){.container{width:100%;margin:0;border-radius:0}} .hidden{position:absolute;left:-9999px;width:0;height:0;overflow:hidden;opacity:0} Correios phishing@pot Ferreira Peixoto, Identificamos que seu pedido está retido na alfândega devido a taxas pendentes de pagamento. Para liberar seu pedido, por favor, realize o pagamento o mais rápido possível. Clique no botão abaixo para efetuar o pagamento: Pagar Agora Correios 2025 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><style>
+    body{margin:0;padding:0;background:#f3f3f3;font-family:Verdana,sans-serif}
+    .container{max-width:700px;margin:30px auto;background:#f8f8f8;border-radius:10px;box-shadow:0 3px 5px rgba(0,0,0,.2);overflow:hidden}
+    .header{background:#1a6ac6;padding:25px;text-align:center;color:#f7f7f7}
+    .header h1{margin:0;font-size:26px}
+    .content{padding:25px;color:#444;font-size:18px;line-height:1.6}
+    .button{display:inline-block;margin:25px auto;padding:12px 24px;background:#f8e53c;color:#111;text-decoration:none;border-radius:6px;font-weight:bold;text-align:center}
+    .footer{background:#f8e53c;padding:12px;text-align:center;font-size:14px;color:#111}
+    @media (max-width:700px){.container{width:100%;margin:0;border-radius:0}}
+    .hidden{position:absolute;left:-9999px;width:0;height:0;overflow:hidden;opacity:0}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>Correios</h1>
+    </div>
+    <div class="content">
+      <p>phishing@pot Ferreira Peixoto,</p>
+      <p>Identificamos que seu pedido está retido na alfândega devido a taxas pendentes de pagamento.</p>
+      <p>Para liberar seu pedido, por favor, realize o pagamento o mais rápido possível.</p>
+      <p>Clique no botão abaixo para efetuar o pagamento:</p>
+      <a class="button" href="https://juliodedansk.icu">Pagar Agora</a>
+    </div>
+    <div class="footer">
+      <p>Correios 2025 - Todos os direitos reservados</p>
+    </div>
+  </div>
+</body>
+</html>
+

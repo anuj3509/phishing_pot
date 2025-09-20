@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pedido taxado e bloqueado pela fiscalizacao alfandegaria: 506419625",
+    "from": "Entrega-Correios <entrega@%pedidoscorreios.net>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Nov 2024 10:51:55 +0000 (UTC)",
+    "message_id": "<20241117105155.D3EC94BC24@2y34yuh34h34h34h433.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wiofjieowege.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 693,
+    "html_length": 4860,
+    "has_text": true,
+    "has_html": true
+  }
+}

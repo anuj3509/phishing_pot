@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Liebe im Moment",
+    "from": "LiebeU50, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Dec 2023 00:24:10 +0100",
+    "message_id": "\r\n <57b61e71-8157-4810-9717-07299c6dbf03@MW2NAM10FT111.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link30.shtml#oop/0_mt/2009/1488/262/0/0",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link30.shtml#cl/0_mt/2009/1488/262/0/0",
+      "https://zupimages.net/up/23/52/n7n6.png",
+      "https://zupimages.net/up/23/51/6nko.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 0,
+    "html_length": 572,
+    "has_text": false,
+    "has_html": true
+  }
+}

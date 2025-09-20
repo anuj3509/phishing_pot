@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Final Notice Coming for a Keurig Coffee Maker Reward ",
+    "from": "Walmart - Thank You! - You Are Our November Winner  ,_<ellhz@cutynaledriite.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 28 Nov 2023 13:14:26 +0000",
+    "message_id": "\r\n <f7111eed-c2fb-42fb-9db6-aea1a5b62610@DB5EUR01FT054.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/e6cSIIStPT",
+      "i.imgur.com/11R0Zvz.jpg",
+      "https://i.imgur.com/11R0Zvz.jpg",
+      "https://t.co/eYF5XsocmW"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 8703,
+    "has_text": true,
+    "has_html": true
+  }
+}

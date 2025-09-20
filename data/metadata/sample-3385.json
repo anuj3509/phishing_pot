@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "EDEKA Einkaufsgutschein im Wert von 500 ���",
+    "from": "Edeka, Edeka, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 02 Jul 2024 12:15:53 +0000",
+    "message_id": "<NGXIEZONHJPIUQ8AU9KYO1L@team.mobile.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4MCBQk25914eNiY288sebdvcwkuh14302DBANLBOXWANOXQN2PNXT5155c11",
+      "http://www.w3.org/1999/xhtml",
+      "hero1.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6MCBQk25914eNiY288sebdvcwkuh14302DBANLBOXWANOXQN2PNXT5155c11"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1597,
+    "html_length": 9229,
+    "has_text": true,
+    "has_html": true
+  }
+}

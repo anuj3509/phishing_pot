@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "phishing@pot has reached the quota limit",
+    "from": "\"Quota Warning\" <admin@dpu.bandung.go.id>",
+    "to": "phishing@pot",
+    "date": "13 Jun 2023 13:54:49 +0200",
+    "message_id": "<20230613135448.02225AA2751D0B95@dpu.bandung.go.id>",
+    "content_type": "multipart/mixed;boundary=---------------------60d8264f2118cd14d417a60fd3997175"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------60d8264f2118cd14d417a60fd3997175"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.costom.best/international.html?look=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 196,
+    "html_length": 5675,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Notification: Official SSA Document Issued",
+    "from": "\"notification@documents.ssa.gov.psychologische-beratung-ruhrgebiet.de via SurveyMonkey\" <member@surveymonkeyuser.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 09 Jun 2025 15:56:52 +0000",
+    "message_id": "<21.31.41495.44407486@i-06181ea6f2d20db1f.mta2vsmtp.sd.prd.sparkpost>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.surveymonkey.com/tr/v1/te/JWWgRy9m9KAx5hgIZ92gpt2fHrUZGnon9pEuHymnkPVn0k5RdU3CDT4qN8q7uK4yEmlijIvOFAC0cEnII7R8AsrTkzTcUoDrhzk8AIXebFTr10RNcFqcRiC37geYIK_2FhFfYM5f2UY6mLP7V5km7yotDkJowAnrkOn6bdTgLEn4A_3D",
+      "https://www.surveymonkey.com/tr/v1/te/usnvHRorX5Y4oFNlSN6UDTWPOc63zuWDhwFtlRHCHQhbjtAul4DrVCZLjC5rP39r.png",
+      "https://click.outbound.surveymonkey.com/q/WELd8AIVMvvjAEkBs-qeeA~~/AAAAARA~/BzgVbN6VcE00UTlbANQIixM21R7EXMBUyVBgqcnXjNwBuRJWeonlJqEngDFL2R0JHm5ocRsvo1ggstyEp6nJmO-xmx6PBD4xwHZM57N6XYw~",
+      "https://www.surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT3PErDK_2Bf6OjNYOPsqZdKwgnzlXd8aa6dwXSrVkK_2BKe4zlgoRElcCV7vrq0RrpmeD8QPRUHnkQ_2BGEzyu0QRgmPaCz9VYlBl3_2FZxo5pwVvot16KfOAqlqhUadTjnv71dzcyHzv2uaktJXOsa_2Bj0p_2FmB6Mhy4ed4XRuILxKXo3vjuFNR3Q88yt360nOD_2FoCGV7z7lizarUT6EFdn2YgNT_2FO4LzoFLU5GfW_2FqEKbQT0ixvQ1zCe1YX5J5NA6_2BAniBYuPrvQbQtXM3z8SE01_2BvyC_2Fhvr_2BRpg6tZuhemF96Gi9_2BdHGV0pQ7XGoT2t3xeUex1fmUqWZ9elIhmg_2FxwPX6ZPx_2BAKt9DtWO8ptofQbsUFhoR0nU0yRzADe_2B8_2B8JKDr_2Bn8mDJ06EYoik5qP2hQT_2Fw4LlG7Fl2OBiSTwXuslVFlkH5z9SIFyObpZ33kds04MebNzk4hQm_2FaZgmJHPfZ51UseQKY0J8BW2iPj16duZJozemOb_2FNn9l52uMRe_2FxSyxXweW0lM7LTayFUq_2BrgD87h8P4c_2BglZAlVW4NqYrGKNUSkSLMZObj7KM6Phs1L9SMLJqIM_3D",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://surveymonkey-assets.s3.amazonaws.com/collector/461104060/message/126675698/logo/100bfee6-ac7c-4ad2-890e-5ebe811c1fa0.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 705,
+    "html_length": 7014,
+    "has_text": true,
+    "has_html": true
+  }
+}

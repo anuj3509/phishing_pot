@@ -1,0 +1,342 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Última chance para evitar suspensão da CNH - Regularize imediatamente! ID: 86792435.
+From: Detran Notifica <multas@regularizacao439313>
+To: <phishing@pot>
+Date: Wed, 14 May 2025 20:33:15 +0000
+Message_Id: <66fa6bce71540132496614f337761725@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_66fa6bce71540132496614f337761725"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_66fa6bce71540132496614f337761725"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://detr-608096400629.southamerica-east1.run.app/
+  - DETRAN.GOV
+  - hotmail.com,
+  - ul.check-list
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Irregularidade CNH</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 700px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(to right, #003399, #0055cc);
+            color: white;
+            text-align: center;
+            padding: 30px;
+            border-bottom: 5px solid #0066ff;
+        }
+        
+        .logo {
+            font-size: 32px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        
+        .title {
+            font-size: 24px;
+            margin: 15px 0 5px;
+        }
+        
+        .subtitle {
+            font-size: 16px;
+            opacity: 0.8;
+        }
+        
+        .alert {
+            background-color: #ff3333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .content {
+            padding: 30px;
+        }
+        
+        .section-title {
+            color: #003399;
+            font-size: 22px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        
+        .status-box {
+            background-color: #f8f9fa;
+            border-left: 5px solid #dc3545;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 5px;
+        }
+        
+        .status-title {
+            color: #dc3545;
+            font-weight: bold;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        
+        .info-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        
+        .info-item {
+            margin-bottom: 10px;
+        }
+        
+        .info-label {
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #666;
+        }
+        
+        .info-value {
+            font-weight: 500;
+        }
+        
+        .consequences {
+            background-color: #e6f0ff;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        
+        .consequences-title {
+            color: #003399;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+        
+        ul.check-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        ul.check-list li {
+            padding-left: 25px;
+            position: relative;
+            margin-bottom: 10px;
+        }
+        
+        ul.check-list li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #003399;
+            font-weight: bold;
+        }
+        
+        .warning {
+            background-color: #fff3cd;
+            border: 1px solid #ffeeba;
+            color: #856404;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+        }
+        
+        .deadline {
+            background-color: #f8d7da;
+            border: 2px dashed #f5c6cb;
+            color: #721c24;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px;
+            margin: 25px 0;
+        }
+        
+        .deadline-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        
+        .deadline-date {
+            font-size: 24px;
+            font-weight: bold;
+            color: #dc3545;
+        }
+        
+        .button-container {
+            text-align: center;
+            margin: 30px 0;
+        }
+        
+        .action-button {
+            background-color: #003399;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+        }
+        
+        .action-button:hover {
+            background-color: #0055cc;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 8px rgba(0,0,0,0.15);
+        }
+        
+        .info-note {
+            background-color: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 25px;
+            font-size: 14px;
+            color: #666;
+        }
+        
+        .footer {
+            background-color: #003366;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            font-size: 14px;
+        }
+        
+        .footer p {
+            margin: 5px 0;
+            opacity: 0.8;
+        }
+        
+        @media (max-width: 600px) {
+            .info-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">DETRAN.GOV</div>
+            <div class="subtitle">Departamento de Trânsito</div>
+            <h1 class="title">NOTIFICAÇÃO OFICIAL</h1>
+            <div class="subtitle">Sistema Nacional de Infrações de Trânsito</div>
+        </div>
+        
+        <div class="alert">
+            CNH COM SUSPENSÃO PENDENTE - AÇÃO IMEDIATA NECESSÁRIA
+        </div>
+        
+        <div class="content">
+            <h2 class="section-title">Informação de Irregularidade na CNH</h2>
+            
+            <p>Prezado(a) rodrigo-f-p@hotmail.com,</p>
+            
+            <p>Informamos que foi detectada uma <strong>infração grave de trânsito</strong> relacionada à sua Carteira Nacional de Habilitação (CNH) junto ao Departamento Estadual de Trânsito (DETRAN).</p>
+            
+            <div class="status-box">
+                <div class="status-title">STATUS ATUAL: CNH EM PROCESSO DE SUSPENSÃO</div>
+                <div class="info-grid">
+                    <div class="info-item">
+                        <div class="info-label">Número da Infração:</div>
+                        <div class="info-value">DT785432</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Data da infração:</div>
+                        <div class="info-value">04/04/2025</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Natureza:</div>
+                        <div class="info-value">Excesso de velocidade em via urbana</div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-label">Situação:</div>
+                        <div class="info-value">Pendente de regularização</div>
+                    </div>
+                </div>
+            </div>
+            
+            <p>Nosso sistema identificou uma infração grave não regularizada que, de acordo com o Art. 218 do Código de Trânsito Brasileiro, acarretará as seguintes consequências:</p>
+            
+            <div class="consequences">
+                <div class="consequences-title">Consequências Previstas:</div>
+                <ul class="check-list">
+                    <li>Suspensão imediata da CNH por até 12 meses</li>
+                    <li>Obrigatoriedade de curso de reciclagem</li>
+                    <li>Possível apreensão do veículo em fiscalizações</li>
+                    <li>Impossibilidade de renovação da CNH</li>
+                    <li>Restrição para licenciamento do veículo</li>
+                </ul>
+            </div>
+            
+            <div class="warning">
+                <strong>Atenção:</strong> A legislação de trânsito determina que condutores com infrações não regularizadas terão sua CNH suspensa automaticamente após o prazo legal, e poderão ter a habilitação cassada em caso de reincidência.
+            </div>
+            
+            <div class="deadline">
+                <div class="deadline-title">PRAZO PARA REGULARIZAÇÃO:</div>
+                <div class="deadline-date">26/05/2025</div>
+            </div>
+            
+            <p>Para regularizar sua situação e evitar a suspensão da sua CNH, clique no botão abaixo e siga as instruções:</p>
+            
+            <div class="button-container">
+                <a href="https://detr-608096400629.southamerica-east1.run.app/" class="action-button">REGULARIZAR SITUAÇÃO DA CNH</a>
+            </div>
+            
+            <div class="info-note">
+                Após a regularização, o sistema processará as informações em até 24 horas e você receberá um comprovante por e-mail. Em caso de dúvidas, não responda este e-mail, acesse o portal do DETRAN ou dirija-se a uma unidade física mais próxima.
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p>Esta é uma comunicação oficial do Governo Federal.</p>
+            <p>DETRAN - Departamento de Trânsito</p>
+            <p>Ministério da Infraestrutura - Brasília/DF - CEP: 70040-020</p>
+            <p>© 2025 - Todos os direitos reservados</p>
+        </div>
+    </div>
+</body>
+</html>

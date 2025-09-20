@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "AÇÃO TRIBUTARIA DO TRABALHO",
+    "from": "Intimação Eletronica <tribunal10199211@uorak.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 9 Aug 2023 16:41:21 +0000",
+    "message_id": "<20230809164121D3A282573D$9DAAA24614@VULTRGUEST>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_747_06E7_06678647.26E71790\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_747_06E7_06678647.26E71790\""
+  },
+  "attachments": [
+    {
+      "filename": "trf.png",
+      "content_type": "image/png",
+      "size": 6010
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "VER-PROCESSO-184782.pdf",
+      "https://www.clkmg.com/atendimento10/11pyph",
+      "https://open-click.smtplw.com.br/openings/m/09f7f203dbabbed3d778151971d5e33d-1691599281.58/a/09f7f203dbabbed3d778151971d5e33d/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/d2d8126c60e30bdce3368a1333c9d7c07093f4d1",
+      "site.com.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 492,
+    "html_length": 4368,
+    "has_text": true,
+    "has_html": true
+  }
+}

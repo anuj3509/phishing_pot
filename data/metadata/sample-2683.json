@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Prezado Rodrigo, tenho uma mensagem para você",
+    "from": "\"Amanda Santos\" <contato@ct.e-compara.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 22 Jan 2024 02:22:04 -0300",
+    "message_id": "\r\n <0S7N005JHDKXBJL0@rmta-ad1-fd2-101-us-ashburn-1.rmtaad1.vcndpiad.oraclevcn.com>",
+    "content_type": "Multipart/alternative; boundary=\"008213A5_519AE2DB_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"008213A5_519AE2DB_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.seguro-auto.com/app-d/lnk.php?id=322C33302C726F647269676F2D662D7040686F746D61696C2E636F6D2C31333732"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 722,
+    "html_length": 2110,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,117 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ihre Paketbenachrichtigung
+From: Rossmann-Belohnung  , <angebote@newsletter.baur.de>
+To: phishing@pot
+Date: Mon, 16 Oct 2023 11:04:51 +0200
+Message_Id: <jxpILMh.58822.241.noS@psm.knowbe4.com>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - i.imgur.com/fNOukgs.png
+  - http://jorfouj.xyz/UVhJTDY2VDJOQTdhS2V4R0xEaUM0R0MxZ0k2NExFLzBHRitCNENoMHpzR3dnWmFXSWV2RVZTRlF1NTI2S0dPdCtvbEJIM3ZQU1gwT3pXZnhJUTc4amc9PQ__
+  - https://i.imgur.com/fNOukgs.png
+  - http://jorfouj.xyz/WHBydGtKTDJEOXk4SEdXaThHL3JwZ2thVnFGTDdVUkxqZTRvS3lhMEF3QnpNZUtxOEdmTE44UkxaWldwWk8rT3FTbkM0ZUF1bytCdWlQV2kzY25CaEE9PQ__
+  - http://jorfouj.xyz/b0diQUtPbG5PSFk4M29PclJuVytRSkJVYStHQXZZcng1UkpoT3V3Sml0MllFTjJuZGtHcTNrbmFQSWZ3QzJvRlZBdFRvVmVTNHRQbnQvenl2ZSsreWc9PQ__
+  - http://jorfouj.xyz/OVJiNjFtT2NSaDk2WHl0dW01MEhnNWRUa0sycnFzWXo5N2VMZ0lwQTl4RVVXL3BVR096MmRiV0wxWU5VMjRDbGJFUFlncVhNMTRwanFMMjZOcmo3bXdNNjFUOE5UYlN1RHdCUkc3M21SL2c9
+
+DECODED TEXT CONTENT:
+------------------------------
+Glückwunsch! Herzlichen Glückwunsch! Hallo phishing@pot Keine Sorgen mehr beim Shoppen! Ihre Email-Adresse wurde ausgelost, um an unserem Gewinnspiel teilzunehmen. Sie habe die Chance einen Rossmann-Einkaufsgutschein im Wert von 500€ zu gewinnen! Was Sie als Nächstes tun müssen? Bestätigen Sie einfach nur Ihre Teilnahme, indem Sie auf den unten stehenden Button klicken. Beeilen Sie sich! Die Anzahl der Gutscheine ist limitiert! Herzliche Grüße Der Wettbewerb richtet sich nur an Personen, die in Deutschland leben und über 18 Jahre alt sind. Ja, ich will mitmachen Unsubscribe click here to remove yourself from our mailing list
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <title>Glückwunsch!</title>
+        
+     </head>
+<body style="font-family:sans-serif; max-width:600px; line-height:22px; font-size:14px; background-color:#e8e8e8; margin:0 auto; background-color:white;"> 
+    
+    <!-----Header Grafik----->
+    <div style="max-width:100%;">
+    <a href="http://jorfouj.xyz/UVhJTDY2VDJOQTdhS2V4R0xEaUM0R0MxZ0k2NExFLzBHRitCNENoMHpzR3dnWmFXSWV2RVZTRlF1NTI2S0dPdCtvbEJIM3ZQU1gwT3pXZnhJUTc4amc9PQ__"><img src="https://i.imgur.com/fNOukgs.png"><img src="//i.imgur.com/fNOukgs.png"></a>
+    </div>
+    <!-----Header Grafik----->    
+                        
+    
+    <!------Gratulation------>    
+        <div style="margin-top:35px;" class="box">
+        <div style="padding:30px 30px 0px 30px;border:1px solid #d3d3d3;">
+        <h2 style="padding: 0; margin: 0;font-family: Verdana, Verdana, Geneva, sans-serif; color: #17599C; font-size: 20px; margin-bottom:45px; font-weight: normal; text-transform: uppercase;">Herzlichen Glückwunsch!</h2>
+    <!------Gratulation------>
+            
+    <!-------Salutation------>        
+        <h3 style="color:#858485; font-size:15px;">Hallo <b style="color:red">phishing@pot</b>
+    <!-------Salutation------> 
+            
+    <!---------Text1--------->         
+        <div style="color:#858485;font-size:13px;">
+        <p>Keine Sorgen mehr beim Shoppen! Ihre Email-Adresse wurde ausgelost, um an unserem Gewinnspiel teilzunehmen. Sie habe die Chance einen <strong>Rossmann-Einkaufsgutschein im Wert von 500€</strong> zu gewinnen! </p>
+            
+        <p>Was Sie als Nächstes tun müssen? Bestätigen Sie einfach nur Ihre Teilnahme, indem Sie auf den unten stehenden Button klicken.</p>
+        
+        <p>Beeilen Sie sich! Die Anzahl der Gutscheine ist limitiert!</p>
+        <p>Herzliche Grüße</p>
+        </div>
+    <!---------Text1--------->      
+        
+        </div>    
+        </div>    
+        
+       
+    <!---------Text2---------> 
+        <div style="padding:20px 30px 60px 30px;margin-top:45px;border:1px solid #d3d3d3;">
+        <div class="boxcentent2">
+        <div style="color:#858485;font-size:13px;">    
+        <p>Der Wettbewerb richtet sich nur an Personen, die in Deutschland leben und über 18 Jahre alt sind. </p>
+        </div>
+        </div>
+    
+    <!---------Text2---------> 
+            
+            
+    <!-----Call to Action---->        
+        
+        <div style="margin-top:50px;text-align:center;">
+        <a style="display: inline-block;text-align: center;vertical-align: middle;padding: 12px 34px;border: 1px solid #0D5298;border-radius: 15px;background: #0D5298;background: -webkit-gradient(linear, left top, left bottom, from(#0D5298), to(#0D5298));background: -moz-linear-gradient(top, #0D5298, #0D5298);background: linear-gradient(to bottom, #0D5298, #0D5298);font: normal normal bold 20px arial;color: #ffffff;text-decoration: none; margin:0 auto;" href="http://jorfouj.xyz/UVhJTDY2VDJOQTdhS2V4R0xEaUM0R0MxZ0k2NExFLzBHRitCNENoMHpzR3dnWmFXSWV2RVZTRlF1NTI2S0dPdCtvbEJIM3ZQU1gwT3pXZnhJUTc4amc9PQ__">Ja, ich will mitmachen</a></div>
+        </div>
+    <!-----Call to Action---->
+   
+    <!---------Footer-------->
+    
+<center>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<center>
+<img alt="" src="http://jorfouj.xyz/b0diQUtPbG5PSFk4M29PclJuVytRSkJVYStHQXZZcng1UkpoT3V3Sml0MllFTjJuZGtHcTNrbmFQSWZ3QzJvRlZBdFRvVmVTNHRQbnQvenl2ZSsreWc9PQ__" width="0px" height="0px" style="visibility:hidden;">
+
+<center>
+<a href="http://jorfouj.xyz/WHBydGtKTDJEOXk4SEdXaThHL3JwZ2thVnFGTDdVUkxqZTRvS3lhMEF3QnpNZUtxOEdmTE44UkxaWldwWk8rT3FTbkM0ZUF1bytCdWlQV2kzY25CaEE9PQ__"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Unsubscribe  </font></font></a>
+
+<br><br>
+<font style="color:gray; font-size:14px">
+click <a href="http://jorfouj.xyz/OVJiNjFtT2NSaDk2WHl0dW01MEhnNWRUa0sycnFzWXo5N2VMZ0lwQTl4RVVXL3BVR096MmRiV0wxWU5VMjRDbGJFUFlncVhNMTRwanFMMjZOcmo3bXdNNjFUOE5UYlN1RHdCUkc3M21SL2c9"> here </a>to remove yourself from our mailing list
+</font>
+
+<br><br><br>
+
+<center>
+</center>
+</body>
+</html>
+

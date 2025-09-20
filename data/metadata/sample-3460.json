@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "money",
+    "from": "zlin2@naturhouse-cz.cz",
+    "to": "Recipients <zlin2@naturhouse-cz.cz>",
+    "date": "Sun, 14 Jul 2024 09:01:09 +0100",
+    "message_id": "<20240714080126.6AF1173115@dieta2-vm1.cust.ignum.cz>",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 186,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

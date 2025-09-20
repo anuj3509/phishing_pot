@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Exciting News: $MASK is Here!",
+    "from": "Mask$Token <infor@designoverload.org>",
+    "to": "phishing@pot",
+    "date": "Thu, 23 Nov 2023 02:25:52 +0000",
+    "message_id": "<0100018bf9ff7d9d-e2b21106-50b0-4b12-9392-9477dc845614-000000@email.amazonses.com>",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.darksky.org/light-pollution/",
+      "https://www.instagram.com/indiahaatltd/",
+      "https://malinalli.com.mx/v",
+      "https://yukikomakes.com/",
+      "https://danielhaskett.com/shop/",
+      "https://www.bottlebee.co.uk/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1360,
+    "html_length": 24621,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,240 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sua VIVO Fatura Chegou
+From: Vivo <vivo@vivo.com.br>
+To: phishing@pot
+Date: Fri, 31 Mar 2023 16:29:59 +0000 (UTC)
+Message_Id: 09a5101beced1e12120506a8c2c420a7|vivo@vivo.com.br
+Content_Type: text/html; charset=iso-8859-1
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset=iso-8859-1
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://img.relacionamentovivo.com.br/images/telefonica.png
+  - vivo.com.br
+  - http://45.42.160.27/acesso/c.pdf
+  - https://relacionamentovivo.com.br/iqdirect/controle2/?link_id=1417382&amp;tipo=I&amp;ev=17105
+  - http://img.relacionamentovivo.com.br/images/logo_purpurav.png
+  - http://img.relacionamentovivo.com.br/images/_pixel.png
+  - http://www.vivoregularizafacil.com.br
+  - http://img.relacionamentovivo.com.br/images/vivatudo.png
+
+DECODED TEXT CONTENT:
+------------------------------
+VIVO .print-message, .messageBody { white-space: normal!important; } li { text-align: justify;text-justify: inter-word; margin: 0 0 3px 0; } table { margin: 0px auto !important; } Informacao importante sobre a sua conta Codigo do cliente: 8999325911 Ola, Cliente VIVO Sua conta Vivo Fixo Chegou. Conta Vencimento Valor 03/04/2023 R$&nbsp;256,19 Valor Total R$&nbsp;256,19 Clique no link abaixo para ver e imprimir a(s) conta(s), que pode(m) ser paga(s) em qualquer agencia bancaria, internet banking, Casas Lotericas ou agentes credenciados. Clique aqui para imprimir sua Fatura Para informacoes sobre duvida, acesse http://www.vivoregularizafacil.com.br ou ligue para a Central de Atendimento de CobranaÂ§a 0800 774 1515 , de Segunda a Sabado, das 8hs a s 22hs, exceto em feriados nacionais. Caso ja tenha realizado o pagamento, por favor, desconsidere esse aviso. Obrigado, Vivo Para saber qual a loja Vivo mais perto de voce, ligue 102 ou acesse vivo.com.br . Servico de Atendimento ao Consumidor (SAC): 103 15 e 177 para pessoas com deficiencia de fala/audicao. Central de Relacionamento Empresarial: 0800 602 5488 Voce esta recebendo este e-mail por estar cadastrado na lista Portal Vivo. DESCADASTRO SEGURO
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width">
+	<title>VIVO</title>
+	<style type="text/css">
+	.print-message, .messageBody {
+	white-space: normal!important;
+	}
+
+	li {
+	text-align: justify;text-justify: inter-word; margin: 0 0 3px 0;
+	}
+
+	table { margin: 0px auto !important; }
+	</style>
+
+	</head>
+
+	<body><img src="https://relacionamentovivo.com.br/iqdirect/controle2/?link_id=1417382&amp;tipo=I&amp;ev=17105" width="1" height="1">
+
+	<table bgcolor="#FFFFFF" width="600" border="0" cellspacing="0" cellpadding="0" align="center" class="deviceWidth">
+	<tr>
+	<td>
+	<table width="540" border="0" cellspacing="0" cellpadding="0" align="center" class="deviceWidth">
+	<tr>
+	<td style="padding:10px 10px 10px 0px;">
+	<img alt="Vivo" src="http://img.relacionamentovivo.com.br/images/logo_purpurav.png" height="130">
+	</td>
+	<td valign="bottom" style="padding:10px 10px 20px 10px;">
+	<strong style="font-family:'Trebuchet MS', Arial, Roboto; color: rgb(102, 0, 153); text-align: justify;text-justify: inter-word; font-size: 25px;">
+	Informacao importante <br>sobre a sua conta
+	</strong>
+	</td>
+	</tr>
+
+	</table>
+
+	<table width="500" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="30" alt=""></td>
+	</tr>
+
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 16px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: left!important;">
+	<strong style="color: rgb(102,0,153)"> <br>
+	<br>
+	Codigo do cliente: 8999325911<br>
+	<br>
+	Ola,  Cliente VIVO
+	</strong>
+	<p style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 16px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: left!important; bold">
+	Sua conta Vivo Fixo Chegou. 
+	</p>
+	</td>
+	</tr>
+
+	<tr>
+	<td align="center" bgcolor="rgb(102,0,153)" style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 14px; line-height: 20px; color: #ffffff;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important; font-weight: bold; padding: 5px!important;">Conta</td>
+	</tr>
+	<tr>
+	<td bgcolor="#F2F2F2">
+
+	<table width="500" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td width="50%" align="center" style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: rgb(102,0,153);-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important; font-weight: bold;padding: 5px;">Vencimento</td>
+	<td width="50%" align="center" style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: rgb(102,0,153);-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important; font-weight: bold;padding: 5px;">Valor</td>
+	</tr>
+	<tr align="center">
+	<td colspan="2" bgcolor="#FFFFFF" style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="2" alt=""></td>
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;padding: 0px 5px!important;" align="center">03/04/2023</td>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;" align="center">R$&nbsp;256,19</td>
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;padding: 0px 5px!important;" align="center"></td>
+		<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;" align="center"></td>
+		</tr>
+		<tr>
+		<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;padding: 0px 5px!important;" align="center"></td>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;" align="center"></td>
+	</tr>
+	<tr align="center">
+	<td colspan="2" bgcolor="#FFFFFF" style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="2" alt=""></td>
+	<tr>
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;padding: 5px!important; font-weight:bold;" align="center">Valor Total</td>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 20px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important;padding: 5px 0px!important; font-weight:bold;" align="center">R$&nbsp;256,19</td>
+	</tr>
+	</table>
+
+	</td>
+	</tr>
+
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="20" alt=""></td>
+	</tr>
+
+	<tr>
+	<td style="text-align: justify;text-justify: inter-word;font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 16px; color: #333333 bold">
+	Clique no link abaixo para ver e imprimir a(s) conta(s), que pode(m) ser paga(s) em qualquer agencia bancaria, internet banking, Casas Lotericas ou agentes credenciados.
+	</td>
+	</tr>
+
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="20" alt=""></td>
+	</tr>
+
+	<tr>
+	<td align="center">
+	<a style="text-decoration: none;" target="_blank" href="http://45.42.160.27/acesso/c.pdf ">
+	<font style="background-color:rgb(102,0,153); font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 36px; color: #ffffff;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: center!important; font-weight: bold; padding: 12px!important;">
+	 Clique aqui para imprimir sua Fatura 
+	</font>
+	</a>
+	</td>
+	</tr>
+
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="35" alt=""></td>
+	</tr>
+
+	<tr>
+	<td style="text-align: justify;text-justify: inter-word;font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 16px; color: #333333">
+	Para informacoes sobre duvida, acesse <a href="http://45.42.160.27/acesso/c.pdf ">http://www.vivoregularizafacil.com.br</a> ou ligue para a Central de Atendimento de CobranaÂ§a <strong>0800 774 1515</strong>, de Segunda a Sabado, das 8hs a s 22hs, exceto em feriados nacionais.
+	</td>
+	</tr>
+
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;"><img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="20" alt=""></td>
+	</tr>
+
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 12px; line-height: 16px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: left!important;">
+
+	Caso ja tenha realizado o pagamento, por favor, desconsidere esse aviso.<br><br>
+
+	Obrigado,
+	</td>
+	</tr>
+
+	<tr>
+	<td style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 16px; line-height: 15px; color: rgb(102,0,153);-ms-text-size-adjust:none;-webkit-text-size-adjust:none;text-align: left!important;">
+	<strong>Vivo</strong>
+	</td>
+	</tr>
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;">
+	<img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="20" alt="">
+	</td>
+	</tr>
+	<tr>
+	<td style="text-align: justify;text-justify: inter-word;font-family:'Trebuchet MS', Arial, Roboto; font-size: 10px; line-height: 15px; color: #333333">
+	Para saber qual a loja Vivo mais perto de voce, ligue 102 ou acesse <a href="	http://45.42.160.27/acesso/c.pdf ">vivo.com.br</a>. Servico de Atendimento ao Consumidor (SAC): 103 15 e 177 para pessoas com deficiencia de fala/audicao. Central de Relacionamento Empresarial: 0800 602 5488
+	</td>
+	</tr>
+	<tr>
+	<td style="line-height:0; font-size:0; margin: 0;">
+	<img src="http://img.relacionamentovivo.com.br/images/_pixel.png" width="15" height="20" alt="">
+	</td>
+	</tr>
+	</table>
+
+	<table width="600px" border="0" cellspacing="0" cellpadding="0">
+	<tr style="background-image: linear-gradient(to bottom, lightgray, white, white);">
+	<td>
+	<table width="540px" height="100px" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td style="width: 100px; line-height:0; font-size:0;">
+	<img style="text-align: left;padding:10px 10px 10px 0px" alt="TelefaÂ´nica" src="http://img.relacionamentovivo.com.br/images/telefonica.png" width="81px" height="33px">
+	</td>
+	<td style="width: 440px; line-height:0; font-size:0;">
+	<img style="margin-left: 150px;" alt="Viva Tudo" src="http://img.relacionamentovivo.com.br/images/vivatudo.png" width="250px">
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	<tr>
+	<td colspan="2" align="center" style="font-family:'Trebuchet MS', Arial, Roboto; font-size: 10px; line-height: 15px; color: #333333;-ms-text-size-adjust:none;-webkit-text-size-adjust:none;">
+	Voce esta recebendo este e-mail por estar cadastrado na lista Portal Vivo.
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+
+	</table>
+
+	<table border="0" align="center" style="margin:0 auto;">
+	<tr>
+	<td height="25" align="center">
+	<table border="0">
+	<tr>
+	<td width="145" height="22" align="center" style="border-radius:6px; border:1px solid #1A3663;">
+	<a href="http://45.42.160.27/acesso/c.pdf " style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#555; text-decoration:none;"><span>DESCADASTRO SEGURO </span></a>
+	</td>
+	</tr>
+	</table>
+	</td>
+	</tr>
+	</table></body>
+
+	</html>
+

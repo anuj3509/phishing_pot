@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido esta aguardando o pagamento da taxa de importação!",
+    "from": "Correios S/A <informa-aduaneira096998@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Dec 2024 11:02:34 +0000",
+    "message_id": "<ee34c842f2346a3e70d84263aeb5e62a@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ee34c842f2346a3e70d84263aeb5e62a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ee34c842f2346a3e70d84263aeb5e62a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com.br-pt-br535113036alfandegacorreios@interno-taxalfandegaria.co.ua/site/consultar383",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3762,
+    "has_text": true,
+    "has_html": true
+  }
+}

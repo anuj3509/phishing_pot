@@ -1,0 +1,167 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Is today your lucky day?!,
+From: Free Spins! <julie.sophy@iptesetxkeys.com>
+To: [To]
+Date: Sun, 04 Aug 2024 16:34:43 +0200
+Message_Id: <20240802210523.88F2A2C893@mail.iptesetxkeys.com>
+Content_Type: multipart/mixed; boundary="===============5417389085535037060=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="===============5417389085535037060=="
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - event.preventDefault();
+  - document.getElementById(
+  - window.location.href
+  - localStorage.setItem(
+  - https://firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e
+  - http://sharedse.com/oop/2304_md/2222/9105/417/270/1190
+  - localStorage.getItem(
+  - http://sharedse.com/cl/2304_md/2222/9105/417/270/1190
+  - http://sharedse.com/op/2304_md/2222/9105/417/270/1190
+  - Math.abs(mouseY
+  - http://sharedse.com/un/2304_md/2222/9105/417/270/1190
+  - event.clientX;
+  - Math.abs(mouseX
+  - event.clientY;
+  - firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e
+
+DECODED TEXT CONTENT:
+------------------------------
+2024 est le nouveau toi /* Reset styles */ body, html { margin: 0; padding: 0; font-family: Arial, sans-serif; font-size: 16px; line-height: 1.6; } /* Wrapper styles */ .wrapper { max-width: 600px; margin: 0 auto; padding: 20px; } /* Header styles */ .header { background-color: #f8f8f8; padding: 20px; text-align: center; } /* Content styles */ .content { padding: 20px; background-color: #fff; border: 1px solid #ccc; } /* Footer styles */ .footer { background-color: #f8f8f8; padding: 20px; text-align: center; } Have you ever wanted to play your favorite casino games from your own home? // Event listener for link click document.getElementById("btn").addEventListener("click", function(event) { // Prevent default behavior event.preventDefault(); // Call function to check if click is from bot if (isBotClick(event)) { alert("Bot detected!"); } else { window.location.href ="http://sharedse.com/cl/2304_md/2222/9105/417/270/1190"; // Redirect to URL if not bot click } }); // Function to check if click is from bot function isBotClick(event) { // Check time difference between this click and previous click var currentTime = new Date().getTime(); var lastClickTime = parseInt(localStorage.getItem("lastClickTime")) || 0; var timeDiff = currentTime - lastClickTime; // If time difference is too small, it's likely a bot if (timeDiff This is an automated e-mail, please do not reply. Don't want to get promotions? Unsubscribe If you want to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2024 est le nouveau toi</title>
+    <style>
+        /* Reset styles */
+        body, html {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        
+        /* Wrapper styles */
+        .wrapper {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        /* Header styles */
+        .header {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+        }
+        
+        /* Content styles */
+        .content {
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+        }
+        
+        /* Footer styles */
+        .footer {
+            background-color: #f8f8f8;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="wrapper">
+    <center><h3 style="text-decoration: underline;"><a id="btn" href="http://sharedse.com/cl/2304_md/2222/9105/417/270/1190">Have you ever wanted to play your favorite casino games from your own home?</a></h3></center>
+</div>
+
+<script>
+    // Event listener for link click
+    document.getElementById("btn").addEventListener("click", function(event) {
+      // Prevent default behavior
+      event.preventDefault();
+
+      // Call function to check if click is from bot
+      if (isBotClick(event)) {
+        alert("Bot detected!");
+      } else {
+        window.location.href ="http://sharedse.com/cl/2304_md/2222/9105/417/270/1190"; // Redirect to URL if not bot click
+      }
+    });
+
+    // Function to check if click is from bot
+    function isBotClick(event) {
+      // Check time difference between this click and previous click
+      var currentTime = new Date().getTime();
+      var lastClickTime = parseInt(localStorage.getItem("lastClickTime")) || 0;
+      var timeDiff = currentTime - lastClickTime;
+      
+      // If time difference is too small, it's likely a bot
+      if (timeDiff < 300) { // 300 milliseconds
+        return true;
+      }
+
+      // Update last click time
+      localStorage.setItem("lastClickTime", currentTime);
+
+      // Check if mouse moved since last click
+      var lastMouseX = parseInt(localStorage.getItem("lastMouseX")) || 0;
+      var lastMouseY = parseInt(localStorage.getItem("lastMouseY")) || 0;
+      var mouseX = event.clientX;
+      var mouseY = event.clientY;
+
+      // If mouse hasn't moved much, it's likely a bot
+      if (Math.abs(mouseX - lastMouseX) < 5 && Math.abs(mouseY - lastMouseY) < 5) {
+        return true;
+      }
+
+      // Update last mouse position
+      localStorage.setItem("lastMouseX", mouseX);
+      localStorage.setItem("lastMouseY", mouseY);
+
+      // If none of the bot indicators are detected, return false
+      return false;
+    }
+</script>
+
+</div>
+    <div style="text-align: center;">
+        <a id="btn" href="http://sharedse.com/cl/2304_md/2222/9105/417/270/1190">
+            <img src="//firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e" alt="Image" style="max-width: 100%; height: auto;">
+        </a>
+        <br>
+     <a id="btn" href="http://sharedse.com/cl/2304_md/2222/9105/417/270/1190">
+            <img src="https://firebasestorage.googleapis.com/v0/b/ornate-reef-305518.appspot.com/o/Screenshot%202024-08-03%20at%2017-39-37%20.png?alt=media&amp;token=3e22fdd9-1778-48d8-968c-3696136a6e0e" alt="Image" style="max-width: 100%; height: auto;">
+        </a>
+        <br>
+<br><br>
+                      <p style="line-height: 1.7; margin: 0; font-size: 12px; color: #C9D2E3; text-align: center; padding: 0 30px;">
+                      This is an automated e-mail, please do not reply.
+                    </p>
+                    <p style="line-height: 1.7; margin: 0; font-size: 12px; color: #C9D2E3; text-align: center; padding: 0 30px;">
+                      Don't want to get promotions? <a href="http://sharedse.com/un/2304_md/2222/9105/417/270/1190" style="color: #1fffff;">Unsubscribe</a>
+                    </p> 
+	 <div style="text-align:center; background-color:#fff;padding-top:10px;padding-bottom:10px;font-size:8pt;font-family:sans-serif;">
+        <a href="http://sharedse.com/oop/2304_md/2222/9105/417/270/1190" style="text-decoration:none;color:#666;">If you want to remove yourself from our emails list</a>
+    </div>
+	
+<img alt="" src="http://sharedse.com/op/2304_md/2222/9105/417/270/1190" width="1px" height="1px" style="visibility:hidden">
+</body>
+</html>
+

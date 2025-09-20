@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi taxado e bloqueado pela fiscalização alfandegária! Protocolo: 35656345.",
+    "from": "Aviso Correios <encomenda343347@correios>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 23 Mar 2025 01:28:20 +0000",
+    "message_id": "<495eda4937a3c9827ce0d73044c4e861@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_495eda4937a3c9827ce0d73044c4e861\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_495eda4937a3c9827ce0d73044c4e861\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-8-1062496865825.us-central1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3663,
+    "has_text": true,
+    "has_html": true
+  }
+}

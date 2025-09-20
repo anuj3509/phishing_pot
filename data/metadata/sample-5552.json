@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Classic Toys] Login Details",
+    "from": "WordPress <wordpress@classictoys.uk>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Jun 2025 00:40:07 +0000",
+    "message_id": "<NGBM1kA2fSzPyyD1sxtdr7IBK0F1AvINpkukzZ2bJw@classictoys.uk>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://classictoys.uk/wp-login.php",
+      "www.gdsbsd.blogspot.sn",
+      "https://classictoys.uk/wp-login.php?login=www.gdsbsd.blogspot.sn%20-%201.398%20BTC%20BINANCE&key=W7ujkQ7nwerP8XR8scet&action=rp"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 272,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

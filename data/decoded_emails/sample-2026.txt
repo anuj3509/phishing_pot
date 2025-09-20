@@ -1,0 +1,331 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot, Ver��ndere JETZT Dein Leben
+From: jehd <service@stayfriends.de>
+To: phishing@pot
+Date: Sun, 26 Nov 2023 14:07:41 +0100
+Message_Id: 
+ <6476c6e9-8d19-4626-bf4d-1a7acb5afb38@SN1NAM02FT0064.eop-nam02.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://144.172.64.113/op/3019_md/2010/66/272/23/2459859
+  - d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png
+  - https://fonts.googleapis.com/css?family=Montserrat
+  - https://derila.com
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png
+  - https://fonts.googleapis.com/css?family=Roboto
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/oop/3019_md/2010/66/272/23/2459859
+  - campaign.address}}
+  - d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg
+  - img.big,
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/un/3019_md/2010/66/272/23/2459859
+  - https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+96 * { box-sizing: border-box } body { margin: 0; padding: 0 } a[x-apple-data-detectors] { color: inherit !important; text-decoration: inherit !important } #MessageViewBody a { color: inherit; text-decoration: none } p { line-height: inherit } .desktop_hide, .desktop_hide table { mso-hide: all; display: none; max-height: 0; overflow: hidden } @media (max-width:620px) { .image_block img.big, .row-content { width: 100% !important } .mobile_hide { display: none } .stack .column { width: 100%; display: block } .mobile_hide { min-height: 0; max-height: 0; max-width: 0; overflow: hidden; font-size: 0 } .desktop_hide, .desktop_hide table { display: table !important; max-height: none !important } } &amp;hairsp; GUTE NACHRICHTEN! WIR HABEN IHR DERILA MEMORY FOAM KISSEN FÜR SIE RESERVIERT SCHLIESSEN SIE IHRE BESTELLUNG JETZT AB, UM VON UNSEREM SONDERANGEBOT ZU PROFITIEREN ZURÜCK ZUM WARENKORB Leider wird unser Sonderpreis nicht mehr lange gelten, also beeilen Sie sich! &nbsp; Mit hochwertigem Memory Foam und einem ergonomischen Konturdesign wird Derila Ihnen helfen, den erholsamen Schlaf zu finden, von dem Sie träumen. Perfekt für jeden Schläfertyp ist dieses Kissen ein absolutes Muss. Wachen Sie auf und fühlen Sie sich erfrischt und bereit, den Tag zu beginnen! &nbsp; Gehen Sie einfach über den unten stehenden Link zu Ihrem Warenkorb und bestellen Sie jetzt. DERILA JETZT BESTELLEN Derila {{campaign.address}} +1 862 329-7011 https://derila.com This email was sent to phishing@pot because your've subscribed on our site or made a purchase. Unsubscribe click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title></title>
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+    <!--[if !mso]><!-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+    <!--<![endif]-->
+    <style>
+        * {
+            box-sizing: border-box
+        }
+
+        body {
+            margin: 0;
+            padding: 0
+        }
+
+        a[x-apple-data-detectors] {
+            color: inherit !important;
+            text-decoration: inherit !important
+        }
+
+        #MessageViewBody a {
+            color: inherit;
+            text-decoration: none
+        }
+
+        p {
+            line-height: inherit
+        }
+
+        .desktop_hide,
+        .desktop_hide table {
+            mso-hide: all;
+            display: none;
+            max-height: 0;
+            overflow: hidden
+        }
+
+        @media (max-width:620px) {
+
+            .image_block img.big,
+            .row-content {
+                width: 100% !important
+            }
+
+            .mobile_hide {
+                display: none
+            }
+
+            .stack .column {
+                width: 100%;
+                display: block
+            }
+
+            .mobile_hide {
+                min-height: 0;
+                max-height: 0;
+                max-width: 0;
+                overflow: hidden;
+                font-size: 0
+            }
+
+            .desktop_hide,
+            .desktop_hide table {
+                display: table !important;
+                max-height: none !important
+            }
+        }
+    </style>
+</head>
+
+<body style="background-color:#f5f7f9;margin:0;padding:0;-webkit-text-size-adjust:none;text-size-adjust:none">
+    <table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#f5f7f9">
+        <tbody>
+            <tr>
+                <td>
+                    <table class="row row-1" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;border-bottom:0 dotted transparent;border-left:0 dotted transparent;border-right:0 dotted transparent;border-top:0 dotted transparent;vertical-align:top;padding-top:5px;padding-bottom:5px">
+                                                    <table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad" style="padding-left:60px;padding-right:60px;width:100%">
+                                                                    <div class="alignment" align="center" style="line-height:10px"><a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="outline:none" tabindex="-1" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><img class="big" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png" style="display:block;height:auto;border:0;width:480px;max-width:100%" width="480" alt="Image" title="Image"></a>
+																	<a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="outline:none" tabindex="-1" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><img class="big" src="//d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png" style="display:block;height:auto;border:0;width:480px;max-width:100%" width="480" alt="Image" title="Image"></a></div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:0;border-right:0;border-bottom:0;border-left:0">
+                                                    <table class="divider_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad" style="padding-bottom:20px;padding-left:60px;padding-right:60px;padding-top:20px">
+                                                                    <div class="alignment" align="center">
+                                                                        <table border="0" cellpadding="0" cellspacing="0" role="presentation" width="80%" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                                            <tbody>
+                                                                                <tr>
+                                                                                    <td class="divider_inner" style="font-size:1px;line-height:1px;border-top:2px solid #0068a5"><span>&amp;hairsp;</span></td>
+                                                                                </tr>
+                                                                            </tbody>
+                                                                        </table>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table class="text_block block-2" width="100%" border="0" cellpadding="20" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad">
+                                                                    <div style="font-family:'Trebuchet MS',Tahoma,sans-serif">
+                                                                        <div class="txtTinyMce-wrapper" style="font-size:12px;mso-line-height-alt:14.399999999999999px;color:#000;line-height:1.2;font-family:Montserrat,'Trebuchet MS','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Tahoma,sans-serif">
+                                                                            <p dir="ltr" style="margin:0;font-size:12px;text-align:left"><span style="font-size:24px;">GUTE NACHRICHTEN! WIR HABEN IHR DERILA MEMORY FOAM KISSEN FÜR SIE RESERVIERT</span></p>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;border-bottom:0 dotted transparent;border-left:0 dotted transparent;border-right:0 dotted transparent;border-top:0 dotted transparent;vertical-align:top;padding-top:5px;padding-bottom:5px">
+                                                    <table class="image_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad" style="width:100%;padding-right:0;padding-left:0">
+                                                                    <div class="alignment" align="center" style="line-height:10px"><a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="outline:none" tabindex="-1" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><img class="big" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg" style="display:block;height:auto;border:0;width:600px;max-width:100%" width="600" alt="Image" title="Image"></a>
+																	<a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="outline:none" tabindex="-1" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><img class="big" src="//d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg" style="display:block;height:auto;border:0;width:600px;max-width:100%" width="600" alt="Image" title="Image"></a></div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table class="text_block block-2" width="100%" border="0" cellpadding="20" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad">
+                                                                    <div style="font-family:'Trebuchet MS',Tahoma,sans-serif">
+                                                                        <div class="txtTinyMce-wrapper" style="font-size:12px;font-family:Montserrat,'Trebuchet MS','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Tahoma,sans-serif;mso-line-height-alt:14.399999999999999px;color:#000;line-height:1.2">
+                                                                            <p style="margin:0;font-size:14px;text-align:left">
+                                                                                <span style="font-size:24px;">SCHLIESSEN SIE IHRE BESTELLUNG JETZT AB, UM VON UNSEREM SONDERANGEBOT ZU PROFITIEREN</span>
+                                                                            </p>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table class="button_block block-3" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad">
+                                                                    <div class="alignment" align="center">
+                                                                        <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="#" style="height:58px;width:383px;v-text-anchor:middle;" arcsize="7%" stroke="false" fillcolor="#0068a5"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#ffffff; font-family:'Trebuchet MS', Tahoma, sans-serif; font-size:24px"><![endif]-->
+                                                                        <a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0068a5;border-radius:4px;width:auto;border-top:1px solid #0068a5;font-weight:400;border-right:1px solid #0068a5;border-bottom:1px solid #0068a5;border-left:1px solid #0068a5;padding-top:5px;padding-bottom:5px;font-family:'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><span style="padding-left:20px;padding-right:20px;font-size:24px;display:inline-block;letter-spacing:normal;"><span dir="ltr" style="word-break: break-word; line-height: 48px;">ZURÜCK ZUM WARENKORB</span></span></a>
+                                                                        <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <table class="row row-4" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                        <tbody>
+                            <tr>
+                                <td>
+                                    <table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;background-color:#fff;color:#000;width:600px" width="600">
+                                        <tbody>
+                                            <tr>
+                                                <td class="column column-1" width="100%" style="mso-table-lspace:0;mso-table-rspace:0;font-weight:400;text-align:left;vertical-align:top;padding-top:5px;padding-bottom:5px;border-top:0;border-right:0;border-bottom:0;border-left:0">
+                                                    <table class="text_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0;word-break:break-word">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad" style="padding-bottom:15px;padding-left:20px;padding-right:20px;padding-top:15px">
+                                                                    <div style="font-family:'Trebuchet MS',Tahoma,sans-serif">
+                                                                        <div class="txtTinyMce-wrapper" style="font-size:12px;font-family:Montserrat,'Trebuchet MS','Lucida Grande','Lucida Sans Unicode','Lucida Sans',Tahoma,sans-serif;mso-line-height-alt:18px;color:#000;line-height:1.5">
+                                                                            <p style="margin:0;font-size:18px">
+                                                                                Leider wird unser Sonderpreis nicht mehr lange gelten, also beeilen Sie sich!</p>
+                                                                            <p style="margin:0;font-size:18px;mso-line-height-alt:18px">&nbsp;</p>
+                                                                            <p style="margin:0;font-size:18px">Mit hochwertigem Memory Foam und einem ergonomischen Konturdesign wird Derila Ihnen helfen, den erholsamen Schlaf zu finden, von dem Sie träumen. Perfekt für jeden Schläfertyp ist dieses Kissen ein absolutes Muss. Wachen Sie auf und fühlen Sie sich erfrischt und bereit, den Tag zu beginnen!</p>
+                                                                            <p style="margin:0;font-size:18px;mso-line-height-alt:18px">&nbsp;</p>
+                                                                            <p style="margin:0;font-size:18px">Gehen Sie einfach über den unten stehenden Link zu Ihrem Warenkorb und bestellen Sie jetzt.</p>
+                                                                        </div>
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                    <table class="button_block block-2" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace:0;mso-table-rspace:0">
+                                                        <tbody>
+                                                            <tr>
+                                                                <td class="pad">
+                                                                    <div class="alignment" align="center">
+                                                                        <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" style="height:58px;width:358px;v-text-anchor:middle;" arcsize="7%" stroke="false" fillcolor="#0068a5"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#ffffff; font-family:'Trebuchet MS', Tahoma, sans-serif; font-size:24px"><![endif]-->
+                                                                        <a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:#0068a5;border-radius:4px;width:auto;border-top:1px solid #0068a5;font-weight:400;border-right:1px solid #0068a5;border-bottom:1px solid #0068a5;border-left:1px solid #0068a5;padding-top:5px;padding-bottom:5px;font-family:'Montserrat', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;" data-mp-url-id="8f608ae7f00e0dae85410b1039b7fbcb1482cd04" mp-encode="false"><span style="padding-left:20px;padding-right:20px;font-size:24px;display:inline-block;letter-spacing:normal;"><span dir="ltr" style="word-break: break-word; line-height: 48px;">DERILA JETZT BESTELLEN</span></span></a>
+                                                                        <!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+                                                                    </div>
+                                                                </td>
+                                                            </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <!-- End -->
+
+
+    <div class="footerco" style="margin-left: auto; max-width:600px !important; margin-right: auto; width: 100%; background-color: #F5F5F5; display:block !important;">
+        <div style="margin-left: auto; max-width:580px !important; margin-right: auto; width: 100%; background-color: #F5F5F5; display:block !important;">
+            <table role="presentation" width="100%">
+                <tbody>
+                    <tr>
+                        <td align="left" class="img-block" style="width:50%; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;" valign="top">
+                            <p style="margin-top: 0; margin-bottom: 0">Derila</p>
+
+                            <p style="max-width: 300px; margin-top: 0; margin-bottom: 0; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;">{{campaign.address}}</p>
+
+                            <p style="margin-top: 0; margin-bottom: 0; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;"><a href="tel:+1 (205) 782-8186" style="color: #ACACAC !important; text-decoration: underline !important;">+1 862 329-7011</a></p>
+
+                            <p style="margin-top: 0; margin-bottom: 0; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;"><a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859" style="color: #ACACAC !important; text-decoration: underline !important;">https://derila.com</a></p>
+                        </td>
+                        <td align="right" class="text-block" style="width:50%; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;" valign="top">
+                            <p style="margin-top: 0; margin-bottom: 0; max-width: 300px; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;">This email was sent to phishing@pot because your've subscribed on our site or made a purchase.</p>
+
+                            <p class="unsub" style="margin-top: 0; margin-bottom: 0; color: #ACACAC; font-family: Montserrat, Helvetica, Verdana, serif; font-style: normal;font-weight: normal; font-size: 10px;"><a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/un/3019_md/2010/66/272/23/2459859" style="font-weight: 700; color: #ACACAC !important; text-decoration: underline !important;">Unsubscribe</a></p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/oop/3019_md/2010/66/272/23/2459859">here</a> to remove yourself from our emails list</span><br><br><img alt="" ?="" src="http://144.172.64.113/op/3019_md/2010/66/272/23/2459859" width="1px" height="1px" style="visibility:hidden">
+

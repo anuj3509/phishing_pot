@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Important notification",
+    "from": "LEDGER <2019144932@talento.tls.edu.pe>",
+    "to": "phishing@pot",
+    "date": "Thu, 09 Nov 2023 18:19:38 +0100",
+    "message_id": "<ONA7092QGLU4.IUADUM622CO91@smtp.office365.com>",
+    "content_type": "multipart/alternative; boundary=\"=-ldPNgwBF2kQPjNInCHIehg==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-ldPNgwBF2kQPjNInCHIehg==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://facebook.com/",
+      "http://www.w3.org/1999/xhtml",
+      "https://cdn.tools.unlayer.com/social/icons/circle/facebook.png",
+      "https://cdn.tools.unlayer.com/social/icons/circle/twitter.png",
+      "https://m.mekagravure.com",
+      "https://twitter.com/",
+      "https://assets.unlayer.com/projects/190842/1699511243057-960505.png",
+      "https://assets.unlayer.com/projects/190842/1699356453772-201798.png",
+      "https://cdn.tools.unlayer.com/social/icons/circle/instagram.png",
+      "https://instagram.com/",
+      "ledger.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 665,
+    "html_length": 23137,
+    "has_text": true,
+    "has_html": true
+  }
+}

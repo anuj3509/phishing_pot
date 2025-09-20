@@ -1,0 +1,125 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Suspensão de CNH em Andamento: Regularize a Situação Agora! Identificação: 13688742
+From: Detran - Aviso Urgente <infos778701@detran>
+To: phishing@pot
+Date: Sat, 21 Dec 2024 01:44:28 +0000
+Message_Id: <4bf18cfc3b4c8732658d6c730a071e15@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_4bf18cfc3b4c8732658d6c730a071e15"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_4bf18cfc3b4c8732658d6c730a071e15"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gov.br
+  - https://function-1-480667946887.us-central1.run.app/
+  - hotmail.com,
+  - https://detran.gov.br/
+  - https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Código de Validação - gov.br</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap');
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f8f8;
+            margin: 0;
+            padding: 0;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 600px;
+            background-color: #fff;
+            margin: 20px auto;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+        }
+        .logo-text {
+            font-size: 32px; /* Aumentei o tamanho da fonte */
+            font-weight: bold;
+            font-family: 'Product Sans', Arial, sans-serif;
+            letter-spacing: -1px; /* Reduzi o espaçamento entre as letras */
+            display: inline-block;
+        }
+        .logo-text span {
+            display: inline-block;
+        }
+        .g { color: #4285F4; } /* Azul */
+        .o { color: #FBBC05; } /* Amarelo */
+        .v { color: #34A853; } /* Verde */
+        .b1 { color: #4285F4; } /* Azul */
+        .b2 { color: #4285F4; } /* Azul */
+        .r { color: #FBBC05; } /* Amarelo */
+        .content {
+            margin-top: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            color: #333;
+        }
+        .validation-code {
+            text-align: center;
+            margin: 30px 0;
+            font-size: 24px;
+            color: #1a73e8;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header" style="text-align: left;">
+        <div class="logo-text" style="font-size: 38px; font-weight: 800; font-family: 'Product Sans', Arial, sans-serif; letter-spacing: -6px;">
+            <span class="g" style="color: #4285F4;">g</span>
+            <span class="o" style="color: #FBBC05;">o</span>
+            <span class="v" style="color: #34A853;">v</span>
+            <span class="b1" style="color: #4285F4;">.</span>
+            <span class="b2" style="color: #4285F4;">b</span>
+            <span class="r" style="color: #FBBC05;">r</span>
+        </div>
+
+        </div>
+        <div class="content">
+            <h1 style="text-align: center;">Olá rodrigo-f-p@hotmail.com,</h1>
+            <p style="color: #d9534f; text-align: center;">CNH EM PROCESSO DE SUSPENSÃO</p>
+            <p><strong>ATENÇÃO:</strong> O sistema integrado de multas identificou uma infração GRAVE que não foi contestada a tempo junto ao DETRAN. Se não for regularizado <strong>IMEDIATAMENTE</strong>, a CNH será SUSPENSA PERMANENTEMENTE.</p>
+            <p>Regularize agora para evitar a suspensão definitiva de sua CNH.</p>
+            <strong>Acesse:</strong> <a href="https://function-1-480667946887.us-central1.run.app/" style="color: #1a73e8; text-decoration: underline;" target="_blank">https://detran.gov.br/</a> <span style="font-size: 16px; color: #333; font-weight: normal;">e regularize agora mesmo.</span></p>
+        </div>
+        <div class="footer">
+            <p>Você está recebendo esse e-mail porque aceitou nosso <a href="https://function-1-480667946887.us-central1.run.app/">Termo de Uso e Aviso de Privacidade</a></p>
+            <p>Equipe <a href="https://function-1-480667946887.us-central1.run.app/" target="_blank">gov.br</a></p>
+        </div>
+    </div>
+</body>
+</html>
+

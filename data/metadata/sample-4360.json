@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Você possui pedidos aguardando taxa de recolhimento da fiscalização alfandegária!",
+    "from": "Correios SA <avisos351349@correios>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Wed, 23 Oct 2024 08:08:32 +0000",
+    "message_id": "<8e97d8d9404ccacad60f5166bea878b7@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8e97d8d9404ccacad60f5166bea878b7\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8e97d8d9404ccacad60f5166bea878b7\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreamentofiscalizacao.com/",
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3523,
+    "has_text": true,
+    "has_html": true
+  }
+}

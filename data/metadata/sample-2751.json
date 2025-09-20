@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "New important update!",
+    "from": "\"Meta Service\" <Noreply@euskaltel.com>",
+    "to": "Recipients <Noreply@euskaltel.com>",
+    "date": "Wed, 31 Jan 2024 19:12:53 +0100",
+    "message_id": "<50e00b$kho1o1@smtp4.mundo-r.com>",
+    "content_type": "multipart/alternative; boundary=\"===============1467314459==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============1467314459==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.avast.com/sig-email?utm_medium=email&amp;utm_source=link&amp;utm_campaign=sig-email&amp;utm_content=emailclient",
+      "https://tsss.me/xA9QpMnJ",
+      "Virus-free.www.avast.com",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjbBHK8J-jvYzLb85iAs0wqjK7t_UNEeF1lw&amp;usqp=CAU",
+      "https://s-install.avcdn.net/ipm/preview/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 492,
+    "html_length": 7810,
+    "has_text": true,
+    "has_html": true
+  }
+}

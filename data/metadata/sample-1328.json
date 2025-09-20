@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Houve um acesso a sua conta em um novo dispositivo!",
+    "from": "Mercado Livre <suportemercadolivre@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Sep 2023 14:47:13 +0000 (UTC)",
+    "message_id": "<20230917144713.730FF21986@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_device.png",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700",
+      "https://logodownload.org/wp-content/uploads/2016/08/mercado-livre-logo-8.png",
+      "https://mercadolivre.com/org-img/mkt/email-mkt-assets/andes-emails/icon-warning@2x.png",
+      "https://mercadolivre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_clock.png",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-condicoes_299&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1pdT5WLVvlRLhh3tEwVzeK",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/communication-preferences&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw1ND-hcE1Qv83cfCAD_E4C8",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1681067434777000&amp;usg=AOvVaw0Ej0SkY0ug01fAY_oXX3a_",
+      "http://mercado.pago.hoje.comercial.ws/?",
+      "https://mercadolibre.com/org-img/mkt/email-mkt-assets/feedback/alerts_icons_geo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2942,
+    "html_length": 10013,
+    "has_text": true,
+    "has_html": true
+  }
+}

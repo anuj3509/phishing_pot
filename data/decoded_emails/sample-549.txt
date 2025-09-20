@@ -1,0 +1,115 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ENC: Notificacao Judicial - Bz8kDrEpO5zvpVVIZN
+From: Rodrigo Lima <rodrigo.gama94@live.com>
+To: "phish.me.again@gmail.com" <phish.me.again@gmail.com>
+Date: Sun, 2 Apr 2023 15:28:51 +0000
+Message_Id: 
+ <SN7PR05MB7613909556A0E4D131762C15E08D9@SN7PR05MB7613.namprd05.prod.outlook.com>
+Content_Type: multipart/mixed;
+	boundary="_004_SN7PR05MB7613909556A0E4D131762C15E08D9SN7PR05MB7613namp_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_004_SN7PR05MB7613909556A0E4D131762C15E08D9SN7PR05MB7613namp_"
+
+ATTACHMENTS:
+--------------------
+- ltau_Urgente_3064.pdf (application/pdf, 85251 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://schemas.microsoft.com/office/2004/12/omml
+  - RODRIGO.GAMA94@LIVE.COM
+  - gmail.com
+  - https://go.microsoft.com/fwlink/?LinkId=550986
+  - p.MsoNormal,
+  - li.MsoNormal,
+  - div.WordSection1
+  - span.MsoHyperlink
+  - div.MsoNormal
+  - http://www.w3.org/TR/REC-html40
+  - rodrigo.gama94@live.com,
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+Enviado do Email<https://go.microsoft.com/fwlink/?LinkId=550986> para Windows
+
+De: ltaú - Notificação em anexo. 44117874555948<mailto:zaq92883@gmail.com>
+Enviado:sábado, 1 de abril de 2023 13:19
+Para: RODRIGO.GAMA94@LIVE.COM<mailto:RODRIGO.GAMA94@LIVE.COM>
+Assunto: Notificacao Judicial - Bz8kDrEpO5zvpVVIZN
+
+_______________________________
+
+Cliente rodrigo.gama94@live.com,
+
+Segue notificacao judicial em anexo.
+
+Protocolo: 925150755287
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+--></style>
+</head>
+<body lang="PT-BR" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">Enviado do <a href="https://go.microsoft.com/fwlink/?LinkId=550986">
+Email</a> para&nbsp;Windows</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<div style="mso-element:para-border-div;border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0cm 0cm 0cm">
+<p class="MsoNormal" style="border:none;padding:0cm"><b>De: </b><a href="mailto:zaq92883@gmail.com">ltaú - Notificação em anexo. 44117874555948</a><br>
+<b>Enviado:</b>sábado, 1 de abril de 2023 13:19<br>
+<b>Para: </b><a href="mailto:RODRIGO.GAMA94@LIVE.COM">RODRIGO.GAMA94@LIVE.COM</a><br>
+<b>Assunto: </b>Notificacao Judicial - Bz8kDrEpO5zvpVVIZN</p>
+</div>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class="MsoNormal">_______________________________<o:p></o:p></p>
+<p>Cliente rodrigo.gama94@live.com,</p>
+<p>Segue notificacao judicial em anexo. </p>
+<p>Protocolo: 925150755287</p>
+<p class="MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+

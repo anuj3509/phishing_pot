@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: Notificação ao cliente  Cod. qewnlo4Ty4VFo0tNyEM",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Thu, 23 Nov 2023 11:49:11 +0000",
+    "message_id": "\r\n <SN4PR0601MB866548A8E7B839252CD7F387EEB9A@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB866548A8E7B839252CD7F387EEB9ASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN4PR0601MB866548A8E7B839252CD7F387EEB9ASN4PR0601MB8665_\""
+  },
+  "attachments": [
+    {
+      "filename": "b7QpxsmeQ0eUwK1GnRX4337.pdf",
+      "content_type": "application/pdf",
+      "size": 116109
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com&gt;",
+      "gmail.com",
+      "https://aka.ms/AAb9ysg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 720,
+    "html_length": 1485,
+    "has_text": true,
+    "has_html": true
+  }
+}

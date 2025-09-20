@@ -1,0 +1,91 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ��������� =?UTF-8?B?w5xiZXJwcsO8ZmVuIFNpZSBJaHIgS29udG8g4oCTIERyaW5nZW5kZXIgU2ljaGVyaGVpdHMtSGlud2Vpcw==?= "
+From: "Systembenachrichtigung"<info.5Aj6F@aphoriavermetid.com>
+To: <phishing@pot>
+Date: Thu, 22 May 2025 16:24:40 +0200
+Message_Id: <60f1a7fe-f309-453c-9863-7bcbe1011675@BN1PEPF00006000.namprd05.prod.outlook.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://t.co/UZuI2t9qIE
+  - https://t.co/sQtCUY0S1V
+
+DECODED TEXT CONTENT:
+------------------------------
+McAfee Lizenz abgelaufen ��� Jetzt sch��tzen ������ Ihre McAfee-Lizenz ist abgelaufen ���� Sch��tzen Sie Ihr Ger��t jetzt Ihre McAfee-Sicherheitslizenz ist am 22.05.2025 abgelaufen. Ihr Ger��t ist jetzt anf��llig f��r Viren, Phishing und Hackerangriffe. Nur heute: 80&nbsp;% Rabatt auf Ihre Verl��ngerung! ���� Jetzt Lizenz verl��ngern ���� Warum jetzt verl��ngern? ��� Echtzeitschutz vor Viren & Malware ��� Sicheres Online-Banking & Shopping ��� Identit��tsschutz und VPN inklusive Hinweis: Ohne g��ltige Lizenz wird Ihr Schutz deaktiviert und Ihr System ist Risiken ausgesetzt. ��� McAfee jetzt reaktivieren Diese Nachricht wurde an {EMAIL} gesendet. Abmeldung jederzeit m��glich.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>McAfee Lizenz abgelaufen ��� Jetzt sch��tzen</title>
+</head>
+<body style="margin:0; padding:0; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background:linear-gradient(180deg, #ffffff 0%, #f3f4f6 100%); color:#1f2937;">
+
+  <div style="max-width:600px; margin:20px auto; background:#ffffff; border-radius:12px; overflow:hidden; box-shadow:0 8px 24px rgba(0,0,0,0.08);">
+    
+    <!-- Header -->
+    <div style="background:#b91c1c; color:#fff; padding:24px; text-align:center; font-size:24px; font-weight:bold;">
+      ������ Ihre McAfee-Lizenz ist abgelaufen
+    </div>
+
+    <!-- Body Content -->
+    <div style="padding:30px 20px;">
+      <h1 style="font-size:22px; color:#b91c1c;">���� Sch��tzen Sie Ihr Ger��t jetzt</h1>
+
+      <p style="font-size:16px; line-height:1.6;">
+        Ihre <strong>McAfee-Sicherheitslizenz</strong> ist am <strong>22.05.2025</strong> abgelaufen. Ihr Ger��t ist jetzt anf��llig f��r Viren, Phishing und Hackerangriffe.
+      </p>
+
+      <p style="font-size:16px; font-weight:bold; color:#dc2626;">
+        Nur heute: <u>80&nbsp;% Rabatt</u> auf Ihre Verl��ngerung!
+      </p>
+
+      <a href="https://t.co/UZuI2t9qIE" 
+         style="display:inline-block; margin:25px 0; padding:14px 28px; background:#ef4444; color:#fff; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+         ���� Jetzt Lizenz verl��ngern
+      </a>
+
+      <hr style="margin:30px 0; border:none; border-top:1px solid #e5e7eb;">
+
+      <h2 style="font-size:18px; color:#111827;">���� Warum jetzt verl��ngern?</h2>
+      <ul style="font-size:15px; padding-left:20px; line-height:1.6;">
+        <li>��� Echtzeitschutz vor Viren & Malware</li>
+        <li>��� Sicheres Online-Banking & Shopping</li>
+        <li>��� Identit��tsschutz und VPN inklusive</li>
+      </ul>
+
+      <div style="background-color:#fef2f2; padding:15px; border-left:4px solid #dc2626; margin:30px 0;">
+        <strong>Hinweis:</strong> Ohne g��ltige Lizenz wird Ihr Schutz deaktiviert und Ihr System ist Risiken ausgesetzt.
+      </div>
+
+      <a href="https://t.co/UZuI2t9qIE" 
+         style="display:inline-block; background:#b91c1c; color:#fff; font-weight:bold; padding:14px 28px; text-decoration:none; border-radius:6px; margin-bottom:20px; box-shadow:0 4px 6px rgba(0,0,0,0.1);">
+         ��� McAfee jetzt reaktivieren
+      </a>
+
+      <p style="font-size:12px; color:#6b7280; margin-top:25px;">
+        Diese Nachricht wurde an <strong>{EMAIL}</strong> gesendet.<br>
+        <a href="https://t.co/sQtCUY0S1V" style="color:#6b7280; text-decoration:underline;">Abmeldung</a> jederzeit m��glich.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
+

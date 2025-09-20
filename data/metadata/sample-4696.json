@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Herzlichen Gl��ckwunsch! Sie sind ein Finalist f��r 500��� Geschenkcoupons!",
+    "from": "Rossmann <phishing@pot>, Rossmann <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 16 Jan 2025 18:06:12 +0000",
+    "message_id": "<hpo8Wc1.0.0.hpo8Wc1.9.hpo8Wc1@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/25/02/vxnq.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://dri.servicecentre.info/dC9DWFFGWGtpZlBhTWpqQ2RmUkVtR1o3NnlBbHBsWTM5MldWYVJQODNiSTVYN3dtalBTR0tXeXFKUVlNMW9zWnVmZzRoNG9ZZG1CZXZFMi9leUNkNlAyNWM3b2l6d0VTaExHQ2ZKVlE5VkE9",
+      "http://servicecentre.info/ZVAvL25sSkY2N1RtN0QxWktwYW9wYXl5TW5NTkUwaGR0YlJQdmZpdGxoZ0xHN3k5T1locXhmWElvR3prZGhWR0VMSWxvVDZsN0NGbEpycHZBUE5QWmtoRkcvOGhRY0VVYTVHTGdxQ091ZzQ9",
+      "www.zupimages.net/up/25/02/vxnq.png",
+      "https://lifeinsureand.com/?a=7790&amp;oc=22631&amp;c=59695&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1803,
+    "html_length": 8812,
+    "has_text": true,
+    "has_html": true
+  }
+}

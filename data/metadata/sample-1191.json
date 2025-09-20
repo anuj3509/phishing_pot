@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Attention: Blocked Messages !!!",
+    "from": "\"proton.me mail security\" <admin@dpu.bandung.go.id>",
+    "to": "phishing@pot",
+    "date": "12 Jun 2023 13:28:49 +0200",
+    "message_id": "<20230612132848.D155760B93D4D518@dpu.bandung.go.id>",
+    "content_type": "multipart/mixed;boundary=---------------------71ff21086fe4039d9b2c13efc9248551"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------71ff21086fe4039d9b2c13efc9248551"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "729211.AD",
+      "https://mail.costom.best/international.html?look=phishing@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1188,
+    "html_length": 22027,
+    "has_text": true,
+    "has_html": true
+  }
+}

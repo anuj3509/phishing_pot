@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Schokotraum f��r Genie��er: Milka-Paket f��r nur 100���! ��������",
+    "from": "Milka Package. <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 17 Feb 2025 07:25:01 -0500",
+    "message_id": "<GJkw4Zn.0.0.GJkw4Zn.9.GJkw4Zn@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://blog.afridox.com/L0Z6K0pVUGNKSU10NXNwVXVsN0lpVWJ2ai83ZE5RNzAzNWd0WlVuUEJJQWtYN2FSVkVJTGJEbENpTjZZOU0rVndEUHR5Zk9GZ2JzSDJnTm1GZEdMOFE9PQ__",
+      "http://blog.afridox.com/eWxFVXFnVDhpWnRpUncxNi9wOW13TlZzS1ZtaWxrLzVtZUZhOHBEVTF6am52Y2RoQVA5WEpFSlM4cWlzV3AzV0lJUG04MkRsREUzODEwbnZRbFlIa0E9PQ__",
+      "http://blog.afridox.com/VHA5dlZJWFU1VWM4TFduNFMvb3p2VlZGS0FrczVYNENOcjRtWTdMdS9odDhHVWxqbERpcTN2d29sR2cvOENoQ3F0ek9kbzBPUVdFSnBaamRlZW8wMFE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1708,
+    "html_length": 9411,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "headers": {
+    "subject": "Diga \"Hello\" para o seu intercâmbio ✈️",
+    "from": "\"Nina da EF\" <nina.cantarelli@ef.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 20 Feb 2024 17:03:55 -0600",
+    "message_id": "<357ae26e-838e-4081-afd1-9a4f255b66f8@atl1s07mta1471.xt.local>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"Sn3VwHqaqqUj=_?:\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"Sn3VwHqaqqUj=_?:\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://click.ef.com/?qs=4117696735bd6c1fd48a34bffc54bded9be72ca3334a2a6692698c99836fb6150b5402c440d6e43e5346ed9b537c590b5d1cffa9d18e7bb7",
+      "http://images.emlcdn.net/cdn/1001455/QH65c1001455b3/dmlogo.png",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/1/2e13f169-bad0-425f-9030-76ceaee0d2ae.png",
+      "http://click.ef.com/?qs=4117696735bd6c1f9d42c1df1d6efb97fe513077efe2bef60ca4be66e41edd8acf8735118e31ba62d52fb5743b859a68e530e615cdd95403",
+      "http://click.ef.com/open.aspx?ffcb10-fe9e177274660c7d74-fe2d16787764057f7c1579-fe8c1372726c007c73-ff9e1570-fe1b177772660c74701679-ff03157075670c&amp;d=70223&amp;bmt=0",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/16/d2477f99-3a86-4712-9b5e-38ad71f02a01.png",
+      "http://click.ef.com/?qs=4117696735bd6c1f62b2e20d29fec515ad52efd4ec10875aea2942009f8f5e20e379c56222e2c26866d2c6fda36cad8b8be47fbdefd7c4b2",
+      "https://www.ef.com.br/)",
+      "a.outline{background:none!important;}",
+      "http://click.ef.com/?qs=4117696735bd6c1fdf44459f95d5206936d26b8b646d5aa926bd63a366f4dcca000ab30f0a3f61cfc01070711ba3688040e20cd4f348614d",
+      "https://mcloud.ef.com/unsubscribe).",
+      "http://images.emlcdn.net/cdn/1001455/QH65c1001455b3/eflogomobile.jpg",
+      "http://click.ef.com/?qs=4117696735bd6c1f9da8d90a3866eb6b78056ccfe94fb3cd9dc3fd8b8a791a72f42ac00e9e1a8880db9e9ee45f127c85dad5c22bc21c4f3d",
+      "http://click.ef.com/?qs=4117696735bd6c1fd3a881f8d916f82f4ca2c4cd341d2c459dbd1561f23e53d33db54b917032e35ab44c9a484f4ea2c90c777087710d72e5",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/16/856b078c-9bcf-493a-8451-79c6923d66e3.png",
+      "http://click.ef.com/?qs=4117696735bd6c1fff8813874ebff717d3ededae12103eadb42059f668ac4bfec1995f113e0ab2f31f162c643ab8aabf684b63e71d8b6548",
+      "http://click.ef.com/?qs=4117696735bd6c1f4e1427902fb72a4ad8b3348c647fa4e5297b6ab94f44d40128022bfebd979f283b858f061519ef50ac4514fdb3ef4402",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/16/a0cb35a0-e10b-4d6d-ae45-79fd69f210fa.png",
+      "span.MsoHyperlink",
+      "table.bgimage",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/16/4e1eed62-f9e9-4b3f-a759-5eef9be7ba41.png",
+      "a.outline{background:transparent!important}",
+      "span.MsoHyperlinkFollowed",
+      "https://image.ef.com/lib/fe8a1372726206797c/m/16/073d9b67-cc62-420d-9876-f65973a47445.png",
+      "http://click.ef.com/?qs=4117696735bd6c1fcdac5439f27ff9007c73c4441e7b2e96ea24a9888b1c30452423ed8e7fe86a707854947afd9722d9737eb83279a5ad95",
+      "http://click.ef.com/?qs=4117696735bd6c1f95d5b4e58b31515ad82b8e901214b54ad39ed2e5bc35394f230ce97b8409bc54431b740b67a0737ec921f8f516b11f29",
+      "div.preheader",
+      "http://images.emlcdn.net/cdn/1001455/QH65c1001455b3/effallback1.jpg",
+      "http://click.ef.com/?qs=4117696735bd6c1facd086b4b1736a7fe5ec444f15a442190acc18dcc77060a796c78dfef34e54772201442c8c3837c18761763b76510b4d",
+      "http://click.ef.com/?qs=4117696735bd6c1fddffd0b432240ab8b27cd1d3c3e8a9fa351999af1b13a496f7449f7f4825113984c16cdcf01d54bccabf70baa1ef8bfd",
+      "http://click.ef.com/?qs=4117696735bd6c1f672552179032310de06bcac6bc2f1ab1eef9240e7123045ec43931399568b504d6e40ef58e1fdd64a0307dbb721f890d",
+      "https://www.ef.com.br/hub/24/hello-travel/?thank-you)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2331,
+    "html_length": 19231,
+    "has_text": true,
+    "has_html": true
+  }
+}

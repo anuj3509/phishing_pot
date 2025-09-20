@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie einen Rossmann Gutschein im Wert von 500 Euro.",
+    "from": "Rossmann Gutschein, <newsletter@bonprix.de.>, Office,\r\n\t<newsletter@bonprix.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 02 Jan 2024 00:13:45 +0100",
+    "message_id": "<tfeag3g.f3iut.n07.n07@wiuuybllnhsgrin.joo>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://trk2.de/f8kw6yy2",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/48334/hero1.png",
+      "http://plumbum.online/op/4834_md/4049/25611/1236/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#oop/4834_md/4049/25611/1236/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#cl/4834_md/4049/25611/1236/143/149762",
+      "eu1-us1.ckcdnassets.com/448/creatives/48334/hero1.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 681,
+    "html_length": 6559,
+    "has_text": true,
+    "has_html": true
+  }
+}

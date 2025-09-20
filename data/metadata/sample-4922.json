@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "We Need Your Confirmation to Keep Your Trust Wallet Secure",
+    "from": "Trust-Wallet <alquiaga@alquiaga.com>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Mon, 10 Mar 2025 00:42:41 +0000",
+    "message_id": "<6RLZZWP55Y2_67ce35815bb44_6a355c54076f7_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_67ce35816b440_6a355c54077f0\";\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n boundary=\"--==_mimepart_67ce35816b440_6a355c54077f0\";\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "security alert"
+    ],
+    "urls": [
+      "https://strapi-cdn.trustwallet.com/trust_wallet_faqs_blockchain_wallet_b3f3beb702.png)",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=f83fcec50cd917a9318484e86a26664d7a19ce75d913d59376044c14f05d2902JmltdHM9MTc0MTM5MjAwMA&amp;ptn=3&amp;ver=2&amp;hsh=4&amp;fclid=37b3c26b-19ff-6abc-0dc7-d6a018986bf7&amp;psq=fastresponseplumbingsf.com&amp;u=a1aHR0cHM6Ly93d3cuZmFzdHJlc3BvbnNlcGx1bWJpbmdzZi5jb20vYmVzdC1wbHVtYmVyLw&amp;ntb=1",
+      "https://avatars.githubusercontent.com/u/32179889?v=4",
+      "https://trustwallet.com/support",
+      "https://strapi-cdn.trustwallet.com/trust_wallet_faqs_blockchain_wallet_b3f3beb702.png",
+      "https://avatars.githubusercontent.com/u/32179889?v=4)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 900,
+    "html_length": 2625,
+    "has_text": true,
+    "has_html": true
+  }
+}

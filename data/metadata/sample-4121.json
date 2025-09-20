@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "Hello",
+    "from": "\"Saudi Aramco\" <reemnasser@aramcooil.com>",
+    "to": "\"Saudi Aramco\" <reemnasser@aramcooil.com>",
+    "date": "Fri, 20 Sep 2024 17:58:48 +0100",
+    "message_id": "<20122024095817C9F0B88B83$F2AD805B31@aramcooil.com>",
+    "content_type": "multipart/alternative; boundary=\"F7IA5sfqGG0nuso6P3EGzEFGYatT22=_bz\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"F7IA5sfqGG0nuso6P3EGzEFGYatT22=_bz\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 75,
+    "html_length": 394,
+    "has_text": true,
+    "has_html": true
+  }
+}

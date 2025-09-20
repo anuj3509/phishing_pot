@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Proposta Notredame Intermédica - Nova tabela 2024 disponível",
+    "from": "Convênios Hapvida_Notredame <contato@e.planosdesaude-e.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 26 Apr 2024 18:37:52 +0000",
+    "message_id": "<0102018f1bb317b5-b0df6561-61db-412b-a70c-e140c1cfc981-000000@eu-west-1.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"035AA0CF_62078299_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"035AA0CF_62078299_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://web.e-segurohelp.com/app-c/lnk.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32333338",
+      "https://web.e-segurohelp.com/app-c/rem.php?id=382C35312C726F647269676F2D662D7040686F746D61696C2E636F6D2C32333338"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 852,
+    "html_length": 2857,
+    "has_text": true,
+    "has_html": true
+  }
+}

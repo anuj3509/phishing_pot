@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Sophia versucht, Sie zu kontaktieren",
+    "from": "Dating-Experte,(<newsletter@news.veepee.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 04 Sep 2024 14:40:34 +0000",
+    "message_id": "<GQQCDBXJZDUSGQ8AU9KYO1L@my.zalando.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4ZucNZ33448rGni971pnquxohvhr14302BUDJZJKKJCYWMTQ2BMDF2626A10",
+      "div.kl-row.colstack",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4IkJJc33448NRHF971udnrughyzf14302CCGSBHGTSGNUZPP2DZEK2626Q10",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      ".content-padding.last",
+      ".table-mobile-only.inline-block",
+      "http://www.w3.org/1999/xhtml",
+      ".content-padding.first",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      ".table-mobile-only.block",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6ATEqn33448MWFc971wjbvnberhu14302JPOZJZMPLQSDTDW2XTLM2626k10",
+      "https://sensiloedper.com/bizgstorage/DEGirl.png",
+      "sensiloedper.com/bizgstorage/DEGirl.png",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5DqVNr33448FdZe971gtzapocvpy14302WIWFTHWXFEWADNG2NYZP2626G10",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5227,
+    "html_length": 25552,
+    "has_text": true,
+    "has_html": true
+  }
+}

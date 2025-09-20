@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Action required: Secure access to your wallet",
+    "from": "\"Trust Wallet\" <updates@trustwallet-nanoweb3.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 6 Jun 2025 09:37:23 +0000",
+    "message_id": "<5308411571040246013695@WIN-7BCVCJ2K0FN>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nanosecureweb3.com/",
+      "https://trustwallet.com/terms-of-services/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3252,
+    "html_length": 23892,
+    "has_text": true,
+    "has_html": true
+  }
+}

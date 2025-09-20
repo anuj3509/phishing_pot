@@ -1,0 +1,147 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aviso importante: Seu pedido foi taxado e bloqueado pela fiscalização alfandegária! Protocolo: 35656345.
+From: Aviso Correios <encomenda343347@correios>
+To: <phishing@pot>
+Date: Sun, 23 Mar 2025 01:28:20 +0000
+Message_Id: <495eda4937a3c9827ce0d73044c4e861@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_495eda4937a3c9827ce0d73044c4e861"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_495eda4937a3c9827ce0d73044c4e861"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://function-8-1062496865825.us-central1.run.app/
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Notificação de Encomenda Retida - Correios</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 40px auto;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #014169; /* Azul Correios */
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+        .header img {
+            width: 120px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            font-size: 26px;
+            margin: 0;
+        }
+        .content {
+            padding: 30px;
+            text-align: center;
+            color: #333;
+        }
+        .content h2 {
+            font-size: 22px;
+            color: #014169;
+            margin-bottom: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        .content .tracking-info {
+            background-color: #FFCC00; /* Amarelo Correios */
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #0033A0;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content .tracking-info p {
+            margin: 0;
+        }
+        .content .deadline {
+            background-color: #eaf1f8;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            color: #014169;
+            font-size: 16px;
+        }
+        .button {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: #014169;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover {
+            background-color: #014169;
+        }
+        .footer {
+            background-color: #FFCC00; /* Amarelo Correios */
+            color: #0033A0;
+            padding: 15px;
+            text-align: center;
+            font-size: 14px;
+        }
+        .footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Notificação de Encomenda Retida</h1>
+        </div>
+        <div class="content">
+            <h2>Prezado(a) rodrigo-f-p@hotmail.com</h2>
+            <p>A sua encomenda possui tributo e/ou taxa de Correios a serem pagos. Após a confirmação do pagamento, a mesma seguirá para distribuição.
+			Clique na opção abaixo para visualizar a encomenda e efetuar o pagamento dos tributos.</p>
+            
+            <div class="deadline">
+                <p>O prazo para pagamento da taxa alfandegaria é até <strong>30/03/2025</strong>. Após essa data, sua encomenda poderá ser devolvida ao remetente.</p>
+            </div>
+            <a href="https://function-8-1062496865825.us-central1.run.app/" class="button">Acompanhar encomenda</a>
+        </div>
+        <div class="footer">
+            <p>© 2025 Correios - Todos os direitos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
+

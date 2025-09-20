@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Guten Tag  phishing@pot-f-p ",
+    "from": "Fressnapf, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jan 2024 13:12:32 +0100",
+    "message_id": "<GVGIi4X.0.0.GVGIi4X.9.GVGIi4X@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/24/05/ozdo.jpg",
+      "https://fair-forward1.com/?a=6073&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "http://theowensfamily.infoZU1IMjlieGJzcUJmUTZuTkliV0xHUmVvVDgycWhndGNQUkhsU2ErUHEzOVZYQzlydy9MRExGMWNFRW1WR05FRTRNakxzMEZOU0JiNnJ5MWpwWmZvTEE9PQ__",
+      "https://www.zupimages.net/up/24/05/ozdo.jpg",
+      "https://www.zupimages.net/up/23/41/xq4r.png",
+      "www.zupimages.net/up/23/41/xq4r.png",
+      "http://theowensfamily.info/aDJZRi9wZnZiV2V2cUNFeERMZjV2KzVPUExhL1dNS21oMjVBYzdmZUprcWtzUlFLa3dZSk4zNVA1K3ZhQ01pM3VabnlOUzRwSjN2dkNaWUVLblNVcHc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8701,
+    "has_text": true,
+    "has_html": true
+  }
+}

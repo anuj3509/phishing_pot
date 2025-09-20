@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "BLUR: Claim Your Rewards Before Blur's Season 2 Ends",
+    "from": "Final Reminder <hello@punchworks.com>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Thu, 19 Oct 2023 01:58:19 +0000",
+    "message_id": "\r\n\t<0107018b45a7b187-4598658e-7003-4489-9e37-98e206962b75-000000@eu-central-1.amazonses.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"_005_0107018b45a7b1874598658e700344899e3798e206962b75000000e_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"_005_0107018b45a7b1874598658e700344899e3798e206962b75000000e_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "screenshot-2023-06-09-at-18-27-30.png",
+      "https://www.as-media.rs/maljet",
+      "screenshot-2023-06-09-at-16-30-54.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1385,
+    "html_length": 5822,
+    "has_text": true,
+    "has_html": true
+  }
+}

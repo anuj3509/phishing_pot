@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot votre bon d'achat Leclerc est pr��t !",
+    "from": "Bon d'achat, Office, <support@uship.fr>",
+    "to": "phishing@pot",
+    "date": "Tue, 21 Nov 2023 23:50:36 +0000",
+    "message_id": "<pdmtf68.ocawb.7iz.7iz@qtqipuhmrajudqn.qcw>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/23/32/9c9b.png",
+      "www.zupimages.net/up/23/32/9c9b.png",
+      "http://kiteforfriends.eu/op/3482_md/4049/25192/1140/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5v16s1v65s16vs51d6v51s5d1v65s1dv511v.html#oop/3482_md/4049/25192/1140/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1338499/5v16s1v65s16vs51d6v51s5d1v65s1dv511v.html#cl/3482_md/4049/25192/1140/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1917,
+    "html_length": 10292,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "T6WERSHOP\r\n <2yrdqy5lqi@auisystems.co.uk>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jul 2024 08:52:07 +0000",
+    "message_id": "\r\n <bd3e8c63-10c4-4a8a-88bf-7d3456064256@DB1PEPF000509F2.eurprd02.prod.outlook.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.t6wer.pw",
+      "www.t6wer.io",
+      "https://s.id/24dHj"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 108,
+    "html_length": 2855,
+    "has_text": true,
+    "has_html": true
+  }
+}

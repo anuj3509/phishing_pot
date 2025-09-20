@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "1.000��� Media Markt Gutschein!",
+    "from": "Mediamarkt, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Sep 2023 18:18:15 +0200",
+    "message_id": "\r\n <a9ed5a1b-2790-42b9-9439-0d8bdef9e9c7@VE1EUR01FT049.eop-EUR01.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://easilett.com/cl/186_md/31/2/40/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/oop/186_md/31/2/40/23/2459859",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "http://easilett.com/media/563b39f6cf852b8.jpg",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5964,
+    "html_length": 14105,
+    "has_text": true,
+    "has_html": true
+  }
+}

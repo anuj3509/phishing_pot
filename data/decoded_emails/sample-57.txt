@@ -1,0 +1,147 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sua Fatura Digital Chegou!
+From: "NET" <regina_imperial@ig.com.br>
+To: phishing@pot
+Date: 19 Sep 2022 22:51:10 +0000
+Message_Id: <20220919225110.44E51AC1A15@skyler0011.ig.correio.biz>
+Content_Type: multipart/mixed;
+ boundary=--boundary_40006_c30fdfa6-8ab7-4ccf-b02e-24ee3b314767
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+ boundary=--boundary_40006_c30fdfa6-8ab7-4ccf-b02e-24ee3b314767
+
+ATTACHMENTS:
+--------------------
+- fatura.pdf (image/jpeg, 112151 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://ci5.googleusercontent.com/proxy/F7Udt2EhiF-6ICElClHTAChWdxYdB6bIcRMDkuj9pyt44lIroPVTQM5roWjMFd7UFKx0h38BzxLiRopskGcAwlspzoOCwyvY11RO1rsuVVBz4Pc=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_mid.png)
+  - https://ci4.googleusercontent.com/proxy/GEQmGtgYD63LzAtSO1JTM9Ce8AcF6Lt7tB9pVk1M7bnGrrPS9Hd0xNvdA9GTenGIplV_Z5NMqadNPeI_WN6HeORXC0U7Xw4Dsx4oxdA6PHinrBM=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_top.png)
+  - https://www.google.com/url?q=https://notifications.google.com/g/p/AD-FnEy-RAv1KTA2pOaZzw5--E6WzVZmkiEuqPgcV5Mt8OMXx09uelnMvq6IKud5Q2yrdOc5_t3hArE8UPrBcmvIwlKNYg&amp;source=gmail&amp;ust=1653867632728000&amp;usg=AOvVaw1OC2wO6z5j-ZtC2tBsT_5R
+  - https://ik.imagekit.io/qqjh20y7pt6/logo-claro-net-unificados-removebg-preview_21GJTW-yk.png
+  - https://ci4.googleusercontent.com/proxy/ROJvg97i4gKdKkg_XgP1GYfkMzThkDwkBwyQMEtbkSFioXGn02x-k0W55yCUeN4fnVJoMepLFcShFr3v6b7jCV6WIvW_6bD6cRNQB_yQlGyRYNh8OQw=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_bottom.png)
+  - https://ik.imagekit.io/qqjh20y7pt6/182b08f5c1566f5083ef3170e580d79a_6d68ICvGN.png
+  - https://ik.imagekit.io/qqjh20y7pt6/unnamed__2__LwVN5GRam.png
+
+DECODED TEXT CONTENT:
+------------------------------
+&nbsp; Prezado(a), A sua fatura NET acaba de chegar e para visualizar todos os detalhes basta abrir o documento anexado neste e-mail. Segue abaixo um resumo com as principais informações. E fique tranquilo, o seu pagamento em débito automático já está agendado . Código do cliente: 246758415 Vencimento: 25/09/2022 Total a pagar R$ 201,50 &nbsp; E para facilitar ainda mais o seu dia a dia, acesse sempre que quiser assuntos financeiros, técnicos e sobre seus produtos na Minha NET . Aviso Mantenha seu cadastro sempre atualizado na Minha NET , para garantir o recebimento de sua fatura por e-mail. &nbsp; © 2022 Claro. Todos os direitos reservados.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div class="adn ads" data-legacy-message-id="1810c82772d236b9" data-message-id="#msg-f:1734105928293299897">
+<div class="aju">
+<div class="aCi">
+<div class="aFg" style="DISPLAY: none"></div></div></div>
+<div class="gs">
+<div class="gE iv gt"></div>
+<div id=":1sf">
+<div class="qQVYZb"></div>
+<div class="utdU2e"></div>
+<div class="lQs8Hd" jscontroller="i3Ohde" jsaction="SN3rtf:rcuQ6b"></div>
+<div class="btm"></div></div>
+<div>
+<div class="aHl"></div>
+<div tabindex="-1" id=":1t3"></div>
+<div id=":1uk" class="ii gt" jslog="20277; u014N:xr6bB; 4:W251bGwsbnVsbCxbXV0.">
+<div id=":1uj" class="a3s aiL ">
+<div class="adM"></div>
+<div id="m_7352203205220177769gamma" style="FONT-SIZE: 14px; FONT-FAMILY: verdana; COLOR: #555555; LINE-HEIGHT: 21px" dir="ltr">
+<div class="adM"></div>
+<div style="WIDTH: 590px">
+<div class="adM"></div>
+<div style="HEIGHT: 75px; WIDTH: 100%; BACKGROUND: url(https://ci4.googleusercontent.com/proxy/GEQmGtgYD63LzAtSO1JTM9Ce8AcF6Lt7tB9pVk1M7bnGrrPS9Hd0xNvdA9GTenGIplV_Z5NMqadNPeI_WN6HeORXC0U7Xw4Dsx4oxdA6PHinrBM=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_top.png) no-repeat; DISPLAY: block">
+<div class="adM"></div>
+<div style="PADDING-TOP: 30px; PADDING-LEFT: 50px; PADDING-RIGHT: 50px">
+<div class="adM"></div><a style="BORDER-TOP: transparent 4px solid; BORDER-BOTTOM: transparent 4px solid; DISPLAY: inline-block" href="" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://notifications.google.com/g/p/AD-FnEy-RAv1KTA2pOaZzw5--E6WzVZmkiEuqPgcV5Mt8OMXx09uelnMvq6IKud5Q2yrdOc5_t3hArE8UPrBcmvIwlKNYg&amp;source=gmail&amp;ust=1653867632728000&amp;usg=AOvVaw1OC2wO6z5j-ZtC2tBsT_5R"><img alt="" src="https://ik.imagekit.io/qqjh20y7pt6/logo-claro-net-unificados-removebg-preview_21GJTW-yk.png"></a></div></div>
+<div style="WIDTH: 100%; BACKGROUND: url(https://ci5.googleusercontent.com/proxy/F7Udt2EhiF-6ICElClHTAChWdxYdB6bIcRMDkuj9pyt44lIroPVTQM5roWjMFd7UFKx0h38BzxLiRopskGcAwlspzoOCwyvY11RO1rsuVVBz4Pc=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_mid.png) repeat-y; DISPLAY: block">
+<div style="PADDING-BOTTOM: 1px; PADDING-LEFT: 50px; PADDING-RIGHT: 50px">
+<div class="style1" style="BORDER-BOTTOM: #ededed 1px solid"></div>
+<p>&nbsp;</p>
+<div style="FONT-SIZE: 30px; TEXT-ALIGN: left; MARGIN: 20px 0px; LINE-HEIGHT: 36px">
+<div class="style1">Prezado(a),</div></div>
+<div style="TEXT-ALIGN: left">
+<div>
+<p>A sua fatura NET acaba de chegar e para visualizar todos os detalhes basta abrir o documento anexado neste e-mail.<br><br>Segue abaixo um resumo com as principais informações. E fique tranquilo, <strong>o seu pagamento em débito automático já está agendado</strong>.<br aria-hidden="true"></p></div>
+<div style="MARGIN-BOTTOM: 20px"></div>
+<div style="MARGIN-BOTTOM: 20px; TEXT-ALIGN: left"></div></div>
+<div>
+<div></div><span></span>
+<table role="presentation" style="WIDTH: 100%; MARGIN: 5px 0px">
+<tbody>
+<tr>
+<td style="FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-ALIGN: left; LINE-HEIGHT: 21px">
+<table cellspacing="0" cellpadding="0" width="486">
+<tbody>
+<tr>
+<td bgcolor="#e2e2e2" valign="top" width="484" align="center">
+<table cellspacing="0" cellpadding="0" width="93%" align="center">
+<tbody>
+<tr>
+<td bgcolor="#e2e2e2" height="75" valign="top" width="50%" align="left">
+<p><strong><span class="style2">Código do cliente:<br>246758415</span><br></strong></p></td>
+<td bgcolor="#e2e2e2" valign="top" width="50%" align="right">
+<p class="style2"><strong>Vencimento:<br>25/09/2022</strong></p></td></tr></tbody></table></td></tr>
+<tr bgcolor="#da291c">
+<td valign="top" align="center">
+<table cellspacing="0" cellpadding="0" width="90%" align="center">
+<tbody>
+<tr>
+<td height="2"></td></tr>
+<tr>
+<td valign="top" width="100%" align="center">
+<table cellspacing="0" cellpadding="0" width="100%" align="center">
+<tbody>
+<tr></tr>
+<tr>
+<td valign="top" width="50%" align="left">
+<p class="style3"><strong><font color="#ffffff">Total a pagar</font></strong></p></td>
+<td valign="top" width="50%" align="right">
+<p class="style3"><strong><font color="#ffffff">R$ 201,50</font></strong></p></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
+<div style="BORDER-BOTTOM: #ededed 1px solid"></div>
+<table role="presentation" style="WIDTH: 100%; MARGIN: 5px 0px">
+<tbody>
+<tr>
+<td style="FONT-SIZE: 14px; TEXT-ALIGN: left; LINE-HEIGHT: 21px; PADDING-RIGHT: 10px">
+<p>&nbsp;</p>
+<table role="presentation" style="WIDTH: 100%; MARGIN: 5px 0px">
+<tbody>
+<tr>
+<td style="FONT-SIZE: 14px; TEXT-ALIGN: left; LINE-HEIGHT: 21px; PADDING-RIGHT: 10px">
+<div align="left">E para facilitar ainda mais o seu dia a dia, acesse sempre que<br>quiser assuntos financeiros, técnicos e sobre seus produtos na<br><strong>Minha NET</strong>.</div></td></tr></tbody></table></td></tr></tbody></table>
+<div style="BORDER-BOTTOM: #ededed 1px solid"></div>
+<div style="BORDER-BOTTOM: #ededed 1px solid"></div>
+<div style="BORDER-BOTTOM: #ededed 1px solid"></div></div>
+<div style="FONT-SIZE: 10px; COLOR: #707070; MARGIN: 48px 0px 20px; LINE-HEIGHT: 15px"></div>
+<div style="MARGIN: 10px 5px; DISPLAY: inline-block">
+<table role="presentation">
+<tbody>
+<tr>
+<td aria-hidden="true" style="VERTICAL-ALIGN: top">
+<div style="MARGIN-TOP: 3px; MARGIN-LEFT: 8px"><img alt="" src="https://ik.imagekit.io/qqjh20y7pt6/182b08f5c1566f5083ef3170e580d79a_6d68ICvGN.png"></div></td>
+<td style="FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: #555555; LINE-HEIGHT: 18px">
+<div style="FONT-SIZE: 14px; MARGIN-BOTTOM: 8px; FONT-WEIGHT: bold; LINE-HEIGHT: 21px">Aviso</div>
+<div style="MARGIN-BOTTOM: 8px">Mantenha seu cadastro sempre atualizado na <strong>Minha NET</strong>, para garantir o recebimento de sua fatura por e-mail.</div></td></tr></tbody></table></div>
+<div style="BORDER-BOTTOM: #ededed 1px solid"></div>
+<div></div>
+<div style="FONT-SIZE: 10px; COLOR: #707070; LINE-HEIGHT: 15px">
+<div align="center">
+<p>&nbsp;</p>
+<p><img alt="" src="https://ik.imagekit.io/qqjh20y7pt6/unnamed__2__LwVN5GRam.png">© 2022 Claro. Todos os direitos reservados.</p></div></div></div></div>
+<div style="HEIGHT: 50px; WIDTH: 100%; BACKGROUND: url(https://ci4.googleusercontent.com/proxy/ROJvg97i4gKdKkg_XgP1GYfkMzThkDwkBwyQMEtbkSFioXGn02x-k0W55yCUeN4fnVJoMepLFcShFr3v6b7jCV6WIvW_6bD6cRNQB_yQlGyRYNh8OQw=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_bottom.png) no-repeat; DISPLAY: block"></div><img class="CToWUd" alt="" src="" width="3" height="1" jslog="138226; u014N:xr6bB; 53:W2ZhbHNlXQ.."></div>
+<div class="yj6qo"></div>
+<div class="adL"></div></div></div></div>
+<div id=":1tx" class="ii gt" style="DISPLAY: none">
+<div id=":1ty" class="a3s aiL "></div></div>
+<div class="hi"></div></div></div>
+<div class="ajx"></div></div>

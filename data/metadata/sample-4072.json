@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Achtung phishing@pot: Ihr Total AV-Abonnement läuft heute ab!",
+    "from": "\"Sicherheitsmitteilung\"  <secure@barkhanlobule.de>",
+    "to": "<phishing@pot@outlook.com>",
+    "date": "Tue, 17 Sep 2024 08:23:29 +0000",
+    "message_id": "<VYKyRrF4QAFxWtKhSe6hzKSvNb@email.amazonses.com>",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html;charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&name=small",
+      "https://t.co/lZgxiXEQTU",
+      "https://pbs.twimg.com/media/GUmOtbTWcAAJOyB?format=jpg&name=small",
+      "https://t.co/MG4irRnuRC"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1115,
+    "html_length": 7697,
+    "has_text": true,
+    "has_html": true
+  }
+}

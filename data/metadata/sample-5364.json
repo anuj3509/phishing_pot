@@ -1,0 +1,53 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Congrats! You���ve received an Home Depot reward!",
+    "from": "Home Depot Opinion Requested <noreply@theskimm.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 06 May 2025 21:25:35 +0000",
+    "message_id": "<078758418586135.3.BZR0241509626@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://qriEU8XQi53aG8NSfVgZqriEU.nutrigonow.info/4qriEU12677uoWo177lpquqdqsjv3761WESLSLHCUUXYHYH56526MZHQ1064X205",
+      "http://qriEU8XQi53aG8NSfVgZqriEU8XQi53aG8NSfVgZqriEU.nutrigonow.info/5qriEU12677uoWo177lpquqdqsjv3761WESLSLHCUUXYHYH56526MZHQ1064X205",
+      "http://qriEU8XQi53aG8NSfVgZqriEU8XQi53aG8NSfVgZqriEU.nutrigonow.info/6qriEU12677uoWo177lpquqdqsjv3761WESLSLHCUUXYHYH56526MZHQ1064X205",
+      "div.kl-row.colstack",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "http://www.w3.org/1999/xhtml",
+      "td.kl-img-base-auto-width",
+      "zupimages.net/up/24/43/cusl.png",
+      "div.mobile-only",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "table.mobile-only",
+      "div.kl-column",
+      "content-padding.last",
+      "http://EIbaCRkCGwLNqUt8XQi53aG8NSfVgZEIbaCRkCGwLNqUt.nutrigonow.info/track/3qriEU12677uoWo177lpquqdqsjv3761WESLSLHCUUXYHYH56526MZHQ1064X205",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5480,
+    "html_length": 20657,
+    "has_text": true,
+    "has_html": true
+  }
+}

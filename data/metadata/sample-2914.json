@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinnen Sie Testpaket im Gesamtwert von 250���",
+    "from": "Nutella-Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 22 Feb 2024 03:05:26 +0100",
+    "message_id": "<cljst6z.ajzmg.03g.03g@owzpsarjdapdegp.yjt>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/53891/hero1.png",
+      "http://viputtenweiler.com/op/6325_md/4049/24735/1296/143/149762",
+      "https://trk2.de/6maeogip",
+      "table.icons-inner",
+      "http://viputtenweiler.com/cl/6325_md/4049/24735/1296/143/149762",
+      "eu1-us1.ckcdnassets.com/448/creatives/53891/hero1.png",
+      "http://viputtenweiler.com/oop/6325_md/4049/24735/1296/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1423,
+    "html_length": 12472,
+    "has_text": true,
+    "has_html": true
+  }
+}

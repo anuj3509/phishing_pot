@@ -1,0 +1,155 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Important: Update Your Account to Meet New Compliance Standards
+From: Team Ripple <ripple@1803nyc.com>
+To: phishing@pot
+Date: Wed, 09 Oct 2024 23:04:18 +0000 (UTC)
+Message_Id: <lqe1W66GRReRoSz_q2_XuA@geopod-ismtpd-canary-0>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://i.imgur.com/U2Cm1uc.png
+  - https://ripple-regulatory.com/1c23045e8437dc9fc6fea06885ab88c3d74da15121b1dda56bb9d568893112a0
+  - http://url2232.1803nyc.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVUcrNqkjHwuUbQmCqEopzHANkzGAOJ-2FJNVY-2BSAd203LoX50VLh1TbO9YXqq9mWFeFucUI99ag9Vcr9sdcH40VRRTB6PGV6lOlTdo-2Fq12iVAm8zYReg4awc-2BaBJwAuDWwfcnhvXo-2F-2BNsDYCNmM3gRxltPNDYHv62z54DUdA6UFfAQryiahTpbl2mQZd1882-2BqM-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+/* General styles */ body { margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333; } table { border-spacing: 0; } td { padding: 0; } img { border: 0; } .container { width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; } .logo { text-align: center; padding: 20px; background-color: #f5f5f5; } .header { text-align: center; background-color: #007bff; color: #ffffff; padding: 20px; font-size: 14px; } .content { padding: 20px; font-size: 16px; line-height: 1.5; } .content p { margin-bottom: 20px; } .footer { text-align: center; padding: 20px; font-size: 12px; color: #999999; } /* Responsive styles */ @media (max-width: 600px) { .container { width: 100% !important; } .header, .content, .footer { padding: 15px !important; } } Important Notification Dear XRP Holders, Crypto Traders, and Ripple Fans, Following the recent SEC ruling concerning Ripple, it is important for all XRP holders and past investors to submit a Declaration of Acknowledgment. This is to ensure full compliance with updated legal and taxation regulations. Declaration of Acknowledgment By completing this declaration, you will help avoid any potential legal and tax-related complications in the future. We urge you to take action as soon as possible. Thank you for your continued support and understanding. &copy; 2024 Ripple | All rights reserved | Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style>
+        /* General styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        table {
+            border-spacing: 0;
+        }
+
+        td {
+            padding: 0;
+        }
+
+        img {
+            border: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+        }
+
+        .logo {
+            text-align: center;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+
+        .header {
+            text-align: center;
+            background-color: #007bff;
+            color: #ffffff;
+            padding: 20px;
+            font-size: 14px;
+        }
+
+        .content {
+            padding: 20px;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        .content p {
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 12px;
+            color: #999999;
+        }
+
+        /* Responsive styles */
+        @media (max-width: 600px) {
+            .container {
+                width: 100% !important;
+            }
+
+            .header,
+            .content,
+            .footer {
+                padding: 15px !important;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <table class="container" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <!-- Logo section -->
+        <tr>
+            <td class="logo">
+                <img src="https://i.imgur.com/U2Cm1uc.png" alt="Logo" width="150">
+            </td>
+        </tr>
+
+        <!-- Header section -->
+        <tr>
+            <td class="header">
+                <h1>Important Notification</h1>
+            </td>
+        </tr>
+
+        <!-- Content section (3 paragraphs) -->
+        <tr>
+            <td class="content">
+                <p>Dear XRP Holders, Crypto Traders, and Ripple Fans,</p>
+
+                <p>Following the recent SEC ruling concerning Ripple, it is important for all XRP holders and past
+                    investors to submit a Declaration of Acknowledgment. This is to ensure full compliance with updated
+                    legal and taxation regulations.</p>
+                    <a href="https://ripple-regulatory.com/1c23045e8437dc9fc6fea06885ab88c3d74da15121b1dda56bb9d568893112a0">Declaration of Acknowledgment</a>
+
+                <p>By completing this declaration, you will help avoid any potential legal and tax-related complications
+                    in the future. We urge you to take action as soon as possible.</p>
+
+                <p>Thank you for your continued support and understanding.</p>
+            </td>
+        </tr>
+
+        <!-- Footer section -->
+        <tr>
+            <td class="footer">
+                &copy; 2024 Ripple | All rights reserved | <a href="#">Unsubscribe</a>
+            </td>
+        </tr>
+    </table>
+<img src="http://url2232.1803nyc.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVUcrNqkjHwuUbQmCqEopzHANkzGAOJ-2FJNVY-2BSAd203LoX50VLh1TbO9YXqq9mWFeFucUI99ag9Vcr9sdcH40VRRTB6PGV6lOlTdo-2Fq12iVAm8zYReg4awc-2BaBJwAuDWwfcnhvXo-2F-2BNsDYCNmM3gRxltPNDYHv62z54DUdA6UFfAQryiahTpbl2mQZd1882-2BqM-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+
+</html>
+

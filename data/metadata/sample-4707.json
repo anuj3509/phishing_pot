@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, seu pedido esta aguardando.",
+    "from": "Correios <notifica@correios>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Jan 2025 04:34:01 +0000",
+    "message_id": "<62a26107-72e5-25a5-d4ca-1a2339c5e3cd@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "produtivos.Olhei",
+      "temer.Mas",
+      "OneStat.com,",
+      "https://juliodedansk.icu",
+      "www.dannen.comeinstein.html",
+      "www.nasonline.org"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 28016,
+    "html_length": 51200,
+    "has_text": true,
+    "has_html": true
+  }
+}

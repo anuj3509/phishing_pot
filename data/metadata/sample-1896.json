@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Your account has been flagged for unusual activity",
+    "from": "Outlook Support Team <social201711118@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Sat, 11 Nov 2023 01:50:15 -1000",
+    "message_id": "<wwhTYizMPBn5DRLSMM6lvBVAaGyuhTt8zK4Cf6JMI@fr3>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "unusual activity"
+    ],
+    "urls": [
+      "https://share.polymail.io/v1/z/b/NjU0ZjU5ZWRmZDQ4/E21j8oYD_hVgk38Y37G_IotPxvBM1yPIqp1eqToaJxtuMUJLYEB6BpUuzo-ORcNqPgMCY7QCu_IzuZOQIhNtAHvuhytLAgWPZHsNACj4khQifDVeGqQei8JI3AjnMDNHDmV3e6E3nst4fMJpo-2cTVMS7KOEUbnko7AUQh9O1sBthvPWX_x-n_EbkB5tRvzN3Ic68H_706IhMfaUx6PoiBdJXfDbQZfKvJ_d",
+      "https://i.imgur.com/bW0xBmr.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1084,
+    "html_length": 24148,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "TRIBUNAL REGIONAL DO TRABALHO DA 12ª REGIÃO - 1º GRAU",
+    "from": "INTIMAÇÃO <financeiro@diamantegelo.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Jan 2024 15:02:36 +0000",
+    "message_id": "<2024011215023606BA075B32$71E548C713@GUEST>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_736_4676_E776E646.76878760\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_736_4676_E776E646.76878760\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/91504a2470b6fbdd1f19e776b782c685-1705071757.51/a/91504a2470b6fbdd1f19e776b782c685/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/cdd77ab0e626dcc2382fd2bdde6e951a094d9f69",
+      "https://ms-live-access-8402316.fr-1.paas.massivegrid.net/microsoft/live/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 851,
+    "html_length": 2460,
+    "has_text": true,
+    "has_html": true
+  }
+}

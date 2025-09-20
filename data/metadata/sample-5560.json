@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Deine Belohnung wartet",
+    "from": "ADAC Belohnungen <support@cusipup.de>",
+    "to": "<phishing@pot@outlook.com>",
+    "date": "Thu, 17 Jul 2025 11:35:08 +0000",
+    "message_id": "<6SdmC11Rj0leC6EOGN74VCVoF5@email.amazonses.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "animate.min.css",
+      "pbs.twimg.com/media/GwDmNgvXsAMNTVY?format=png&amp;name=900x900",
+      "https://pbs.twimg.com/media/GwDmNgvXsAMNTVY?format=png&amp;name=900x900",
+      "https://visioninsights.info/cl/3990_md/404/29577/14/32/426936",
+      "https://insidechina.net/op/3990_md/404/29577/14/32/426936",
+      "style.css",
+      "https://visioninsights.info/un/3990_md/404/29577/14/32/426936"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 34,
+    "html_length": 1341,
+    "has_text": true,
+    "has_html": true
+  }
+}

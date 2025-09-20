@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "URGENT: Security Compromised - IMMEDIATE ACTION REQUIRED",
+    "from": "TrustWallet APP <trustshallet-arr@email.salonized.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Nov 2023 04:46:31 +0000",
+    "message_id": "<20231126044631.c9e625ddda9fc08e@email.salonized.com>",
+    "content_type": "multipart/mixed;\r\n boundary=\"d4cef7e05fd75a9a0cf7df96234a45525f50db89dd40c59cdc7cd668783d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=\"d4cef7e05fd75a9a0cf7df96234a45525f50db89dd40c59cdc7cd668783d\""
+  },
+  "attachments": [
+    {
+      "filename": "Appointment.ics",
+      "content_type": "text/calendar",
+      "size": 691
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/fqRq9hJ/Capture-d-e-cran-2023-11-18-a-21-30-13.png",
+      "https://url3875.outgrowmail.app/ls/click?upn=zLhiOfSI-2BxKeDttrkj5NvwTmnLmF6IjKGG9t3dse31pQ0cZv8HOLxL1rYOVnz8fgLYGNlreBbRjDDxq0ZJFCB9rL0uc-2FF2-2FsuqqhX5J2GJMP8DtYZlmwibxxEgmObOlXg5cQFw-2F84BtFlN6-2FGg6jpNq7Ltf4R-2BzT631XCc8lXK9mAyasTWgWZXccVkfyBz3qcPt9qb6v3z-2FyZzrwlcMneQGqgHRU6-2Bp1ypHZ5qLV8ZK3U7IPgC4fTagL-2F-2F-2F74oYr54dP27VUn4MvyAJ2u97LBdmI8n83DwDtP1OVxlttheE7PzMR3FUDKDOMw8xiaIklhnlZU7FYtfm1jnRtXGwrJw-3D-3D4uhk_LRmZwZTIHdvEbXw2vhgkxoKvU8eNingOpFq4zLf4YxG5DD2ZxB1vQJmtsoHuZgIJaWw9j7RDuVDzO6svjUbwK0mC67X-2F0b8JHxbmCfD1DP6fOfRLs7BhfAhKxpvlTt22unuVjihhkqXN9BxuHJGwbS-2Fky3m87wzazu2iL32Qm50OFKHiNzpHjB6KImkwlfDtzNl4hAa4Oj-2BjIWSnOdGeUaX-2Fva0tBbBpNnn2SGYv2Oc-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 60,
+    "html_length": 1697,
+    "has_text": true,
+    "has_html": true
+  }
+}

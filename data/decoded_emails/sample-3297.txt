@@ -1,0 +1,49 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Finish the process
+From: "support" <mfl@renaissance.edu.vn>
+To: phish@pot
+Date: 4 Jun 2024 21:28:23 +0300
+Message_Id: 
+ <SEZPR04MB75480BD3F3CD3D1F9693C00189F82@SEZPR04MB7548.apcprd04.prod.outlook.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://forms.gle/swApmnQazhy2iu3y9
+
+DECODED TEXT CONTENT:
+------------------------------
+Finish the process p { font-family: Arial; } Honored guest! Now your vacation is getting closer! https://forms.gle/swApmnQazhy2iu3y9 For booking confirmation kindly go through the form and complete the process otherwise your reservation will be annulled IMPORTANT: Please enter your reservation number into the form - 7097624592560
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><title>Finish the process</title>
+  <style>
+    p {
+      font-family: Arial;
+    }
+  </style>
+</head>
+<body>
+  <p>Honored guest! <br>
+<p>Now your vacation is getting closer! <br>
+<p>https://forms.gle/swApmnQazhy2iu3y9 <br>
+<p>For booking confirmation kindly go through the form and complete the process otherwise your reservation will be annulled  <br>
+<p>IMPORTANT: Please enter your reservation number into the form - 7097624592560</a></p>
+</body>
+</html>
+
+

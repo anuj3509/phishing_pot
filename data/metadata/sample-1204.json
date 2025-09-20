@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "PASSAGENS AEREAS com ate 50% de desconto no prazo de 72 horas!",
+    "from": "123Milhas <desconto123milhas@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 29 Aug 2023 04:45:22 +0000 (UTC)",
+    "message_id": "<20230829051254.EFD6258E34@jekpgt017-soimx-jekpgt017>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-east1-eastern-team-386404.cloudfunctions.net/diadospais123/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg==",
+      "https://123milhas.com/consultar-destinos",
+      "https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/milhasaeres/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg==",
+      "https://www.google.com/url?q=https://click.mercadopago.entregaemail.com/lqqsvn/XmiuiRLr&amp;source=gmail&amp;ust=1685031372324000&amp;usg=AOvVaw1y7rnWQZoO_Q4TvSj0ETBo",
+      "https://www.123milhas.com/50off",
+      "https://www.123milhas.com/consultar-destinos",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 404,
+    "html_length": 7683,
+    "has_text": true,
+    "has_html": true
+  }
+}

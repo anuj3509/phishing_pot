@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Your Sirius XM | Membership has Expired!",
+    "from": "Sirius XM <NEW_OFFRE_1_1847@hinata.coincaps.ai >",
+    "to": "<__LinkPDEXQWaZ6o@aol.com>",
+    "date": "Thu, 12 Sep 2024 17:25:18 +0000",
+    "message_id": "<ZF3lf1bGTw-Ct-Y9ADdP_4LKT.BsYZA6lHg-__Ip@FWJbYKPiwfLjlkBAbI3sUxUNHYr1nof46BPAjJBsTVp2JCyYfkecixVAdxeCRk9VvydlksnFnvowV5lmWXCDDxB.dcccd.edu>",
+    "content_type": "text/html; "
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; "
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "zupimages.net/up/24/37/ogr9.png",
+      "https://zupimages.net/up/24/37/ogr9.png",
+      "https://t.co/lQAaqLa3Co",
+      "https://t.co/bXKmjSr4Aw"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 149,
+    "html_length": 439,
+    "has_text": true,
+    "has_html": true
+  }
+}

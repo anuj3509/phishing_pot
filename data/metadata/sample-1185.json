@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "#rodrigofp: stETH Airdrop",
+    "from": "\"Airdrop@Lido-fi\" <AirdropLidofi2@mailbapp.onmicrosoft.com>",
+    "to": "rodrigofp <phishing@pot>",
+    "date": "Thu, 24 Aug 2023 08:40:12 +0000",
+    "message_id": "\r\n <WA1P291MB0433F3BF36B78FE4094C3F18A41DA@WA1P291MB0433.POLP291.PROD.OUTLOOK.COM>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_WA1P291MB0433F3BF36B78FE4094C3F18A41DAWA1P291MB0433POLP_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_WA1P291MB0433F3BF36B78FE4094C3F18A41DAWA1P291MB0433POLP_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "a.btn",
+      "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.w3.org/1999/xhtml",
+      "sis.Hi",
+      "g.Hi",
+      "https://click.pstmrk.it/3/linktta.com%2Fmod/ahc/vIGvAQ/AQ/4e6f9e50-8097-4f9d-b984-42138d95cfdd/1/Zz5MYGICMf?/44415718rodrigofp",
+      "ey.Hi",
+      "is.Let",
+      "ns.On"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 11089,
+    "html_length": 22103,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,106 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: O número de acompanhamento do atendimentoé WzyH7WIC
+From: Atendimento Bradesco - iktdti3q
+	<no-reply@333e7fc0-ef94-4d2b-9029-bf4453726262.us1.azurecomm.net>
+To: ronaldoalvesdasilvasilva1 <ronaldoalvesdasilvasilva1@hotmail.com>
+Date: Wed, 29 Jan 2025 00:25:45 +0000
+Message_Id: <202501290025.d6ef9d1effeb4eb5b8ea03c7d018e997-NVZWS5D4IFBVGRKNIFEUYLKQKJHUILRZGA2DMQSFIVATIQSBGY2DARRXHFCDMQRXGUZDSQRRHE2DOMSEIF6FG3LUOA======@microsoft.com>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://bradesmail1221646298.z22.web.core.windows.net/?I5hL2He
+
+DECODED TEXT CONTENT:
+------------------------------
+Bradesco - Cartões de Crédito body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f9f9f9; } .email-container { width: 100%; max-width: 600px; margin: 0 auto; background-color: white; border: 1px solid #e0e0e0; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { background-color: #ff0000; color: white; padding: 15px; text-align: center; font-size: 18px; font-weight: bold; } .content { padding: 20px; } .content p { margin: 15px 0; line-height: 1.6; color: #333; } .content a { color: #0000ee; text-decoration: none; font-weight: bold; } .footer { background-color: #ff0000; color: white; padding: 10px; text-align: center; font-size: 14px; } @media screen and (max-width: 600px) { .email-container { width: 100%; } } Bradesco S.A BRADESCO INFORMA: Identificamos uma transação suspeita em sua conta e por este motivo a sua chave de seguranca irá expira hoje! Regularize e evite futuros bloqueios em sua conta e cartoes, para regularizar imediatamente Clique aqui Suporte ao Cliente: 4004-6415 Bradesco S.A.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bradesco - Cartões de Crédito</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        .email-container {
+            width: 100%;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            border: 1px solid #e0e0e0;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            background-color: #ff0000;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 20px;
+        }
+        .content p {
+            margin: 15px 0;
+            line-height: 1.6;
+            color: #333;
+        }
+        .content a {
+            color: #0000ee;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .footer {
+            background-color: #ff0000;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            font-size: 14px;
+        }
+        @media screen and (max-width: 600px) {
+            .email-container {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <table class="email-container" cellspacing="0" cellpadding="0" border="0">
+        <tr>
+            <td class="header">
+                Bradesco S.A
+            </td>
+        </tr>
+        <tr>
+            <td class="content">
+<p><strong>BRADESCO INFORMA:</strong> Identificamos uma transação suspeita em sua conta e por este motivo a sua chave de seguranca irá expira hoje! Regularize e evite futuros bloqueios em sua conta e cartoes, para regularizar imediatamente <a href="https://bradesmail1221646298.z22.web.core.windows.net/?I5hL2He">Clique aqui</a></p>
+<p>Suporte ao Cliente: <a href="tel:4004-6415">4004-6415</a></p>
+            </td>
+        </tr>
+        <tr>
+            <td class="footer">
+                Bradesco S.A.
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

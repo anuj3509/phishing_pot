@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Looking for some company?",
+    "from": ": You have a new match <info@livingsocial.co.uk>",
+    "to": "<phishing@pot>, <phishing@pot@hotmail.com>",
+    "date": "Tue, 13 Sep 2022 23:54:58 +0200",
+    "message_id": "<VQwIvge.56629.779.ynG@10.65.66.101>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "i.imgur.com/fS1DdmM.jpg",
+      "https://esetupkeys.xyz/cl/11191_md/3/5012/5452/681/1190",
+      "http://esetupkeys.xyz/oop/11191_md/3/5012/5452/681/1190",
+      "http://www.w3.org/1999/xhtml",
+      "http://links.cpg.gp.digital/luoo/v1/TXJIaEFwMDAzRTdvOTJBNW5aRy9KMHJvYm9hV3pETVVvaGQ0bFltczV6Uy94T0MxSlNtRXBIMW5kNDZNbVdHY2tWTk5kM1UwNGxsNENHVkJNRkRNLzE2ajg0M1pxZU5vS0",
+      "https://i.imgur.com/fS1DdmM.png",
+      "http://esetupkeys.xyz/op/11191_md/3/5012/5452/681/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 130,
+    "html_length": 1795,
+    "has_text": true,
+    "has_html": true
+  }
+}

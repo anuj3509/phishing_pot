@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Fwd: A 500��� Kaufland Gutschein gewinnen..",
+    "from": "Exklusives Angebot, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 15 Dec 2023 15:29:49 +0100",
+    "message_id": "<KVZb3rl.0.0.KVZb3rl.9.KVZb3rl@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit ",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/22/44/vobb.png",
+      "https://fnnl-check.com/?a=6073&amp;oc=16237&amp;c=44378&amp;m=3&amp;s1=",
+      "http://kaufland.superkoran.info/bnQ3RjlqSWdhQ3BMTWhhTUswZmVQYjlGZjBhbDVlelR2dFgyUHVLNXR6OFdGNVVNM3ljNFFwYllVdysvejNKRDREUk54RWpmdVZobm0zekt5MnFXRWc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/49/6n99.png",
+      "https://www.zupimages.net/up/23/49/6n99.png",
+      "http://kaufland.superkoran.info/WG9aOWoxZVpIOFZwLzVwL2dnM2tLQ1VpeXpjTUc2bXFDWUtJWVFhU1Zhc1k3ZDdvVW5wQWZOM2tINWVxTkVNQzl6QnZRU1JERUR0dFp3cVI3TDJRUXc4TGx2NnhJN0ZQQ1JWcnlXVGN2bnc9",
+      "https://www.zupimages.net/up/22/44/vobb.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1661,
+    "html_length": 9973,
+    "has_text": true,
+    "has_html": true
+  }
+}

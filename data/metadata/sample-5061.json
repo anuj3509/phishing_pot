@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Action required: Update your Ledger device",
+    "from": "\"Ledger Live\" <support@ledgerlive.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 21 Feb 2025 20:47:48 -0800",
+    "message_id": "<3576428411896386317005@jpgroena>",
+    "content_type": "multipart/related; type=\"multipart/alternative\";\n\tboundary=\"----=_NextPart_001_6BD4_64004511.0D5259A5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related; type=\"multipart/alternative\";\n\tboundary=\"----=_NextPart_001_6BD4_64004511.0D5259A5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://updatewebsupport.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 775,
+    "html_length": 3523,
+    "has_text": true,
+    "has_html": true
+  }
+}

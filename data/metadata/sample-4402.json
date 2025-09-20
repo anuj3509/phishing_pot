@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Access Your stETH Allocation - Claim ID: 34245",
+    "from": "Lido <noreply@jofin.ai>",
+    "to": "phishing@pot",
+    "date": "Mon, 11 Nov 2024 12:20:11 +0000 (UTC)",
+    "message_id": "<20241111122011.091A0C3438EAE120@jofin.ai>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://u7687618.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUvbCrphxo-2BdeslksDldUTX4iXeCEAtrDp2OHyH8iyEgEZ6a41TVdMI6RWKzjFowGPPmRjVZ79cyjWsntGnd0H-2F5NDaseHK4Yb33hI83cShQ5c7hn4jrp8-2B57CzPwwM64MnjtEjkRm3zvooXZHm44D71pXzSOEUSeuwBELBtfdJ-2FD1WjFYqKhERyYv-2FjDOcEfA-3D",
+      "https://lidorewards.s3.us-east-1.amazonaws.com/index.html",
+      "https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 741,
+    "html_length": 3624,
+    "has_text": true,
+    "has_html": true
+  }
+}

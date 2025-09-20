@@ -1,0 +1,57 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: #59277786: PEPE Token Airdrop is Now Live
+From: PepeBinance <pepe2@o1su91b.onmicrosoft.com>
+To: "phishing@pot" <phishing@pot@hotmail.com>
+Date: Thu, 11 May 2023 15:23:24 +0000
+Message_Id: <BN7PR07MB45809F6C524CBF02A4564D2AEE749@BN7PR07MB4580.namprd07.prod.outlook.com>
+Content_Type: multipart/mixed;
+	boundary="_759ecf20-f2c7-4977-ba9d-2e237ce3160a_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_759ecf20-f2c7-4977-ba9d-2e237ce3160a_"
+
+ATTACHMENTS:
+--------------------
+- message_v2.rpmsg (application/x-microsoft-rpmsg-message, 19933 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://outlook.live.com/owa/?viewmodel=ReadMessageItem&amp;InternetMessageID=%3cBN7PR07MB45809F6C524CBF02A4564D2AEE749%40BN7PR07MB4580.namprd07.prod.outlook.com%3e
+  - o1su91b.onmicrosoft.com)
+  - https://go.microsoft.com/fwlink/p/?linkid=857875
+  - https://outlook.office365.com/Encryption/lock.png
+  - https://go.microsoft.com/fwlink/?Linkid=844050
+
+DECODED TEXT CONTENT:
+------------------------------
+PepeBinance (pepe2@o1su91b.onmicrosoft.com) has sent you a protected message. Read the message Learn about messages protected by Microsoft Purview Message Encryption. Privacy Statement Learn More on email encryption. Microsoft Corporation, One Microsoft Way, Redmond, WA 98052
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><table cellspacing="20px" width="600px" style="max-width:600px;">
+    <tr>
+        <td colspan="2" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:16px;line-height:18px;color:#505050;padding:15px;text-align:center;">
+PepeBinance (pepe2@o1su91b.onmicrosoft.com) has sent you a protected message.
+            <br><br><br><center>               <div><img src="https://outlook.office365.com/Encryption/lock.png" alt="lock"></div><br>               <div style="cursor:pointer;color:#ffffff;padding:10px;font-size:16px;max-width:240px;"><a href="https://outlook.live.com/owa/?viewmodel=ReadMessageItem&amp;InternetMessageID=%3cBN7PR07MB45809F6C524CBF02A4564D2AEE749%40BN7PR07MB4580.namprd07.prod.outlook.com%3e" style="text-decoration:none; color:#FFFFFF;background-color:#0078D4;padding-left:30px;padding-right:30px;padding-top:10px;padding-bottom:10px">Read the message</a></div><br></center>            <br><br><a href="https://go.microsoft.com/fwlink/?Linkid=844050" target="_blank" style="color:#0072C6;text-decoration:none;">Learn about messages protected by Microsoft Purview Message Encryption.</a>        </td>
+    </tr>
+    <tr style="background-color:#F4F4F4"><td colspan="2"><div><table>
+    <tr>
+        <td colspan="2" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:12px;color:#505050;text-align:left;">
+           <a href="https://go.microsoft.com/fwlink/p/?linkid=857875" target="_blank">Privacy Statement</a>        </td>
+    </tr>
+    <tr>
+        <td colspan="2" style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-size:12px;color:#505050;text-align:left;">
+             <br> <a href="https://go.microsoft.com/fwlink/?Linkid=844050" target="_blank">Learn More</a> on email encryption.             <br>Microsoft Corporation, One Microsoft Way, Redmond, WA 98052        </td>
+    </tr>
+</table></div></td></tr>
+</table>
+

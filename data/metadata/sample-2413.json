@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Sie sind zugelassen phishing@pot",
+    "from": "Volkswagen California, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 24 Dec 2023 21:35:10 +0100",
+    "message_id": "\r\n <a91305ce-ff7e-4fd2-a060-e9c176fc5aa9@VI1EUR05FT024.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://drivesafetohome.bio/oop/6159_md/31/82/147/23/2459859",
+      "oncf-voyages.ma",
+      "http://drivesafetohome.bio/cl/6159_md/31/82/147/23/2459859",
+      "http://drivesafetohome.bio/un/6159_md/31/82/147/23/2459859",
+      "http://drivesafetohome.bio/media/78a76994751b665.png",
+      "R.Meier,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5139,
+    "html_length": 20781,
+    "has_text": true,
+    "has_html": true
+  }
+}

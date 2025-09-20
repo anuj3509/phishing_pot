@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Spiderwiz] Login Details
+From: WordPress <wordpress@spiderwiz.org>
+To: <phishing@pot>
+Date: Tue, 27 May 2025 04:49:39 +0000
+Message_Id: <a409e9dbd27881cfcdef85668a018b5e@spiderwiz.org>
+Content_Type: text/plain; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.jygihc.blogspot.qa
+  - http://spiderwiz.org/project/wp-login.php?action=rp&key=8QPxXRgxbzyN2OLJUv6c&login=www.jygihc.blogspot.qa%20-%201.3409642%20BTC
+  - http://spiderwiz.org/project/wp-login.php
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.jygihc.blogspot.qa - 1.3409642 BTC
+
+To set your password, visit the following address:
+
+<http://spiderwiz.org/project/wp-login.php?action=rp&key=8QPxXRgxbzyN2OLJUv6c&login=www.jygihc.blogspot.qa%20-%201.3409642%20BTC>
+
+http://spiderwiz.org/project/wp-login.php
+
+
+

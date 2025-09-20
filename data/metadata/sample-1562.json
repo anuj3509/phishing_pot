@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Livelo Informa: Voce tem saldo disponivel para resgate expirando em breve!",
+    "from": "Bradesco <livelo@empresa250brdescorecompensa.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 11 Oct 2023 00:47:17 +0000 (UTC)",
+    "message_id": "<20231011012144.81B4014AA2D@urncwb849-bfzru-urncwb849>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/GpPrN0R/marcador.png",
+      "https://i.ibb.co/StnMdLc/logo.png",
+      "https://us-east4-stately-lodge-397720.cloudfunctions.net/blackexclusivo/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20NCg==",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1494,
+    "html_length": 7382,
+    "has_text": true,
+    "has_html": true
+  }
+}

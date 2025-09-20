@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "جزئیات ورود [موسسه علمی فرهنگی آفاق حکمت]",
+    "from": "WordPress <wordpress@afaghehekmat.ir>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 22 Jul 2025 18:44:30 +0000",
+    "message_id": "<SoPD6FNxc3CwgussOCIYZJAGa2JmvmdwkNuN9zZgEY@afaghehekmat.ir>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://afaghehekmat.ir/wp-login.php",
+      "www.khuiqd.blogspot.com",
+      "https://afaghehekmat.ir/reg-login/?action=rp&key=FzXpRjU1UmreQ8han5Yo&login=www.khuiqd.blogspot.com%20-%20BINANCE%20150%20072%20EURO"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 283,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

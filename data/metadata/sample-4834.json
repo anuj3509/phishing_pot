@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, sua entrega foi retida.",
+    "from": "Correios <contato@correios>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 11 Feb 2025 02:09:06 +0000",
+    "message_id": "<9c99e9be-300b-7024-74b1-f6bd3d7aeb13@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2902,
+    "html_length": 7106,
+    "has_text": true,
+    "has_html": true
+  }
+}

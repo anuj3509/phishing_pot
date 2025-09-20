@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Security Breach Disclosure",
+    "from": "Ledger <support@pepksa.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 20 Jul 2025 00:32:18 +0000 (UTC)",
+    "message_id": "<-idXxQOvQwKmtcEAKorvkg@geopod-ismtpd-13>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u7671883.ct.sendgrid.net/ls/click?upn=u001.SSCyc-2Bxnrmuj4JwRlFVym-2BUtaNsaN0VFWBot4AJpzDil3O0InZAlty8gRbtuoZB0WxbwKygJHaMLcuJdUxJwYZ3K-2FcB8HoYDLmaBvZE8R8SXG2DwY90lHjJHD2bRAE9dyY8lZ9JIIH77m3VD-2Fw3nk0bx-2BBhJwpCkO2CkDOx-2FbLDeqZXBi4Bz93LKrG0zSDIum7aR-2BvrLJBewC9yf23h5VLg-2Bv6Fm7-2FXppmcQn3HE-2BeqgcatH1v-2FN86iWw7bYQ55IXzhYKPFhskBkTS8HyN63lKVy1VTUN6sJH6yBkAX045-2FATl8LwpPdQtdLBdoErowWUXU9phLBokxvBg43By-2BgPDrFp0TYIDoETp-2FveuUqcGCq2mH212ZlKmVk0LqyeVvoW2PFxbz2dgBGpqbmmTv5XqnAD-2BBEv7Ult-2Fn7djoztc1hl7s0xwBM0QDBldmLWBaWM-2BVKYthvjXraPLH9-2B8e76OgADEaMrP00ITGcfOUFig2r-2FMbM7Qv2nBYcT5SAFQgUFaCt-2Brk7t0Y5W59SCImQeg-3D-3DRPXc_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdctEuU8ulOnf0a5t26OSuC4xTcnMeNeAfWRa6JxSSjoDfcM7t7YLC5wQ1WfQe-2B-2B3dsqQtQTJBi-2BG3-2BpQ4q3izi6bO134bcZetyJVGQlgDWGrVrXH9ireX5KkcZ8DJ2N-2FteuNXW9VXF9dGKeJi3lPMIaXxcfguC6s77fhgikecrGXvg-3D-3D",
+      "https://u7671883.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUOdMR5DbsotjLnaCIXWXyEprzq2kURVb0iit2-2Bty9iCh08wuSNJAdGt9yj6pRWGp2Ih8RV-2BtbQV7fe5FC4-2FIF5xsLbtys8Je0sHt0ewtz5xiYN1OeJKy8FJjyNFz8Uhhva1diBzIJdIe3e2RC6NCrT9YM8OkUGSzqjINZHn1g75bqrr-2Bk85eQrdp3sTGHK3d8-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1441,
+    "html_length": 4824,
+    "has_text": true,
+    "has_html": true
+  }
+}

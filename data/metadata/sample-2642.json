@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "No te lo pierdas: ��consigue Amazon Prime!",
+    "from": "\" streaming service \", <message@my.zalando.es>",
+    "to": "phishing@pot",
+    "date": "Fri, 19 Jan 2024 17:01:39 +0100",
+    "message_id": "<rqtxm3x.a3hfy.tzq.tzq@holzqub8k.01.ma>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://jfhdh.chickenkiller.com/aGw4bmhtUkZTbW9zam96VWU4QmpvdGJxcmVCUGRvL0htbzdXV05Bc3NuY2lvOVJnTE5TT2ExanRaQW5NUHRDUVZGSHN5NHlMSng4blA1QUczbE5QeTczc3JNeFdlNE9CZFBnOHVLS1MxQUhGYVVsOXpBdjNMaXNzSTZ5QjdMU3E_",
+      "https://i.imgur.com/ntFLF1B.jpg",
+      "a.mcnButton{",
+      "i.imgur.com/ntFLF1B.jpg",
+      "http://jfhdh.chickenkiller.com/UEdqbUdIb2ttTzNQalZ4aU5YR3g3MmJFVTVTQ3dMZE1TYlRnTG9lRVBHZlpPS01ubnNRa2VMZnRIQ3pCWXFHa2FyVmlJQkNvTWxCSUZiNURmTGxXM0xKbU43VkYvOFN5bmN6UUY5T2dnMllzZG9kVDhjQkE1REpHWUkra1c0RWY_",
+      "i.imgur.com/T0A21w7.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://jfhdh.chickenkiller.com/ajlyYzYrckFLK1V4YVN0eVlnRmVnRk9hSVBuUmRVekhnRHh6YTU2cTRoWG4xMERXeWtLUURPYTdDejdLc09JcWF5NjF2aXhDN1Jxd1g3NXBWcldVT2FHbERqSFJGOU5BZWtEKzFkcm9YdythZXI4am5ta25OK0NzeGlYOWZ1d2M_",
+      "https://i.imgur.com/T0A21w7.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 14235,
+    "html_length": 28640,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Bom dia",
+    "from": "khan Faizullah<travel@tedulous.com>",
+    "to": "phishing@pot",
+    "date": "4 Aug 2024 12:46:20 +0100",
+    "message_id": "<20240804124619.815BB04C39C71FB2@tedulous.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3050,
+    "html_length": 3330,
+    "has_text": true,
+    "has_html": true
+  }
+}

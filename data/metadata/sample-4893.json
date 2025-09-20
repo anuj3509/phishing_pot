@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Você possui pedidos aguardando taxa de recolhimento da fiscalização alfandegária!",
+    "from": "Pedido Correios <encomenda379635@correios>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 17 Feb 2025 10:03:37 +0000",
+    "message_id": "<af318ff6033da804db378d7a82fda28f@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_af318ff6033da804db378d7a82fda28f\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_af318ff6033da804db378d7a82fda28f\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-2-1062496865825.us-central1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3614,
+    "has_text": true,
+    "has_html": true
+  }
+}

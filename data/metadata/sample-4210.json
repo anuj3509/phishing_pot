@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Pedido bloqueado pela alfandegaria. Protocolo:4939946166",
+    "from": "Pedido Taxado <taxasalfandegaria@%pedidos.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 17 Oct 2024 20:23:09 +0000 (UTC)",
+    "message_id": "<20241017202309.69A2B3F67F@static.102.199.181.135.clients.your-server.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://69.247.109.208.host.secureserver.net/bc1/?4813872340",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 360,
+    "html_length": 1479,
+    "has_text": true,
+    "has_html": true
+  }
+}

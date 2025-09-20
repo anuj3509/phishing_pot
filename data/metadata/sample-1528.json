@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <angebote@newsletter.baur.de.>, Fressnapf\r\n Gutschein, <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 07 Oct 2023 16:12:34 +0200",
+    "message_id": "<jToLay3.0.0.jToLay3.9.jToLay3@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://is.gd/f9Bv2L",
+      "https://is.gd/vrFPrk",
+      "mTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy-mTxaNVP.53652.219.AsymTxaNVP.53652.219.Asy",
+      "http://www.w3.org/1999/xhtml",
+      "http://webdizajn.info/bmhrbGV6ZWJ4a2dRVWM3Q0pZYldDRi9kQ0xlaE83TVFLb3FZbEFTTXF6SC9pai8vS0hEVE9PUVFmenoyU2VaUmpLcDRZeXFaY3FmMEZFSG5GVGk3V3c9PQ__",
+      "https://is.gd/ZGDzOh",
+      "is.gd/vrFPrk"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2106,
+    "html_length": 4811,
+    "has_text": true,
+    "has_html": true
+  }
+}

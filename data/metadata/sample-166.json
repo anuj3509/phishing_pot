@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Order Confirmation",
+    "from": "\"Your Order #6541\" <wiserdeeter932@gmail.com>",
+    "to": "\"Dear Customer\" <phishing@pot>",
+    "date": "Wed, 14 Dec 2022 23:57:32 +0530",
+    "message_id": "<04acb7ea-44909-0daa9989049653@desktop-262lfdv>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.icons-inner",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/908967_893285/editor_images/5753473d-ebc9-4cbb-9697-fb137f027349.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1784,
+    "html_length": 24047,
+    "has_text": true,
+    "has_html": true
+  }
+}

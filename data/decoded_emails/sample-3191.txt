@@ -1,0 +1,69 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: PROPOSTA EXCLUSIVA AMIL - Consulte a tabela promocional com até 40% de economia
+From: "Ana Santos - Corretora Amil" <contato@cp.meucorretoronline.com>
+To: phishing@pot
+Date: Fri, 12 Apr 2024 10:50:03 -0300
+Message_Id: 
+ <0SBU00CG413G0XW0@rmta-ad1-fd2-102-us-ashburn-1.rmtaad1.vcndpiad.oraclevcn.com>
+Content_Type: Multipart/alternative; boundary="02532756_2F5BE0DD_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="02532756_2F5BE0DD_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - go.planodesaude-2.com?subject=Gostaria%20de%20receber%20o%20link%20exclusivo&amp;body=Ol%C3%A1%2C%0D%0A%0D%0APara%20receber%20o%20link%20de%20cota%C3%A7%C3%A3o%20com%20a%20tabela%20promocional%202023%20atualizada.%0D%0AEnvie%20este%20e-mail.%0D%0A%0D%0AAtenciosamente%2C%0D%0AAna%20Santos%20-%20Corretora%20Amil
+  - ct.e-compara.com?subject=Sair&amp;body=Desejo%20parar%20de%20receber
+
+DECODED TEXT CONTENT:
+------------------------------
+plcmntchckr-xUzdrVWjnyZtbIS body{margin:0;padding:0;} &nbsp; &nbsp; Condição especial no plano Amil Saúde , preços até 40% menores. Insatisfeito(a) com a rede e/ou preço do seu Plano de Saúde? Aproveite a campanha promocional com até 40% de economia *&nbsp;Tabela promocional de preços 2023 ATUALIZADA Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência zero do seu plano individual, familiar ou empresarial. Ainda não tem um plano de saúde? *Tenha cobertura dos procedimentos de&nbsp;urgência e de emergência, 24 horas após vigência do seu plano. essa é sua oportunidade! O mais aceito do Brasil, tenha acesso aos melhores hospitais e clínicas com cobertura nacional. Faça sua simulação é&nbsp; GRÁTIS E SEM COMPROMISSO receber cotação Parar de receber.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>plcmntchckr-xUzdrVWjnyZtbIS</title>
+	<style type="text/css">body{margin:0;padding:0;}
+	</style>
+</head>
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style="width: 550px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p style="font-size: 18px;">&nbsp;</p>
+<p style="font-size: 18px;"><span style="color: #0000ff;">Condição especial no plano <span style="color: #0000ff; font-size: 18pt;"><strong>Amil Saúde</strong></span>, preços até 40% menores.</span><br>Insatisfeito(a) com a rede e/ou preço do seu Plano de Saúde?<br><br><strong>Aproveite a campanha promocional com até 40% de economia</strong><br>*&nbsp;Tabela promocional de preços 2023 ATUALIZADA<br><br>Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência zero do seu plano individual, familiar ou empresarial.</p>
+<p style="font-size: 18px;"><strong>Ainda não tem um plano de saúde?</strong><br>*Tenha cobertura dos procedimentos de&nbsp;urgência e de emergência, 24 horas após vigência do seu plano. essa é sua oportunidade!<br><br>O mais aceito do Brasil, tenha acesso aos melhores hospitais e clínicas com cobertura nacional.</p>
+<p style="font-size: 18px;">Faça sua simulação é&nbsp;<strong>GRÁTIS E SEM COMPROMISSO</strong></p>
+<p style="text-align: center;"><a style="display: block; background-color: #ff9900; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="mailto:seuplano@go.planodesaude-2.com?subject=Gostaria%20de%20receber%20o%20link%20exclusivo&amp;body=Ol%C3%A1%2C%0D%0A%0D%0APara%20receber%20o%20link%20de%20cota%C3%A7%C3%A3o%20com%20a%20tabela%20promocional%202023%20atualizada.%0D%0AEnvie%20este%20e-mail.%0D%0A%0D%0AAtenciosamente%2C%0D%0AAna%20Santos%20-%20Corretora%20Amil"><span style="font-size: x-large;">receber cotação</span></a></p>
+</td>
+</tr>
+<tr>
+<td style="border-top: 1px dotted #6d6d6d;" height="80">
+<p style="font: normal 14px 'Arial',sans-serif; text-align: center; color: #6d6d6d;"><span style="font-size: x-small;"><span style="font-size: small;"><br><br></span></span><span style="font-size: small;"><br><br><br><a href="mailto:contatoo@ct.e-compara.com?subject=Sair&amp;body=Desejo%20parar%20de%20receber">Parar de receber.</a><br></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

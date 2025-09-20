@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Seus 362.137 Pontos Expiram em 12/02/2023  - ID W1FNZZWHWQ",
+    "from": "Comunicado Livelo BB <070425@sac-livel1.unidadedosestadosdobrfeliz.tech>",
+    "to": "phishing@pot",
+    "date": "Tue, 7 Feb 2023 17:29:29 +0000",
+    "message_id": "<db237bbaee3198b95d2723ea84f00347@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_db237bbaee3198b95d2723ea84f00347\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_db237bbaee3198b95d2723ea84f00347\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://static.pontoslivelo.com.br/content/img/emkt/template/header/v2/bb_varejo.jpg",
+      "http://App1.liveloclube.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6911,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Reminder: Customer Payment Needed #oo2oyj6dku6kdhekfc84exnta",
+    "from": "Deutsche Service <benjamin@chamrousseweb.info>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Sep 2023 23:05:27 +0000",
+    "message_id": "<EPJGOUVBFYTC.MUWZMNILVOEXO@AECYRDIGUMBRDOB>",
+    "content_type": "multipart/alternative; boundary=\"=-21wldutT9V83buaPom6Zdt==\"\r\n\t\t"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-21wldutT9V83buaPom6Zdt==\"\r\n\t\t"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://kziwxids.page.link/cK9EhcMUkE8scup88"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1900,
+    "html_length": 27961,
+    "has_text": true,
+    "has_html": true
+  }
+}

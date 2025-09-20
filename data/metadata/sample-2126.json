@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Finden Sie Ihre ��bereinstimmung!",
+    "from": "Reifefrauen, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Dec 2023 18:34:53 +0100",
+    "message_id": "\r\n <6f87ffd7-db97-41f0-b79d-3f69800dc2bc@MW2NAM10FT086.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://static.wixstatic.com/media/7a10f5_b22e9acc4fa648d985d08138758cc79b~mv2.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "static.wixstatic.com/media/7a10f5_b22e9acc4fa648d985d08138758cc79b~mv2.jpg",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=Kt1fUVM10JQqR8vJS1j1DQdvBuDuMrklt9qVe7pMOjE.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiIzYjgwNzI2ZC0wYWE5LTQyNGItYTVjMy01YjEwNDRkNWE0MWQiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#oop/4472_md/2009/89/77/23/2459859",
+      "https://shoutout.wix.com/so/08OmwwW4l/c?w=Kt1fUVM10JQqR8vJS1j1DQdvBuDuMrklt9qVe7pMOjE.eyJ1IjoiaHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL2tidWNldG5ldy9oc2hzaGhzc2hoc2hzaHMuaHRtbCIsInIiOiIzYjgwNzI2ZC0wYWE5LTQyNGItYTVjMy01YjEwNDRkNWE0MWQiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ#cl/4472_md/2009/89/77/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5252,
+    "html_length": 10752,
+    "has_text": true,
+    "has_html": true
+  }
+}

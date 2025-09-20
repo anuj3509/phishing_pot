@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Kit completo de Segurança. Diversos dispositivos para evitar assalto.",
+    "from": "\"Verisure Acompanha\" <envio@panfletovirtual.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 09 Mar 2023 00:33:32 +0000",
+    "message_id": "<ddde6fea8918cf527e55359c242fbaf6@www.petrolinadigital.com.br>",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_e822b83864fcc61a6cc592fcadc5fc99\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; charset=\"UTF-8\"; boundary=\"b1_e822b83864fcc61a6cc592fcadc5fc99\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.petrolinadigital.com.br/VT2021/open.php?M=60318973&amp;L=188&amp;N=10024&amp;F=H&amp;image=.jpg",
+      "https://www.petrolinadigital.com.br/VT2021/link.php?M=60318973&amp;N=10024&amp;L=18530&amp;F=H",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/1.png",
+      "https://www.verisure.com.br/sites/br/files/2022-08/14.jpg",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/ico_camara.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/logo1.png",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/ico_sirena.png",
+      "https://www.petrolinadigital.com.br/VT2021/vaza.php?M=60318973&amp;C=68c8ec7cd02b4011e031b94835c78265&amp;L=188&amp;N=10024",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/banner4-1.jpg",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/03_40off.png",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/ico_reloj.png",
+      "https://clienteverisure.com.br/afiliados/202208/imghtml/40off.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 75,
+    "html_length": 11182,
+    "has_text": true,
+    "has_html": true
+  }
+}

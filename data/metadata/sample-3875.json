@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Please Claim Your Token From Lido",
+    "from": "Lido Finance <support@namtelecom.co.th>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Sat, 31 Aug 2024 20:28:39 +0000",
+    "message_id": "<VG49434Z4G5_66d37cf739eb3_51391c930428_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_66d37cf7514c5_51391c93059a\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_66d37cf7514c5_51391c93059a\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lido.fi/help",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=36ae2ea64a60ef20JmltdHM9MTcyNDI4NDgwMCZpZ3VpZD0zN2IzYzI2Yi0xOWZmLTZhYmMtMGRjNy1kNmEwMTg5ODZiZjcmaW5zaWQ9NTUzOQ&amp;ptn=3&amp;ver=2&amp;hsh=3&amp;fclid=37b3c26b-19ff-6abc-0dc7-d6a018986bf7&amp;psq=paragontechno.com&amp;u=a1aHR0cHM6Ly9wYXJhZ29udGVjaG5vLmNvbS9zZXJ2aWNlcy8&amp;ntb=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 811,
+    "html_length": 2812,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,258 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Hallo phishing@pot,
+From: Xmas Deal, <service@stayfriends.de>
+To: phishing@pot
+Date: Thu, 21 Dec 2023 01:03:13 +0100
+Message_Id: <A4zcIz9.0.0.A4zcIz9.9.A4zcIz9@newsletter.baur.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=
+  - http://superkoran.info/NkNpOU96bklLNlhaS01TNTRZQnE4ZC94Z3R5SVpDZkRDbWZWM2MwWUpsSkxZcGNJZFB4UEdYMVowcEdrYWsrNjhPbjZ6Z2lhWm5WSTdGU2Y2cHFTYUE9PQ__/Z1ZWWmEvWkJSQm0zeElDbjd3ZGZqUzNJUlI0ckZYL01pMWFzVHZNTFA1TkRNelV1UGNCWlYzaForNjQwcnp2MXBLRWZnYmNBT1pvZngvT0NCUFVmNDFBQkwyb2pGajdYQWtFRHBHSWE4Z0E9
+  - table.icons-inner
+  - https://www.zupimages.net/up/23/51/u7ll.jpg
+  - https://fnnl-check.com/?a=6073&oc=19636&c=53095&m=3&s1=
+  - www.zupimages.net/up/23/51/u7ll.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+MediaMarkt 96 * { box-sizing: border-box; } body { margin: 0; padding: 0; } a[x-apple-data-detectors] { color: inherit !important; text-decoration: inherit !important; } #MessageViewBody a { color: inherit; text-decoration: none; } p { line-height: inherit } .desktop_hide, .desktop_hide table { mso-hide: all; display: none; max-height: 0px; overflow: hidden; } .image_block img+div { display: none; } @media (max-width:620px) { .desktop_hide table.icons-inner { display: inline-block !important; } .icons-inner { text-align: center; } .icons-inner td { margin: 0 auto; } .row-content { width: 100% !important; } .stack .column { width: 100%; display: block; } .mobile_hide { max-width: 0; min-height: 0; max-height: 0; font-size: 0; display: none; overflow: hidden; } .desktop_hide, .desktop_hide table { max-height: none !important; display: table !important; } } MediaMarkt Ist diese E-Mail nicht richtig lesbar? Hier geht es zur Online Version » Hallo phishing@pot, Sie sind einer unserer möglichen Finalisten für einen Technik-Einkaufsgutschein bei MediaMarkt im Wert von 500 Euro! Den Gutschein schicken wir, direkt zu Ihnen nach Hause. Bitte bestätigen Sie nur noch folgende Angaben: Vorname: phishing@pot Jetzt mitmachen! click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="de-DE"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>MediaMarkt</title>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"><!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: inherit !important;
+		}
+
+		#MessageViewBody a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		p {
+			line-height: inherit
+		}
+
+		.desktop_hide,
+		.desktop_hide table {
+			mso-hide: all;
+			display: none;
+			max-height: 0px;
+			overflow: hidden;
+		}
+
+		.image_block img+div {
+			display: none;
+		}
+
+		@media (max-width:620px) {
+			.desktop_hide table.icons-inner {
+				display: inline-block !important;
+			}
+
+			.icons-inner {
+				text-align: center;
+			}
+
+			.icons-inner td {
+				margin: 0 auto;
+			}
+
+			.row-content {
+				width: 100% !important;
+			}
+
+			.stack .column {
+				width: 100%;
+				display: block;
+			}
+
+			.mobile_hide {
+				max-width: 0;
+				min-height: 0;
+				max-height: 0;
+				font-size: 0;
+				display: none;
+				overflow: hidden;
+			}
+
+			.desktop_hide,
+			.desktop_hide table {
+				max-height: none !important;
+				display: table !important;
+			}
+		}
+	</style>
+</head>
+
+<body style="text-size-adjust: none; background-color: #fff; margin: 0; padding: 0;">
+	
+<!-- HIER PREHEADER BEARBEITEN //-->			
+<div class="preheader" style="display:none;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;">MediaMarkt </div>
+<!-- HIER PREHEADER BEARBEITEN //-->		
+
+	<table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #D3D3D3;">
+		<tbody>
+			<tr>
+				<td>
+					<table class="row row-1" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #ffffff; width: 600px; margin: 0 auto;" width="600">
+										<tbody>
+											<tr>
+												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: left; font-weight: 400; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="paragraph_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td class="pad">
+																<div style="color:#101112;direction:ltr;font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Geneva, Verdana, sans-serif;font-size:13px;font-weight:400;letter-spacing:0px;line-height:150%;text-align:center;mso-line-height-alt:19.5px;">
+<!-- HIER HEADER BEARBEITEN //-->																			
+<p style="margin: 0;">Ist diese E-Mail nicht richtig lesbar? Hier geht es <a style="color:#2f2f2f" href="https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=" target="_blank">zur Online Version »</a></p>
+<!-- HIER HEADER BEARBEITEN //-->		
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000; background-color: 	#ffffff; border-radius: 0; width: 600px; margin: 0 auto;" width="600">
+										<tbody>
+											<tr>
+												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: left; font-weight: 400; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="paragraph_block block-1" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>								
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="image_block block-2" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td class="pad" style="width:100%;">
+																<div class="alignment" align="center" style="line-height:10px"><a href="https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=" target="_blank" style="outline:none" tabindex="-1">
+<!-- HIER TEASER BEARBEITEN //-->													
+<img src="https://www.zupimages.net/up/23/51/u7ll.jpg" style="height: auto; display: block; border: 0; max-width: 600px; width: 100%;" width="600" alt="">
+<img src="//www.zupimages.net/up/23/51/u7ll.jpg" style="height: auto; display: block; border: 0; max-width: 600px; width: 100%;" width="600" alt="">
+<!-- HIER TEASER BEARBEITEN //-->													
+																</a></div>
+															</td>
+														</tr>
+													</table>
+													<table class="paragraph_block block-3" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td class="pad" style="padding-bottom:10px;padding-left:30px;padding-right:30px;padding-top:30px;">
+																<div style="color:#101112;direction:ltr;font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Geneva, Verdana, sans-serif;font-size:16px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:left;mso-line-height-alt:19.2px ;">
+<!-- HIER TEXT BEARBEITEN //-->																														
+<span style="font-size: 17px;">Hallo phishing@pot, </span><br><br>
+                                           Sie sind einer unserer möglichen Finalisten für einen <strong>Technik-Einkaufsgutschein bei MediaMarkt im Wert von 500 Euro!<br><br></strong>
+										  Den Gutschein schicken wir, direkt zu Ihnen nach Hause. <br>
+				Bitte bestätigen Sie nur noch folgende Angaben:<br><br>
+				
+				Vorname:   <b>phishing@pot</b><br>
+				<br>
+                   	</td>
+<!-- HIER TEXT BEARBEITEN //-->																														
+																</div>
+															</td>
+														</tr>
+													</table>
+						 						  		 <table class="button_block block-4" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+															<tr>
+														  		<td class="pad" style="padding-bottom:25px;padding-left:10px;padding-right:10px;padding-top:20px;text-align:center;">
+																	<div class="alignment" align="center"><!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://fnnl-check.com/?a=6073&oc=19636&c=53095&m=3&s1=" style="height:52px;width:209px;v-text-anchor:middle;" arcsize="12%" stroke="false" fillcolor="#DF0101"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#fffff; font-family:Verdana, sans-serif; font-size:16px"><![endif]--><a href="https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color: 	#DF0101;border-radius:6px;width:auto;border-top:0px solid transparent;font-weight:400;border-right:0px solid transparent;border-bottom:0px solid transparent;border-left:0px solid transparent;padding-top:10px;padding-bottom:10px;font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Geneva, Verdana, sans-serif;font-size:16px;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style="padding-left:35px;padding-right:35px;font-size:17px;display:inline-block;letter-spacing:normal;"><span style="word-break: break-word; line-height: 32px;"><strong>Jetzt mitmachen!</strong></span></span></a><!--[if mso]></center></v:textbox></v:roundrect><![endif]--></div>
+														  		</td>
+															</tr>
+														</table>
+													<table class="image_block block-5" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td class="pad" style="width:100%;">
+																<div class="alignment" align="center" style="line-height:10px">
+																	<a href="https://fnnl-check.com/?a=6073&amp;oc=19636&amp;c=53095&amp;m=3&amp;s1=" target="_blank" style="outline:none" tabindex="-1"><br>
+<!-- HIER TEASER-2 BEARBEITEN //-->	
+<!-- HIER TEASER-2 BEARBEITEN //-->	
+																	</a>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000; border-radius: 0; width: 600px; margin: 0 auto;" width="600">
+										<tbody>
+											<tr>
+												<td class="column column-1" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; text-align: left; font-weight: 400; padding-bottom: 15px; padding-left: 15px; padding-right: 15px; padding-top: 15px; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="paragraph_block block-1" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td class="pad">
+																<div style="color:#101112;direction:ltr;font-family:'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Geneva, Verdana, sans-serif;font-size:13px;font-weight:400;letter-spacing:0px;line-height:120%;text-align:center;mso-line-height-alt:15.6px;">
+<!-- HIER TEASER-2 BEARBEITEN //-->																		
+<!-- HIER TEASER-2 BEARBEITEN //-->	
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table><!-- End -->
+</body>
+
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://superkoran.info/NkNpOU96bklLNlhaS01TNTRZQnE4ZC94Z3R5SVpDZkRDbWZWM2MwWUpsSkxZcGNJZFB4UEdYMVowcEdrYWsrNjhPbjZ6Z2lhWm5WSTdGU2Y2cHFTYUE9PQ__/Z1ZWWmEvWkJSQm0zeElDbjd3ZGZqUzNJUlI0ckZYL01pMWFzVHZNTFA1TkRNelV1UGNCWlYzaForNjQwcnp2MXBLRWZnYmNBT1pvZngvT0NCUFVmNDFBQkwyb2pGajdYQWtFRHBHSWE4Z0E9">here</a> to remove yourself from our emails list</span><br><br>
+

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Ihr 250€ Netto-Gutschein wartet auf Sie! 🎁 ",
+    "from": "Netto Team <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 4 Jun 2025 14:26:10 -0400",
+    "message_id": "<Y6MhP5T.0.0.Y6MhP5T.9.Y6MhP5T@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://images.conversionmediabackend.com/netto-de.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "images.conversionmediabackend.com/netto-de.jpg",
+      "http://blog.dreamsalive.info/cl/2379_md/1995/4258/728/1/12270",
+      "http://blog.dreamsalive.info/op/2379_md/1995/4258/728/1/12270",
+      "http://blog.dreamsalive.info/oop/2379_md/1995/4258/728/1/12270"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1892,
+    "html_length": 8805,
+    "has_text": true,
+    "has_html": true
+  }
+}

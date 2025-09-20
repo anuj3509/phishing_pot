@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p votre bon d���achat Leclerc est pr��t !",
+    "from": "Bon d'achat, <info@ml.femmeactuelle-news.fr>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Feb 2024 15:37:44 +0100",
+    "message_id": "<Er7UZEQ.0.0.Er7UZEQ.9.Er7UZEQ@ml.femmeactuelle-news.fr>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/23/11/2bgx.jpg",
+      "https://directfwd-2.com/?a=7670&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/11/2bgx.jpg",
+      "http://winzip.info/op/43_md/2000/72/19/1/186909",
+      "http://winzip.info/oop/43_md/2000/72/19/1/186909"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1810,
+    "html_length": 9527,
+    "has_text": true,
+    "has_html": true
+  }
+}

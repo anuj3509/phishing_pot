@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch,phishing@pot",
+    "from": "Kundenservice, <reply@telekom.com.>, <reply@telekom.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 02 Nov 2023 06:59:29 +0100",
+    "message_id": "<p27o0az.nk1ja.den.den@oeatnvnmoiwafbh.gja>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://revision-online.info/dzZnYzBGZjVYVEkvYVlzOCt1ZHB0UmVBcURsY2N0K05KNEdsSUhaU1ZramFNOU42dW05cVRwdHRFakhSanRYc2cvMmpIUVBzSnA5MVJkVEN4Nm1QTkdEMUVOZ1doZWhFdisrb1ZkWU9wb1F1TGF2Ym1OTkw3cjR2NE14bElIdGhqbWhPT0wwTU9Ob3l3Zjd3aFpENmVBPT0_",
+      "https://freeimghost.net/images/2023/11/02/3c92beaf6ecfa12.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://revision-online.info/d2dSdTBVTjJ1QWJmYVR5T1lsdTZ5VGUrVG80Qkowdm93OVRSZ3lONkh6U0FxamR2QWM0WXZFN3ZNQTBvS0JEeVUxTGJtbzBsYzZNanZ6UGFyNk9nelplTEtRL3QzTXd3VUF6dmhGTkdiSWszSWlibG1xZ3BLNmZyMDdTVlJsOFVHbDJUeFd2TUJCb3ZlUzRnOC9zN1JRPT0_",
+      "http://revision-online.info/MC9ZTDJtekh5ZUVJd3NYNzNmM2ZtcGd3Q0M1bkJyemRjV3hpK0RLb0FHTXNGaHdiZmpnK2FkeUNidklxZzcxNzZRZFBlVHB4bnFjejlEWjVxWWJPUEIyQW9yNnpWcFV4Wng3UXZ2bU9IeDlmSUcwbUpMZ0ZPbDFkTS9sb2NGc2JHUHNqK2g0bnRwNEY2SkIrN2w2cHZBPT0_",
+      "freeimghost.net/images/2023/11/02/3c92beaf6ecfa12.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1994,
+    "html_length": 10727,
+    "has_text": true,
+    "has_html": true
+  }
+}

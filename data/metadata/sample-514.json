@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "God bless you as you reply urgently",
+    "from": "Rose Williams <admin@sumotocatv.jp>",
+    "to": "phishing@pot",
+    "date": "26 Mar 2023 07:55:11 +0800",
+    "message_id": "<20230326075511.0C5295C72C9DBB29@sumotocatv.jp>",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 773,
+    "html_length": 1014,
+    "has_text": true,
+    "has_html": true
+  }
+}

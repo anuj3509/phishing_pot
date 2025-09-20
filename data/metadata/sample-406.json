@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Please confirm",
+    "from": "Mira Amara <siennacolours@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 27 Feb 2023 17:46:10 +0000",
+    "message_id": "<CAJeoARPDzWB-Hc1nKwEbH2RepeXQh1qLWWWgUiPcamkAt5uzhA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000a9912505f5b20e50\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000a9912505f5b20e50\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 143,
+    "html_length": 2455,
+    "has_text": true,
+    "has_html": true
+  }
+}

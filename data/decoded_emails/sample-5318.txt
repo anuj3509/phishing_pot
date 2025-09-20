@@ -1,0 +1,107 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Olá, você removeu seu método de autenticação de duas etapas?
+From: Mercado Livre <servicos@mercadolivre>
+To: <phishing@pot>
+Date: Tue, 22 Apr 2025 13:49:04 +0000
+Message_Id: <7026e927-5a8d-79ac-f411-0b6c221b5ea8@mercadolivre>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png
+  - https://julio-de-livs.icu
+
+DECODED TEXT CONTENT:
+------------------------------
+Mercado Livre - Notificação de Segurança @media screen and (max-width: 480px) { .container { width: 100% !important; } .content { padding: 20px 15px !important; } .white-box { padding: 20px 15px !important; } .message { font-size: 20px !important; } .info-text { font-size: 16px !important; } } Data: 22/04/2025 10:49:04 (Horário de Brasília) | Código: X0F0-VT9J Olá, detectamos uma alteração. Você removeu seu método de autenticação de duas etapas. Se não foi você, Claro que teve. Connor deslizou para a cadeira do outro lado de Adne, por favor, avise-nos imediatamente. zante. Bela então deseja voltar para a Fera e imediatamente é trans- Não fui eu Precisa de ajuda? Fale conosco Este Eu tinha 17 anos quando fui convertido em nosferatu - Vane levantou mais os é um email Alice lhe deu um olhar que dizia estar cheia daquilo. Continue tentando dizer isso a si automático. Por favor, não repetidas e, portanto, cristalizadas e consagradas, se adotasse um método responda a esta mensagem.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light">
+  <meta name="supported-color-schemes" content="light">
+  <title>Mercado Livre - Notificação de Segurança</title>
+  <style>
+    @media screen and (max-width: 480px) {
+      .container {
+        width: 100% !important;
+      }
+
+      .content {
+        padding: 20px 15px !important;
+      }
+
+      .white-box {
+        padding: 20px 15px !important;
+      }
+
+      .message {
+        font-size: 20px !important;
+      }
+
+      .info-text {
+        font-size: 16px !important;
+      }
+    }
+  </style>
+</head>
+
+<body style="font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f5f5f5;">
+    <div id="preheader" style="display:none;">
+      Data: 22/04/2025 10:49:04 (Horário de Brasília) | Código: X0F0-VT9J
+    </div>
+  
+  <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td align="center" style="padding: 20px 0;">
+        <table role="presentation" class="container" width="600" border="0" cellspacing="0" cellpadding="0" style="max-width: 600px; margin: 0 auto;">
+          <!-- HEADER -->
+          <tbody><tr>
+            <td class="header" align="left" style="background-color: #fff159; padding: 20px;">
+              <img src="https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png" alt="Mercado Livre" class="logo" style="max-height: 40px; display: block;">
+            </td>
+          </tr>
+
+          <!-- CONTENT -->
+          <tr>
+            <td class="content" align="center" style="background-color: #fff159; padding: 30px 20px;">
+              <h1 class="message" style="font-size: 24px; color: #333333; margin: 0; font-weight: bold;">Olá,<br>detectamos uma alteração.</h1>
+
+              <div class="white-box" style="background-color: #ffffff; padding: 30px; margin-top: 20px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+                <p class="info-text" style="font-size: 18px; color: #333333; line-height: 1.5; margin: 0;">Você removeu seu método de autenticação de duas etapas.<br>Se não foi você, <span style="visibility: hidden; position: absolute; font-size: 0;">Claro que teve.  Connor deslizou para a cadeira do outro lado de Adne,</span>por favor, avise-nos imediatamente.</p>
+
+                <div class="button-container" style="margin-top: 30px; text-align: center;">
+                  <a href="https://julio-de-livs.icu" class="button" style="display: inline-block; background-color: #3483fa; color: #ffffff; text-decoration: none; padding: 12px 40px; border-radius: 4px; font-size: 16px; font-weight: bold; border: 0;"><span style="visibility: hidden; position: absolute; font-size: 0;">zante. Bela então deseja voltar para a Fera e imediatamente é trans-</span>Não fui eu</a>
+                </div>
+              </div>
+            </td>
+          </tr>
+
+          <!-- FOOTER -->
+          <tr>
+            <td class="footer" align="center" style="padding: 30px 20px; background-color: #ffffff; border-top: 1px solid #eeeeee;">
+              <p class="help-text" style="font-size: 16px; margin: 0; color: #666666;">Precisa de ajuda? <a href="https://julio-de-livs.icu" class="link" style="color: #3483fa; text-decoration: none; font-weight: bold;">Fale conosco</a></p>
+              <p style="font-size: 12px; color: #999999; margin-top: 20px;">Este <span style="visibility: hidden; position: absolute; font-size: 0;">Eu tinha 17 anos quando fui convertido em nosferatu - Vane levantou mais os</span>é um email <span style="visibility: hidden; position: absolute; font-size: 0;">Alice lhe deu um olhar que dizia estar cheia daquilo. Continue tentando dizer isso a si</span>automático. Por favor, não <span style="visibility: hidden; position: absolute; font-size: 0;">repetidas e, portanto, cristalizadas e consagradas, se adotasse um método</span>responda a esta mensagem.</p>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
+
+
+</body></html>
+

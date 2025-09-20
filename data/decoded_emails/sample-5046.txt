@@ -1,0 +1,116 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: EDEKA Einkaufsgutschein im Wert von 500 €
+From: EDEKA <service@stayfriends.de>
+To: <phishing@pot>
+Date: Thu, 27 Feb 2025 03:24:50 -0500
+Message_Id: <CTW5gNe.0.0.CTW5gNe.9.CTW5gNe@stayfriends.de>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - www.zupimages.net/up/25/09/e80q.jpg
+  - https://www.zupimages.net/up/25/09/e80q.jpg
+  - http://dev.dury.agency/ZTg2NXdzUENCS1hkeG1yYzdlQmFYY2ZFSXhjbThlVzNEa0ZBNWhmWVV0Y3E5aWN4ekoxTWFuY20rdkY2U2NoNE1Ca0dvVm1FODFraEZ5aSs2dm53MkE9PQ__
+  - http://dev.dury.agency/ODdXekZtSGhxSUtmNVUxenFtQ1hieDBoNDZXSmxyQVZ2ZEVOVGk5dlZFSTVxclhxUVU4amdnelVWeUNFRysvbkhMSElHL2dnNmZrU3p4eHhwOTJHSmc9PQ__
+  - http://dev.dury.agency/cGRhSE45aU1zb3dVQlduVk8zcGhKOXcvdHhEUXphTkVWL2d2dEtlY2RrZlAybUJSb3ZwM1FxV2pXTEpEcjFZM2tNcHNRcFNuMzJ0ZTdEQjJLeUU1S2c9PQ__
+
+DECODED TEXT CONTENT:
+------------------------------
+EDEKA Gutschein body { font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0; } .container { max-width: 600px; margin: 20px auto; background: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header img { width: 100%; border-radius: 10px 10px 0 0; } .content { padding: 20px; color: #333; } .highlight { color: #0056b3; font-weight: bold; } .button { display: block; text-align: center; background: #ffd700; color: #000; padding: 15px; font-size: 18px; text-decoration: none; font-weight: bold; border-radius: 5px; margin: 20px auto; width: 80%; } .footer { text-align: center; font-size: 12px; color: #666; margin-top: 20px; } Hallo phishing@pot, Am Thu, 27 Feb 2025 03:24:50 -0500 haben wir Ihnen mitgeteilt, dass wir Ihnen einen möglichen EDEKA Einkaufsgutschein im Wert von 500 € zusenden könnten. Bisher haben Sie den möglichen Gutschein nicht angefordert. Besteht Ihrerseits kein Interesse mehr? Ihre Vorteile: ✅ In allen Filialen einlösbar ✅ Sofort, einfach und unverbindlich ✅ 100% kostenlos Falls Sie als Gutscheinempfänger ausgewählt wurden, hier nachsehen » zur Anmeldung Mit freundlichen Grüßen, Ihr Gewinner Team click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDEKA Gutschein</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header img {
+            width: 100%;
+            border-radius: 10px 10px 0 0;
+        }
+        .content {
+            padding: 20px;
+            color: #333;
+        }
+        .highlight {
+            color: #0056b3;
+            font-weight: bold;
+        }
+        .button {
+            display: block;
+            text-align: center;
+            background: #ffd700;
+            color: #000;
+            padding: 15px;
+            font-size: 18px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            margin: 20px auto;
+            width: 80%;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://www.zupimages.net/up/25/09/e80q.jpg" alt="">
+			<img src="//www.zupimages.net/up/25/09/e80q.jpg" alt="">
+        </div>
+        <div class="content">
+            <h2>Hallo phishing@pot,</h2>
+            <p>Am Thu, 27 Feb 2025 03:24:50 -0500 haben wir Ihnen mitgeteilt, dass wir Ihnen einen möglichen <span class="highlight">EDEKA Einkaufsgutschein im Wert von 500 €</span> zusenden könnten.</p>
+            <p>Bisher haben Sie den möglichen Gutschein nicht angefordert. Besteht Ihrerseits kein Interesse mehr?</p>
+            <h3>Ihre Vorteile:</h3>
+            <ul>
+                <li>✅ In allen Filialen einlösbar</li>
+                <li>✅ Sofort, einfach und unverbindlich</li>
+                <li>✅ 100% kostenlos</li>
+            </ul>
+            <p><a class="highlight" href="http://dev.dury.agency/ZTg2NXdzUENCS1hkeG1yYzdlQmFYY2ZFSXhjbThlVzNEa0ZBNWhmWVV0Y3E5aWN4ekoxTWFuY20rdkY2U2NoNE1Ca0dvVm1FODFraEZ5aSs2dm53MkE9PQ__">Falls Sie als Gutscheinempfänger ausgewählt wurden, hier nachsehen</a></p>
+            <a href="http://dev.dury.agency/ZTg2NXdzUENCS1hkeG1yYzdlQmFYY2ZFSXhjbThlVzNEa0ZBNWhmWVV0Y3E5aWN4ekoxTWFuY20rdkY2U2NoNE1Ca0dvVm1FODFraEZ5aSs2dm53MkE9PQ__" class="button">» zur Anmeldung</a>
+        </div>
+        <div class="footer">
+            <p>Mit freundlichen Grüßen,</p>
+            <p>Ihr Gewinner Team</p>
+        </div>
+    </div>
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://dev.dury.agency/ODdXekZtSGhxSUtmNVUxenFtQ1hieDBoNDZXSmxyQVZ2ZEVOVGk5dlZFSTVxclhxUVU4amdnelVWeUNFRysvbkhMSElHL2dnNmZrU3p4eHhwOTJHSmc9PQ__">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://dev.dury.agency/cGRhSE45aU1zb3dVQlduVk8zcGhKOXcvdHhEUXphTkVWL2d2dEtlY2RrZlAybUJSb3ZwM1FxV2pXTEpEcjFZM2tNcHNRcFNuMzJ0ZTdEQjJLeUU1S2c9PQ__" width="1px" height="1px" style="visibility:hidden">
+

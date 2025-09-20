@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "support <kobich@armonim-rg.org.il>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Aug 2024 04:53:13 +0000",
+    "message_id": "\r\n <AM0PR0102MB3394FDF15AB2CB0D44662830C2952@AM0PR0102MB3394.eurprd01.prod.exchangelabs.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t6wer.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 71,
+    "html_length": 147,
+    "has_text": true,
+    "has_html": true
+  }
+}

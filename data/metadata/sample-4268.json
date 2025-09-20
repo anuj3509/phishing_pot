@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Confirme a Liberação da sua Encomenda Agora - Correios",
+    "from": "Correios <notificacoes@correios>",
+    "to": "phishing@pot",
+    "date": "Wed, 30 Oct 2024 12:09:21 +0000",
+    "message_id": "<3e89aaae-9d03-9d40-3bbd-0b50bd0329ea@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodejens.icu/?mailID=qAsL-kQUnywNL9R8IweEkd4vVRE7cNPKvm-t56g5Fe-X5tKneGb9WLRbRaHduUGltfgsSmhDD5uC5dyDItGJTMfsxaVWig153EhG4qZWuxilrbRWFgYcuguQkrH_RCazm4pw9aeG6TWmmLvIQzHR61xR8SXrl1GDJACEw7Fd1MzEecC6RlHKOJxvqSSnmYC_07NX3iIXe_7JdFj9TjNq_P_ZbBduuD50Wu4IrOd892NnPbVBjbc3V6PzQZn29o7yTD02UzxSIasfWLDo86PhO7RemGR4mymtLf8g9TxDK9fSAy23euTId68zrh7C6hOUvN1uwhfitHDcvlpOrBctVFnzZtzfpW5HSQ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 29951,
+    "html_length": 54533,
+    "has_text": true,
+    "has_html": true
+  }
+}

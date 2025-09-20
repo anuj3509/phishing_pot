@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "500��� EDEKA-Gutschein erhalten",
+    "from": "EDEKA-Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 16 May 2024 04:05:05 +0200",
+    "message_id": "<gMjvLAT.0.0.gMjvLAT.9.gMjvLAT@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/23/31/qy0g.png",
+      "https://directfwd-2.com/?a=8119&amp;oc=17130&amp;c=46720&amp;m=3&amp;s1",
+      "https://www.zupimages.net/up/23/31/qy0g.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://costco.theowensfamily.info/VUpzTTVQRmFQMjY4ZnY2V3R2ZWdrS0J0Z3ZOM0VJd1JqcVdFMFhqc1dLTE92VmRIMXkzNVBPTng0OXV4aUViVkNNTjVIUU5vTmc0b1NZWENlN1RQenc9PQ__",
+      "http://theowensfamily.info/WDZMV0o2VEd3MnBFK1pqSEw1ZUd6QWhGOHJleEpiNTJsR1IxSGtycDlsampCOTI1MlN3Nnhramc1a2hreFE2RmpzQzRqQnBZQnNDTDdiNGRYZzhsWGc9PQ__",
+      "https://directfwd-2.com/?a=8119&amp;oc=17130&amp;c=46720&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1967,
+    "html_length": 9123,
+    "has_text": true,
+    "has_html": true
+  }
+}

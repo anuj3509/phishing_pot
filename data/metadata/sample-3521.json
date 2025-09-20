@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 9695776234",
+    "from": "Mercado Pago <mercadopago@atendimento.net-2>",
+    "to": "phishing@pot",
+    "date": "Wed, 24 Jul 2024 18:02:52 -0400 (EDT)",
+    "message_id": "<20240724220252.66418BCE4@ygredwswdcrfg.net-2>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mercadopago.resgate-beneficiosbrad.com/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 514,
+    "html_length": 2523,
+    "has_text": true,
+    "has_html": true
+  }
+}

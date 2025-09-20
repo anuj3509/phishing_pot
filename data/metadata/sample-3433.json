@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Suchst du nach lustigen Dates?",
+    "from": "Reifefrauen,(<message@my.zalando.de>)",
+    "to": "phishing@pot",
+    "date": "Sat, 06 Jul 2024 10:31:21 +0000",
+    "message_id": "<SMQPUFBASBXBYQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://seductiveoffers.com/profiles/july-michelle-DE.jpg",
+      "seductiveoffers.com/profiles/july-michelle-DE.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4esaRc26185ZpXb902nyfkepwofv14302BNBSNWYSSJRJIIO2MQBL5188k10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6TyOPb26185XSbo902fxdlpyvhxb14302CFDJWVWEXVHVXTD2WQTB5188I10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4DxYgI26185QYfB902dawiflfelf14302ZFGJDOXPYZCIFBY2ZBGC5188z10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1020,
+    "html_length": 5394,
+    "has_text": true,
+    "has_html": true
+  }
+}

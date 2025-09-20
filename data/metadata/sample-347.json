@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Your request!!",
+    "from": "\"Mr. George Fraga\" <info@mymail.net>",
+    "to": "Recipients <info@mymail.net>",
+    "date": "Mon, 20 Feb 2023 04:25:14 -0800",
+    "message_id": "<20230220142522.7525B1FC98A@zimbra.syokinet.co.ke>",
+    "content_type": "multipart/alternative; boundary=\"===============2024963631==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============2024963631==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.diamondfishfx.com/",
+      "diamondfishfx.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 150,
+    "html_length": 335,
+    "has_text": true,
+    "has_html": true
+  }
+}

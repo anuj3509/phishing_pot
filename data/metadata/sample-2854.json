@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: A 750��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 10 Feb 2024 07:32:54 +0100",
+    "message_id": "<xVP864u.0.0.xVP864u.9.xVP864u@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://directfwd-2.com/?a=7790&amp;oc=14749&amp;c=41305&amp;m=3&amp;s1=",
+      "http://soldering-on.co.uk/op/187_md/1991/91/23/16/188178",
+      "http://www.w3.org/1999/xhtml",
+      "http://soldering-on.co.uk/oop/187_md/1991/91/23/16/188178",
+      "www.zupimages.net/up/24/06/mefw.jpg",
+      "https://www.zupimages.net/up/24/06/mefw.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1977,
+    "html_length": 8971,
+    "has_text": true,
+    "has_html": true
+  }
+}

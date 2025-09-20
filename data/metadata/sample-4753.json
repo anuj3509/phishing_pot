@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Hit the road and stack $TOYOTA rewards with every mile.",
+    "from": "Toyota Brand Engagement Center <becdonotreply@toyota.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Mon, 13 Jan 2025 18:05:56 +0000 (GMT)",
+    "message_id": "<TJp-l000000000000000000000000000000000000000000000SQ1GXV00WqvjxORBToSHq56dDA_cmw@sfdc.net>",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_242301_1147447167.1736791556023\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \n\tboundary=\"----=_Part_242301_1147447167.1736791556023\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "toyota.com",
+      "https://www.toyota.com/",
+      "https://adclick.g.doubleclick.net/pcs/click?fjFILE-10-2023-25_RefHHB119kd&amp;&amp;adurl=//toyota-lander.com",
+      "https://www.toyota.com/help",
+      "https://gep-tmna.my.salesforce.com/servlet/servlet.ImageServer?oid=00D3h000006fTAl&amp;esid=0185Y00001ecVGp&amp;from=ext",
+      "https://brand.toyota.com/content/dam/brandhub/VIS_toyota_logo_horiz_black_RGB_2021.svg",
+      "https://adclick.g.doubleclick.net/pcs/click?fjFILE-10-2023-25_RefHHB119kd&amp;&amp;adurl=//claim-toyota.coin/connect-wallet",
+      "toyota.com."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1909,
+    "html_length": 9579,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "subject": "Your Cryptocurrency is currently restricted",
+    "from": "MetaMask <support@wonolo.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 23 Feb 2023 16:25:27 +0000",
+    "message_id": "<010001867f180b3c-5bb9ba6e-8a77-41e6-9d72-8998af898fc4-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_477621_888394328.1677169527187\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_477621_888394328.1677169527187\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://links.wonolo.com/e/encryptedUnsubscribe?_r=5f8d78d817c947c9a1362c3763063fc3&amp;_s=be0a7a5db76748bba37750d2a6144a3e&amp;_t=Yy4jMxWpW-QUm5sDU0j_vm9yNWwDPDdhLP5gxlVavQaLEbkSbVcfyaKX65M4biENus32Dz9M-36o3PAKTAVwdJi0Bqei3quGq1nr1WBBZCu4WEsyK9wz8XsmQgNZH9DH",
+      "https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/circle-gray/facebook.png",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=LpbpEVSdwcNwFfHD3bxM0eKzbACSTlGN5nIdBHl89rbnyc9kqvJQUcTgmn2WJN_TsfbEv-K8QBlbuf_Y7n_CsPObaDnT4POKydM9xLAkn7KTKfFFbY9NrQHZZ_-pGOBhRCyEcSM4XjXJd6V-wesLlx1pVhD2JurMsswUakmh9oLrogEihInFr7n0_nJc8JYbGlqX8dLqL6q19cGbNUH-Qt_frAod9vG6wNioazC3PHl88pvq--8LbQ772ZO0_qUWlBruHcQcCJwIQ1CCS8ASj_vwH4-McEno8KAqUZJqipE%3D",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=LpbpEVSdwcNwFfHD3bxM0Rj-oKmGDG-sW34UN4GWTsTk1ld7A0JuU_KF3OS2usWQYIocPqELxrZYZHpGoAHDWot0yNbnk_yvN6hpSl0mJXJUyASwco-X-1GN_j8yYZ81XWf9A9JwnCKHFz34qalJsSDYPzWHV1JHnb2mAT7JTxoqLsWsrLy0vHvstb6sg8Ozn9BLubXtHUVXBk7iSDYA1cJDqkZD4f9ypWXfKmmxkRIdDXZUWqgRzwLOe6rs2teWWKlWM0VigJcY32JE1hBIW-3N3o-rVSjymrVTbDwElek%3D",
+      "http://links.wonolo.com/e/eo?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=Yy4jMxWpW-QUm5sDU0j_vm9yNWwDPDdhLP5gxlVavQaLEbkSbVcfyaKX65M4biENus32Dz9M-36o3PAKTAVwdJi0Bqei3quGq1nr1WBBZCt8mWPEySX5E8WOt8AnRbVhWSbxNXZy0DpXTjE94_o82Q%3D%3D",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/5f8d78d817c947c9a1362c3763063fc3/zab.png",
+      "http://links.wonolo.com/e/encryptedUnsubscribe?_r=5f8d78d817c947c9a1362c3763063fc3&_s=be0a7a5db76748bba37750d2a6144a3e&_t=Yy4jMxWpW-QUm5sDU0j_vm9yNWwDPDdhLP5gxlVavQaLEbkSbVcfyaKX65M4biENus32Dz9M-36o3PAKTAVwdJi0Bqei3quGq1nr1WBBZCu4WEsyK9wz8XsmQgNZH9DH",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=LpbpEVSdwcNwFfHD3bxM0VMsYYQI54mxblAqYVUICuXLWRaZ8pM_Fud0uUb7GZwt3hdbJiVyN2i-A5EIkz51PPiS-VJQxFbP95NGrQx-dFzddCXU7Qyo5VATDeXkcsHkuGcY_Z9IqUVjbKEB9mDC0XyoydK-9jo8jX0clPIM2Bct7l7_nWujpbsYYQXNlLedHpJh6IDthkmgXUIhrniHjQ3XG_1zNx-hVgnSnV2-veDYOQwacScKVYjLIJ2q9wbOfACKnVCJvJ6FfafdEumBCZJ_Y0E1IWMLWbS4FtUqQ1au2W43A_BsVyvZvfArVlHi",
+      "https://app.wonolo.com/r/jr/",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=C8SpYn-WoInuxxCAbbzYXsLJqXlt88L2BpDhZ4uEOk80KxzjfM8_kEKgvCBu21ly8qxZ2V4gjzTCWgGVWdI7i44KDSEz3puf8wBksiUVnxn-g59DfKigQVg56gpGAOvs_1PJFDhP34vtTsRKqajvsLWC2db5W4spDoMuR3pXb27jVaplvlCKQWsUpv9p1Gjh9PLNitmZEV_wuK_RSh9qiQqeepPmdOkx4lw7hjany8Tqn6PeTcj_t1T_85wmPdds5mGmf5bDTy559hYcau5NVU46hTQRv1H7TaTEwgoz5QsZT_qzgByZ1F0xj6PASr6lWHUonqDLMqZTMIoYjQy37gh3QyYbhiYewurNHgu2eeo2IOZu9VH-PdR60QL0oGdTRFZE1iJVM8rcljVnpH-VfF73I4AqMMivmaExuCCbHma0NLQ1m9mPOoYW_95b_YfX8opVVYUd6cikyGM8-YooLigY1Q4SJvS4YAi5JpdEFsYRjd5M2YMyg_HbD9acuvJrFhXzyrw10LQL3gTMF77yEiKWdnPggVn3iqVB-WlpruQMs0AEkBc3YymLcTgC5dl6RwUezSZC1lK0jT8EsCbVw5ozpT2cluUuIY8p8LhcWayZ8JA-jCjlL4ym5z4TCkZrLk8vluzrVQYb-KHj6YnwVUnWDv0pVNvKMIA8HEFslnoN3GF3b_kn-OGxcJ962Ba_PKZ8jqFBMqVErz-ipts6rgtUzcIBMfiK5S5fcoen-KJFXx_BxL_hbE2z1lBp1GpOYEu26MlAvVcrAu-wBAK6ikDdkADRNzsgyDPR4285SizDNySDiYBU8fP0AKbNuC4z",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=LpbpEVSdwcNwFfHD3bxM0dTB5XE8xM8YHaqH9JcPB6k9ONjxwtE4GGWsxzUyce2dE4DKKSoRFytT36q2pN8aEwuskJ8uLZC1Gj-tqIqKdM8TuE_JR6s9O80Bw2ePu4YQuViOTTTDbkckPJZej4NFvCSCyXX6gLVrsyjYyxgpG90a3tT_dciP55E4eT-j8p6habCXUS3_71UT2TkR6EuRVxoyHY9e5i2K549ZT5zjG35Fo8SuOssKV5TCfZj4a4g4ln6rEQamHXHjn9F1zdBVA62Cy9pbKUn0Mawyam7cdTs%3D",
+      "http://links.wonolo.com/e/evib?_t=5f8d78d817c947c9a1362c3763063fc3&_m=be0a7a5db76748bba37750d2a6144a3e&_e=Yy4jMxWpW-QUm5sDU0j_vm9yNWwDPDdhLP5gxlVavQbFoM_sgMKaIPZXLgfr0XID",
+      "https://www.youtube.com/wonolo",
+      "hotmail.com",
+      "https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/circle-gray/instagram@2x.png",
+      "http://twitter.com/wonolo",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&_m=6087dc597f5b412c90696cd9556e7a95&_e=LKBLzFAXk_T1oXY5WF8E1qCdcMl_iQAo9EJwIggcDg8va7n_Y2a450hRnEJ3JU3xUYhLfhpxfdwxNR9eBrFyNhsbHDNBnEa_10fjGNfZ10axYUfubYMxVIai1iM7vp_K9PIIoqVH8-3PIjNigE6Vl5l6JEBifGh0cs7DGv2Dh2E4HjD6tS4m1q3p9e2FeADxZ1ZOMC2goLvUIoPesw4Q2sddA4yVezrCU7eeJj_qlxIT1jjPmrc98K2d0SqIYOm6IOh1CHMlze4OgSWvWo0__oJoUGVtI7TcCH7MNQFIyACLUiqyd731ZmiKrZAA97u_",
+      "http://links.wonolo.com/e/evib?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=Yy4jMxWpW-QUm5sDU0j_vm9yNWwDPDdhLP5gxlVavQbFoM_sgMKaIPZXLgfr0XID",
+      "https://www.facebook.com/wonoloapp",
+      "https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/circle-gray/youtube@2x.png",
+      "https://instagram.com/wonoloapp",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/5f8d78d817c947c9a1362c3763063fc3/unnamed%20%286%29.png",
+      "https://d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/circle-gray/twitter.png",
+      "http://links.wonolo.com/u/click?_t=5f8d78d817c947c9a1362c3763063fc3&amp;_m=be0a7a5db76748bba37750d2a6144a3e&amp;_e=kUJ510wpSDPAZU9pnMvT-r5HOMI9-nqM0-9qlxmpJSsE1z6lngluO4c50b6Hux1XbTaby4lQYD2KJutH7SfhqsmGj2Euln66yR0QUNHxvi0MrR8PnU1RD7x33oxPidZrJhAGUvzK5eahyIIBCZo6YrJ0imPBiaj1OTOA-Bx9feQgIMs4c6xeE8ktjVxV0jQ-J7lHgty4wJRd_E7mLXCIGLsEU6c3VbyDCAcNJTgiWk6iBCQYziCsxH_dEgxIrk1FI8n4jBAX3ODIE9xeTWm4rLeBWWNu8PiostNvOyzAIwk%3D",
+      "img.big,.row-content{width:100%!important}.mobile_hide{display:none}.stack"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1881,
+    "html_length": 22489,
+    "has_text": true,
+    "has_html": true
+  }
+}

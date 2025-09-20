@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Confirmation Needed Act Now!",
+    "from": "Walmart    ,_<g0kso@0xzg8rrvzc.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Oct 2023 22:31:26 +0000",
+    "message_id": "\r\n <88261727-f357-4ee4-8cf5-d77d740225c4@DM6NAM12FT107.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "expires today",
+      "final notice"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/I2R1oUVHec",
+      "https://i.imgur.com/7rOLJ95.jpg",
+      "http://vertuoldmuneted.com/track/o46293vTVtq22448528ecfJ49413wrk67986ichh3209",
+      "https://t.co/TuMrZjJ6P4",
+      "i.imgur.com/7rOLJ95.jpg",
+      "http://dtherhproblem.us/su46293JGPXQ22448528ARAf49413TiN67986FTFl3209"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 445,
+    "html_length": 8882,
+    "has_text": true,
+    "has_html": true
+  }
+}

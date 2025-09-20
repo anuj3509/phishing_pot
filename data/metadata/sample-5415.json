@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "����Geschenk f��r dich",
+    "from": "CocaCola<support@cocacola>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 12 May 2025 16:05:08 +0000",
+    "message_id": "<b778e461-641c-44f9-a115-670d2d85c4b4@SJ1PEPF00002322.namprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com",
+      "http://CaYkOZGauvDwKHG7tBZXs0l0aUJigCCaYkOZGauvDwKHG.healthnutrecipes.space/track/3XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207",
+      "http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/6XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207",
+      "http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/5XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207",
+      "https://zupimages.net/up/25/18/lw59.png",
+      "http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;family=Roboto&amp;family=Work+Sans:wght@600&amp;display=swap",
+      "zupimages.net/up/25/18/lw59.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2913,
+    "html_length": 8565,
+    "has_text": true,
+    "has_html": true
+  }
+}

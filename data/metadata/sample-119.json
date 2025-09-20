@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Federal Bureau of Investigation (FBI)",
+    "from": "\"CHRISTOPHER A. WRAY\"<sha-mail1@vtc-sh.com.cn>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 17 Nov 2022 04:27:49 -0800",
+    "message_id": "\r\n <eb83ec21-5495-477f-9159-711aa1e262eb@BN7NAM10FT050.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mail.ee"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4537,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

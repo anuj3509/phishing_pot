@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "100��� Bahn-Gutschein zu gewinnen! ",
+    "from": "Deutsche Bahn Team <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 9 Mar 2025 05:59:52 -0400",
+    "message_id": "<oQPd6FE.0.0.oQPd6FE.9.oQPd6FE@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.zupimages.net/up/24/02/f26q.png",
+      "http://dev.dury.agency/OHpYWTdIWjFKMW4rVURkTlV6ZTdWQ3Q1am1YazIwODlGQk5Wcm0wQ1JYZHNFV0NZTThkbWgyMGZ0SzUrTVJ1WDZodmZCUnN5ZWk5bjdUOHdnVFVRdEE9PQ__",
+      "http://blog.dury.agency/VldZekhqS1VhNXlpaHU1eXkxMG9PeHBpVkRFNW5rVDluQzVRSGdFL0YxWWM2L2w3QUtPenJvNmFpV1hiNTZWbGxHdlB1b3hrempOSWF0S1V0QllrRFE9PQ__",
+      "http://dev.dury.agency/NE9vUkxSVERMTTJCVUpuNEZJeEJDZUJ5Q2JtWHlsc0ZVWlZITjhUSnh3OTZJanF0SnlqUGJSQlYvMFJDSXE2dXBHSytZbmRwSDgzdkZza1N6M2M2UUE9PQ__",
+      "https://www.zupimages.net/up/24/02/f26q.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 852,
+    "html_length": 2544,
+    "has_text": true,
+    "has_html": true
+  }
+}

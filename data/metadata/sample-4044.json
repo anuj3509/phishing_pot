@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Neues Notfallset für Ihr Auto",
+    "from": "A D A C <noreply@Kundenbetreuung Auto-Notfallset.de>",
+    "to": "phishing@pot Ferreira <phishing@pot>",
+    "date": "Sat, 14 Sep 2024 21:05:15 +0000",
+    "message_id": "\r\n\t<cc93248b-8649-40c5-945c-6a21dfaa3515@DB5PEPF00014B97.eurprd02.prod.outlook.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"_004_cc93248b864940c5945c6a21dfaa3515DB5PEPF00014B97eurprd02_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"_004_cc93248b864940c5945c6a21dfaa3515DB5PEPF00014B97eurprd02_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "bg.jpg",
+      "http://suzaku.info/Z3RkRWZ5OEw1d3o0L3VDNWE0UXVsR1FQVDlQaEwybjRmK3ZhTVBrcTdqYU9CaXhkRlM5VTlmNWZtNHdHM0F4enEzRWsvZHZJNEtWK0pRV2ZEQnRNd28yQURwdTdpSmhscFNCRHd0amRmTE09",
+      "fading.blue/u/067978.png",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "http://suzaku.info/Nkc1NWxMQzVKU1FWR2tDZVZPYTYvc1pVQ1JSU1ZEUzBnZk5RN3FOVVAvRm5WMlVTVFVKVDlHbFdaODBxWlNnYnJIeWluVUpNbnZ4MXRNRjNyQ1FqZzBhY2lOZ1dhUzhoT0xMUjdNVkRXRW89"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 728,
+    "html_length": 2959,
+    "has_text": true,
+    "has_html": true
+  }
+}

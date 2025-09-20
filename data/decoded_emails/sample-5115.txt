@@ -1,0 +1,578 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot  T��V-Sorglos-Paket versendet!
+From: "DEKRA dankt Ihnen!" <Department-client-n07626@organizationmv.onmicrosoft.com>
+To: <phishing@pot>
+Date: Fri, 14 Mar 2025 16:45:52 +0000
+Message_Id: <474da56e-0a2d-43e9-aedf-b2f164097a76@MA1PEPF000072B0.INDPRD01.PROD.OUTLOOK.COM>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify
+URLs found:
+  - upload.wikimedia.org/wikipedia/de/thumb/4/45/DEKRA.svg/2560px-DEKRA.svg.png
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.microsoft.com/en-GB/servicesagreement/
+  - http://www.w3.org/1999/xhtml
+  - https://upload.wikimedia.org/wikipedia/de/thumb/4/45/DEKRA.svg/2560px-DEKRA.svg.png
+  - https://i.imgur.com/17sJdBf.png
+  - https://passwordreset.microsoftonline.com/images/1_MSLogo.png
+  - https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q
+  - i.imgur.com/17sJdBf.png
+  - https://i.imgur.com/AFizkbn.jpeg
+  - https://did.li/bANrl?uWzANw5KVltlvY554EnGD4Ryse6jqPBFOajSgaHaXPWbSF4tSrN1712090dLd4ob6N18SQl9XN8m8BPyB5w6a8
+  - https://privacy.microsoft.com/en-GB/privacystatement
+
+DECODED TEXT CONTENT:
+------------------------------
+Verbrauchersieger /*STYLE*/ html{ height: 100%; } img { border: none; -ms-interpolation-mode: bicubic; max-width: 100%; } body { background: url('https://i.imgur.com/AFizkbn.jpeg') no-repeat; background-size: cover; font-family: sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; line-height: 1.4; margin: 0; padding: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; width: 100%; } table { border-collapse: separate; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%; } table td { font-family: sans-serif; font-size: 14px; vertical-align: top; } /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */ .container { display: block; margin: 0 auto !important; /* makes it centered */ max-width: 580px; padding: 10px; width: 580px; } /* This should also be a block element, so that it will fill 100% of the .container */ .content { box-sizing: border-box; display: block; margin: 0 auto; max-width: 505px; padding: 30px; /* background-color: #fff; */ background-size: 0%; background-repeat: no-repeat; background-position: center bottom; /* border: 3px solid #000; */ } .main { border-radius: 3px; width: 100%; } .wrapper { box-sizing: border-box; padding: 20px; } .content-block { padding-bottom: 10px; padding-top: 10px; } .footer { clear: both; margin-top: 10px; text-align: center; width: 100%; } .footer td, .footer p, .footer span, .footer a { color: #999999; font-size: 12px!important; text-align: center; } h1, h2, h3, h4 { color: #000; font-family: sans-serif; font-weight: 400; line-height: 1.4; margin: 0; margin-bottom: 30px; } h2 { font-size: 25px; font-weight: bold; text-align: center; text-transform: capitalize; margin-bottom: 10px; } p, ul, ol { font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; margin-bottom: 15px; } p li, ul li, ol li { list-style-position: inside; margin-left: 5px; } a { color: #3498db; text-decoration: underline; } .btn { box-sizing: border-box; width: 100%; } .btn > tbody > tr > td { padding-bottom: 15px; } .btn table { width: auto; } .btn table td { /* background-color: #ffffff; */ border-radius: 5px; text-align: center; } .btn a { background-color: #006b52; border: solid 0px #00539f; border-radius: 5px; box-sizing: border-box; color: #fff; cursor: pointer; display: inline-block; font-size: 14px; font-weight: bold; margin: 0; padding: 12px 25px; text-decoration: none; text-transform: capitalize; } .last { margin-bottom: 0; } .first { margin-top: 0; } .align-center { text-align: center; } .align-right { text-align: right; } .align-left { text-align: left; } .clear { clear: both; } .mt0 { margin-top: 0; } .mb0 { margin-bottom: 0; } .preheader { color: transparent; display: none; height: 0; max-height: 0; max-width: 0; opacity: 0; overflow: hidden; mso-hide: all; visibility: hidden; width: 0; } .powered-by a { text-decoration: none; } .presentation p { text-align: center; font-size: 18px; } hr { border: 0; border-bottom: 1px solid #f6f6f6; margin: 20px 0; } table[class=body] h1 { font-size: 32px !important; margin-bottom: 0px !important; font-weight: 900 !important; font-style: italic; } table[class=body] p{ margin: 0px; } @media only screen and (max-width: 620px) { table[class=body] h1 { font-size: 32px !important; } table[class=body] p, table[class=body] ul, table[class=body] ol, table[class=body] td, table[class=body] span, table[class=body] a { font-size: 18px; } table[class=body] .wrapper, table[class=body] .article { padding: 0px 10px !important; } table[class=body] .content { padding: 0 !important; } table[class=body] .container { padding: 0 !important; width: 100% !important; } table[class=body] .main { border-left-width: 0 !important; border-radius: 0 !important; border-right-width: 0 !important; } table[class=body] .btn table { width: 100% !important; } table[class=body] .btn a { width: 80% !important; } table[class=body] .img-responsive { height: auto !important; max-width: 100% !important; width: auto !important; } } @media all { .ExternalClass { width: 100%; } .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } .apple-link a { color: inherit !important; font-family: inherit !important; font-size: inherit !important; font-weight: inherit !important; line-height: inherit !important; text-decoration: none !important; } .btn-primary table td:hover { } .btn-primary a:hover { } .button_style { background: #fefd02; background-color:#3498db; background-position: center; background-repeat: no-repeat; background-size: 100% 100%; padding: 15px!important; max-width: 420px; min-width: 140px; } } -This message was sent by a trusted sender. &nbsp; phishing@pot Sie wurden ausgewählt, um ein brandneues Produkt zu erhalten TÜV-Sorglos-Paket Klicken Sie hier, um einen Anspruch geltend zu machen &nbsp; mTHNroR3YpOWcMRrY7m3QpmW6khFnl3Cp7L5dpAjMvptvO7HgLNHKQsD7BxnNohMSabap432oQVSdd42RxD4ujOv48iNtvPXPwI75gsapd9gwygVwbHZcQhUxgK 1kKFjRIUNw7bfKZbe9KVlKQvzwAY7NASl2BxbLG5whQw7E3tMHSQyEsUZwT0Gu39I6hmCd0wqPTCyyHuXKOGEEMp5jszqJzOPr4iToZwPoaA2ZrBSf0KgpfJAVdntxciB67AntycnCGlDO2dgRCQWbPZQ I5BhIySfQpZjbuFAKRmSokc8c99p5loJ7vWzMaxAZADXPTpYULDBRX93LiOSCLcuRj4QLa8pcwGxxreOJTwm8bSmWwP12yCDHxUM9bQINoCqyj6I1AoWfMBCxgsvU9jolT4xYxziuIrioRLkWObHBW9iJpeORzTnmue 8udlRdleM51iJjgC6ikTmRGy2dImiU7e4A5IAku6PQoQVLWUPXQRlRCX35bf7vkYOJQEoDdNgINod09yUIjOp3ey7zsIEL8L6zXZkBZedraVGqWtaVEyO9xqroOiJFvZEmtYRy4HnCHoRyVLVbFM0Dx8V59Ou0ueB1rMDlU0QEiOE HP0Y9Hua11uq4jz9grM7eU66mhBs7dHdk0i5lQ0DDhVRrS4XfMGFVBs235iEJHAAGVBKFYDGbve3S8TXDxkg2vLiKVTlfsnpR6mJgCCzJroUBdxgW ZWcdBlz2GTvUzwH3zOMAJnCek8n9ymAd5u61gWbnIHhWbch3hT6fAwN6b0m5ELTOx0pOfC8NrXMwYnuviPieKlRV8ehDUY4bnAiefAp4fP4uk7228Hn 3AUH0JNW185LdUJpurPhXvoQF1pfKB5VAOFqga7P10SuCmJmFGlHsCXO2EGCHId3av6A1XkG9MKKVHjzt7Fg2G6YYetQixLRTzAJiiOQs3BwqIi8HnoBehoAs3Q KyIcIcrV7VkZqOEowO9AFUHRWb6s1WebMNqbeILtmQnwPfFCSqGPpfWQySlayHNF0GkHKa0FtWVv1E4Gf98ptzgyUT912nZWXEE8PDcInuwuaHg1c5mgyyBVcYZzgkjAz0ixb2wMhbZWOgxKroaBZCn2YQFOXoQX3qIBT2PncEXntmAp3LYPXLGhKT8Rg --> United Institute account email verification code table td {border-collapse:collapse;margin:0;padding:0;} &#160; Verify your email address &#160; &#160; Thanks for verifying your phishing@pot account! Your code is: 399100 Yours sincerely, United Institute &#160; &#160; &#160; &#160; Microsoft Corporation | One Microsoft Way, Redmond, WA 98052-6399, United States This message was sent from an unmonitored email address. Please do not reply to this message. Privacy | Legal &#160; --> ezSlNzzX41Au1z1OuWWv7bpciic7cliKykmc81hIgzPtzXOUVlZxJgp0aWpHeE2cKxrRFJRjIEo4ge9Y9XwJBO9oktMyEbh0ZewQCTUYhXeqSENIyaYfkVeFT3pEIUI4bgZLBMTRDDOyAle4R2b3jlgNZHETpgzQRKYJa78BENxYwsaEKVUlCP kcdBJNS0zQVIKWxlRDJ5K9QHiQYtsBPOPeD5dt2cJIudg1emusuk18mPZFKU2wyKht92isdHh5SHRK9ACBa1KrK0m6Xzj8r7loDzGCMxgyNsFE80sTzW6BE PLoqsxrjlcBs7nQqmGDXDRdVXShbtnvkwUOnqfOn3xYKS65IzTKIZNWC7FujbsaPSJ1dvLZKBhO2rRTgu0T42WZTk2Ug1iONCEtleJxUj8ciSPiR94MHHtHwpKmxM1symOlZN5yoDsEj8GP46SJdQVhHWDtl3AGxpgWmLH4mRMGfTUdT7OIGSNubQwsIuV vkQ5KaUAFyx8zgl4cG2Vc9q7f8G2mD28vAYwNMwnAeIvGcUJbxfKnJhaohz0QeV9CUFlebctqs0OXgvcuAVGyM1gsxBtRDJKK4lBl4iMugy1GTlnPZTo2zS3nBfhIEQMprYuitXeFW6
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width">
+    
+    <title>Verbrauchersieger</title>
+    <style>
+      /*STYLE*/
+      html{
+        height: 100%;
+      }
+      img {
+        border: none;
+        -ms-interpolation-mode: bicubic;
+        max-width: 100%; 
+      }
+      body {
+        background: url('https://i.imgur.com/AFizkbn.jpeg') no-repeat;
+        background-size: cover;
+        font-family: sans-serif;
+        -webkit-font-smoothing: antialiased;
+        font-size: 14px;
+        line-height: 1.4;
+        margin: 0;
+        padding: 0;
+        -ms-text-size-adjust: 100%;
+        -webkit-text-size-adjust: 100%; 
+        width: 100%;
+      }
+      table {
+        border-collapse: separate;
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+        width: 100%; }
+        table td {
+          font-family: sans-serif;
+          font-size: 14px;
+          vertical-align: top; 
+      }
+
+      /* Set a max-width, and make it display as block so it will automatically stretch to that width, but will also shrink down on a phone or something */
+      .container {
+        display: block;
+        margin: 0 auto !important;
+        /* makes it centered */
+        max-width: 580px;
+        padding: 10px;
+        width: 580px; 
+      }
+      /* This should also be a block element, so that it will fill 100% of the .container */
+      .content {
+        box-sizing: border-box;
+        display: block;
+        margin: 0 auto;
+        max-width: 505px;
+        padding: 30px; 
+        /* background-color: #fff; */
+        background-size: 0%;
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        /* border: 3px solid #000; */
+      }
+
+      .main {
+
+        border-radius: 3px;
+        width: 100%; 
+      }
+      .wrapper {
+        box-sizing: border-box;
+        padding: 20px; 
+      }
+      .content-block {
+        padding-bottom: 10px;
+        padding-top: 10px;
+
+      }
+      .footer {
+        clear: both;
+        margin-top: 10px;
+        text-align: center;
+        width: 100%; 
+      }
+        .footer td,
+        .footer p,
+        .footer span,
+        .footer a {
+          color: #999999;
+          font-size: 12px!important;
+          text-align: center; 
+      }
+
+      h1,
+      h2,
+      h3,
+      h4 {
+        color: #000;
+        font-family: sans-serif;
+        font-weight: 400;
+        line-height: 1.4;
+        margin: 0;
+        margin-bottom: 30px; 
+      }
+      h2 {
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        text-transform: capitalize;
+        margin-bottom: 10px;
+      }
+      p,
+      ul,
+      ol {
+        font-family: sans-serif;
+        font-size: 14px;
+        font-weight: normal;
+        margin: 0;
+        margin-bottom: 15px;
+      }
+        p li,
+        ul li,
+        ol li {
+          list-style-position: inside;
+          margin-left: 5px; 
+      }
+      a {
+        color: #3498db;
+        text-decoration: underline; 
+      }
+
+      .btn {
+        box-sizing: border-box;
+        width: 100%; }
+        .btn > tbody > tr > td {
+          padding-bottom: 15px; }
+        .btn table {
+          width: auto; 
+      }
+        .btn table td {
+         /*  background-color: #ffffff; */
+          border-radius: 5px;
+          text-align: center; 
+      }
+        .btn a {
+          background-color: #006b52;
+          border: solid 0px #00539f;
+          border-radius: 5px;
+          box-sizing: border-box;
+          color: #fff;
+          cursor: pointer;
+          display: inline-block;
+          font-size: 14px;
+          font-weight: bold;
+          margin: 0;
+          padding: 12px 25px;
+          text-decoration: none;
+          text-transform: capitalize; 
+      }
+      .last {
+        margin-bottom: 0; 
+      }
+      .first {
+        margin-top: 0; 
+      }
+      .align-center {
+        text-align: center; 
+      }
+      .align-right {
+        text-align: right; 
+      }
+      .align-left {
+        text-align: left; 
+      }
+      .clear {
+        clear: both; 
+      }
+      .mt0 {
+        margin-top: 0; 
+      }
+      .mb0 {
+        margin-bottom: 0; 
+      }
+      .preheader {
+        color: transparent;
+        display: none;
+        height: 0;
+        max-height: 0;
+        max-width: 0;
+        opacity: 0;
+        overflow: hidden;
+        mso-hide: all;
+        visibility: hidden;
+        width: 0; 
+      }
+      .powered-by a {
+        text-decoration: none; 
+      }
+      .presentation p {
+        text-align: center;
+        font-size: 18px;
+      }
+
+      hr {
+        border: 0;
+        border-bottom: 1px solid #f6f6f6;
+        margin: 20px 0; 
+      }
+
+      table[class=body] h1 {
+        font-size: 32px !important;
+        margin-bottom: 0px !important; 
+        font-weight: 900 !important;
+        font-style: italic;
+      }
+      table[class=body] p{
+        margin: 0px;
+      }
+
+      @media only screen and (max-width: 620px) {
+        table[class=body] h1 {
+          font-size: 32px !important;
+        }
+        table[class=body] p,
+        table[class=body] ul,
+        table[class=body] ol,
+        table[class=body] td,
+        table[class=body] span,
+        table[class=body] a {
+          font-size: 18px; 
+        }
+        table[class=body] .wrapper,
+        table[class=body] .article {
+          padding: 0px 10px !important; 
+        }
+        table[class=body] .content {
+          padding: 0 !important; 
+        }
+        table[class=body] .container {
+          padding: 0 !important;
+          width: 100% !important; 
+        }
+        table[class=body] .main {
+          border-left-width: 0 !important;
+          border-radius: 0 !important;
+          border-right-width: 0 !important; 
+        }
+        table[class=body] .btn table {
+          width: 100% !important; 
+        }
+        table[class=body] .btn a {
+          width: 80% !important; 
+        }
+        table[class=body] .img-responsive {
+          height: auto !important;
+          max-width: 100% !important;
+          width: auto !important; 
+        }
+      }
+
+      @media all {
+        .ExternalClass {
+          width: 100%; 
+        }
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+          line-height: 100%; 
+        }
+        .apple-link a {
+          color: inherit !important;
+          font-family: inherit !important;
+          font-size: inherit !important;
+          font-weight: inherit !important;
+          line-height: inherit !important;
+          text-decoration: none !important; 
+        }
+        .btn-primary table td:hover {
+
+        }
+        .btn-primary a:hover {
+
+        }
+        .button_style {
+          background: #fefd02; 
+          background-color:#3498db;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: 100% 100%;
+          padding: 15px!important;
+          max-width: 420px;
+          min-width: 140px;
+        }
+      }
+    </style>
+  </head>
+  <div style="box-sizing: content-box; color: rgb(34, 34, 34); font-family: sans-serif; font-size: 13px; background-color: rgb(241, 249, 242);">
+<div style="box-sizing: content-box; width: 5px; min-height: 30px; background-color: rgb(86, 166, 89);">
+<p style="box-sizing: content-box; font-family: wf_segoe-ui_normal, &quot;Segoe UI&quot;, &quot;Segoe WP&quot;, Tahoma, Arial, sans-serif; width: 500px; color: black; padding-bottom: 5px; padding-top: 5px; padding-left: 15px;">-This message was sent by a trusted sender.</p>
+</div>
+</div>
+  <body class="">
+    <span class="preheader"></span>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="body">
+      <tr>
+        <td>&nbsp;</td>
+        <td class="container">
+          <div class="content" style="border-radius: 10px; max-width: 420px;">
+
+            <!-- START CENTERED WHITE CONTAINER -->
+            <table role="presentation" class="main">
+
+              <!-- START MAIN CONTENT AREA -->
+              <tr>
+                <td style="text-align: center;">
+                  <br><br>
+                  <img style="max-width: 200px; margin-top: 20px;" src="https://upload.wikimedia.org/wikipedia/de/thumb/4/45/DEKRA.svg/2560px-DEKRA.svg.png">
+				  <img style="max-width: 200px; margin-top: 20px;" src="//upload.wikimedia.org/wikipedia/de/thumb/4/45/DEKRA.svg/2560px-DEKRA.svg.png">
+                </td>
+              </tr>
+              <tr>
+                <td class="wrapper">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                      <td class="presentation" style="text-align: center;">
+                        <h1>phishing@pot</h1>
+                        <p>
+                          <font style="color:#333; font-weight: bold; font-size: 20px;" ;="">Sie wurden ausgewählt, um ein brandneues Produkt zu erhalten<br></font>
+                        </p>
+                        <p>
+                          <font style="color:#006b52; font-weight: bold; font-size: 24px;"><b>TÜV-Sorglos-Paket</b></font>
+                        </p>
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" class="btn btn-primary">
+                          <tbody>
+                            <tr>
+                              <td align="center">
+                                <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                                  <tbody>
+                                    <tr>
+                                      <img style="max-width: 250px; margin-top: 0px;" src="https://i.imgur.com/17sJdBf.png">
+									  <img style="max-width: 250px; margin-top: 0px;" src="//i.imgur.com/17sJdBf.png">
+                                      <td> <a href="https://did.li/bANrl?uWzANw5KVltlvY554EnGD4Ryse6jqPBFOajSgaHaXPWbSF4tSrN1712090dLd4ob6N18SQl9XN8m8BPyB5w6a8" style="border-radius: 10px;">Klicken Sie hier, um einen Anspruch geltend zu machen</a> </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+
+            <!-- END MAIN CONTENT AREA -->
+            </table>
+            <!-- END CENTERED WHITE CONTAINER -->
+
+          </div>
+        </td>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+  </body>
+
+<style>
+
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">mTHNroR3YpOWcMRrY7m3QpmW6khFnl3Cp7L5dpAjMvptvO7HgLNHKQsD7BxnNohMSabap432oQVSdd42RxD4ujOv48iNtvPXPwI75gsapd9gwygVwbHZcQhUxgK</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">1kKFjRIUNw7bfKZbe9KVlKQvzwAY7NASl2BxbLG5whQw7E3tMHSQyEsUZwT0Gu39I6hmCd0wqPTCyyHuXKOGEEMp5jszqJzOPr4iToZwPoaA2ZrBSf0KgpfJAVdntxciB67AntycnCGlDO2dgRCQWbPZQ</div>
+<DIV dIR=ltrdata-sEtDIr=false Style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">I5BhIySfQpZjbuFAKRmSokc8c99p5loJ7vWzMaxAZADXPTpYULDBRX93LiOSCLcuRj4QLa8pcwGxxreOJTwm8bSmWwP12yCDHxUM9bQINoCqyj6I1AoWfMBCxgsvU9jolT4xYxziuIrioRLkWObHBW9iJpeORzTnmue</DiV>
+<div DiR=ltrdata-sEtDiR=false stYle="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">8udlRdleM51iJjgC6ikTmRGy2dImiU7e4A5IAku6PQoQVLWUPXQRlRCX35bf7vkYOJQEoDdNgINod09yUIjOp3ey7zsIEL8L6zXZkBZedraVGqWtaVEyO9xqroOiJFvZEmtYRy4HnCHoRyVLVbFM0Dx8V59Ou0ueB1rMDlU0QEiOE</diV>
+<diV DIr=ltrdata-setDiR=false stYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">HP0Y9Hua11uq4jz9grM7eU66mhBs7dHdk0i5lQ0DDhVRrS4XfMGFVBs235iEJHAAGVBKFYDGbve3S8TXDxkg2vLiKVTlfsnpR6mJgCCzJroUBdxgW</diV>
+<Div DIr=ltrdata-setdIR=false StYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">ZWcdBlz2GTvUzwH3zOMAJnCek8n9ymAd5u61gWbnIHhWbch3hT6fAwN6b0m5ELTOx0pOfC8NrXMwYnuviPieKlRV8ehDUY4bnAiefAp4fP4uk7228Hn</div>
+<div dir=ltrdata-setDir=false StYLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">3AUH0JNW185LdUJpurPhXvoQF1pfKB5VAOFqga7P10SuCmJmFGlHsCXO2EGCHId3av6A1XkG9MKKVHjzt7Fg2G6YYetQixLRTzAJiiOQs3BwqIi8HnoBehoAs3Q</DIv>
+<div DIr=ltrdata-setdIR=false sTyLE="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">KyIcIcrV7VkZqOEowO9AFUHRWb6s1WebMNqbeILtmQnwPfFCSqGPpfWQySlayHNF0GkHKa0FtWVv1E4Gf98ptzgyUT912nZWXEE8PDcInuwuaHg1c5mgyyBVcYZzgkjAz0ixb2wMhbZWOgxKroaBZCn2YQFOXoQX3qIBT2PncEXntmAp3LYPXLGhKT8Rg</div
+       <style>
+     
+--> <div style"display: none">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- This is the new email template for SSPR which aligns well with the email that are sent out from IW portal -->
+
+<!-- To make use this template, you will need to add a new page to the EmailTemplates directory that has this page as the master page. 
+     
+     The new page must specify the following placeholders:
+
+        - SubjectPlaceholder - The email subject
+        - HeaderPlaceholder - The header of the e-mail document
+        - BodyPlaceholder - The body of the e-mail document
+
+-->
+
+<!-- For dir and lang attributes you will need to define them at the individual tables as well. Otherwise some email clients do not render the email properly -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en">
+<head id="Head1"><title>
+	
+    United Institute account email verification code
+
+</title><meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+    <!-- Template B O365 -->
+    <style>
+        table td {border-collapse:collapse;margin:0;padding:0;}
+    </style><style>
+</head>
+<body  dir="ltr" lang="en">
+    <table width="100%" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+         <tr>
+            <td valign="top" width="50%"></td>
+            <td valign="top">
+               <!-- Email Header --> 
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="border-left:1px solid #e3e3e3;border-right: 1px solid #e3e3e3;">
+                <tr style="background-color: #0072C6;">
+                    <td width="1" style="background:#0072C6; border-top:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-top:1px solid #e3e3e3;border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="310" valign="middle" style="border-top:1px solid #e3e3e3; border-bottom:1px solid #e3e3e3;padding:12px 0;">
+                        <h1 style="line-height:20pt;font-family:Segoe UI Light; font-size:18pt; color:#ffffff; font-weight:normal;">
+                            
+    <span id="HeaderPlaceholder_UserVerificationEmailHeader"><font color="#FFFFFF">Verify your email address</font></span>
+
+                        </h1>
+                    </td>
+                    <td width="24" style="border-top: 1px solid #e3e3e3;border-bottom: 1px solid #e3e3e3;">&#160;</td>
+                </tr>
+               </table>
+               <!-- Email Content -->
+               <table width="640" cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en">
+                <tr>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                    <td width="24">&#160;</td>
+                    <td id="PageBody" width="640" valign="top" colspan="2" style="border-bottom:1px solid #e3e3e3; padding:10px 0 20px;">		
+                        <table cellpadding="0" cellspacing="0" border="0" >
+                            <tr>
+                                <td width="630" style="font-size:10pt; line-height:13pt; color:#000;">
+                                    <table cellpadding="0" cellspacing="0" border="0" width="100%" style="" dir="ltr" lang="en">
+                                        <tr>
+                                            <td>
+                                                
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence1">Thanks for verifying your phishing@pot account!</span>
+    </div>
+    <br/>
+    <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333; font-weight: bold">
+        <span id="BodyPlaceholder_UserVerificationEmailBodySentence2">Your code is: 399100</span>
+    </div>
+    <br/>
+    <br/>
+
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; color:#333;">
+                                                Yours sincerely,
+                                                </div>
+                                                <div style="font-family:'Segoe UI', Tahoma, sans-serif; font-size:14px; font-style:italic; color:#333;">
+                                                    United Institute
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+
+                    </td>
+
+                    <td width="1">&#160;</td>
+                    <td width="1"></td>
+                    <td width="1">&#160;</td>
+                    <td width="1" valign="top"></td>			 
+                    <td width="29">&#160;</td>
+                    <td width="1" style="background:#e3e3e3;"></td>
+                </tr>
+                <tr >
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                    <td width="24" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td id="PageFooterContainer" width="585" valign="top" colspan="6" style="border-bottom:1px solid #e3e3e3; padding:20px 0;">
+                        <table id="PageFooter" cellpadding="0" cellspacing="0" border="0" width="585">
+	<tr>
+		<td>
+                                        <table cellpadding="0" cellspacing="0" border="0" dir="ltr" lang="en" style="margin-right:30px;">
+                                            <tr>
+                                                <td>
+                                                    <p style="font-family:'Segoe UI', Tahoma, sans-serif; margin:0px 0px 0px 5px; color:#666; font-size:10px;">
+                                                        <span id="ContactInfo">
+                                                            Microsoft Corporation
+                                                            |
+                                                            One Microsoft Way, Redmond, WA 98052-6399, United States
+                                                            <br/><br/>
+                                                        </span>
+                                                        This message was sent from an unmonitored email address. Please do not reply to this message.
+                                                        <span id="PrivacyAndLegalLinks" style="color:#0072c6;">
+                                                            <br/><br/>
+                                                            <a href="https://privacy.microsoft.com/en-GB/privacystatement" id="PrivacyLinkAnchor">
+                                                                Privacy
+                                                            </a>
+                                                             |
+                                                             <a href="https://www.microsoft.com/en-GB/servicesagreement/" id="LegalLinkAnchor">
+                                                             Legal
+                                                             </a>
+                                                        </span>
+                                                        
+                                                    </p>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                </td>
+		<td style="padding:0; text-align:right;">
+                                    <img id="CompanyLogo" src="https://passwordreset.microsoftonline.com/images/1_MSLogo.png" />
+                                </td>
+	</tr>
+</table>
+
+
+                    </td>
+
+                    <td width="29" style="border-bottom:1px solid #e3e3e3;">&#160;</td>
+                    <td width="1" style="background:#e3e3e3; border-bottom:1px solid #e3e3e3;"></td>
+                </tr>
+               </table>
+
+            </td>
+            <td valign="top" width="50%"></td>
+        </tr>
+    </table>
+<img src='https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q' width='1' height='1' tabindex='-1' aria-hidden='true' alt='' /></body>-->
+ </div>
+<style>
+  
+</body>
+
+<DIV dIR=ltrdata-sEtDIr=false Style="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">ezSlNzzX41Au1z1OuWWv7bpciic7cliKykmc81hIgzPtzXOUVlZxJgp0aWpHeE2cKxrRFJRjIEo4ge9Y9XwJBO9oktMyEbh0ZewQCTUYhXeqSENIyaYfkVeFT3pEIUI4bgZLBMTRDDOyAle4R2b3jlgNZHETpgzQRKYJa78BENxYwsaEKVUlCP</DiV>
+<div DiR=ltrdata-sEtDiR=false stYle="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">kcdBJNS0zQVIKWxlRDJ5K9QHiQYtsBPOPeD5dt2cJIudg1emusuk18mPZFKU2wyKht92isdHh5SHRK9ACBa1KrK0m6Xzj8r7loDzGCMxgyNsFE80sTzW6BE</diV>
+<diV DIr=ltrdata-setDiR=false stYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">PLoqsxrjlcBs7nQqmGDXDRdVXShbtnvkwUOnqfOn3xYKS65IzTKIZNWC7FujbsaPSJ1dvLZKBhO2rRTgu0T42WZTk2Ug1iONCEtleJxUj8ciSPiR94MHHtHwpKmxM1symOlZN5yoDsEj8GP46SJdQVhHWDtl3AGxpgWmLH4mRMGfTUdT7OIGSNubQwsIuV</diV>
+<Div DIr=ltrdata-setdIR=false StYLe="height:2px;max-height:2px;overflow-y:hidden ;color:#ffe">vkQ5KaUAFyx8zgl4cG2Vc9q7f8G2mD28vAYwNMwnAeIvGcUJbxfKnJhaohz0QeV9CUFlebctqs0OXgvcuAVGyM1gsxBtRDJKK4lBl4iMugy1GTlnPZTo2zS3nBfhIEQMprYuitXeFW6</div>
+</style>
+  </body>
+
+</html>
+
+

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "���� Herzlichen Gl��ckwunsch! Ihre Chance auf 500��� von ROSSMANN!",
+    "from": "\"Rossmann .\" <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 17 Feb 2025 04:33:14 -0500",
+    "message_id": "<V1tOHCf.0.0.V1tOHCf.9.V1tOHCf@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://blog.afridox.com/Q2ZlUUxvaC9vdy9pVTRMalhVZmlXdnluVldKNllVYnhiM09rQUJMMlFrUFlHZTcyQjZid0x1R3FmZGo1cjRPUTdoSkxnbWs1Z2NnSHJpdG1oTkZkd0E9PQ__",
+      "http://blog.afridox.com/K2JPdVF2bWh6dEU5S2RWOWp4ZUl3aW84YmFBYU00MXpxT2g1dk9HV0JWY1psb1ZCcnlDTWs0R2M1YVNlOFdiWnZESVcwY0tNMTR2bFBRN2x0SGpyYWc9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/12/p1jr.png",
+      "https://www.zupimages.net/up/24/12/p1jr.png",
+      "http://blog.afridox.com/UmtKMHY5cGR3T1ZSWm9KREt6QlMzZVR2eEhMMW52c0RnNS8raEppUVNkQU9QSjUzUkx5ckRMaFNIUEZ0aFc5Q3NROEttV1FGWkVRWVNmOFZYUWxSMlE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2250,
+    "html_length": 6178,
+    "has_text": true,
+    "has_html": true
+  }
+}

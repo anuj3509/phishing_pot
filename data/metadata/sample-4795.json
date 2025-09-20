@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Processo de Suspensão de CNH em Andamento - Protocolo: 33794809",
+    "from": "Detran Online <carteira-digital326820@detran>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 15 Jan 2025 22:53:19 +0000",
+    "message_id": "<1034bd7a0392ed69e28525236a970ee0@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_1034bd7a0392ed69e28525236a970ee0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_1034bd7a0392ed69e28525236a970ee0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap",
+      "https://northamerica-northeast1-steam-bonbon-387615.cloudfunctions.net/det-3",
+      "https://detran.gov.br/",
+      "gov.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3906,
+    "has_text": true,
+    "has_html": true
+  }
+}

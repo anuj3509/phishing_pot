@@ -1,0 +1,79 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your recent purchase 467290 is on its way!
+From: "Paid Customer" <skmakaal@gmail.com>
+To: "Paid Customer" <phishing@pot@gmail.com>
+Date: Wed, 12 Feb 2025 05:30:33 -0800 (PST)
+Message_Id: <67aca279.170a0220.14a2e2.551a@mx.google.com>
+Content_Type: multipart/mixed;
+	boundary="===============8254380207169072277=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="===============8254380207169072277=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://www.w3.org/1999/xhtml
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+.auto-style1 { color: #0490F4; } .auto-style2 { color: #053CED; } Pay Pal Invoice Receipt date: Wednesday, 12 February 2025 Invoice Receipt no: ORD933314 Order Processed Successfully Hey Paid, We're getting your order ready, and we'll email you with the tracking information as soon as it's out the door. Here's where it's headed. Invoice Receipt details Purchase: Coinbase exchange LLC BTC (Crypto Digital Currency) Gateway: PayPal Quantity: 1x Amount- $1013.69 Customer details Name: Paid Customer Email: rodrigo-f-p@hotmail.com Customer Id: 619JZY-533CJJ Questions about your order? Give us a call at +1 (844) 679-5541 Warmest Regards, PayPal, Inc. Support: +1 (844) 679-5541 Copyright 2024 All Rights Reserved 4216 Paddock Av Tx Leavenworth Kansas 99324 USA
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta content="en-us" http-equiv="Content-Language">
+
+<title></title>
+<style type="text/css">
+.auto-style1 {
+	color: #0490F4;
+}
+.auto-style2 {
+	color: #053CED;
+}
+</style>
+</head>
+
+<body>
+
+<h1><strong><span class="auto-style2">Pay</span><span class="auto-style1">Pal</span></strong></h1>
+Invoice Receipt date: Wednesday, 12 February 2025<br>
+Invoice Receipt no: ORD933314<h3>Order Processed Successfully</h3>
+Hey Paid, We're getting your order ready, and we'll email you with the 
+tracking information as soon as it's out the door. Here's where it's headed.<br>
+<br>
+<strong>Invoice Receipt details</strong><br>
+Purchase: Coinbase exchange LLC BTC (Crypto Digital Currency)<br>
+Gateway: PayPal<br>
+Quantity: 1x<br>
+Amount- $1013.69<br>
+<br>
+<strong>Customer details</strong><br>
+Name: Paid Customer<br>
+Email: rodrigo-f-p@hotmail.com<br>
+Customer Id: 619JZY-533CJJ<br>
+<br>
+Questions about your order?<br>
+Give us a call at <strong>+1 (844) 679-5541</strong><br>
+<br>
+Warmest Regards,<br>
+PayPal, Inc.<br>
+Support: +1 (844) 679-5541<br>
+<br>
+Copyright 2024 All Rights Reserved<br>
+4216 Paddock Av Tx Leavenworth Kansas 99324 USA
+
+</body>
+
+</html>

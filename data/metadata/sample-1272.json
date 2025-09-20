@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "New Business Inquiry:RE: RE:Signed Contract -NEW ORDER (PO#WB-UK-0022)",
+    "from": "Susan Wang <info@hosngpackingss.com>",
+    "to": "wpx@protonmail.com",
+    "date": "21 May 2023 19:40:13 -0700",
+    "message_id": "<20230521194013.508C13891085AE54@hosngpackingss.com>",
+    "content_type": "multipart/mixed;boundary=---------------------859fa5c46399091a291776a10b9cecd2"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------859fa5c46399091a291776a10b9cecd2"
+  },
+  "attachments": [
+    {
+      "filename": "PO45638 - PO76483.Xls.htm",
+      "content_type": "text/html",
+      "size": 128846
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.phoneboothoffice.com",
+      "http://www.phoneboothoffice.com/",
+      "http://www.w3.org/TR/html4/loose.dtd",
+      "https://www.google.com/url?q=http://www.phoneboothoffice.com&amp;source=gmail&amp;ust=1676330419494000&amp;usg=AOvVaw1Aptwp4BPYb_30wKfIhey0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 494,
+    "html_length": 5647,
+    "has_text": true,
+    "has_html": true
+  }
+}

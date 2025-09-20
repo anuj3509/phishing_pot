@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Suspensão da sua CNH em andamento, acesse agora e evite bloqueio. ID: 09184882",
+    "from": "Detran Notifica <comunicado732254@regularizarcnh>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 1 Apr 2025 00:58:18 +0000",
+    "message_id": "<6c19606700a2159885bd5ad3377426f1@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_6c19606700a2159885bd5ad3377426f1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_6c19606700a2159885bd5ad3377426f1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gov.br",
+      "https://function-9-1062496865825.us-central1.run.app/",
+      "hotmail.com,",
+      "https://detran.gov.br/",
+      "https://fonts.googleapis.com/css2?family=Product+Sans:wght@400&display=swap"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3856,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Dear recipient",
+    "from": "lee shau kee < acretech@srvalley.co.za>",
+    "to": "phishing@pot",
+    "date": "1 Mar 2025 16:30:22 +0000",
+    "message_id": "<20250301163022.9596052260B38654@srvalley.co.za>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 367,
+    "html_length": 371,
+    "has_text": true,
+    "has_html": true
+  }
+}

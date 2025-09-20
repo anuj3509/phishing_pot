@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Fw: Your Bank Account has been blocked due to unusual activities\r\n CASE# T53-H32-C10-C83",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Tue, 19 Sep 2023 14:09:38 +0000",
+    "message_id": "\r\n <IA0PR02MB977942B2738C2C871189168AB3FAA@IA0PR02MB9779.namprd02.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB977942B2738C2C871189168AB3FAAIA0PR02MB9779namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_IA0PR02MB977942B2738C2C871189168AB3FAAIA0PR02MB9779namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "boonsupply.com&gt;",
+      "https://i1.createsend1.com/ei/d/96/8DE/E1E/180317/csimport/34c8f34e-64a8-4ad7-874a-a9b70ee648e2_0_0_0_0_0_0_0_0_0.jpg]",
+      "boonsupply.com",
+      "no.reply.alerts@chase.com",
+      "https://dsgo.to/CQECQECnpqY3NDSGtODt9ft2qtxzcXGUveTV5fRYmtYAZsQCnpqY3NDSGtODt9ft2qtxzcXGUveTV5fRYmtYAZsQCQECnpqY3NDSGtODt9ft2qtxzcXGUveTV5fRYmtYAZsQ",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "no.reply.alerts@chase.com&gt;",
+      "https://i1.createsend1.com/ei/d/96/8DE/E1E/180317/csimport/34c8f34e-64a8-4ad7-874a-a9b70ee648e2_0_0_0_0_0_0_0_0_0.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 957,
+    "html_length": 12087,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "support <mentorah.info@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 30 Aug 2024 04:21:16 -0700 (PDT)",
+    "message_id": "<66d1ab2c.5d0a0220.12217b.a7b0@mx.google.com>",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t6wer.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 71,
+    "html_length": 147,
+    "has_text": true,
+    "has_html": true
+  }
+}

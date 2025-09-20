@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Parab��ns, um novo limite de cr��dito te espera(515).",
+    "from": "Mercado Pago <aviso@%atendimento.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 25 Oct 2024 22:41:42 +0800 (CST)",
+    "message_id": "<20241025144143.00AE34D9DF9@0bq6nrsh.vm>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://wa.me/+5511919219501?text=Olá%20estou%20interessado%20no%20aumento%20de%20crédito%20aprovado"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1690,
+    "html_length": 3504,
+    "has_text": true,
+    "has_html": true
+  }
+}

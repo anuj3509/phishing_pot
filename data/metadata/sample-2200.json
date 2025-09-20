@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch,phishing@pot",
+    "from": "Kundenservice, <service@stayfriends.de.>, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 02 Nov 2023 06:59:48 +0100",
+    "message_id": "<pryonf8.uuuvr.jrw.jrw@udyedqvwkwtjxtb.viq>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://revision-online.info/bkIyUytycVM0T2ViV2FEYndjR0JwV2NVOFhDWnNNeWNOam4xaGV5YmIzZGNoQVB4N2hOdFlKelpSRW1lNEd3K0M2QzIwNWU2OGp4ZkdNZ3Z4UzdzTkliVzN2Vyt6bUtzOW9rSjZ2Zmd5alBIT200R29RcjcrSTgveEdiWE1tdEpMUjZvUzBHVzFLbkxVdGdtMmNLUlRBPT0_",
+      "http://revision-online.info/RkZ4OXpiWjJGeTJHRjRFVDlpRDgwRWJra0pqSjZNcVVDWlBSd09GY3R1NG56bWJqMWpES09hNC95dWFnbkRYSXBvdkRNbGhWU1dBODNPY0hIcENUYW9GSGFwYUdlVVR5MFRaZXpvclFpNVM4VFl6MUxlaStrancwRjBiS3ZMZzZGQjZINWIzcWtlcTNVSUNTazVVZ1hnPT0_",
+      "https://freeimghost.net/images/2023/11/02/3c92beaf6ecfa12.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://revision-online.info/NisrS1pyMUNlTmJtY1pNTXpFUE5jYnh2MFgxcjRWWXhkellMeTY0Z2tnKzFOSU50NnYrdU85eUpOQ0U0R0FZdWdSZnhmYnFaNmUzUVhoNnNWRWdrem1QbS8xOUVGTmxNWWFPTGlNMEM0WnNIK0hOYXRjMFNudWtTT0R6S0MzaURXcHQxQ0ZCZjE2bVVsWnhiYmhLc0F3PT0_",
+      "freeimghost.net/images/2023/11/02/3c92beaf6ecfa12.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1994,
+    "html_length": 10727,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "PROCES VOUS CONCERNANT",
+    "from": "PROCES VOUS CONCERNANT <policenational740@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 19 Feb 2023 00:37:14 +0100",
+    "message_id": "<CAAGmO5r+H9H83SX1fVO+qKbarvLjDjkRyQDB0=6pJZtEtsmi9w@mail.gmail.com>",
+    "content_type": "multipart/related; boundary=\"0000000000002ac44805f501ea81\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related; boundary=\"0000000000002ac44805f501ea81\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 111,
+    "html_length": 326,
+    "has_text": true,
+    "has_html": true
+  }
+}

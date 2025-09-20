@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Anderen ontmoeten was nog nooit zo simpel",
+    "from": "\"Leslie\" <newsmail@appZM.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 14 Dec 2022 20:33:15 +0000",
+    "message_id": "<0.0.0.0.1D90FFB4B3C52A4.288C@automatic-link.net>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nospamlink.com/ebc449f0-c9ef-41fb-bc65-2183719864bc/",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "http://smarttrck.com/?a=77&amp;c=14&amp;s1=limaboja&amp;email=phishing@pot",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2357,
+    "html_length": 9525,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "ENC: Microsoft account unusual sign-in activity",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 16:52:33 +0000",
+    "message_id": "\r\n <SA0PR04MB7370E5053E3A37C4B316FCB5B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370E5053E3A37C4B316FCB5B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370E5053E3A37C4B316FCB5B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "abostramlo.online?&cc=account_confirmation@abostramlo.online&subject=unusual%20sign-in%20activity&body=Report%20The%20User",
+      "abostramlo.online?&amp;cc=account_confirmation@abostramlo.online&amp;subject=unusual",
+      "abostramlo.online?&cc=account_confirmation@abostramlo.online&Subject=Unsubscribe+me",
+      "abostramlo.online?&amp;cc=account_confirmation@abostramlo.online&amp;Subject=Report+The+User",
+      "abostramlo.online?&cc=account_confirmation@abostramlo.online&Subject=Report+The+User",
+      "http://BestDeals.giize.com/track/o28621rwWfm2149294wDwd246827uAv32655oArA647",
+      "abostramlo.online?&amp;cc=account_confirmation@abostramlo.online&amp;Subject=Unsubscribe+me",
+      "microsoft.com",
+      "microsoft.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1192,
+    "html_length": 5952,
+    "has_text": true,
+    "has_html": true
+  }
+}

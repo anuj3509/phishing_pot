@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Prazo final para retirada do seu pedido na Alfândega.",
+    "from": "Correios <global@correios>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 7 Apr 2025 10:33:01 +0000",
+    "message_id": "<7dab2585-97e8-cae9-7537-88dae3ffa765@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3521,
+    "html_length": 6420,
+    "has_text": true,
+    "has_html": true
+  }
+}

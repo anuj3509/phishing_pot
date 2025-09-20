@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Das ist leider das letzte Mal",
+    "from": "EDEKA-Gutschein, <reply@telekom.com.>, EDEKA-Gutschein,\r\n\t<reply@telekom.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 29 Sep 2023 11:12:17 +0200",
+    "message_id": "<dQSqXSg.0.0.dQSqXSg.9.dQSqXSg@elekom.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://stabrino.info/cl/3863_md/1995/721/1444/222/428764",
+      "https://imgur.com/cXbMi2q.jpg",
+      "imgur.com/cXbMi2q.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://stabrino.info/oop/3863_md/1995/721/1444/222/428764",
+      "http://stabrino.info/op/3863_md/1995/721/1444/222/428764"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1877,
+    "html_length": 8832,
+    "has_text": true,
+    "has_html": true
+  }
+}

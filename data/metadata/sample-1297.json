@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Voce tem pontos acumulados - Protocolo: WXBS7M4JW4",
+    "from": "Banco Bradesco <014039@clinicavizioli.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 9 Sep 2023 19:36:46 +0000",
+    "message_id": "<d0e6652ce7f5bf7b4516eeb3ececb1e1@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d0e6652ce7f5bf7b4516eeb3ececb1e1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_d0e6652ce7f5bf7b4516eeb3ececb1e1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://acessonovosprim.blogdns.com/st/",
+      "http://www.w3.org/1999/xhtm=",
+      "http://www.w3.org/TR/xht=",
+      "xhtml1-transitional.dtd",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6_tDnf2v5dp9tzNnMdTLiX8bQB-uVkfObyIEveTvldC2XhLea6DwNoHlSymygtBJzaZo&amp;usqp=CAU",
+      "https://dafitistatic.dafiti.com.br/dynamic_yield/cms/static/kanui/images/191ac67dbc232__livelo_texto.PNG"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 51,
+    "html_length": 10756,
+    "has_text": true,
+    "has_html": true
+  }
+}

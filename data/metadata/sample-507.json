@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "JUSTIÇA DO TRABALHO",
+    "from": "INTIMAÇAO <datimartins@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 23 Mar 2023 16:33:53 -0300",
+    "message_id": "<20230323163353A3688EDD25$86F9B83C28@SERVER>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_767_0707_86670696.26563700\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_767_0707_86670696.26563700\""
+  },
+  "attachments": [
+    {
+      "filename": "TRIBUNAL DO TRABALHO.jpeg",
+      "content_type": "image/jpeg",
+      "size": 7796
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bsnwoc9a59s0.zytqxz59a8.buzz/_ad2.html",
+      "http://www.oabma.org.br/public/uploads/images/siteNoticias/201805031122185aeb1b1a39e96.jpg",
+      "https://open-click.smtplw.com.br/openings/m/fbdcd84d4b28b94002e9b7c42c16376d-1679600035.05/a/fbdcd84d4b28b94002e9b7c42c16376d/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/595022a8bb6d93575e1be58bc819e32a454ada72"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 709,
+    "html_length": 2841,
+    "has_text": true,
+    "has_html": true
+  }
+}

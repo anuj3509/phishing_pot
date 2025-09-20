@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Put this on your skin to diminish dark spots...",
+    "from": "On Behalf of Gundry MD <barbi_bohlingolsen_18448@a.n.a.m.e.d72.firdawsaela.shop >",
+    "to": "phishing@pot",
+    "date": "Sat, 24 Aug 2024 18:05:16 +0000",
+    "message_id": "<6DC0209D926CF3CDFD75F98ED801E7D4-6cd5e978a278470aa0bb1fc1566c0bdf@inbox.foxnews.com>",
+    "content_type": "text/html;"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/huoDV5Im4d",
+      "https://t.co/k84Oq0leRg",
+      "http://104.219.248.205/track/3pXDOc4702yBmi47cxiajdcyvj308FUMOUVWWWSZOCXL707HTLY1561448p9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 992,
+    "html_length": 1858,
+    "has_text": true,
+    "has_html": true
+  }
+}

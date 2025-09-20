@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Are You Ready for Web Hacking 360°?",
+    "from": "avinash@comproavi.com",
+    "to": "phishing@pot",
+    "date": "Thu, 30 Mar 2023 17:39:31 +0000",
+    "message_id": "<01000187339a6f6a-a3cc5135-79a7-4bc1-90ab-3043d6b353de-000000@email.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://firebasestorage.googleapis.com/v0/b/onlinecoursehost-prod.appspot.com/o/EWCMtAhS9bQgqAhVHuI5wJwrR5r1%2FrichTextImages%2FkSlTHRGRe3n5h0DaiZtQ.jpg?alt=media&amp;token=fba64810-44d7-4238-a18c-ebffdd2a69ba",
+      "hotmail.com",
+      "https://youtu.be/Sg-y3dr6sZc",
+      "https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fyoutu.be%2FSg-y3dr6sZc",
+      "https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-open-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH",
+      "https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-click-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;emailSentId=oSd9rZHRkt9I1aEbOYHH&amp;redirectTo=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSg-y3dr6sZc",
+      "https://onlinecoursehost-prod.appspot.com/api/track-bulk-email-unsubscribe-rate?bulkEmailId=Y8gPRnKDAAbKC2ZAuyaw&amp;tenantId=EWCMtAhS9bQgqAhVHuI5wJwrR5r1&amp;userId=jp3wlDc9AWNf2BzzxbLcEJXgIFK2"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1740,
+    "html_length": 3820,
+    "has_text": true,
+    "has_html": true
+  }
+}

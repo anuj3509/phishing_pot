@@ -1,0 +1,241 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 󠄹[Action Required] Your C󠄹o󠄹inba󠄹󠄹se Account Restricted
+From: "󠄹C󠄹o󠄹inba󠄹󠄹se Support" <ra@advancedautorent.com>
+To: <customer@postmaster.coinbase.com>
+Date: Tue, 29 Jul 2025 14:23:30 +0000
+Message_Id: <0029780929767.338828266809009.8942730738@mail.gmail.com>
+Content_Type: multipart/mixed;
+	boundary="inmixtvJ7HB6cz3lUK7bDt8TgTBm6Ox53uHAaBb8g4cgl8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmixtvJ7HB6cz3lUK7bDt8TgTBm6Ox53uHAaBb8g4cgl8"
+
+ATTACHMENTS:
+--------------------
+- ATT02551984585 (application/octet-stream, 5396 bytes)
+- ATT002551984585 (application/octet-stream, 5230 bytes)
+- ATT#2551984585 (application/octet-stream, 6350 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://www.advancedautorent.com
+  - knafo.com
+
+DECODED TEXT CONTENT:
+------------------------------
+<div style="max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ffffff; /* red for urgency */            color: white; padding: 25px 20px; text-align: center;">
+<h1><span style="color: #ffffff; font-size: 33px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="data:image/png;base64,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" /></span></h1>
+</div>
+<div style="padding: 25px 30px;">
+<div style="text-align: center;">
+<h3 style="text-align: left;" data-start="107" data-end="525">Temporary Restriction of Your Account</h3>
+<p style="text-align: left;" data-start="104" data-end="491">We regret to inform you that your cryptocurrency account has been placed under temporary restriction. During a recent compliance review, our team identified a discrepancy between the documentation on file and the account type you selected. To maintain the integrity of our services and comply with applicable regulations, we must pause all account activity until this matter is resolved.</p>
+<p style="text-align: left;" data-start="493" data-end="724">To reinstate full access, please proceed to our secure verification portal by clicking the link below. There, you will be able to amend your account type selection and submit the appropriate identification documents for our review.</p>
+<a style="display: block; font-size: 16px; text-align: center; padding: 15px 25px; background-color: #0052ff; color: #ffffff; border-radius: 4px; text-decoration: none; margin-bottom: 24px;" href="https://www.advancedautorent.com">Access the Verification Portal</a></div>
+<p data-start="1099" data-end="1232">Upon receipt of your updated information, our compliance department will conduct a prompt assessment&mdash;typically within one business day&mdash;and you will receive notification once the restriction has been lifted.</p>
+<p data-start="1412" data-end="1452">&nbsp;</p>
+<p>Best regards,<br /> <strong>Coinbase Compliance Team</strong></p>
+</div>
+<div style="text-align: center; padding: 20px; font-size: 12px; color: #777777; background-color: #f7f7f7;">
+<p>&copy; 2025 Coinbase. All rights reserved.</p>
+<p>100 Spear Street, Suite 600, San Francisco, CA 94105</p>
+<p><a style="color: #0052ff; text-decoration: none;" href="#">Privacy Policy</a> | <a style="color: #0052ff; text-decoration: none;" href="#">Terms of Service</a> | <a style="color: #0052ff; text-decoration: none;" href="#">Support Center</a></p>
+</div>
+</div>
+<div>
+<div class="rps_88be">
+<div lang="EN-US" style="word-wrap: break-word;">
+<div class="x_WordSection1">
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">Hi Korey&mdash;</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Good morning, I hope that the shots you had last week have been beneficial.&nbsp;&nbsp;&nbsp; Here&rsquo;s the latest update, and you don&rsquo;t have to wait for Thursday this week.&nbsp;&nbsp;&nbsp; First of all, the good news:&nbsp;&nbsp; Falon Matthews got reassigned, and we have a new guy at LFC.&nbsp;&nbsp;&nbsp; His name is Christopher Williams, and his letter is attached.&nbsp;&nbsp;&nbsp; Now for the bad news:&nbsp;&nbsp; the judge scheduled your case for trial on March 18, 2024.&nbsp;&nbsp;&nbsp; This is disappointing, I figured it would happen at the end of 2023, but there is nothing we can do about it except hector the other side&rsquo;s lawyer from time to time.</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">The issuing of the order is an opportunity to reach out to the lawyers on the other side and see if there is any way forward to settle outside of court.&nbsp; Otherwise, we have a wait on our hands.&nbsp;&nbsp; I will want you to go back to Dr. Cantwell and Dr. Reed for an update towards the end of 2023 so that their testimony can be updated with your then-current condition.&nbsp; Other than that, we are in a waiting period.&nbsp;&nbsp;&nbsp; If I had not filed the paperwork for a scheduling conference (which I did before Christmas), who knows how long Berks would have let this go before scheduling.</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Sincerely,</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Steve</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">PS TO KERI:&nbsp;&nbsp; please update the database with the Lincoln adjuster&rsquo;s contact information</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Stephen W. Zakos, Esquire</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Attorney At Law</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Knafo Law Offices LLC</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">4201 Tilghman Street</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Allentown, PA&nbsp; 18104</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">(v) 610-432-2221</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">(f) 610-432-6411</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;"><a id="LPlnk114794" title="mailto:szakos@knafo.com" href="mailto:szakos@knafo.com" data-linkindex="0">szakos@knafo.com</a></span></p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
+<div style="background-color: #ffffff; /* red for urgency */            color: white; padding: 25px 20px; text-align: center;">
+<h1><span style="color: #ffffff; font-size: 33px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="data:image/png;base64,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"></span></h1>
+</div>
+<div style="padding: 25px 30px;">
+<div style="text-align: center;">
+<h3 style="text-align: left;" data-start="107" data-end="525">Temporary Restriction of Your Account</h3>
+<p style="text-align: left;" data-start="104" data-end="491">We regret to inform you that your cryptocurrency account has been placed under temporary restriction. During a recent compliance review, our team identified a discrepancy between the documentation on file and the account type you selected. To maintain the integrity of our services and comply with applicable regulations, we must pause all account activity until this matter is resolved.</p>
+<p style="text-align: left;" data-start="493" data-end="724">To reinstate full access, please proceed to our secure verification portal by clicking the link below. There, you will be able to amend your account type selection and submit the appropriate identification documents for our review.</p>
+<a style="display: block; font-size: 16px; text-align: center; padding: 15px 25px; background-color: #0052ff; color: #ffffff; border-radius: 4px; text-decoration: none; margin-bottom: 24px;" href="https://www.advancedautorent.com">Access the Verification Portal</a></div>
+<p data-start="1099" data-end="1232">Upon receipt of your updated information, our compliance department will conduct a prompt assessment—typically within one business day—and you will receive notification once the restriction has been lifted.</p>
+<p data-start="1412" data-end="1452">&nbsp;</p>
+<p>Best regards,<br> <strong>Coinbase Compliance Team</strong></p>
+</div>
+<div style="text-align: center; padding: 20px; font-size: 12px; color: #777777; background-color: #f7f7f7;">
+<p>© 2025 Coinbase. All rights reserved.</p>
+<p>100 Spear Street, Suite 600, San Francisco, CA 94105</p>
+<p><a style="color: #0052ff; text-decoration: none;" href="#">Privacy Policy</a> | <a style="color: #0052ff; text-decoration: none;" href="#">Terms of Service</a> | <a style="color: #0052ff; text-decoration: none;" href="#">Support Center</a></p>
+</div>
+</div>
+<div>
+<div class="rps_88be">
+<div lang="EN-US" style="word-wrap: break-word;">
+<div class="x_WordSection1">
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">&nbsp;</p>
+<p class="x_MsoNormal">Hi Korey—</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Good morning, I hope that the shots you had last week have been beneficial.&nbsp;&nbsp;&nbsp; Here’s the latest update, and you don’t have to wait for Thursday this week.&nbsp;&nbsp;&nbsp; First of all, the good news:&nbsp;&nbsp; Falon Matthews got reassigned, and we have a new guy at LFC.&nbsp;&nbsp;&nbsp; His name is Christopher Williams, and his letter is attached.&nbsp;&nbsp;&nbsp; Now for the bad news:&nbsp;&nbsp; the judge scheduled your case for trial on March 18, 2024.&nbsp;&nbsp;&nbsp; This is disappointing, I figured it would happen at the end of 2023, but there is nothing we can do about it except hector the other side’s lawyer from time to time.</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">The issuing of the order is an opportunity to reach out to the lawyers on the other side and see if there is any way forward to settle outside of court.&nbsp; Otherwise, we have a wait on our hands.&nbsp;&nbsp; I will want you to go back to Dr. Cantwell and Dr. Reed for an update towards the end of 2023 so that their testimony can be updated with your then-current condition.&nbsp; Other than that, we are in a waiting period.&nbsp;&nbsp;&nbsp; If I had not filed the paperwork for a scheduling conference (which I did before Christmas), who knows how long Berks would have let this go before scheduling.</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Sincerely,</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">Steve</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal">PS TO KERI:&nbsp;&nbsp; please update the database with the Lincoln adjuster’s contact information</p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Stephen W. Zakos, Esquire</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Attorney At Law</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Knafo Law Offices LLC</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">4201 Tilghman Street</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">Allentown, PA&nbsp; 18104</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">(v) 610-432-2221</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;">(f) 610-432-6411</span></p>
+<p class="x_MsoNormal"><span style="font-size: 12.0pt; font-family: 'Arial',sans-serif;"><a id="LPlnk114794" title="mailto:szakos@knafo.com" href="mailto:szakos@knafo.com" data-linkindex="0">szakos@knafo.com</a></span></p>
+<p class="x_MsoNormal" aria-hidden="true">&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+

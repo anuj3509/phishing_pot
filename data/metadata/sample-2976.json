@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Seize Your XRP Share: Claiming Made Easy",
+    "from": "Ripple <xrp@billing.eplane.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 01 Mar 2024 11:57:19 +0000",
+    "message_id": "<20240301115719.9b34f896339e2e52@billing.eplane.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://go.ripple.com/e/105572/Ripple/96ddnl/1031312058/h/GPXOQpZMEAmPGhx0exZ8k17rXNabAltTNDvRsh85ac4",
+      "http://go.pardot.com/l/105572/2019-08-13/7kfymn/105572/135601/fb.png",
+      "http://go.pardot.com/l/105572/2019-08-13/7kfymq/105572/135603/tw.png",
+      "https://s23-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "https://go.ripple.com/e/105572/rippleofficial/kkzvhp/1031312058/h/GPXOQpZMEAmPGhx0exZ8k17rXNabAltTNDvRsh85ac4",
+      "http://www.w3.org/1999/xhtml",
+      "http://go.pardot.com/l/105572/2019-09-06/7vbs48/105572/138405/Ripple_logo_icon_blue_gradient.png",
+      "http://go.pardot.com/l/105572/2019-08-13/7kfyml/105572/135599/in.png",
+      "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900&display=swap",
+      "ripple.com",
+      "https://s23-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://go.ripple.com/unsubscribe/u/105572/2d94d36632c21e75d240d9b28051510a434b9f437d57e0282631b330f30fb5c0/1031312058",
+      "http://go.pardot.com/l/105572/2019-08-13/7kfhyd/105572/135579/logo.jpg",
+      "https://go.ripple.com/e/105572/company-rippleofficial/kkzvhm/1031312058/h/GPXOQpZMEAmPGhx0exZ8k17rXNabAltTNDvRsh85ac4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3441,
+    "html_length": 20360,
+    "has_text": true,
+    "has_html": true
+  }
+}

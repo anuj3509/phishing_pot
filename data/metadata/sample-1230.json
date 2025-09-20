@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Action Required: Account Suspension Notification",
+    "from": "Trust Wallet <orlando.reid@exprealty.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 04 Sep 2023 21:11:24 +0000 (UTC)",
+    "message_id": "<7f4c283bea3d921710dcdbfd7a2efb2c@swift.generated>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://dtzulyujzhqiu.cloudfront.net/expcorporate377/images/1680207053_FXGNbRcVzczGDGVgcvSuDLE4FDdiKkAnLWKYuwlq.png",
+      "orlando.reid@exprealty.com",
+      "https://dtzulyujzhqiu.cloudfront.net/expcorporate377/images/1680207095_N3rifzvL5LNyiucfMqhQSursJKpElJJrcjcR18dM.png",
+      "https://email.kunversion.com/ls/click?upn=YO8wEnKw29JBsrIALnGgKZaT1SyN0o8FVCB1yq9PlbAh3KO-2FWj0Vro2bZeDuyGbZ84kGLHyaSDNBuWr6erOo4A-3D-3DXm-__Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPlBynOSW5I6L8DPOmdGTldxVyFzbtnCBC-2F5Ld4MN333MT3QbnY7WsQFYg26rY8i7tnqDVK5ABaSKQ-2F-2FK1wsKf89kn1XKkZ-2B3tgQEihrGHJp245ChlfnGr-2F3tAC-2Be-2FTi8BzpF-2FJGIrWPKV4wnm5AvhnOD80VPjdSOaqc-2BfnVUS7B-2BIeDnURoyzuS9fadJz2qShkiZ9T8Y7mACDSRNzMGWmlzTvbezT9sIyP6Q4BFnQMfCom-2B2Q6N8LuSrZyyAUN-2BcUaTXE116rwVSfP0RjxKYzL5VD-2BcR9Z7-2B-2B5NR62sIj7X7VvmKL6AhYDX1DFCE9Zx2wX7IEGdR0WtZSBhxqMh0nWA-2Fah9aw0iofXBBJ7P-2F-2Byq-2BnF0lZUB1KdbcSqUPs6tM78-3D",
+      "https://kvcore-library.s3.amazonaws.com/expcorporate377/images/3d0895cb551d0654a3b45e6b202fc4a2.png",
+      "https://kvcore-library.s3.amazonaws.com/expcorporate377/images/af1639c63acedc8d3956915d75d882a9.png",
+      "https://email.kunversion.com/ls/click?upn=YO8wEnKw29JBsrIALnGgKZaT1SyN0o8FVCB1yq9PlbAKnBgOwnmZ4gdtojbP3UDHkQahRzjqoZ7SJyPbzDeOkWJfS0PdMFO-2Bfoju6DHRmq4-3DDeYx_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPlBynOSW5I6L8DPOmdGTldxVyFzbtnCBC-2F5Ld4MN333MT3QbnY7WsQFYg26rY8i7tnqDVK5ABaSKQ-2F-2FK1wsKf89kn1XKkZ-2B3tgQEihrGHJp245ChlfnGr-2F3tAC-2Be-2FTi8BzpF-2FJGIrWPKV4wnm5AvhnOD80VPjdSOaqc-2BfnVUS7B-2BIeDnURoyzuS9fadJz2qShkiZ9T8Y7mACDSRNzMGWmlzTvbezT9sIyP6Q4BFnQMfCom-2B2Q6N8LuSrZyyAUN-2BcUbqfWP-2BSe9zQUmIqUQDoLdKtpt2s8KDZJ-2BOL6ekxbQyfndZkV-2BJ-2BBguIioRznaN-2B6ePxsLNN14Y9vBAWgjocAs5pOs0vBVAWOrl0nikPgZ-2BeLvQe0As8celJOK1EEUnylY-3D",
+      "https://learningobject.ictlearning.com/lo/set/crypto/trust/",
+      "https://email.kunversion.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2F2cNjT-2FacGGHoa1CblVm-2BxhbNjzPFPQDA4F7k6BmVQz3oLJlbhStGCUQUxZhSO7o3bXh31ojw-2BNfm7Pj19TE0Lo8V5U1K3Q6Xmhp6aMRLRxAZNNF3qVv9vKmCHxkkR-2FN5n7QdIbCU-2FV-2FuSmUmO7i27hhGAhzMilqAUHS-2BZ2bZlz3a3YuT70NDdwXX2sOL4A-2BgK3KzR05jf49u0MukUOkWzH-2BBBAP1G1OIDGP2c5EcBmpcdLCJkng-2BCqj3kXfyWiaYBEGw7onPUJngULWTRZoKVvEPjwPB37-2Fwo3iXGHe1XTrjMGbGWOz36-2FZ1q-2FqTx3iBg3Uh9c0EXyQ-2BV-2BrMVntsbgyLzHhDKP21KnOqKiFh6f-2FrTlnzATDJWxHZ2Hema6MYAsRSjhiKR4R6XqG6BAAo9",
+      "https://trustwallet.com/accounts/wallet-verification=42869vs418v5ca169h19hksja57h52js0a71",
+      "https://dtzulyujzhqiu.cloudfront.net/expcorporate377/images/1678129919_QZv714ie2xMcuQA8dBhFqwGI8CZQb3dgk3tW2fQX.jpeg",
+      "https://email.kunversion.com/ls/click?upn=YO8wEnKw29JBsrIALnGgKZaT1SyN0o8FVCB1yq9PlbBlm1ZveNeSokdVwdBt-2F5U5b-hz_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPlBynOSW5I6L8DPOmdGTldxVyFzbtnCBC-2F5Ld4MN333MT3QbnY7WsQFYg26rY8i7tnqDVK5ABaSKQ-2F-2FK1wsKf89kn1XKkZ-2B3tgQEihrGHJp245ChlfnGr-2F3tAC-2Be-2FTi8BzpF-2FJGIrWPKV4wnm5AvhnOD80VPjdSOaqc-2BfnVUS7B-2BIeDnURoyzuS9fadJz2qShkiZ9T8Y7mACDSRNzMGWmlzTvbezT9sIyP6Q4BFnQMfCom-2B2Q6N8LuSrZyyAUN-2BcUZvHvnG13v6yKI9aJNaF-2FH-2BS8bgqbJBVti6f5wEk-2BqqR7hLiLscNcme3fDOiLbcYUZBXEd8XWWStKtWl9i4pM0aXc3hJ-2BO4escvmWspyG-2BisF0v3zmUO8DaiCBwfJlUuNA-3D",
+      "https://email.kunversion.com/ls/click?upn=VwMzDyHHrNsQkJce99k04AJsQIORjAchOCjz-2BpPdaAMI1MQlZm-2FM26K08KubzoRP-2FjiX4vTQAS2fDKju3UqCyiQnKQMwSJzXbqYPU2gnv2w-3DlatH_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPlBynOSW5I6L8DPOmdGTldxVyFzbtnCBC-2F5Ld4MN333MT3QbnY7WsQFYg26rY8i7tnqDVK5ABaSKQ-2F-2FK1wsKf89kn1XKkZ-2B3tgQEihrGHJp245ChlfnGr-2F3tAC-2Be-2FTi8BzpF-2FJGIrWPKV4wnm5AvhnOD80VPjdSOaqc-2BfnVUS7B-2BIeDnURoyzuS9fadJz2qShkiZ9T8Y7mACDSRNzMGWmlzTvbezT9sIyP6Q4BFnQMfCom-2B2Q6N8LuSrZyyAUN-2BcUbC99zirnGAeheNQjpftCy9vVrnhMwGnLROf1XHreuqiyic17zBuujrogN5LsfzioikH6yIwTzqoMONdDym55DvmJsbs9PRG9fk9MdKxhin4m7SETpKU0wGQBp8CsATzCs-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2397,
+    "html_length": 17120,
+    "has_text": true,
+    "has_html": true
+  }
+}

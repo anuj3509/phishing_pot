@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "Transforme seus pontos em dinheiro automaticamente e evite que eles expirem!",
+    "from": "\"Bradesco S.A\" <nao-responder@bradescoprime.com.br>",
+    "to": "RODRIGO-F-P@HOTMAIL.COM",
+    "date": "Mon, 9 Dec 2024 20:19:58 +0000",
+    "message_id": "<9862f3c67ea7bf4d9d5980d29ac23bb1@patraoluis.com.br>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imgur.com/9jWWU4i.png",
+      "HOTMAIL.COM",
+      "https://imgur.com/NLShCou.png",
+      "https://www.livelo.com.br/product/LVL67248047",
+      "https://www.livelo.com.br/smart-tv-led-50-4k-tcl-50p635-hdr-wifi-dual-band-bluetooth-controle-remoto-com-comando-por-controle-de-voz-google-assistant-e-borda-fina/produto/LVL59063260#image-0",
+      "parent.formatPoints($data.x_salePrice())",
+      "https://www.polymer.or.kr/med/ww2ib/axps.php?hash=%EMAIL%",
+      "https://imgur.com/rcQXTYW.png",
+      "https://www.livelo.com.br/",
+      "https://i.imgur.com/Vt07gaZ.png",
+      "https://i.imgur.com/HMroAbi.png",
+      "https://stefiereads.com/seguroresgate/?cliente=RODRIGO-F-P@HOTMAIL.COM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1225,
+    "html_length": 13804,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Wir gratulieren Dir recht herzlich!",
+    "from": "Milka, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 22 Oct 2024 15:14:03 +0100",
+    "message_id": "<PqwIUR3.0.0.PqwIUR3.9.PqwIUR3@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://limecastle.co.uk/bUpVOGtWKzNBZDA2ckl0K0JOOFVSYTlWRjUxVmVQZnBHcUNmbTRINXlYbHFKa3BQdCtUK2lpejlmaHBXMDlSNWd4eGZ2dzQ0OW1OeVVYMk1pbVlGWjJSeVFXM2sxR04wQTFNWkRHL282QTQ9",
+      "https://www.zupimages.net/up/24/39/fmm9.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/39/fmm9.jpg",
+      "https://clearwayrouting.com/?a=8096&amp;oc=21781&amp;c=57778&amp;m=3&amp;s1=",
+      "http://limecastle.co.uk/aWhacDRtTFQ3TjRKM1pyNytwSkEvYVcwcHUwWVpTQUFYcFlzdEk0NnVQTjQraHlFb0FXblZIVDVIZ1FQdUh3VitYWnJCRkd1ZEIzQnhTOGdRblR0UFdndXVIYU5YaFlnVGRVWk41VkFGams9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1712,
+    "html_length": 9507,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi foi taxado e bloqueado pela fiscalização alfandegária!",
+    "from": "Correios <pedidos077045@correios>",
+    "to": "phishing@pot",
+    "date": "Mon, 2 Sep 2024 06:13:27 +0000",
+    "message_id": "<48da07d1a2ebf3ab8137ef0299321650@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_48da07d1a2ebf3ab8137ef0299321650\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_48da07d1a2ebf3ab8137ef0299321650\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://correios-rastreamentoseguro.com.ua/rastreamento/taxa926",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2487,
+    "has_text": true,
+    "has_html": true
+  }
+}

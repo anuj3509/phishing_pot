@@ -1,0 +1,69 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Rodrigo temos uma proposta exclusiva esperando você
+From: "Proposta Planos Amil" <marlene@a.simuladordeplanodesaude.com>
+To: phishing@pot
+Date: Sun, 23 Jul 2023 12:36:18 -0300
+Message_Id: 
+ <60193373-4894-4102-b0d5-801b1e169ae6@MW2NAM12FT067.eop-nam12.prod.protection.outlook.com>
+Content_Type: Multipart/alternative; boundary="02B46C02_4331E197_MAILSEPR_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: Multipart/alternative; boundary="02B46C02_4331E197_MAILSEPR_"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - go.planodesaude-2.com?subject=tirar%20email&amp;body=excluir
+  - https://zd-d.simuladordeplanodesaude.com/lnk.php?id=322C38392C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313439
+
+DECODED TEXT CONTENT:
+------------------------------
+consultas body{margin:0;padding:0;} Rodrigo,&nbsp; Plano até 40% mais barat o para você que é MEI ou PJ Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência do seu plano. Faça sua cotação e&nbsp;consulte a tabela preços 2023 ATUALIZADA cote agora &nbsp; Simula Planos é uma plataforma de cotação digital. Este e-mail foi enviado para &quot; Rodrigo ( phishing@pot ) &quot; pois você se cadastrou para receber informativos e oportunidades da Simula Planos caso não queira receber tais e-mails no futuro, por favor cancele sua inscrição aqui ou acesse o link MEU CORRETOR no seu portal de usuário.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>consultas</title>
+    <style type="text/css">
+        body{margin:0;padding:0;}
+    </style>
+</head>
+
+<body>
+<table style="width: 600px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td>
+<table style="width: 550px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="font: normal 18px/28px 'arial',sans-serif;">
+<p><strong><strong>Rodrigo,&nbsp;</strong></strong></p>
+<p><span style="color: #0000ff;"><strong>Plano até 40% mais barat</strong><strong>o para você que é MEI ou PJ</strong></span><br>Reduza o custo do seu plano de saúde e melhore a rede de atendimento mantendo carência do seu plano.</p>
+<p>Faça sua cotação e&nbsp;consulte a tabela preços 2023 ATUALIZADA</p>
+<p style="text-align: center;"><a style="display: block; background-color: #0000ff; text-transform: uppercase; color: #ffffff; font-weight: bold; font-size: 26px; text-decoration: none; padding: 25px 0; border-radius: 50px;" href="https://zd-d.simuladordeplanodesaude.com/lnk.php?id=322C38392C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313439"><span style="font-size: x-large;"><span style="font-size: xx-large;"><span style="font-size: x-large;">cote agora</span></span></span></a></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center; line-height: 1.2;">
+<p>&nbsp;</p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 8pt;"><strong>Simula Planos</strong> é uma plataforma de cotação digital.</span><br><span style="font-size: 8pt;"><span style="font-family: arial, helvetica, sans-serif;">Este e-mail foi enviado para &quot;</span><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial;">Rodrigo (</span></span><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial;"><span style="font-family: arial, helvetica, sans-serif;">phishing@pot</span>)</span>&quot;<br>pois você se cadastrou para </span><span style="font-family: arial, helvetica, sans-serif;">receber informativos e oportunidades da </span></span><span style="font-family: arial, helvetica, sans-serif; font-size: 8pt;"><strong>Simula </strong></span><span style="font-size: 8pt;"><span style="font-family: arial, helvetica, sans-serif;"><strong>Planos</strong><br>caso não queira receber tais e-mails no futuro, </span><span style="font-family: arial, helvetica, sans-serif;">por favor <a href="mailto:sair@go.planodesaude-2.com?subject=tirar%20email&amp;body=excluir">cancele sua inscrição aqui</a> ou acesse<br>o link <strong>MEU CORRETOR</strong> no seu portal de usuário.</span></span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body>
+
+</html>

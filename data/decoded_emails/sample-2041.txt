@@ -1,0 +1,119 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Action Required.
+From: Standard Chartered Kenya PLC Settings---
+	<info@scsettings.onmicrosoft.com>
+To: "phish@pot" <phish@pot>
+Date: Fri, 15 Sep 2023 10:02:31 +0000
+Message_Id: 
+ <KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6A@KL1PR0401MB4964.apcprd04.prod.outlook.com>
+Content_Type: multipart/related;
+	boundary="_004_KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6AKL1PR0401MB4964_";
+	type="multipart/alternative"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/related;
+	boundary="_004_KL1PR0401MB49647F174FEF20A1DC5A8E78F5F6AKL1PR0401MB4964_";
+	type="multipart/alternative"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://schemas.microsoft.com/office/2004/12/omml
+  - li.MsoNormal,
+  - p.MsoNormal,
+  - https://paxmod.tech/
+  - div.WordSection1
+  - span.MsoHyperlink
+  - image001.png@01D9E7BB.7AFF1BA0]
+  - div.MsoNormal
+  - image001.png@01D9E7BB.7AFF1BA0
+  - http://www.w3.org/TR/REC-html40
+
+DECODED TEXT CONTENT:
+------------------------------
+[cid:image001.png@01D9E7BB.7AFF1BA0]
+
+Dear Stephen Muchangi Mambo,
+
+The SC Mobile App will be affected if your phone's settings are changed. As a result of today's system upgrade, using the application may present some difficulties for you.
+
+To fix this issue click here<https://paxmod.tech/>.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+<meta name="Generator" content="Microsoft Word 15 (filtered medium)">
+<!--[if !mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:107%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ligatures:standardcontextual;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:8.0pt;
+	line-height:107%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang="EN-US" link="blue" vlink="#954F72" style="word-wrap:break-word">
+<div class="WordSection1">
+<p class="MsoNormal"><a name="_Hlk143339973"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif"><img width="227" height="120" id="Picture_x0020_1" src="cid:image001.png@01D9E7BB.7AFF1BA0"></span></a><span style="mso-bookmark:_Hlk143339973"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif"><o:p></o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:12.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif"><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040">Dear Stephen Muchangi Mambo,</span></span><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040"><o:p></o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040"><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040">The SC Mobile App will be affected if your phone's settings are changed. As a result of today's system
+ upgrade, using the application may present some difficulties for you.<o:p></o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040"><o:p>&nbsp;</o:p></span></span></p>
+<p class="MsoNormal"><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040">To fix this issue click
+</span></span><a href="https://paxmod.tech/"><span style="mso-bookmark:_Hlk143339973"><b><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif">here</span></b></span></a><span style="mso-bookmark:_Hlk143339973"><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040">.</span></span><span style="font-size:10.0pt;line-height:107%;font-family:&quot;Verdana&quot;,sans-serif;color:#404040"><o:p></o:p></span></p>
+</div>
+</body>
+</html>
+

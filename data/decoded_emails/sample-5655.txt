@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Sud Conseil] Votre identifiant et votre mot de passe
+From: WordPress <wordpress@cabinet-sudconseil.com>
+To: <phishing@pot>
+Date: Sun, 15 Jun 2025 18:03:42 +0000
+Message_Id: <9bc3a08e83f44dec625d12187817e319@cabinet-sudconseil.com>
+Content_Type: text/plain; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/plain; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - www.gdrhbx.blogspot.fr
+  - https://cabinet-sudconseil.com/wp-login.php
+  - https://cabinet-sudconseil.com/wp-login.php?action=rp&key=NkadxY1gbUkG8l6hjFXX&login=www.gdrhbx.blogspot.fr%20-%201.343%20BTC%20BINANCE
+
+DECODED TEXT CONTENT:
+------------------------------
+Identifiant : www.gdrhbx.blogspot.fr - 1.343 BTC BINANCE
+
+Pour configurer votre mot de passe, rendez-vous à l’adresse suivante :
+
+<https://cabinet-sudconseil.com/wp-login.php?action=rp&key=NkadxY1gbUkG8l6hjFXX&login=www.gdrhbx.blogspot.fr%20-%201.343%20BTC%20BINANCE>
+
+https://cabinet-sudconseil.com/wp-login.php
+
+
+

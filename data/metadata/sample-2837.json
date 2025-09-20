@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 08 Feb 2024 02:28:18 +0100",
+    "message_id": "<FDgFL5y.0.0.FDgFL5y.9.FDgFL5y@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "www.zupimages.net/up/24/06/tni6.jpg",
+      "http://soldering-on.co.uk/oop/61_md/1/114/26/16/188178",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/24/06/tni6.jpg",
+      "https://directfwd-2.com/?a=7790&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "http://soldering-on.co.uk/op/61_md/1/114/26/16/188178"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1687,
+    "html_length": 8461,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,75 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: FW: Urgente!! CARTA DE DEMANDA
+From: court_notice <account.forensics@creditunion-authority.com>
+To: phish@pot
+Date: Tue, 27 Feb 2024 12:15:29 +0000
+Message_Id: <65ddd26193901_6007396c209102b@sim-mail-05cb65d081f745a2b.nova.us-east-1.pmops.net.mail>
+Content_Type: text/html;
+ charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+ charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - http://docs.freeshare.link/1490kld/8ba7fd/07ba8a7e-ff88-4f2d-8812-3f37b375a38b
+  - http://AhV3cTpms4e.creditunion-authority.com/4/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.wav
+  - http://AhV3cTpms4e.creditunion-authority.com/3/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png
+  - http://docs.freeshare.link/s/452/8ba7fd/07ba8a7e-ff88-4f2d-8812-3f37b375a38b
+  - http://AhV3cTpms4e.creditunion-authority.com/5/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.gif
+  - http://www.w3.org/1999/xhtml
+  - http://AhV3cTpms4e.creditunion-authority.com/2/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png
+  - http://AhV3cTpms4e.creditunion-authority.com/1/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Attachment phish@pot, SARs emitiu abaixo uma Carta de Demanda que requer sua atenção urgente. CONVOCAÇÃO PARA O TRIBUNAL E INCLUSÃO NA LISTA NEGRA Iminente. Se isso não for tratado nas próximas 48 horas. Abaixo está a Carta de Demanda enviada online a partir do site seguro da SARs. VER A CARTA DE DEMANDA Para qualquer dúvida sobre o assunto acima, por favor, entre em contato conosco utilizando o número fornecido no canto superior direito da carta de demanda acima. Atenciosamente, Unidade de Investigação Contábil Serviço de Carta de Demanda *FAZER DOWNLOAD PARA VISUALIZAR*
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Attachment</title>
+</head>
+<body>
+<div>
+<div dir="ltr">
+<div dir="ltr">
+phish@pot,<br>
+<br>
+SARs emitiu abaixo uma Carta de Demanda que requer sua atenção urgente. CONVOCAÇÃO PARA O TRIBUNAL E INCLUSÃO NA LISTA NEGRA Iminente. Se isso não for tratado nas próximas 48 horas. Abaixo está a Carta de Demanda enviada online a partir do site seguro da SARs.</div>
+
+<div dir="ltr">
+<br>
+<b><a href="http://docs.freeshare.link/s/452/8ba7fd/07ba8a7e-ff88-4f2d-8812-3f37b375a38b">VER A CARTA DE DEMANDA</a> </b><br>
+Para qualquer dúvida sobre o assunto acima, por favor, entre em contato conosco utilizando o número fornecido no canto superior direito da carta de demanda acima.<br>
+<br>
+Atenciosamente,<br>
+<br>
+Unidade de Investigação Contábil<br>
+Serviço de Carta de Demanda<br>
+<br>
+<a href="http://docs.freeshare.link/1490kld/8ba7fd/07ba8a7e-ff88-4f2d-8812-3f37b375a38b">*FAZER DOWNLOAD PARA VISUALIZAR*</a>
+</div>
+</div>
+</div>
+<img nosend="true" moz-do-not-send="true" border="0" height="2" width="2" alt="" lowsrc="http://AhV3cTpms4e.creditunion-authority.com/1/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png" src="http://AhV3cTpms4e.creditunion-authority.com/2/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png">
+<img src="http://AhV3cTpms4e.creditunion-authority.com/3/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.png" border="0" height="2" width="2" alt="">
+<bgsound volume="-100" alt="" src="http://AhV3cTpms4e.creditunion-authority.com/4/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.wav"></bgsound>
+<table height="2" width="1" border="0"><tr><td background="http://AhV3cTpms4e.creditunion-authority.com/5/07ba8a7e-ff88-4f2d-8812-3f37b375a38b.gif"> </td></tr></table>
+</body>
+</html>
+

@@ -1,0 +1,82 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Aave Rewards Are Waiting!
+From: "Aave Team" <contact@cityopp.com>
+To: phishing@pot
+Date: Mon, 19 May 2025 14:40:51 -0700
+Message_Id: <NZU3MTI.NJEZOTG.56177705191440202551915017015@cityopp.com>
+Content_Type: multipart/alternative; boundary="------------080408060204050204060004"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="------------080408060204050204060004"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://scheeren-tec.de/phishing@pot
+
+DECODED TEXT CONTENT:
+------------------------------
+Your Aave Rewards Are Waiting!
+
+Dear Aave Member,
+
+You've earned rewards through your participation in staking, lending, and other
+activities in the Aave ecosystem.
+
+Claim them now and continue enjoying the benefits of DeFi with Aave.
+
+Claim Your Rewards
+<https://scheeren-tec.de/phishing@pot>
+
+Need help? Reach out to our support team anytime.
+
+© 2025 Aave. All rights reserved.
+
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Your Aave Rewards Are Waiting!</title> 
+ 
+</head> 
+<body> 
+<table width="100%" style="margin: 0px auto; border-radius: 10px; line-height: 1.5; overflow: hidden; font-family: &quot;Arial&quot;, sans-serif; max-width: 600px; background-color: rgb(11, 15, 25);" border="0" cellspacing="0" cellpadding="0"> 
+<tbody> 
+<tr> 
+<td style="padding: 40px 30px; text-align: center; background-color: rgb(19, 26, 41);"><img width="80" style="margin: 0px auto; width: 74px; height: 129px; display: block; max-width: 80px;" alt="Aave Logo" src="cid:CID-2f502cf2-646d-4517-ba43-7e6ccabd03f2"></td> 
+</tr> 
+<tr> 
+<td style="padding: 40px 30px 20px; text-align: center; background-color: rgb(28, 37, 54);"> 
+<h2 style="margin: 0px; color: rgb(255, 255, 255); font-size: 24px; font-weight: 600;">Your Aave Rewards Are Waiting!</h2> 
+</td> 
+</tr> 
+<tr> 
+<td style="padding: 0px 30px 30px; background-color: rgb(28, 37, 54);"> 
+<p style="margin: 0px 0px 20px; color: rgb(229, 231, 235); font-size: 16px;">Dear Aave Member,</p> 
+<p style="margin: 0px 0px 20px; color: rgb(229, 231, 235); font-size: 16px;">You've earned rewards through your participation in staking, lending, 
+and other activities in the Aave ecosystem.</p> 
+<p style="margin: 0px; color: rgb(229, 231, 235); font-size: 16px;">Claim them now and continue enjoying the benefits of DeFi with Aave.</p> 
+</td> 
+</tr> 
+<tr> 
+<td style="padding: 0px 30px 40px; text-align: center; background-color: rgb(28, 37, 54);"><a style="padding: 14px 32px; border-radius: 6px; color: rgb(0, 0, 0); font-size: 16px; font-weight: 600; text-decoration: none; display: inline-block; background-color: rgb(255, 255, 255);" href="https://scheeren-tec.de/phishing@pot">Claim Your Rewards</a></td> 
+</tr> 
+<tr> 
+<td style="padding: 30px; text-align: center; color: rgb(156, 163, 175); font-size: 12px; background-color: rgb(19, 26, 41);"> 
+<p style="margin: 0px 0px 10px;">Need help? Reach out to our support team anytime.</p> 
+<p style="margin: 10px 0px 0px;">© 2025 Aave. All rights reserved.</p> 
+</td> 
+</tr> 
+</tbody> 
+</table> 
+<ul></ul> 
+</body> 
+</html>

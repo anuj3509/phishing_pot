@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Finden Sie Ihre ��bereinstimmung!",
+    "from": "Reifefrauen, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Sep 2023 08:53:11 +0200",
+    "message_id": "\r\n <461a28d7-5415-4dab-8ca4-0c869f626dd9@DB8EUR05FT016.eop-eur05.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://5.252.23.133/oop/318_md/31/5/16/23/2459859",
+      "http://5.252.23.133/cl/318_md/31/5/16/23/2459859",
+      "http://5.252.23.133/media/3b7104dd6d40a42.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "surwww.oncf-voyages.ma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5307,
+    "html_length": 9291,
+    "has_text": true,
+    "has_html": true
+  }
+}

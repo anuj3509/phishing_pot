@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "RE:Wir haben eine ��berraschung f��r dich",
+    "from": "Bitte antworte, Bitte antworte <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Jul 2024 14:50:45 +0000",
+    "message_id": "<808146058533391.8.VNJ9406172264@381921640901312.1.ZUA.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://fullnf.com/4vqbcw44831dkBu1139grpiqmfgae1742PKTIOFHNMSHOUQD746CTKF33406B9",
+      "http://fullnf.com/4qIjIw44831mYPL1139qmbszxload1742BCYPDDVRFCZICCN746PKPY33406f9",
+      "http://fullnf.com/track/3guPKE44831mhkV1139lpoafleyuo1742HJLOJWLEDYCCWPL746DISL33406N9",
+      "http://fullnf.com/6sYGFS44831OmYk1139rlxjmfblrh1742FKFKZWLCWLUMOWQ746JDDI33406y9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2088,
+    "html_length": 8893,
+    "has_text": true,
+    "has_html": true
+  }
+}

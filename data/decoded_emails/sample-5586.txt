@@ -1,0 +1,127 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ihre Bestellung wurde versandt! ��� Auto-Notfall-Kit
+From: ADAC Versand <ADACVersand@'ADACVersand-grxba.gostarmedia.com>
+To: <phishing@pot>
+Date: Sat, 21 Jun 2025 17:30:47 +0000
+Message_Id: <f4dd082e-8dc8-4209-81b1-bcea62e6bc4c@CY4PEPF0000EE3A.namprd03.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://cfkhaoib.20.218.142.124.static.hostiran.name/track/3amEaN2280pljW227xuwjphiuvp322EPWUZATYLUYPOTL266231WUZO29654t4
+  - http://zakkfyre.20-218-142-124.cloud-xip.com/4YXdCL2280Jvue227wlqexgnomq322JSDIWCMYUCNZOMF266231JLHR29654f4
+  - http://ccipxrsb.20-218-142-124.cloud-xip.com/4CQlCL2280bbXG227mmkfgjlftz322MUBKAKNUOJUUWWD266231BWJD29654R4
+  - https://zupimages.net/up/24/48/kihf.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Costco Email body { font-family: Arial, sans-serif; background-color: #f9f9f9; text-align: center; padding: 20px; } .email-container { max-width: 500px; background-color: white; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); margin: auto; } .logo { font-size: 32px; font-weight: bold; color: #fbcb04; } .subtitle { font-size: 24px; color: #fbcb04; font-weight: bold; } .content { text-align: left; margin-top: 20px; } .content p { font-size: 16px; color: #333; } .highlight { font-weight: bold; color: #cfb530; } .info { background-color: #f9f9f9; padding: 10px; border-radius: 5px; margin-top: 10px; } .info span { font-weight: bold; color: #333; } .email-highlight { background-color: yellow; } .claim-button { display: inline-block; margin-top: 20px; background-color: #fbcb04; color: #323232; padding: 10px 20px; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; } .footer { margin-top: 20px; font-size: 12px; color: #666; } Hallo, der heutige Gewinner ist phishing@pot , Herzlichen Glückwunsch! Sie wurden ausgewählt, um eine exklusive Belohnung zu erhalten! Ihr Name wurde für ein Auto-Notfallset gezogen. Dieses spezielle Geschenk wird Ihnen von ADAC angeboten. Beeilen Sie sich! Ihre Belohnung ist bereit. Ihr Kontoinformationen: Kunde: phishing@pot E-Mail: phishing@pot Belohnung: Auto-Notfallset! Meine Belohnung anfordern © 2025 ADAC. Alle Rechte vorbehalten.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Costco Email</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      padding: 20px;
+    }
+    .email-container {
+      max-width: 500px;
+      background-color: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      margin: auto;
+    }
+    .logo {
+      font-size: 32px;
+      font-weight: bold;
+      color: #fbcb04;
+    }
+    .subtitle {
+      font-size: 24px;
+      color: #fbcb04;
+      font-weight: bold;
+    }
+    .content {
+      text-align: left;
+      margin-top: 20px;
+    }
+    .content p {
+      font-size: 16px;
+      color: #333;
+    }
+    .highlight {
+      font-weight: bold;
+      color: #cfb530;
+    }
+    .info {
+      background-color: #f9f9f9;
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    .info span {
+      font-weight: bold;
+      color: #333;
+    }
+    .email-highlight {
+      background-color: yellow;
+    }
+    .claim-button {
+      display: inline-block;
+      margin-top: 20px;
+      background-color: #fbcb04;
+      color: #323232;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      font-size: 18px;
+      font-weight: bold;
+    }
+    .footer {
+      margin-top: 20px;
+      font-size: 12px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+<div class="email-container">
+  <div class="logo"><img src="https://zupimages.net/up/24/48/kihf.png" width="100px"></div>
+  <div class="content">
+    <p>Hallo, der heutige Gewinner ist <span class="email-highlight">phishing@pot</span>,</p>
+    <p>Herzlichen Glückwunsch! Sie wurden ausgewählt, um eine exklusive Belohnung zu erhalten! Ihr Name wurde für ein <span class="highlight">Auto-Notfallset</span> gezogen.</p>
+    <p><a href="http://zakkfyre.20-218-142-124.cloud-xip.com/4YXdCL2280Jvue227wlqexgnomq322JSDIWCMYUCNZOMF266231JLHR29654f4" style="text-decoration: underline; color: #cfb530; font-weight: bold;">Dieses spezielle Geschenk wird Ihnen von ADAC angeboten.</a></p>
+    <p>Beeilen Sie sich! Ihre Belohnung ist bereit.</p>
+    <div class="info">
+      <p><span>Ihr Kontoinformationen:</span></p>
+      <p>Kunde: <span class="email-highlight">phishing@pot</span></p>
+      <p>E-Mail: <span class="email-highlight">phishing@pot</span></p>
+      <p>Belohnung: <span class="highlight">Auto-Notfallset!</span></p>
+    </div>
+    <a href="http://ccipxrsb.20-218-142-124.cloud-xip.com/4CQlCL2280bbXG227mmkfgjlftz322MUBKAKNUOJUUWWD266231BWJD29654R4" class="claim-button">Meine Belohnung anfordern</a>
+  </div>
+  <div class="footer">© 2025 ADAC. Alle Rechte vorbehalten.</div>
+</div>
+<img src="http://cfkhaoib.20.218.142.124.static.hostiran.name/track/3amEaN2280pljW227xuwjphiuvp322EPWUZATYLUYPOTL266231WUZO29654t4" width="1" height="1">
+</body>
+</html>
+
+

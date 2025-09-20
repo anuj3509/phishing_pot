@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Crédito IR Liberado - maHSkh0WLRUIpDf6t",
+    "from": "\"[BB] - Comunicado ao cliente - Cod.  37165178664887\" <sonyundefinedralph@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 29 Jul 2023 15:02:16 +0000",
+    "message_id": "<d485b0d32d1d33a95fc07d302aac4ff4@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"87bdf654acdeb182e7e0f1a100044a11\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"87bdf654acdeb182e7e0f1a100044a11\""
+  },
+  "attachments": [
+    {
+      "filename": "Fa0ldxfjHYJ.pdf",
+      "content_type": "application/pdf",
+      "size": 101093
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 285,
+    "html_length": 645,
+    "has_text": true,
+    "has_html": true
+  }
+}

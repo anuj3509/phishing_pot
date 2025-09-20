@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Reminder: Withdraw your funds today",
+    "from": "\"Claims.Celsius\" <ausp@mshtavr.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 4 Oct 2023 18:25:12 +0000",
+    "message_id": "<0106018afbefd1db-3af87959-0547-4e27-b7bf-5194fae4de2e-000000@ap-northeast-1.amazonses.com>",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Celsius_logo.svg/1200px-Celsius_logo.svg.png",
+      "https://celsius.network/privacy-policy",
+      "https://celsius.network/terms-of-use",
+      "help.celsius.network.",
+      "https://creativecommons.org/licenses/by-nc-nd/2.0/",
+      "https://matka.solutions/cel/",
+      "https://help.celsius.network/",
+      "https://www.flickr.com/photos/_macroscopic/31885979817/",
+      "https://www.nhm.ac.uk/discover/light-pollution.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2411,
+    "html_length": 10431,
+    "has_text": true,
+    "has_html": true
+  }
+}

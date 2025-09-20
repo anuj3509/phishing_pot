@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Parabéns, você recebeu um convite para se tornar um cliente Bradesco Prime Digital! Protocolo: 91890422.",
+    "from": "Banco Bradesco <conviteprime134421@bradesco>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Sep 2024 01:46:58 +0000",
+    "message_id": "<7c16748e526d37789a311e0aca6716be@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7c16748e526d37789a311e0aca6716be\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_7c16748e526d37789a311e0aca6716be\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "banco.brad",
+      "https://starlinkprimeviva.com/atualizacao/prime962",
+      "hotmail.com,",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 11075,
+    "has_text": true,
+    "has_html": true
+  }
+}

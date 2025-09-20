@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "OrderConfirmation:93345881",
+    "from": "2U <makarifulislamkariful24599+NMwGO8qDiD8HKv6RyvtRa6ND11@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 6 Sep 2022 21:56:52 +0000",
+    "message_id": "<CAOz1T80i0igKeHF3j1btTejiizb2zt6EqdmQu2MiWYjvfyi5jg@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000c5927605e80946bd\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000c5927605e80946bd\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "table.ee-show-on-desktop{display:table!important}",
+      "a.mcnButton{",
+      "span.MsoHyperlink,span.MsoHyperlinkFollowed{mso-style-priority:99!important;color:inherit!important;text-decoration:none!important}",
+      "https://lnkd.in/eQNhqYKW#?act=cl&amp;pid=11522_pd&amp;uid=9&amp;vid=362155&amp;ofid=6906&amp;lid=1160&amp;cid=1522770",
+      "https://mcusercontent.com/650b98b20c1ebe0bf1d5483dc/images/f8aea342-3821-a9b0-3f65-67d0e2bb117e.jpg",
+      "columns.ee-hide-on-desktop,.ee_element.ee-hide-on-desktop,.ee_element.x_ee-hide-on-desktop{display:none!important}",
+      "https://content.app-us1.com/z4Mxq/2022/09/06/6b081ca9-d4aa-4c24-bc8a-213a0f08b3d8.png?id=15369225",
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&amp;display=swap",
+      "https://lnkd.in/eQNhqYKW#?act=un&amp;pid=11522_pd&amp;uid=9&amp;vid=362155&amp;ofid=6906&amp;lid=1160&amp;cid=1522770"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 12973,
+    "has_text": false,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Notificaci��n Judicial: Atenci��n Requerida (97014745)",
+    "from": "Daniela Perez <cfdifacturacion@vps-f44897b3.vps.ovh.ca>",
+    "to": "phishing@pot",
+    "date": "Tue,  6 Aug 2024 00:09:35 +0000 (UTC)",
+    "message_id": "<20240806001219.3D10590138@vps-e1095755.vps.ovh.net>",
+    "content_type": "multipart/mixed; boundary=\"ec8dedd5e4e80fe97d16c4e7f662da56\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/mixed; boundary=\"ec8dedd5e4e80fe97d16c4e7f662da56\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://maxcdn.bootstrapcdn.com/bootswatch/3.4.1/cosmo/bootstrap.min.css",
+      "http://212.224.205.92.host.secureserver.net/?PRcwTinYiz=VGp8mcm9kcmlnby1mLXBAaG90bWFpbC5jb20="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1027,
+    "html_length": 1798,
+    "has_text": true,
+    "has_html": true
+  }
+}

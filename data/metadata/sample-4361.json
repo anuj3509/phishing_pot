@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção: Seu pedido foi retido pela fiscalização alfandegária! Protocolo: 16255763.",
+    "from": "Correios S/A <aviso092550@correios>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Tue, 15 Oct 2024 09:33:41 +0000",
+    "message_id": "<f443ccbc3a01dd8438faa0ae770d928e@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f443ccbc3a01dd8438faa0ae770d928e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_f443ccbc3a01dd8438faa0ae770d928e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://logcorreiosaduaneira.co.ua/rastreio/tarifas325",
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3359,
+    "has_text": true,
+    "has_html": true
+  }
+}

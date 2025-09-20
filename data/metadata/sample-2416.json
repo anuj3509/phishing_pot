@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Suchst du nach jemandem in deiner N��he?",
+    "from": "MehrAlsNurNachbarn, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Dec 2023 08:36:43 +0100",
+    "message_id": "\r\n <983cd3f9-f708-436c-9a7e-7b39447a5350@CO1NAM11FT112.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1400007/MehrAlsNurNachbarn.jpg",
+      "http://drivesafetohome.bio/un/6163_md/31/141/153/23/2459859",
+      "http://drivesafetohome.bio/cl/6163_md/31/141/153/23/2459859",
+      "http://www.w3.org/1999/xhtml",
+      "oncf-voyages.ma",
+      "http://drivesafetohome.bio/oop/6163_md/31/141/153/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4621,
+    "html_length": 10065,
+    "has_text": true,
+    "has_html": true
+  }
+}

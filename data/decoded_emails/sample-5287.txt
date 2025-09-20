@@ -1,0 +1,320 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Je hebt 1 nieuwe trackingmelding
+From: Pakketvrijgave <contact@jfnmor.veronicapal38.com>
+To: <phishing@pot>
+Date: Tue, 15 Apr 2025 01:33:10 +0000
+Message_Id: <257453749834136.6.CII8571870780@jfnmor.veronicapal38.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0
+  - https://hnerta.dondomatos.online/opt-out/t/6WrzSv0VeIN3ekqeukwdby0GVEWWOLHNBTNBGY0NXMR353959e0
+  - https://storage.googleapis.com/newera1/aaaaaaafedex.html
+
+DECODED TEXT CONTENT:
+------------------------------
+FedEx Kennisgeving body { font-family: Arial, sans-serif; background-color: #f9f9f9; color: #333; margin: 0; padding: 0; } .container { max-width: 600px; margin: 20px auto; background-color: #ffffff; padding: 20px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); } .header { text-align: center; margin-bottom: 20px; } .header img { max-width: 150px; } .content { font-size: 14px; line-height: 1.6; color: #333; text-align: center; } .content h1 { color: #4d148c; font-size: 24px; margin: 0; font-weight: normal; } .button { display: inline-block; margin-top: 20px; padding: 10px 20px; background-color: #4d148c; color: #fff; text-decoration: none; border-radius: 4px; font-size: 14px; } .footer { margin-top: 30px; font-size: 10px; color: #666; text-align: center; } .unsubscribe { margin-top: 20px; font-size: 10px; color: #666; text-align: center; } .unsubscribe a { color: #666; text-decoration: none; } Fed Ex Een pakket geadresseerd aan u is net aangekomen bij ons lokale distributiecentrum. Er was echter een adresfout door logistieke verwerking aan onze kant. Wij verzoeken u vriendelijk om ons adresysteem bij te werken met uw adres, zodat we uw pakket kunnen bezorgen. Adresverificatiesysteem We hopen uw pakket vÃ³Ã³r het einde van de werkdag te bezorgen. Met vriendelijke groet, Manager Pakket Distributie Â©2024 FedEx. 1003079-3-6-NL-EN-30234291 Als u deze e-mails niet meer wilt ontvangen, kunt u zich afmelden op elk moment. Om deze te stoppen alstublieft klik hier of schrijf naar: Mozartstraat 44e Groenlo, 7141 CP
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="nl"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FedEx Kennisgeving</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            background-color: #f9f9f9;
+
+            color: #333;
+
+            margin: 0;
+
+            padding: 0;
+
+        }
+
+
+
+        .container {
+
+            max-width: 600px;
+
+            margin: 20px auto;
+
+            background-color: #ffffff;
+
+            padding: 20px;
+
+            border: 1px solid #ddd;
+
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+
+        }
+
+
+
+        .header {
+
+            text-align: center;
+
+            margin-bottom: 20px;
+
+        }
+
+
+
+        .header img {
+
+            max-width: 150px;
+
+        }
+
+
+
+        .content {
+
+            font-size: 14px;
+
+            line-height: 1.6;
+
+            color: #333;
+
+            text-align: center;
+
+        }
+
+
+
+        .content h1 {
+
+            color: #4d148c;
+
+            font-size: 24px;
+
+            margin: 0;
+
+            font-weight: normal;
+
+        }
+
+
+
+        .button {
+
+            display: inline-block;
+
+            margin-top: 20px;
+
+            padding: 10px 20px;
+
+            background-color: #4d148c;
+
+            color: #fff;
+
+            text-decoration: none;
+
+            border-radius: 4px;
+
+            font-size: 14px;
+
+        }
+
+
+
+        .footer {
+
+            margin-top: 30px;
+
+            font-size: 10px;
+
+            color: #666;
+
+            text-align: center;
+
+        }
+
+
+
+        .unsubscribe {
+
+            margin-top: 20px;
+
+            font-size: 10px;
+
+            color: #666;
+
+            text-align: center;
+
+        }
+
+
+
+        .unsubscribe a {
+
+            color: #666;
+
+            text-decoration: none;
+
+        }
+
+    </style>
+
+</head>
+
+
+
+<body>
+
+    <div class="container">
+
+        <div class="header">
+
+            <h1 style="color:#4d148c; font-size: 40px;">Fed<span style="color:#ff6600;">Ex</span></h1>
+
+        </div>
+
+        <div class="content">
+
+            <div style="text-align: start;">
+
+                <p>Een pakket geadresseerd aan u is net aangekomen bij ons lokale distributiecentrum.</p>
+
+                <p>Er was echter een adresfout door logistieke verwerking aan onze kant.</p>
+
+                <p>Wij verzoeken u vriendelijk om ons adresysteem bij te werken met uw adres, zodat we uw pakket kunnen bezorgen.</p>
+
+            </div>
+
+            <a href="https://storage.googleapis.com/newera1/aaaaaaafedex.html" class="button">Adresverificatiesysteem</a>
+
+            <div style="text-align: start;">
+
+                <p style="margin-top: 20px;">We hopen uw pakket vÃ³Ã³r het einde van de werkdag te bezorgen.</p>
+
+                <p>Met vriendelijke groet,<br>Manager Pakket Distributie</p>
+
+            </div>
+
+        </div>
+
+        <div class="footer">
+
+            <p>Â©2024 FedEx.</p>
+
+            <p>1003079-3-6-NL-EN-30234291</p>
+
+        </div>
+
+        <div class="unsubscribe">
+
+            <p>Als u deze e-mails niet meer wilt ontvangen, kunt u zich <a href="#">afmelden</a> op elk moment.</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     </tr>
+
+
+
+    
+
+
+
+    <table align="center" width="100%" style="max-width:700px;">
+
+
+
+                        <tr>
+
+
+
+                            <td align="center" width="100%" style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#202020; line-height:15px; padding-top:10px;">
+
+
+
+                                Om deze te stoppen alstublieft <a href="https://hnerta.dondomatos.online/opt-out/t/6WrzSv0VeIN3ekqeukwdby0GVEWWOLHNBTNBGY0NXMR353959e0" style="color:#202020;">klik hier</a> of schrijf naar:
+
+
+
+                                <br> Mozartstraat 44e
+
+
+
+                                <br> Groenlo, 7141 CP
+
+
+
+                            </td>
+
+
+
+                        </tr>
+
+
+
+                    </table>
+
+
+
+    </center>
+
+
+
+
+
+
+
+    
+
+
+
+ <img src="https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0">
+
+
+
+
+
+
+

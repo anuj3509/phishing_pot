@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Bitte best��tigen Sie den Erhalt",
+    "from": "ADAC-Versand <support@norskdesign.de>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 17 Jun 2025 13:40:49 +0000",
+    "message_id": "<X0dCjAU9DCYdwH25UqBVN5UEUx@email.amazonses.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/6CLuy02.jpeg",
+      "https://i.imgur.com/e8CU6bn.jpeg",
+      "pbs.twimg.com/media/GtVNbHKWAAA1yPm?format=png&amp;name=small",
+      "https://visioninsights.info/un/2208_md/400/5963/14/32/426936",
+      "https://pbs.twimg.com/media/GtVNbHTWwAAWfVL?format=png&amp;name=small",
+      "https://insidechina.net/op/2208_md/400/5963/14/32/426936",
+      "https://i.imgur.com/u0JeTaE.png",
+      "https://visioninsights.info/cl/2208_md/400/5963/14/32/426936",
+      "https://pbs.twimg.com/media/GtVNbHKWAAA1yPm?format=png&amp;name=small",
+      "pbs.twimg.com/media/GtVNbHTWwAAWfVL?format=png&amp;name=small"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5202,
+    "html_length": 11447,
+    "has_text": true,
+    "has_html": true
+  }
+}

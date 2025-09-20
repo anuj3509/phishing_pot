@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Seu pedido foi bloqueado !",
+    "from": "Correios <alfandega@correios.com.br>",
+    "to": "RODRIGO-F-P@HOTMAIL.COM",
+    "date": "Tue, 8 Oct 2024 18:00:03 +0000",
+    "message_id": "<351072f333b0cb3f7789548339146982@patraoluis.com.br>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://qlpgroup.com.br/correios8927/?cliente=RODRIGO-F-P@HOTMAIL.COM",
+      "HOTMAIL.COM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1934,
+    "html_length": 3692,
+    "has_text": true,
+    "has_html": true
+  }
+}

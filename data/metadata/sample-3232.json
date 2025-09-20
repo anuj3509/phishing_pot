@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Your wallet access is temporarily suspended",
+    "from": "metamask.io <info@ealbertlaw.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Sat, 27 Apr 2024 23:38:54 +0200",
+    "message_id": "<0.0.f3c06297469023e1e7a728fd135e14f5@7c15087512.vultar.com>",
+    "content_type": "multipart/alternative;\r\n boundary=--boundary_f3c06297469023e1e7a728fd135e14f5"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=--boundary_f3c06297469023e1e7a728fd135e14f5"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.postimg.cc/nLFSb05j/pairsfolievive.jpg",
+      "https://meta-beta.bubbleapps.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 626,
+    "html_length": 7864,
+    "has_text": true,
+    "has_html": true
+  }
+}

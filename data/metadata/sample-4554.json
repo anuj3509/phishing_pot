@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Machen Sie Schluss mit hohen Stromrechnungen ��� Jetzt autark werden!",
+    "from": "Ihr Solar-Experte,(<message@my.zalando.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Dec 2024 14:15:49 +0000",
+    "message_id": "<FPRBUYIIXWUVXQ8AU9KYO1L@news.veepee.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://topmarktingplace.com/4aYWpe41182pmeQ1050hjemrhstsm14302XRETHHOJDMGCKTN2NDRP17255y10",
+      "http://topmarktingplace.com/6lqrdV41182JnRd1050uyaflzjvqt14302ZHWULDCDANGGIBN2TLER17255L10",
+      "http://topmarktingplace.com/4ifbWz41182ssxM1050vnkgshqjrd14302JPZISCQOGSDFEXL2RYZR17255Y10",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css2?family=Urbanist:wght@400;700;800&amp;family=Fira+Sans:wght@400&amp;display=swap",
+      "http://topmarktingplace.com/5AgMmD41182zRDU1050mfazebobdl14302XZMROPDERZZGRBO2RLKF17255L10",
+      "http://topmarktingplace.com/4MuXpi41182ZuuK1050cwwobncoyf14302ZNJDGIMSMSMBARO2RCFZ17255k10",
+      "http://topmarktingplace.com/4LMMHT41182IpFZ1050zuovvzfrxg14302YGCFOHVKKEZOXTO2QUGC17255F10",
+      "http://topmarktingplace.com/4OkZfx41182lWaH1050ghitzcqfcg14302ZCFRYJKANEYYKHG2GBJF17255I10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 11236,
+    "html_length": 23579,
+    "has_text": true,
+    "has_html": true
+  }
+}

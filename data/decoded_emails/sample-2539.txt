@@ -1,0 +1,48 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: - Voce esta Recebendo uma Autorizacao de Retirada - Protocolo: 8077P3EDRW
+From: Correios Ultimo Aviso <004464@electra.com>
+To: phishing@pot
+Date: Wed, 10 Jan 2024 21:17:01 +0000
+Message_Id: <9592b654d5f6487a88d67f7b7963ae82@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_9592b654d5f6487a88d67f7b7963ae82"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_9592b654d5f6487a88d67f7b7963ae82"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www2.correios.com.br/encomendas/img/logotipoEct.gif
+  - http://gameonesa.servegame.org/?hash=phish@pot
+
+DECODED TEXT CONTENT:
+------------------------------
+ssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaa
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="GENERATOR" content="MSHTML 11.00.10570.1001">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body>
+<div id="divPrincipal">
+<div style="border: 0px solid currentColor; border-image: none; width: 100%; vertical-align: middle;">&nbsp;&nbsp; <img src="http://www2.correios.com.br/encomendas/img/logotipoEct.gif" border="0"> <span style="font-size: 16px;"><b>Ordem de Retirada de Objeto</b></span> </div><br><b><font color="#ff0000" size="2">Esta é uma mensagem automática, favor não responder.</font></b> <br><br><b>Sr(a) phish@pot</b><br><br>
+- Você está recebendo uma Autorização de Retirada conforme dados abaixo: <br><br>
+<div id="divDados"><b>Número da Autorização de Postagem (e-ticket):</b> <font color="#ff0000" size="2"><b>1134312024</b></font> - <a href="http://gameonesa.servegame.org/?hash=phish@pot">Emitir Guia</a><br><b>Autorizador da Postagem:</b> Correios <br><b>Data de Emissão:</b> 05/01/2024<br><b>Data de Validade:</b> 29/01/2023<br><b>Quantidade de objetos: </b>2<br></div>
+<p><br>- Para retirá-la, você deverá se dirigir a uma <b>Agência Própria</b> ou <b>Franqueada dos Correios</b>, <br>levando contigo, <b>obrigatoriamente</b>, o <u>número desta Autorização de postagem</u>. <br>É necessário emitir a guia para verificar a <b>Agência dos Correios</b> para retirada da postagem. <br><br><b style="font-size: 13px;"><u>Informações Importantes</u></b><br><br><b>1)</b>
+Caso você não possua a sua guia, é obrigatório a emissão desta para retirada - <a href="http://gameonesa.servegame.org/?hash=phish@pot" target="_blank">Emitir Guia</a></p>
+<p><br>- O próprio atendente na Agência dos Correios irá solicitar a guia para retirada da encomenda.<br><br></p>
+<div id="divDados"><b>Remetente:</b><br>CPF/CNPJ: 34.028.316/0001-03<br>Correio S.A<br>ST SBN QUADRA 1 BLOCO A, S/N
+ , ASA NORTE<br>70.002-900 - BRASILIA - DF </div><br><br><br><br>
+<hr width="100%" size="1">
+Central de Atendimento * 3003 0100 - Destinado a capitais e regiões metropolitanas. ** 0800 725 0100 - Demais localidades. </div></body></html>

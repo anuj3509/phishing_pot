@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Todas as passagens aereas com ate 50% de desconto!",
+    "from": "123Milhas <desconto123milhas@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 15 Aug 2023 02:44:43 +0000 (UTC)",
+    "message_id": "<20230815024443.676EF41794@ekpfwr728-abhiy-ekpfwr728>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://123milhas.com/consultar-destinos",
+      "https://northamerica-northeast2-eastern-team-386404.cloudfunctions.net/milhasaeres/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K",
+      "https://www.google.com/url?q=https://click.mercadopago.entregaemail.com/lqqsvn/XmiuiRLr&amp;source=gmail&amp;ust=1685031372324000&amp;usg=AOvVaw1y7rnWQZoO_Q4TvSj0ETBo",
+      "https://www.123milhas.com/50off",
+      "https://www.123milhas.com/consultar-destinos",
+      "https://us-east1-eastern-team-386404.cloudfunctions.net/diadospais123/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 404,
+    "html_length": 7669,
+    "has_text": true,
+    "has_html": true
+  }
+}

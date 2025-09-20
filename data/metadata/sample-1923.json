@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Fwd: SFL-TB  Boletim Informativo- Processo 120025/302.55 em seu nome!\r\n 30755242003939732:52:18 PM",
+    "from": "phish@pot <phish@pot>",
+    "to": "Rodrigo Ferreira <phishing@pot>",
+    "date": "Mon, 13 Nov 2023 18:07:21 +0000",
+    "message_id": "\r\n <SN4PR0601MB866535D97DD35E9633D0CD58EEB3A@SN4PR0601MB8665.namprd06.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SN4PR0601MB866535D97DD35E9633D0CD58EEB3ASN4PR0601MB8665_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SN4PR0601MB866535D97DD35E9633D0CD58EEB3ASN4PR0601MB8665_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "uol.com.br",
+      "uol.com.br&gt;",
+      "https://aka.ms/AAb9ysg",
+      "processo-jus3009928.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 630,
+    "html_length": 1331,
+    "has_text": true,
+    "has_html": true
+  }
+}

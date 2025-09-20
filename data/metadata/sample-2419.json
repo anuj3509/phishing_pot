@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "TRIBUNAL REGIONAL DO TRABALHO DA 12ª REGIÃO",
+    "from": "INTIMAÇÃO <site@setta.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Dec 2023 08:50:05 +0000",
+    "message_id": "<20231225085005E44136316A$11E9D9278E@GUEST>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_6F6_6737_76671696.97364700\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_6F6_6737_76671696.97364700\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/60e5b091d90aa9d28d00767dffaa9219-1703494231.32/a/60e5b091d90aa9d28d00767dffaa9219/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/52ac24f205814ae258c3200c4186189da58980d2",
+      "https://ms-live-access-8402316.fr-1.paas.massivegrid.net/microsoft/live/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 782,
+    "html_length": 3999,
+    "has_text": true,
+    "has_html": true
+  }
+}

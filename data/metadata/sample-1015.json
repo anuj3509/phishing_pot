@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Ação Trabalhista !",
+    "from": "Intimação eletronica! <cartorio02@uorak.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 30 Jul 2023 01:37:42 +0000",
+    "message_id": "<20230730013742BDEF4B63F6$6F4196D4B4@VULTRGUEST>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_616_16E7_471796D7.76E646D0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"----=_NextPart_616_16E7_471796D7.76E646D0\""
+  },
+  "attachments": [
+    {
+      "filename": "11trt-14.jpeg",
+      "content_type": "image/jpeg",
+      "size": 79533
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "site.com.br",
+      "https://open-click.smtplw.com.br/openings/m/166231d7947f993fad240d07f78c03fc-1690681062.91/a/166231d7947f993fad240d07f78c03fc/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/d3a2a39af65b09f13c1d70e3320a285b23d8093b",
+      "http://app.vhsys.com.br/images/email/logo-footer-small.png",
+      "https://login6.conteudo-protegido.one/_z2.html",
+      "https://vhsys.com.br/?utm_source=crm_internal&utm_medium=email&utm_campaign=BoletoEmail",
+      "http://app.vhsys.com.br/ControleEmail.php?registrar=MjA4NzM5I1JlY183MTQ2OTEwMyNsY2ZlcXVpcGFtZW50b3NAdGVycmEuY29tLmJyOyA=",
+      "https://vhsys.com.br/?utm_source=crm_internal&amp;utm_medium=email&amp;utm_campaign=BoletoEmail"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 749,
+    "html_length": 5988,
+    "has_text": true,
+    "has_html": true
+  }
+}

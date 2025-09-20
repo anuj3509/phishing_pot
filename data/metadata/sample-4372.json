@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Pagamento Urgente: Liberação de Envio Imediato",
+    "from": "ganine <notifica@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Nov 2024 11:56:03 +0000",
+    "message_id": "<39ab0c13-3df3-9e1d-8f2b-b6894710361a@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpswww.e-publicacoes.uerj.brindex",
+      "httpwww.inf.ufes.brbie2001figurasartigosa041.htm",
+      "outros.Suponha",
+      "httpswww.aprendainglesozinho.comaluno-vip",
+      "https://juliodejens.icu/?mailID=r_WYpRIQbilDlBhVcPrRAFmwpZmDBw5MyF1MzfzBnGfPEIUAYIY8NFdLH8YXuOuE-qVJMqYtmpPXNGO9ywn91rSc7lR3WcYm8wG5-J7oLWxB1dv9bB4LFW05hS4kDAL-4R_cujMcp2dG-DRsETO195wuw7l_aaeEiGUGxNCUDCcFXdks3tM29LS-gAnLKlmwMy0-TOnj3fm8sY281UgSqSqMtHxk7_L3yKc-6DyXdSUa6phJYVZ3nXW0WIniT9zpSscmW5rjMRIftqNJUpYnCLIilID8kXvSc8K-WMzhQ4sabdo2Ym8jBWBRnxtg2xP0n7BryjW5s9H88ymvFxxe",
+      "httpwww.nytimes.eom20031130magazine30IPOD.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 38581,
+    "html_length": 66845,
+    "has_text": true,
+    "has_html": true
+  }
+}

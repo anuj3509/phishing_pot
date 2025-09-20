@@ -1,0 +1,137 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Aviso importante: Seu pedido foi foi taxado e bloqueado pela fiscalização alfandegária!
+From: Correios S.A <informa-aduaneira005723@correios>
+To: phishing@pot
+Date: Fri, 13 Dec 2024 09:58:42 +0000
+Message_Id: <9e9be17a87eb8e6e1d990408e82c6da8@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_9e9be17a87eb8e6e1d990408e82c6da8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_9e9be17a87eb8e6e1d990408e82c6da8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.windows.com-correios186315725@pagueaduaneira.co.ua/rastreamento/taxa705
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Coloca uma mensagem opcional aqui caso o HTML não possa ser carregado
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagamento da Taxa Alfandegária Pendente</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #e0e0e0;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 50px auto;
+            background-color: #ffffff;
+            border-radius: 10px;
+            padding: 30px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #f1f1f1;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .header h1 {
+            font-size: 24px;
+            color: #2C3E50;
+            margin: 0;
+        }
+        .content {
+            text-align: left;
+        }
+        .content h2 {
+            font-size: 22px;
+            color: #27AE60;
+            margin-bottom: 20px;
+        }
+        .content p {
+            font-size: 16px;
+            line-height: 1.7;
+            margin-bottom: 20px;
+        }
+        .highlight-box {
+            background-color: #f8f8f8;
+            padding: 15px;
+            border-left: 5px solid #27AE60;
+            margin-bottom: 30px;
+            font-size: 16px;
+        }
+        .highlight-box p {
+            margin: 0;
+        }
+        .cta-button {
+            display: block;
+            width: 100%;
+            text-align: center;
+            background-color: #27AE60;
+            color: #ffffff;
+            padding: 15px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 18px;
+            transition: background-color 0.3s ease;
+            margin-bottom: 20px;
+        }
+        .cta-button:hover {
+            background-color: #219150;
+        }
+        .footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f1f1f1;
+            color: #7f8c8d;
+            border-radius: 0 0 10px 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Notificação de Pagamento Pendente</h1>
+        </div>
+        <div class="content">
+            <h2>Olá, rodrigo-f-p@hotmail.com</h2>
+            <p>Gostaríamos de informar que sua encomenda está temporariamente retida pela alfândega devido à necessidade do pagamento da taxa de importação.</p>
+            <p>Para liberar a sua entrega e evitar qualquer atraso adicional, pedimos que efetue o pagamento o quanto antes utilizando o link abaixo:</p>
+            
+            <div class="highlight-box">
+                <p><strong>Encomenda aguardando pagamento da taxa alfandegária.</strong></p>
+            </div>
+            
+            <a href="https://www.windows.com-correios186315725@pagueaduaneira.co.ua/rastreamento/taxa705" class="cta-button">Visualizar encomenda</a>
+            
+            <p>Caso tenha dúvidas ou precise de assistência, nossa equipe está à disposição para ajudá-lo.</p>
+        </div>
+        <div class="footer">
+            <p>© 2024 Correios - Todos os direitos reservados.</p>
+        </div>
+    </div>
+</body>
+</html>
+

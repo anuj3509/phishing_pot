@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Livelo Info: Seus pontos Livelo valem R$ 9.630,92 e estão expirando em breve!",
+    "from": "Bradesco <infomail123983@bradesco>",
+    "to": "phishing@pot",
+    "date": "Tue, 18 Jun 2024 22:24:06 +0000",
+    "message_id": "<63c09497282ba7896b8ca15f67d62533@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_63c09497282ba7896b8ca15f67d62533\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_63c09497282ba7896b8ca15f67d62533\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap",
+      "https://primeiroacesso-resgatedesco.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6316,
+    "has_text": true,
+    "has_html": true
+  }
+}

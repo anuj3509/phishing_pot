@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Important pour phishing@pot",
+    "from": "Gagnant d'aujourd'hui!  <webmestre@ccmp.daf-mag.fr>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 25 May 2024 17:28:47 +0200",
+    "message_id": "<asaplbfiwbshtycs-a2i7lbl4-LZVE-9119-adol-4ZDgD2uCKAb9@VI1EUR05FT037.eop-eur05.prod.protection.outlook.com ' '>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/1.png",
+      "https://amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/1.html?YfAxPKngHoQcvNSwyLJglyuXj6COTGKL3CsONuswEUOoYdh4q7QxQkoxd5rbQnAo3Ct9ExKH7ZSQySjVPmzoFADUdLRiehmdELd2#cl/26597_md/7/22554/5443/19060/186909",
+      "https://amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/2.png",
+      "amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/1.png",
+      "amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/2.png",
+      "https://amantstoneshderlandis.blob.core.windows.net/amantstoneshderlandis/2.html?VPzTciDERWXEhfHEsApZJBK5DAdxZx28bPCk9uCRiVuYavkCL6By4AazmKf35aJcHXLogpUgP619KeIgu1LbrsAU4wUNvNb2czAq#un/26597_md/7/22554/5443/19060/186909"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35,
+    "html_length": 2106,
+    "has_text": true,
+    "has_html": true
+  }
+}

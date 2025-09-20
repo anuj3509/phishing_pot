@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "DONATION",
+    "from": "<rabal@ufa.cas.cz>",
+    "to": "<rabal@ufa.cas.cz>",
+    "date": "Tue, 4 Jun 2024 16:24:38 -0700",
+    "message_id": "<0daa01dab6e0$ba9f69f0$2fde3dd0$@ufa.cas.cz>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0DAB_01DAB6A6.0E4091F0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0DAB_01DAB6A6.0E4091F0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "span.MsoHyperlinkFollowed",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "gmail.com",
+      "span.EmailStyle17",
+      "li.MsoNormal,",
+      "p.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "https://youtu.be/R_pDrt1np1U.",
+      "https://youtu.be/R_pDrt1np1U",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 696,
+    "html_length": 2538,
+    "has_text": true,
+    "has_html": true
+  }
+}

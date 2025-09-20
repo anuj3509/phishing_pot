@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Wir haben eine ��berraschung von der Douglas",
+    "from": "Botschaft der Douglas, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 06 Nov 2024 06:33:28 +0100",
+    "message_id": "<ux8SwCX.0.0.ux8SwCX.9.ux8SwCX@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.zupimages.net/up/24/45/s1fd.png",
+      "www.zupimages.net/up/23/20/i2cz.png",
+      "http://magicmotorworks.info/oop/1447_md/1/5361/2060/30/123038",
+      "http://magicmotorworks.info/op/1447_md/1/5361/2060/30/123038",
+      "https://throughfares.com/?a=7395&amp;oc=22236&amp;c=58773&amp;p=r&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/24/45/s1fd.png",
+      "https://www.zupimages.net/up/23/20/i2cz.png",
+      "bgasdfasdfa.jpg",
+      "http://magicmotorworks.info/un/1447_md/1/5361/2060/30/123038"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5177,
+    "html_length": 12265,
+    "has_text": true,
+    "has_html": true
+  }
+}

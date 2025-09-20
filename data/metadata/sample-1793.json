@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Das Angebot gilt nur noch 3 Tage! ������������",
+    "from": "Aldi x E-Scooter, Aldi x E-Scooter <news@my.esprit-friends.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 04 Nov 2023 14:12:19 +0100",
+    "message_id": "<OYwOVDE.64313.776+=phishing@pot@service@newsletter.otto.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://myhealthyliving.life/OXQwcmF5Q09TYjZJS01UOEZnUzVoV1dkd2V6dXBYOWhoNk9sOHBYWXd5TkdJazNRVVNCM2g1elpPa3dmd3ROS09MUDRqL0ZyejBDazlLYmFzYjluQ2c9PQ__",
+      "http://myhealthyliving.life/Vk9ydXU2NllCZkVVZSsyVWYxZ3QrUzJRdUJNSmNycU9ZQUc3NEE2OUdaYnZmVjNzVEtQNlJiSDJzVHBJbjcrUnpudmg5QUFmVE1naktWUDF2WlQxbkE9PQ__",
+      "https://t.co/30sZrvAEks",
+      "imgur.com/iQb2tGg.png",
+      "http://myhealthyliving.life/d3ZpK293SmkrbkNDZUI3WW9WTHpEVE5GK1RiL3pSV2RhRmRDZVIrREFmUk1WaW1sZWhkbSszQ2hQYUlPbmw4VTR5OGJjQWFxOFdLUENmZG1GUU1TYlE9PQ__",
+      "https://imgur.com/iQb2tGg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 821,
+    "html_length": 7257,
+    "has_text": true,
+    "has_html": true
+  }
+}

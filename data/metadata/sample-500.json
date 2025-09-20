@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "✔️ Infoemail Bradesco - Você tem pontos Fidelidade Bradesco disponível!",
+    "from": "Banco Bradesco ® <sac@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 20 Mar 2023 15:50:26 +0000",
+    "message_id": "<bccc5d32346b5535b887fbf78e594bdf@www.gokhanerkol.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_bccc5d32346b5535b887fbf78e594bdf\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_bccc5d32346b5535b887fbf78e594bdf\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/mypV9Mf.png",
+      "https://i.imgur.com/WdI5c6D.png",
+      "https://fonts.googleapis.com/css2?family=Open",
+      "http://juchka.ru/ebe9146807364600b700f64adfcd5995/css/?cliente=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1399,
+    "html_length": 3396,
+    "has_text": true,
+    "has_html": true
+  }
+}

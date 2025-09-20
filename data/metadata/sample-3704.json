@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nous avons une surprise pour les clients de Decathlon",
+    "from": "Message de Decathlon, <info@ml.femmeactuelle-news.fr>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Aug 2024 20:01:34 +0100",
+    "message_id": "<ebfc9gV.0.0.ebfc9gV.9.ebfc9gV@ml.femmeactuelle-news.fr>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://wear-prodct.com/?a=7835&amp;oc=21462&amp;c=57060&amp;p=r&amp;m=3&amp;s1=",
+      "http://theowensfamily.info/TUx0YjdIK1I4SmJvK2pXTlFzajdQV1RtTVcwblJ4bmFUd0VoTjRhRkJ6RVlaMWNRU2NIUXRQYkFXOVJ6WVZWQlRpdCsvc294TzZNSWNPSzNDVm4zaGc9PQ__",
+      "http://theowensfamily.info/b1I3MHFGcERuaTVXaWp5cTNKZzB6OWxtL29RMnZmZEMxUmN6ZG92eEgyOERzZHN1NUtFa1I1Ym81TUtrdHpMV01WSzRTeGxmdGkvN2JEbXl2clFVNWc9PQ__",
+      "https://www.zupimages.net/up/23/35/9wyj.png",
+      "https://www.zupimages.net/up/24/32/65nb.png",
+      "www.zupimages.net/up/24/32/65nb.png",
+      "bgasdfasdfa.jpg",
+      "www.zupimages.net/up/23/35/9wyj.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5166,
+    "html_length": 12396,
+    "has_text": true,
+    "has_html": true
+  }
+}

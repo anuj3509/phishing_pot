@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "���������������������������� ���������������� �������������������� ���������������� ���������������������������������������� ��������������������!",
+    "from": "Home Warranty Special <Palmer_Anna_71282@skrdah1.fabor.work >",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Aug 2024 03:32:34 +0000",
+    "message_id": "<6DC0209D926CF3CDFD75F98ED801E7D4-6cd5e978a278470aa0bb1fc1566c0bdf@inbox.foxnews.com>",
+    "content_type": "text/html;"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://t.co/ePyy3o3F0p",
+      "https://i.postimg.cc/4d3w1ycP/bhw-logo.png",
+      "https://t.co/oC0mp4qeeW",
+      "http://162.0.228.240/track/3VyWtO4234iSwk195yzlinbvzbv308JVVLPACUJXQIBFX707DEVI1260417q9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 317,
+    "html_length": 3795,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso Urgente: Pendência identificada em seu CPF Protocolo: 66787600.",
+    "from": "Comunicado Receita Federal <informativo411180@receita>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 17 Mar 2025 22:34:43 +0000",
+    "message_id": "<0bfe93ff24ca112ca3fc36da3e929654@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_0bfe93ff24ca112ca3fc36da3e929654\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_0bfe93ff24ca112ca3fc36da3e929654\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://corre-765775392619.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3491,
+    "has_text": true,
+    "has_html": true
+  }
+}

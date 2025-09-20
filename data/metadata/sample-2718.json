@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "USPS® Item being held, addressee being notified CY1022030750US.",
+    "from": "Tracking Status <social201611332@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 Jan 2024 05:13:23 -1000",
+    "message_id": "<574RCfF9SPdS9pLcH3G3UaPUVagcNE2P1iMVVxFGY@vultr>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://urlz.fr/ptzU",
+      "https://i.imgur.com/tEsXaGk.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 817,
+    "html_length": 11972,
+    "has_text": true,
+    "has_html": true
+  }
+}

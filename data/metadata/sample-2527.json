@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Prezado(a) wbks4@protonmail.ch Segue Acesso DANFE 08:28:39",
+    "from": "NOTA FISCAL ELETRONICA 37290 <nfe56832@lorcnfed14.ddns.net>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Fri, 05 Jan 2024 08:45:42 -0500",
+    "message_id": "<20240105134542.5790B41C09@lorcnfed14.ddns.net>",
+    "content_type": "multipart/mixed;boundary=---------------------bb1b69ff25e86c072ee388acb31dec28"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------bb1b69ff25e86c072ee388acb31dec28"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "attachment.png?v=08f7.518)",
+      "rcmail.command(",
+      "35529790...035529790-nfe.pdf",
+      "https://148.25.205.92.host.secureserver.net/danf/?NotaFiscal=wbks4@protonmail.ch",
+      "protonmail.ch",
+      "31231032233064000200550020000766011751902530-nfe.xml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 266,
+    "html_length": 4912,
+    "has_text": true,
+    "has_html": true
+  }
+}

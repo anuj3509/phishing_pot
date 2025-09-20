@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Consegna non andata a buon fine: ordine 3788546-03",
+    "from": "Poste Italiane, Poste Italiane, <ikea@news.email.ikea.it>",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Feb 2024 03:15:57 +0000",
+    "message_id": "<XICNIMYODAMZFQ8AU9KYO1L@news.email.ikea.it>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5XNLtb11682khYR11cmebyxywqg9962DKKOMUMIZPLEUFY3157789CCDD99t10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4oujEW11682bYXA11kltwkffiqw9962SQILWZEFTTNXSDG3157789FQGP99b10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6lqQmM11682bQlN11qyraibwgvm9962DYCYAVTXCENZDXL3157789GZVM99o10",
+      "https://leaadpersons.com/biz/packageblue.png",
+      "http://koinmail.net/track/3cdztm11682xVZj11zzhdffdelt9962OMSMQBHRLZYWSVL3157789RHLT99C10",
+      "https://leaadpersons.com/biz/Service-Poste-logo2.png",
+      "leaadpersons.com/biz/Service-Poste-logo2.png",
+      "leaadpersons.com/biz/packageblue.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 453,
+    "html_length": 5171,
+    "has_text": true,
+    "has_html": true
+  }
+}

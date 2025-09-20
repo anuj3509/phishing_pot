@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "phishing@pot - wir gratulieren Ihnen recht herzlich.",
+    "from": "KundenService, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 15 Dec 2023 13:57:09 +0100",
+    "message_id": "<pmJCRnS.0.0.pmJCRnS.9.pmJCRnS@newsletter.baur.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/23/49/874c.png",
+      "http://bljlzex.superkoran.info/TXlMT3VYUEE3dG9vSjgzNEM3TW1UbzJSZ3ZZbDFYdGVjTjNjQyt5Q1RvQW4xdmlYUFE4eDJ1QnQ4TXFDUWJTSTYzVzE5Q2krRnQ0TjFNN1hWWGF6YWFOUjVHZjMzTm5nMHNReXU2Rk1FbVU9",
+      "http://bljlzex.superkoran.info/NmlxNGVici9PQ1hEdVBZNFRxTnN6SUhCWnJCenEvU2Q4V3BPazdqMWRDazRFNFAvQVVqcGZDSFI1K1F5VUQxajhzdzlVUjVWbk9sVHFpRDA3Y29GYlBHclQxTGtKMmlMTjBCdWRWMXRrT0E9",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/14/3chv.png",
+      "https://fnnl-check.com/?a=6073&amp;oc=14647&amp;c=41082&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/23/14/3chv.png",
+      "www.zupimages.net/up/23/49/874c.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1892,
+    "html_length": 9505,
+    "has_text": true,
+    "has_html": true
+  }
+}

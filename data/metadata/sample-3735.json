@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Oi",
+    "from": "western union <omaikelu@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Fri, 23 Aug 2024 16:45:59 +0100",
+    "message_id": "<CA+TtAd9r=nQ5BC1wy3mdgt+V97E6J3R6u+dUe7G2CJXPz_Q3BA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"000000000000b352ba06205bac8b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"000000000000b352ba06205bac8b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 559,
+    "html_length": 709,
+    "has_text": true,
+    "has_html": true
+  }
+}

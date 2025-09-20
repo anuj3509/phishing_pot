@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "PLEASE TREAT THIS AS MATTER OF URGENCY.",
+    "from": "Ms JANET NAPOLITANO <correo@protege.cll>",
+    "to": "Recipients <correo@protege.cll>",
+    "date": "Fri, 3 Jan 2025 20:48:26 -0800",
+    "message_id": "<a55f28b3-7674-470c-8a53-fb4ee8bde13c@200corpmxp001.lindt.net>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "confirm",
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ADDRESS.BUT",
+      "SECURITY.HOWEVER,",
+      "INFORMATION.ONCE",
+      "YOU.ALSO"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7067,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

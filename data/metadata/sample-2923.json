@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Check je inbox: nieuw privébericht van jeOekraïense meisje",
+    "from": "Oekraïense Date Finder <info@mail.whenthefork.com>",
+    "to": "\"phishing@pot\" <phishing@pot-f-p@hotmail.com>",
+    "date": "Wed, 21 Feb 2024 20:18:24 +0000",
+    "message_id": "<3aadb382210580d308a4392dce9433bef6439d82@mail.whenthefork.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1708546704_a9b55afaf63c5d8d92a342eb85333569_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift_1708546704_a9b55afaf63c5d8d92a342eb85333569_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://click1.100clicks.co/index.php/campaigns/dw000vxw9k5a3/track-url/ae421sb9cf55e/7be9eb33ae3af3a3f5f2ca1b73cb61c17825057f",
+      "http://click1.100clicks.co/index.php/campaigns/dw000vxw9k5a3/track-url/ae421sb9cf55e/c1d75a7cdbc2bed98bd75e208b6eee3e1648039b]",
+      "http://click1.100clicks.co/index.php/campaigns/dw000vxw9k5a3/track-url/ae421sb9cf55e/c1d75a7cdbc2bed98bd75e208b6eee3e1648039b",
+      "http://click1.100clicks.co/index.php/campaigns/dw000vxw9k5a3/track-url/ae421sb9cf55e/7be9eb33ae3af3a3f5f2ca1b73cb61c17825057f]",
+      "http://click1.100clicks.co/index.php/campaigns/dw000vxw9k5a3/track-opening/ae421sb9cf55e"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1069,
+    "html_length": 3195,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,315 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ����Geschenk f��r dich
+From: CocaCola<support@cocacola>
+To: <phishing@pot>
+Date: Mon, 12 May 2025 16:05:08 +0000
+Message_Id: <b778e461-641c-44f9-a115-670d2d85c4b4@SJ1PEPF00002322.namprd03.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.gstatic.com
+  - https://fonts.googleapis.com
+  - http://CaYkOZGauvDwKHG7tBZXs0l0aUJigCCaYkOZGauvDwKHG.healthnutrecipes.space/track/3XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207
+  - http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/6XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207
+  - http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/5XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207
+  - https://zupimages.net/up/25/18/lw59.png
+  - http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207
+  - https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;family=Roboto&amp;family=Work+Sans:wght@600&amp;display=swap
+  - zupimages.net/up/25/18/lw59.png
+
+DECODED TEXT CONTENT:
+------------------------------
+03 html { margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline; } .main_conteiner { width: 550px; height: 950px; margin-left: auto; margin-right: auto; } .header { background-color: #FF0000; height: 33px; } .header>h5 { height: 37px; color: white; font-family: Roboto; font-size: 14px; font-style: normal; font-weight: 700; line-height: 33px; text-align: center; } .product { display: flex; align-items: center; flex-direction: column; width: 100%; } .product_logo { display: flex; justify-content: center; margin-top: -30px; width: 100%; } .product_logo>img { width: 50%; } .product_text { display: flex; justify-content: center; flex-direction: column; } .product_text>h3 { margin-top: 0px; margin-bottom: 0px; color: #000; font-family: Roboto; font-size: 35px; font-style: italic; font-weight: 900; line-height: normal; text-align: center; } .product_text>h4 { margin-top: 0px; margin-bottom: 0px; color: #F00; text-align: center; font-family: Work Sans; font-size: 38px; font-style: normal; font-weight: 700; line-height: normal; } .product_img { margin-top: -20px; } .product_img>a>img { width: 90%; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto; } .button_offer { display: flex; flex-direction: column; align-items: center; justify-content: center; } .button_offer>h1 { color: #65b673; text-align: center; font-family: Roboto; font-size: 48px; font-style: normal; font-weight: 700; line-height: normal; margin-top: -40px; } .button_text { color: #000000; text-align: center; font-family: Roboto; font-size: 20px; font-style: normal; font-weight: 400; line-height: normal; width: 90%; margin-left: auto; margin-right: auto; margin-top: 10px; } .myButton { background-color: #D92C27; border-radius: 0px; border: 1px solid #D92C27; display: inline-block; cursor: pointer; padding: 20px 35px; text-decoration: none; text-shadow: 0px 1px 0px #2F6627; color: #FFF; font-family: Roboto; font-size: 26px; font-style: normal; font-weight: 700; line-height: normal; width: 411px; text-align: center; margin-top: 30px; } .myButton:hover { background-color: #CC0000; } .myButton:active { position: relative; top: 1px; } @media (min-width: 576px) { .container, .container-sm { max-width: 540px } } @media (min-width: 768px) { .container, .container-md, .container-sm { max-width: 720px } } @media (min-width: 992px) { .container, .container-lg, .container-md, .container-sm { max-width: 960px } } @media (min-width: 1200px) { .container, .container-lg, .container-md, .container-sm, .container-xl { max-width: 1140px } } @media (min-width: 1400px) { .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl { max-width: 1320px } } --> Nehmen Sie an einer Massage teil und erhalten Sie eine Belohnung! Gewinne einen Coca-Cola Jahresvorrat + Mini Kühlschrank! Glückwunsch! lass uns gehen von der Kampagne abmelden abbestellen
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>03</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;family=Roboto&amp;family=Work+Sans:wght@600&amp;display=swap" rel="stylesheet">
+    <style>
+        html {
+            margin: 0;
+            padding: 0;
+            border: 0;
+            font-size: 100%;
+            font: inherit;
+            vertical-align: baseline;
+        }
+
+        .main_conteiner {
+            width: 550px;
+            height: 950px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .header {
+            background-color: #FF0000;
+            height: 33px;
+        }
+
+        .header>h5 {
+            height: 37px;
+            color: white;
+            font-family: Roboto;
+            font-size: 14px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: 33px;
+            text-align: center;
+        }
+
+        .product {
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+            width: 100%;
+        }
+
+        .product_logo {
+            display: flex;
+            justify-content: center;
+            margin-top: -30px;
+            width: 100%;
+        }
+
+        .product_logo>img {
+            width: 50%;
+        }
+
+        .product_text {
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .product_text>h3 {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            color: #000;
+            font-family: Roboto;
+            font-size: 35px;
+            font-style: italic;
+            font-weight: 900;
+            line-height: normal;
+            text-align: center;
+        }
+
+        .product_text>h4 {
+            margin-top: 0px;
+            margin-bottom: 0px;
+            color: #F00;
+            text-align: center;
+            font-family: Work Sans;
+            font-size: 38px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+        }
+
+        .product_img {
+            margin-top: -20px;
+        }
+
+        .product_img>a>img {
+            width: 90%;
+            margin-bottom: 20px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .button_offer {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .button_offer>h1 {
+            color: #65b673;
+            text-align: center;
+            font-family: Roboto;
+            font-size: 48px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            margin-top: -40px;
+        }
+
+        .button_text {
+            color: #000000;
+            text-align: center;
+            font-family: Roboto;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: normal;
+            width: 90%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 10px;
+        }
+
+        .myButton {
+            background-color: #D92C27;
+            border-radius: 0px;
+            border: 1px solid #D92C27;
+            display: inline-block;
+            cursor: pointer;
+            padding: 20px 35px;
+            text-decoration: none;
+            text-shadow: 0px 1px 0px #2F6627;
+            color: #FFF;
+            font-family: Roboto;
+            font-size: 26px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            width: 411px;
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .myButton:hover {
+            background-color: #CC0000;
+        }
+
+        .myButton:active {
+            position: relative;
+            top: 1px;
+        }
+
+        @media (min-width: 576px) {
+
+            .container,
+            .container-sm {
+                max-width: 540px
+            }
+        }
+
+        @media (min-width: 768px) {
+
+            .container,
+            .container-md,
+            .container-sm {
+                max-width: 720px
+            }
+        }
+
+        @media (min-width: 992px) {
+
+            .container,
+            .container-lg,
+            .container-md,
+            .container-sm {
+                max-width: 960px
+            }
+        }
+
+        @media (min-width: 1200px) {
+
+            .container,
+            .container-lg,
+            .container-md,
+            .container-sm,
+            .container-xl {
+                max-width: 1140px
+            }
+        }
+
+        @media (min-width: 1400px) {
+
+            .container,
+            .container-lg,
+            .container-md,
+            .container-sm,
+            .container-xl,
+            .container-xxl {
+                max-width: 1320px
+            }
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <div class="container main_conteiner creative" id="sized">
+
+        <div class="product" style="padding: 0">
+            <!-- <div class="product_logo" style="background-color: #002b6f; margin-bottom: 12px">
+
+            </div> -->
+            <div class="product_text">
+                <h3 style="color: #1E1E1E">
+                    <a href="http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207" style="text-decoration: none; color: inherit;">
+                        Nehmen Sie an einer Massage teil und erhalten Sie eine Belohnung! </a>
+                </h3>
+                
+
+                    <h4 style="color: #F40009"><a href="http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207" style="text-decoration: none; color: inherit;"> Gewinne einen Coca-Cola Jahresvorrat + Mini Kühlschrank! </a></h4>
+                
+            </div>
+            <div class="product_img" style="width: 68.2%;">
+                <br>
+                <a href="http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207">
+
+                    <img src="//zupimages.net/up/25/18/lw59.png" alt="">
+                    <img src="https://zupimages.net/up/25/18/lw59.png" alt="">
+                </a>
+
+            </div>
+        </div>
+        <div class="offer_block">
+            <div class="button_offer">
+                <br>
+                <h1>Glückwunsch!</h1>
+
+                <!--Button-->
+                <a href="http://XyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/4XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207">
+                    <div style="color:#fff;min-width: 260px;padding: 15px;font-size: 20px;margin-top: 20px;font-size: 22px;font-weight: bold;line-height: 1;text-transform: uppercase;background: #F40009;display: inline-block;padding: 16px 40px;text-decoration: none; border-radius: 20px;margin: 30px 0px; text-align:center">
+                        lass uns gehen
+                    </div>
+                </a>
+                <!--Button-->
+
+            </div>
+            <br>
+
+            <p style="text-align: center; font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 1px; color: rgb(246, 177, 53); padding: 10px">
+                <a href="http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/6XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207" style="color:rgb(246, 177, 53);text-decoration:none;"> von der Kampagne abmelden </a>
+            </p>
+
+
+            <p style="text-align: center; font-family: Arial,Helvetica,sans-serif; font-size: 13px; line-height: 1px; color: rgb(246, 177, 53); padding: 10px">
+                <a href="http://XyGmE7tBZXs0l0aUJigCXyGmE7tBZXs0l0aUJigCXyGmE.healthnutrecipes.space/5XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207" style="color:rgb(246, 177, 53);text-decoration:none;"> abbestellen </a>
+            </p>
+
+        </div>
+
+
+
+    </div>
+</body>
+
+<img src="http://CaYkOZGauvDwKHG7tBZXs0l0aUJigCCaYkOZGauvDwKHG.healthnutrecipes.space/track/3XyGmE14279RJOL198hmhtbjbfaz3764IXWKJHIGWXMNNFZ91072IIEV1452g207" width="0" height="0" style="position:absolute;visibility:hidden;" border="0">
+
+</html>
+

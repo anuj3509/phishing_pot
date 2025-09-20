@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Your account has been flagged for unusual activity",
+    "from": "Outlook Support Team <social201511138@social.helwan.edu.eg>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 10:10:04 -0900",
+    "message_id": "<JMrByPl2c3HBo8SctKnJ5C5Gp64sPSSWk76p4sjQ@s6>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account",
+      "unusual activity"
+    ],
+    "urls": [
+      "https://noragray098.clickfunnels.com/optinl6bmnmrw",
+      "https://i.imgur.com/bW0xBmr.jpeg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1084,
+    "html_length": 23920,
+    "has_text": true,
+    "has_html": true
+  }
+}

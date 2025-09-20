@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Trust Wallet Notification",
+    "from": "\"Trust Wallet\" <noreply@support-trustwallet.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Sep 2023 01:17:12 +0000",
+    "message_id": "<564388997552236356949@PACKERP-0LE6FCB>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.trust-helpdesk.com/",
+      "https://joulink.com",
+      "https://www.validation-page.com/",
+      "https://trustwallet.com/assets/images/media/assets/horizontal_white.png",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 669,
+    "html_length": 5594,
+    "has_text": true,
+    "has_html": true
+  }
+}

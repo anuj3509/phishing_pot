@@ -1,0 +1,59 @@
+{
+  "headers": {
+    "subject": "Unusual Two-Factor Authentication (2FA) Activity",
+    "from": "Mi󠄹cr󠄹oso󠄹ft Sup󠄹por󠄹󠄹t <mail.apps-ag@datamartinc.net>",
+    "to": "<customer@microsoft.com>",
+    "date": "Tue, 3 Jun 2025 00:37:51 +0000",
+    "message_id": "<74119384.216985768220.9648260489638057.934971214@priva80.privatednsorg.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixBMlG88NIvUuwXwpwZCPS8qbITsoGfc30TvXgQ91ijXY\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixBMlG88NIvUuwXwpwZCPS8qbITsoGfc30TvXgQ91ijXY\""
+  },
+  "attachments": [
+    {
+      "filename": "email-microsoft.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5502
+    },
+    {
+      "filename": "carddav-microsoft.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5340
+    },
+    {
+      "filename": "caldav-microsoft.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6436
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.datamartinc.net:2080/calendars/sureprimeco/calendar",
+      "datamartinc.net",
+      "https://mail.datamartinc.net:2080/addressbooks/sureprimeco/addressbook",
+      "http://mail.datamartinc.net:2079",
+      "http://mail.datamartinc.net:2079/calendars/sureprimeco/calendar",
+      "http://mail.datamartinc.net:2079/addressbooks/sureprimeco/addressbook",
+      "https://mail.datamartinc.net:2080",
+      "Mail.app®",
+      "Mail.app&reg;",
+      "ioh.ac.us”",
+      "ioh.ac.us&rdquo;",
+      "mail.datamartinc.net"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 20030,
+    "html_length": 19975,
+    "has_text": true,
+    "has_html": true
+  }
+}

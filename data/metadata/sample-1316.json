@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "No need to be single anymore",
+    "from": "Your match, jehd <thanks@virginmobile.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Sep 2023 12:50:27 +0200",
+    "message_id": "\r\n <c95625e5-4c5c-43c1-bcd5-f24139149dfc@HE1EUR04FT008.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://5.252.23.207/oop/692_md/2010/18/753/3/315429",
+      "http://5.252.23.207/media/c0bc61e9d3314f5.jpg",
+      "http://5.252.23.207/media/dd22b582880f7ff.jpg",
+      "http://5.252.23.207/cl/692_md/2010/18/753/3/315429",
+      "http://www.w3.org/1999/xhtml",
+      "http://5.252.23.207/op/692_md/2010/18/753/3/315429"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 805,
+    "html_length": 4629,
+    "has_text": true,
+    "has_html": true
+  }
+}

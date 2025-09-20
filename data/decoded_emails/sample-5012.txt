@@ -1,0 +1,42 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Have you been informed about this?
+From: "THE DANIELS" <dkouamemodeste@gmail.com>
+To: dkouamemodeste@gmail.com
+Date: Mon, 10 Mar 2025 15:01:44 -0700 (PDT)
+Message_Id: <67cf6148.170a0220.fb9f0.f978@mx.google.com>
+Content_Type: multipart/alternative;
+	boundary="--boundary_434_0c9cb0b6-e350-4591-9c0b-652a5c34cdfb"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="--boundary_434_0c9cb0b6-e350-4591-9c0b-652a5c34cdfb"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - Daniels.J.R.E.Daniels@outlook.com
+  - J.R.E.Daniels@outlook.com
+
+DECODED TEXT CONTENT:
+------------------------------
+<html><body><P>Attn;</P>
+<P>On behalf of my client James Smith Sr, whose estate you are included in. I'm deeply saddened to announce the passing of James Smith Sr, who named you as his beneficiary. Kindly get back to me as soon as possible.</P>
+<P>Best regards,<BR>Joseph Daniels.<BR><A href="mailto:J.R.E.Daniels@outlook.com">J.R.E.Daniels@outlook.com</A></P></body></html>Attn;
+On behalf of my client James Smith Sr, whose estate you are included in. I'm deeply saddened to announce the passing of James Smith Sr, who named you as his beneficiary. Kindly get back to me as soon as possible.
+Best regards,Joseph Daniels.J.R.E.Daniels@outlook.com
+
+DECODED HTML CONTENT:
+------------------------------
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"></head>
+<body><p>Attn;</p>
+<p>On behalf of my client James Smith Sr, whose estate you are included in. I'm deeply saddened to announce the passing of James Smith Sr, who named you as his beneficiary. Kindly get back to me as soon as possible.</p>
+<p>Best regards,<br>Joseph Daniels.<br><a href="mailto:J.R.E.Daniels@outlook.com">J.R.E.Daniels@outlook.com</a></p></body></html>

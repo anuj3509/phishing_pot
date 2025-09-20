@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Die Bestellung 29194772 hat sich verz��gert.",
+    "from": "EXPRESS, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 13 Dec 2023 18:30:16 +0100",
+    "message_id": "\r\n <ecb81802-7ab4-40d8-8d6f-ce72d6c80655@BN8NAM12FT059.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/express.png",
+      "http://mail.drivesafetohome.bio/cl/5213_md/2009/89/376/23/2459859",
+      "http://zugspitzakademie.de/6639ec2241a0788.png",
+      "oncf-voyages.ma",
+      "http://zugspitzakademie.de/0ba26522baefab0.png",
+      "http://zugspitzakademie.de/83075521021a8da.png",
+      "http://zugspitzakademie.de/b6428293361a761.png",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/express.png",
+      "http://mail.drivesafetohome.bio/oop/5213_md/2009/89/376/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5331,
+    "html_length": 25262,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,336 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 🔋 Zonnepanelen voor een goede prijs 
+From: "Zonnepanelen installateur" <zonnepaneel@appjj.serenitepure.fr>
+To: phishing@pot
+Date: Thu, 3 Nov 2022 04:56:15 +0000
+Message_Id: <0.0.0.0.1D8EF409A5C12CE.37AA@dturm.de>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - div.preheader
+  - http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190
+  - https://i.imgur.com/sOPmaS3.png
+  - https://i.imgur.com/Hr5TM3Y.png
+
+DECODED TEXT CONTENT:
+------------------------------
+.headline ~ br:first-of-type { display: none; } .headline ~ br:nth-of-type(2) { display: none; } .mobile_only { display: none !important; } @media screen and (max-width: 600px) { /* Media Queries COMMON START */ html { font-size: 16px !important; } img { max-width: 320px !important; } .container { width: 320px !important; max-width: 320px !important; } .br_mobile_only { display: block !important; } .img_switcher { display: block; background-position: center !important; } .mobile_only { display:inline !important; max-width: 330px !important; } /* .desktop_only { display: none !important; } */ .img-wrapper { display: block; overflow: hidden; max-width: 320px; } /* Media Queries COMMON END */ /* Media Queries HEADER START */ .header_smalltext { font-size: 0.688em !important; line-height: 14px; } .header_socialtable { width: 100%; } /* Media Queries HEADER END */ /* Media Queries FOOTER START */ .footer_socialtable { margin: 0 auto; } .footer_socialtable td { float: left !important; text-align: center !important; width: 100% !important; white-space: normal !important; } .footer_followus { padding-bottom: 10px; } .footer_socialbuttons { width: 100%; } .footer_socialbuttons td { width: auto !important; float: none !important; } .footer_gmailtable { text-align: center !important; width: 100% !important; } .footer_legaltable { text-align: center !important; width: 100% !important; } .footer_evenbuttonstable, .footer_oddbuttonstable { text-align: center !important; width: 100% !important; } .footer_evenbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 50% !important; float: left !important; } .footer_evenbutton { width: 155px !important; padding-right: 0 !important; padding-left: 0 !important; display: block !important; margin: auto !important; } .footer_oddbuttonstable td { padding-right: 0 !important; margin-bottom: 5px !important; width: 100% !important; float: left !important; } .footer_oddbutton { width: 268px !important; height: auto !important; display: inline-block !important; padding: 10px !important; } /* Media Queries FOOTER END */ /* Media Queries Variants COMMON START */ .heading { font-size: 18px !important; font-weight: bold !important; line-height: 18px !important; } .text-content { font-size: 14px !important; } .cta_button { width: 100% !important; height: auto !important; display: inline-block !important; } .listimg { width: 75px !important; height: 75px !important; } /* Media Queries Variants COMMON END */ /***INSERT VARIANTS' SPECIFIC CSS HERE ***/ } div.preheader { display: none !important; } --> --> --> Vrijblijvend zonnepanelen offertes ontvangen? Heb je er ook genoeg van: Dat de elektriciteit- en gasrekeningen steeds hoger worden? Dat je steeds minder kan uitgeven aan leuke dingen door de inflatie? Dat niemand weet wanneer de prijsverhogingen afvlakken? 17 miljoen Nederlanders hebben hetzelfde probleem. Drie miljoen consumenten hebben daarom al zonnepanelen gekocht. Wat zij wel weten en de rest van Nederland (nog) niet : Dat zonnepanelen veel minder duur zijn dan je zou denken. Installeren gebeurd binnen één dag. Het de moeite waard s om meerdere aanbiederes te vergelijken Het letterlijk honderden euro's elk jaar scheelt aan energiekosten &gt;&gt; Klik hier voor 2 a 3 vrijblijvende offertes binnen twee werkdagen. Meer en meer zonnepanelen bedrijven kunnen de grote toestroom van klanten niet meer aan. Wacht daarom niet langer en meld u nu aan! JA, ik wil zonnepanelen offertes
+
+DECODED HTML CONTENT:
+------------------------------
+<html xmlns:v="urn:schemas-microsoft-com:vml" style="font-family: Arial, Helvetica, sans-serif; -webkit-font-smoothing: antialiased; font-size: 14px; margin: 0px; padding: 0px;"><!-- HTML HEAD including style definitions --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <style type="text/css" media="all">
+    .headline ~ br:first-of-type {
+        display: none;
+    }
+    .headline ~ br:nth-of-type(2) {
+        display: none;
+    }
+    .mobile_only {
+       display: none !important;
+     }
+      @media screen and (max-width: 600px) {
+        /* Media Queries COMMON START */
+        html {
+          font-size: 16px !important;
+        }
+
+        img {
+          max-width: 320px !important;
+        }
+
+        .container {
+          width: 320px !important;
+          max-width: 320px !important;
+        }
+
+        .br_mobile_only {
+          display: block !important;
+        }
+
+        .img_switcher {
+          display: block;
+          background-position: center !important;
+        }
+        .mobile_only {
+          display:inline !important;
+          max-width: 330px !important;
+        }
+        /* .desktop_only {
+          display: none !important;
+        } */
+            .img-wrapper {
+        display: block;
+        overflow: hidden;
+         max-width: 320px;
+            }
+            
+        /* Media Queries COMMON END */
+        /* Media Queries HEADER START */
+        .header_smalltext {
+          font-size: 0.688em !important;
+          line-height: 14px;
+        }
+
+        .header_socialtable {
+          width: 100%;
+        }
+
+        /* Media Queries HEADER END */
+        /* Media Queries FOOTER START */
+        .footer_socialtable {
+          margin: 0 auto;
+        }
+
+        .footer_socialtable td {
+          float: left !important;
+          text-align: center !important;
+          width: 100% !important;
+          white-space: normal !important;
+        }
+
+        .footer_followus {
+          padding-bottom: 10px;
+        }
+
+        .footer_socialbuttons {
+          width: 100%;
+        }
+
+        .footer_socialbuttons td {
+          width: auto !important;
+          float: none !important;
+        }
+
+        .footer_gmailtable {
+          text-align: center !important;
+          width: 100% !important;
+        }
+
+        .footer_legaltable {
+          text-align: center !important;
+          width: 100% !important;
+        }
+
+        .footer_evenbuttonstable,
+        .footer_oddbuttonstable {
+          text-align: center !important;
+          width: 100% !important;
+        }
+
+        .footer_evenbuttonstable td {
+          padding-right: 0 !important;
+          margin-bottom: 5px !important;
+          width: 50% !important;
+          float: left !important;
+        }
+
+        .footer_evenbutton {
+          width: 155px !important;
+          padding-right: 0 !important;
+          padding-left: 0 !important;
+          display: block !important;
+          margin: auto !important;
+        }
+
+        .footer_oddbuttonstable td {
+          padding-right: 0 !important;
+          margin-bottom: 5px !important;
+          width: 100% !important;
+          float: left !important;
+        }
+
+        .footer_oddbutton {
+          width: 268px !important;
+          height: auto !important;
+          display: inline-block !important;
+          padding: 10px !important;
+        }
+
+        /* Media Queries FOOTER END */
+        /* Media Queries Variants COMMON START */
+        .heading {
+          font-size: 18px !important;
+          font-weight: bold !important;
+          line-height: 18px !important;
+        }
+        .text-content {
+           font-size: 14px !important;
+        }
+        .cta_button {
+          width: 100% !important;
+          height: auto !important;
+          display: inline-block !important;
+        }
+
+        .listimg {
+          width: 75px !important;
+          height: 75px !important;
+        }
+
+        /* Media Queries Variants COMMON END */
+        /***INSERT VARIANTS' SPECIFIC CSS HERE ***/
+      }
+    </style>
+  </head>
+  <body style="margin: 0;padding: 0;background-color: #000000;height: 100% !important;width: 100% !important;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%;line-height: 1.6;">
+    <style type="text/css">
+      div.preheader {
+        display: none !important;
+      }
+    </style>
+    <div class="preheader" style="font-size: 1px; display: none !important;"></div>
+    <table class="body" style="background-color: #000000;" border="0" cellspacing="0" cellpadding="0" bgcolor="#E9E8E7" width="100%">
+      <tbody>
+        <tr>
+          <td style="vertical-align: top;" valign="top">
+           
+              <table class="container" style="max-width: 600px; width: 600px; margin: 0 auto !important; padding: 0;" border="0" cellspacing="0" cellpadding="0" width="600">
+                <tbody>
+                  <tr>
+                    <td style="padding: 0;">
+                      <table style="width: 100%; max-width: 600px; margin: 0 auto;" width="100%">
+                        <tbody>
+                          <tr>
+                            <td style="padding: 0px; padding-bottom: 15px;"></td>
+                          </tr>
+                        </tbody>
+                      </table>
+                      <table class="variant_container" style="width: 100%; margin: 0 auto; padding-top: 0; padding-bottom: 0;" border="0" cellspacing="0" cellpadding="0">
+                        <tbody>
+                          <tr>
+                            <td class="wrapper" bgcolor="#FFFFFF">
+                               
+                              <a class="img-wrapper" href="http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190" target="_blank" style="display: block;">
+                                <!-- <span style="background: url('https://i.imgur.com/sOPmaS3.png') 320px;
+                                                                                   background-size: cover;
+                                                                                width: 320px !important;
+                                                                                height: 220px !important;
+                                                                                background-repeat: no-repeat;
+                                                                                font-size: 0; line-height: 0;" class="img_switcher"> -->
+                                  <!-- <img class="mobile_only" src="https://i.imgur.com/sOPmaS3.png'" style="vertical-align: top; height: 220px !important;" alt="" width="330"> -->
+                                  <img class="desktop_only" src="https://i.imgur.com/Hr5TM3Y.png'" style="vertical-align: top;" alt="" width="600">
+                                <!-- </span> -->
+                              </a>  
+                                <table class="headline" style="margin: 0 auto; width: 90%; padding-top: 25px; padding-bottom: 10px;" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody>
+                                    <tr>
+                                      <td class="heading" style="font-family: Arial, Helvetica, sans-serif;font-size: 24px;font-weight: bold;line-height: 25px;color: #1e2447;word-break: break-word;" valign="top" align="center">Vrijblijvend zonnepanelen offertes ontvangen?</td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                                <br><br><br><table class="bodycopy" style="margin: 0 auto;width: 90%;padding-bottom: 30px;" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody>
+                                    <tr>
+                                      <td class="text-content" style="font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #000000; word-break: break-word;" valign="top" align="left">Heb je er ook genoeg van:
+       <ul style="list-style-type: square;">
+        <li>Dat de elektriciteit- en gasrekeningen steeds hoger worden? </li>
+        <li>Dat je steeds minder kan uitgeven aan leuke dingen door de inflatie?</li>
+        <li>Dat niemand weet wanneer de prijsverhogingen afvlakken?</li>
+    </ul>
+  </td>
+                                    </tr>
+                        
+                                                                         
+<br>                        
+
+
+	 <tr>
+                                      <td class="text-content" style="font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #000000; word-break: break-word;" valign="top" align="left">17 miljoen Nederlanders hebben hetzelfde probleem. <br><br> Drie miljoen consumenten hebben daarom al zonnepanelen gekocht. <br><br><br><b>Wat zij wel weten en de rest van Nederland (nog) niet</b>:   
+       <ul style="list-style-type: square;">
+	<li>Dat zonnepanelen veel minder duur zijn dan je zou denken.</li>
+        <li>Installeren gebeurd binnen één dag.</li>
+        <li>Het de moeite waard s om meerdere aanbiederes te vergelijken 
+	<li>Het letterlijk honderden euro's elk jaar scheelt aan energiekosten</li>
+    </ul>
+  </td>
+                                    </tr>
+                                         
+                                          
+
+<tr><td class="text-content" style="font-family: Arial, Helvetica, sans-serif; font-size: 1em; color: #000000; word-break: break-word;" valign="top" align="left">
+                
+
+    <a href="http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190" target="_blank"> &gt;&gt; Klik hier voor 2 a 3 vrijblijvende offertes binnen twee werkdagen.</a>
+
+     <br><br>
+
+     <br> Meer en meer zonnepanelen bedrijven kunnen de grote toestroom van klanten niet meer aan. <br><br> Wacht daarom niet langer en meld u nu aan!<br>
+
+  
+                                        </td>
+
+                                     
+                                  </tr></tbody>
+                                </table>
+                            
+                              <br>
+                      
+                                <table style="margin: 0 auto;width: 90%;padding-bottom: 40px;" border="0" cellspacing="0" cellpadding="0">
+                                  <tbody>
+                                    
+
+<tr>
+                                      <td valign="top" align="center">
+
+                                        <a class="cta_button" href="http://go.nltrck.com/?c=495&amp;source=consumentenbond&amp;s1=&amp;lp=1190" target="_blank" style="
+                                                                    background-color: #e2883a;
+                                                                    font-family: Arial, Helvetica, sans-serif;
+                                                                    font-size: 24px;
+                                                                    color: #ffffff;
+                                                                    width: 415px;
+                                                                    border-radius: 0;
+                                                                    padding-top: 13px;
+                                                                    padding-bottom: 13px;
+                                                                    text-align: center;
+                                                                    display: table-cell;
+                                                                    vertical-align: middle;
+                                                                    text-decoration: none;
+                                                                    word-break: break-word;
+                                                                    box-shadow: 0px 0px 19px #00000061;
+                                                                    mso-hide:all;
+                                                                    " width="224">
+                                          <strong>JA, ik wil zonnepanelen offertes</strong>
+                                        </a>
+                                        <br>
+                                        <br>
+
+                                          
+                                      </td>
+                                    </tr>
+                                  </tbody>
+                                </table>
+                            
+                        
+                        
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+       
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  
+</body></html>
+

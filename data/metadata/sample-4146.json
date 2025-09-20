@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi bloqueado pela fiscalização alfandegária! Protocolo: 96828407.",
+    "from": "Pedido Correios <taxascorreios759012@alfandega>",
+    "to": "phishing@pot",
+    "date": "Sat, 21 Sep 2024 23:40:58 +0000",
+    "message_id": "<ca362c194ba571409c7b3c616c0228ae@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ca362c194ba571409c7b3c616c0228ae\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ca362c194ba571409c7b3c616c0228ae\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://alfandegaclientesrastreamento.co.ua/rastreamento/taxas256",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3675,
+    "has_text": true,
+    "has_html": true
+  }
+}

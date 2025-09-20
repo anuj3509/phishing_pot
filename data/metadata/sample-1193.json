@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Check your document",
+    "from": "DocuSign <johnmercy2723@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 6 Jun 2023 16:22:32 +0100",
+    "message_id": "<CACxhz0_9Oi6mY_OUN9r950dbj+30WSWVudOiiKh6WD2TexnNYg@mail.gmail.com>",
+    "content_type": "multipart/mixed;boundary=---------------------448f0ad58827d1276c20ae91fe492fb8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------448f0ad58827d1276c20ae91fe492fb8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://danielcacereslopez.com/Mm84ODhkN3oxZDZWNlU=",
+      "https://ecp.yusercontent.com/mail?url=https%3A%2F%2FNA3.docusign.net%2Fmember%2FImages%2Femail%2FdocInvite-white.png&amp;t=1610616070&amp;ymreqid=f636fad6-4dfd-f99a-1c12-d90007018900&amp;sig=OHJFAKzoYce7JYgff972AQ--~D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 125,
+    "html_length": 1756,
+    "has_text": true,
+    "has_html": true
+  }
+}

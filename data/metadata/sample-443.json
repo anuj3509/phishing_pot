@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Hello my dear",
+    "from": "\"Mr.Lizzy Monaco\" <xx@yy>",
+    "to": "Recipients <xx@yy>",
+    "date": "Mon, 06 Mar 2023 05:03:31 -0800",
+    "message_id": "<8E616A76-BC39-41F1-BD0D-D2E103DB18FF@mail.nationstar.ph>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "amen.My",
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 945,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

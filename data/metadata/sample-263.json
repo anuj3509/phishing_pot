@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Resgate seus pontos Fidelidade Bradesco - ( 886120978663  )",
+    "from": "<sac@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 23 Jan 2023 15:45:59 +0000",
+    "message_id": "<E1pJz1D-00088c-0G@silicon.elinuxservers.com>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.ibb.co/ZmDVLLC/novo-topodes2021.png",
+      "http://cptdmy.com/prime/?hash=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3368,
+    "html_length": 7795,
+    "has_text": true,
+    "has_html": true
+  }
+}

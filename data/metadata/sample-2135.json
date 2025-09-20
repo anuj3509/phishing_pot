@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Rodrigo tem (1) nova cotação esperando você",
+    "from": "Planos Amil 2024 | Cotar Saúde <naiara@e.cotar-saude.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 7 Dec 2023 20:55:49 +0000",
+    "message_id": "<0100018c4610b4df-f2b3d33a-6c36-45bc-a7c4-65ca3120c5a0-000000@email.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"03D8EFC1_4C6EF08E_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"03D8EFC1_4C6EF08E_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://planos.cotar-saude.com/cadastro/logo.png",
+      "https://gre.cotar-saude.com/app-b/lnk.php?id=312C372C726F647269676F2D662D7040686F746D61696C2E636F6D2C31303439",
+      "hotmail.com",
+      "e.cotar-saude.com?subject=Sair&amp;body=Excluir%20meu%20e-mail%20"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 764,
+    "html_length": 4057,
+    "has_text": true,
+    "has_html": true
+  }
+}

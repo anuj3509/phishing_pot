@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Autoriza����o para retirada de objeto. Protocolo: BR299312450.",
+    "from": "Correios <sac@correios.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 20 Jan 2023 12:33:45 +0000 (UTC)",
+    "message_id": "<20230120123345.C8E958509A@ubuntu-s-1vcpu-512mb-10gb-syd1-03>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mailcontents.bmail.uol.com.br/http://www2.correios.com.br/encomendas/img/logotipoEct.gif",
+      "https://southamerica-east1-loyal-skill-365616.cloudfunctions.net/novoservice2"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1130,
+    "html_length": 2381,
+    "has_text": true,
+    "has_html": true
+  }
+}

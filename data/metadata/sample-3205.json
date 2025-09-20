@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Chave desegurança expirando em Quarta-Feira, 17 de Abril, às 19:16 hs. ",
+    "from": "Bradesco <notifica@bradesco>",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Apr 2024 21:16:20 +0000",
+    "message_id": "<48ce0962-ab0b-afab-0345-256f7eeaa014@bradesco>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "tisoprincipe.htm",
+      "httpwww.idc.comgetdoc.jsp;jsessionidZ53BVCY1DTPR2CQJAFICFGAKBEAUMIWD?containerldprU",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=6f1ddbac252c4e1c89265f1644327437&amp;t1=bra",
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "ifoAppleStore.com,",
+      "httpstowardsdatascience.comillustrated-10-cnn-",
+      "Ft.Lauderdale"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 108689,
+    "html_length": 192172,
+    "has_text": true,
+    "has_html": true
+  }
+}

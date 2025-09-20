@@ -1,0 +1,145 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: 𝖬𝗂𝗍 ♥️ 𝗌𝖼𝗁𝖾𝗇𝗄𝖾𝗇: 𝖨𝗁𝗋 𝗄𝗈𝗌𝗍𝖾𝗇𝗅𝗈𝗌𝖾𝗋 500€ 𝖤𝖣𝖤𝖪𝖠 𝖦𝗎𝗍𝗌𝖼𝗁𝖾𝗂𝗇
+From: EDEKA <reply@telekom.com>
+To: <phishing@pot>
+Date: Thu, 27 Mar 2025 01:42:09 -0400
+Message_Id: <PC8fHNc.0.0.PC8fHNc.9.PC8fHNc@telekom.com>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://blog.dury.agency/ZFZtSnVXK09BRmFVWWJsRGN4WXo1cVVMSGo3TEZTd2J5YjdoVWNGaXJWcWdiTFU3VllTZVVCZk9jZmJZT0tKL2hUU2JYOU5VYzVvODMzaGt5R3BMdXc9PQ__
+  - https://www.zupimages.net/up/24/51/rzrp.png
+  - www.zupimages.net/up/24/51/rzrp.png
+  - http://blog.dury.agency/MWZlbGwwWktHZkU5VURXd3IrWHZrVUFINEhveGxCTjg5UHkwN0RpazBGelNNMHNJaGM1bVBOdVF3TnVPanA1VEdFMFYrVUgxNkphL2J4UXRwbnFuOGc9PQ__
+  - http://blog.dury.agency/UWRDWVN1SzNUSWxFZmN3blNsQTJCM1ovZlVxKzJtSkFHUm4zcUJsekJKbzMyWkJyQWh2UUdGT01KSXRUQnFFL01WYUQzNTB5aXQrREVVTFJ0RzZKemgzN0RFTlh6ck5DeGZtSDNmb25tcEU9
+
+DECODED TEXT CONTENT:
+------------------------------
+EDEKA Einkaufsgutschein body { font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; padding: 0; color: #333; } .container { max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); overflow: hidden; } .header { background: #ffc107; color: #000; padding: 20px; text-align: center; } .header h1 { margin: 0; font-size: 24px; } .content { padding: 20px; line-height: 1.6; } .content h2 { color: #005ea8; } .content a { color: #005ea8; text-decoration: none; font-weight: bold; } .content a:hover { text-decoration: underline; } .button-container { text-align: center; margin-top: 20px; } .button { display: inline-block; background: #ffc107; color: #000000; padding: 10px 20px; text-decoration: none; border-radius: 5px; } .button:hover { background: #e0a800; } .footer { background: #f1f1f1; color: #666; text-align: center; padding: 15px; font-size: 14px; } .image-container { text-align: center; margin: 20px 0; } .image-container img { max-width: 100%; height: auto; border-radius: 10px; } Mit ♥ schenken: Ihr 500€ EDEKA Gutschein Hallo phishing@pot, Am Thu, 27 Mar 2025 01:42:09 -0400 haben wir Sie informiert, dass Sie die Möglichkeit haben, einen EDEKA Einkaufsgutschein im Wert von 500€ zu erhalten. Bisher haben Sie den Gutschein nicht angefordert. Haben Sie kein Interesse mehr? Ihre Vorteile: In allen Filialen einlösbar Sofort, einfach und unverbindlich 100% kostenlos Jetzt Gutschein prüfen Mit freundlichen Grüßen, Ihr Gewinner-Team click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDEKA Einkaufsgutschein</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        .header {
+            background: #ffc107;
+            color: #000;
+            padding: 20px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .content {
+            padding: 20px;
+            line-height: 1.6;
+        }
+        .content h2 {
+            color: #005ea8;
+        }
+        .content a {
+            color: #005ea8;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .content a:hover {
+            text-decoration: underline;
+        }
+        .button-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+        .button {
+            display: inline-block;
+            background: #ffc107;
+            color: #000000;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background: #e0a800;
+        }
+        .footer {
+            background: #f1f1f1;
+            color: #666;
+            text-align: center;
+            padding: 15px;
+            font-size: 14px;
+        }
+        .image-container {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .image-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Mit ♥ schenken: Ihr 500€ EDEKA Gutschein</h1>
+            <div class="image-container">
+                <img src="https://www.zupimages.net/up/24/51/rzrp.png" alt="">
+				<img src="//www.zupimages.net/up/24/51/rzrp.png" alt="">
+            </div>
+        </div>
+        <div class="content">
+            <h2>Hallo phishing@pot,</h2>
+            <p>Am <strong>Thu, 27 Mar 2025 01:42:09 -0400</strong> haben wir Sie informiert, dass Sie die Möglichkeit haben, einen <strong>EDEKA Einkaufsgutschein im Wert von 500€</strong> zu erhalten.</p>
+            <p>Bisher haben Sie den Gutschein nicht angefordert. Haben Sie kein Interesse mehr?</p>
+            <h3>Ihre Vorteile:</h3>
+            <ul>
+                <li>In allen Filialen einlösbar</li>
+                <li>Sofort, einfach und unverbindlich</li>
+                <li>100% kostenlos</li>
+            </ul>
+            <div class="button-container">
+                <a href="http://blog.dury.agency/ZFZtSnVXK09BRmFVWWJsRGN4WXo1cVVMSGo3TEZTd2J5YjdoVWNGaXJWcWdiTFU3VllTZVVCZk9jZmJZT0tKL2hUU2JYOU5VYzVvODMzaGt5R3BMdXc9PQ__" class="button">Jetzt Gutschein prüfen</a>
+            </div>
+        </div>
+        <div class="footer">
+            <p>Mit freundlichen Grüßen,<br>Ihr Gewinner-Team</p>
+        </div>
+    </div>
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://blog.dury.agency/UWRDWVN1SzNUSWxFZmN3blNsQTJCM1ovZlVxKzJtSkFHUm4zcUJsekJKbzMyWkJyQWh2UUdGT01KSXRUQnFFL01WYUQzNTB5aXQrREVVTFJ0RzZKemgzN0RFTlh6ck5DeGZtSDNmb25tcEU9">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://blog.dury.agency/MWZlbGwwWktHZkU5VURXd3IrWHZrVUFINEhveGxCTjg5UHkwN0RpazBGelNNMHNJaGM1bVBOdVF3TnVPanA1VEdFMFYrVUgxNkphL2J4UXRwbnFuOGc9PQ__" width="1px" height="1px" style="visibility:hidden">
+

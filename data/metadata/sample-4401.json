@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Ação Urgente: Regularize as Taxas Pendentes da sua Encomenda",
+    "from": "ganine <contato@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Nov 2024 18:43:36 +0000",
+    "message_id": "<70e1f2cb-78c5-a691-021d-2496cb0d3893@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "httpdatelinehollywood.com",
+      "https://juliodedansk.icu/?mailID=MyqI6qG2CY6MfIatw1gesrzdEZlEPI8KK3IKeAeNPMmcUJv3oHLIH3WVv2EuZtvX97_-kWaHGFDnsSPAFPirUyVyHs8wGAUFfUldsWIhQVQzQ2f50GKJS4zaN93fvREzChDPMaUuxKZG8KprnrlCZiUYrpVyIY-B_q3D0w4jFAIrL9N4_f6ZMzGSD-R5y-ePK5mqprRxGvN9PWNaX73cnhrAjn3nhKGZwA90u6qvYsIDNJpsZMdr4F83Vng1U9-3f9Y-q6HaaUdFiYiUObWa7bdhdnqRbnHsPKPHe-3dBXOItwqdOc78tBWK9uVpVa6116Y9fB_hDLxN_QzipCtD4AaxbV6AphvjJxM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 51679,
+    "html_length": 92318,
+    "has_text": true,
+    "has_html": true
+  }
+}

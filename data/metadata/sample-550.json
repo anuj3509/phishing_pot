@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "ENC: Troque seus Pontos6BBNQGtqtS",
+    "from": "Rodrigo Lima <rodrigo.gama94@live.com>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Sun, 2 Apr 2023 15:29:01 +0000",
+    "message_id": "\r\n <SN7PR05MB7613E381DD75C5E2CB4D72B7E08D9@SN7PR05MB7613.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613E381DD75C5E2CB4D72B7E08D9SN7PR05MB7613namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB7613E381DD75C5E2CB4D72B7E08D9SN7PR05MB7613namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "atualizacao de pontos 3092.pdf",
+      "content_type": "application/pdf",
+      "size": 85250
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "RODRIGO.GAMA94@LIVE.COM",
+      "gmail.com",
+      "https://go.microsoft.com/fwlink/?LinkId=550986",
+      "p.MsoNormal,",
+      "li.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 636,
+    "html_length": 2305,
+    "has_text": true,
+    "has_html": true
+  }
+}

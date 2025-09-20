@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Optimism Airdrop #5: Check Your Eligibility to Claim OP Tokens",
+    "from": "Optimism Announcements <support@naheed.pk>",
+    "to": "phishing@pot",
+    "date": "Thu, 07 Nov 2024 23:57:16 +0000 (UTC)",
+    "message_id": "<20241107235716.A9A5F0089F3311BC@naheed.pk>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://optimismannouncements.s3.us-east-1.amazonaws.com/claim.html",
+      "http://url7592.naheed.pk/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUP2r2ZPo70cMeR7VmDCsRHFoXV5yPLGaKqLtGws2Drq8RRF2SUobr649nGxjfZNEwLqXqwpzF9hKPjJ3i9b0A46wMuJus54nnVbivJoww1SKMVcZ3VfcNDC1pit6cX3iS2jlo-2FQJ32CNkDoRnhU6MXvcG38IDWOVH7d2oU5U052RliEP2z8DrsWN9-2BzSayYMA-3D",
+      "https://google.com/unsubscribe?email=phishing@pot",
+      "https://github.com/ethereum-optimism/brand-kit/raw/main/assets/svg/Profile-Logo.svg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 782,
+    "html_length": 4606,
+    "has_text": true,
+    "has_html": true
+  }
+}

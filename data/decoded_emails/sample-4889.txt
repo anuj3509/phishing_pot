@@ -1,0 +1,127 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: phishing@pot Ferreira Peixoto, sua entrega foi retida.
+From: Correios <contato@correios>
+To: <phishing@pot>
+Date: Tue, 18 Feb 2025 18:44:47 +0000
+Message_Id: <5ceda8fa-bf2c-07da-0c3d-31c40f895771@correios>
+Content_Type: text/html; charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://juliodedansk.icu
+
+DECODED TEXT CONTENT:
+------------------------------
+body { margin: 0; padding: 0; background: #eaeaea; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; } .wrapper { max-width: 580px; margin: 30px auto; background: #ffffff; border-radius: 10px; box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12); overflow: hidden; } .top-bar { background: #2272b5; padding: 18px; text-align: center; color: #ffffff; } .top-bar h1 { margin: 0; font-size: 26px; } .main { padding: 25px; color: #444; line-height: 1.6; } .action-btn { display: inline-block; padding: 12px 25px; background: #fadc51; color: #1a1a1a; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 20px; } .bottom-bar { background: #fadc51; padding: 12px; text-align: center; font-size: 13px; color: #1a1a1a; } @media (max-width: 600px) { .wrapper { width: 100%; margin: 0; border-radius: 0; } } .hidden { position: absolute; left: -9999px; width: 0; height: 0; overflow: hidden; opacity: 0; } . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Correios phishing@pot Ferreira Peixoto, Verificamos que o seu pedido encontra-se retido na alfândega por conta de taxas pendentes. Para liberar o seu pedido, efetue o pagamento o mais rápido possível. Clique no botão a seguir para proceder com o pagamento: Pagar Agora Correios 2025 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #eaeaea;
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-size: 15px;
+    }
+
+    .wrapper {
+      max-width: 580px;
+      margin: 30px auto;
+      background: #ffffff;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.12);
+      overflow: hidden;
+    }
+
+    .top-bar {
+      background: #2272b5;
+      padding: 18px;
+      text-align: center;
+      color: #ffffff;
+    }
+
+    .top-bar h1 {
+      margin: 0;
+      font-size: 26px;
+    }
+
+    .main {
+      padding: 25px;
+      color: #444;
+      line-height: 1.6;
+    }
+
+    .action-btn {
+      display: inline-block;
+      padding: 12px 25px;
+      background: #fadc51;
+      color: #1a1a1a;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    .bottom-bar {
+      background: #fadc51;
+      padding: 12px;
+      text-align: center;
+      font-size: 13px;
+      color: #1a1a1a;
+    }
+
+    @media (max-width: 600px) {
+      .wrapper {
+        width: 100%;
+        margin: 0;
+        border-radius: 0;
+      }
+    }
+
+    .hidden {
+      position: absolute;
+      left: -9999px;
+      width: 0;
+      height: 0;
+      overflow: hidden;
+      opacity: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <span class="hidden">. . . . . .<br>. . . . . . . .<br>. . . . . . .<br>. . . . . . . . .</span>
+  <div class="wrapper">
+    <div class="top-bar">
+      <h1>Correios</h1>
+    </div>
+    <div class="main">
+      <p>phishing@pot Ferreira Peixoto,</p>
+      <p>Verificamos que o seu pedido encontra-se retido na alfândega por conta de taxas pendentes.</p>
+      <p>Para liberar o seu pedido, efetue o pagamento o mais rápido possível.</p>
+      <p>Clique no botão a seguir para proceder com o pagamento:</p>
+      <a class="action-btn" href="https://juliodedansk.icu">Pagar Agora</a>
+    </div>
+    <div class="bottom-bar">
+      <p>Correios 2025 - Todos os direitos reservados</p>
+    </div>
+  </div>
+</body>
+
+</html>
+

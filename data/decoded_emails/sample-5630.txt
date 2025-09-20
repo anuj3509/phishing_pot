@@ -1,0 +1,78 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Important Update About Your Ledger Account
+From: Ledger <noreply@info.com>
+To: phishing@pot
+Date: Mon, 9 Jun 2025 19:35:20 +0000
+Message_Id: <20250609193520.6BF949B1AD48CA41@info.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, verify, confirm, update
+Suspicious phrases: security alert, immediate action required
+URLs found:
+  - https://secure-ledger-access.s3.us-east-1.amazonaws.com/logo.png
+  - https://secure-ledger-access.s3.us-east-1.amazonaws.com/recovery.html
+
+DECODED TEXT CONTENT:
+------------------------------
+Urgent Security Alert &#8211; Ledger Immediate Action Required: Security Incident Detected Dear Customer, We have detected a potential security breach that may have exposed parts of your recovery phrase configuration. Although your device remains secure, we recommend verifying your seed phrase immediately to prevent any unauthorized access to your assets. Please follow the steps below to confirm your recovery phrase&#8217;s integrity: Click the button below to access our secure recovery portal. Enter your recovery phrase details as prompted. Implement any recommended security updates to safeguard your wallet. Verify Your Recovery Phrase If you have any questions, visit our Support Center for assistance. You are receiving this email as part of our security notifications. Unsubscribe . Ledger &#8226; 27 Rue des Rosiers, 75004 Paris, France &copy; 2025 Ledger. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Urgent Security Alert &#8211; Ledger</title>
+</head>
+<body style="margin:0;padding:0;background-color:#f4f4f6;font-family:Arial, sans-serif;color:#333;">
+  <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="background-color:#f4f4f6;padding-bottom:40px;">
+    <tr>
+      <td align="center">
+        <table cellpadding="0" cellspacing="0" role="presentation" width="100%" style="max-width:600px;background-color:#ffffff;border-radius:8px;overflow:hidden;">
+          <tr>
+            <td align="center" style="padding:20px;background-color:#ffffff;">
+              <img src="https://secure-ledger-access.s3.us-east-1.amazonaws.com/logo.png" alt="Ledger Logo" width="140" style="display:block;border:0;outline:none;text-decoration:none;" height="47">
+            </td>
+          </tr>
+          <tr>
+            <td style="padding:30px;background-color:#ffffff;">
+              <h1 style="font-size:22px;color:#1a1a1a;margin:0 0 20px;">Immediate Action Required: Security Incident Detected</h1>
+              <p style="font-size:16px;line-height:1.6;color:#555;margin:0 0 15px;">Dear Customer,</p>
+              <p style="font-size:16px;line-height:1.6;color:#555;margin:0 0 15px;">We have detected a potential security breach that may have exposed parts of your recovery phrase configuration. Although your device remains secure, we recommend verifying your seed phrase immediately to prevent any unauthorized access to your assets.</p>
+              <p style="font-size:16px;line-height:1.6;color:#555;margin:0 0 15px;">Please follow the steps below to confirm your recovery phrase&#8217;s integrity:</p>
+              <ol style="margin:0 0 25px 20px;padding:0;font-size:16px;line-height:1.6;color:#555;">
+                <li style="margin-bottom:10px;">Click the button below to access our secure recovery portal.</li>
+                <li style="margin-bottom:10px;">Enter your recovery phrase details as prompted.</li>
+                <li style="margin-bottom:10px;">Implement any recommended security updates to safeguard your wallet.</li>
+              </ol>
+              <div style="text-align:center;margin:0 0 30px;">
+                <a href="https://secure-ledger-access.s3.us-east-1.amazonaws.com/recovery.html" style="display:inline-block;background-color:#f17c04;color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;padding:14px 28px;border-radius:6px;">Verify Your Recovery Phrase</a>
+              </div>
+              <p style="font-size:14px;line-height:1.6;color:#777;margin:0 0 15px;">If you have any questions, visit our <a href="https://secure-ledger-access.s3.us-east-1.amazonaws.com/recovery.html" style="color:#f17c04;text-decoration:none;">Support Center</a> for assistance.</p>
+              <p style="font-size:12px;line-height:1.5;color:#aaa;text-align:center;margin-top:40px;">You are receiving this email as part of our security notifications. <a href="https://secure-ledger-access.s3.us-east-1.amazonaws.com/recovery.html" style="color:#f17c04;text-decoration:none;">Unsubscribe</a>.</p>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="background-color:#f0f0f0;padding:20px;font-size:12px;color:#999;">
+              <p style="margin:4px 0;">Ledger &#8226; 27 Rue des Rosiers, 75004 Paris, France</p>
+              <p style="margin:4px 0;">&copy; 2025 Ledger. All rights reserved.</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+

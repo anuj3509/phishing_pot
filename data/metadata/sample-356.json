@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "O Bradesco lhe deseja Boas Vindas ao Bradesco PRIME! Protocolo: 26787486",
+    "from": "Bradesco - Prime <bradesco@b53v9i5ao.openstacklocal>",
+    "to": "phishing@pot",
+    "date": "Mon, 20 Feb 2023 20:37:44 +0000 (UTC)",
+    "message_id": "<20230220210326.22B5A579AF@b53v9i5ao.openstacklocal>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-central1-black-octagon-376806.cloudfunctions.net/seguranca"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1833,
+    "html_length": 29033,
+    "has_text": true,
+    "has_html": true
+  }
+}

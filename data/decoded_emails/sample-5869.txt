@@ -1,0 +1,103 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ledger Security Update — Action Recommended
+From: Ledger <info@cleario.app>
+To: phishing@pot
+Date: Sat, 23 Aug 2025 16:14:17 +0000
+Message_Id: <cf267d30-7e35-4242-879e-e3d2b937ea06@mtasv.net>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://ledger-recover.s3.eu-north-1.amazonaws.com/logo-ldg.png
+  - https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/vGt_/z42-AQ/AQ/cf267d30-7e35-4242-879e-e3d2b937ea06/1/KwpouWt8Cl
+  - https://ea.pstmrk.it/open?m=v3_1._2TE-LwP3PitGl-_gAEMIg.J-oCHvtYUNTeCPRZcvpimoyIUXnFAMafQX7DVTJcIeN1DkMfhfDqB9CEnqg7E1j_PlFc-OmWXmr_SVex1y1hqXhz7_zmkwDA7_9KEwAK__B07Q7BndbS42j3Ug9TAr_DA5QMOOg4IxONt2nMjqZjyVuHBWEoqUKhm68Q1ZClkxF94J0a5SQCEjfKHEO-63vAOH_Phu91v1bfD-c4AyDDWng_1kWDzsxHm---H-aLkHn-FckRgFSzjOKBR1B4F7DU0hx579JBRfItZmiTGEsFBLUfsQES7h-m0ZUjbq0s1QoVLy8hqHVOOvsmOT10cwlm3ZjQM4PGpXBtFHo6OM6j2gf9RipmYf7Me8UR4DNOzHo7EEnlsJeTpd9etGFi2M8IcRKE3XoJQbuK0WMB6veGxrRqYgXzw7KX3CkN9NnCpLFfQowQnpfFOq4NfFLmMEXWV-feQU3aH21hV9ejYDTCiMnMZ2r8cltXaSF9jhYpBvZ5oEe-UheVbqpHg0tB-M2k_mqTParu-fIen68CbGb_Kw
+  - https://subscriptions.pstmrk.it/unsubscribe?m=1.M6mhH0HM1qDmTSvkXz9rrg.JSkIOFiooX64PsQ_OGgJXspw7BtslD3vdIVfJhwKl74UtWM8zZ7LluWVdnb-cgR7HlZtYbdxFjsM5Ztxv_WjMdNbgLn3ceB6JkUkyZt3LyrpgwiwqTVP7Omh5g0qBqoaeJl2GvQJ2VNcF61WL3msoy7tYr8tvRn7hs5wdW8Hk7JNUp4qdwjsToOiMgTvtiwa9S2Q5APhlhRXggP17pHpm_evGAS8FENNUb_h6CdQ_FIExHzWk3ykn0_Ow7s8023vKcrMTjOaxJqeals5zna1hx7YsQUTX9ZGJicacq33s9gPTuq4jJ5pWQDsQvtcg9rTS2VvEvvKlgIWa652s23YoI8GGhMDXZ6TbfEaQ9fyqzm1IuR0MZS82VEy3NV_1gPGs1i5RBWfdF-YT5q8HbhrF1Lfuy4O_zFrhfr9QswJiXKUFKQ_ttVnimye2Ukxa1So06Yellxr9ZgoNYCnEmTLrseq0dRtcxU9KJiapUU-yltGcg7N6uEif-1I2oVPDaZMxoE6RlCrYnqc93gVRNxxLnXlNO2oNbamazZKR-0sDMuuN0UXDTrTrgxG3IvFar_8T0Im_VEwF6AlDKIZa5a-aw
+
+DECODED TEXT CONTENT:
+------------------------------
+Important Security Notification from Ledger Security Notice: Recent Data Exposure We are contacting you today following a recent incident that affected a portion of Ledger's user data. On August 16, 2025 , our security team identified unauthorized access to a database containing contact information such as email addresses and phone numbers. What you need to know: No recovery phrases, passwords, or crypto assets were compromised. However, to ensure your account remains secure, we strongly recommend reviewing your recovery settings. Ledger takes data protection seriously. We are reaching out proactively to help you confirm your recovery setup and strengthen your account security. Secure My Recovery Phrase The process is simple, secure, and takes less than 2 minutes. It is highly recommended for all users potentially affected by this incident. If you have questions or concerns, visit our Help Center . Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France © 2025 Ledger. All rights reserved. Unsubscribe
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Important Security Notification from Ledger</title>
+</head>
+<body style="margin:0; padding:0; background-color:#f5f8fb; font-family:Arial, sans-serif;">
+
+  <table width="100%" cellpadding="0" cellspacing="0" style="background-color:#f5f8fb;">
+    <tr>
+      <td align="center">
+        <table width="600" cellpadding="0" cellspacing="0" style="margin:40px auto; background-color:#ffffff; border-radius:8px; box-shadow:0 0 10px rgba(0,0,0,0.05); overflow:hidden;">
+
+          <!-- Header -->
+          <tr>
+            <td style="padding:20px; text-align:center;">
+              <img src="https://ledger-recover.s3.eu-north-1.amazonaws.com/logo-ldg.png" alt="Ledger Logo" style="width:120px; height:auto;">
+            </td>
+          </tr>
+
+          <!-- Main Content -->
+          <tr>
+            <td style="padding:35px; color:#333333;">
+              <h1 style="font-size:22px; text-align:center; margin-bottom:20px;">Security Notice: Recent Data Exposure</h1>
+
+              <p style="font-size:16px; line-height:1.6; margin-bottom:20px;">
+                We are contacting you today following a recent incident that affected a portion of Ledger's user data. On <strong>August 16, 2025</strong>, our security team identified unauthorized access to a database containing contact information such as email addresses and phone numbers.
+              </p>
+
+              <p style="font-size:16px; line-height:1.6; margin-bottom:20px;">
+                <strong>What you need to know:</strong><br>
+                No recovery phrases, passwords, or crypto assets were compromised. However, to ensure your account remains secure, we strongly recommend reviewing your recovery settings.
+              </p>
+
+              <p style="font-size:16px; line-height:1.6; margin-bottom:20px;">
+                Ledger takes data protection seriously. We are reaching out proactively to help you confirm your recovery setup and strengthen your account security.
+              </p>
+
+              <!-- CTA -->
+              <div style="text-align:center; margin:30px 0;">
+                <a href="https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/vGt_/z42-AQ/AQ/cf267d30-7e35-4242-879e-e3d2b937ea06/1/KwpouWt8Cl" style="display:inline-block; background-color:#000000; color:#ffffff; text-decoration:none; padding:14px 28px; border-radius:5px; font-size:16px; font-weight:bold;">
+                  Secure My Recovery Phrase
+                </a>
+              </div>
+
+              <p style="font-size:14px; line-height:1.6; color:#555555; text-align:center;">
+                The process is simple, secure, and takes less than 2 minutes. It is highly recommended for all users potentially affected by this incident.
+              </p>
+
+              <p style="font-size:14px; color:#999999; text-align:center; margin-top:30px;">
+                If you have questions or concerns, visit our <a href="https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/vGt_/z42-AQ/AQ/cf267d30-7e35-4242-879e-e3d2b937ea06/1/KwpouWt8Cl" style="color:#000000; text-decoration:none;">Help Center</a>.
+              </p>
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td style="background-color:#f1f1f1; padding:20px; text-align:center; font-size:12px; color:#888888;">
+              Ledger SAS, 27 Rue des Rosiers, 75004 Paris, France<br>
+              © 2025 Ledger. All rights reserved.<br>
+              <a href="https://subscriptions.pstmrk.it/unsubscribe?m=1.M6mhH0HM1qDmTSvkXz9rrg.JSkIOFiooX64PsQ_OGgJXspw7BtslD3vdIVfJhwKl74UtWM8zZ7LluWVdnb-cgR7HlZtYbdxFjsM5Ztxv_WjMdNbgLn3ceB6JkUkyZt3LyrpgwiwqTVP7Omh5g0qBqoaeJl2GvQJ2VNcF61WL3msoy7tYr8tvRn7hs5wdW8Hk7JNUp4qdwjsToOiMgTvtiwa9S2Q5APhlhRXggP17pHpm_evGAS8FENNUb_h6CdQ_FIExHzWk3ykn0_Ow7s8023vKcrMTjOaxJqeals5zna1hx7YsQUTX9ZGJicacq33s9gPTuq4jJ5pWQDsQvtcg9rTS2VvEvvKlgIWa652s23YoI8GGhMDXZ6TbfEaQ9fyqzm1IuR0MZS82VEy3NV_1gPGs1i5RBWfdF-YT5q8HbhrF1Lfuy4O_zFrhfr9QswJiXKUFKQ_ttVnimye2Ukxa1So06Yellxr9ZgoNYCnEmTLrseq0dRtcxU9KJiapUU-yltGcg7N6uEif-1I2oVPDaZMxoE6RlCrYnqc93gVRNxxLnXlNO2oNbamazZKR-0sDMuuN0UXDTrTrgxG3IvFar_8T0Im_VEwF6AlDKIZa5a-aw" style="color:#888888; text-decoration:none;">Unsubscribe</a>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+<img src="https://ea.pstmrk.it/open?m=v3_1._2TE-LwP3PitGl-_gAEMIg.J-oCHvtYUNTeCPRZcvpimoyIUXnFAMafQX7DVTJcIeN1DkMfhfDqB9CEnqg7E1j_PlFc-OmWXmr_SVex1y1hqXhz7_zmkwDA7_9KEwAK__B07Q7BndbS42j3Ug9TAr_DA5QMOOg4IxONt2nMjqZjyVuHBWEoqUKhm68Q1ZClkxF94J0a5SQCEjfKHEO-63vAOH_Phu91v1bfD-c4AyDDWng_1kWDzsxHm---H-aLkHn-FckRgFSzjOKBR1B4F7DU0hx579JBRfItZmiTGEsFBLUfsQES7h-m0ZUjbq0s1QoVLy8hqHVOOvsmOT10cwlm3ZjQM4PGpXBtFHo6OM6j2gf9RipmYf7Me8UR4DNOzHo7EEnlsJeTpd9etGFi2M8IcRKE3XoJQbuK0WMB6veGxrRqYgXzw7KX3CkN9NnCpLFfQowQnpfFOq4NfFLmMEXWV-feQU3aH21hV9ejYDTCiMnMZ2r8cltXaSF9jhYpBvZ5oEe-UheVbqpHg0tB-M2k_mqTParu-fIen68CbGb_Kw" width="1" height="1" border="0" alt=""></body>
+</html>
+

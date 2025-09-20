@@ -1,0 +1,226 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Sie sind einer unserer m��glichen Finalisten f��r einen Kaufland Gutschein im Wert von 500���. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Gl��ck einen Kaufland Gutschein.
+From: Ihre Julia Weber, <service@stayfriends.de>
+To: phishing@pot
+Date: Wed, 07 Aug 2024 09:24:00 +0100
+Message_Id: <VKQITsB.0.0.VKQITsB.9.VKQITsB@stayfriends.de>
+Content_Type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative; boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+Suspicious phrases: click here
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://www.zupimages.net/up/24/19/iwkd.png
+  - www.zupimages.net/up/24/19/iwkd.png
+  - https://www.zupimages.net/up/24/32/ygq3.jpg
+  - http://www.w3.org/1999/xhtml
+  - www.zupimages.net/up/24/32/d9wa.jpg
+  - https://www.zupimages.net/up/24/32/d9wa.jpg
+  - https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=
+  - http://limecastle.co.uk/QXpyOHdMZURJaWhKdFVWY3ptM0pEYVBHQmdFbGczQ0xyMVBGM0NPTTNNZTREeEVJWXJmNFRrWkxkbVJNalNnOUJRemdGRmx6WjhvTkViRUdFMUpWMUE9PQ__
+  - http://limecastle.co.uk/am02dW1qaXc3c09DenhtcUJTcFRqQTFyMitCQXNaQjhTcmVGT1cyUDJ2czF1WXRxSmplak1teFIvbzJSamlXdEVkL2Z2bWROSk9lOFRVMUthRlJ3Qmc9PQ__
+  - www.zupimages.net/up/24/32/ygq3.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+newsletter ReadMsgBody { width: 100%; background-color: #e6e6e6; } ExternalClass { width: 100%; line-height: 100%; background-color: #e6e6e6; } html, body { margin:0; padding:0; } sizer { width:500px; } header_image { width:500px; height:275px; background-color: #cd1316; display:block; } text { width:90%; color:#1e2944; font-family: Helvetica, Arial, sans-serif; font-size: 15px; line-height: 21px; } button_image { width:326px; height:52px; } footer_image { width:500px; height:290px; background-color: #cd1316; display:block; } side { width:5%; background-color:#ffffff; } @media screen and (max-width: 500px) { .sizer { max-width:500px; width:100%; } .header_image { max-width:500px; width:100%; height:auto!important; min-height:20px; max-height:275px; } .button_image { max-width:326px; width:100%; height:auto!important; min-height:10px; max-height:52px; margin: 0 auto; } .footer_image { max-width:500px; width:100%; height:auto!important; min-height:20px; max-height:290px; } } einen Kaufland Gutschein im Wert von 500€ gewinnen! Hallo phishing@pot, Sie sind einer unserer möglichen Finalisten für einen Kaufland Gutschein im Wert von 500€. Nehmen Sie jetzt kostenlos teil und gewinnen Sie mit etwas Glück einen Kaufland Gutschein. Hoffentlich können wir Ihnen damit eine kleine Freude machen. Ihre Julia Weber (Kundenbetreuung) click here to remove yourself from our emails list
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>newsletter</title>
+<style type="text/css">
+ReadMsgBody {
+	width: 100%;
+	background-color: #e6e6e6;
+}
+ExternalClass {
+	width: 100%;
+    line-height: 100%;
+	background-color: #e6e6e6;
+}
+html, body {
+	margin:0;
+	padding:0;
+}
+sizer {
+	width:500px;
+}
+header_image {
+	width:500px;
+	height:275px;
+    background-color: #cd1316;
+	display:block;
+}
+text {
+	width:90%;
+	color:#1e2944;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+}
+button_image {
+	width:326px;
+	height:52px;
+    
+}
+footer_image {
+	width:500px;
+	height:290px;
+    background-color: #cd1316;
+	display:block;
+}
+side {
+	width:5%;
+	background-color:#ffffff;
+}
+@media screen and (max-width: 500px) {
+	.sizer {
+		max-width:500px;
+		width:100%;
+	}
+	.header_image {
+		max-width:500px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:275px;
+	}
+    .button_image {
+		max-width:326px;
+		width:100%;
+		height:auto!important;
+		min-height:10px;
+		max-height:52px;
+        margin: 0 auto;
+	}
+ 	.footer_image {
+		max-width:500px;
+		width:100%;
+		height:auto!important;
+		min-height:20px;
+		max-height:290px;
+	}
+}
+</style>
+</head>
+<body bgcolor="#e6e6e6">
+<div ems:preheader="" style="display:none!important;font-size:1px;color:#333333;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all">einen Kaufland Gutschein im Wert von 500€ gewinnen!</div>
+
+<table width="100%" cellpadding="0" cellspacing="0" bgcolor="#e6e6e6">
+	<tr>
+    	<td align="center">
+           
+     
+                  <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1">
+
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#000000; font-size:26px; background-color: #ffffff">
+                <tr>
+                    <td align="center">
+                       <br>
+
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1">
+                        <a href="https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">
+                            <img class="header_image" src="https://www.zupimages.net/up/24/32/d9wa.jpg" alt="">
+                            <img class="header_image" src="//www.zupimages.net/up/24/32/d9wa.jpg" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                        Hallo phishing@pot, 
+                        <br><br>
+                       Sie sind einer unserer möglichen Finalisten für einen Kaufland Gutschein im Wert von 500€. Nehmen Sie jetzt <strong>kostenlos</strong> teil und gewinnen Sie mit etwas Glück  <strong><a href="https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">einen Kaufland Gutschein.</a></strong> 
+                        <br>
+                   	</td>
+            		<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+            <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" align="center" style="border-collapse:collapse;text-align:center;">
+                        <br>
+                        <a href="https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">
+				            <img class="button_image" src="https://www.zupimages.net/up/24/19/iwkd.png" alt="">
+				            <img class="button_image" src="//www.zupimages.net/up/24/19/iwkd.png" alt="">
+				        </a>
+                        <br>
+                   	</td>
+                	<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+			 <table class="sizer" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+            	<tr>
+                	<td class="side">
+                    </td>
+                    <td class="text" style="border-collapse:collapse" align="center">
+                        <br>
+                       Hoffentlich können wir Ihnen damit eine kleine Freude machen. <br> <br>
+Ihre Julia Weber (Kundenbetreuung)<br><br>
+                   	</td>
+            		<td class="side">
+                    </td>
+               	</tr>
+          	</table>
+			
+            <table class="sizer" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                   <td class="sizer1">
+                        <a href="https://wear-prodct.com/?a=8096&amp;oc=21442&amp;c=57006&amp;m=3&amp;s1=">
+                            <img class="footer_image" src="https://www.zupimages.net/up/24/32/ygq3.jpg" alt="">
+                            <img class="footer_image" src="//www.zupimages.net/up/24/32/ygq3.jpg" alt="">
+                        </a>
+                    </td>
+                </tr>
+            </table>
+            <table class="sizer" align="center" cellpadding="0" cellspacing="0" style="font-family: Helvetica, Arial, 'sans-serif'; color:#a0a0a0; font-size:11px; background-color: #ffffff">
+                <tr>
+                    <td align="center">
+                        <br>
+
+                        <br>
+                        
+                        <br><br>
+                    </td>
+                </tr>
+            </table>
+            <br><br>
+        </td>
+  	</tr>
+</table>
+</body>
+</html>
+<br><br><span style="color:#888;font-size:11px;font-family:verdana;display:block;text-align:center;margin-top:10px">click <a href="http://limecastle.co.uk/am02dW1qaXc3c09DenhtcUJTcFRqQTFyMitCQXNaQjhTcmVGT1cyUDJ2czF1WXRxSmplak1teFIvbzJSamlXdEVkL2Z2bWROSk9lOFRVMUthRlJ3Qmc9PQ__">here</a> to remove yourself from our emails list</span><br><br><img alt="" src="http://limecastle.co.uk/QXpyOHdMZURJaWhKdFVWY3ptM0pEYVBHQmdFbGczQ0xyMVBGM0NPTTNNZTREeEVJWXJmNFRrWkxkbVJNalNnOUJRemdGRmx6WjhvTkViRUdFMUpWMUE9PQ__" width="1px" height="1px" style="visibility:hidden">
+

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Herzliche Gl��ckw��nsche! Sie wurden ausgew��hlt!",
+    "from": "Nachricht von Lidl, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 18 Aug 2024 18:53:45 +0200",
+    "message_id": "<uPChKMR.0.0.uPChKMR.9.uPChKMR@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://throughfares.com/?a=7395&amp;oc=21393&amp;c=56913&amp;p=r&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/17/cv6t.png",
+      "http://magicmotorworks.info/oop/458_md/1/1569/1219/50/112483",
+      "http://magicmotorworks.info/un/458_md/1/1569/1219/50/112483",
+      "www.zupimages.net/up/24/17/cv6t.png",
+      "http://magicmotorworks.info/op/458_md/1/1569/1219/50/112483",
+      "https://www.zupimages.net/up/23/35/ejwu.png",
+      "www.zupimages.net/up/23/35/ejwu.png",
+      "bgasdfasdfa.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5166,
+    "html_length": 12253,
+    "has_text": true,
+    "has_html": true
+  }
+}

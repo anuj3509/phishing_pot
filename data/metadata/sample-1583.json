@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "A sua Conta Digital Vivo Fixo chegou",
+    "from": "Vivo <contadigital@vivo.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 16 Oct 2023 21:54:58 +0000 (UTC)",
+    "message_id": "603ab9900c321d4267def16ed3faab35|contadigital@vivo.com",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "vivo.com.br",
+      "http://45.178.180.51/redir25.php?tk=2200d9bd538aa86649bb7e6d852d119c",
+      "https://relacionamentovivo.com.br/iqdirect/controle2/?link_id=1417382&amp;tipo=I&amp;ev=17105",
+      "namentovivo.com.br/images/telefonica.png",
+      "http://img.relacionamentovivo.com.br/images/logo_purpurav.png",
+      "http://img.relacio",
+      "http://img.relacionamentovivo.com.br/images/_pixel.png",
+      "http://www.vivoregularizafacil.com.br",
+      "http://img.relacionamentovivo.com.br/images/vivatudo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1250,
+    "html_length": 10072,
+    "has_text": true,
+    "has_html": true
+  }
+}

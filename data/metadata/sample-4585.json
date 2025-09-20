@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Edeka Einkaufsgutschein im Wert von 500��� ausgew��hlt!",
+    "from": "Dies ist Ihre Chance!,(<noreply@dhl.de>)",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Dec 2024 15:22:26 +0000",
+    "message_id": "<EOSBZJHMAXQIKQ8AU9KYO1L@dhl.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/6AwCQf41433SNSt1168gkgazgfbjw14302MZTHOFWHKKNNKHJ2IIXM17255c10",
+      "http://topmarktingplace.com/4covSh41433ahiY1168ixvruvxdtw14302QWYSIEZUXERUMDP2DAPC17255J10",
+      "http://topmarktingplace.com/4PexQC41433Hfbe1168eqoszpoqwc14302ARIUXEULDSYHUVH2HWIO17255h10",
+      "sf22.sendsfx.com/admin/temp/user/2/edeka%20500%E2%82%AC%20nl-a.png",
+      "http://topmarktingplace.com/5xDFsc41433gHno1168ftxpxcaozd14302FTYYKMHWUMIQICN2XQTM17255m10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2049,
+    "html_length": 9256,
+    "has_text": true,
+    "has_html": true
+  }
+}

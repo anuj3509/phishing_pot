@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Beneficio autorizado para o resgate imediato ID:573062614 ",
+    "from": "Livelo <resgate@bonus25340%>",
+    "to": "phishing@pot",
+    "date": "Thu,  8 Aug 2024 16:41:38 -0400 (EDT)",
+    "message_id": "<20240808204138.94ADC294F9@zxifn6j0hzubyvidx68q>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://251.242.109.208.host.secureserver.net/hm/?35858957"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 426,
+    "html_length": 3009,
+    "has_text": true,
+    "has_html": true
+  }
+}

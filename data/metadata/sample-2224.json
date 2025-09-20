@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Rodrigo tem (1) nova cotação esperando você",
+    "from": "Planos Amil | Cotar Saúde <renata@e.cotar-saude.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Dec 2023 05:23:19 +0000",
+    "message_id": "<0100018c66c77e76-f28ba549-ea47-4a9e-a866-4ac91d0e6656-000000@email.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"0083336E_0D7924C6_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"0083336E_0D7924C6_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://planos.cotar-saude.com/cadastro/logo.png",
+      "https://green.cotar-saude.com/app-b/lnk.php?id=312C372C726F647269676F2D662D7040686F746D61696C2E636F6D2C31303630",
+      "e.cotar-saude.com?subject=Sair&amp;body=Excluir%20meu%20e-mail%20"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 581,
+    "html_length": 3133,
+    "has_text": true,
+    "has_html": true
+  }
+}

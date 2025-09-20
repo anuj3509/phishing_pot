@@ -1,0 +1,58 @@
+{
+  "headers": {
+    "subject": "ENC: Our New Year's Gift to you – Norton Secure VPN for just $4.99 for your first year",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Mon, 16 Jan 2023 17:04:48 +0000",
+    "message_id": "\r\n <SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370438F5B1A2F8242DEDCE4B3C19SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig",
+      "http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&amp;_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&amp;_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWRT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=o6kbppk1qs2vlkmuc3au5tk08ieehhujk1ii20tsv7oksq7q8t70",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUCT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=7o1iue5ghrgcp5580pnbi1fnjfsnqlmdv0013j39e6e47vll8mig",
+      "https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.]",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWWT&amp;_ei_=EUHygSsIiH7_lPCfFrfeYE99qaEnwuWqN5CW_aGqx-38rrD8S_poPIElHTkODVgVjQkWqkoZ7_bvVtivefG8L9k2LX2Pd9WxDKLwJbIIahQzBDdEEAQCBmUvZVMEOsB82sirOWyUEA8T7AXZg7AkvUPGIJWrGUbQnK0YWmqHWSOUVg_Le5J37run1O-Hm9Iwz-CFYKriVZCJXRgeNUPwG0sRXmjr98UejtzKMzf4MgiBZPZ_VrQpTTgwZzzjfVjvX-NLfGbsZ2wzceATTtDote74CfU6R-hJgKEg_ZamU4n55MrORW97I3heutwmt2usVSiGD4jyjlNKZEDP8xjtGlbASRsF1oK6Jv7l4alP0WpG2mMpl1PVXWK36G73J0FUvoPSrFJZYsIfQ2Nr1s8FJ8deRvK8svCD0LHWPnWHKj4B0c63vSrBL9L_X-N8ypEtcKj9dIMuuWM1Ie5MPgcExQBMIbhB0luwlJRaK8dniOs4gL1SldBrlw.&amp;_di_=mp50lvv44mh61s2tm2oa3ce2uotjipommjv8tb5enrtc1rd8u150",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDURT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3mPHmJ4GTlT4NONP7z9pQDL--EeqltpswPoe0nnkFe5h9cKWwbL1WE0Tg2rEAjGkmviFGUFrsHu3tjn_p5zWE3nSNRXMoJSFJ21hlCGsHdueiX4uz59BYGi1dbn9kleOjswvYkz5EOYbafsSdgk1MVJh90-ODnd3DfPrH47mlYryJMUw8mM05jdYWxzL9zRqwuAmhpLiuoP_HaDLzDt8mvCof-lbNW6qzoWLIIwbyd64a_r7yxSWN7lDLpWioeLFQZ4NsSxkuaBxPbjMu-4yOgjo3-DaIiBeAHBJ7e5W58YJpxT9DKepC2OsmEiqWu4OF2vMhqZKmSNUeEHopqmNFE69nAwSga3nlCDJnbZ_f4hNKj6xMc65VT5zTcDYQiav0iKEwBRRa2G_E5WbrGXsph33CUONpK1QNqGj9rDefPz4N3qt5jGFWeryMuKwLZYU-LnkkmN2GbrfayV8z9rAzLHpRRuvX3DRfy51yBaF0P_VEi9iZ-rK0mfYXAqmvKT4uNbt3tkkXyNgbLMJ9K32Mm1wDka5880SsrVTonI3aJpw.&amp;_di_=urtc5jt03qo68sc4dad05t6as8oh3caiqlqv821431nt1sol6870",
+      "https://secure.norton.com/pub/as?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWMzzeCcaewo-3qJmqAF9H_s2a3PMkVcQI-X.",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg",
+      "http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-darkmode.png",
+      "secure.norton.com&gt;",
+      "http://static.cdn.responsys.net/i2/responsysimages/content/symtec/SURFEASY_NEW_583x389.png]",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDUTT&_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&_di_=gnkfeumcip4u6f4lp0bfdr30rvh19qfaq0894e7nousmb6aaitcg",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYUDWTT&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblYYSDm_JlziTuZe1M0cnx3ILN2Gus9c0K2szy0S6E4G5I.&amp;_di_=5oqnvq6avjnqdk7hh65l95qbequn5aui8f4mps2qindgm20fkejg",
+      "secure.norton.com",
+      "https://www.norton.com/globalsupport.",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYYSSCT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=uc2481rrka9s25e9ag8dl00fj5dguqk1oia8523bm5fk03p3grvg",
+      "https://secure.norton.com/pub/cc?_ri_=X0Gzc2X%3DAQpglLjHJlTQGzc5w8XTyzf312SzaEuGBq2zbrF8YMyryofdmE3iGnXjnEsp0sb0s7N1msEzcVXtpKX%3DAUYBDCWT&_ei_=E-MCYf_PiqA7CuxDEXZnZ18ReVCA9g9REfeTtCEp0Z1kimSeKtw1G7PBkeIbSAuRPYdcMU3mQsaZEKy6f0bFoV73TtVzk2Nwxs-e9lKCdNjY7ZutwetBbfS0sr63yQzOZwrnzZzSZx1Im6nuC9cfgmIz8-vV2ailhYbaLqXFNu4U0HExekiRPada1wfI8P_BGg.&_di_=8a90dsa0o718l6r6ubmu04rr8qhqd9ssgceleav7p2k882qb214g",
+      "http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/icons_logos_05_2022/logos-norton-surfeasy-350x42-lightmode.png",
+      "http://static.cdn.responsys.net/i2/responsysimages/symtec/contentlibrary/masterdocuments/images/winback/width-fix-120dpi.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8099,
+    "html_length": 28295,
+    "has_text": true,
+    "has_html": true
+  }
+}

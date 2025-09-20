@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Volg je pakket!",
+    "from": "FEDEX-Experss <md.h.afi.zul.isla.my.ahoo1.5.1.5@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 30 Jan 2023 16:36:31 +0000",
+    "message_id": "<CAN96XRkhaHyRfcBugR0K3Urh=v8KOgVgEg_zhO7P92LxbQ2xGg@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000000446b105f37dd268\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000000446b105f37dd268\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://lnkd.in/eTFEiRXA#?act=un&amp;pid=65916_pd&amp;uid=71&amp;vid=230509&amp;ofid=8988&amp;lid=638&amp;cid=644712#zufaFQHlsZybf",
+      "https://lnkd.in/eTFEiRXA#?act=un&pid=65916_pd&uid=71&vid=230509&ofid=8988&lid=638&cid=644712#zufaFQHlsZybf",
+      "https://lnkd.in/eTFEiRXA#?act=cl&pid=65916_pd&uid=71&vid=230509&ofid=8988&lid=638&cid=644712#aAdyQvN0d9WA",
+      "https://lnkd.in/eTFEiRXA#?act=cl&amp;pid=65916_pd&amp;uid=71&amp;vid=230509&amp;ofid=8988&amp;lid=638&amp;cid=644712#aAdyQvN0d9WA"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 253,
+    "html_length": 188677,
+    "has_text": true,
+    "has_html": true
+  }
+}

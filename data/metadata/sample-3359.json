@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Looking for medication without a prescription? Look no further than our store.",
+    "from": "\"🌟 Viagra/Cialis-0,36$/0,54$\" <pharma.online.ex2@hotmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 18 Jun 2024 00:33:24 +0200",
+    "message_id": "<7DB391B2.790144F9@hotmail.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ex.pharmacy.online4@gmail.com?subject=No&amp;body=No,",
+      "ex.pharmacy.online@gmail.com?subject=Yes&amp;body=Yes,I",
+      ".button.secondary",
+      "http://keewatinplace.com/f.html",
+      ".button.danger"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1806,
+    "html_length": 3470,
+    "has_text": true,
+    "has_html": true
+  }
+}

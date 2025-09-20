@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BB INFORMA, Voce possui BONUS LIVELO vinculados em seu cartao Ourocard prestes a expirar. - ID C0R2CO0T2N",
+    "from": "BANCO DO BRASIL <b020012@bbatendimento.lb>",
+    "to": "phishing@pot",
+    "date": "Wed, 14 Aug 2024 17:42:01 +0000",
+    "message_id": "<1c1phishing@pot5b5219a7e7d9c5c8b19202c0d3@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_1c1phishing@pot5b5219a7e7d9c5c8b19202c0d3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_1c1phishing@pot5b5219a7e7d9c5c8b19202c0d3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://afcgois.pt/img/glyph/img/",
+      "http://soloricoagrociencias.com.br/images/produtos/foliar/produtospts.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2198,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "headers": {
+    "subject": "Take Survey Win",
+    "from": "PrizeOpinion  <regna@orplanfinder.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 11 Jan 2024 19:00:15 +0000",
+    "message_id": "\r\n <SEZPR01MB420824A6501AC6D7E856B76FD6682@SEZPR01MB4208.apcprd01.prod.exchangelabs.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============2007475181739175108==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"===============2007475181739175108==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://sli.hbr.org/imp?s=124333504&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=pixel",
+      "https://fonts.googleapis.com/css?family=Lato:400,700",
+      "https://engenhosolaris.com.br/oier/sowerwr",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f583&amp;e=cDE9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=eIGXeeGERoAIIcPT5-Y5ZLD8c_NER-Wjw0zGMB8TIUw",
+      "https://sli.hbr.org/imp?s=746888&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=static",
+      "https://hbr.org/resources/images/email/new_nls_designs/ico_twitter.png",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f501&amp;e=cDE9MjAyMy8xMi9yZXNlYXJjaC1pcy1tb3ZpbmctaW50ZXJuYXRpb25hbGx5LWZvci1hLWpvYi1hLXNtYXJ0LW1vdmUmcDI9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=NnBz_X31XLvFkur5tipudyJmFeFedJdukGqdTmGIy0c",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f507&amp;e=cDE9MjAyMy8xMi93aGVuLWFuYWx5dGljcy1zaG91bGQtZHJpdmUtc2FsZXMtZGVjaXNpb25zLWFuZC13aGVuLXRoZXktc2hvdWxkbnQmcDI9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=EtN5ys15TQHTUDYbp9zb9HkMpdRUX_eZcFeIiOHbhao",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f581&amp;e=cDE9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=FLZmHynREA6AWXfzEZoBhcLvRO8mfEp2TP7BdrSRSRQ",
+      "https://sli.hbr.org/imp?s=746887&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=default",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57f",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f580&amp;e=cDE9QElIY2h6OVBReDFXZVV0VE80a0ZYdTFUbXhpMFdPQkd2TFlQdWhOdXJTZTY5U0RfbUVPOXBIT2lLc1RsMk5CUzJ5S01nR2U0Vkx0Q29ubnFOb0llTWZpMjZ3a0drWWtlNEQzd09TMkRlSnZyNnpaaGs&amp;s=rz-X_CdbeFlOWfyEndohpID2luJ9jYTxCd1AjHjz2Ng",
+      "https://sli.hbr.org/imp?s=124333501&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=pixel",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f504&amp;e=cDE9MjAyMy8xMi93aHktbW9kdWxhci1idWlsZGluZy1oYXNudC1yZXZvbHV0aW9uaXplZC1jb25zdHJ1Y3Rpb24mcDI9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=wgg7RKxPREfICucyDNsyaXRrVqMhvbr1PC5nGfcT1Iw",
+      "https://images.squarespace-cdn.com/content/v1/657c6d1b9ac3754d6e48818f/1702729299565-RNBUCYMI1OMS1HK1BMKZ/Temu+US.PNG",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57d",
+      "https://hbr.org/resources/images/email/new_nls_designs/ico_instagram.png",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57a&amp;e=cDE9aW50ZXJzcGVkX2dyYWRpc2thQGhvdG1haWwuY29tJnAyPURNMzA4ODQy&amp;s=yGfjWevonkVx0ORcpH1mXHnfvtEhEHjLs2nCHAOj3Ys",
+      "http://www.w3.org/1999/xhtml",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f582&amp;e=cDE9P3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1uZXdzbGV0dGVyX2RhaWx5JnV0bV9jYW1wYWlnbj1kYWlseWFsZXJ0X25vdGFjdHN1YnM&amp;s=ljW414r99XiyZw397sFtO9oe9bKZiaxAGzAoWxIWGl0",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57c&amp;e=cDE9aW50ZXJzcGVkX2dyYWRpc2thQGhvdG1haWwuY29tJnAyPURNMzA4ODQy&amp;s=bgAmwP-Jmjk54BpPG-n7Ohz8L099S8QlG-3m7m6Sp_8",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57e",
+      "https://sli.hbr.org/imp?s=124333503&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=pixel",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f584&amp;e=cDE9JTQwWHhhRVA3WHlxcmNwb0JPWDBjY2loMHJsQmxuQTYwc3I3eXVoVDVDYWlkSXQtU3NSZjlST1NLSjBKcFBYaHRoUENMWmVWMjFCa3JnWmFuRmhTRmVVd2wtWkhYQQ&amp;s=JIW2FZv2gYKR7VZ_-VfRM2XBt-fBMgTZwzo-Qt0VW3w",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f500",
+      "https://sli.hbr.org/imp?s=746890&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=static",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1c82f57b&amp;e=cDE9aW50ZXJzcGVkX2dyYWRpc2thQGhvdG1haWwuY29tJnAyPURNMzA4ODQy&amp;s=6gFv8_fVImoYf3DtDTlB6YZdwf5T8-X5xGq5M34AR38",
+      "https://hbr.org/resources/images/email/new-nls-headers/Daily-Alert_header.png",
+      "https://sli.hbr.org/imp?s=124333500&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=pixel",
+      "https://t.a.email.hbr.org/r/?id=he451a503,1c82f4fe,1",
+      "https://hbr.org/registration-details",
+      "https://hbr.org/resources/images/email/new_nls_designs/ico_triangle.png",
+      "https://hbr.org/subscriptions?utm_medium=email&amp;utm_source=newsletter_daily&amp;utm_campaign=dailyalert_notactsubs&amp;utm_term=subacq_buyeracq_nsubarticle&amp;hide_intromercial=true&amp;tpcc=email.gen.nlmtod",
+      "https://hbr.org/resources/images/marketing/email/NewsletterPromo_Subscription_1.png",
+      "https://hbr.org/resources/images/email/new_nls_designs/ico_facebook.png",
+      "HBR.org",
+      "a.email.hbr.org",
+      "https://hbr.org/2023/12/research-setbacks-can-actually-boost-your-career?utm_medium=email&amp;utm_source=newsletter_daily&amp;utm_campaign=dailyalert_notactsubs&amp;utm_term=subacq_buyeracq_nsubarticle&amp;m=NL",
+      "https://hbr.org/resources/images/article_assets/2023/11/Dec23_01_1475830028.jpg",
+      "https://store.hbr.org/the-year-in-tech-2024-the-insights-you-need-from-harvard-business-review-10673?utm_medium=email&amp;utm_source=newsletter_daily&amp;utm_campaign=dailyalert_notactsubs&amp;utm_term=subacq_buyeracq_nsubarticle",
+      "https://sli.hbr.org/imp?s=124333502&amp;li={LIST_ID}&amp;e=intersped_gradiska@hotmail.com&amp;p=DM308842&amp;stpe=pixel",
+      "https://hbr.org/resources/images/products/10673_500.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4457,
+    "html_length": 35498,
+    "has_text": true,
+    "has_html": true
+  }
+}

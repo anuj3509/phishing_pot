@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "500��� Fressnapf f��r dein Liebling!!",
+    "from": "Fressnapf Gutschein , <angebote@newsletter.baur.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Oct 2023 09:42:15 +0200",
+    "message_id": "<ZePDhoW.55110.637.xpi@psm.knowbe4.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://jorfouj.xyz/STRidUhhNEd0cnBBUitSV0ozSlhBOGRTY0Z6T1lsNldQeVJHQ0JuL3J2djNPR1dydVZVT0phclBsTkZWc3ZKaWY2aXI1ODBVWWJUZCtvUG5NZXJheUE9PQ__",
+      "i.imgur.com/UzOCgVu.png",
+      "https://i.imgur.com/UzOCgVu.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://jorfouj.xyz/clZvNnBhdHhIZlArRXlDK1VTcUk2dmNQZlRDczJBTlQ3ZExZTXFlWkl5cDRzNEdSRzFVcnhZYTdiZ0d0djIyL1BwclV5VFYyVTVFQnMrK2tzTEhBZWc9PQ__",
+      "http://jorfouj.xyz/WWhZc1FyVW5xQVIxU1ExMDVsdCtvOHIwaUZlWHJFQzVIZkl6WU1MY3p5SFFwOFA4QWxWZEZFN2ZaWmNnSDh0emhLTUpkWWIxN0w2UndEL0FZTXIvSU9XbFVtNzRIQzBZQXlLemRSZjdZL1U9",
+      "http://jorfouj.xyz/dElEUUNudTNJLytVc3B1bzJLNml0VEU0OTBQeHk4WDBXbFhuR2hkV0d2aUV3cFNWNDhueUorTEJ2Z2c3aU1mdHA4ZkMyZUcweFJmYlhndUZna3V4VXc9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1697,
+    "html_length": 9410,
+    "has_text": true,
+    "has_html": true
+  }
+}

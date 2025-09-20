@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 2196301675",
+    "from": "Mercado Pago <mercadopago@atendimento.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 17 Jul 2024 17:43:53 -0400 (EDT)",
+    "message_id": "<20240717214353.5AD04BCC7@jjjjjjjjjjjjjjjtred.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mercadopago.servicoaocliente.in.ua/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 517,
+    "html_length": 2510,
+    "has_text": true,
+    "has_html": true
+  }
+}

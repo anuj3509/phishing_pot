@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Urgent Notice",
+    "from": "\"Mrs Ren Yingxin\"<admin@samsmtp.top>",
+    "to": "Undisclosed recipients:;",
+    "date": "Sat, 31 May 2025 05:57:07 +0700",
+    "message_id": "<b6b05fb9-971d-405d-b1f9-8ada08b9d81c@AMS0EPF000001B3.eurprd05.prod.outlook.com>",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4359,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

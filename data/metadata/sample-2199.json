@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Gutschein 500 EURO f��r ALDI ",
+    "from": "ALDI  , <info@news.lidl.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 31 Oct 2023 22:02:26 +0100",
+    "message_id": "<NHvkwfu.76159.173.gDj@zikolomkildfrs.ma>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://zikolomkildfrs.ma/OUR6aDJTTW93R2RKYjRQRldwSDhnSHFvYnFqc1B1Nm5BMEdGdlpyVUw2Y2hEOFk4bmdYUmJPRVJmazBsQm4vTzdtdTVjZjNyaHNwZkhwTHJCZ3BtY2dNdGw3UTFzcEtkTm5ZKzJHZGlwVzQ9",
+      "https://jooon-track.com/?a=6031&amp;oc=16865&amp;c=46061&amp;m=3&amp;s1=",
+      "http://zikolomkildfrs.ma/eXE1dUhFQzVtSlhIS2hsekNhWjZBZ3pOSHVGU284MzU2TVF2Q1N4NDAyV3lnMGtIVERRdyt6QlcvK3EvMGRKeVFDVmV6TmRBb3k3ako0aHV0SHpoMUE9PQ__",
+      "http://www.w3.org/TR/html4/loose.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 580,
+    "html_length": 2696,
+    "has_text": true,
+    "has_html": true
+  }
+}

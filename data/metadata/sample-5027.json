@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Gib dir selbst die Promi Behandlung ",
+    "from": "Alviona <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 4 Mar 2025 06:17:00 -0500",
+    "message_id": "<TL8NmW1.0.0.TL8NmW1.9.TL8NmW1@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/gZtsH0A.png",
+      "http://blog.dury.agency/bHRpNityc0t4WFZ6am0zVkEyQlR5WG85VjNIK284aXRtK1JKcWlYL1JiNEh1TU1aSFpRemlJWGVvZzlDMGM4dnh3ejQwLzRRb3dKeVQwQXBtUS9IaUE9PQ__",
+      "http://blog.dury.agency/K003bTFLcnhkM3k0L1hrQkJVN05VU0FubjZMWGU4K1dLcmI1dzlwbUZGM1QxUGdHcDNTSWt6V0FTOEd4VkszeGYvVWxwT1BaTHdhenNmLytUdCtrZGc9PQ__",
+      "http://blog.dury.agency/S2RZMHFiOFJaSjBObjBUc1NKanpmNVI0b3lEc21uNzNhOGM5WVZLMkZrck1lcUJoK3V3S3Ixd1ZCK08vSUs4TnlvUlpGemF3Y0VLMU4vUFhPU0hXRVE9PQ__",
+      "i.imgur.com/gZtsH0A.png",
+      "i.imgur.com/qpnnit6.png",
+      "https://i.imgur.com/qpnnit6.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1723,
+    "html_length": 3721,
+    "has_text": true,
+    "has_html": true
+  }
+}

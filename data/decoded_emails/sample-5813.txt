@@ -1,0 +1,281 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Immediate Action Required: New KYC Agreement - Please complete document submission
+From: "󠄹Co󠄹inba󠄹se Su󠄹ppo󠄹rt" <no@leyger.com>
+To: <customer@postmaster.coinbase.com>
+Date: Sun, 3 Aug 2025 13:51:03 +0000
+Message_Id: <1268426902298.307311736757224.0674096272@mail.gmail.com>
+Content_Type: multipart/mixed;
+	boundary="inmix3unwiuyWTJWEQ5eitHeHB17ZBBKrQxHnI3LSPCbbG4"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="inmix3unwiuyWTJWEQ5eitHeHB17ZBBKrQxHnI3LSPCbbG4"
+
+ATTACHMENTS:
+--------------------
+- ATT06549144900 (application/octet-stream, 5396 bytes)
+- ATT006549144900 (application/octet-stream, 5230 bytes)
+- ATT#6549144900 (application/octet-stream, 6350 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://www.leyger.com
+
+DECODED TEXT CONTENT:
+------------------------------
+<div class="rps_3a49">
+<div style="max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div style="background-color: #ffffff; color: white; padding: 25px 20px; text-align: center;">
+<h1><span style="color: #ffffff; font-size: 33px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="data:image/png;base64,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" data-imagetype="DataUri" /></span></h1>
+</div>
+<div style="padding: 25px 30px;">
+<div style="text-align: center;">
+<h3 style="text-align: left;" data-end="525" data-start="107">󠄹K󠄹󠄹󠄹󠄹󠄹Y󠄹󠄹󠄹C 󠄹R󠄹e󠄹g󠄹󠄹i󠄹s󠄹t󠄹󠄹r󠄹a󠄹󠄹t󠄹i󠄹on 󠄹A󠄹g󠄹󠄹r󠄹󠄹󠄹e󠄹󠄹󠄹e󠄹󠄹m󠄹e󠄹󠄹n󠄹t &amp; D󠄹󠄹󠄹o󠄹c󠄹󠄹󠄹u󠄹m󠄹󠄹󠄹e󠄹󠄹n󠄹t S󠄹u󠄹b󠄹󠄹󠄹󠄹m󠄹i󠄹󠄹s󠄹s󠄹i󠄹󠄹󠄹o󠄹󠄹󠄹n</h3>
+<p style="text-align: left;" data-end="394" data-start="103">To m󠄹ain󠄹tain com󠄹pli󠄹an󠄹ce with fin󠄹󠄹anci󠄹al reg󠄹ulations and ensure the con󠄹tinued s󠄹ecu󠄹rity of yo󠄹ur acc󠄹ount, we require your immediate attention.</p>
+<p style="text-align: left;" data-end="585" data-start="396">Ple󠄹as󠄹e complete the up󠄹da󠄹ted <strong>K󠄹n󠄹ow Yo󠄹ur Cu󠄹st󠄹om󠄹e󠄹r (󠄹K󠄹Y󠄹󠄹C) Re󠄹g󠄹i󠄹s󠄹tr󠄹a󠄹󠄹tio󠄹n Agr󠄹󠄹ee󠄹m󠄹ent</strong> and submit the necessary documentation by <strong>Sun, August 03, 2025</strong>.</p>
+<a style="display: block; font-size: 16px; text-align: center; padding: 15px 25px; background-color: #0052ff; color: #ffffff; border-radius: 4px; text-decoration: none; margin-bottom: 24px;" title="https://www.leyger.com" href="https://www.leyger.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Complete KYC Registration</a></div>
+<p data-end="1399" data-start="1373">Failure to complete this process may result in limitations on your account activity.</p>
+<p data-end="1232" data-start="1099">If you have any questions or need assistance, our support team is here to help.</p>
+<p data-end="1232" data-start="1099">Thank you for your prompt attention to this matter.</p>
+<p data-end="1452" data-start="1412" aria-hidden="true">&nbsp;</p>
+<p>Best regards,<br /><strong>C󠄹󠄹oi󠄹n󠄹󠄹ba󠄹󠄹󠄹󠄹se C󠄹om󠄹pli󠄹󠄹a󠄹n󠄹ce T󠄹e󠄹a󠄹m</strong></p>
+</div>
+<div style="text-align: center; padding: 20px; font-size: 12px; color: #777777; background-color: #f7f7f7;">
+<p>&copy; 2025 󠄹Co󠄹inb󠄹󠄹as󠄹e. All rights reserved.</p>
+<p>100 Spear Street, Suite 600, San Francisco, CA 94105</p>
+<p>Privacy Policy | Terms of Service | Support Center</p>
+</div>
+</div>
+<div>
+<div class="rps_4f8f">
+<div>
+<div>
+<div class="x_rps_1ce0">
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div align="left">
+<table border="0" width="645" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table border="0" width="640" cellspacing="5" cellpadding="0">
+<tbody>
+<tr>
+<td align="left" valign="top"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: small;">Good Day,<br />You are receiving this email because you requested documents during an online transaction with PennDOT. Please do not reply to this email. This is an unmonitored address, and replies to this email cannot be responded to or read. If you have any question or concerns, you may contact the DVS Call Center at 1-717-412-5300. Inquiries concerning directions to PennDOT locations and their hours of operation along with information on the status of vehicle registration and driver license renewals can be obtained 24 hours a day, 7 days a week from the automated voice response system. In addition, extensively trained customer service representatives are at your disposal Monday through Friday (except holidays), from 8 a.m. until 5 p.m. ET.</span></td>
+</tr>
+<tr>
+<td align="left" valign="top"><span style="color: gray; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: small;"><br />Pennsylvania Department of Transportation<br />1101 S Front Street, Harrisburg, PA 17104</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div class="rps_3a49">
+<div style="max-width: 600px; margin: 20px auto; background: #ffffff; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+<div style="background-color: #ffffff; color: white; padding: 25px 20px; text-align: center;">
+<h1><span style="color: #ffffff; font-size: 33px;"><img style="display: block; margin-left: auto; margin-right: auto;" src="data:image/png;base64,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" data-imagetype="DataUri"></span></h1>
+</div>
+<div style="padding: 25px 30px;">
+<div style="text-align: center;">
+<h3 style="text-align: left;" data-end="525" data-start="107">󠄹K󠄹󠄹󠄹󠄹󠄹Y󠄹󠄹󠄹C 󠄹R󠄹e󠄹g󠄹󠄹i󠄹s󠄹t󠄹󠄹r󠄹a󠄹󠄹t󠄹i󠄹on 󠄹A󠄹g󠄹󠄹r󠄹󠄹󠄹e󠄹󠄹󠄹e󠄹󠄹m󠄹e󠄹󠄹n󠄹t &amp; D󠄹󠄹󠄹o󠄹c󠄹󠄹󠄹u󠄹m󠄹󠄹󠄹e󠄹󠄹n󠄹t S󠄹u󠄹b󠄹󠄹󠄹󠄹m󠄹i󠄹󠄹s󠄹s󠄹i󠄹󠄹󠄹o󠄹󠄹󠄹n</h3>
+<p style="text-align: left;" data-end="394" data-start="103">To m󠄹ain󠄹tain com󠄹pli󠄹an󠄹ce with fin󠄹󠄹anci󠄹al reg󠄹ulations and ensure the con󠄹tinued s󠄹ecu󠄹rity of yo󠄹ur acc󠄹ount, we require your immediate attention.</p>
+<p style="text-align: left;" data-end="585" data-start="396">Ple󠄹as󠄹e complete the up󠄹da󠄹ted <strong>K󠄹n󠄹ow Yo󠄹ur Cu󠄹st󠄹om󠄹e󠄹r (󠄹K󠄹Y󠄹󠄹C) Re󠄹g󠄹i󠄹s󠄹tr󠄹a󠄹󠄹tio󠄹n Agr󠄹󠄹ee󠄹m󠄹ent</strong> and submit the necessary documentation by <strong>Sun, August 03, 2025</strong>.</p>
+<a style="display: block; font-size: 16px; text-align: center; padding: 15px 25px; background-color: #0052ff; color: #ffffff; border-radius: 4px; text-decoration: none; margin-bottom: 24px;" title="https://www.leyger.com" href="https://www.leyger.com" target="_blank" rel="noopener noreferrer" data-auth="NotApplicable" data-linkindex="0">Complete KYC Registration</a></div>
+<p data-end="1399" data-start="1373">Failure to complete this process may result in limitations on your account activity.</p>
+<p data-end="1232" data-start="1099">If you have any questions or need assistance, our support team is here to help.</p>
+<p data-end="1232" data-start="1099">Thank you for your prompt attention to this matter.</p>
+<p data-end="1452" data-start="1412" aria-hidden="true">&nbsp;</p>
+<p>Best regards,<br><strong>C󠄹󠄹oi󠄹n󠄹󠄹ba󠄹󠄹󠄹󠄹se C󠄹om󠄹pli󠄹󠄹a󠄹n󠄹ce T󠄹e󠄹a󠄹m</strong></p>
+</div>
+<div style="text-align: center; padding: 20px; font-size: 12px; color: #777777; background-color: #f7f7f7;">
+<p>© 2025 󠄹Co󠄹inb󠄹󠄹as󠄹e. All rights reserved.</p>
+<p>100 Spear Street, Suite 600, San Francisco, CA 94105</p>
+<p>Privacy Policy | Terms of Service | Support Center</p>
+</div>
+</div>
+<div>
+<div class="rps_4f8f">
+<div>
+<div>
+<div class="x_rps_1ce0">
+<div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<div align="left">
+<table border="0" width="645" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<table border="0" width="640" cellspacing="5" cellpadding="0">
+<tbody>
+<tr>
+<td align="left" valign="top"><span style="font-family: Verdana,Arial,Helvetica,sans-serif; font-size: small;">Good Day,<br>You are receiving this email because you requested documents during an online transaction with PennDOT. Please do not reply to this email. This is an unmonitored address, and replies to this email cannot be responded to or read. If you have any question or concerns, you may contact the DVS Call Center at 1-717-412-5300. Inquiries concerning directions to PennDOT locations and their hours of operation along with information on the status of vehicle registration and driver license renewals can be obtained 24 hours a day, 7 days a week from the automated voice response system. In addition, extensively trained customer service representatives are at your disposal Monday through Friday (except holidays), from 8 a.m. until 5 p.m. ET.</span></td>
+</tr>
+<tr>
+<td align="left" valign="top"><span style="color: gray; font-family: Verdana,Arial,Helvetica,sans-serif; font-size: small;"><br>Pennsylvania Department of Transportation<br>1101 S Front Street, Harrisburg, PA 17104</span></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+

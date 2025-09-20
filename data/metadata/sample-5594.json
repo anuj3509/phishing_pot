@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 166802942",
+    "from": "Status Entrega - Rastreio <no-1155-reply@%Encomenda-online.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 1 Jul 2025 01:35:22 +0000",
+    "message_id": "<20250701013522.632143F52A@vmhugomelo12323xxx0kagzdmvqw>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wwa166802942w.34h43ffewg23ger.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com",
+      "https://wwww166802942sedexsedexpac.34h43ffewg23ger.com.ua/1/h.php?cid=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2229,
+    "html_length": 4179,
+    "has_text": true,
+    "has_html": true
+  }
+}

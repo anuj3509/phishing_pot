@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 8756903485",
+    "from": "Mercado Pago <mercadopago@atendimento.msg.bloqueioverificacaoaduana.kyiv.ua>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 10 May 2025 12:25:18 -0300",
+    "message_id": "<20250510152518.8BADA47463@msg.bloqueioverificacaoaduana.kyiv.ua>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://verifique.valid-count.co.ua/veri/?atendimento=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 517,
+    "html_length": 2502,
+    "has_text": true,
+    "has_html": true
+  }
+}

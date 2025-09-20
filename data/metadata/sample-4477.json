@@ -1,0 +1,28 @@
+{
+  "headers": {
+    "subject": "[Malicious] Re: Fw: Tick Tock, Your Reward Is Inside",
+    "from": "test@doppelinbound.com",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sun, 1 Dec 2024 05:58:48 -0500",
+    "message_id": "<CAJbsg1Cqk8neB6vBckSyaX23FYPOychzRPhYJLobe+j_kKPabA@mail.gmail.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 366,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

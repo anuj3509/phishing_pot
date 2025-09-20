@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Nova Mensagem (927).",
+    "from": "Mercado Pago <aviso@naoresponder70129%atendimento.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Aug 2024 10:27:56 +0800 (CST)",
+    "message_id": "<20240821022756.9318748FFEA@mercado-ybkv5w3o5m2tmmq.localdomain>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://251.242.109.208.host.secureserver.net/n/?961102769",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/accountrecovery/feedback/unrecognized?notificationId%3D4ec7bd5c-cd02-4d0e-9ad8-71a4c17e6192%26source%3DEMAIL&amp;source=gmail&amp;ust=1722207293969000&amp;usg=AOvVaw36B97QH389hnaR1SBFkiea",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/ajuda/termos-e-politicas_194&amp;source=gmail&amp;ust=1722207293969000&amp;usg=AOvVaw0Cyh1JfjH2xpsdYGXZMOML",
+      "https://www.google.com/url?q=https://www.mercadopago.com.br/privacidade&amp;source=gmail&amp;ust=1722207293969000&amp;usg=AOvVaw0Iuv6YCIznmWUC_5uvAf8I",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 488,
+    "html_length": 14795,
+    "has_text": true,
+    "has_html": true
+  }
+}

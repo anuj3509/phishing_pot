@@ -1,0 +1,140 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Exclusive Update: Your stETH Rewards are Ready!
+From: Lido <hello@lido.com>
+To: phishing@pot
+Date: Sat, 26 Oct 2024 14:31:22 +0000 (UTC)
+Message_Id: <20241026143122.F1610CCA3708CF11@lido.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+Suspicious phrases: click here
+URLs found:
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC3e6mkjaFQDj4SwnZijEpTQPjCg8IyMV5GFjPgJhoaZAqEO_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMU4ueGHqxV3tNuxc1I-2Bl6XLjuiAVlwFidGeOxYdpKu-2BGz-2BsJguscFHPqNlhphLlD1yBMRHvHNdon16toHKh4Ssd-2B2-2BhUaOZI8NPtzIOLQB2YcmPF9D18Vw3y4CLSUoo6-2BEQ-3D-3D
+  - https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoV1iNkm3hNIGnxe1wqjGHHsqYSZ8O0Otojge-2BJvnpN84Zijhmsyp8xQ4iSQgljjDjKPkwJZHSjdWV8rh0rMpp6m16j0H4uaSdU9VIyA59YrtpMfJAIfOAhPeTggTBlzlJJdcJJJM-2FFGtvIf-2BN6aHySWeU-2FX5p9PsqqS0MKjQ0riyI0DlUbZHM-2Btia4-2FjhiYcaE-3D
+  - https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qJZqga1sN3QA-2FOSogamFUmY7IBhNwLJSN12K5L-2FkOHB5QjRUAEqItSJ1TZdSMA4jkQ-3D-3Drr32_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMUxsfaG3bvzEFkuHo8tvCKssl16fwDOwUscVwhfI4FysnA-2FdBuV2ya255KXkRzPo6EhhH382wBUbhAU7TnS7y8dVSjIqpXjlwvvEU4p1WWStBU-2FPv99oy6G5Bd6TbPXrJVA-3D-3D
+  - https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035
+
+DECODED TEXT CONTENT:
+------------------------------
+Important: Your stETH Rewards are Ready! body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } .email-container { max-width: 600px; margin: 0 auto; background-color: #ffffff; padding: 20px; border-radius: 10px; box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); } .header { text-align: center; padding: 20px 0; } .header img { width: 150px; } .content { padding: 20px; color: #333333; line-height: 1.6; } .content h1 { color: #ff5a5a; font-size: 24px; } .button-container { text-align: center; margin-top: 20px; } .button { padding: 15px 30px; background-color: #ff5a5a; color: #ffffff; text-decoration: none; border-radius: 5px; font-size: 16px; } .unsubscribe { text-align: center; margin-top: 20px; font-size: 12px; color: #999999; } .unsubscribe a { color: #ff5a5a; text-decoration: none; } Claim Your stETH Rewards We are excited to inform you that your staking rewards are ready. As of October 20, 2024 , we have finalized the reward distribution based on your staking activity. You can now view the details of your stETH and see how much you have earned. Thank you for your ongoing participation and support in securing the network! If you're new to our platform, we invite you to start staking and enjoy the benefits of earning rewards while contributing to the decentralized ecosystem. View My stETH If you no longer wish to receive updates from us, please click here to unsubscribe .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Important: Your stETH Rewards are Ready!</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f4f4f4;
+		}
+		.email-container {
+			max-width: 600px;
+			margin: 0 auto;
+			background-color: #ffffff;
+			padding: 20px;
+			border-radius: 10px;
+			box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+		}
+		.header {
+			text-align: center;
+			padding: 20px 0;
+		}
+		.header img {
+			width: 150px;
+		}
+		.content {
+			padding: 20px;
+			color: #333333;
+			line-height: 1.6;
+		}
+		.content h1 {
+			color: #ff5a5a;
+			font-size: 24px;
+		}
+		.button-container {
+			text-align: center;
+			margin-top: 20px;
+		}
+		.button {
+			padding: 15px 30px;
+			background-color: #ff5a5a;
+			color: #ffffff;
+			text-decoration: none;
+			border-radius: 5px;
+			font-size: 16px;
+		}
+		.unsubscribe {
+			text-align: center;
+			margin-top: 20px;
+			font-size: 12px;
+			color: #999999;
+		}
+		.unsubscribe a {
+			color: #ff5a5a;
+			text-decoration: none;
+		}
+	</style>
+</head>
+<body style="font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			background-color: #f4f4f4">
+	<center>
+		<table width="100%" style="background-color: #f4f4f4;" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td align="center">
+					<table width="600" style="border-radius: 8px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); background-color: #ffffff;" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="center" style="padding: 20px;">
+								<img width="150" height="149" alt="Lido Logo" src="https://cryptologos.cc/logos/lido-dao-ldo-logo.png?v=035">
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="color: #ff5a5a; padding-bottom: 20px; font-family: Arial, sans-serif; font-size: 28px; font-weight: bold;">
+								Claim Your stETH Rewards
+							</td>
+						</tr>
+						<tr>
+							<td align="left" style="padding: 0px 20px; color: #333333; line-height: 1.6; font-family: Arial, sans-serif; font-size: 16px;">
+								<p>We are excited to inform you that your staking rewards are ready. As of <strong>October 20, 2024</strong>, we have finalized the reward distribution based on your staking activity.</p>
+								<p>You can now view the details of your <strong>stETH</strong> and see how much you have earned. Thank you for your ongoing participation and support in securing the network!</p>
+								<p>If you're new to our platform, we invite you to start staking and enjoy the benefits of earning rewards while contributing to the decentralized ecosystem.</p>
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="padding: 20px;">
+								<a style="padding: 15px 30px; border-radius: 5px; color: white; font-family: Arial, sans-serif; font-size: 18px; text-decoration: none; display: inline-block; background-color: #ff5a5a;" href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qJZqga1sN3QA-2FOSogamFUmY7IBhNwLJSN12K5L-2FkOHB5QjRUAEqItSJ1TZdSMA4jkQ-3D-3Drr32_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMUxsfaG3bvzEFkuHo8tvCKssl16fwDOwUscVwhfI4FysnA-2FdBuV2ya255KXkRzPo6EhhH382wBUbhAU7TnS7y8dVSjIqpXjlwvvEU4p1WWStBU-2FPv99oy6G5Bd6TbPXrJVA-3D-3D">
+									View My stETH
+								</a>
+							</td>
+						</tr>
+						<tr>
+							<td align="center" style="padding: 10px;">
+								<p>If you no longer wish to receive updates from us, please <a href="https://u22939284.ct.sendgrid.net/ls/click?upn=u001.DLtI7jHNSQ0oAWu9hWT8qC3e6mkjaFQDj4SwnZijEpTQPjCg8IyMV5GFjPgJhoaZAqEO_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvZmVDYcKyY-2FCVb8-2BqNf17FaHdzEhWo19-2Fd6NmcWLQMU4ueGHqxV3tNuxc1I-2Bl6XLjuiAVlwFidGeOxYdpKu-2BGz-2BsJguscFHPqNlhphLlD1yBMRHvHNdon16toHKh4Ssd-2B2-2BhUaOZI8NPtzIOLQB2YcmPF9D18Vw3y4CLSUoo6-2BEQ-3D-3D" style="color: #ff5a5a;">click here to unsubscribe</a>.</p>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+	</center>
+<img src="https://u22939284.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoV1iNkm3hNIGnxe1wqjGHHsqYSZ8O0Otojge-2BJvnpN84Zijhmsyp8xQ4iSQgljjDjKPkwJZHSjdWV8rh0rMpp6m16j0H4uaSdU9VIyA59YrtpMfJAIfOAhPeTggTBlzlJJdcJJJM-2FFGtvIf-2BN6aHySWeU-2FX5p9PsqqS0MKjQ0riyI0DlUbZHM-2Btia4-2FjhiYcaE-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"></body>
+</html>
+

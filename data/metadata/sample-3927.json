@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Please update your payment details",
+    "from": "Support netflix <lina_Louise_66213@viro.setef.sa.com >",
+    "to": "<__LinkHlGouniUn2@aol.com>",
+    "date": "Tue, 03 Sep 2024 18:42:42 +0000",
+    "message_id": "<ZF3lf1bGTw-Ct-Y9ADdP_49Mg.Imn9moRHg-__Ip@ZiIZwQVcrmXPQ2AgEN9T8p9bAAF9yO1qXzKhKUhh2Q5xPJbJlYnugxxWEbJmsYzfKOFYUPtAA7ZLA3mfkw82xOs.dcccd.edu>",
+    "content_type": "multipart/digest; boundary=\"----=_Part___DynTag1_____DynTag2__.DynTag3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/digest; boundary=\"----=_Part___DynTag1_____DynTag2__.DynTag3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/TB0BHP0HTz",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "http://162.0.228.240/track/3memJl5164mJZF18nbkqqzrcln308GDEGTPZPWLQJXCM707DDOE2038913H17",
+      "https://t.co/JKxqOAOt9S"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 524,
+    "html_length": 3573,
+    "has_text": true,
+    "has_html": true
+  }
+}

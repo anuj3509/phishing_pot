@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Urgent: Your wallet was suspended!",
+    "from": "MetaMask <info@sbdsmartorder.co.kr>",
+    "to": "phishing@pot",
+    "date": "Tue, 18 Jun 2024 17:06:54 +0000",
+    "message_id": "<010001902c50db94-3e1a539f-fca1-40bd-ad62-f7a08aecf17c-000000@email.amazonses.com>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_2279266_372193352.1718730414991\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----=_Part_2279266_372193352.1718730414991\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://links.sbdsmartorder.co.kr/e/encryptedUnsubscribe?_r=08fae9ed779b4ee4aa066f945c254e70&_s=36ba1d73f25545b8819b7d155416b2a5&_t=dBIcEUJ4r_a4Q-DjY6_lti4JTDlCwcfPOooL_X7R44JjMawAtVbUYpmQuJre6lwLT76wYyfsUmKehYOPvZGs1J6w2vJOFhoCksuqFHbHnS4D16-dizFHkRt8E2hFsnHG",
+      "https://app-loads.com/ssphishing@pot",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/08fae9ed779b4ee4aa066f945c254e70/metamok.png",
+      "http://links.sbdsmartorder.co.kr/e/eo?_t=08fae9ed779b4ee4aa066f945c254e70&amp;_m=36ba1d73f25545b8819b7d155416b2a5&amp;_e=dBIcEUJ4r_a4Q-DjY6_lti4JTDlCwcfPOooL_X7R44JjMawAtVbUYpmQuJre6lwLT76wYyfsUmKehYOPvZGs1J6w2vJOFhoCksuqFHbHnS6d65E_7Uf4KSe9LpPBljEsoXmRsq3NmXxBnaF1p4XoFg%3D%3D",
+      "https://www.sbdsmartorder.co.kr/",
+      "http://links.sbdsmartorder.co.kr/e/encryptedUnsubscribe?_r=08fae9ed779b4ee4aa066f945c254e70&amp;_s=36ba1d73f25545b8819b7d155416b2a5&amp;_t=dBIcEUJ4r_a4Q-DjY6_lti4JTDlCwcfPOooL_X7R44JjMawAtVbUYpmQuJre6lwLT76wYyfsUmKehYOPvZGs1J6w2vJOFhoCksuqFHbHnS4D16-dizFHkRt8E2hFsnHG",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/08fae9ed779b4ee4aa066f945c254e70/fbdfc2f9-86e9-4da6-8247-1d9e3163f754.png",
+      "http://links.sbdsmartorder.co.kr/u/click?_t=08fae9ed779b4ee4aa066f945c254e70&amp;_m=36ba1d73f25545b8819b7d155416b2a5&amp;_e=HRzYB4yULMPAkYq44mRGZd_8R8U00HDHKYmANgn2DZUrDpjRHphlf8teosOAh7s-JWN0KKoUm7QY-ggWFkHm902wIX_e1c5Xh6zUJdpIh-0ZRkucysEvuhZJ_OF2b0SYbpeJtsYa6B9IQG5oPcjAUOOM5qT0T26wRoF-bmuTYwIiRVsZMKkjiJeYxlCVVBWiBradIj10MZN_a5tCKnEWxg%3D%3D",
+      "div.fullWidth{max-width:100%!important}.mobile_hide{display:none}.row-content{width:100%!important}.stack",
+      "http://links.sbdsmartorder.co.kr/u/click?_t=08fae9ed779b4ee4aa066f945c254e70&amp;_m=36ba1d73f25545b8819b7d155416b2a5&amp;_e=HRzYB4yULMPAkYq44mRGZYneO3Ibsc9yxbcbuBVG9IuuYsFrsyxEEqaZ8_zRM9Ez26yzOVHusJLdbVCPoy19273czWgEEnIO45NdyLNQUUm6zbiFg-U9_Q1OXqCnJhjh7F-I-IUxaaSh7ld9PLuLVZnmPqH9US6EqTNXqm_-uIUCpUAwTCi41NsMAekoKoDdPUiSw3LnB0bN4XR-hUTeMgqF-CtqT4R9XA_-oH77z6c%3D",
+      "http://links.sbdsmartorder.co.kr/u/click?_t=08fae9ed779b4ee4aa066f945c254e70&_m=36ba1d73f25545b8819b7d155416b2a5&_e=HRzYB4yULMPAkYq44mRGZYneO3Ibsc9yxbcbuBVG9IuuYsFrsyxEEqaZ8_zRM9Ez26yzOVHusJLdbVCPoy192wHPIoMajvp7jnRP4HVKyuHJyu7WwAXR6K-xRXjG2nkLAJ0xslosbePOyV0fB2CjsL5mQIak5E_hW2TobBKIIm0TDq5to85bE6waD4Skx4MVlxVIoS7wVwWWapIQ3iD-oMAmefpWG5FBJLNQp-GMbeM%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 825,
+    "html_length": 13332,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Convite Especial: Bradesco American Express Business Platinum. Autorização: 18766670.",
+    "from": "\"Banco.Bradesco\" <conviteamex680489@bradesco>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 16 Mar 2025 03:50:11 +0000",
+    "message_id": "<ed275d2eb7c718a8a66145da27053689@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ed275d2eb7c718a8a66145da27053689\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ed275d2eb7c718a8a66145da27053689\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://function-12-1062496865825.us-central1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4232,
+    "has_text": true,
+    "has_html": true
+  }
+}

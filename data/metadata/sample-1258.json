@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Best Black Market [shells,cpanels,smtps,rdps,..etc]",
+    "from": "Omgo <info@kipa-group.com>",
+    "to": "",
+    "date": "Sat, 05 Nov 2022 10:43:42 +0000",
+    "message_id": "<GENERATED-WASMISSING-1orGeN-000G9O-2Q@s224.bitcommand.com>",
+    "content_type": "multipart/mixed;boundary=---------------------019df8b74a6cdbe949fa437070044d2d"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------019df8b74a6cdbe949fa437070044d2d"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://omgo.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 311,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

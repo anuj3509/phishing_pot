@@ -1,0 +1,308 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ����Gl��ckwunsch zu dieser Chance
+From: BAHNGUTSCHEIN<noreply@bahn>
+To: <phishing@pot>
+Date: Mon, 16 Jun 2025 13:33:23 +0000
+Message_Id: <a1af7c78-c9a7-4e46-bc06-34acbc7b6a11@BN3PEPF0000B36F.namprd21.prod.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://zupimages.net/up/22/43/w02r.png
+  - http://WXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/4WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217
+  - http://www.w3.org/1999/xhtml
+  - http://WXBMTjeYbCEG4uqSGcSlWXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/6WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217
+  - http://NDFbWDHPfLoBIPpjeYbCEG4uqSGcSlNDFbWDHPfLoBIPp.wellnesshaven.space/track/3WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217
+  - zupimages.net/up/22/43/w02r.png
+
+DECODED TEXT CONTENT:
+------------------------------
+body { margin: 0 auto; padding: 0; } img { max-width: 100%; } table { border-spacing: 0 !important; border: none; cellpadding: 0px; } td { cellpadding: 0px; border-spacing: 0px; } tr { cellpadding: 0px; border-spacing: 0px; } /* Client-specific Styles */ #outlook a { padding: 0; } /* Force Outlook to provide a "view in browser" message */ .ReadMsgBody { width: 100%; } .ExternalClass { width: 100%; } /* Force Hotmail to display emails at full width */ .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { line-height: 100%; } /* Force Hotmail to display normal line spacing */ body, table, td, a { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; } /* Prevent WebKit and Windows mobile changing default text sizes */ table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; } /* Remove spacing between tables in Outlook 2007 and up */ img { -ms-interpolation-mode: bicubic; } /* Allow smoother rendering of resized image in Internet Explorer */ .scaling { transition: all 0.2s ease-in-out; } .scaling:hover { transform: scale(1.1); } @keyframes pound { from { transform: none; } 50% { transform: scale(1.2); } to { transform: none; } } .bungy { display: inline-block; font-size: 150px; color: #e00; animation: pound 3s infinite; transform-origin: center; } Hallo phishing@pot Dies ist Ihre Chance! Sie wurden eingeladen, an unserer kostenlosen Kundenumfrage inkl. Gewinnspiel teilzunehmen! Die Teilnahme dauert nur wenige Minuten und am Ende bekommen Sie die Chance, einen 100€ Bahngutschein der Deutschen Bahn zu erhalten! Also, worauf warten Sie noch?! Verpassen Sie nicht die Chance, einen gratis 100€ Bahngutschein zu erhalten und nehmen Sie jetzt kostenlos teil: KOSTENLOS TEILNEHMEN abbestellen.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="date=no">
+    <meta name="format-detection" content="address=no">
+    <meta name="format-detection" content="email=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title></title>
+
+    <style type="text/css">
+      body {
+        margin: 0 auto;
+        padding: 0;
+      }
+
+      img {
+        max-width: 100%;
+      }
+
+      table {
+        border-spacing: 0 !important;
+        border: none;
+        cellpadding: 0px;
+      }
+
+      td {
+        cellpadding: 0px;
+        border-spacing: 0px;
+      }
+
+      tr {
+        cellpadding: 0px;
+        border-spacing: 0px;
+      }
+
+      /* Client-specific Styles */
+      #outlook a {
+        padding: 0;
+      }
+
+      /* Force Outlook to provide a "view in browser" message */
+      .ReadMsgBody {
+        width: 100%;
+      }
+
+      .ExternalClass {
+        width: 100%;
+      }
+
+      /* Force Hotmail to display emails at full width */
+      .ExternalClass,
+      .ExternalClass p,
+      .ExternalClass span,
+      .ExternalClass font,
+      .ExternalClass td,
+      .ExternalClass div {
+        line-height: 100%;
+      }
+
+      /* Force Hotmail to display normal line spacing */
+      body,
+      table,
+      td,
+      a {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+      }
+
+      /* Prevent WebKit and Windows mobile changing default text sizes */
+      table,
+      td {
+        mso-table-lspace: 0pt;
+        mso-table-rspace: 0pt;
+      }
+
+      /* Remove spacing between tables in Outlook 2007 and up */
+      img {
+        -ms-interpolation-mode: bicubic;
+      }
+
+      /* Allow smoother rendering of resized image in Internet Explorer */
+      .scaling {
+        transition: all 0.2s ease-in-out;
+      }
+
+      .scaling:hover {
+        transform: scale(1.1);
+      }
+
+      @keyframes pound {
+        from {
+          transform: none;
+        }
+
+        50% {
+          transform: scale(1.2);
+        }
+
+        to {
+          transform: none;
+        }
+      }
+
+      .bungy {
+        display: inline-block;
+        font-size: 150px;
+        color: #e00;
+        animation: pound 3s infinite;
+        transform-origin: center;
+      }
+    </style>
+  </head>
+
+  <body bgcolor="#f2f2f2">
+    <!-- GK: container  -->
+    <table width="100%" border="0" cellpadding="0" cellspacing="0" id="wrappertable" style="table-layout: fixed">
+      <tr>
+        <td align="center" valign="top">
+          <table cellpadding="0" cellspacing="0" border="0">
+            <tr>
+              <td width="600" align="center" valign="top" style="
+                  background-color: #ffffff;
+                  box-shadow: 11px 11px 49px 0px rgba(0, 0, 0, 0.5);
+                ">
+                <!-- GK: image-->
+
+                <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff; padding: 0px 0px 10px 0px">
+                  <tr>
+                    <td valign="middle" style="line-height: 1px"></td>
+                  </tr>
+                  <tr>
+                    <td align="center" valign="top" style="padding: 0 0px">
+                      <table cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td width="600" align="center" valign="middle">
+                            <a href="http://WXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/4WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217" style="outline: 0" target="_blank">
+                              <img src="//zupimages.net/up/22/43/w02r.png" style="width: 100%; max-width: 100%" border="0" alt="">
+                              <img src="https://zupimages.net/up/22/43/w02r.png" style="width: 100%; max-width: 100%" border="0" alt=""></a>
+                          </td>
+                        </tr>
+                      </table>
+                    </td>
+                  </tr>
+                </table>
+                <!-- GK: / image-->
+
+                <!--GK: / spacer-->
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding-top: 10px; line-height: 0px"></td>
+                  </tr>
+                </table>
+                <!--GK: / spacer-->
+
+                <!--GK: text-->
+
+                <table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color: #ffffff">
+                  <tr>
+                    <td valign="middle" style="
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 18px;
+                        font-weight: normal;
+                        line-height: 24px;
+                        letter-spacing: 0px;
+                        color: #414141;
+                        padding-left: 20px;
+                        padding-right: 20px;
+                        min-height: 20px;
+                        mso-line-height-rule: exactly;
+                      ">
+                      <a href="http://WXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/4WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217" style="outline: 0; text-decoration: none; color: inherit;">
+                        <div>
+                          Hallo phishing@pot<br><br>
+
+                          Dies ist Ihre Chance!
+                          <!-- START SET LINK -->
+                          <br><br>Sie wurden eingeladen, an unserer
+                          kostenlosen
+                          <strong>Kundenumfrage inkl. Gewinnspiel</strong>
+                          teilzunehmen! <br>
+                          Die Teilnahme dauert nur wenige Minuten und am Ende
+                          bekommen Sie die Chance, einen
+                          <strong>100€ Bahngutschein der Deutschen Bahn zu
+                            erhalten!</strong><br>
+                          <br>Also, worauf warten Sie noch?! <br>Verpassen
+                          Sie nicht die Chance, einen gratis
+                          <strong>100€ Bahngutschein </strong> zu erhalten und
+                          nehmen Sie jetzt kostenlos teil:
+                        </div></a>
+                      <br>
+                      <br>
+                      <br>
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tr>
+                          <td align="center" valign="top" style="padding: 0 20px">
+                            <table cellpadding="0" cellspacing="0" border="0">
+                              <tr>
+                                <td style="padding-top: 5px; line-height: 0px"></td>
+                              </tr>
+                              <tr>
+                                <td>
+                                  <a href="http://WXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/4WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217">
+                                    <div style="
+                                        color: #fff;
+                                        min-width: 260px;
+                                        font-size: 20px;
+                                        margin-top: 20px;
+                                        font-size: 22px;
+                                        font-weight: bold;
+                                        line-height: 1;
+                                        text-transform: uppercase;
+                                        background: #e00;
+                                        display: inline-block;
+                                        padding: 16px 10px;
+                                        text-decoration: none;
+                                        border-radius: 20px;
+                                        margin: 30px 0px;
+                                        text-align: center;
+                                      ">
+                                      KOSTENLOS TEILNEHMEN
+                                    </div>
+                                  </a>
+                                </td>
+                              </tr>
+                            </table>
+                          </td>
+                        </tr>
+                      </table>
+
+                      <br>
+                      <br>
+                    </td>
+                  </tr>
+                </table>
+
+                <!--GK: / text-->
+
+                <!--GK: / spacer-->
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding-top: 10px; line-height: 0px">
+                      <p style="font-size: 11px; color: #5c5b5b; max-width: 550px; line-height: 1.4; padding: 0">
+
+                        <a href="http://WXBMTjeYbCEG4uqSGcSlWXBMTjeYbCEG4uqSGcSlWXBMT.wellnesshaven.space/6WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217" style="color:#7e6c1b;text-decoration:none;">
+                            abbestellen. </a>
+                    </p></td>
+                  </tr>
+                </table>
+                <!--GK: / spacer-->
+
+                <!--GK: / spacer-->
+                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                  <tr>
+                    <td style="padding-top: 10px; line-height: 0px"></td>
+                  </tr>
+                </table>
+                <!--GK: / spacer-->
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+    <!-- GK: container  -->
+  </body>
+
+  <img src="http://NDFbWDHPfLoBIPpjeYbCEG4uqSGcSlNDFbWDHPfLoBIPp.wellnesshaven.space/track/3WXBMT25115vIuI310ekuvhgxfjr3764ASMUNIFYORPGXYE91072JFDA1915S217" width="0" height="0" style="position:absolute;visibility:hidden;" border="0">
+</html>
+
+
+

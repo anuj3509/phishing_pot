@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "52Greetings to You my good friend",
+    "from": "\"Mr.Warren Buffett Billionaire investor\"<test@central.mercfresh.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Wed, 2 Aug 2023 16:40:17 -0700",
+    "message_id": "\r\n <04f451dd-fe33-4515-95e3-0f5a09c37d57@VI1EUR06FT033.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Mr.Warren",
+      "gmail.com",
+      "http://articles.latimes.com/2013/jul/08/business/la-fi-mo-warren-buffett-gates-20130708"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3388,
+    "html_length": 3941,
+    "has_text": true,
+    "has_html": true
+  }
+}

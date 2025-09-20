@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Congrats! Your $700 Mastercard offer is here phishing@pot Apply today!",
+    "from": "\"Destiny Mastercard\"<renew@rwmfgconsulting.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 10 Apr 2025 12:38:58 +0200",
+    "message_id": "<mcvbrrt.obugyc.hzhk@jsaxdldr.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://metaverseshades.com/xtzrd.php?32=0614d34decd11f839_a456.9c5c9a0.68280e8b99ef7d1525_11c384.6Z0vYrMpeBck0750r7v5Y570xpM0MYdY057xYMr",
+      "https://pbs.twimg.com/media/GU97ORXW4AA5o-s?format=jpg&amp;name=large",
+      "http://metaverseshades.com/bjwub.php?32=10207b35f1b62804a_61bc.6238f06.3b54936952d21c51b6_682216.n40vYrMpeBck0750r7v5Y570xpM0MYdY057xYMr",
+      "https://pbs.twimg.com/media/GU97V_9WgAAs8if?format=png&amp;name=small",
+      "homet-online.de",
+      "pbs.twimg.com/media/GU97V_9WgAAs8if?format=png&amp;name=small",
+      "pbs.twimg.com/media/GU97ORXW4AA5o-s?format=jpg&amp;name=large",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1893,
+    "html_length": 3784,
+    "has_text": true,
+    "has_html": true
+  }
+}

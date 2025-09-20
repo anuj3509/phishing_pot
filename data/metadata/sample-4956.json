@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, Verificação de Pagamento Pendente.",
+    "from": "Correios <contato@correios>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 7 Mar 2025 04:57:01 +0000",
+    "message_id": "<62b8ff3c-6a4d-608a-63b5-d5c6bc7ea77a@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodedansk.icu"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3150,
+    "html_length": 5494,
+    "has_text": true,
+    "has_html": true
+  }
+}

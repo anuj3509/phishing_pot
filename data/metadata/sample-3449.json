@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "We're excited to confirm that there's been a Bitcoin transfer 285\r\n credited to 221 your fund",
+    "from": "James Jones <jonesjames0tmhp7@gmail.com>",
+    "to": "phishing@pot, jubileevdsl@iinet.net.au, \r\n\tmarco.osterlin@gmail.com",
+    "date": "Wed, 10 Jul 2024 11:28:15 +0000",
+    "message_id": "<calendar-c9733877-df71-4a7c-bfe0-de687ef83559@google.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000003da0b1061ce2f18c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000003da0b1061ce2f18c\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLU94YtzCwM.ttf)",
+      "http://schema.org/Person",
+      "gmail.com",
+      "http://www.w3.org/1999/xhtml",
+      "table.full-width-mobile",
+      "fonts.gstatic.com/s/googlesans/v14/4UaGrENHsxJlGDuGo1OIlL3Owps.ttf)",
+      "http://schema.org/Event",
+      "fonts.gstatic.com/s/googlesans/v14/4UabrENHsxJlGDuGo1OIlLV154tzCwM.ttf)",
+      "https://fonts.gstatic.com/s/i/googlematerialiconsfilled/encrypted/v3/gm_grey200-24dp/2x/gm_filled_encrypted_gm_grey200_24dp.png",
+      "http://schema.org/Organization",
+      "http://schema.org/EmailMessage",
+      "http://schema.org/InformAction",
+      "fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmWUlfBBc9.ttf)",
+      "http://schema.org/EventScheduled",
+      "fonts.gstatic.com/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxP.ttf)",
+      "fonts.gstatic.com/s/googlematerialicons/v141/Gw6kwdfw6UnXLJCcmafZyFRXb3BL9rvi0QZG3g.otf)",
+      "fonts.gstatic.com/s/googlematerialiconsfilled/v116/WWXFlimHYg6HKI3TavMkbKdhBmDvgach8TVpeGsuueSZJH4.otf)",
+      "fonts.gstatic.com/s/materialiconsextended/v151/kJEjBvgX7BgnkSrUwT8UnLVc38YydejYY-oE_LvM.ttf)",
+      "td.full-width-mobile",
+      "https://docs.google.com/drawings/d/1gmfEWVgTGSa03Mx_FP6pQhOKl52t6nvTwkMFJFOywCQ/preview?RAF",
+      "fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc9.ttf)"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 403,
+    "html_length": 16693,
+    "has_text": true,
+    "has_html": true
+  }
+}

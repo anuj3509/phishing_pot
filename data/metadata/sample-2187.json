@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Notificação Emitida - 2vOZiA4kohW8FCj",
+    "from": "\"( BB | Autoatendimento) - Protocolo: 427835915295090\"\r\n <allensammy.436751@gmail.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Tue, 12 Dec 2023 16:33:44 -0800 (PST)",
+    "message_id": "<6578fbe8.170a0220.9b02b.c731@mx.google.com>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_356_aac0efd1-e079-48c9-b189-51c983bf846f"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_356_aac0efd1-e079-48c9-b189-51c983bf846f"
+  },
+  "attachments": [
+    {
+      "filename": "RbJhef1j0.pdf",
+      "content_type": "application/octet-stream",
+      "size": 118875
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "math.kichuu@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 267,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

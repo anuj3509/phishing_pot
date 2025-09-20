@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Important: Update Your Account to Meet New Compliance Standards",
+    "from": "Team Ripple <ripple@1803nyc.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 09 Oct 2024 23:04:18 +0000 (UTC)",
+    "message_id": "<lqe1W66GRReRoSz_q2_XuA@geopod-ismtpd-canary-0>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/U2Cm1uc.png",
+      "https://ripple-regulatory.com/1c23045e8437dc9fc6fea06885ab88c3d74da15121b1dda56bb9d568893112a0",
+      "http://url2232.1803nyc.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoVUcrNqkjHwuUbQmCqEopzHANkzGAOJ-2FJNVY-2BSAd203LoX50VLh1TbO9YXqq9mWFeFucUI99ag9Vcr9sdcH40VRRTB6PGV6lOlTdo-2Fq12iVAm8zYReg4awc-2BaBJwAuDWwfcnhvXo-2F-2BNsDYCNmM3gRxltPNDYHv62z54DUdA6UFfAQryiahTpbl2mQZd1882-2BqM-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1396,
+    "html_length": 4076,
+    "has_text": true,
+    "has_html": true
+  }
+}

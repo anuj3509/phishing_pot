@@ -1,0 +1,41 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Create a password for Xponential Fitness Support
+From: support@xponentialsprint.zendesk.com
+To: phishing@pot
+Date: Sun, 26 Jan 2025 03:50:55 +0000
+Message_Id: <6795b11f18a01_64393011139b_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_6795b11f1d550_64393011145f";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_6795b11f1d550_64393011145f";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://xponentialsprint.zendesk.com/verification/email/xzSlkVfJoqNe5OmOe7PXlI9B5nnW0zSv
+
+DECODED TEXT CONTENT:
+------------------------------
+Welcome to Xponential Fitness. Please click the link below to create a password and sign-in.
+
+https://xponentialsprint.zendesk.com/verification/email/xzSlkVfJoqNe5OmOe7PXlI9B5nnW0zSv
+
+
+If you didn’t sign up to Xponential Fitness Support using this email address, you can safely ignore this email.
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">Welcome to Xponential Fitness. Please click the link below to create a password and sign-in.
+<p><a href="https://xponentialsprint.zendesk.com/verification/email/xzSlkVfJoqNe5OmOe7PXlI9B5nnW0zSv">Create a password</a></p>
+If you didn’t sign up to Xponential Fitness Support using this email address, you can safely ignore this email.

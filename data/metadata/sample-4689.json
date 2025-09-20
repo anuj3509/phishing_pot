@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your balance: 1.3426 BTC",
+    "from": "Support <no-replay@kkmib.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 21 Jan 2025 08:57:44 -0800",
+    "message_id": "<2c4f18e81cd371e8cb65bc17e3f0aaa0937a6a03@kkmib.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"8a450cacd086aca310baf38f0bcef47750c0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"8a450cacd086aca310baf38f0bcef47750c0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&tl=en&hl=en&u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=rodrigo-f-p@hotmail.com%26id_list=SJjjSyypCthbbVeVxjghgJ",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050%26googlePIDR=phishing@pot%26id_list=BOEWcWsCuOqsgLervhWBTSuRgUjU",
+      "https://translate.google.com/translate?sl=auto&amp;tl=en&amp;hl=en&amp;u=sparscreations.com/stagging/web/go.php?click=0050_copy%26googlePIDR=phishing@pot%26id_list=SJjjSyypCthbbVeVxjghgJ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1020,
+    "html_length": 5014,
+    "has_text": true,
+    "has_html": true
+  }
+}

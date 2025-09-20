@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Email: wpx@protonmail.com Rectification deactivation",
+    "from": "\"protonmail.com\" <noreply@host.com>",
+    "to": "wpx@protonmail.com",
+    "date": "23 Sep 2022 02:49:59 +0200",
+    "message_id": "<20220923024959.1F7E695E83F6E338@host.com>",
+    "content_type": "multipart/mixed;boundary=---------------------c3c8cd15e50d93085ddaee253ed75124"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------c3c8cd15e50d93085ddaee253ed75124"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "https://storage.cloud.google.com/solttitll098/upgrade/thenewgenautoindex.html#wpx@protonmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 466,
+    "html_length": 7711,
+    "has_text": true,
+    "has_html": true
+  }
+}

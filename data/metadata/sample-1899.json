@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "YOUR HULU TV MEMBERSHIP HAS EXPIRED! EXTEND YOUR MEMBERSHIP FOR FREE",
+    "from": "HULU MEMBERSHIP <noreply@membershiphulu.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 10 Nov 2023 18:19:35 +0100",
+    "message_id": "\r\n <aa16a90f-287f-490b-85fc-3313a29864cf@DM6NAM12FT025.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/23/43/s3wa.png",
+      "https://t.co/dJ6gFSwFJF",
+      "https://t.co/8ItGjWbzhy",
+      "zupimages.net/up/23/43/6puu.png",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 17105,
+    "html_length": 20546,
+    "has_text": true,
+    "has_html": true
+  }
+}

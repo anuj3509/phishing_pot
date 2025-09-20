@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Revealed: Elon Musk's Latest Innovation to Slash Your Electric Bill!",
+    "from": "\"Elon Musk: Cutting-Edge Savings Hub\" <sheplerramlal@tashari.co.za>",
+    "to": "\"phishing@pot\" <phishing@pot>",
+    "date": "Sat, 4 Nov 2023 12:11:53 -0700",
+    "message_id": "\r\n <CO1PR11MB5028F3A84259902A88E0FEB6F3A4A@CO1PR11MB5028.namprd11.prod.outlook.com>",
+    "content_type": "multipart/alternative; boundary=\"c7IXgCpyKHgQ4U=_jC8q4FO7oKulFYFUaT\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"c7IXgCpyKHgQ4U=_jC8q4FO7oKulFYFUaT\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us8.mailchimp.com/mctx/clicks?url=https%3A%2F%2FNCRonline.us8.list-manage.com%2Fsubscribe%2Fconfirm%3Fu%3D4c29a3eb94b5f54c4f08ee01e%26id%3D6981ecb02e%26e%3Dba99f60389&amp;xid=f5460d92ff&amp;uid=30915195&amp;pool=contact_facing&amp;subject=NCR+List%3A+Please+Confirm+Subscription&amp;v=1&amp;h=21fa85fa90bbcee17c020cd368a61f7ded4e13b165504f860f398eaf5c5c7f40",
+      "span.or{",
+      "https://somyatech.com/jhgfhsdgfh.png",
+      "http://schema.org/HttpRequestMethod/POST",
+      "https://NCRonline.us8.list-manage.com/subscribe/smartmail-confirm?u=4c29a3eb94b5f54c4f08ee01e&amp;id=6981ecb02e&amp;e=ba99f60389&amp;inline=true",
+      "https://us8.mailchimp.com/mctx/opens?xid=f5460d92ff&amp;uid=30915195&amp;pool=contact_facing&amp;subject=NCR+List%3A+Please+Confirm+Subscription",
+      "http://www.w3.org/1999/xhtml",
+      "https://somyatech.com/hgs/hfbshafshfdss?email=rodrigo-f-p@hotmail.com",
+      "http://schema.org/EmailMessage",
+      "https://gallery.mailchimp.com/4c29a3eb94b5f54c4f08ee01e/images/3d2193f9-3231-4fe9-ba63-fc1df13cd311.jpg",
+      "ul.interestgroup_field",
+      "http://schema.org/ConfirmAction",
+      "https://somyatech.com/hgs/dfgetdgdgdf?email=phishing@pot",
+      "ncronline.org",
+      "http://schema.org/HttpActionHandler",
+      "input.formEmailButton{"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4700,
+    "html_length": 13830,
+    "has_text": true,
+    "has_html": true
+  }
+}

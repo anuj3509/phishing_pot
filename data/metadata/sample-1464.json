@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "confirm your account please 6198628",
+    "from": "support <llClEHT@bruidswinkel.site>",
+    "to": "phishing@pot",
+    "date": "Mon, 02 Oct 2023 15:26:50 +0200",
+    "message_id": "<llClEHT.98346.286.znr@bruidswinkel.site>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "bruidswinkel.site!",
+      "http://easilett.com/cl/535_md/2010/11/64/23/2459859",
+      "http://bruidswinkel.site/token/DcBYTYGahzwyCJeAcVbpFce"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 354,
+    "html_length": 510,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Update - Your refund is ready to be proceed.",
+    "from": "Annual Tax - Update <refund-mtjfvxvnhuivapxrfy@semangatara.chronicfatigueinfo.com>",
+    "to": "statement.alert@irs-official.gov",
+    "date": "Mon, 11 Dec 2023 15:07:37 -0600",
+    "message_id": "<CAD2mGcjzMq9sNVGyLLityib0zpVMB8vUNsky2NocyJynrZh17Q@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000006af202060c4253c4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000006af202060c4253c4\""
+  },
+  "attachments": [
+    {
+      "filename": "Informations.pdf",
+      "content_type": "application/pdf",
+      "size": 88371
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 103,
+    "html_length": 219,
+    "has_text": true,
+    "has_html": true
+  }
+}

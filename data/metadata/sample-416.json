@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "LIVELO INFORMA: RESGATE AGORA SEUS PONTOS DISPON��VEIS. ",
+    "from": "Bradesco <bradesco@resgatepremios.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 27 Feb 2023 02:25:01 +0000 (UTC)",
+    "message_id": "<20230227022501.CCCE481E6C@ubuntu-s-1vcpu-512mb-10gb-sfo3-01>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-central1-thinking-creek-370812.cloudfunctions.net/function-thr3",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 984,
+    "html_length": 8021,
+    "has_text": true,
+    "has_html": true
+  }
+}

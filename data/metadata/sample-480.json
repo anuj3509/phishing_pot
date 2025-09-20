@@ -1,0 +1,75 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "ETHER <millerpopj1ro@icloud.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Fri, 17 Mar 2023 16:53:56",
+    "message_id": "<3pcesrmc39-1@ci77p00im-qukt08101302.me.com>",
+    "content_type": "multipart/alternative; boundary=\"69603503243671091884864888008\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"69603503243671091884864888008\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://go.microsoft.com/fwlink/?linkid=2196228",
+      "https://account.microsoft.com/orders",
+      "https://learn.microsoft.com/",
+      "https://www.microsoft.com/sustainability/",
+      "https://powerplatform.microsoft.com/",
+      "https://www.microsoft.com/ru-ru/about",
+      "https://go.microsoft.com/fwlink/?LinkId=521839",
+      "https://account.microsoft.com/",
+      "https://go.microsoft.com/fwlink/?linkid=2139749",
+      "https://careers.microsoft.com/",
+      "https://clt1542146.bmetrack.com/c/l?u=F2D569D&amp;e=15F4143&amp;c=178802&amp;t=1&amp;l=A4885B28&amp;email=tvV8YSnaW7CTnZVntalWAY9nNPuw6lIV&amp;seq=1",
+      "https://www.microsoft.com/investor/default.aspx",
+      "https://www.microsoft.com/en-us/store/b/education",
+      "https://www.microsoft.com/education/products/office",
+      "https://support.microsoft.com/contactus",
+      "https://www.microsoft.com/windows/windows-11-apps",
+      "https://www.microsoft.com/education",
+      "https://www.microsoft.com/industry",
+      "https://azuremarketplace.microsoft.com/",
+      "https://about.ads.microsoft.com/",
+      "https://www.microsoft.com/ru-ru/locale",
+      "https://www.microsoft.com/education/devices/overview",
+      "https://education.microsoft.com/",
+      "https://developer.microsoft.com/",
+      "https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x419",
+      "https://visualstudio.microsoft.com/",
+      "https://www.microsoft.com/microsoft-teams/group-chat-software",
+      "https://azure.microsoft.com/free/students/",
+      "https://azure.microsoft.com/",
+      "https://www.microsoft.com/microsoft-cloud",
+      "https://dynamics.microsoft.com/",
+      "https://choice.microsoft.com/",
+      "https://privacy.microsoft.com/ru-ru",
+      "https://techcommunity.microsoft.com/",
+      "https://www.microsoft.com/microsoft-365",
+      "https://www.microsoft.com/education/buy-license/microsoft365",
+      "https://go.microsoft.com/fwlink/?LinkID=206977",
+      "https://www.microsoft.com/education/products/teams",
+      "https://learn.microsoft.com/docs/",
+      "https://appsource.microsoft.com/",
+      "https://www.microsoft.com/microsoft-365/business/",
+      "https://www.microsoft.com/ru-ru/download",
+      "https://news.microsoft.com/ru-ru",
+      "https://www.microsoft.com/security"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1475,
+    "html_length": 37131,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Sichern Sie sich Ihren 100��� DEUTSCHE BAHN Gutschein",
+    "from": "Deutsche Bahn, Deutsche Bahn, <message@my.zalando.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 17 Sep 2024 16:49:24 +0000",
+    "message_id": "<QTHSDUIYFNGKVQ8AU9KYO1L@my.zalando.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "http://topmarktingplace.com/4NKaPn35239qJnG188geymlmqjum14302SGWJYQQZKKOSCJF2OURL6305V10",
+      "http://www.w3.org/1999/xhtml",
+      "http://topmarktingplace.com/5pHprQ35239ngFl188enhjhvqpjg14302NZLOGBERIUCMYFJ2CQLY6305X10",
+      "sf22.sendsfx.com/admin/temp/user/2/db-100-gutschein-2.png",
+      "http://topmarktingplace.com/4DiBKR35239cxoA188plvlhohgqq14302NMSDKBGCCWDJXSM2AQLR6305W10",
+      "http://topmarktingplace.com/6AzzGF35239zlFu188zgffugrgwa14302SCHTLTTCHBVMRHB2YHRT6305i10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2014,
+    "html_length": 9319,
+    "has_text": true,
+    "has_html": true
+  }
+}

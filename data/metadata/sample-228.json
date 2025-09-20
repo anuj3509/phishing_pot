@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "1 jaar lang geen verrassingen ",
+    "from": "Nutswijzer<0YPSesP@alfagroupoo.net>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Jan 2023 15:29:39 +0000",
+    "message_id": "<0.0.0.0.1D925085A7FE0A6.4040@gussago.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://safesecurelog.com/?a=77&amp;c=163&amp;s1=soukaina",
+      "https://s3.eu-central-1.wasabisys.com/consumentenbond/cloudhosted.svg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1595,
+    "html_length": 15467,
+    "has_text": true,
+    "has_html": true
+  }
+}

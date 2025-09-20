@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Fwd: A 750��� Amazon Gutschein gewinnen..",
+    "from": "Amazon Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Mon, 29 Jan 2024 23:07:36 +0100",
+    "message_id": "<EHR8Rt1.0.0.EHR8Rt1.9.EHR8Rt1@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://directfwd-2.com/?a=7790&amp;oc=14749&amp;c=41305&amp;m=3&amp;s1=",
+      "http://theowensfamily.infoVEhjdkxoSU9JMFRXMUZLanl3VDZseS9nTWhOdzJRcS9uVWdaVXA2WTlGVkl4d0xFcHlUWXFEbDU2bzJaZG51TjN4OHQ4NHI1NmpZc1BZV1RNU052N2c9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/23/33/j4jg.png",
+      "https://www.zupimages.net/up/23/33/j4jg.png",
+      "http://theowensfamily.info/VmpMZ1NHUjBCRWZJWWVmWkM2RVpVNm9tSnFYVGtCQWsyTEVlaE5Cc3BzMTdiK3Z0d3VoWjlOSWFXNFY1TjdabHp4ME9pbHZtdFV6aXEyOXN1NkkrMUE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1977,
+    "html_length": 9130,
+    "has_text": true,
+    "has_html": true
+  }
+}

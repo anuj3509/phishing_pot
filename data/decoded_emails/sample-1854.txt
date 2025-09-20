@@ -1,0 +1,89 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Fwd: Notificação ao cliente - Cod. 0ZtmBEX6XLEEUXa4l
+From: phish@pot <phish@pot>
+To: Rodrigo Ferreira <phishing@pot>
+Date: Thu, 9 Nov 2023 11:20:20 +0000
+Message_Id: 
+ <SN4PR0601MB8665F1677A8A3FC84B9B65B2EEAFA@SN4PR0601MB8665.namprd06.prod.outlook.com>
+Content_Type: multipart/mixed;
+	boundary="_004_SN4PR0601MB8665F1677A8A3FC84B9B65B2EEAFASN4PR0601MB8665_"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed;
+	boundary="_004_SN4PR0601MB8665F1677A8A3FC84B9B65B2EEAFASN4PR0601MB8665_"
+
+ATTACHMENTS:
+--------------------
+- jSdPogT8yfmYr4337.pdf (application/pdf, 121537 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - gmail.com&gt;
+  - gmail.com
+  - https://aka.ms/AAb9ysg
+
+DECODED TEXT CONTENT:
+------------------------------
+
+
+Obter o Outlook para Android<https://aka.ms/AAb9ysg>
+________________________________
+From: Ourocard - Cod. 471518965032738 <foxgdsarmy23@gmail.com>
+Sent: Thursday, November 9, 2023 7:20:43 AM
+To: phish@pot <phish@pot>
+Subject: Notificação ao cliente - Cod. 0ZtmBEX6XLEEUXa4l
+
+________________________________
+Prezado MARIANA BUHRER SUKEVICZ,
+
+Cadastre-se e pague sua fatura utilizando pontos e ganhe descontos.
+
+Instrucoes no arquivo em anexo.
+
+Senha PDF: 123
+
+Protocolo: 862951715360272
+
+________________________________
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+<body>
+<div><br>
+</div>
+<div id="ms-outlook-mobile-signature" dir="auto">
+<div><br>
+</div>
+Obter o <a href="https://aka.ms/AAb9ysg">Outlook para Android</a></div>
+<hr style="display:inline-block;width:98%" tabindex="-1">
+<div id="divRplyFwdMsg" dir="ltr"><font face="Calibri, sans-serif" style="font-size:11pt" color="#000000"><b>From:</b> Ourocard - Cod. 471518965032738 &lt;foxgdsarmy23@gmail.com&gt;<br>
+<b>Sent:</b> Thursday, November 9, 2023 7:20:43 AM<br>
+<b>To:</b> phish@pot &lt;phish@pot&gt;<br>
+<b>Subject:</b> Notificação ao cliente - Cod. 0ZtmBEX6XLEEUXa4l</font>
+<div>&nbsp;</div>
+</div>
+<div>
+<hr>
+Prezado phish@pot,
+<p>Cadastre-se e pague sua fatura utilizando pontos e ganhe descontos.</p>
+<p>Instrucoes no arquivo em anexo. </p>
+<p>Senha PDF: 123 </p>
+<p>Protocolo: 862951715360272</p>
+<p></p>
+<hr>
+</div>
+</body>
+</html>
+

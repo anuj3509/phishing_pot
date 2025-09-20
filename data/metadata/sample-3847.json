@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Lieferhinweis: Sie waren unterwegs, aber Ihr Paket wartet!",
+    "from": "\"DPD@Lieferservice.de\", <service@stayfriends.de>",
+    "to": "phishing@pot phishing@pot",
+    "date": "Wed, 28 Aug 2024 05:18:30 -0400",
+    "message_id": "<yuvzrcv@o0gokipwd1.xt.local>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_317712794095981849\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_317712794095981849\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.co.uk/amp/tosuchapel.info/bzl6RkxtcVNTcE5jb3ExdVJJc2tla1g0V0k5RDRReFpPQWFLbHpvSUR3cy83K24yZjRpaUpiK1k0d2JjeUNUZmdKcTU2eCtlUHZ5Mng3SXFCMUVoR09XcjVpWXYzdmxJeVFTcytvT3hXRWlGbHNwR2M4NHcxUzUwZlh1RFRwMWM_",
+      "https://www.google.co.uk/amp/tosuchapel.info/RUIyNVpkZmpoREw3eUsrUWpydEU2akVqVE1IZFo5Njg4ZFo2UE9RMDU0Sk01aFRxY3dQY2cvQjAyZTI2N0psYVgwRXJ1RnptS282bnBsT3RLZFhyellqVVgxdFlsdGxCdEd0MjVGcDJaOEp3R2dIdE4zNHlDbjVRbHliV2J4d08_",
+      "www.zupimages.net/up/24/35/zigs.png",
+      "qrQRSVR.62921.102.RFQqrQRSVR.62921.102.RFQqrQRSVR.62921",
+      "qrQRSVR.62921.102.RFQqrQRSVR.62921.",
+      "qrQRSVR.62921.102.RFQqrQRSVR.62921.102.RFQqrQRSVR.62921.102.RFQqrQRSVR.",
+      "https://www.zupimages.net/up/24/35/zigs.png",
+      "www.zupimages.net/up/24/35/etk0.png",
+      "https://www.zupimages.net/up/24/35/etk0.png",
+      "https://www.google.co.uk/amp/tosuchapel.info/WEVVUXMrODJnS0Y1cXdPNUlyUXlhaXM4bXRiWWVEVEIzWnUxY2g0c1RSaHAzdStvK1d0NFpnMmpDREFITE1aTmhUaFR6R1d4MWo1Y3VlVlVyb0VMRnhLbHl5cUZtWlNuMWE2elBTcnVNb0IrTVFmQnpocWJKUlBoQVYrNlFSVWs_"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 758,
+    "html_length": 3213,
+    "has_text": true,
+    "has_html": true
+  }
+}

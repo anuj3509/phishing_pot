@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Documento Cliente wbks4@protonmail.ch Segue para Analisar e Assinar Urgente\n 765838 07:21:04",
+    "from": "DocuSign 93978 <docusigndigital9959@bouncec5.ddns.net>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Fri, 17 Nov 2023 07:35:06 -0500",
+    "message_id": "<20231117123506.CAE0417E989@bouncec5.ddns.net>",
+    "content_type": "multipart/mixed;boundary=---------------------850f7274d24d184a6c14ef80a664971a"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;boundary=---------------------850f7274d24d184a6c14ef80a664971a"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://na2.docusign.net/member/Images/email/docInvite-white.png",
+      "http://58.132.167.72.host.secureserver.net/Revisar/?Assinatura=wbks4@protonmail.ch",
+      "https://na2.docusign.net/Signing/Images/email/Email_Logo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 321,
+    "html_length": 5993,
+    "has_text": true,
+    "has_html": true
+  }
+}

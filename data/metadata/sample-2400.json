@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "your parcel has been shipment",
+    "from": "<Confirnation@gso.gensantos.ph>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Dec 2023 01:43:19 +0800",
+    "message_id": "<E1rGjYN-00064r-09@gso.gensantos.ph>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://s.id/1Z4GK"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 426,
+    "html_length": 1652,
+    "has_text": true,
+    "has_html": true
+  }
+}

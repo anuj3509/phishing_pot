@@ -1,0 +1,45 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: The accelerator program
+From: Ripple <teamripple@lucidire.com>
+To: phishing@pot
+Date: Tue, 2 Jan 2024 20:10:41 +0000
+Message_Id: <o1GOCIQhEgTkWUiHRZIzWnv54FVEP37WyA8ep904g@vultr-guest>
+Content_Type: multipart/alternative;
+ boundary="b1_o1GOCIQhEgTkWUiHRZIzWnv54FVEP37WyA8ep904g"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: multipart/alternative;
+ boundary="b1_o1GOCIQhEgTkWUiHRZIzWnv54FVEP37WyA8ep904g"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/49763d28-2e90-4e67-a617-da8ba9af9072/Screenshot_2-LIVE.png?t=1704148094
+  - https://link.mail.beehiiv.com/ls/click?upn=WF47fXKpiLPJy-2FMBScSUVb8AyvsOlR4N2XH1TORLZwSWz1VJdd2HBFDOfOrYpUESqErZdxzewScZrwUOi4BE6of6-2FDFvn4E4LxA1j3DApyWw-2Fzjs2mbA5kiC7vIVfYymBumEQZlCzr65U8OfLCI8TwyWCqjdwPsupqB3OnWFtfL8TfDYXwvTiwZfR7mCyFRaIdoxyJN5M3hARYcsb4Rf7BS4yo81WlpWxw8i2tPVfRg3Cy6Va7h6HJU7dhb3WcsA8tA4_GXaCU0PFXCVA2Agbdk-2FZf7Jl767SKNY-2Fk2zNrEHWImbNCC75mOkZsom0sVnIktgORpgmcCbkbQ1wVAEl4jh87PIQWdgp-2BPdC1d9uI-2Bktvcix1JvzeBO68JQYb47zFfYzaKriTjlEJoTEi9vh-2BlilDMBsDt4VGJjjQhQLOxm9HfsLvqS-2BsX0wdjPltZ4XZYeU10humz6gq-2Ftmv24l5ZwMaTkPAkkvaKGkFCw9oldxk3lqUhHbnWtUHOVS62ahtWNsmAY9O6Rau2nlqq1RTHvdEme-2Bj3bUSD7NNMTSAsewLcjYdoIbASQznY3qe8bvx3ZQU94ohUfemENWQ4YbkJGpJrpDuGFcyuddRrdZQeW0xjw3AQuMlj2nidMr5Ovr5SS72-2Fs0Xy1fpnJ9TL4-2F5QE-2B3l8b2ETRFP0Gm6Y8dpBXyQQa0EluX699pWcLy40SHidLW-2F1ce0KM49LY-2FhusIfqNKg-3D-3D
+
+DECODED TEXT CONTENT:
+------------------------------
+This is an HTML-only message. To view it, activate HTML in your email application.
+
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"></head>
+<body style="text-align: center;">
+    <a href="https://link.mail.beehiiv.com/ls/click?upn=WF47fXKpiLPJy-2FMBScSUVb8AyvsOlR4N2XH1TORLZwSWz1VJdd2HBFDOfOrYpUESqErZdxzewScZrwUOi4BE6of6-2FDFvn4E4LxA1j3DApyWw-2Fzjs2mbA5kiC7vIVfYymBumEQZlCzr65U8OfLCI8TwyWCqjdwPsupqB3OnWFtfL8TfDYXwvTiwZfR7mCyFRaIdoxyJN5M3hARYcsb4Rf7BS4yo81WlpWxw8i2tPVfRg3Cy6Va7h6HJU7dhb3WcsA8tA4_GXaCU0PFXCVA2Agbdk-2FZf7Jl767SKNY-2Fk2zNrEHWImbNCC75mOkZsom0sVnIktgORpgmcCbkbQ1wVAEl4jh87PIQWdgp-2BPdC1d9uI-2Bktvcix1JvzeBO68JQYb47zFfYzaKriTjlEJoTEi9vh-2BlilDMBsDt4VGJjjQhQLOxm9HfsLvqS-2BsX0wdjPltZ4XZYeU10humz6gq-2Ftmv24l5ZwMaTkPAkkvaKGkFCw9oldxk3lqUhHbnWtUHOVS62ahtWNsmAY9O6Rau2nlqq1RTHvdEme-2Bj3bUSD7NNMTSAsewLcjYdoIbASQznY3qe8bvx3ZQU94ohUfemENWQ4YbkJGpJrpDuGFcyuddRrdZQeW0xjw3AQuMlj2nidMr5Ovr5SS72-2Fs0Xy1fpnJ9TL4-2F5QE-2B3l8b2ETRFP0Gm6Y8dpBXyQQa0EluX699pWcLy40SHidLW-2F1ce0KM49LY-2FhusIfqNKg-3D-3D"> 
+        <img src="https://media.beehiiv.com/cdn-cgi/image/fit=scale-down,format=auto,onerror=redirect,quality=80/uploads/asset/file/49763d28-2e90-4e67-a617-da8ba9af9072/Screenshot_2-LIVE.png?t=1704148094" alt=" "> 
+    </a>
+</body>
+ 
+</html>
+
+

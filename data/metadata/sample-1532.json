@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Holding XRP pays out - Register and claim your share",
+    "from": "Ripple News <xrp@alasala.edu.sa>",
+    "to": "phishing@pot",
+    "date": "Fri, 06 Oct 2023 19:03:52 +0000 (UTC)",
+    "message_id": "<40sPvF0iSPytnBjhuFVWYg@geopod-ismtpd-5>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://u36430019.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2F66g9JUg0rgjBpTwBN0XzubXO6PAcwhtDc-2FHtflA-2FRvK43oz8r6PzMZc7u0mhDS7kIBueMKwDnJp9BqPwwrc4RD8B5E4slF8VL2WyRh2BNdUv1CE-2B52iV0HdRGM-2BVUD9Ntd3QSmvj0ZOZnRf2ROGU5KmR8knDnOq932ruYOazxJ5DXnG1F-2FUsvVFz0AZll-2FiY-3D",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://i.imgur.com/b6RFuaL.png",
+      "https://emailserv61-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "table.mj-full-width-mobile",
+      "https://emailserv61-xrp.net/726f647269676f2d662d7040686f746d61696c2e636f6d"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3755,
+    "html_length": 32009,
+    "has_text": true,
+    "has_html": true
+  }
+}

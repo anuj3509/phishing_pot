@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Action required] Verify your info to continue using your account #72507542",
+    "from": "\"Verify ID\" <verification-knbeavfd-gjlpms-jw2k0thtlzl-753255@glubeducare.com.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 05 Feb 2023 13:52:25 -0800",
+    "message_id": "<202013101429.7r77p8oqclohsnj@emailsend.staffline.jobs>",
+    "content_type": "multipart/alternative; boundary=\"alt-f15622523da4f45a4773829647be7e19\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "text/html; charset=utf-8",
+    "content_type": "multipart/alternative; boundary=\"alt-f15622523da4f45a4773829647be7e19\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://geni.us/d46d"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2941,
+    "html_length": 9865,
+    "has_text": true,
+    "has_html": true
+  }
+}

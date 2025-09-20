@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "You have won an Lenovo Thinkpad",
+    "from": "Best Buy - Thank You!     ,_<uazaw@ug7n15uql1.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 26 Oct 2023 05:55:41 +0000",
+    "message_id": "\r\n <ad61d99a-6eab-4916-9c1d-64cf3b52d749@MW2NAM04FT020.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "i.imgur.com/HkyLwrO.jpg",
+      "https://t.co/cG9pgkJHfV",
+      "https://i.imgur.com/HkyLwrO.jpg",
+      "http://vertuoldmuneted.com/track/o46997rYZJd22448528iAlY49413GDc67743eSzk3223",
+      "https://t.co/NMHrDGal3O",
+      "http://dtherhproblem.us/su46997MYeAM22448528BkFT49413CWI67743vEYw3223"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 331,
+    "html_length": 8771,
+    "has_text": true,
+    "has_html": true
+  }
+}

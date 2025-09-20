@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "[Action required] Verify your identity to continue using your account #13476633",
+    "from": "\"Verify ID\" <no_reply-st8lrw-cuhoqfig-537027-uv9qs0qjs4k@magicdigital.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 06 Feb 2023 09:50:04 -0800",
+    "message_id": "<202013101429.7r77p8oqclohsnj@emailsend.staffline.jobs>",
+    "content_type": "multipart/alternative; boundary=\"alt-1e896f17c724bee60d8c298e94bbbd9d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "text/html; charset=utf-8",
+    "content_type": "multipart/alternative; boundary=\"alt-1e896f17c724bee60d8c298e94bbbd9d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://geni.us/d54c"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2929,
+    "html_length": 9853,
+    "has_text": true,
+    "has_html": true
+  }
+}

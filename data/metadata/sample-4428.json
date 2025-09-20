@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Olá, sua encomenda foi taxada!",
+    "from": "Correios <naoresponder@correios>",
+    "to": "contato@correios.com.br",
+    "date": "Wed, 20 Nov 2024 01:39:07 +0000",
+    "message_id": "<fb9707e4-51fa-fbf1-beec-cb0010a03e25@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "K.an,",
+      "https://julio-de-livs.icu",
+      "mgcarneiroufu.br"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 49623,
+    "html_length": 90616,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Praise the lord! ",
+    "from": "Mithchell <mithchellan@gmail.com>",
+    "to": "phishing@pot",
+    "date": "26 Nov 2023 07:10:59 +0100",
+    "message_id": "<20231126071059.2D7014B109DA1EF0@gmail.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 236,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

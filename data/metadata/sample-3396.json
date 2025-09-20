@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "Levering mislukt: bestel 3788546-03",
+    "from": "Fedex, Fedex, <noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 26 Jun 2024 12:39:31 +0000",
+    "message_id": "<THJLBYDHFKIHHQ8AU9KYO1L@team.mobile.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5RUnuZ25505Asba976xwibzuaeod14302KQNXCBOAXPJNFQU2FHOW5037Z11",
+      "div.kl-row.colstack",
+      "https://leaadpersons.com/biz/DE-FEDEXTT.png",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "http://www.w3.org/1999/xhtml",
+      "td.kl-img-base-auto-width",
+      "div.mobile-only",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6RUnuZ25505Asba976xwibzuaeod14302KQNXCBOAXPJNFQU2FHOW5037Z11",
+      "td.mobile-only",
+      "table.mobile-only",
+      "div.kl-column",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4RUnuZ25505Asba976xwibzuaeod14302KQNXCBOAXPJNFQU2FHOW5037Z11",
+      "content-padding.last",
+      "leaadpersons.com/biz/DE-FEDEXTT.png",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4980,
+    "html_length": 13576,
+    "has_text": true,
+    "has_html": true
+  }
+}

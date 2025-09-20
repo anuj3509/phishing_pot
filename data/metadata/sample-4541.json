@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "3466087",
+    "from": "Bradesco S/A  <Recompensas@m5143>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Dec 2024 07:34:09 +0000 (UTC)",
+    "message_id": "<20241213073409.D3BEA482BC@ubuntu-s-1vcpu-512mb-10gb-nyc1-10>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://online.atendimentodigital-cliente.pro/bradesco/.",
+      "https://online.atendimentodigital-cliente.pro/bradesco/",
+      "https://ine95l4am7-secondary.z5.web.core.windows.net/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 828,
+    "html_length": 2712,
+    "has_text": true,
+    "has_html": true
+  }
+}

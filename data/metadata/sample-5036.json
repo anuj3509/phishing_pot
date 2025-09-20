@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "���� Exklusiv: 500��� Futterhaus-Gutschein geschenkt!",
+    "from": "Futterhaus <phishing@pot_Nutella>, Futterhaus <service@stayfriends.de>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 22 Feb 2025 13:05:05 +0100",
+    "message_id": "<HKV9GtM.0.0.HKV9GtM.9.HKV9GtM@stayfriends.de>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://clientassistance.de/RWFqcFJPM0oxbXMrSGVPbHQ0Q2JZWS9NRkJVdWF5REFwcE5YNTBXMFFhczM5dDZxT3c3VGRuZ1JINjdBNWlNL0FyZ0hWS21CV21xZjMvaHpSN1lZWWc9PQ__",
+      "www.zupimages.net/up/25/08/0rdr.jpg",
+      "http://getclients.us/TE0yZ3VqTk1iTzZpazYzZTVGeDNGUFhvZkdIaWhCK0g5TEYrMXl0ZThEQ2k3OW1YTnMvVnlBZHpjcmFqUjJtN2tRb0lCTHFUT2xjUXY0YmlCc3RKS1E9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/25/08/0rdr.jpg",
+      "https://lifeinsureand.com/?a=7790&amp;oc=23101&amp;c=60726&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1540,
+    "html_length": 8886,
+    "has_text": true,
+    "has_html": true
+  }
+}

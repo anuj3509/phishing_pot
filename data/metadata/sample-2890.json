@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "ITA lançou 4 cursos online gratuitos sem processo seletivo",
+    "from": "Veduca <contato@veduca.org>",
+    "to": "phishing@pot",
+    "date": "Sun, 18 Feb 2024 17:38:15 +0000",
+    "message_id": "<4umbn5kwl9nu.PhcZARxe3vrGdbDBhhQ6KQ2@tracking.veduca.org>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"=-eZCfNGrWxAT+P8LNfNsIbSvl8Axq5KgO/XWKzQ==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"=-eZCfNGrWxAT+P8LNfNsIbSvl8Axq5KgO/XWKzQ==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://tracking.veduca.org/tracking/botclick?msgid=PhcZARxe3vrGdbDBhhQ6KQ2&c=1759217717652595597",
+      "http://tracking.veduca.org/tracking/unsubscribe?d=ualXCVsD-6PrW0x0UDaPyq7vY8YGwZ25h8uKZZoFYWqrhDqxA9J3Ok3HjLq0yCfKVRmbQ013cLQbhtDNrSZ6FI9j3xY_OoH7d_bWATHuHZti0",
+      "http://tracking.veduca.org/tracking/click?d=IjsB9y0tDsmZut-2b0Uh4_kS-7se9NkM1bohnv809wYbVUXXS-KcF9NZsi1kTwVeB0nEkMLscKPD2eX5FnDa7UowUCcCsoz-FsFXfSzMrxaRLmDlts5KYuaw-syEKI-Hy3sIbprSoBDBbK3A20AB_8to4VsPCBqTeXIkPAqZGpog1g6KwcfSDW11wFJVA0rt4MOUMlJEXhfRXWegmM3z4Lk1",
+      "http://tracking.veduca.org/tracking/open?msgid=PhcZARxe3vrGdbDBhhQ6KQ2&amp;c=1759217717652595597",
+      "http://tracking.veduca.org/tracking/click?d=jOBynDMt2EIv8qEHORi2mtG5kff3V1pYzxESQca6YXmfdOFG9t3gYTw4rhWIdz-VIWsaUULnn7k_LgI_RJOkQZHhZL5YSmU8AHE5zR1SGGROIL3Ic_lEC_GR5mlpmtqISFyS_gbsMsOOM2BThVsVemxW23Wd2zRYq2-Mset9P9xC0",
+      "www.estagioonline.com",
+      "http://tracking.veduca.org/tracking/botclick?msgid=PhcZARxe3vrGdbDBhhQ6KQ2&amp;c=1759217717652595597"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1299,
+    "html_length": 2113,
+    "has_text": true,
+    "has_html": true
+  }
+}

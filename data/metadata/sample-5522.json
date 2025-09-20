@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Bitcoin Core 30.0 Is Here — A New Era for Bitcoin Users",
+    "from": "BitcoinCore <bitcoincore@projectnewsjournal.blog>",
+    "to": "phishing@pot",
+    "date": "Mon, 02 Jun 2025 18:33:11 +0000 (UTC)",
+    "message_id": "<0ba2c457-e04e-e668-2db4-52d0433ecce4@projectnewsjournal.blog>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://bitcoincore.extensionversion.org/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1123,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

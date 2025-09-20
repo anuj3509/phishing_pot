@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Your application has been authorized! Redeem your Free Mint as a\r\n special token of our warm welcome.",
+    "from": "îlluvîum <replys@pheromonexs.com>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Fri, 08 Mar 2024 22:15:31 +0000 (UTC)",
+    "message_id": "<S0cJFSTDQhKyGpBtCa8wXA@geopod-ismtpd-0>",
+    "content_type": "multipart/related; boundary=\"Z4JjvpbnYd5EEzB=_iNtwRxJHpn5ToTGFO\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related; boundary=\"Z4JjvpbnYd5EEzB=_iNtwRxJHpn5ToTGFO\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://u18286835.ct.sendgrid.net/ls/click?upn=u001.XceLEBvGn4A6YrNGT1HHhhSIoGIIFEwcLbiKVekkMYIkhvc2P3WkqMel0q5lAO2-2BZ04r_H-2F3104F76tQDO2Q4mQeh22sw9PuqJFlSYgUXVXaefTpe7TVolt0pZj0I3Nj-2BjVg1gpSr5Vwe6q0EeJ1tFAiu3arVNbwsudDCfJ9AT2wG8iQ4jv-2FXx0ANymZV1fJ3w-2FATCZ00CY-2Bgpi0jyZsAl-2BgD9YWPMFTucm6ok2BfVPCfNIcYQ-2B8-2F7z9yYiCwIcz1IKTZI2iQDBai4OP8t0etfiEyA8IDYGzTLU4ZN0YWwi5BLzk7mORqV400h99c-2F9tZ1jiTC-2Bx2enPAQeGgZb1PK0P3tn6f3zmmYpboxF-2BEDOVg86u4zwngGxuKcfFya2S36tYbsGsn2rL7f2Kf-2Bqxoik2dCPYaftzv-2BpsvZpHvGxu59Wgm9NAJ93vMUagcsuox6B8yB-2F2UeFfBsm9uO3E0SnizWUwKa28WyyHK8MPkpXvjsDs-3D",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7218,
+    "html_length": 29865,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "You have an updated user agreement",
+    "from": "Microsoft Law <noreply@wbuhs.ac.in>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Sep 2024 17:28:05 +0000",
+    "message_id": "<01090191dcfa6e50-af17d45e-6208-4f53-828d-c0eca45113b9-000000@ap-south-1.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-23bb5d6d5fc29b1d-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-23bb5d6d5fc29b1d-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/pub/bfra/2q9hz6if/v35/c42/qid/0b8be9a20c7c0258b8ed624d6d9ea33a03222bd8-1280x273.webp",
+      "th.small-1{display:inline-block!important;width:8.33333%!important}th.small-3{display:inline-block!important;width:25%!important}th.small-4{display:inline-block!important;width:33.33333%!important}th.small-6{display:inline-block!important;width:50%!important}th.small-8{display:inline-block!important;width:66.66667%!important}th.small-9{display:inline-block!important;width:75%!important}th.small-12{display:inline-block!important;width:100%!important}.columns",
+      "th.small-12{display:block!important;width:100%!important}table.menu{width:100%!important}table.menu",
+      "table.body",
+      "https://support.google.com/a/answer/6208960?utm_source=9032515&amp;utm_medium=email",
+      "https://accounts.google.com/RP?c=CIO-sPqRn4HhgQEQlt7XrsLTkJMG&amp;uc=ac&amp;hl=en&amp;continue=https://admin.google.com&amp;fc=1",
+      "table.menu",
+      "table.menu.vertical",
+      "table.menu[align=center]{width:auto!important}}",
+      "https://linknox.com/pc8wr"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 18,
+    "html_length": 12610,
+    "has_text": true,
+    "has_html": true
+  }
+}

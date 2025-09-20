@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Wir ben��tigen Ihre Best��tigung, um Ihre Bestellung zu verschicken!",
+    "from": "UPS, UPS, <newsletter@mail.toom.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 03 Jul 2024 13:22:57 +0000",
+    "message_id": "<DCPQCIIYKKWMVQ8AU9KYO1L@mail.toom.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5suOsd25960gLEY7kjjzvbywtt14302PDPCKGOJYJTOLUV2QHOL5184A11"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 671,
+    "html_length": 7498,
+    "has_text": true,
+    "has_html": true
+  }
+}

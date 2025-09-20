@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Beneficio prime autorizado 34278",
+    "from": "\"Sac \" <atendimento@prime-beneficioautorizado.com.br >",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Aug 2024 03:40:32 +0000",
+    "message_id": "<1724816373.atendimento@prime-beneficioautorizado.com.br >",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imgs.via.com.br/55050394/2g.jpg?imwidth=292",
+      "https://images-americanas.b2w.io/produtos/01/00/img/4645251/4/4645251413G1.jpg",
+      "https://www.bradesco.com.br/livelo/resgatar/Geladeira",
+      "https://a-static.mlcdn.com.br/1500x1500/smart-tv-55-4k-qled-samsung-55q70a-wi-fi-som-em-movimento-virtual-processador-ia-hdr/magazineluiza/193442900/c51c2dbddd1415bde1de083989428c86.jpg",
+      "https://play-lh.googleusercontent.com/Xwu_aVWvEzhB4vvkFNvc3yNzT0m-kljXQbYyq6pAyJICYo2Lvc__Y39HdnQetGBGca0",
+      "https://images-americanas.b2w.io/produtos/01/00/img/5881867/0/5881867050_1SZ.jpg",
+      "https://www.bradesco.com.br/livelo/resgatar/Smart",
+      "https://www.youtube.com-watchv_2LVtEoQA8Qo%26t%3D32598s_watcht@cadastro.murbys.com/contato/?cliente=rodrigo-f-p@hotmail.com",
+      "https://www.bradesco.com.br/livelo/resgatar/IPhone",
+      "https://www.bradesco.com.br/livelo/resgatar/Samsung"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1734,
+    "html_length": 15825,
+    "has_text": true,
+    "has_html": true
+  }
+}

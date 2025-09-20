@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "You’re Eligible for an stETH Airdrop– Claim Up to 3 ETH Now!",
+    "from": "Lido <noreply@info.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Jun 2025 04:24:50 +0000",
+    "message_id": "<20250618042449.21B5C15478DABF7F@info.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_000_0012_2DB95818.2897C012\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"----=_NextPart_000_0012_2DB95818.2897C012\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here",
+      "verify your account"
+    ],
+    "urls": [
+      "https://lido.fi/unsubscribe",
+      "https://lido-reward.s3.eu-north-1.amazonaws.com/recovery.html",
+      "https://u49639302.ct.sendgrid.net/ls/click?upn=u001.-2FzMV2ri6IA-2F42PAH0Bcx38Jrm5whFOvomcHp6IPvClvuyGJqzjIVLceggleYHvNnMwc5V-2F95GA7-2FCBkaJngSjctIoJIe6oBriCO7LK-2FBTEU-3DzBsv_LpuaFjwIs-2B0jZisn78UyPt6pk2V55MruSfB04A4EQ-2F0xxyzsramw6ih3p9KXRg-2BZZhDeiT-2B47jJLJKy0snx2w4f4ieU9dJsesvVHrBUHrU27xLbEyOl3-2BVe5bhFjPx9NwvZ9DJRrIPQ4fjqil7NscbHOlNnWFoctc9g7XOqE8AomVChqSX2cYixN5C9ZLHfqs-2FOQSO5L4rUdGOF65bKuxA-3D-3D",
+      "https://support.ledger.com",
+      "https://twitter.com/lidofinance",
+      "https://t.me/lidofinance",
+      "https://u7686547.ct.sendgrid.net/wf/unsubscribe?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoWiOGbCSoM0-2FUIMQ8h2lBsysDo3iGCtpfSrdRkouSf1gAVwGXbA7wTtczsrSTJvR1WSJa28yK38AXQmCwEIuv-2BkWy-2FqPW-2FDJQRYqyEtYe0rEUfQkXSCvg-2FNrrAxsKVLTABX1HdJNaEf1pXVQEIXydpCKzItblhoUgpWuvX3L2IFbHcHagDXitRI2PlI7FYQh-2FQ-3D",
+      "https://help.lido.fi",
+      "https://miro.medium.com/v2/resize:fit:1400/1*RIKs3_pC_trU1t3uYTsVNw.png",
+      "https://discord.com/invite/lidofinance",
+      "https://secure.ledger.com/unsubscribe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1348,
+    "html_length": 5766,
+    "has_text": true,
+    "has_html": true
+  }
+}

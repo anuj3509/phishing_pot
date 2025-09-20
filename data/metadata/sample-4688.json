@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "You have submitted [Contact Us] form on Wilmington Prints website",
+    "from": "Wilmington Prints <customerservice@wilmingtonprints.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 26 Jan 2025 17:55:54 +0000",
+    "message_id": "<20250126175554.4156.qmail@cloudhost-562322.us-midwest-1.nxcli.net>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wilmingtonprints.com/pub/media/email/logo/stores/1/logo_1.png",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com",
+      "https://wilmingtonprints.com/",
+      "https://t.me/+_KYbd1SWj1kzNDZh",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7174,
+    "html_length": 11757,
+    "has_text": true,
+    "has_html": true
+  }
+}

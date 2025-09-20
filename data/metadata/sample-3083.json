@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Discover Lido V2 Platform",
+    "from": "Team Lido <supnewday@uniquemanagement.ae>",
+    "to": "phishing@pot",
+    "date": "Sun, 17 Mar 2024 09:58:41 +0000",
+    "message_id": "<8AR42KSJKMU4.Y5VDXMQ5CAXB1@uniquemanagement.ae>",
+    "content_type": "multipart/alternative; boundary=\"=-X63kA4Cls7tTjJTLc5j+aA==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-X63kA4Cls7tTjJTLc5j+aA==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://imgtr.ee/images/2024/03/11/80c1ca3cd70fb1306a2d601bb4f16893.png",
+      "https://google.com/amp/s/mailserver.promo",
+      "platform.First",
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "http://www.w3.org/1999/xhtml",
+      "a.es-button,",
+      "button.es-button",
+      "tr.es-desk-hidden,",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "celebration.The",
+      "table.es-desk-hidden",
+      "gifts.We"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 452,
+    "html_length": 14167,
+    "has_text": true,
+    "has_html": true
+  }
+}

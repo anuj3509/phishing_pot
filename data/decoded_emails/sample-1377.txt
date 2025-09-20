@@ -1,0 +1,78 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Create a password for Kandypens
+From: Tether Cashback <support@kandypens.com>
+To: phishing@pot
+Date: Mon, 25 Sep 2023 16:40:21 +0000
+Message_Id: <6511b7f584d_3f468c83854ed_sprut@zendesk.com>
+Content_Type: multipart/alternative;
+ boundary="--==_mimepart_6511b7f591a3_3f468c83855d0";
+ charset=utf-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: multipart/alternative;
+ boundary="--==_mimepart_6511b7f591a3_3f468c83855d0";
+ charset=utf-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://kandypens.zendesk.com/verification/email/U5QRkq41CtTtZHRCJ4OxtayWTzbIX0B8
+  - https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=Kandypens&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification
+
+DECODED TEXT CONTENT:
+------------------------------
+Welcome to Kandypens. Please click the link below to create a password and login.
+
+https://kandypens.zendesk.com/verification/email/U5QRkq41CtTtZHRCJ4OxtayWTzbIX0B8
+
+
+If you didn’t sign up to Kandypens using this email address, you can safely ignore this email.
+
+--------------------------------
+This email is a service from Kandypens.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <style type="text/css">
+    table td {
+      border-collapse: collapse;
+    }
+    body[dir=rtl] .directional_text_wrapper { direction: rtl; unicode-bidi: embed; }
+
+  </style>
+
+          <style type="text/css">
+            @media only screen and (max-width: 768px) {
+              .simplified-email-footer .namecard {
+                display: block;
+                min-width: 100%;
+                padding: 0 0 16px 0; }
+
+              .simplified-email-footer .content {
+                padding: 16px; }
+            }
+          </style>
+        </head>
+<body style="width: 100%!important; margin: 0; padding: 0;">
+  <div style="padding: 10px ; line-height: 18px; font-family: 'Lucida Grande',Verdana,Arial,sans-serif; font-size: 12px; color:#444444;">
+    <div style="color: #b5b5b5;"></div>
+    Welcome to Kandypens. Please click the link below to create a password and login.
+<p><a href="https://kandypens.zendesk.com/verification/email/U5QRkq41CtTtZHRCJ4OxtayWTzbIX0B8">Create a password</a></p>
+If you didn’t sign up to Kandypens using this email address, you can safely ignore this email.
+    <div style="color: #aaaaaa; margin: 10px 0 14px 0; padding-top: 10px; border-top: 1px solid #eeeeee;">
+     <span style="color: #49545c;">This email is a service from Kandypens.</span> <span style="color: #49545c;">Delivered by <a href="https://www.zendesk.com/support/?utm_campaign=text&amp;utm_content=Kandypens&amp;utm_medium=poweredbyzendesk&amp;utm_source=email-notification" style="color:black;" target="_blank">Zendesk</a></span>
+    </div>
+  </div>
+</body>
+</html>
+

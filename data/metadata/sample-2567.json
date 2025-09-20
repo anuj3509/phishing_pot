@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Warum Bitcoins genau wie Gold sind - Jetzt rein",
+    "from": "Bitcoin, <service@stayfriends.de.>, Office, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 12 Jan 2024 18:16:56 +0100",
+    "message_id": "<vr3suz1.1hv4b.wok.wok@kpjrreaqcusdfsn.zlj>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#cl/5259_md/4049/24413/1258/143/149762",
+      "http://spicypingvin.com/tracking/596dae565fa39a39a9c3f869?src=5729b5abebf831fa4977efc1&s1=&s2=&s3=&s4=&s5=&p=5a2fc8cc8f91795cf6865a25",
+      "http://plumbum.online/op/5259_md/4049/24413/1258/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1404605/515d16s1d5c16s5d1c65sd1515d11c.shtml#oop/5259_md/4049/24413/1258/143/149762",
+      "https://s3-eu-central-1.amazonaws.com/igamingcloudstr/images/bctr-bg.jpg",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3707,
+    "html_length": 13609,
+    "has_text": true,
+    "has_html": true
+  }
+}

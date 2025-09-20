@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Rodrigo tem (1) nova cotação esperando você",
+    "from": "Cotar Saúde <cts@e.cotar-saude.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 5 Dec 2023 19:23:46 +0000",
+    "message_id": "<0100018c3b6fb75d-651cafa0-49f4-4275-98e2-30f9df3f6ca1-000000@email.amazonses.com>",
+    "content_type": "Multipart/alternative; boundary=\"0384A7EC_525675CF_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"0384A7EC_525675CF_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://planos.cotar-saude.com/cadastro/logo.png",
+      "e.cotar-saude.com?subject=Sair&amp;body=Excluir%20meu%20e-mail%20",
+      "hotmail.com",
+      "https://go.cotar-saude.com/app-b/lnk.php?id=312C372C726F647269676F2D662D7040686F746D61696C2E636F6D2C31303339"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 764,
+    "html_length": 4056,
+    "has_text": true,
+    "has_html": true
+  }
+}

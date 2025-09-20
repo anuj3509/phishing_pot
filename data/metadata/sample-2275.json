@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Voce tem Valores disponiveis Eles expiram em poucas horas ",
+    "from": "Bradesco recompensas <599359935993599359935993599359935993@5993599359935993>",
+    "to": "phishing@pot",
+    "date": "Mon, 18 Dec 2023 06:54:05 +0000 (UTC)",
+    "message_id": "<20231218071542.74AC55A226@ubuntu-s-1vcpu-512mb-10gb-sfo3-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://170.140.167.72.host.secureserver.net/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1057,
+    "html_length": 8034,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso em sua conta. Protocolo: 260379265",
+    "from": "Mercado Pago  <naoresponder@mercadopago.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 17 Feb 2023 08:08:12 +0000 (UTC)",
+    "message_id": "<20230217080812.57753207C1@localhost.members.linode.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://australia-southeast1-pelagic-cat-364619.cloudfunctions.net/mp2",
+      "hotmail.com",
+      "https://ci6.googleusercontent.com/proxy/sZeyTTjxRz9_LZ91fSBvXSQBi79rJChz003h_zUo55I18foFZ9Qz38Y-Jz8DExS76FTZ5lfnnIXJz2JB3sU_zFDuGEmnbPkLN_rdmXGz1fHwKuYw03tCTEh0vF7BvPiznprJh1wIBrnBiqDgVg=s0-d-e1-ft#https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/ic_logomp@2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 344,
+    "html_length": 11599,
+    "has_text": true,
+    "has_html": true
+  }
+}

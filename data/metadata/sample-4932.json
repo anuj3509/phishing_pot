@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot,  Wir haben versucht, Sie zu erreichen, bitte antworten Sie!",
+    "from": "\"Verfolgen Sie Ihr Paket\" <Department-client-n18246@gtiunifeso.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 28 Feb 2025 15:11:15 +0000",
+    "message_id": "<e2a3a381-56a2-4d3e-b375-0d943b61ff87@CH3PEPF00000013.namprd21.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/MAdeOMD.png",
+      "i.imgur.com/MAdeOMD.png",
+      "i.imgur.com/222bJk3.png",
+      "https://i.imgur.com/6y54nyR.jpeg",
+      "https://i.imgur.com/222bJk3.png",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "http://www.w3.org/1999/xhtml",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://urly.fi/3LCU?pPnWWQKXoHmTnev5hX6WWsoY5Jz97C9vRan0lMiO1pSR9hGZiWZfzldp1VHY2VJNjQ8BSOUWe8WcG6UC5xrEWF",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7076,
+    "html_length": 22357,
+    "has_text": true,
+    "has_html": true
+  }
+}

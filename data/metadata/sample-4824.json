@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ihr Rituals Valentinspaket ist unterwegs!",
+    "from": "\"Rituals Valentine Package Gewinner\" <Department-client-n80672@alhayatschool.mail.onmicrosoft.com>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 29 Jan 2025 23:44:24 +0000",
+    "message_id": "<51cc54b2-bc55-4db4-9b22-89593fb0eb05@DU2PEPF0001E9C1.eurprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.microsoft.com/en-GB/servicesagreement/",
+      "cdn.cookielaw.org/logos/85a4be22-404c-4260-be94-fd0c7ab254ee/019096ed-c146-7dda-a531-bae909be4dc8/b6e8767c-0ab0-4833-bf0e-c8af6d57fbbe/logo-rituals-removebg-preview.png",
+      "https://cdn.cookielaw.org/logos/85a4be22-404c-4260-be94-fd0c7ab254ee/019096ed-c146-7dda-a531-bae909be4dc8/b6e8767c-0ab0-4833-bf0e-c8af6d57fbbe/logo-rituals-removebg-preview.png",
+      "https://i.imghippo.com/files/KdSj4939ic.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://urlz.fr/tX2M?0N5a6CIeZS2gopXG235zGQUWjPqKLtZcgYLuTsLMIaDVexrvaUUbNRjLUInq7gsllm1gacmNdt7XVcKD2V8rbc",
+      "i.imghippo.com/files/DfVD7340PGg.png",
+      "https://passwordreset.microsoftonline.com/images/1_MSLogo.png",
+      "https://mucp.api.account.microsoft.com/m/v2/v?d=AIAACAWUUKUGRXJPICVJ7P3TEWLUSN62BPQHAMNIJ4TS7WBL3HDEYGU56KNJJUJ52QYMWDALN2RFQVQATCCL44CULSLCKMFVXY53M5TB5CTGMUUOICY2OPKOLPV55BTZ6OZLMJIP3MFVHTM54LVNORNWYVUKZBQ&i=AIAADSWK5JKOJY3B3LNOHOBCLJOHE62HNS2IWEFYBLDCUIBRXXSILM62RIPG3MUWVI3UJHMUZ3M6YCQPHQVFN6VR4QSNQTHFJQN7XNMPXMXFXSKTJKMRUBVOU3RBCVS4EI3YWQEGGQLSKDG2N257VU6IG3BK7G24U2223W5M3G53E6IUVOKCSLI3NGH74YKV4DPOIYUQTPR5SKYZGORQNYRV4PS6WNAP65SKLGVJFQLJU6U4MLSMHJZP35AQ7FHWM7GDQMUBYGJUB75OUG3E7FYH4HWPQ7Q",
+      "https://i.imghippo.com/files/DfVD7340PGg.png",
+      "https://privacy.microsoft.com/en-GB/privacystatement"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7138,
+    "html_length": 22356,
+    "has_text": true,
+    "has_html": true
+  }
+}

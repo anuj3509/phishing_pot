@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, herzlichen Gl��ckwunsch! Sie wurden ausgew��hlt!",
+    "from": "Deutsche Bahn <phishing@pot>, Deutsche Bahn <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Dec 2024 09:02:14 +0000",
+    "message_id": "<FyA0G3X.0.0.FyA0G3X.9.FyA0G3X@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.zupimages.net/up/24/02/f26q.png",
+      "http://nyooase.clientmagic.de/R2g0b0ZtWXN6dElpK0FZbGtpT2hwRUNlWTU5N2V1dEdhK2dDLzRkTUJwbDErQVVjM3dtWHJIdEdNOUFVZkZuNEozVXRiMU94SnVXbjFUeVdKRTRnM1E9PQ__",
+      "http://clientmagic.de/bFpkS2pGY3pyeDJIR0xseWo4dW03U2c3bWVJSjFVTlJHTEpOaHdranVtZEJJcVJZVktMeTFiUDVYS09kdGZtRkV6OEhCYUMwZXpYQXRyYUVET1l4Unc9PQ__",
+      "table.icons-inner",
+      "https://whispeechless.com/?a=8616&oc=21925&c=58105&m=3&s1=",
+      "https://homerchandising.com/?a=8616&amp;oc=21925&amp;c=58106&amp;m=3&amp;s1=",
+      "https://www.zupimages.net/up/24/02/f26q.png",
+      "https://whispeechless.com/?a=8616&amp;oc=21925&amp;c=58105&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1402,
+    "html_length": 12475,
+    "has_text": true,
+    "has_html": true
+  }
+}

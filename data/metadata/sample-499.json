@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Fwd:",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "Johnnatan Doe <phish.me.again@gmail.com>",
+    "date": "Mon, 20 Mar 2023 12:36:21 -0500",
+    "message_id": "<CAHq_4Wsj1T=yAeKVGyNYeaBOOMAuUpwNX8Hyr2yGRi2igFFhdA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000035184e05f7585e6e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000035184e05f7585e6e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "uol.com.br",
+      "stella.lima@clariant.com",
+      "https://rebrand.ly/1599e7",
+      "telles.ls@pg.com",
+      "gmail.com",
+      "aol.com",
+      "yahoo.com.br",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 461,
+    "html_length": 1202,
+    "has_text": true,
+    "has_html": true
+  }
+}

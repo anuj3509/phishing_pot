@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Ação Necessária: Pagamento Pendente para Liberação da Sua Encomenda nos Correios",
+    "from": "Correios <naoresponder@correios>",
+    "to": "phishing@pot",
+    "date": "Fri, 18 Oct 2024 06:40:56 +0000",
+    "message_id": "<6ab5c761-0e1b-50a9-789f-c3e6d6e47be1@correios>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastreio.correios-encomendas.com/?mailID=0196cdb8-7812-4b29-a1a7-d9fa395f0d61",
+      "httpwww.ifoapplestore.comthe_stores.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 52715,
+    "html_length": 92965,
+    "has_text": true,
+    "has_html": true
+  }
+}

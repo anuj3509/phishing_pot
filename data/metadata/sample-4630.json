@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Evite problemas com sua CNH! Regularize o pagamento da multa pendente para evitar a suspensão. - ID SO1HABZXY2",
+    "from": "- Atendimento Detran <14186@%detran.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 27 Dec 2024 03:29:30 +0000",
+    "message_id": "<450a388892f99e7f79471138fae9ead3@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_450a388892f99e7f79471138fae9ead3\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_450a388892f99e7f79471138fae9ead3\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Gov.br",
+      "https://hotm.art/validar-CNH"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 32,
+    "html_length": 1977,
+    "has_text": true,
+    "has_html": true
+  }
+}

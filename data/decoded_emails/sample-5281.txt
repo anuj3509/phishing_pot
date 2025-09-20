@@ -1,0 +1,92 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Important: New Device Wallet Restoration Detected
+From: Ledger Support <noreply@ledger-ap.com>
+To: phishing@pot
+Date: Fri, 2 May 2025 23:40:34 +0000
+Message_Id: <01020196935f8c46-23f4d34b-2417-4757-9cdf-ed5efc7dd8cc-000000@eu-west-1.amazonses.com>
+Content_Type: text/html;
+	charset="utf-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html;
+	charset="utf-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: immediately, verify, confirm
+URLs found:
+  - https://ledger-ap.com/check/
+  - https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png
+
+DECODED TEXT CONTENT:
+------------------------------
+Wallet Verification Wallet Verification Your wallet has been restored on a new device. If you initiated this action, no further steps are needed, and your wallet is secure. If not, please verify it immediately. Verify Your Wallet: Visit the verification page: https://ledger-ap.com/check/ Confirm the restoration: Ensure you recognize the device that restored your wallet. If not, take action to secure your wallet. If you didn’t request this action, please take a moment to check your device list. Verify © 2025 Ledger SAS. 106 rue du Temple, 75003 Paris, France.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallet Verification</title>
+  </head>
+  <body style="font-family: Arial, sans-serif; background-color: #f5f5f5; color: #333; margin: 0; padding: 20px 0; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;">
+
+    <table style="max-width: 600px; margin: 0 auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05); border: 1px solid #ddd;">
+      <tr>
+        <td>
+          <!-- Header -->
+          <table width="100%" style="background: #000; padding: 25px; text-align: center;">
+            <tr>
+              <td align="center">
+                <img alt="ledger" src="https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png" style="width: 160px;" width="160" height="90">
+              </td>
+            </tr>
+          </table>
+          <table width="100%" style="padding: 30px 25px; line-height: 1.6;">
+            <tr>
+              <td>
+                <h1 style="font-size: 19px; margin: 0 0 20px; color: #222;">Wallet Verification</h1>
+                
+                <p style="margin: 15px 0;">Your wallet has been restored on a new device.</p>
+                
+                <p style="margin: 15px 0;">If you initiated this action, no further steps are needed, and your wallet is secure. If not, please verify it immediately.</p>
+
+                <h2 style="font-size: 19px; margin: 25px 0 15px; color: #222;">Verify Your Wallet:</h2>
+                <ol style="margin: 15px 0; padding-left: 20px;">
+                  <li style="margin-bottom: 12px;">Visit the verification page: <a href="https://ledger-ap.com/check/" style="color: #333; text-decoration: none;">https://ledger-ap.com/check/</a></li>
+                  <li style="margin-bottom: 12px;">Confirm the restoration: Ensure you recognize the device that restored your wallet. If not, take action to secure your wallet.</li>
+                </ol>
+
+                <div style="background: #fff8eb; border-left: 3px solid #ffc107; padding: 10px; margin: 15px 0;">
+                  <p style="margin: 0; color: #856404;font-size:14px"> If you didn’t request this action, please take a moment to check your device list.</p>
+                </div>
+
+                <div style="text-align: center; margin: 20px 0;">
+                  <a href="https://ledger-ap.com/check/" style="display: inline-block; background: #000; color: #fff; padding: 12px 30px; border-radius: 5px; text-decoration: none; font-weight: 500;">Verify</a>
+                </div>
+              </td>
+            </tr>
+          </table>
+
+          <!-- Footer -->
+          <table width="100%" style="background: #f8f9fa; padding: 20px; text-align: center; font-size: 12px; color: #666; border-top: 1px solid #eee;">
+            <tr>
+              <td align="center">
+                <p style="margin: 5px 0;">© 2025 Ledger SAS. 106 rue du Temple, 75003 Paris, France.</p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+
+  </body>
+</html>
+

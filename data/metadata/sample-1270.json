@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "MSG-PSWD notice on\r\n   07_11_2022",
+    "from": "Email Server Administrator<itsupport@noreply.com>",
+    "to": "wpx@protonmail.com",
+    "date": "07 Nov 2022 21:17:18 +0100",
+    "message_id": "<20221107211718.180C5F55B7A6B819@noreply.com>",
+    "content_type": "multipart/mixed;boundary=---------------------9f89e9946d2a0b91cbd5597c987163d3"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------9f89e9946d2a0b91cbd5597c987163d3"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expiring"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.com",
+      "protonmail.com&nbsp;",
+      "https://api.viglink.com/api/click?yrlqowgnhrgscijuetbl&out=%68%74%74%70%3Adkxzlxzcfx&#37;&#50;&#69;&#37;&#55;&#54;&#37;&#54;&#52;&#37;&#51;&#49;&#37;&#55;&#65;&#37;&#50;&#69;&#37;&#55;&#51;&#37;&#54;&#50;&#37;&#55;&#51;&#37;&#50;&#70;uutni&#47;lq&#47;ZDNCNFFIQnliM1J2Ym0xaGFXd3VZMjl0OmJvbnJzcmtreXg=&key=fd5de1d096b38be9fffd6ddc1948df4f"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 502,
+    "html_length": 7098,
+    "has_text": true,
+    "has_html": true
+  }
+}

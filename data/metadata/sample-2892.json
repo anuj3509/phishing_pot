@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Tenemos una sorpresa para los clientes de Carrefour.",
+    "from": "\"~C͏͏a͏͏r͏͏r͏͏e͏͏f͏͏o͏͏u͏͏r͏͏~\" ,jen<admission@luc.edu>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Feb 2024 10:07:13 -0500 (EST)",
+    "message_id": "\r\n <66ce015a-5665-4d4e-b5d4-1df53811c73c@VI1EUR04FT014.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_=_swift-8QTN3NJNYFXDH7Q_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://admin.movetomobi.nl/r60ff.php?gAAAAABlziihY6eA8uU3y-DJ2VqWPUsUFyJkbtYrVo54QaLv3y_IX9cKLzd0g5lzYXxFrmMH50Wg9PkANFKPwXk2tyJYTuVa3xWpAUSi6nYcdY1H2VIm6qtez85QYJG9Zthnt2PTWJO-oEhapST3UMVaHvGrQGG4Pw==",
+      "http://admin.movetomobi.nl/r60ff.php?gAAAAABlziihrci2d0y3x0-mY-lpID2pQfhOPO0nRs6majbefriWxhZ4sZJUjAjzNKq3bdTPC2EOUrweSkqCrJt-t6WKxaA91n33TxYU6uDa7xr2fW2Smzw7X2PwOI-Q6GQr7Tv6ocfHzWboON31AeLzvv1J7vdRlw======",
+      "http://admin.movetomobi.nl/r60ff.php?gAAAAABlziih9DpIeNXIrSCUt-soNGikGH6jf2Y9w6mTKUnWEag1H-zhY7QkZTekffwgbdrrhDbfk35xPz6E5P5srF6PIZGfYZcd7-nlHFzJVTXrcsF52-RCpd27RJiSZoA7GReSmdzIkjjibHBj02dsZ4alticOmg==",
+      "i.imgur.com/pRaceVU.png",
+      "https://i.imgur.com/pRaceVU.png",
+      "https://i.imgur.com/hKX3O3H.png",
+      "i.imgur.com/hKX3O3H.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 1976,
+    "has_text": false,
+    "has_html": true
+  }
+}

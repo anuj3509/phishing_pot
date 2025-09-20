@@ -1,0 +1,39 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your request!!
+From: "Mr. George Fraga" <info@mymail.net>
+To: Recipients <info@mymail.net>
+Date: Mon, 20 Feb 2023 04:25:14 -0800
+Message_Id: <20230220142522.7525B1FC98A@zimbra.syokinet.co.ke>
+Content_Type: multipart/alternative; boundary="===============2024963631=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative; boundary="===============2024963631=="
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.diamondfishfx.com/
+  - diamondfishfx.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Hi Mrs. Johnson,
+ Here is the investment  platform I was telling you about: diamondfishfx.com 
+ Enjoy investmenting with them. 
+ Mr. GEORGE FRAGA
+
+
+DECODED HTML CONTENT:
+------------------------------
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"></head><body><p>Hi Mrs. Johnson,</p>
+<p>Here is the investment&nbsp; platform I was telling you about: <a href="http://www.diamondfishfx.com/">diamondfishfx.com</a> </p>
+<p>Enjoy investmenting with them. </p>
+<p>Mr. GEORGE FRAGA</p></body></html>

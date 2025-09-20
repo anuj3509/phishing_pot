@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Your recent purchase 467290 is on its way!",
+    "from": "\"Paid Customer\" <skmakaal@gmail.com>",
+    "to": "\"Paid Customer\" <phishing@pot@gmail.com>",
+    "date": "Wed, 12 Feb 2025 05:30:33 -0800 (PST)",
+    "message_id": "<67aca279.170a0220.14a2e2.551a@mx.google.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============8254380207169072277==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"===============8254380207169072277==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 761,
+    "html_length": 1384,
+    "has_text": true,
+    "has_html": true
+  }
+}

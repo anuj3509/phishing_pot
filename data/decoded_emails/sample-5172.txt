@@ -1,0 +1,114 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Du gehörst zu den 50 glücklichen Finalisten und hast jetzt die Chance, 1 von 5 Paypal-Gutscheinen im Wert von 100 € zu gewinnen! 
+From: Paypal Guthaben <angebote@newsletter.baur.de>
+To: <phishing@pot>
+Date: Fri, 28 Mar 2025 05:40:00 -0400
+Message_Id: <bttAoPr.0.0.bttAoPr.9.bttAoPr@telekom.com>
+Content_Type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="_----------=_1694844911308661"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://blog.dury.agency/YVRRZ0tEU24yZDlMWkdoYlNGM25UZm9mN3dsc3pZQy94SXlhL2F3eUY2MXh3blpyV3cxV2loQlNFY3YxQURCdjFOUFczNmJUZUxUZEJlYkZBMUVEd3c9PQ__
+  - http://blog.dury.agency/V3djdU1NRWJEVkpkUEdBN0sxNEU4YnhxY1dZM3I2UStwRmNhcWxxWTkwcml3R01TNlQwMmFYa3J5bGJoUVI0RU43eFl5TWV2ZDNmWlk4aXQrZDhjblpQc0xqNmNQdFJkMDQ2bFNuU2dFaWs9
+  - http://blog.dury.agency/em96Z1BCeEFvQWgxR2pOVDNOT1ZFdHNGSzNpSjJ2eHFJNG9LYklpYkZoYU1EMmJhYngvUlcrYzZDRUQ5SzFZd0ZacXkvbzFYYU5xd0dSOFRxT0NuSkE9PQ__
+  - sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg
+  - https://sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+Exklusive PayPal-Aktion body { margin: 0; padding: 0; font-family: Arial, sans-serif; background-color: #f4f4f4; } .email-container { max-width: 600px; margin: 20px auto; background: #ffffff; padding: 0; border-radius: 10px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); } .header { text-align: center; padding: 0; } .header img { width: 100%; height: auto; display: block; } .content { font-size: 16px; color: #333; text-align: center; padding: 20px; } .cta-button { display: inline-block; padding: 15px 30px; margin-top: 20px; background-color: #0070BA; color: #ffffff; text-decoration: none; font-size: 18px; border-radius: 5px; } .footer { text-align: center; font-size: 12px; color: #777; padding: 20px; } @media (max-width: 620px) { .email-container { width: 95%; } } Hallo phishing@pot ! Wir haben eine besondere Aktion für Sie! ✔ Exklusive Vorteile für PayPal-Nutzer ✔ Schnelle und einfache Nutzung ✔ In vielen Online-Shops verfügbar Mehr erfahren Falls Sie keine weiteren E-Mails erhalten möchten, klicken Sie hier .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="de-DE"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exklusive PayPal-Aktion</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+        }
+        .email-container {
+            max-width: 600px;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 0;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            text-align: center;
+            padding: 0;
+        }
+        .header img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .content {
+            font-size: 16px;
+            color: #333;
+            text-align: center;
+            padding: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 15px 30px;
+            margin-top: 20px;
+            background-color: #0070BA;
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #777;
+            padding: 20px;
+        }
+        @media (max-width: 620px) {
+            .email-container {
+                width: 95%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="email-container">
+        <div class="header">
+            <img src="https://sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg" alt="">
+            <img src="//sf22.sendsfx.com/admin/temp/user/2/paypal-header.jpg" alt="">
+        </div>
+        <div class="content">
+            <p>Hallo <b>phishing@pot</b>!</p>
+            <p>Wir haben eine besondere Aktion für Sie!</p>
+            <p>✔ Exklusive Vorteile für PayPal-Nutzer</p>
+            <p>✔ Schnelle und einfache Nutzung</p>
+            <p>✔ In vielen Online-Shops verfügbar</p>
+            <a href="http://blog.dury.agency/em96Z1BCeEFvQWgxR2pOVDNOT1ZFdHNGSzNpSjJ2eHFJNG9LYklpYkZoYU1EMmJhYngvUlcrYzZDRUQ5SzFZd0ZacXkvbzFYYU5xd0dSOFRxT0NuSkE9PQ__" class="cta-button">Mehr erfahren</a>
+        </div>
+        <div class="footer">
+            <p>Falls Sie keine weiteren E-Mails erhalten möchten, klicken Sie <a href="http://blog.dury.agency/V3djdU1NRWJEVkpkUEdBN0sxNEU4YnhxY1dZM3I2UStwRmNhcWxxWTkwcml3R01TNlQwMmFYa3J5bGJoUVI0RU43eFl5TWV2ZDNmWlk4aXQrZDhjblpQc0xqNmNQdFJkMDQ2bFNuU2dFaWs9">hier</a>.</p>
+            <img alt="" src="http://blog.dury.agency/YVRRZ0tEU24yZDlMWkdoYlNGM25UZm9mN3dsc3pZQy94SXlhL2F3eUY2MXh3blpyV3cxV2loQlNFY3YxQURCdjFOUFczNmJUZUxUZEJlYkZBMUVEd3c9PQ__" width="1" height="1" style="visibility:hidden">
+        </div>
+    </div>
+</body>
+</html>
+

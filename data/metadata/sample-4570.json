@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Slechts 100 plekken beschikbaar: Profiteer van een thuisbatterij zonder kosten!",
+    "from": "\"Nationaal Thuisbatterij Centrum\" <Thuisbatterij@aprimarse.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 21 Dec 2024 18:19:17 +0000",
+    "message_id": "<29_HTML-766441921-05391-5088506487-2848@8HkV0ypZ.xt.local>",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html;\r\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://fonts.googleapis.com/css2?family=Krub:wght@500;700&amp;family=Poppins:wght@400&amp;display=swap",
+      "https://click.sas.aprimarse.com/UXBtRVBBRWphOFhJc1JMSFVkQmllSmw0NUJPek5tTU5yZU5pQllJR0RIM3NDMDcwSHg3OGZCdHJxcSt4YUZHLzVidVVBRC90ZFZlK1ViZUdwSC9nNUFsdGRqTWl1eCsrckwyQjRRNTVKM289",
+      "click.trace.versatilevoices.shop/UXBtRVBBRWphOFhJc1JMSFVkQmllSmw0NUJPek5tTU5yZU5pQllJR0RIM3NDMDcwSHg3OGZCdHJxcSt4YUZHLzVidVVBRC90ZFZlK1ViZUdwSC9nNUFsdGRqTWl1eCsrckwyQjRRNTVKM289",
+      "https://click.sas.aprimarse.com/009faba43753c57.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://click.sas.aprimarse.com/bXRYV0h5alF3L2ZzVFhPNE96VjhXUTlodVF2N3F6NWJTa0RIaytRcUI0amZjSXJvUHNvTS9VbWJoVTdncHNsZDdrVnFWZUhqZWlnVGdKbUxvZlVCSVJuTGtndjUwUExUcU1ERXlXZ3RaMG89",
+      "https://click.sas.aprimarse.com/TkNYbDlmZDROa0hlYVYzaWpEenhrVDBNMHJWMEtYRG8wRjFkaStFOTFTd0xsazRScnMvLzhDUWpaMVhEenhQRWJoRVd1TlJTR3pqd3ZFaTlXVVBSbzBmZDhzUDg5Q3VqcUltZWxBR2U1N3c9",
+      "https://click.sas.aprimarse.com/THJ6U2l6SDJoTEEwUHJ3MXUxblB6NnFGaEJzT1lITmF6UGtsMDB3ZkxZd3hyQW1teXZxK3IwWlJhb0kxUkR1clIyQzZ5L2txQ1lXT1JsNWh4cHQzT0kzZXFZWUJnS3pyd05xeGdMOFNFVkE9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3535,
+    "html_length": 50147,
+    "has_text": true,
+    "has_html": true
+  }
+}

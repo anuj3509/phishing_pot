@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Seus pontos expiram em breve. ID:6326773100",
+    "from": "Banco.Bradesco <bradescpontoslivelo@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Thu,  4 Jul 2024 00:26:04 -0400 (EDT)",
+    "message_id": "<20240704042604.6F90C5B46@bradpontos16.net-1>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://vps53627.publiccloud.com.br/bc/livepontoxx625"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 518,
+    "html_length": 4368,
+    "has_text": true,
+    "has_html": true
+  }
+}

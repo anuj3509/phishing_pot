@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p , Triff unsere hei��esten Mitglieder! ����",
+    "from": "Finde dein Match!, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Feb 2024 15:58:28 +0100",
+    "message_id": "<wum1cru.mgo4j.jbh.jbh@yckzbsqgiwqwtsv.zbh>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "www.russianbeautydating.com/e/13/g1.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/9b6602e0-8330-4551-8b9a-4eb63bbbc1b7/test-bee-id/65sd1c5s6d1c651s6dc5s65dc15sd1c.shtml#oop/6282_md/4049/25611/1291/143/149762",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/9b6602e0-8330-4551-8b9a-4eb63bbbc1b7/test-bee-id/65sd1c5s6d1c651s6dc5s65dc15sd1c.shtml#cl/6282_md/4049/25611/1291/143/149762",
+      "www.russianbeautydating.com/e/13/g2.jpg",
+      "https://www.russianbeautydating.com/e/13/g1.jpg",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/9b6602e0-8330-4551-8b9a-4eb63bbbc1b7/test-bee-id/65sd1c5s6d1c651s6dc5s65dc15sd1c.shtml#op/6282_md/4049/25611/1291/143/149762",
+      "https://www.russianbeautydating.com/e/13/g2.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1021,
+    "html_length": 4521,
+    "has_text": true,
+    "has_html": true
+  }
+}

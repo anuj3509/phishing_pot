@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your Account Holds Unreviewed Credits – Respond by 11/28/2024",
+    "from": "Bittrex Inc <campaigns@campaigns.anytimefitness.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Nov 2024 07:46:51 +0000",
+    "message_id": "<20241127074651.029be8d86b311511@campaigns.anytimefitness.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b48e09b91f3ae8a6ceb6fc3ca6b239eb96e702a5f67817513ed1a8145130\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"b48e09b91f3ae8a6ceb6fc3ca6b239eb96e702a5f67817513ed1a8145130\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mms.businesswire.com/media/20230816932630/en/1868578/23/bittrex-global-vector-logo.jpg",
+      "https://clicks.club-os.com/campaign/click?msgId=b2bdc649e90ac22a1c5f375748a3d380c5c2144d&test=false&target=4a4dc430a742664a072986470d31ae1b5cfb09bd&hashLookup=true",
+      "https://t.co/xmcdBDM8Iz",
+      "https://clicks.club-os.com/campaign/unsubscribe1?msgId=b2bdc649e90ac22a1c5f375748a3d380c5c2144d",
+      "hotmail.com,",
+      "https://clicks.club-os.com/campaign/click?msgId=b2bdc649e90ac22a1c5f375748a3d380c5c2144d&amp;test=false&amp;target=4a4dc430a742664a072986470d31ae1b5cfb09bd&amp;hashLookup=true",
+      "https://clicks.club-os.com/campaign/open?msgId=b2bdc649e90ac22a1c5f375748a3d380c5c2144d&amp;test=false"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1184,
+    "html_length": 12221,
+    "has_text": true,
+    "has_html": true
+  }
+}

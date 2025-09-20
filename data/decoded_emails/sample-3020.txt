@@ -1,0 +1,193 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: For your convenience, all medications can be purchased without a prescription at our store.
+From: "🌟 Viagra/Cialis-0,36$/0,54$" <EX.Pharmacy@outlook.com>
+To: Undisclosed recipients:;
+Date: Fri, 08 Mar 2024 01:58:57 +0000
+Message_Id: <B1FDC3B5.42C70125@outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: binary
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - .button.secondary
+  - .button.danger
+  - ex.pharmacy.online.store2@gmail.com?subject=Yes&amp;body=Yes,I
+  - ex.pharmacy.online2@gmail.com?subject=No&amp;body=No,
+  - http://zcweight.com/f.html
+
+DECODED TEXT CONTENT:
+------------------------------
+5% Off body { font-family: Arial, sans-serif; font-size: 16px; line-height: 1.5; color: #333; margin: 0; padding: 0; background-color: #f5f5f5; } .container { max-width: 600px; margin: 0 auto; background-color: #fff; border-radius: 5px; overflow: hidden; } .header { background-color: #007bff; color: #fff; padding: 20px; } .header h1 { margin: 0; font-size: 32px; font-weight: bold; text-align: center; } .content { padding: 20px; } .content p { margin: 0 0 20px; } .coupon { background-color: #ffcc00; color: #fff; font-size: 24px; font-weight: bold; padding: 10px 20px; border-radius: 5px; } .button-container { display: flex; flex-wrap: nowrap; justify-content: flex-start; align-items: center; margin-top: 20px; } .button { background-color: #007bff; border: none; color: #fff; padding: 10px 20px; text-align: center; text-decoration: none; font-size: 18px; font-weight: bold; margin-right: 10px; cursor: pointer; border-radius: 5px; } .button.secondary { background-color: #3CB371; } .button.danger { background-color: #FF6347; } .footer { background-color: #eee; padding: 20px; text-align: center; font-size: 14px; color: #666; } table { width: 100%; border-collapse: collapse; margin-top: 20px; border: 1px solid #ddd; } th, td { padding: 15px; text-align: left; } th { background-color: #f2f2f2; font-weight: bold; } tr:nth-child(even) { background-color: #f2f2f2; } tr:hover { background-color: #f5f5f5; } td { border-bottom: 1px solid #ddd; } Save 5-10% at Express Pharmacy Dear customer, here is the price of our drugs with coupon: Medication Price: Cialis $0.54 / pill Viagra $0.36 / pill Levitra $0.99 / pill Female Viagra $0.76 / pill Antibiotics/Anti-Depressant/Allergies/Acne And other medications Visit website Yes, I want a 5-10% discount No © 2024 Express Pharmacy. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>5% Off</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+  }
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .content {
+    padding: 20px;
+  }
+  .content p {
+    margin: 0 0 20px;
+  }
+  .coupon {
+    background-color: #ffcc00;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  .button-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 20px;
+  }
+  .button {
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  .button.secondary {
+    background-color: #3CB371;
+  }
+  .button.danger {
+    background-color: #FF6347;
+  }
+  .footer {
+    background-color: #eee;
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    border: 1px solid #ddd;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  tr:hover {
+    background-color: #f5f5f5;
+  }
+
+  td {
+    border-bottom: 1px solid #ddd;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <h1>Save 5-10% at Express Pharmacy</h1>
+  </div>
+  <div class="content">
+    <p>Dear customer, here is the price of our drugs with coupon:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Medication</th>
+          <th>Price:</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Cialis</td>
+          <td>$0.54 / pill</td>
+        </tr>
+        <tr>
+          <td>Viagra</td>
+          <td>$0.36 / pill</td>
+        </tr>
+        <tr>
+          <td>Levitra</td>
+          <td>$0.99 / pill</td>
+        </tr>
+        <tr>
+          <td>Female Viagra</td>
+          <td>$0.76 / pill</td>
+        </tr>
+        <tr>
+          <td>Antibiotics/Anti-Depressant/Allergies/Acne</td>
+          <td>And other medications</td>
+        </tr>
+      </tbody>
+    </table>
+    <div class="button-container">
+      <a href="http://zcweight.com/f.html" class="button">Visit website</a>
+      <a href="mailto:ex.pharmacy.online.store2@gmail.com?subject=Yes&amp;body=Yes,I need a discount Coupon!" class="button secondary">Yes, I want a 5-10% discount</a>
+      <a href="mailto:ex.pharmacy.online2@gmail.com?subject=No&amp;body=No, i don't need Viagra/Cialis!" class="button danger">No</a>
+    </div>
+  </div>
+  <div class="footer">
+    <p>© 2024 Express Pharmacy. All rights reserved.</p>
+  </div>
+</div>
+</body>
+</html>
+
+
+

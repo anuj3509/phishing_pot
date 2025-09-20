@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Leider konnten wir Sie bisher nicht erreichen",
+    "from": "Kaufland-Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 16 Jan 2024 01:07:04 +0100",
+    "message_id": "<6elac6z.joep4.mlw.mlw@oevsttpwkhpdkue.slp>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://dfskohoeoiisjfokjoeuoisej.s3.amazonaws.com/56cs16d5c16s5d1c65s1d65c1s6d5c5sd15c15d1c.html#oop/5395_md/4049/25277/1181/143/149762",
+      "eu1-us1.ckcdnassets.com/448/creatives/49026/hero1.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/49026/hero1.png",
+      "https://dfskohoeoiisjfokjoeuoisej.s3.amazonaws.com/56cs16d5c16s5d1c65s1d65c1s6d5c5sd15c15d1c.html#cl/5395_md/4049/25277/1181/143/149762",
+      "https://trk2.de/3ro7p7ly"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 701,
+    "html_length": 5698,
+    "has_text": true,
+    "has_html": true
+  }
+}

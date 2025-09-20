@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nehmen Sie an unserer Umfrage teil und gewinnen Sie ein Gutschein von Decathlon im Wert von 1.000 Euro.",
+    "from": "Decathlon, Decathlon <telekom@email-telekom.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Oct 2023 13:16:01 +0200",
+    "message_id": "<MZShFFa.55893.245+phishing@pot=110979@email-telekom.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://bsq2.firiri.shop/Zmk2MlNuWi8xY2dJdGRHKzVIa3ZXOVpDb0lxNGpFcGZEaGVhS3VyQzNvam1lcTZtMnRGL1cxVlFIQUQrSGEvVGtpMnlMKzVLU3VieG1RQlNoWDVFWXc9PQ__",
+      "window.postMessage({_custom_type_:",
+      "http://bsq2.firiri.shop/Q0FNazBycDhjTmhGcHpUdS8vNWZIMi9rQlNIeTc1VjhKZG0zRDYyWG54QlVMSzFxU1B1RmlJdTNKV1o2SERNdlhVK0RxQTN5MTdkaS8wcjc5RXNFMmc9PQ__",
+      "sf22.sendsfx.com/admin/temp/user/2/dec-header-de.jpg",
+      "http://bsq2.firiri.shop/R2tmS0NNY2IrMEloSncyaDZ2aXZ1clkyZWJEcU9VZlFWRVFwbHR3NThWTUxPV05HNDNlYkdEbHNXYW5zZ0VpVEJjUW1qenhrcDBnUnBZVDdFQ3NTaVE9PQ__",
+      "https://t.co/vzFNxaEE9Q",
+      "history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})()",
+      "history.pushState,t=history.replaceState,a=history.back,r=history.forward;function"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 922,
+    "html_length": 10485,
+    "has_text": true,
+    "has_html": true
+  }
+}

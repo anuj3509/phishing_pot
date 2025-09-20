@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Yours Faithfully",
+    "from": "\"Mr. Richard\" <>",
+    "to": "Recipients",
+    "date": "Mon, 10 Feb 2025 14:21:02 -0800",
+    "message_id": "<E1thcAo-0000000Gvvi-Jim2@out2a.electric.net>",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "859479.stm",
+      "http://news.bbc.co.uk/1/hi/world/",
+      "yahoo.com",
+      "remitted.Upon"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3051,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

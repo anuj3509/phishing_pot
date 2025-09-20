@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Payment Received 0.947329 BTC",
+    "from": "Support <std661110045@petkasem.ac.th>",
+    "to": "phishing@pot",
+    "date": "Sat, 15 Jun 2024 02:52:52 -0700",
+    "message_id": "<046293f400c44fbd9e30e942b653d9d3c29a1f69@petkasem.ac.th>",
+    "content_type": "multipart/alternative; boundary=\"08b4fd56033e141ba8024bc1955048054eb2\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"08b4fd56033e141ba8024bc1955048054eb2\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&amp;googlePIDR=phishing@pot@hotmail.com&amp;id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM",
+      "https://translate.google.com/translate?sl=auto&tl=ru&hl=ru&u=https://onetakemedia.in/less/session/link.php?click=0042_new_copy&googlePIDR=phishing@pot&id_list=LeEylWEvrlmXuUknnVvrdWGkgjnPLM",
+      "https://translate.google.com/translate?sl=auto&amp;tl=ru&amp;hl=ru&amp;u=https://onetakemedia.in/less/session/link.php?click=0042_new&amp;googlePIDR=phishing@pot&amp;id_list=RNUsdhTeYDPFiWhPDeyZoWrkPH"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 816,
+    "html_length": 4090,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Valor bloqueado por segurancaNm9ehEyNWyox3
+From: Nubank - suspeita de fraudeqoLEDh3Qm2 <plop77646@gmail.com>
+To: phish@pot
+Date: Wed, 08 Nov 2023 08:39:10 -0800 (PST)
+Message_Id: <654bb9ae.c80a0220.5e3eb.5137@mx.google.com>
+Content_Type: multipart/mixed; boundary="===============5323832079230251822=="
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="===============5323832079230251822=="
+
+ATTACHMENTS:
+--------------------
+- pdf_YJur9usLK2.pdf (application/pdf, 200928 bytes)
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: suspend
+URLs found:
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+========================== Ola, Cliente: Rodrigo Ferreira Peixoto CPF: phish@pot rodrigo-f-p@hotmail.com ========================== Protocolo do caso: 23055193 Caro(a) cliente, por medida de segurança, decidimos suspender a tentativa de transferência em sua conta devido a uma suspeita de fraude. ========================== Favor verificar o anexo para mais informações sobre a transação. ========================== Caso não identifique a transação de R$ 4.248,20 enviada para Victor H, CPF 177.289***-**, é importante contestá-la em até 24 horas. Autenticacao email: 23055193
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">==========================<br><br>Ola,<br>Cliente: Rodrigo Ferreira Peixoto<br>CPF: phish@pot<br>rodrigo-f-p@hotmail.com<br><br>==========================<br>Protocolo do caso: 23055193<br><br> Caro(a) cliente, por medida de segurança, decidimos suspender a tentativa de transferência em sua conta devido a uma suspeita de fraude.<br><br>==========================<br><br>Favor verificar o anexo para mais informações sobre a transação.<br><br>==========================<br><br>Caso não identifique a transação de R$ 4.248,20 enviada para Victor H, CPF 177.289***-**, é importante contestá-la em até 24 horas. Autenticacao email: 23055193

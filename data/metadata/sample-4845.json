@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Ol�� phishing@potfp, Seu Produto foi taxado e encontra-se retido! 376",
+    "from": "Financeiro dos Correios <no-reply@statuscorreios376>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 20 Feb 2025 11:17:12 +0000",
+    "message_id": "<20250220111712.1E05B3F864@Ubuntu-fnzw-1vcpu-1gb-35gb-intel>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://hotm.art/ibf-liberarpedido"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 824,
+    "html_length": 2607,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Aktualisierung der Paketzustellung: BITTE best��tigen Sie die Zustellung des Pakets",
+    "from": "GLS-Benachrichtigung, <service@stayfriends.de.>, GLS-Benachrichtigung,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 07 Sep 2023 13:46:01 +0200",
+    "message_id": "<ygXOakZ.56946.090.UqF@my.zalando.it>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "zupimages.net/up/23/36/o11p.png",
+      "http://hishloock.site/oop/4279_md/1995/68/1324/117/145745",
+      "zupimages.net/up/23/34/kqlf.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "table.full-width-mobile",
+      "https://fonts.googleapis.com/css?family=Merriweather:400,700);",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Merriweather:400,700",
+      "div.hide_section_on_mobile",
+      "https://zupimages.net/up/23/36/o11p.png",
+      "https://zupimages.net/up/23/34/kqlf.png",
+      "td.full-width-mobile",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);",
+      "http://hishloock.site/cl/4279_md/1995/68/1324/117/145745",
+      "http://hishloock.site/op/4279_md/1995/68/1324/117/145745"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3317,
+    "html_length": 20309,
+    "has_text": true,
+    "has_html": true
+  }
+}

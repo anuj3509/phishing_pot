@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Re: New Membership Statement : Renewal Prime Membership statement was ended - Your renewal scheduled on ‎‎February ‎5, 20‎2‎3.  TRX#032-625693",
+    "from": "\"Prime\" <res0lvdmaillmphbsh12375@perfectzecure.org.ng>",
+    "to": "phishing@pot",
+    "date": "Mon, 06 Feb 2023 00:31:05 +0000",
+    "message_id": "<761111d0-8ecf-0544-8245-36742c1ade1d@perfectzecure.org.ng>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-18ba3c4d38f381ae-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-18ba3c4d38f381ae-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.linkedin.com/slink?code=dFqMC7UN",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6,
+    "html_length": 27187,
+    "has_text": true,
+    "has_html": true
+  }
+}

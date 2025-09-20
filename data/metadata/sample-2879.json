@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Attn: Beneficiary   ",
+    "from": "\"Cathy D. Brinsfield\" <info@hsb.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 15 Feb 2024 12:34:04 -0800",
+    "message_id": "<81c9471b-e769-4324-bfd4-f28ecb1166d3@exchange.utek.com>",
+    "content_type": "text/html; charset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1651,
+    "html_length": 2810,
+    "has_text": true,
+    "has_html": true
+  }
+}

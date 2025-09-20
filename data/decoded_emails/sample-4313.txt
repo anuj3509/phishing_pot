@@ -1,0 +1,107 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ol�� Mathkichuu, Seu pedido foi Taxado pela Fiscaliza����o da Alf��ndega. Resolva agora e Garanta a Entrega.
+From: Taxa Correios <no-reply@correios344>
+To: math.kichuu@hotmail.com
+Date: Fri,  4 Oct 2024 22:26:50 +0000 (UTC)
+Message_Id: <20241004222650.74DDB3F865@Ubuntu-eopj-1vcpu-1gb-35gb-intel>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://argostech.com.br/taxa/gomeuspontos344
+
+DECODED TEXT CONTENT:
+------------------------------
+Correios - Pagamento de Taxas body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; } .container { max-width: 600px; margin: 0 auto; background-color: #ffffff; border: 1px solid #ddd; } .header { background-color: #FFD700; padding: 20px; text-align: center; } .header h1 { margin: 0; font-size: 24px; color: #0047BB; } .content { padding: 20px; text-align: center; background-color: #0047BB; color: white; } .content p { font-size: 18px; margin: 10px 0; } .button { display: inline-block; margin: 20px 0; padding: 15px 25px; background-color: #FFD700; color: #0047BB; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 5px; } .footer { text-align: center; padding: 15px; background-color: #FFD700; color: #0047BB; } Correios Olá, Mathkichuu Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias. Para garantir o recebimento do seu pedido, por favor, efetue o pagamento o mais breve possível. Clique no botão abaixo para realizar o pagamento: Efetuar Pagamento Correios 2024 - Todos os direitos reservados
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Correios - Pagamento de Taxas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+        }
+        .header {
+            background-color: #FFD700;
+            padding: 20px;
+            text-align: center;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            color: #0047BB;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+            background-color: #0047BB;
+            color: white;
+        }
+        .content p {
+            font-size: 18px;
+            margin: 10px 0;
+        }
+        .button {
+            display: inline-block;
+            margin: 20px 0;
+            padding: 15px 25px;
+            background-color: #FFD700;
+            color: #0047BB;
+            text-decoration: none;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+        .footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #FFD700;
+            color: #0047BB;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>Correios</h1>
+    </div>
+
+    <div class="content">
+        <p>Olá, Mathkichuu</p>
+        <p>Seu pedido foi bloqueado pela fiscalização alfandegária devido à falta de pagamento de taxas obrigatórias.</p>
+        <p>Para garantir o recebimento do seu pedido, por favor, efetue o pagamento o mais breve possível.</p>
+        <p>Clique no botão abaixo para realizar o pagamento:</p>
+        <a href="https://argostech.com.br/taxa/gomeuspontos344" class="button">Efetuar Pagamento</a>
+    </div>
+
+    <div class="footer">
+        <p>Correios 2024 - Todos os direitos reservados</p>
+    </div>
+</div>
+
+</body>
+</html>

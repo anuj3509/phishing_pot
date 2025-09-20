@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 738340582",
+    "from": "Mercado Livre <naoresponder@mercadolivre.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 09 Oct 2023 11:08:18 +0000",
+    "message_id": "<ad695ce2-a11b-3c43-742d-0e6ca12574bc@mercadolivre.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://b-a4qxna7jwq-rj.a.run.app/k/?tr=dcd0a05493cc444d88c5557b0b0cfe84&amp;t1=ml",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 550,
+    "html_length": 10314,
+    "has_text": true,
+    "has_html": true
+  }
+}

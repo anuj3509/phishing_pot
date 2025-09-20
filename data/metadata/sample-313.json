@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "I just broke up with my boyfriend before Valentine's Day",
+    "from": "Your Secret Hookup , <no-replay@iptesetxkeys.com>",
+    "to": "[to]",
+    "date": "Sat, 11 Feb 2023 01:32:54 +0100",
+    "message_id": "\r\n <5d1328fb-02a0-476a-a9f5-5f6e42903827@BN8NAM12FT069.eop-nam12.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "i.imgur.com/7NuVKTo.png",
+      "http://laredouteshop.com/op/3207_md/22222/1572/1760/410/1190",
+      "http://laredouteshop.com/oop/3207_md/22222/1572/1760/410/1190",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/7NuVKTo.png",
+      "http://laredouteshop.com/cl/3207_md/22222/1572/1760/410/1190",
+      "http://laredouteshop.com/un/3207_md/22222/1572/1760/410/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 119,
+    "html_length": 1417,
+    "has_text": true,
+    "has_html": true
+  }
+}

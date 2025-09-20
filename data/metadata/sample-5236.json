@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Advisory: Recent Infrastructure Breach – Your Review is Required Case: 28220",
+    "from": "Ledger Support <ledger@elcontainer.cl>",
+    "to": "phishing@pot",
+    "date": "Sun, 6 Apr 2025 22:34:37 +0000",
+    "message_id": "<010001960d3dd35f-2d22079b-f97a-45cb-a1b1-2c77fb1a6bd1-000000@email.amazonses.com>",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\n\tcharset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://privaterecovery.s3.us-east-1.amazonaws.com/recovery.html",
+      "https://ledger-wp-website-s3-prd.ledger.com/uploads/2023/08/Ledger-logo-16_9.png",
+      "ledger.com/support",
+      "https://www.ledger.com/support"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 809,
+    "html_length": 2619,
+    "has_text": true,
+    "has_html": true
+  }
+}

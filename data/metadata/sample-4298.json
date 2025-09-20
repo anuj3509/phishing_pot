@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "wir gratulieren Ihnen recht herzlich.",
+    "from": "Fressnapf Gutschein, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 05 Nov 2024 10:55:23 +0000",
+    "message_id": "<a5OGW9J.0.0.a5OGW9J.9.a5OGW9J@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.zupimages.net/up/24/21/df6g.png",
+      "http://limecastle.co.uk/aXVRTDUrZFE5MkVoS1hKeGNhZzk5S0VPV0pqcXNrRWxUOWVsZXlRMzNnQXB1cy9WMDNjdmdWUGZoSjJvSkNaSFg0ZEJzbXU2MXVuMDByS2gxVGpFU3l2dXMwWElncTRzNS9GSG5ZUjdQbjQ9",
+      "https://clearwayrouting.com/?a=8096&amp;oc=14418&amp;c=40582&amp;m=3&amp;s1=",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/24/21/df6g.png",
+      "http://limecastle.co.uk/UWJtNFpkRCs3a2lsWW5mQ2JrNUxYcllaRkE3Z1hVQjNNTWtoY0QwM0hwOStBcmpGcndMTHdkQjU0WWpyNWRqQlgzQnEyWFhmaldJbXlibnNSVlRBUENBWHJhNkZqc0lDU3QxS01VT2dWdk09"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1670,
+    "html_length": 8721,
+    "has_text": true,
+    "has_html": true
+  }
+}

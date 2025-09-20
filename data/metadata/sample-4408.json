@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "📦 Aviso Urgente: Documentos Necessários para Liberação - Envio Postal 🚚",
+    "from": "ganine <noreply@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Nov 2024 16:27:28 +0000",
+    "message_id": "<f8873bb6-9c2e-67b5-3e79-4a2de958a22b@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://juliodejens.icu/?mailID=N9BBGjclTP0bfZ4Sk3A2Z-61SdpTybwvwgsje45KtO2i4Cr9_MujDuY7SfBCKg7Vhv93KozyjLtE_llB8aF6pE3jEAD9lCBcAwe-oJwQlm6hGTIND0aNC7y0RRnW0c-dah8nlbBUd6d69S4EJvJTBXrnL-JH5fSuVmIqjqgeowCR6216ge2psAZlRhrgqkwBBaQgmDDRbw-Klvw4u2UT0QcYSbLNMNuCle344BQabnKt3J8G_CkRqM65s8WtGRlkiPpdnZHCRMsR4zbJ0pizBY87-gR2nZJWAVleT4peQA5pdrd1L5j55lvX2LLFnYSgUNFucojtWVLP1r68QpKOXuwM6hfBV8Qb2ACGLz76LO0pmu6cme-S895tlyHrqr8"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 34434,
+    "html_length": 60362,
+    "has_text": true,
+    "has_html": true
+  }
+}

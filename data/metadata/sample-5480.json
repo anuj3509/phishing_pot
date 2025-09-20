@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[বাইতুল হুদা মাদ্রাসা] Login Details",
+    "from": "WordPress <wordpress@baitulhuda.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 18 Jul 2025 01:15:56 +0000",
+    "message_id": "<IipcUTsYGXacXGXHrwfGtGnQIjnGBWFtXPB7k8Lej8@baitulhuda.com>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://baitulhuda.com/wp-login.php",
+      "www.wteyfx.blogspot.com",
+      "https://baitulhuda.com/wp-login.php?login=www.wteyfx.blogspot.com%20-%20BINANCE%20136%20138%20EURO&key=PReWuTJAMtf1X0DCg4E8&action=rp"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 282,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Ver��ndere JETZT Dein Leben",
+    "from": "jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 26 Nov 2023 14:07:41 +0100",
+    "message_id": "\r\n <6476c6e9-8d19-4626-bf4d-1a7acb5afb38@SN1NAM02FT0064.eop-nam02.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://144.172.64.113/op/3019_md/2010/66/272/23/2459859",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png",
+      "https://fonts.googleapis.com/css?family=Montserrat",
+      "https://derila.com",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/cl/3019_md/2010/66/272/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/derila_logo_260.png",
+      "https://fonts.googleapis.com/css?family=Roboto",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/oop/3019_md/2010/66/272/23/2459859",
+      "campaign.address}}",
+      "d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg",
+      "img.big,",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/Link7_1.html#/un/3019_md/2010/66/272/23/2459859",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/d12425a2-57e5-445b-896d-425ad79fd2ca/1309378/22W18-arrows-derila-01-191x1_1.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1615,
+    "html_length": 27963,
+    "has_text": true,
+    "has_html": true
+  }
+}

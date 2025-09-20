@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Comunicado-[KAX2Sf8232WJ2nbG9]",
+    "from": "\"[Banco do BrasiI - Comunicado 6333967970]\" <hguj20286@gmail.com>",
+    "to": "<phishing@pot-colab>",
+    "date": "Thu, 05 Jan 2023 00:47:39 +0000",
+    "message_id": "<b465e63883002b41d40e10471a21b1fb@gmail.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"0073cf3457cbb4d30a8dd62200036d71\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"0073cf3457cbb4d30a8dd62200036d71\""
+  },
+  "attachments": [
+    {
+      "filename": "BB_PONTOS_3314.pdf",
+      "content_type": "application/pdf",
+      "size": 48239
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 330,
+    "html_length": 579,
+    "has_text": true,
+    "has_html": true
+  }
+}

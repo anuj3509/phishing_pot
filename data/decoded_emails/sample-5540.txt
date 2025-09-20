@@ -1,0 +1,256 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Bevestiging van verzending: uw bestelling is onderweg
+From: Verzendingsupdate <info.FXNQXC@2014.info>
+To: <phishing@pot>
+Date: Wed, 23 Jul 2025 06:19:17 +0000
+Message_Id: <078682367616874.2.GFY7114062235@2014.info>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 8bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: update
+URLs found:
+  - https://www.vesselwindplant.com/o-tgfg-t17-dcc45763532fbe2f0e127b9cf6640268
+  - https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0
+  - https://storage.googleapis.com/newera1/zzzzzzzzzrzzzzzzzzzfedex.html
+
+DECODED TEXT CONTENT:
+------------------------------
+This message is from a trusted sender. Uw FedEx-pakket is in behandeling body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; background-color: #4D148C; /* Precise FedEx Purple */ color: #333; line-height: 1.6; } .container { padding-top: 10px; max-width: 600px; margin: 0 auto; background-color: white; box-shadow: 0 4px 6px rgba(0,0,0,0.1); } .header { background-color: #4D148C; color: white; text-align: center; padding: 15px; } .logo { max-width: 150px; margin: 10px auto; } .package-icon { display: block; width: 100px; height: 100px; margin: 20px auto; background-color: #4D148C; border-radius: 50%; position: relative; } .package-icon::before { content: '!'; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 60px; font-weight: bold; } .content { padding: 25px; } .delivery-status { text-align: center; margin-bottom: 20px; } .delivery-status h1 { color: #4D148C; font-size: 24px; margin-bottom: 10px; } .package-details { background-color: #f4f4f4; padding: 15px; border-radius: 8px; margin-bottom: 20px; } .status-update { margin-bottom: 15px; } .status-indicator { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 10px; vertical-align: middle; } .status-green { background-color: #2ecc71; } .status-red { background-color: #e74c3c; } .cta-button { display: block; width: 250px; margin: 20px auto; padding: 15px; background-color: #FF6600; /* FedEx Orange */ color: white; text-align: center; text-decoration: none; border-radius: 8px; font-weight: bold; transition: background-color 0.3s ease; } .cta-button:hover { background-color: #4D148C; } .footer { background-color: #f4f4f4; padding: 15px; text-align: center; font-size: 12px; color: #666; } .unsubscribe { margin-top: 10px; font-size: 10px; } @media screen and (max-width: 600px) { .container { width: 100%; } .cta-button { width: 90%; } } LEVERING IN BEHANDELING U hebt (1) pakket in de wacht. Vrijdag 18 oktober 2024 Uw pakket is opgepikt Pakket# AIPD-1512-KL10 Maandag 21 oktober 2024 Uw pakket is voorbereid op levering! Woensdag 23 oktober 2024 Pakket in de wacht Bevestig de leveringsgegevens op de volgende pagina Bekijk de details © 2025 FedEx. Alle rechten voorbehouden. Wilt u geen e-mails meer ontvangen van FedEx? Afmelden Om deze te stoppen alstublieft klik hier of schrijf naar: Mozartstraat 44e Groenlo, 7141 CP
+
+DECODED HTML CONTENT:
+------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><div style="display:flex;background-color: #f1f9f2;position: relative;min-height: 30px; margin-top: 10px;margin-bottom: 10px;color: #212121;font-family: 'wf_segoe-ui_normal', 'Segoe UI', 'Segoe WP', Tahoma, Arial, sans-serif;font-size: 12px;font-weight: normal;">
+
+<div><div style="background-color: #56a659;width: 5px;min-height: 30px;position: absolute;top: 0;bottom: 0;"></div></div><div style="position: relative;float: left;-webkit-align-self: center;-ms-flex-item-align: center;align-self: center;margin-left: 16px;padding-top: 5px;padding-bottom: 5px;padding-right: 7px;width: 100%;">
+
+<div><span>This message is from a trusted sender.</span></div></div></div>
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uw FedEx-pakket is in behandeling</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #4D148C; /* Precise FedEx Purple */
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            padding-top: 10px;
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #4D148C;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+        .logo {
+            max-width: 150px;
+            margin: 10px auto;
+        }
+        .package-icon {
+            display: block;
+            width: 100px;
+            height: 100px;
+            margin: 20px auto;
+            background-color: #4D148C;
+            border-radius: 50%;
+            position: relative;
+        }
+        .package-icon::before {
+            content: '!';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            color: white;
+            font-size: 60px;
+            font-weight: bold;
+        }
+        .content {
+            padding: 25px;
+        }
+        .delivery-status {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .delivery-status h1 {
+            color: #4D148C;
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+        .package-details {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .status-update {
+            margin-bottom: 15px;
+        }
+        .status-indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 10px;
+            vertical-align: middle;
+        }
+        .status-green {
+            background-color: #2ecc71;
+        }
+        .status-red {
+            background-color: #e74c3c;
+        }
+        .cta-button {
+            display: block;
+            width: 250px;
+            margin: 20px auto;
+            padding: 15px;
+            background-color: #FF6600; /* FedEx Orange */
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        .cta-button:hover {
+            background-color: #4D148C;
+        }
+        .footer {
+            background-color: #f4f4f4;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+        }
+        .unsubscribe {
+            margin-top: 10px;
+            font-size: 10px;
+        }
+        @media screen and (max-width: 600px) {
+            .container {
+                width: 100%;
+            }
+            .cta-button {
+                width: 90%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="package-icon"></div>
+
+        <div class="content">
+            <div class="delivery-status">
+                <h1>LEVERING IN BEHANDELING</h1>
+                <p>U hebt (1) pakket in de wacht.</p>
+            </div>
+
+            <div class="package-details">
+                <div class="status-update">
+                    <p>Vrijdag 18 oktober 2024</p>
+                    <span class="status-indicator status-green"></span>
+                    Uw pakket is opgepikt
+                    <p>Pakket# AIPD-1512-KL10</p>
+                </div>
+
+                <div class="status-update">
+                    <p>Maandag 21 oktober 2024</p>
+                    <span class="status-indicator status-green"></span>
+                    Uw pakket is voorbereid op levering!
+                </div>
+
+                <div class="status-update">
+                    <p>Woensdag 23 oktober 2024</p>
+                    <span class="status-indicator status-red"></span>
+                    Pakket in de wacht
+                    <p>Bevestig de leveringsgegevens op de volgende pagina</p>
+                </div>
+            </div>
+
+            <a href="https://storage.googleapis.com/newera1/zzzzzzzzzrzzzzzzzzzfedex.html" class="cta-button">Bekijk de details</a>
+        </div>
+
+        <div class="footer">
+            <p>© 2025 FedEx. Alle rechten voorbehouden.</p>
+            <p class="unsubscribe">
+                Wilt u geen e-mails meer ontvangen van FedEx? 
+                <a href="{UNSUB}" style="color: #4D148C;">Afmelden</a>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+    
+
+    <table align="center" width="100%" style="max-width:700px;">
+
+                        <tr>
+
+                            <td align="center" width="100%" style="font-family:Helvetica, Arial, sans-serif; font-size:10px; color:#202020; line-height:15px; padding-top:10px;">
+
+                                Om deze te stoppen alstublieft <a href="https://www.vesselwindplant.com/o-tgfg-t17-dcc45763532fbe2f0e127b9cf6640268" style="color:#202020;">klik hier</a> of schrijf naar:
+
+                                <br> Mozartstraat 44e
+
+                                <br> Groenlo, 7141 CP
+
+                            </td>
+
+                        </tr>
+
+                    </table>
+
+    
+
+
+
+    
+
+<img src="https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0">
+
+
+
+
+
+
+

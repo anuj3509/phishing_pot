@@ -1,0 +1,84 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Pedido taxado e bloqueado pela fiscalizacao alfandegaria. Protocolo Correios: 898885749.
+From: Pedido-Correios <alfandega@pedido%correiosbr.net>
+To: phishing@pot
+Date: Mon, 11 Nov 2024 13:59:54 +0000 (UTC)
+Message_Id: <20241111140349.D56A141199@6044-lingering-glitter>
+Content_Type: text/html; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://taxapagamentodocorreios.com/
+  - hotmail.com
+
+DECODED TEXT CONTENT:
+------------------------------
+Atualização da Entrega - Correios Olá, rodrigo-f-p@hotmail.com , Atualização sobre sua entrega! Gostaríamos de informar que sua entrega está aguardando pagamento na alfândega. Número da Entrega: BR9702 Prazo Estimado de Entrega: Após a regularização do pagamento. Status Atual: Aguardando pagamento na Alfândega de SP. Para mais informações sobre o status, clique no botão abaixo: Ver Informações Este é um e-mail gerado automaticamente. Para dúvidas, visite nosso site .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-BR"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+</head>
+
+<body>
+
+    <div style="max-width:600px;margin:40px auto;background:#ffffff;border:1px solid #ddd;">
+
+        <div style="background-color:#005EB8;padding:20px;text-align:center;color:#ffffff;">
+
+            <h1 style="margin:0;font-size:24px;">Atualização da Entrega - Correios</h1>
+
+        </div>
+
+        <div style="padding:20px;font-size:16px;line-height:1.5;">
+
+            <p>Olá, <strong>rodrigo-f-p@hotmail.com
+</strong>,</p>
+
+            <p><strong>Atualização sobre sua entrega!</strong></p>
+
+            <p>Gostaríamos de informar que sua entrega está aguardando pagamento na alfândega.</p>
+
+            <p><strong>Número da Entrega:</strong> <span style="color:#e34e3a;">BR9702</span></p>
+
+            <p><strong>Prazo Estimado de Entrega:</strong> Após a regularização do pagamento.</p>
+
+            <p><strong>Status Atual:</strong> Aguardando pagamento na Alfândega de SP.</p>
+
+            <p>Para mais informações sobre o status, clique no botão abaixo:</p>
+
+            <p style="text-align:center;">
+
+                <a href="https://taxapagamentodocorreios.com/" style="text-decoration:none;color:#FFFFFF;background-color:#fcbf09;padding:12px 20px;border-radius:5px;font-weight:bold;display:inline-block;" target="_blank" rel="noreferrer noopener">Ver Informações</a>
+
+            </p>
+
+           
+
+        </div>
+
+        <div style="font-size:14px;text-align:center;color:#777;padding:15px;background-color:#f8f8f8;">
+
+            <p>Este é um e-mail gerado automaticamente. Para dúvidas, visite nosso <a href="https://taxapagamentodocorreios.com/" style="color:#005EB8;text-decoration:none;" target="_blank" rel="noreferrer noopener">site</a>.</p>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
+

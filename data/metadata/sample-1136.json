@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Ourocard - Liberacao.VXfQMHkaoGC4YFK4kX1",
+    "from": "\"Informa BB: Conta bloqueada - Cod.VXfQMHkaoGC4YFK4kX1\" <marthacartersddqym@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 17 Aug 2023 18:35:25 +0000",
+    "message_id": "<a149b78f3ae0393de0a46c4d14eb79a2@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"c98acf2802cdd3c1cfc57a1d0009b791\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"c98acf2802cdd3c1cfc57a1d0009b791\""
+  },
+  "attachments": [
+    {
+      "filename": "4tAVSEUdcdaiO.pdf",
+      "content_type": "application/pdf",
+      "size": 131945
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 242,
+    "html_length": 522,
+    "has_text": true,
+    "has_html": true
+  }
+}

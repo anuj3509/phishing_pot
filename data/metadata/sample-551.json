@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, sua conta foi temporariamente bloqueada.",
+    "from": "Netflix <contato@netflix.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 02 Apr 2023 16:44:30 +0000",
+    "message_id": "<6a02cf05-3425-88ff-7a11-fc807eedcaa6@netflix.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.netflix.com/PrivacyPolicy?lnktrk=EMP&amp;g=ED16D4A5C051749C7FB1B5CA09508B6364520135&amp;lkid=URL_PRIVACY",
+      "http://cdn.nflximg.com/us/email/spacer.gif",
+      "http://www.netflix.com",
+      "http://cdnnflximg.com/us/email/spacer.gif",
+      "https://www.netflix.com/EmailPreferences?lnktrk=EMP&amp;g=ED16D4A5C051749C7FB1B5CA09508B6364520135&amp;lkid=URL_COMM_SETTINGS",
+      "http://cdn.nflximgcom/us/email/spacer.gif",
+      "https://help.netflix.com/help?lnktrk=EMP&amp;g=ED16D4A5C051749C7FB1B5CA09508B6364520135&amp;lkid=URL_HELP_3",
+      "https://help.netflix.com/help?lnktrk=EMP&amp;g=ED16D4A5C051749C7FB1B5CA09508B6364520135&amp;lkid=URL_HELP_4",
+      "https://i-6otvybu4aq-rj.a.run.app/nf/?tr=8083521e72c34f0c9a65afe1028d0771&amp;t1=net",
+      "http://www.netflix.com/TermsOfUse?lnktrk=EMP&amp;g=ED16D4A5C051749C7FB1B5CA09508B6364520135&amp;lkid=URL_TERMS",
+      "http://beacon.netflix.com/img/BAQgBEAEa0AJ2THSsgosiINnMMOKPnivWKSK-WmHHLwvtmTf2TDI_GuFdQ7rh6ZsD7KUYbtEoyrbWZRrh4iEyxxZCzrO8sWQOiU_odcac9hqp4d1NjM42iBlbzd1izHmqQkRJs5L7FjrFGi8ptQ6yBZjVDCqDALsDzQrDt2vPArfk8iEy_YtQOWUuW_fPhxkgMGyS2ycvoHPgAgQQeKrku_e3URLPyFpCotecLoUUIAX011dWTwWhfHNu41uGu_CANNAMcoRDP8V4ju89Ek_OVv2CU73iZQ2WBxS_7Kl9uCLbnkwYGd95gG8pLmCkOYs6VRxR38Qbr1WNotdlnDkgztd6XVBc320Gn63NRlpbV9ukOEtoKfJVRza6q7kt7WCRfhI5AF6Xb8kUFhHFz7wjoFCA57axsmW7sU3-dY9O0C4uC-POqDEsyGligTCPS7WONuo61bIdKZk.",
+      "help.netflix.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1512,
+    "html_length": 12158,
+    "has_text": true,
+    "has_html": true
+  }
+}

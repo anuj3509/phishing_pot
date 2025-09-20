@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "REF",
+    "from": "\"Dr. Serhiy Tulub\" <urpmtoffice@nithyamotors.com>",
+    "to": "undisclosed-recipients: ;",
+    "date": "Thu, 2 Feb 2023 01:40:22 +0000",
+    "message_id": "<2ae9d334-9b54-3cd0-48c0-71c5107bae57@nithyamotors.com>",
+    "content_type": "text/plain; charset=UTF-8; format=flowed"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=UTF-8; format=flowed"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "business.Though,this"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1429,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Torcedores ao Clube do Cartão Black Bradesco Exclusive",
+    "from": "Bradesco Prime <naoresponder@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Mar 2024 17:05:07 +0000",
+    "message_id": "<339d01c8-ba3c-8375-9eb3-088f56e771b7@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      "https://b-a4qxna7jwq-rj.a.run.app/br/?tr=ef638e0c8fdf4ceb8c4f62c2f49d8ff4&amp;t1=bra",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "httpsteses.usp.brtesesdisponiveis55160tde-24102007-",
+      "httpwww.tribunadaimprensa.com.br?p6379",
+      "143128publicosumaiagekhouri.pdf"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 100476,
+    "html_length": 183876,
+    "has_text": true,
+    "has_html": true
+  }
+}

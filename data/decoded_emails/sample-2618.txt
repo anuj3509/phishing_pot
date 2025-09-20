@@ -1,0 +1,92 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: PLEASE GET BACK TO US
+From: "Jonathan  Okons" <test@jzbgno.hospedagemweb.net>
+To: Recipients <test@jzbgno.hospedagemweb.net>
+Date: Tue, 16 Jan 2024 15:02:12 -0800
+Message_Id: <20240116130152.7E00786440@rap-p-mail1.p1.ams.basefarm.net>
+Content_Type: multipart/mixed; boundary="----------=_65A67E40.E84EC155"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/mixed; boundary="----------=_65A67E40.E84EC155"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - jonathan.okons@gmail.com
+  - zen.spamhaus.org]
+  - rap-p-mail1.p1.ams.basefarm.net
+
+DECODED TEXT CONTENT:
+------------------------------
+Spam detection software, running on the system "rap-p-mail1.p1.ams.basefarm.net",
+has identified this incoming email as possible spam.  The original
+message has been attached to this so you can view it or label
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  Hello Friend, How are you and your family today? My name is
+   Jonathan. E Okons, My family need your assistance to transfer and invest
+  the sum of USD$45.5 Million dollars( Forty five Million Five Hundred United
+   States Dollars ). My late father deposited it in a bank here before his sudden
+   death of covid-19 2021. [...] 
+
+Content analysis details:   (15.6 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+ 0.1 RCVD_IN_SBL            RBL: Received via a relay in Spamhaus SBL
+                            [194.33.191.16 listed in zen.spamhaus.org]
+ 0.4 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+ 3.3 RCVD_IN_SBL_CSS        RBL: Received via a relay in Spamhaus SBL-CSS
+ 0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+                            [score: 0.5000]
+ 0.0 SPF_NONE               SPF: sender does not publish an SPF Record
+ 0.5 SUBJ_ALL_CAPS          Subject is all capitals
+ 1.9 DATE_IN_FUTURE_06_12   Date: is 6 to 12 hours after Received: date
+ 0.0 MILLION_HUNDRED        BODY: Million "One to Nine" Hundred
+ 0.5 MILLION_USD            BODY: Talks about millions of dollars
+ 0.5 MISSING_MID            Missing Message-Id: header
+ 0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 RCVD_IN_MSPIKE_BL      Mailspike blocklisted
+ 0.0 LOTS_OF_MONEY          Huge... sums of money
+-0.0 T_SCC_BODY_TEXT_LINE   No description available.
+ 0.0 RCVD_IN_MSPIKE_ZBI     No description available.
+ 1.8 MONEY_FREEMAIL_REPTO   Lots of money from someone using free email?
+ 2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+ 1.6 TO_EQ_FM_DIRECT_MX     To == From and direct-to-MX
+ 0.2 HELO_MISC_IP           Looking for more Dynamic IP Relays
+ 1.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+
+
+Hello Friend,
+
+
+How are you and your family today? My name is Jonathan. E Okons,
+My family need your assistance to transfer and invest the sum of
+USD$45.5 Million dollars( Forty five Million Five Hundred United
+States Dollars ). My late father deposited it in a bank here before his
+sudden death of covid-19 2021.
+
+We want these funds transferred and invested in your country through your
+assistance and directive.30% of this funds is your commission for
+assisting us.
+
+This funds transaction is 100% genuine,Real, legal and free risk.
+
+Please get back to me through this email: jonathan.okons@gmail.com , for
+more details
+
+Feel free to get back to us.
+
+Thanks,
+Jonathan  Okons,
+For the Family.
+
+

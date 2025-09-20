@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Hallo phishing@pot Sie sind einer unserer m��glichen Finalisten f��r einen REWE Gutschein.",
+    "from": "Gewinner Team, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 14 Dec 2023 16:48:00 +0100",
+    "message_id": "<FuXDWwo.0.0.FuXDWwo.9.FuXDWwo@stayfriends.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://lovvisadvertising.go2cloud.org/aff_i?offer_id=799&amp;file_id=5904&amp;aff_id=1315",
+      "www.zupimages.net/up/23/50/wofz.png",
+      "https://www.zupimages.net/up/23/08/jev8.jpg",
+      "http://rewe-groupe.superkoran.info/a1RRb1FGREg0Rzd0S2ltWU1OMi8rME5zZXJQRklibCtJSVNtNzlvYlMvSVNLQjM3SE4wQm5GWWdGbjRrMDdZVWxMNkJhZ2dydHU5c2V0alhMdFFvUW1ZMm9aZmJyUzRkK0tQRjlneE1LSlk9",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/23/50/ugn9.png",
+      "http://rewe-groupe.superkoran.info/MHZVVldHTDNjY2o1WDJncUVJZ01HQUVETUNHS0pPYmNMNmgzRURYd1NKaVJ4b25GZWNPUVd5OStTWDBqS0I1U3ZzUjIxWURQaTNBbk9CeEtMU2taVU84UWM0Z1FTdkZid0hZV3Y5MlBIQmc9",
+      "https://www.zupimages.net/up/23/50/wofz.png",
+      "www.zupimages.net/up/23/08/jev8.jpg",
+      "http://rewe-groupe.superkoran.info/UDF3Yi9NVHRQQ2ZPaWd1eE00SGxMTWJMT2ZJNk4yR1NXcDdKRFlrMm9sNitWTUR1OXZ3MG9QcWJJb0h4WU9haHhsMXIyRUNEYTVDYlhiNDBUMzgrN3k3SmZqei9aTlBnSXo1R1ByMGxkVlU9",
+      "https://linkingroutes6.com/?a=6073&amp;oc=19693&amp;c=53289&amp;m=3&amp;s1=",
+      "www.zupimages.net/up/23/50/ugn9.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1435,
+    "html_length": 7365,
+    "has_text": true,
+    "has_html": true
+  }
+}

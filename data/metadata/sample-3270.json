@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "POR FAVOR, VERIFIQUE SE VOCÊ RECEBEU MINHA PRIMEIRA MENSAGEM PARA VOCÊ, SE SIM, VOLTE PARA MIM",
+    "from": "ALI IMRAN <ali8888imrann@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 15 May 2024 10:43:57 +0000",
+    "message_id": "<f66a17ebf3b136594ffe01dd3ac02392@mail4.unet.com.mk>",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_ec5fa7addab856b39f47aca2c294a495\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"=_ec5fa7addab856b39f47aca2c294a495\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com).",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 388,
+    "html_length": 767,
+    "has_text": true,
+    "has_html": true
+  }
+}

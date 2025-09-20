@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Important Notice",
+    "from": "\"proton.me support\" <sls076n041@infor-demo.com>",
+    "to": "phishing@pot",
+    "date": "17 Jul 2023 09:14:58 +0200",
+    "message_id": "<20230717091458.640571F662496EB3@infor-demo.com>",
+    "content_type": "multipart/mixed;boundary=---------------------de2ca15744f3dc0c142df3e0d9851715"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------de2ca15744f3dc0c142df3e0d9851715"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://contact.plainer.shop/presentation.html?cod=phishing@pot",
+      "http://www.proton.me/mail/version/update",
+      "www.proton.me/mail/version/update",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 520,
+    "html_length": 1632,
+    "has_text": true,
+    "has_html": true
+  }
+}

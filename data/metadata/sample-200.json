@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Ik denk dat dit wat voor jou is",
+    "from": "\"Mia\" <newsmail@appsh.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Dec 2022 19:55:28 +0000",
+    "message_id": "<0.0.0.0.1D91AF65562CED8.2893@bsd-web.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://nospamlink.com/ebc449f0-c9ef-41fb-bc65-2183719864bc/",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);",
+      "http://safesecurelog.com/?a=77&amp;c=60&amp;s1=soukaina26/12&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2354,
+    "html_length": 9540,
+    "has_text": true,
+    "has_html": true
+  }
+}

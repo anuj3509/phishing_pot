@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Limited edition Cyber Lama NFTs available for minting!",
+    "from": "CyberLama <cyberlama@cyberlama.co>",
+    "to": "phishing@pot",
+    "date": "Wed,  6 Mar 2024 16:03:23 +0000 (UTC)",
+    "message_id": "<e8cdec22.AWQAADudW3QAAchsuiIAAWUvPpkAAYCud_wAnxiHAChAbQBl6JPL@mailjet.com>",
+    "content_type": "multipart/alternative; boundary=\"=-NUpyzFKyaVjYGJjct990\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-NUpyzFKyaVjYGJjct990\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://www.cyberlama.co/",
+      "https://s2jxs.mjt.lu/unsub2?hl=en&amp;m=AWQAADudW3QAAchsuiIAAWUvPpkAAYCud_wAnxiHAChAbQBl6JPL3qkkIx0ZSm-_7kjaNmcr8AAlWqM&amp;b=e8cdec22&amp;e=bfeb430e&amp;x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw",
+      "https://eb6kwnnre7xpru7ym7el4xucbbx3657kex7e3nrvyxd4k6dv4w6a.arweave.net/IHyrNbEn7vjT-GfIvl6CCG-_d-ol_k22NcXHxXh15bw?ext=png",
+      "https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png][https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png][https://www.mailjet.com/images/theme/v1/icons/ico-social/google-plus.png]",
+      "https://s2jxs.mjt.lu/oo/AWQAADudW3QAAchsuiIAAWUvPpkAAYCud_wAnxiHAChAbQBl6JPL3qkkIx0ZSm-_7kjaNmcr8AAlWqM/6becf62b/e.gif",
+      "https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png",
+      "https://www.mailjet.com/images/theme/v1/icons/ico-social/google-plus.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.seadn.io/gae/pwDb3PYfmuz5ABxMYmPd-cbwLUwMgWxAj5ygCds8_tNYkXGEB5BsPsY8bIxtXK_0BVM_hkjeKELJ0G6G7X6on6xBngSVwfqooNJVzg?auto=format&amp;dpr=1&amp;w=1000",
+      "https://s2jxs.mjt.lu/unsub2?hl=en&m=AWQAADudW3QAAchsuiIAAWUvPpkAAYCud_wAnxiHAChAbQBl6JPL3qkkIx0ZSm-_7kjaNmcr8AAlWqM&b=e8cdec22&e=bfeb430e&x=UqvGKt8IMEpbnP8m5kaXDOAYYQS4-2MqoVzBYVNf3Gw",
+      "https://eb6kwnnre7xpru7ym7el4xucbbx3657kex7e3nrvyxd4k6dv4w6a.arweave.net/IHyrNbEn7vjT-GfIvl6CCG-_d-ol_k22NcXHxXh15bw?ext=png]",
+      "https://www.cyberlama.co/]",
+      "table.mj-full-width-mobile",
+      "https://i.seadn.io/gae/pwDb3PYfmuz5ABxMYmPd-cbwLUwMgWxAj5ygCds8_tNYkXGEB5BsPsY8bIxtXK_0BVM_hkjeKELJ0G6G7X6on6xBngSVwfqooNJVzg?auto=format&dpr=1&w=1000]",
+      "https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1394,
+    "html_length": 18290,
+    "has_text": true,
+    "has_html": true
+  }
+}

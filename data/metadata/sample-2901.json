@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Receba sua cotação, consulte Rodrigo",
+    "from": "Maria Helena <helena@go.cotandoplanodesaude.com>",
+    "to": "Rodrigo <phishing@pot>",
+    "date": "Wed, 21 Feb 2024 05:28:35 +0000",
+    "message_id": "<65d58a022b61d3190dd7843a@mailersend.net>",
+    "content_type": "multipart/alternative; boundary=hNfLHgKL"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=hNfLHgKL"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eep.coteplano.com/snd/l/HUdzIswXb4Zgugt2N2QnKA/1KrpkjOuSGnRAkKfAK6gog/Ly7aE932trIJJ3m763xYlR5w]",
+      "https://neqvygmmv98g0p7w.click.mailersend.net/tl/cws/eyJpdiI6InpodGM0b2JPQTlnUHhTaityNDQ2Wmc9PSIsInZhbHVlIjoiaGxNTWpwT0g0RWFKdS8rMkFtUDc2cXpqaUNnM1ZRaFZmQ0FoSHJEd2RBei9TcGJZTU1NRXZleXRJSktWeXFMVDlPclJ4UGc1Yk1nVDJWcDRVRGY2YUFGVnBLcno0YUhXb2VsRXVaZjhjTUhWVTAwUHgyQWxhRUMxandkZ2g2YXIvZXhsaGJZd25BRGxiZHJMTjdzMWpmTXVjVTA3aFFWNFQrdVZGM2RqMkRDeXZNSFFvS1JiK3BUVkFHSlcrR2FNMDVkZjRlTUUzc2tQbTZIdzN2T251Zz09IiwibWFjIjoiYTk3YmM0OGM0NTJjMGY3MGI3NzljNWQ5OTQ3NzRlM2Q1OTZlNThiY2NiODVjNjJmMmE3ZmYwZDBkNzEyNDBkYiIsInRhZyI6IiJ9",
+      "https://neqvygmmv98g0p7w.click.mailersend.net/uws/65d52820c30d8435e94afaad?parameters=eyJpdiI6IlEvZjlmVk5KRkY0MjU2OURqU2N0Znc9PSIsInZhbHVlIjoiYzdDcDZwR3lMMWMrNXBFbEJCQXJMN0NFbWlxUEVlYU53V1JZVk9oWnZ0ZmMxQXZtcFM1VWg3WmJmWWp3bDJVL05SSkVBMDNyNGx0UnlZMDYvTGp4aG1ibTh2am0xMUFyUldmUnVxOVZHZmc9IiwibWFjIjoiNjgwNTEyNjk3YTJmNzg5MjY4ZDE1OTI3MjZmZWEyMjI1NjM3ZTZkYzkwYjNiOThmZGNkNWY4NjY3ZTAyMjcyYiIsInRhZyI6IiJ9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1065,
+    "html_length": 2959,
+    "has_text": true,
+    "has_html": true
+  }
+}

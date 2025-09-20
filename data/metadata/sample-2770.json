@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot-f-p , 500��� EDEKA-Gutschein erhalten ���",
+    "from": "EDEKA-Gutschein, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 Jan 2024 03:08:48 +0100",
+    "message_id": "<uic8ww8.js07m.aow.aow@trnusfhvspasiso.myg>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://sf22.sendsfx.com/admin/temp/user/2/edeka-500%E2%82%AC-img-2.png",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-27/iEUdkyP1706372139638.html#cl/5915_md/4049/25197/1281/143/149762",
+      "http://www.w3.org/1999/xhtml",
+      "sf22.sendsfx.com/admin/temp/user/2/edeka-500%E2%82%AC-img-2.png",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-27/iEUdkyP1706372139638.html#oop/5915_md/4049/25197/1281/143/149762",
+      "https://cdn.eztalks.com/20240116205119114/2024-01-27/iEUdkyP1706372139638.html#op/5915_md/4049/25197/1281/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2072,
+    "html_length": 9437,
+    "has_text": true,
+    "has_html": true
+  }
+}

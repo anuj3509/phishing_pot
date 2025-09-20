@@ -1,0 +1,50 @@
+{
+  "headers": {
+    "subject": "\"WAARSCHUWING!!!Het systeem heeft (20) virussen op uw computer gedetecteerd...\"",
+    "from": "Secure_Partner_Alliance, Secure_Partner_Alliance,\r\n\t<noreply@team.mobile.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Sep 2024 17:32:47 +0000",
+    "message_id": "<MPVVWWNNFGWCEQ8AU9KYO1L@team.mobile.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4CDhzq34049UsOU725rbnrsivvcd14302LYACPGYWQOCDXMA2NXRC6295z10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4xTIAN34049nFTE725zwcqzubxnl14302XRTPHHXVOZKLVPZ2RSFV6295M10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4taMOK34049wxNQ725gxiqcydkvn14302HIDXQOIBNKCQGYG2FYKI6295H10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4ANkgR34049berB725nbomfrbtrs14302HATXNIANECXDMFR2EFFW6295z10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4peMge34049vVPA725vobbjuwjbp14302XCMZGMDULEOPYIG2PGXJ6295l10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4bQRDB34049Nmhu725uzhyoemjyg14302XLTSGQGVVFIULCD2BNOC6295K10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4wMoSO34049Tagj725hfjtpqfyiu14302JUJJEEXMIHAIILT2GZZQ6295t10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4pgbkf34049MZXm725lhanvbjhct14302GMZNBKGMATDXPSM2TSWJ6295O10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4YVSSg34049gpHh725ouzhlkwjwd14302NQLPIZACVMPHFCF2XCBJ6295F10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4XkZDf34049pntN725hfdtnfeswa14302JOOBVOPZFGXBEUS2SWQP6295e10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4mVsmo34049grwg725zqpycpbbjs14302GSCEYSQZTDHUWIP2UEQB6295G10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4oLMdm34049SAaX725edhakiuxxr14302LPVVVSHLIVQHULX2AXNI6295e10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#5bjOeZ34049gRNZ725atjpyuaoju14302ZVUHWREPHGLNJTS2LBYE6295F10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4yUoCa34049xnVh725qsrwpbqemw14302PAKVUMPGFTIBUUP2ESVQ6295i10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4JmCdP34049YyYf725bfugqyjkbl14302INEPFKXMGDHAVRJ2KLCH6295K10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4YSMWd34049hpAq725pyaextygyy14302HWMAAMWZISHUILN2KWXT6295x10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#6cZNNH34049jXCy725fmsyxmukxt14302KXPWIOQTJKCSGHT2QSMY6295t10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4sotGU34049FzeR725luwpchiqet14302NXGPSRBIYSIMPRO2BTMM6295r10",
+      "https://storage.googleapis.com/koin/topmarktingplace.html#4wZXFb34049WpvK725pltmmchelt14302DXPVNLQBUANMDJQ2ZJIS6295I10"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 652,
+    "html_length": 9049,
+    "has_text": true,
+    "has_html": true
+  }
+}

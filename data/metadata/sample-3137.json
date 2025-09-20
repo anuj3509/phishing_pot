@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "For your own safety, I highly recommend reading this email.",
+    "from": "<phishing@pot>",
+    "to": "\"croniclestw@1\" <phishing@pot>",
+    "date": "25 Mar 2024 16:34:49 +0200",
+    "message_id": "<53F740D57DE462E84CFB6EC65FD953F7@HS6KTTN51>",
+    "content_type": "text/plain;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "...Forget",
+      "...Do"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4485,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

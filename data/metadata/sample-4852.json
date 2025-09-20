@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "KYC-Metamask : Notification!",
+    "from": "\"No-Reply@digilan.it\" <No-Reply@digilan.it>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>,\n\t\"jaron_inspace@hotmail.com\" <jaron_inspace@hotmail.com>,\n\t\"cetingoksu1975@hotmail.com\" <cetingoksu1975@hotmail.com>,\n\t\"max12444@hotmail.com\" <max12444@hotmail.com>, \"ufukcabbar@hotmail.com\"\n\t<ufukcabbar@hotmail.com>, \"queen_t@hotmail.co.uk\" <queen_t@hotmail.co.uk>,\n\t\"didou2200@hotmail.fr\" <didou2200@hotmail.fr>, \"erdalu@hotmail.com\"\n\t<erdalu@hotmail.com>, \"lol@hotmail.com\" <lol@hotmail.com>,\n\t\"david_jpn@hotmail.com\" <david_jpn@hotmail.com>",
+    "date": "Sat, 1 Feb 2025 12:38:05 +0000",
+    "message_id": "<c6af5d05a5184f388b31f1faf1098784@digilan.it>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_000_c6af5d05a5184f388b31f1faf1098784digilanit_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"_000_c6af5d05a5184f388b31f1faf1098784digilanit_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "update-kyc-verification.s3.eu-north-1.amazonaws.com/index.html",
+      "https://static-forums.routard.com/original/4X/e/f/6/ef6e1e31397d9aa33a8dd8250a3531ee56242334.png",
+      "https://static-forums.routard.com/original/4X/e/f/6/ef6e1e31397d9aa33a8dd8250a3531ee56242334.png]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 805,
+    "html_length": 5006,
+    "has_text": true,
+    "has_html": true
+  }
+}

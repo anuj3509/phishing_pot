@@ -1,0 +1,75 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Bradesco Prime - Protocolo: C211XBYM32
+From: Bradesco  <074999@cefro.com>
+To: phishing@pot
+Date: Tue, 27 Dec 2022 14:34:01 +0000
+Message_Id: <3ee4de85db08bfe2d7545ab12a564c6d@localhost.localdomain>
+Content_Type: multipart/alternative;
+	boundary="b1_3ee4de85db08bfe2d7545ab12a564c6d"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+	boundary="b1_3ee4de85db08bfe2d7545ab12a564c6d"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - http://www.hlife-hotel.com//wp-content/themes/sailing/js/
+  - http://www.hlife-hotel.com//wp-content/themes/sailing/js/logo.jpg
+
+DECODED TEXT CONTENT:
+------------------------------
+ssssssssssssssssssssssssssssssssssaaaaaaaaaaaaaaaaa
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="padding: 0px;margin: 0px;background-color: #e4e4e4; padding: 5px 0px;font-family: Arial, Helvetica, sans-serif;font-size: 13px;">
+    <div style="width:600px; margin: 0 auto;background-color: #ffff; padding: 15px;border-top: 3px solid #0e1e64;">
+       <h1 style="text-align: center;font-family: Arial, Helvetica, sans-serif;color:#0e1e64;margin-bottom: 20px; font-size:21px;">Parabns! Voc foi selecionado para se tornar um cliente Bradesco Prime!</h1>
+       <table style="width: 100%;font-family: Arial, Helvetica, sans-serif;font-size: 13px; margin-bottom: 25px;border-collapse: collapse;">
+        <tr>
+            <td style="border: 1px solid #0e1e64;" width="150"><img style="vertical-align: top;" width="150" src="http://www.hlife-hotel.com//wp-content/themes/sailing/js/logo.jpg" alt=""></td>
+            <td style="border: 1px solid #0e1e64;border-spacing: 20px;">
+                <span style="display: block;padding:7px;border-bottom: 1px solid #0e1e64;"><strong>N de protocolo:</strong> 1010.1226.9182.284</span>
+                <span style="display: block;padding:7px;border-bottom: 1px solid #0e1e64;"><strong>Nome do cliente:</strong> RODRIGO FERREIRA PEIXOTO</span>
+                <span style="display: block;padding:7px;border-bottom: 1px solid #0e1e64;"><strong>CPF do cliente:</strong> Not today, Satan!</span>
+                <span style="display: block;padding:7px;border-bottom: 1px solid #0e1e64;"><strong>Data de envio do convite:</strong> 27/12/2022</span>
+                <span style="display: block;padding:7px;"><strong>Validade do convite:</strong> 3 dias</span>
+            </td>
+        </tr>
+       </table>
+       <p style="text-align:justify;line-height:19px;">Caro(a) cliente <strong>RODRIGO FERREIRA PEIXOTO</strong>,<br><br>Devido ao seu timo relacionamento com o banco <strong>Bradesco</strong>, sua conta foi selecionada para fazer parte do seleto grupo de clientes do segmento <strong>Prime</strong> do banco <strong>Bradesco</strong>.</p>
+       <p style="text-align:justify;line-height:19px;">Esse segmento foi criado exclusivamente para clientes que, assim como voc, possuem um grande potencial econmico. Tornando-se um cliente <strong>Prime</strong>, voc ter acesso a diversos benefcios, como crdito com taxas especiais, carto sem limite de crdito, atendimento em agncias exclusivas e gerente 24 horas por dia via WhatsApp.</p>
+
+       <p style="text-align:justify;line-height:19px;">Conhea alguns dos benefcios para clientes <strong>Prime</strong>:</p>
+
+       <p style="text-align:justify;line-height:19px;">
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>1.</strong> Acesso a agncias exclusivas <strong>Bradesco Prime</strong>, sem filas e com vrios mimos que voc merece.</span>
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>2.</strong> Acesso a cartes de crdito (Black e Infinity) com 100% de iseno de anuidades</span>
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>3.</strong> Programa de pontos <strong>Livelo</strong> com recompensa de 1 ponto por cada real gasto.</span>
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>4.</strong> Gerente Prime disponvel 24 horas por Whatsapp.</span>
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>5.</strong> Acesso a crditos imobilirio e veicular com taxa de 12% ao ano e carncia de 90 dias para comear a pagar.</span>
+        <span style="display: block;margin-bottom:5px;margin-left:10px"><strong>6.</strong> Cheque especial com 15 dias sem juros.</span>
+        </p>
+
+        <p style="text-align:justify;line-height:19px;margin-bottom: 50px;">Esses e outros benefcios esto disponveis imediatamente para voc. Clique no boto abaixo e se torne um cliente <strong>Bradesco Prime</strong>.</p>
+
+        <div style="text-align:center; margin-bottom: 50px;">
+            <a style="text-decoration:none;border:1px solid #0e1e64; padding:12px;color:#0e1e64;font-weight: bold;" href="http://www.hlife-hotel.com//wp-content/themes/sailing/js/">CLIQUE AQUI PARA SE TORNAR UM CLIENTE PRIME</a>
+        </div>
+    </div>
+</body>
+</html>

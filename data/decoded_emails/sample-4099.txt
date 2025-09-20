@@ -1,0 +1,580 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: You have an updated information
+From: Microsoft Directive <no-reply@sbtjapan.com>
+To: phishing@pot
+Date: Thu, 19 Sep 2024 08:06:32 +0000
+Message_Id: <0100019209518e27-37828238-dc78-4814-be06-a8b124600ee5-000000@email.amazonses.com>
+Content_Type: multipart/alternative;
+ boundary="--_NmP-0fce7f745c33f627-Part_1"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: multipart/alternative;
+ boundary="--_NmP-0fce7f745c33f627-Part_1"
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: urgent, immediately, update
+URLs found:
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=0sund7ma53r5ehb9d4ah623f3kq1f8b7ichiq8aiqusls6snshbg
+  - https://cloud.carbonite.com/pub/as?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWOaB0BccMGqIlLl7o1z_-Dww_hr1rRWlImupRq2IGtcy6NXdhEwlN_4ScTPd6HPSyCW4REu7Z8NIAQG-6gR1GXd7eDJHC25FRfgeoc73k-QZDwMtJZg6Z41pBA.
+  - https://logincdn.msauth.net/16.000.28230.00/images/microsoft_logo.svg?x=ee5c8d9fb6248c938fd0dc19370e90bd
+  - span.MsoHyperlinkFollowed{
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYYY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=t000rr1f99iuon0r26evdurp1elms167cc21ujmlq3eucp2ud6fg
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&amp;_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&amp;_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0
+  - http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ej8s83istav80qos3dlqghlnsb06jdqm834i2f8gqasab9f24d00
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWDY&amp;_ei_=EOwPQ42l-mBFJGD0ZPxQdvm3_IjeWIwpJE9r6Uui0eAC_7BKqPubbLGX9pWuCxaKoZln3NDgQ_sgxCwHfcnhVYwKTjO00VuM8spgFghQ-eM2Lqz25tiezEoYBRWqQPDfVUtvIMa0ruMzoM__6_NIZay9cc0tvwe-OGcgS-2-z0v624Vn4KmP2OO6lkpLq5YJEwVDsDx659pxLGbf459if0iV1jU.&amp;_di_=vk9vu2dpsk6qlq7bt01qkna4lje94jnfijvhmk6o24q2hbtjgkl0
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ccsrv4e00pigbge1fnq5pqihq3e8nmm78j5ccrcu4te2ic1uabhg
+  - http://www.w3.org/1999/xhtml
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg
+  - hotmail.com
+  - https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/in.png
+  - https://littylink.com/zuhpxbm
+  - span.MsoHyperlink{
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYBY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=khbl44qabl97ku8cb8f9tgqatjl8o1ehk7bouud8cng2q471tr40
+  - https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/x-blue_20x20.png
+  - https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWBY&amp;_ei_=ENmIPj3ca0LF8wDBAiaGyJCKthWDtt06oyPRiCY5oLkUFX3Xqmlmtvsdmt4RSLj6l1XKoy1wgkzh8M9Usvcktxml1-glYBucwjt18rmUaEq0v3yi62FBWxg2cO5TZYhIs83shAwmm5UKBkfxAfjN3OVEnX0k13qcXjI12CpwsO4ORkykOJXE6REEA9XLQ3dYN0.&amp;_di_=bsbd9omgmq451mbld7tujes3fme8l9ovem01uvs1cntmndte2nbg
+  - fonts.googleapis.com/css?family=Open+Sans
+  - https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/fa.png
+
+DECODED TEXT CONTENT:
+------------------------------
+ini versi text nya
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans">
+    
+    
+    
+        <title>Password reset</title>
+        
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0 ">
+        <meta name="format-detection" content="telephone=no">
+        <style type="text/css">
+            body{
+                margin:0!important;
+                padding:0!important;
+                -webkit-text-size-adjust:100%!important;
+                -ms-text-size-adjust:100%!important;
+                -webkit-font-smoothing:antialiased!important;
+            }
+            img{
+                border:0!important;
+                outline:0!important;
+            }
+            p{
+                Margin:0!important;
+                Padding:0!important;
+            }
+            table{
+                border-collapse:collapse;
+                mso-table-lspace:0;
+                mso-table-rspace:0
+            }
+            a,span,td{
+                border-collapse:collapse;
+                mso-line-height-rule:exactly;
+            }
+            .ExternalClass *{
+                line-height:100%
+            }
+            .pc_defaultlink a{
+                color:inherit!important;
+                text-decoration:none!important;
+            }
+            span.MsoHyperlink{
+                mso-style-priority:99;
+                color:inherit
+            }
+            span.MsoHyperlinkFollowed{
+                mso-style-priority:99;
+                color:inherit
+            }
+            * img[tabindex="0"]+div{
+                display:none!important;
+            }
+            img + div {
+                display:none;
+            }
+    
+            a[x-apple-data-detectors] {
+                color: inherit !important;
+                text-decoration: none !important;
+                font-size: inherit !important;
+                font-family: inherit !important;
+                font-weight: inherit !important;
+                line-height: inherit !important;
+            }
+            @media only screen and (min-width: 481px) and (max-width: 659px) {
+                .pc_wrapper{
+                    width:100%!important;
+                }
+                .pc_hide{
+                    display:none!important;
+                }
+                .pc_full_img{
+                    width:100%!important;
+                    height:auto!important;
+                }
+                .pc_align_cent{
+                    text-align:center!important;
+                }
+                .pc_mobile{
+                    display:table!important;
+                    max-height:none!important;
+                    max-width:100%!important;
+                }
+                .pc_no_border{
+                    border:none!important;
+                }
+            }
+            @media only screen and (max-width: 480px) {
+                .pc_wrapper{
+                    width:100%!important;
+                }
+                .pc_hide{
+                    display:none!important;
+                }
+                .pc_hide_mb {
+                    display: none!important;
+                }
+                .pc_show_mb {
+                    display: table!important;
+                    max-height: none!important;
+                    max-width: 100%!important;
+                }
+                .pc_full_img{
+                    width:100%!important;
+                    height:auto!important;
+                }
+                .pc_align_cent{
+                    text-align:center!important;
+                }
+                .pc_mobile{
+                    display:table!important;
+                    max-height:none!important;
+                    max-width:100%!important;
+                }
+                .pc_no_border{
+                    border:none!important;
+                }
+            }
+    
+            .bg {
+                width: 100%!important;
+                padding-left: 0;
+                padding-right: 0;
+                background-size: cover;
+                background-position: center;
+                background-repeat: no-repeat!important;
+            }
+        </style>
+        <!--[if gte mso 9]>
+        <xml>
+            <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+            </o:OfficeDocumentSettings>
+        </xml>
+        <![endif]-->
+        <!--[if (mso)|(mso 16)]>
+        <style type="text/css">
+        a {text-decoration: none;}
+        </style>
+        <![endif]-->
+    </head>
+    <body style="margin:0px; padding:0px; background-color: #ffffff;">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <!-- BEGIN Preheader -->
+            <!-- END Preheader -->
+            <tr>
+                <td align="center">
+                    <table width="640" border="0" cellspacing="0" cellpadding="0" align="center" style="table-layout:fixed;" class="pc_wrapper">
+                        <tr>
+                            <td align="center" valign="top">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                    <tr>
+                                        <!--[if !mso]><!-->
+                                        <td width="20" class="pc_mobile" style="display: none;">&nbsp;</td>
+                                        <!--<![endif]-->
+                                        <td align="center" valign="top">
+    
+    
+                                        <!-- TEMPLATE BEGIN -->
+                                            <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                       
+                                                <!-- Begin Preheader -->
+                                                <tr>
+                                                    <td data-content-region-name="header">
+                                                        <!-- Begin Preheader -->
+                                                        <!-- END Preheader -->
+                                                        <!-- BEGIN Spacing -->
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                            <tr>
+                                                                <td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END Spacing -->
+    </td>
+                                                </tr>
+                                                <!-- END Preheader -->
+                                                
+                                                <!-- BEGIN Header Logo -->
+                                                <tr>
+                                                    <td data-content-region-name="logo">
+                                                        <!-- BEGIN Header Logo -->
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                            <tr>
+                                                                <td align="left" valign="top">
+                                                                    <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0" shash="OyGwyo59B5IQsbauNsqICBNIwa7mP3xl+q8vgazUNIIhaFJPHdSnoUUenTAtiK42aUn9epsNMFy/HvylvDyjupBBfBsgxwI1yV9DpYsa5TyWWB/hD/wAt3hKZdfscNlUix4yItBRdy2YskM59ilAdff8hdT9eHtDwjo+LI1u58Q=" target="_blank" style="text-decoration: none;">
+                                                                        <img src="https://logincdn.msauth.net/16.000.28230.00/images/microsoft_logo.svg?x=ee5c8d9fb6248c938fd0dc19370e90bd" width="120" style="display: block; width: 120px;">
+                                                                    </a>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END Header Logo -->
+    
+                                                        <!-- BEGIN Spacing -->
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                            <tr>
+                                                                <td height="30" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END Spacing -->
+    </td>
+                                                </tr>
+                                                <!-- END Header Logo -->
+    
+                                                <!-- BEGIN Region01 -->
+                                                <tr>
+                                                    <td data-content-region-name="region01">
+    <!-- BEGIN Copy -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+      <tbody>
+        <tr>
+          <td align="left" style="font-family:inter, arial, sans-serif; font-size:16px; line-height:24px; color:#222F39;" valign="top">Hi rodrigo-f-p@hotmail.com
+,
+            <br>
+            <br>
+            We urgently need your attention regarding our updated User Agreement. To maintain your access to our services, you must act immediately. You must review and accept the new terms by Tuesday, 24 Sep 2024.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- END Copy --><!-- BEGIN Spacing -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+      <tbody>
+        <tr>
+          <td height="30" style="font-size: 1px; line-height: 1px;">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- END Spacing --></td>
+                                                </tr>
+                                                <!-- END Region01 -->
+    
+                                                <!-- BEGIN Region02 -->
+                                                <tr>
+                                                    <td data-content-region-name="region02">
+    <!-- BEGIN CTA -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+      <tbody>
+        <tr>
+          <td align="center" valign="top">
+            <div><!--[if mso]>
+    <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&amp;_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&amp;_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg" originalSrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg" shash="KrACA/KxuPPshZnGuKOcmpWpMoO63oiXhOcCkuXh6BG7w6aDZj6a4eHXUSs/7STOiZmLL44UovwchN5DBiRLV1H1ZlB/JFv9lWfoo3ayOUSO3r8mw1ssT8RCfTmB5JWwYMfFFvioVCnHU5UywWdSeQB9XlbpkQ47tvrc1vpLUVo=" style="height:42px; v-text-anchor:middle; width:210px;;" arcsize="17%" stroke="f" fillcolor="#222f39;">
+    <w:anchorlock/>
+    <center>
+    <![endif]--><a href="https://littylink.com/zuhpxbm" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWYY&amp;_ei_=EQ-jkA8PcNPmeBPWIjsnoSNBFS_upe7M5pSRjzNA9CUrRvhasdJzX1SbWv-afE5453VyEuFfwFJaNp98BbgRT1lpW_MC6w1G7oojLmx5O80IOj7y0C7cwLp-X7SgOfenChxg18kmI6M0_IjoBCieJbG5o8I-WdFWoT8D9sI4ASCVfug0A_lK3ilvP-wxbEZ0dRLlQ5o9mH98p4wg-geqfy2q-fI7_AFeKSqigsy1VeD7-T8mWdEVWlRwYQq3Gg.&amp;_di_=3olfvcq1hdhh1ma3rr99sa7heoq1k4k4queo7ibekgjpq5d8i4dg" shash="erdeWr30omadjBCB6rKcmJrtxPveL0mLsCYzTEGNV2nAB0ZqIGRTphs1tUfIKLuqEBENH+kfyW2VpC9cKDLlg47ls6EgYYAkAq7x1EjY7x4Oc3jae6UlbZyfhBDdRMe1wAVYKlh4PsQNrbyvdcef+eE8euRW+bnj1dEuaab52gM=" style="background-color:#1a6aff;border-radius:8px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;font-weight:bold;line-height:42px;text-align:center;text-decoration:none;text-transform:uppercase;width:210px;-webkit-text-size-adjust:none;;background-color:#0078d4; ">Review and accept</a> <!--[if mso]>
+    </center>
+    </v:roundrect>
+    <![endif]-->
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- End CTA --><!-- BEGIN Spacing -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+      <tbody>
+        <tr>
+          <td height="30" style="font-size: 1px; line-height: 1px;">
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <!-- END Spacing --></td>
+                                                </tr>
+                                                <!-- END Region02 -->
+    
+                                                <!-- BEGIN Region03 -->
+                                                <tr>
+                                                    <td data-content-region-name="region03">
+    <!-- BEGIN Copy -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+      <tbody>
+        <tr>
+          <td align="left" style="font-family:inter, arial, sans-serif; font-size:16px; line-height:24px; color:#222F39;" valign="top">We value your engagement and want to ensure you can continue using our services without interruption.
+            <br>
+            <br>
+            Please note: This link will only be valid for 24 hours. Should you need to update your agreement again, please contact <a href="https://littylink.com/zuhpxbm" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWBY&amp;_ei_=ENmIPj3ca0LF8wDBAiaGyJCKthWDtt06oyPRiCY5oLkUFX3Xqmlmtvsdmt4RSLj6l1XKoy1wgkzh8M9Usvcktxml1-glYBucwjt18rmUaEq0v3yi62FBWxg2cO5TZYhIs83shAwmm5UKBkfxAfjN3OVEnX0k13qcXjI12CpwsO4ORkykOJXE6REEA9XLQ3dYN0.&amp;_di_=bsbd9omgmq451mbld7tujes3fme8l9ovem01uvs1cntmndte2nbg" shash="HUSr3V0u0ymoPh537ewrecCHVzJgpipTyZ/iHCOqkC/f68t2CBQ92UX7KEjnUEN+nh/+WCnEzPEAWkUAsX4NirzM61uFmaYWBiABOaz58YkhOU5KQR29HKOpObBjVp1Dj46Z3+97bini/9HXwVSpGihFPXGkq3liVfb2udRQzdo=" style="color:#1A6AFF; text-decoration: underline;">support</a>.
+            <br>
+            <br>
+           We appreciate your attention to this matter and your continued support, please contact us immediately at <a href="tel:8772225488" style="color:#1A6AFF; text-decoration: underline;">877-222-5488</a>.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    </td>
+                                                </tr>
+                                                <!-- END Region03 -->
+    
+                                                <!-- BEGIN Region04 -->
+                                                <tr>
+                                                    <td data-content-region-name="region04">
+    <!-- BEGIN Signature -->
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+       <tbody>
+          <tr>
+             <td align="left" style="font-family:inter, arial, sans-serif; font-size:16px; line-height:24px; color:#222F39;" valign="top"><br>
+             Sincerely,<br>
+             <strong>The Directive Team</strong></td>
+          </tr>
+          <tr>
+             <td height="10" style="font-size: 1px; line-height: 1px;"></td>
+          </tr>
+       </tbody>
+    </table>
+    <!-- END Signature --><!-- BEGIN Spacing -->
+    
+    <table align="center" border="0" cellpadding="0" cellspacing="0" class="pc_wrapper" style="width:100%;" width="100%">
+       <tbody>
+          <tr>
+             <td height="30" style="font-size: 1px; line-height: 1px;"></td>
+          </tr>
+       </tbody>
+    </table>
+    <!-- END Spacing --></td>
+                                                </tr>
+                                                <!-- END Region04 -->
+    
+                                                <!-- BEGIN Region05 -->
+                                                <tr>
+       <td data-content-region-name="region05"></td>
+                                                </tr>
+                                                <!-- END Region05 -->
+    
+                                                <!-- BEGIN Region06 -->
+                                                <tr>
+                                                    <td data-content-region-name="region06"></td>
+                                                </tr>
+                                                <!-- END Region06 -->
+    
+                                                <!-- BEGIN Region07 -->
+                                                <tr>
+                                                    <td data-content-region-name="region07"></td>
+                                                </tr>
+                                                <!-- END Region07 -->
+    
+                                                <!-- BEGIN Region08 -->
+                                                <tr>
+                                                    <td data-content-region-name="region08"></td>
+                                                </tr>
+                                                <!-- END Region08 -->
+    
+                                                <!-- BEGIN Region09 -->
+                                                <tr>
+                                                    <td data-content-region-name="region09"></td>
+                                                </tr>
+                                                <!-- END Region09 -->
+    
+                                                <!-- BEGIN Region10 -->
+                                                <tr>
+                                                    <td data-content-region-name="region10">
+                               
+                        </td>
+                                                </tr>
+                                                <!-- END Region10 -->
+    
+                                                <!-- BEGIN Region11 -->
+                                            <tr>
+                                                    <td data-content-region-name="region11"></td>
+                                                </tr>
+                                                <!-- END Region11 -->
+    
+                                                <!-- BEGIN Region12 -->
+                                                <tr>
+                                                   <td data-content-region-name="region12"></td>
+                                                </tr>
+                                                <!-- END Region12 -->
+    
+                                                <!-- BEGIN Region13 -->
+                                                <tr>
+                                                     <td data-content-region-name="region13"></td>
+                                                </tr>
+                                                <!-- END Region13 -->
+    
+                                                <!-- BEGIN Region14 -->
+                                                <tr>
+                                                    <td data-content-region-name="region14"></td>
+                                                </tr>
+                                                <!-- END Region14 -->
+    
+                                                <!-- BEGIN Region15 -->
+                                                <tr>
+                                                    <td data-content-region-name="region15"></td>
+                                                </tr>
+                                                <!-- END Region15 -->
+    
+                                                <!-- BEGIN Region16 -->
+                                                <tr>
+                                                    <td data-content-region-name="region16"></td>
+                                                </tr>
+                                                <!-- END Region16 -->
+    
+                                                <!-- BEGIN Region17 -->
+                                                <tr>
+                                                    <td data-content-region-name="region17"></td>
+                                                </tr>
+                                                <!-- END Region17 -->
+    
+                                                <!-- BEGIN Region18 -->
+                                                <tr>
+                                                    <td data-content-region-name="region18"></td>
+                                                </tr>
+                                                <!-- END Region18 -->
+    
+                                                <!-- BEGIN Region19 -->
+                                                <tr>
+                                                    <td data-content-region-name="region19"></td>
+                                                </tr>
+                                                <!-- END Region19 -->
+    
+                                                <!-- BEGIN Region20 -->
+                                                <tr>
+                                                    <td data-content-region-name="region20"></td>
+                                                </tr>
+                                                <!-- END Region20 -->
+    
+                                                   <!-- BEGIN Region21 -->
+                                                <tr>
+                                                    <td data-content-region-name="region21"></td>
+                                                </tr>
+                                                <!-- END Region21 -->
+                                                
+                                                 <!-- BEGIN Region22 -->
+                                                <tr>
+                                                    <td data-content-region-name="region22"></td>
+                                                </tr>
+                                                <!-- END Region22 -->
+                                                
+                                                 <!-- BEGIN Region23 -->
+                                                <tr>
+                                                    <td data-content-region-name="region23"></td>
+                                                </tr>
+                                                <!-- END Region23 -->
+                                                
+                                                 <!-- BEGIN Region24 -->
+                                                <tr>
+                                                    <td data-content-region-name="region24"></td>
+                                                </tr>
+                                                <!-- END Region24 -->
+                                                
+                                                 <!-- BEGIN Region25 -->
+                                                <tr>
+                                                    <td data-content-region-name="region25"></td>
+                                                </tr>
+                                                <!-- END Region25 -->
+                                                
+                                                <!-- BEGIN Footer -->
+                                                <tr>
+                                                    <td data-content-region-name="footer">                                                    <!-- BEGIN Footer -->
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                            <tr>
+                                                                <td align="center" valign="top" bgcolor="#f7f7fa" style=" font-family:inter, arial, sans-serif; font-size: 11px; line-height: 17px; color:#222F39;; padding: 30px;">
+                                                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                                        <tr>
+                                                                            <td align="left" valign="top" style="font-family:inter, arial, sans-serif; font-size: 11px; line-height: 17px; color:#222F39;">
+                                                                                Your account information is included above to help you recognize this as a customer care email from us.
+        <br><br>
+                                                                                           <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=8pu368k7sevn7s2bc6vtd86mu4aaka0d46loduiholfdteab2vv0" shash="TV7nNM+pwuFNzFFpbQLd2m6egqU0PhSbHT1r+bBuhcXoQos1xwYFQVqdshpdiTzMGM0iw3FfEWFpHgcggiVO+V5oFSj+3UY3GYVLyX7yS88iaBDQWhuwckJGDtOSAw784jNevY6pseE5E+LEZ76/0FwiplOKJ+y1+6kBMy/mnkA=" style="color:#1A6AFF; text-decoration: underline;" target="_blank">Legal Agreement</a>.
+    <br> Copyright © 2024. All rights reserved. <br><br>
+     <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWDY&amp;_ei_=EOwPQ42l-mBFJGD0ZPxQdvm3_IjeWIwpJE9r6Uui0eAC_7BKqPubbLGX9pWuCxaKoZln3NDgQ_sgxCwHfcnhVYwKTjO00VuM8spgFghQ-eM2Lqz25tiezEoYBRWqQPDfVUtvIMa0ruMzoM__6_NIZay9cc0tvwe-OGcgS-2-z0v624Vn4KmP2OO6lkpLq5YJEwVDsDx659pxLGbf459if0iV1jU.&amp;_di_=vk9vu2dpsk6qlq7bt01qkna4lje94jnfijvhmk6o24q2hbtjgkl0" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUWDY&amp;_ei_=EOwPQ42l-mBFJGD0ZPxQdvm3_IjeWIwpJE9r6Uui0eAC_7BKqPubbLGX9pWuCxaKoZln3NDgQ_sgxCwHfcnhVYwKTjO00VuM8spgFghQ-eM2Lqz25tiezEoYBRWqQPDfVUtvIMa0ruMzoM__6_NIZay9cc0tvwe-OGcgS-2-z0v624Vn4KmP2OO6lkpLq5YJEwVDsDx659pxLGbf459if0iV1jU.&amp;_di_=vk9vu2dpsk6qlq7bt01qkna4lje94jnfijvhmk6o24q2hbtjgkl0" shash="xqxu8jee2TNSc+HcOA2nHrbS7Ub6WlKyb9abW3eodzmH73LP4T6rndy1dSzQpEpPE2p8OnrUA/jc+/KJV/lhVghrO1BOMD01wECy41CXWYXad//mf32sGW4hslz/EJGvZGgZZ1xVmnhGj8F1yYUrWkDmRRtsIuKwN20GtIrmwO4=" style="color:#1A6AFF; text-decoration: underline;" target="_blank">Manage Communications with agent</a> |                                                                           <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ej8s83istav80qos3dlqghlnsb06jdqm834i2f8gqasab9f24d00" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYSY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ej8s83istav80qos3dlqghlnsb06jdqm834i2f8gqasab9f24d00" shash="O4iD97tliXPZ6eEvPHcKr2uFJBVDlwtSCE04p2QCNBsj4mj4UzssoYtcoXZyiW3YgAi7lDcsVne8B9fOul3BHxab3+d/jNMiiITAmQoScjYSXTUzxHdPi0/GTzd8XcFz14JaLAZczcmzO3dcvurZ0b7dp12Z3Jy/+zJYcNE7ueo=" style="color:#1A6AFF; text-decoration: underline;" target="_blank">Privacy Statement</a> | <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ccsrv4e00pigbge1fnq5pqihq3e8nmm78j5ccrcu4te2ic1uabhg" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYUY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=ccsrv4e00pigbge1fnq5pqihq3e8nmm78j5ccrcu4te2ic1uabhg" shash="smJOfJ75HJmfTuF2GToE6R+VsHwLIJWq63IFkUcIaHx+7O79oDqQFxBWf3Lz7Zr4FPZNlkydgc6QTpN1OzDa8h37IMQS22Aoa31bTWwHoDIFOH9/5nWgVlYpkaqwCh0ecM6QI7/GOctfGaZF10HxFQ8fjl2zyH7o2+Y+EIDqIME=" style="color:#1A6AFF; text-decoration: underline;" target="_blank">Open Technical Support Ticket</a>
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td height="20" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td align="left" valign="top">
+                                                                                <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYYY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=t000rr1f99iuon0r26evdurp1elms167cc21ujmlq3eucp2ud6fg" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYYY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=t000rr1f99iuon0r26evdurp1elms167cc21ujmlq3eucp2ud6fg" shash="gBNa3lwtdBSMHfs8NdqxVF5QnWyPyYbVCqoJf6KX86GQ4w1vfeQc3HDmAgMe7JB8J7UOPFRQTj9RV6wmNcQzEYMSHBzkapevJ+lnyqsHR0J7zZcgi/Jn0zcNVOIWht25bBoDnPBRhZD+CuhoXGuz1YdRipwLCoWBA5nvigh6Cc0=" target="_blank" style="text-decoration: none;">
+                                                                                    <img src="https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/fa.png" style="height:15px;" width="">
+                                                                                </a>
+     &nbsp;&nbsp;
+    &nbsp;                                                                       
+                                                                                <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYBY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=khbl44qabl97ku8cb8f9tgqatjl8o1ehk7bouud8cng2q471tr40" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYBY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=khbl44qabl97ku8cb8f9tgqatjl8o1ehk7bouud8cng2q471tr40" shash="Ph2aHdvj57nH/kPIc/rzaUD2T3oUjmdk7WcmAo+Tz9KL2JQUYa0XWv88/S4lJ9BFJyQTErfrVpuYqN7SfyrzlJpV6rtwiXMSPmqrp30CmtNqXQYdileAC2cytziE1B90JBfc2y/wl/c4xVl7DQEWWRIDdxAEv6s2nXKSZ5NA3yE=" target="_blank" style="text-decoration: none;">
+                                                                                    <img src="https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/in.png" style="height:15px;" width="">
+                                                                                </a>
+                                                                                &nbsp;&nbsp;
+    &nbsp;                                                                       
+                                                                                <a href="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=0sund7ma53r5ehb9d4ah623f3kq1f8b7ichiq8aiqusls6snshbg" originalsrc="https://cloud.carbonite.com/pub/cc?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXtpKX%3DSRAUUYDY&amp;_ei_=EW2tf9zs59idfPO1Sc_9BblpDMoFpD_BmHrzXNSrlyrEusqq_ow3aCGpNHl99an2ZIhHQOu6zyR92EqIo-kBFrZG9uyworreY0_Gy4AGdmX4Ktuv9GCDOT9vwU0lMY8q68JXMVRyJFQmMAH6hBKaZN9uyM.&amp;_di_=0sund7ma53r5ehb9d4ah623f3kq1f8b7ichiq8aiqusls6snshbg" shash="TNJyoW4jTfrqn7l2B1sSHwpS88FZPAmprN+8SOxpyfvGVTnXN/ZrHSLjx/FVD/zQeSrXYNx3fE39P/lI+3MWyqLMsEg7g+ES/WrIHO+kWebL8he/0c6n83VUYPDoPjt1zY/41ZbF9HGsoPD0oItuVWW7uHDmGQyIVkfHjKm5j7Y=" target="_blank" style="text-decoration: none;">
+                                                                                    <img src="https://cloud.carbonite.com/assets/responsysimages/cbnite/contentlibrary/!2023templates/img/x-blue_20x20.png" style="height:12px;" width="">
+                                                                                </a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END Footer -->
+                                                        <!-- BEGIN Spacing -->
+                                                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="pc_wrapper" style="width:100%;">
+                                                            <tr>
+                                                                <td height="1" style="font-size: 1px; line-height: 1px;">&nbsp;</td>
+                                                            </tr>
+                                                        </table>
+                                                        <!-- END Spacing -->
+    </td>
+                                                </tr>
+                                                <!-- END Footer -->
+    
+                                                <!-- BEGIN Campaign Name -->
+                                                <tr>
+                                                    <td style="font-family:Arial, sans-serif; font-size:0.1px; line-height:1.2;text-align:left; color:#ffffff;"> PERP-WW-CON-EML-OP-FORGOT-PW </td>
+                                                </tr>
+                                                <!-- END Campaign Name -->
+                                            </table>
+                                        <!-- TEMPLATE END -->
+    
+                                        </td>
+                                        <!--[if !mso]><!-->
+                                        <td width="20" class="pc_mobile" style="display: none;">&nbsp;</td>
+                                        <!--<![endif]-->
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table><table cellpadding="0" cellspacing="0" style="border: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: left">
+    <tr>
+    <td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;">
+    <br><img src="https://cloud.carbonite.com/pub/as?_ri_=X0Gzc2X%3DAQjkPkSTDQG4myY6l7RMj3BOYbYzbFAm1Xc8pzbU9zb5qXXzcGOaWJ31uzc9kTzdzepozczc6zeJ9SizaiOVXHkMX%3Dw&amp;_ei_=EUlaGGF4SNMvxFF7KucKuWOaB0BccMGqIlLl7o1z_-Dww_hr1rRWlImupRq2IGtcy6NXdhEwlN_4ScTPd6HPSyCW4REu7Z8NIAQG-6gR1GXd7eDJHC25FRfgeoc73k-QZDwMtJZg6Z41pBA."><!-- </img> -->
+    </td>
+    </tr>
+    </table>
+    </body>
+    </html>

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Weihnachtsangebot: 70% Rabatt - ��berwinden Sie Ihre Zweifel beim Erlernen einer neuen Sprache!",
+    "from": "Exklusives Angebot, <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 22 Dec 2023 19:00:49 +0100",
+    "message_id": "<WbJoFv4.0.0.WbJoFv4.9.WbJoFv4@team.mobile.de>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://superkoran.info/cDAzZU1sOEN3bktkQzJFL3ptZk1YUkhHazhuektKUzhiYUxET2dnRmdnZG1EZGVMSXU1b29zTkFHS2JsMVJtNW9TRkhFQk1ONW9WRVZDSjJlRWNQbmc9PQ__",
+      "https://fnnl-check.com/?a=6073&amp;oc=18988&amp;c=51357&amp;m=3&amp;s1=",
+      "qTnebZm.44513.774.OhaqTnebZm.44513.774.OhaqTnebZm.44513.774.OhaqTnebZm.44513.774.Oha-qTnebZm.44513.774.OhaqTnebZm.44513.774.Oha",
+      "www.zupimages.net/up/23/51/kggb.png",
+      "https://www.zupimages.net/up/23/51/kggb.png",
+      "qTnebZm.44513.774.OhaqTnebZm.44513.774.OhaqTnebZm.44513.774.OhaqTnebZm.44513.774.Oha-qTnebZm.44513.117179"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 668,
+    "html_length": 1545,
+    "has_text": true,
+    "has_html": true
+  }
+}

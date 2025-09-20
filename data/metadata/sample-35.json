@@ -1,0 +1,76 @@
+{
+  "headers": {
+    "subject": "You added your phone Number to Your Account !",
+    "from": "\"paypal\" <service@intl.paypal.com>",
+    "to": "phishing@pot.org",
+    "date": "Sun, 11 Sep 2022 04:12:13 +0000",
+    "message_id": "\r\n <e11f62d5-2b4e-4306-af51-1a0ccd57d291@BN8NAM04FT008.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/pp-logo.png",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Regular.woff",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Medium.svg#69ac2c9fc1e0803e59e06e93859bed03",
+      "gmail.com?&amp;cc=secureinternationalalterts10@gmail.com&amp;subject=unusual",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/header-sidebar-left-bottom.jpg",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/header-sidebar-right-top.jpg",
+      "http://www.linkedin.com/company/1482?trk=tyah&amp;v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypal.com/cgi-bin/customerprofileweb?cmd=_profile-notify&amp;v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Medium.woff2",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Medium.eot",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/icon-li.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/footer-right-stroke.png",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Regular.eot",
+      "Outlook.com",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/header-right.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/icon-tw.png",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Regular.svg#69ac2c9fc1e0803e59e06e93859bed03",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Medium.woff",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/footer-left-stroke.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/icon-ig.png",
+      "https://www.paypal.com/ca/webapps/mpp/ua/privacy-full?locale.x=en_CA&amp;v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/footer-left-corner.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/footer-right-corner.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/header-sidebar-left-top.jpg",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/sidebar-gradient.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/pplogo-circletop-sm.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/header-center-circle.png",
+      "https://www.facebook.com/PayPalUSA?v=1%2C0.1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypal.com/ca/smarthelp/article/why-am-i-receiving-emails-from-paypal-when-i-dont-have-an-account-faq4172?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "http://963.life/track/o7119ukagg8583749ltla6874cfQ6814eBhT176",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/header-left.png",
+      "https://www.paypal.com/ca/webapps/mpp/paypal-safety-and-security?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypal.com/us/webapps/mpp/security/suspicious-activity?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://t.paypal.com/ts?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=op&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypalobjects.com/ui-web/paypal-sans-small/1-0-0/PayPalSansSmall-Regular.woff2",
+      "https://www.paypal.com/ca/smarthelp/home?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/header-right-corner.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/footer-pp-logo.png",
+      "https://www.paypal.com/ca/webapps/mpp/mobile-apps?v=1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.instagram.com/paypal/?v=1%2C0.1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/header-left-corner.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/dark-mode/icon-fb.png",
+      "https://www.paypalobjects.com/digitalassets/c/system-triggered-email/n/layout/images/header-sidebar-right-bottom.jpg",
+      "https://twitter.com/PayPal?v=1%2C0.1&amp;utm_source=unp&amp;utm_medium=email&amp;utm_campaign=RT000243&amp;utm_unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;ppid=RT000243&amp;cnac=CA&amp;rsta=en_US%28en-CA%29&amp;cust=B22GKDNX25QSQ&amp;unptid=dd0f8cae-a3c8-11ec-9e47-40a6b7293f90&amp;calc=f352470113df1&amp;unp_tpcid=email-phone-added&amp;page=main%3Aemail%3ART000243&amp;pgrp=main%3Aemail&amp;e=cl&amp;mchn=em&amp;s=ci&amp;mail=sys&amp;appVersion=1.79.1&amp;xt=104038"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 46948,
+    "html_length": 83688,
+    "has_text": true,
+    "has_html": true
+  }
+}

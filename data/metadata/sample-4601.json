@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "phishing@pot,���� Exklusives Gewinnspiel: Gewinnen Sie einen 1000��� Einkaufsgutschein!",
+    "from": "Amazon Voucher,(<noreply@dhl.de>)",
+    "to": "phishing@pot",
+    "date": "Tue, 24 Dec 2024 14:55:16 +0000",
+    "message_id": "<LOLNOJEWOVGYXQ8AU9KYO1L@my.zalando.de>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://wmasurvey.com/4fOjYi41975RHIm1268yszvngcdfu14302GARULZHUWQJPPTI2VCJA17281H12",
+      "http://wmasurvey.com/5ZJLxG41975exVN1268eqhjpxezgz14302VYCUWJUJDGITMIH2ZALN17281N12",
+      "http://www.w3.org/1999/xhtml",
+      "https://leaadpersons.com/biz/header-amz-s24-prize-de.jpg",
+      "leaadpersons.com/biz/header-amz-s24-prize-de.jpg",
+      "http://wmasurvey.com/4fUsiH41975BOgm1268kmuqwwvdaw14302RMEYNLRJSETDBVA2EMRI17281R12"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1815,
+    "html_length": 9945,
+    "has_text": true,
+    "has_html": true
+  }
+}

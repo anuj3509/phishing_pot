@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Alerta de um novo acesso:  PROTOCOLO: [179347435]",
+    "from": "Mercado Pago <mercadopago@mensagem82686.com.br-1>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 28 Apr 2025 15:22:38 -0400",
+    "message_id": "<20250428192238.74E94186D@ssaabn-1-3.localdomain>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://verify.check-account.co.ua/mp/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 521,
+    "html_length": 2495,
+    "has_text": true,
+    "has_html": true
+  }
+}

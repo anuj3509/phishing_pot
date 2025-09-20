@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Herzlichen Gl��ckwunsch, phishing@pot! Genehmigt! - lwo ",
+    "from": "DeWalt Rucksack  <service@lwo.jeffbullas.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 26 Aug 2024 00:29:45 +0200",
+    "message_id": "<6aypwsh.f2wo2.lwo.service@lwo.jeffbullas.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://eu1-us1.ckcdnassets.com/448/creatives/54948/product.png",
+      "http://bauunternehmen-mayr.de/cl/phishing@pot48_md/4049/26225/1399/281/76468",
+      "eu1-us1.ckcdnassets.com/448/creatives/54948/logo.png",
+      "eu1-us1.ckcdnassets.com/448/creatives/54948/product.png",
+      "https://eu1-us1.ckcdnassets.com/448/creatives/54948/logo.png",
+      "bgasdfasdfa.jpg",
+      "http://bauunternehmen-mayr.de/oop/phishing@pot48_md/4049/26225/1399/281/76468"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5126,
+    "html_length": 11892,
+    "has_text": true,
+    "has_html": true
+  }
+}

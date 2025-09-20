@@ -1,0 +1,37 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: [Jim Allred Taxidermy Supply] Login Details
+From: WordPress <wordpress@jimallred.com>
+To: phishing@pot
+Date: Mon, 26 May 2025 07:10:00 +0000
+Message_Id: <0Z9Y4Cu4njJNMbUr50C8ibQcHC7nSA0zP8rE6Ed0@jimallred.com>
+Content_Type: text/plain; charset=UTF-8
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 
+content_type: text/plain; charset=UTF-8
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://jimallred.com/wp-login.php?login=www.uigyig.blogspot.ch%20-%201.3497700%20BTC&key=QRbUmEsCIg27BeMtw3iw&action=rp
+  - https://jimallred.com/wp-login.php
+  - www.uigyig.blogspot.ch
+
+DECODED TEXT CONTENT:
+------------------------------
+Username: www.uigyig.blogspot.ch - 1.3497700 BTC
+
+To set your password, visit the following address:
+
+https://jimallred.com/wp-login.php?login=www.uigyig.blogspot.ch%20-%201.3497700%20BTC&key=QRbUmEsCIg27BeMtw3iw&action=rp
+
+https://jimallred.com/wp-login.php
+
+
+

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[God's Love Post] Login Details",
+    "from": "WordPress <wordpress@godslovepost.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 12 May 2025 19:01:06 +0000",
+    "message_id": "<SjYswvOB6ibjujS2I5KRMzlaZO8XGbxKAwfBK62KU4@godslovepost.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://godslovepost.com/wp-login.php",
+      "https://godslovepost.com/wp-login.php?login=www.khutjs.blogspot.pe%20-%2097781%20USD%20KRAKEN&key=ekKVUoIVDFurQxRkh2mw&action=rp",
+      "www.khutjs.blogspot.pe"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 274,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

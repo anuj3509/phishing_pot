@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Final Warning - Important Notification",
+    "from": "\"proton.me Helpdesk\" <admin@dpu.bandung.go.id>",
+    "to": "phishing@pot",
+    "date": "8 Jun 2023 21:25:39 +0200",
+    "message_id": "<20230608212538.EA1CF19404EE7355@dpu.bandung.go.id>",
+    "content_type": "multipart/mixed;boundary=---------------------75fb19b5b46973f20c41277c10cfa3fe"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "multipart/mixed;boundary=---------------------75fb19b5b46973f20c41277c10cfa3fe"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "proton.me&nbsp;Server",
+      "https://mail.costom.best/international.html?look=phishing@pot",
+      "proton.me"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 957,
+    "html_length": 9571,
+    "has_text": true,
+    "has_html": true
+  }
+}

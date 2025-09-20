@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": ":loudspeaker: AVISO IMPORTANTE: Taxa de servi��o necess��ria para liberar envio! ID:441",
+    "from": "Correios Atendimento <contato@produtobloqueado441correios.co.ua-servic-atendimento>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 15 Mar 2025 05:01:30 +0000",
+    "message_id": "<20250315050130.4387C3F867@Servidor-ezyv-sist-1gb-clienteves-tret>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com,",
+      "https://imobiliariaslima.com.br/corr"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 489,
+    "html_length": 2454,
+    "has_text": true,
+    "has_html": true
+  }
+}

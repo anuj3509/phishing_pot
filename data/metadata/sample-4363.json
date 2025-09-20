@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Atenção: Sua encomenda foi taxada! Protocolo: 41601586.",
+    "from": "Correios <importacoes029578@correioscom>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Thu, 10 Oct 2024 11:10:05 +0000",
+    "message_id": "<3158d051952845243c0392c9c3be4c9e@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3158d051952845243c0392c9c3be4c9e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_3158d051952845243c0392c9c3be4c9e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://minhasimportacoes-rastreamentoscorreios.com.ua/rastreamento/taxa133",
+      "math.kichuu@hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3798,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Gewinne jetzt einen Einkaufgutschein im Wert von 100���! ",
+    "from": "Exklusives Angebot, <service@stayfriends.de.>, Exklusives Angebot,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Fri, 02 Aug 2024 06:53:26 -0400",
+    "message_id": "<s0fz1oq.0.0.s0fz1oq.9.s0fz1oq@stayfriends.de>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://hyperdraz.info/cl/68_md/1995/74/829/27/12269",
+      "http://hyperdraz.info/op/68_md/1995/74/829/27/12269",
+      "http://www.w3.org/1999/xhtml",
+      "www.zupimages.net/up/22/43/w02r.png",
+      "https://www.zupimages.net/up/22/43/w02r.png",
+      "http://hyperdraz.info/oop/68_md/1995/74/829/27/12269"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1769,
+    "html_length": 8585,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Are you looking for some fun dates?",
+    "from": "Your match, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 24 Sep 2023 05:14:39 +0200",
+    "message_id": "\r\n <95935633-d2d7-4806-a203-81925f6c13bf@HE1EUR04FT003.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/media/fdd89c90f811ec3.jpg",
+      "http://easilett.com/media/391cca975e72181.jpg",
+      "http://trk.loudedig.com/aff_i?offer_id=2714&amp;aff_id=1&amp;file_id=6473",
+      "http://easilett.comop/272_md/31/2/58/23/2459859",
+      "oncf-voyages.ma",
+      "http://easilett.com/cl/272_md/31/2/58/23/2459859",
+      "www.oncf2255.ma.",
+      "www.ONCF-Voyages.ma",
+      "http://easilett.com/media/9d7cc0d13acd3b5.jpg",
+      "surwww.oncf-voyages.ma",
+      "http://easilett.com/oop/272_md/31/2/58/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4663,
+    "html_length": 8484,
+    "has_text": true,
+    "has_html": true
+  }
+}

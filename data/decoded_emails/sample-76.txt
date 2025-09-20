@@ -1,0 +1,51 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: ❤️ Kan je zo even chatten?
+From: Wilma Eenink <contact@123gereedschap.nl>
+To: phishing@pot
+Date: Thu, 29 Sep 2022 00:32:08 +0000
+Message_Id: 
+ <ca9b354b-f935-4361-b565-0c8124b4ef6a@VE1EUR03FT021.eop-EUR03.prod.protection.outlook.com>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: 7bit
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700
+  - https://safecloud.link/51fdd860-8ce0-4cf6-bf44-e5b29e312bb7/?rdm=H7PyQ1U7eVnY&amp;H7PyQ1U7eVnY=phishing@pot&amp;offerid=09375252
+  - http://www.w3.org/1999/xhtml
+  - https://fonts.googleapis.com/css?family=Cabin:400,700
+
+DECODED TEXT CONTENT:
+------------------------------
+WAARSCHUWING: Deze website bevat expliciete beelden, video's, verhalen, plaatjes. Je moet 18 jaar of ouder zijn om dit te bekijken. Als je jonger dan 18 jaar bent, of het is verboden om dit soort inhoud te bekijken, moet je deze website direct verlaten. De site is bekend van tv en de succes rate ligt boven de 90%, waar wacht je dus op? Schrijf je direct gratis in via deze link! **Dit is een tijdelijk aanbod, doe er dus nu je voordeel mee voor het verloopt!
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>  
+</title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Cabin:400,700" rel="stylesheet" type="text/css">  
+</head>
+<body>
+<p>WAARSCHUWING: Deze website bevat expliciete beelden, video's, verhalen, plaatjes.</p><br>
+<p>Je moet 18 jaar of ouder zijn om dit te bekijken. Als je jonger dan 18 jaar bent, of het is verboden om dit soort inhoud te bekijken, moet je deze website direct verlaten.</p><br>
+<p>De site is bekend van tv en de succes rate ligt boven de 90%, waar wacht je dus op?</p>
+<p><a href="https://safecloud.link/51fdd860-8ce0-4cf6-bf44-e5b29e312bb7/?rdm=H7PyQ1U7eVnY&amp;H7PyQ1U7eVnY=phishing@pot&amp;offerid=09375252">Schrijf je direct gratis in via deze link!</a></p>
+<p>**Dit is een tijdelijk aanbod, doe er dus nu je voordeel mee voor het verloopt!</p>
+</body>
+</html>
+

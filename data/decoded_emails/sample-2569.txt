@@ -1,0 +1,135 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Your Celsius Account Update & Withdrawal Process
+From: Celsius Network <info@feedspot.com>
+To: phishing@pot
+Date: Sat, 13 Jan 2024 15:24:31 +0000
+Message_Id: <0101018d036cb217-784475ca-114f-4359-8166-753d555b9d8b-000000@us-west-2.amazonses.com>
+Content_Type: text/html
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: verify, update
+URLs found:
+  - https://dmnetstage.embackstage.com/cel/log.png
+  - https://dmnetstage.embackstage.com/cel/
+  - celsius.network.
+  - https://celsiusnetwork.medium.com/celsius-distribution-faq-1cdd323251ef
+
+DECODED TEXT CONTENT:
+------------------------------
+Celsius Network: Asset Distribution Update body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; } .container { width: 80%; margin: 20px auto; padding: 20px; background-color: #f8f8f8; border: 1px solid #ddd; } .title { font-size: 1.2em; font-weight: bold; color: #000; margin-bottom: 10px; } .content { margin-top: 20px; } .footer { margin-top: 30px; font-size: 0.9em; text-align: center; padding: 15px; background-color: #f2f2f2; } .button { display: inline-block; padding: 10px 15px; background-color: #4CAF50; color: #fff; text-decoration: none; border-radius: 5px; margin-top: 20px; } .logo { display: block; margin: 10px auto; width: 150px; } Celsius Network: Asset Distribution Update Dear Celsius Account Holder, We are reaching out with an important update following the proceedings of the Celsius Network LLC Chapter 11 Case (Case No. 22-10964), as overseen by the United States Bankruptcy Court for the Southern District of New York. This communication contains vital information and guidelines regarding the distribution of your cryptocurrency assets. Recent Developments and Your Action Items The MiningCo Transaction has been approved, and with that, there are several vital steps you need to undertake: Verify and update your personal information, including your full legal name, in your Celsius account to avoid any collection delays. Log in to your account using your whitelisted wallet for additional security during the asset distribution process. Please note the permanent closure of Celsius mobile and web applications on February 27, 2024. Ensure to download your transaction history before this date. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Secure My Assets Detailed Information. The court has entered the MiningCo Order [Docket No. 4172], approving the transaction and related relief. For questions not covered in this email, please refer to the updated Celsius Distribution FAQ published on our Medium website . For non-US residents, distributions will be handled by Coinbase wherever possible. If you reside in a country not supported by Coinbase, the distribution will be in US dollars. The estimated recovery percentages are based on cryptocurrency values as of May 31, 2023, detailed in the Disclosure Statement. Frequently Asked Questions How will I be notified of my Distribution Partner? You will receive direct email notification regarding your assigned Distribution Partner. What if my country is not supported by Coinbase? If your country is not supported by Coinbase, your distribution will be made in US dollars. What actions are required if I have unresolved Withdrawal Preference Exposure? You must resolve any outstanding Withdrawal Preference Exposure to avoid distribution delays. For assistance, contact our support team. For further clarification or additional support, please reach out to our team at app@celsius.network. We are dedicated to assisting you through this process and will respond as promptly as possible. Thank you for your attention to these matters and your continued cooperation. Warm regards, The Celsius Network Team 2024 Celsius Network LLC. All rights reserved.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html>
+
+<HTML><HEAD><TITLE>Celsius Network: Asset Distribution Update</TITLE>
+<STYLE>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd;
+        }
+        .title {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #000;
+            margin-bottom: 10px;
+        }
+        .content {
+            margin-top: 20px;
+        }
+        .footer {
+            margin-top: 30px;
+            font-size: 0.9em;
+            text-align: center;
+            padding: 15px;
+            background-color: #f2f2f2;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+        }
+        .logo {
+            display: block;
+            margin: 10px auto;
+            width: 150px;
+        }
+    </STYLE>
+
+<META name=GENERATOR content="MSHTML 11.00.10570.1001"></HEAD>
+<body style="font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333">
+<div style="width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f8f8f8;
+            border: 1px solid #ddd" class="container"><img style="display: block;
+            margin: 10px auto;
+            width: 150px" class="logo" alt="Celsius Network Logo" src="https://dmnetstage.embackstage.com/cel/log.png" width="150" height="49"> 
+<div style="font-size: 1.2em;
+            font-weight: bold;
+            color: #000;
+            margin-bottom: 10px" class="title">Celsius Network: Asset Distribution Update</DIV>
+<p style="margin-top: 20px" class="content">Dear Celsius Account Holder,</P>
+<p style="margin-top: 20px" class="content">We are reaching out with an important update following the proceedings of the Celsius Network LLC Chapter 11 Case (Case No. 22-10964), as overseen by the United States Bankruptcy Court for the Southern District of New York. This communication contains vital information and guidelines regarding the distribution of your cryptocurrency assets.</P>
+<h2 style="margin-top: 20px" class="content">Recent Developments and Your Action Items</H2>
+<p style="margin-top: 20px" class="content">The MiningCo Transaction has been approved, and with that, there are several vital steps you need to undertake:</P>
+<div style="margin-top: 20px" class="content">
+<UL>
+<LI>Verify and update your personal information, including your full legal name, in your Celsius account to avoid any collection delays. 
+<LI>Log in to your account using your whitelisted wallet for additional security during the asset distribution process. 
+<LI>Please note the permanent closure of Celsius mobile and web applications on February 27, 2024. Ensure to download your transaction history before this date. </LI></UL></DIV>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<DIV align=center><a style="display: inline-block;
+            padding: 10px 15px;
+            background-color: #4CAF50;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px" class="button" href="https://dmnetstage.embackstage.com/cel/">
+<DIV align=left>Secure My Assets</DIV></A></DIV> 
+<H2>Detailed Information.</H2>
+<UL>
+<LI>The court has entered the MiningCo Order [Docket No. 4172], approving the transaction and related relief. 
+<LI>For questions not covered in this email, please refer to the updated Celsius Distribution FAQ published on our <A href="https://celsiusnetwork.medium.com/celsius-distribution-faq-1cdd323251ef">Medium website</A>. 
+<LI>For non-US residents, distributions will be handled by Coinbase wherever possible. If you reside in a country not supported by Coinbase, the distribution will be in US dollars. 
+<LI>The estimated recovery percentages are based on cryptocurrency values as of May 31, 2023, detailed in the Disclosure Statement. </LI></UL>
+<H2>Frequently Asked Questions</H2>
+<UL>
+<LI><STRONG>How will I be notified of my Distribution Partner?</STRONG><BR>You will receive direct email notification regarding your assigned Distribution Partner. 
+<LI><STRONG>What if my country is not supported by Coinbase?</STRONG><BR>If your country is not supported by Coinbase, your distribution will be made in US dollars. 
+<LI><STRONG>What actions are required if I have unresolved Withdrawal Preference Exposure?</STRONG><BR>You must resolve any outstanding Withdrawal Preference Exposure to avoid distribution delays. For assistance, contact our support team. </LI></UL>
+<P>For further clarification or additional support, please reach out to our team at app@celsius.network. We are dedicated to assisting you through this process and will respond as promptly as possible.</P>
+<P>Thank you for your attention to these matters and your continued cooperation.</P>
+<P>Warm regards,</P>
+<P>The Celsius Network Team</P>
+<div style="margin-top: 30px;
+            font-size: 0.9em;
+            text-align: center;
+            padding: 15px;
+            background-color: #f2f2f2" class="footer">
+<P> 2024 Celsius Network LLC. All rights reserved.</P></DIV></DIV></BODY></HTML>
+

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual signin activity",
+    "from": "Microsoft account team ,_<ydieo@s43ndybt7g.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 8 Dec 2023 01:45:47 +0000",
+    "message_id": "\r\n <042352c8-8bd8-44b1-82bf-59f27112c9c8@BN7NAM10FT068.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "secaccinfoaccesses.com?&amp;cc=info@secaccinfoaccesses.com&amp;subject=unusual",
+      "secaccinfoaccesses.com?&amp;cc=info@secaccinfoaccesses.com&amp;Subject=Report+The+User",
+      "sign.in",
+      "secaccinfoaccesses.com?&amp;cc=info@secaccinfoaccesses.com&amp;Subject=Unsubscribe+me",
+      "http://cmsquared.info/track/3gUbNk1832mMPQ30ftlaojbipm135VRPTZIHUAIRFPDW1154408SQZD10567Y9"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15303,
+    "has_text": true,
+    "has_html": true
+  }
+}

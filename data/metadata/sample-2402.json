@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "ENTREGA DEL PAQUETE SUSPENDIDO",
+    "from": "Entrega faIIIida:<renew@mishruppo.com>",
+    "to": "math.kichuu@hotmail.com",
+    "date": "Fri, 15 Dec 2023 03:55:04 -0500 (EST)",
+    "message_id": "\r\n <8e874602-04a8-43ff-b87d-626aa918d800@DM6NAM04FT029.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "verify your account"
+    ],
+    "urls": [
+      "https://support.tiktok.com/",
+      "https://i.imgur.com/UPeGxLg.png",
+      "https://i.imgur.com/5lMZi3A.png",
+      "http://www.cholnoky.pte.hu/KHlMJnrDvegwxKa.snrqvbq?gAAAAABlfBRoj2flpFwGhK-Ggq6bg6rMcPHMsVdRVeP91H2tO_zR7PycNlwCZqqAxOsad_lJTxv7qCbHuoqnulE46BAgoKCSfoo4ygenoHGxqfODbigb2nOwShEMvLvSUcAF1iCW9SiBES9i-RnzT6gIETFieQ1b9Q====",
+      "http://www.cholnoky.pte.hu/KHlMJnrDvegwxKa.snrqvbq?gAAAAABlfBRo2Kqu7EiVT3t-5abM8zH7pojsBqBFuPxOqQV6hLld3h83Tf-msUdztHUuVHWzYh2NOS5nH9_S-dz5isGmm9p4FqXua8IQ0EIuOBAg10FL-BiIfhozO6fhOp5kp3JOcz7xLszYhb1xdKKDcChbC41UsQ====",
+      "http://www.cholnoky.pte.hu/KHlMJnrDvegwxKa.snrqvbq?gAAAAABlfBRoW_fESBeCKql_N5cyg7pJsAEycxiK21dzk7cLlo4GWkad4Z1RdVmwmuMvEPSmGUs2l11vnt2WqdTpTPgiFd46Q1mv9s-hhrNNAg2WuH2vlNg5C1GBEtP4Tm4EeYtIZtySvoUFqKseUlA5XiomjfOfeA====",
+      "http://www.cholnoky.pte.hu/MOcKgAwn.25rm2qw?gAAAAABlfBRoZIy96GH9mEK6qAZPaS7ahM0VOewqzwsdY7KL8LC2dEcp2gApY8Fr-uOTmmBJosReNVKHx9UipWqA698u3Ynuax75xmfu2oa7NmlCoQldtUz89FeQQmE2iREhsDmCsf0alA2i3D1AHE6J9JeXIMlbjQ===="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1276,
+    "html_length": 2945,
+    "has_text": true,
+    "has_html": true
+  }
+}

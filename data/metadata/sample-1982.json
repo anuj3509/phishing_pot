@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "AirDrops/Tokens for phishing@pot",
+    "from": "SecondLive Tokens <info@fibracat.cat>",
+    "to": "phishing@pot",
+    "date": "Tue, 21 Nov 2023 12:53:18 +0100",
+    "message_id": "<wpfSFzdWrcMVFgyouWqnTiEMygillhoOybkqvDLFSmytqnfWMK@loral.site>",
+    "content_type": "multipart/mixed; boundary=\"===============1992829269088074731==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1992829269088074731==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tokens.yuanqi.store/banner.jpeg",
+      "https://twitter.com/SecondLiveReal",
+      "https://twitter.com/SpaceIDProtocol",
+      "https://tokens.yuanqi.store/logo.svg",
+      "https://tokens.yuanqi.store/x.php?q=a.gif&amp;e=Akccm9kcmlnby1mLXBAaG90bWFpbC5jb20=",
+      "https://clickserve.dartsearch.net/link/click?&amp;ds_a_cid=281854529&amp;ds_a_caid=17489621261&amp;ds_a_agid=138132234856&amp;ds_a_fiid=&amp;ds_a_lid=kwd-12626182&amp;ds_a_extid=&amp;&amp;ds_e_adid=630628220826&amp;ds_e_matchtype=search&amp;ds_e_device=c&amp;ds_e_network=g&amp;&amp;ds_url_v=2&amp;ds_dest_url=https%3A%2F%2Fpartners.maltic.site%2Fgr%2F%3Fthemid%3Dcm9kcmlnby1mLXBAaG90bWFpbC5jb20=",
+      "https://www.secondlive.world",
+      "hotmail.com",
+      "www.secondlive.world"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1680,
+    "html_length": 3442,
+    "has_text": true,
+    "has_html": true
+  }
+}

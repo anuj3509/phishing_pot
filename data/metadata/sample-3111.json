@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot F P, Agradecemos sua presença no mundo exclusivo de #black",
+    "from": "Bradesco <notificacoes@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Mar 2024 21:43:10 +0000",
+    "message_id": "<2a53759d-e733-912e-51c8-f083bce155b2@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "home.comcast.netxtxincAEIPBook.htm;",
+      ".alert.alert-warning",
+      "final.pdf",
+      ".alert.alert-bad",
+      "escolar.Linda",
+      "httpwww.gpoaccess.goveop",
+      ".alert.alert-good",
+      "httpswww.aprendainglesozinho.comaluno-vip",
+      "o.Quando",
+      "https://b-a4qxna7jwq-rj.a.run.app/xd/?tr=82daf75d435d405bb5aca6ac03105ca0&amp;t1=bra",
+      "httparquivonacional.gov.brimagesRelato-"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 202639,
+    "html_length": 366726,
+    "has_text": true,
+    "has_html": true
+  }
+}

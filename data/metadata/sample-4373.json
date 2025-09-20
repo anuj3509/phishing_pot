@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Pagamento Urgente: Liberação de Envio Imediato",
+    "from": "ganine <contato@calungas.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 12 Nov 2024 07:44:36 +0000",
+    "message_id": "<b7b673b2-a311-198d-de07-dbc97dbf9fa9@calungas.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "academic.bellevue.edu-",
+      "httpwww.newsweek.com",
+      "https://juliodejens.icu/?mailID=oGwY2uTjUYPrbo3C24COiSShN4eCbgJJ8bDgqn81nLiSRmfSEHZw1lQVo9lN_8CZthEtfVemTKI63cFpWqQcoTX4IKOr0XOKR-FMvMfHw5dxMoaltlzO1TNKpKVF4hi6TomVPvJqnV51I-1Wq5x4V6J2tEVxrTLFqV2K7nhcgryYqnrBrrNtSEIfhnZl6P4QtGMqnBCHszkUoXmqWv87J_cTZlE5Dt6dVrN1Co-LrAdeZUYAqrstDhjnOFpG0oJtMvE4jpEbgxZCT_U8TO0-wrzmwD2RoNIhbsp388NcpMC9YueGPo4n-xwZ2QGTl2ZB-dhiP4_g_Vv4_T1kJ9T16g",
+      "CKEvanscevans.html",
+      "newspaper.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 40366,
+    "html_length": 72679,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Wil jij gratis reizen door Nederland?",
+    "from": "OV Jaarkaart <postbode@emv.hallmark.nl>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 23 Mar 2024 15:56:46 +0100",
+    "message_id": "<xyfxwinpwbshtycs-a2i7lbl4-LZVE-9119-adol-4ZDgD2uCKAb9@VI1EUR05FT037.eop-eur05.prod.protection.outlook.com ' '>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6m7r83p1eh9jnaos6jc46uwn53p38achp1fphq96d8j4stk5j3uawoh4wmqhxw5zp8rg7ci8u3os66qmr7xpazf6p3ep596nccg3uqn6oychmu7uqauo71pphi5g89nut",
+      "https://img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=68mxszgb9baawyos6jc46uwn53qzwohh384ekz6gf9kz3tr167bazyw6z1f3ngf5nsfwqz4wcuzqefa6c9ji8pkhoor",
+      "https://img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6isgja4rytrw76os6jc46uwn53qdeus4mdxodwq4afgpdane9ip7qis99fjspp7ob8n15a18ib13ehg7rgqs7mdaasdfaggpu8eda7bnzx19xya74f3eo",
+      "img.fullWidth",
+      "https://bit.ly/ghfv656#cl/297_md/99/9/660/16/313782",
+      "img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6m7r83p1eh9jnaos6jc46uwn53p38achp1fphq96d8j4stk5j3uawoh4wmqhxw5zp8rg7ci8u3os66qmr7xpazf6p3ep596nccg3uqn6oychmu7uqauo71pphi5g89nut",
+      "img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=68mxszgb9baawyos6jc46uwn53qzwohh384ekz6gf9kz3tr167bazyw6z1f3ngf5nsfwqz4wcuzqefa6c9ji8pkhoor",
+      "img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6isgja4rytrw76os6jc46uwn53qdeus4mdxodwq4afgpdane9ip7qis99fjspp7ob8n15a18ib13ehg7rgqs7mdaasdfaggpu8eda7bnzx19xya74f3eo",
+      "img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6b9md3k98ibu1ros6jc46uwn53pqcwbp7r7px17g5u8qp7nu88yxz54nx6op1cq1m",
+      "https://bit.ly/ghfv656#oop/297_md/99/9/660/16/313782",
+      "https://img.emlmind.com/en/v5/user-files?userId=5967857&resource=himg&disposition=inline&name=6b9md3k98ibu1ros6jc46uwn53pqcwbp7r7px17g5u8qp7nu88yxz54nx6op1cq1m"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1791,
+    "html_length": 15480,
+    "has_text": true,
+    "has_html": true
+  }
+}

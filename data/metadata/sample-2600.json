@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "phishing@pot votre bon d���achat Leclerc est pr��t !",
+    "from": "Bon d'achat, <tele_loisirs@ml.tv-news.fr>",
+    "to": "phishing@pot",
+    "date": "Sun, 14 Jan 2024 22:07:20 +0100",
+    "message_id": "<12RPxSd.0.0.12RPxSd.9.12RPxSd@ml.tv-news.fr>",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative; boundary=\"_----------=_1694844911308661\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://soldering-on.co.uk/bUxuWEhPdjlhN2paa3dQd0tZSi9CQXVpcEZ1N3ZIaGluSDMxamJtRStMRVRiZUViaDlQdEVVWUpYT1owTGRCd28wMGpBZGg0bG4zK0E1UXhVaFN2WUlDaU52VDRaUWoyemRrNmVEVTNYbE09",
+      "www.zupimages.net/up/23/37/kv4p.png",
+      "www.zupimages.net/up/24/02/4bmb.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://www.zupimages.net/up/24/02/4bmb.png",
+      "https://www.zupimages.net/up/23/37/kv4p.png",
+      "http://soldering-on.co.uk/YWh2ajZvOWRVVGtTektobVVENUhWRjlMTm8yV3dTNDMyeVl1WkQ1ZXVMdHlIQ3BDbkhaQ3dHY1RUUWZRd00vbldXV3ZuL1FKWkNLdkpyazg5WmczNXlmSmZMTERDRTRqb1k1NlEyN1gxNE09",
+      "https://directfwd-2.com/?a=7790&amp;oc=14197&amp;c=40066&amp;m=3&amp;s1="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1823,
+    "html_length": 10173,
+    "has_text": true,
+    "has_html": true
+  }
+}

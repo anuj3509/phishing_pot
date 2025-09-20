@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Diamond Informa: Atualize sua conta para Diamond.",
+    "from": "Bradesco <Diamond@apax2.descoupdiamond.com>",
+    "to": "wbks4@protonmail.ch",
+    "date": "Fri, 17 Feb 2023 00:26:21 +0000 (UTC)",
+    "message_id": "<20230217002621.CC6AE400AF@apax2.descoupdiamond.com>",
+    "content_type": "multipart/mixed;boundary=---------------------0df1f3a8b6af7b4c0e4eb6c3bfb68c53"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "multipart/mixed;boundary=---------------------0df1f3a8b6af7b4c0e4eb6c3bfb68c53"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "protonmail.ch",
+      "https://us-central1-pelagic-cat-364619.cloudfunctions.net/anaodesco",
+      "https://www.bradesco.com.br/me-tornar-diamond/aceitar-oferta"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1817,
+    "html_length": 7111,
+    "has_text": true,
+    "has_html": true
+  }
+}

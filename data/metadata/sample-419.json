@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "😘 Vandaag kan je leven veranderen                                                                                                                                ",
+    "from": "Noelia Koedijk <contact@123gereedschap.nl>                                                                                                          ",
+    "to": "phishing@pot                                                                                                                                                    ",
+    "date": "Mon, 27 Feb 2023 19:48:23 +0000",
+    "message_id": "<0.0.0.0.1D94AE473632018.1E8C@kaesong.com>",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit                                                                                                      ",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml&quot;",
+      "http://smarttrck.com/?a=72&amp;c=14&amp;s1=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 785,
+    "html_length": 4390,
+    "has_text": true,
+    "has_html": true
+  }
+}

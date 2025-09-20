@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "MY BELOVED ONE.",
+    "from": "\"MRS. ELIZABETH JOHNSON\" <elijohnson022@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 15 Mar 2025 19:58:23 +0200",
+    "message_id": "<CAHtuDYV5VzdXSWH5+kfgKsunimWYkqKQEVA_UF6LV7QfRyqXtA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"0000000000001625880630654e7b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"0000000000001625880630654e7b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1453,
+    "html_length": 3225,
+    "has_text": true,
+    "has_html": true
+  }
+}

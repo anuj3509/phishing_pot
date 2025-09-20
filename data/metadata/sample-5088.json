@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Foi identificado um registro de infração de trânsito pendente associado à sua CNH. Identificação: 18056707.",
+    "from": "Consulta Detran <infracao233293@detran>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 20 Mar 2025 05:15:50 +0000",
+    "message_id": "<76473ad9d54a546dfb76df431a8da978@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_76473ad9d54a546dfb76df431a8da978\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_76473ad9d54a546dfb76df431a8da978\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://core-693052856049.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4112,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,55 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Password Expired honey@pot
+From: proton.me
+   <support@tik.toyota-industries.com>
+To: honey@pot
+Date: 1 Aug 2023 16:41:09 -0400
+Message_Id: <20230801164108.4D3F182D9615DA97@tik.toyota-industries.com>
+Content_Type: multipart/mixed;boundary=---------------------b40ab00c9b6e2447d3aae8044c14d761
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: multipart/mixed;boundary=---------------------b40ab00c9b6e2447d3aae8044c14d761
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: expire, expires, expires today
+URLs found:
+  - https://www.google.com/url?q=https://aggarwalpaints.in/.well-known/acme-challenge/system/ios/app-domain.html%23%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1690841350056000&amp;usg=AOvVaw2VUPabCpi6KsiM599SoRSX
+  - proton.me&nbsp;will
+  - https://hssaturno.com.br/wp-admin/user/401/gitch/app-domain.html#honey@pot
+  - proton.me
+
+DECODED TEXT CONTENT:
+------------------------------
+Password Credentials &nbsp; Your email address password expires today and&nbsp; proton.me&nbsp;will be closed automatically if you ignore this notification. Kindly continue with the same honey@pot password. &nbsp; &nbsp; Keep the same password &nbsp; &nbsp;proton.me &nbsp; Mailbox&nbsp; S ervice s&nbsp; &copy; 2023 .
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE HTML>
+
+<html><head><title></title>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+</head>
+<body style="margin: 0.4em;">
+<div align="center" style="padding: 40px 20px 36px; border-radius: 8px; border: thin solid rgb(218, 220, 224); color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness:
+initial; text-decoration-style: initial; text-decoration-color: initial;"><div style='line-height: 32px; padding-top: 0px; padding-bottom: 24px; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; border-top-color: currentColor; border-bottom-color: rgb(218, 220, 224); border-top-width: 0px; border-bottom-width: thin; border-top-style: none; border-bottom-style: solid;'>
+<div style="padding-top: 0px; font-size: 24px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;"><font color="#ff0000">Password Credentials</font>&nbsp;</div></div><div style="line-height: 20px; padding-top: 20px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif;"><span style="font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;"><font size="4">Your email address password expires today and&nbsp;</font></span>
+<span style="font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif;"><font size="4">proton.me&nbsp;will be closed automatically if you ignore this notification. Kindly continue with the same honey@pot password.</font></span>&nbsp;<span style='color: rgb(38, 42, 51); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif; font-size: 14px;'>&nbsp;</span></div><div style="line-height: 20px; padding-top: 20px;">
+<div style="padding-top: 32px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif; font-size: 14px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;">
+<a style='padding: 10px 24px; border-radius: 5px; color: rgb(255, 255, 255); line-height: 16px; font-family: "Google Sans", Roboto, RobotoDraft, Helvetica, Arial, sans-serif; display: inline-block; min-width: 90px; background-color: rgb(65, 132, 243);' href="https://hssaturno.com.br/wp-admin/user/401/gitch/app-domain.html#honey@pot" target="_blank" rel="noreferrer"
+data-saferedirecturl="https://www.google.com/url?q=https://aggarwalpaints.in/.well-known/acme-challenge/system/ios/app-domain.html%23%5B%5B-Email-%5D%5D&amp;source=gmail&amp;ust=1690841350056000&amp;usg=AOvVaw2VUPabCpi6KsiM599SoRSX">Keep the same password</a></div></div></div>
+<div style="color: rgb(34, 34, 34); text-transform: none; text-indent: 0px; letter-spacing: normal; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; font-size: small; font-style: normal; font-weight: 400; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+<div style="text-align: center; line-height: 18px; padding-top: 12px; font-family: Roboto-Regular, Helvetica, Arial, sans-serif; font-size: 11px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;"><div style="padding-top: 0px; border-top-color: currentColor; border-top-width: 0px; border-top-style: none;">&nbsp;<b><font color="#ff0000">&nbsp;proton.me</font></b><b><font color="#ff0000">&nbsp;</font></b><b><font color="#ff0000">Mailbox&nbsp;</font></b><b>
+<font color="#ff0000">S</font></b><b><font color="#ff0000">ervice<wbr>s&nbsp;</font></b><b><font color="#ff0000">&copy; 2023</font></b><b><font color="#ff0000">.</font></b></div></div></div><p>
+</p>
+
+
+</body></html>
+

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "��� Das ist Ihre Chance! um ein Ferrero Rocher-Paket zu gewinnen!",
+    "from": "Gutschein-Team, <service@stayfriends.de.>, Office,\r\n\t<service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Sat, 24 Feb 2024 02:28:58 +0100",
+    "message_id": "<rshwlqj.twss6.uxt.uxt@vptauvjtanufwlp.bzo>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "sf22.sendsfx.com/admin/temp/user/2/ferrero-a-header-de.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://homcom.store/oop/6364_md/4049/25636/1298/143/149762",
+      "https://sf22.sendsfx.com/admin/temp/user/2/ferrero-a-header-de.jpg",
+      "http://homcom.store/cl/6364_md/4049/25636/1298/143/149762"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1803,
+    "html_length": 7432,
+    "has_text": true,
+    "has_html": true
+  }
+}

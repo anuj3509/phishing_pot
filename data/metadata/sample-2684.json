@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Processo em andamento protocolo: 02821115 data: 21/1/2024 19:59:21",
+    "from": "INTIMAÇÃO 991122 <M_fs22@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "21 Jan 2024 19:59:21 -0300",
+    "message_id": "<20240121195921.78F99639A01CAC64@hotmail.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_38F5036B.437FF1BB\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_38F5036B.437FF1BB\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://open-click.smtplw.com.br/openings/m/e7ce3476b266f1053f7023965c98fcd5-1705877962.6/a/e7ce3476b266f1053f7023965c98fcd5/r/NzI2ZjY0NzI2OTY3NmYyZDY2MmQ3MDQwNjg2Zjc0NmQ2MTY5NmMyZTYzNmY2ZA==/v/618262281fa1e732e631314747d4f149fd9176ad",
+      "1.png",
+      "https://meu-processo-online.conteudo-protegido.one/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 549,
+    "html_length": 3301,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,49 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Finish the process
+From: "support" <jrodriguez70710@ufide.ac.cr>
+To: phish@pot
+Date: 5 Jun 2024 15:24:17 +0300
+Message_Id: 
+ <PH0PR11MB7564BDF2010B1F81F9BA4888A6F92@PH0PR11MB7564.namprd11.prod.outlook.com>
+Content_Type: text/html; charset=us-ascii
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: quoted-printable
+content_type: text/html; charset=us-ascii
+
+PHISHING ANALYSIS:
+--------------------
+Urgency words found: confirm
+URLs found:
+  - https://forms.gle/swApmnQazhy2iu3y9
+
+DECODED TEXT CONTENT:
+------------------------------
+Finish the process p { font-family: Arial; } Dear guest! Your vacation is getting closer! https://forms.gle/swApmnQazhy2iu3y9 In order to confirm your reservation please go through the form and complete the process otherwise your reservation will be canceled. IMPORTANT: Please enter your reservation number into the form - 7097624592560
+
+DECODED HTML CONTENT:
+------------------------------
+<!doctype html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=us-ascii"><title>Finish the process</title>
+  <style>
+    p {
+      font-family: Arial;
+    }
+  </style>
+</head>
+<body>
+  <p>Dear guest! <br>
+<p>Your vacation is getting closer! <br>
+<p>https://forms.gle/swApmnQazhy2iu3y9 <br>
+<p>In order to confirm your reservation please go through the form and complete the process otherwise your reservation will be canceled.  <br>
+<p>IMPORTANT: Please enter your reservation number into the form - 7097624592560</a></p>
+</body>
+</html>
+
+

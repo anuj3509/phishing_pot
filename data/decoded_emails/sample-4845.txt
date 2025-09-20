@@ -1,0 +1,72 @@
+============================================================
+DECODED EMAIL ANALYSIS
+============================================================
+
+HEADERS:
+--------------------
+Subject: Ol�� phishing@potfp, Seu Produto foi taxado e encontra-se retido! 376
+From: Financeiro dos Correios <no-reply@statuscorreios376>
+To: <phishing@pot>
+Date: Thu, 20 Feb 2025 11:17:12 +0000
+Message_Id: <20250220111712.1E05B3F864@Ubuntu-fnzw-1vcpu-1gb-35gb-intel>
+Content_Type: text/html; charset="UTF-8"
+
+ENCODING INFORMATION:
+--------------------
+content_transfer_encoding: base64
+content_type: text/html; charset="UTF-8"
+
+PHISHING ANALYSIS:
+--------------------
+URLs found:
+  - hotmail.com,
+  - https://hotm.art/ibf-liberarpedido
+
+DECODED TEXT CONTENT:
+------------------------------
+Objeto Taxado na Alfândega Objeto Taxado na Alfândega Prezado(a) rodrigo-f-p@hotmail.com, Gostaríamos de informar que o seu objeto foi taxado pela alfândega e aguarda o pagamento das taxas de importação para seguir com a entrega. Fatores que influenciam a taxa alfandegária: Tipo de Produto: Eletrônicos, roupas, alimentos, etc., podem ter taxas diferentes. Valor do Produto: A taxa é calculada com base no valor do item, frete e seguro (CIF). Origem do Produto: A origem pode influenciar a taxa, devido a acordos comerciais ou zonas de livre comércio. Limites de Isenção: Produtos abaixo de determinado valor podem ser isentos ou ter uma taxa reduzida. Para mais informações sobre a sua taxa e para realizar o pagamento, acesse o site dos Correios. Acessar o Site dos Correios © 2025 Correios. Todos os direitos reservados.
+
+DECODED HTML CONTENT:
+------------------------------
+<!DOCTYPE html><html lang="pt-br"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objeto Taxado na Alfândega</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f1f1f1; color: #333; margin: 0; padding: 0;">
+    <table role="presentation" width="100%" style="max-width: 600px; margin: 20px auto; border: 1px solid #004B87; border-radius: 8px; background-color: #ffffff;">
+        <tr>
+            <td style="background-color: #004B87; color: #fff; padding: 20px; text-align: center;">
+                <h2 style="margin: 0;">Objeto Taxado na Alfândega</h2>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 20px; font-size: 16px; line-height: 1.6;">
+                <p>Prezado(a) rodrigo-f-p@hotmail.com,</p>
+                <p>Gostaríamos de informar que o seu objeto foi taxado pela alfândega e aguarda o pagamento das taxas de importação para seguir com a entrega.</p>
+                
+                <p><strong>Fatores que influenciam a taxa alfandegária:</strong></p>
+                <ul>
+                    <li><strong>Tipo de Produto:</strong> Eletrônicos, roupas, alimentos, etc., podem ter taxas diferentes.</li>
+                    <li><strong>Valor do Produto:</strong> A taxa é calculada com base no valor do item, frete e seguro (CIF).</li>
+                    <li><strong>Origem do Produto:</strong> A origem pode influenciar a taxa, devido a acordos comerciais ou zonas de livre comércio.</li>
+                    <li><strong>Limites de Isenção:</strong> Produtos abaixo de determinado valor podem ser isentos ou ter uma taxa reduzida.</li>
+                </ul>
+                
+                <p>Para mais informações sobre a sua taxa e para realizar o pagamento, acesse o site dos Correios.</p>
+
+                <!-- Botão centralizado -->
+                <div style="text-align: center;">
+                    <a href="https://hotm.art/ibf-liberarpedido" style="display: inline-block; background-color: #FFCB05; color: #004B87; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold; text-align: center;">Acessar o Site dos Correios</a>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td style="background-color: #f1f1f1; padding: 10px; text-align: center; font-size: 14px; color: #777;">
+                <p>© 2025 Correios. Todos os direitos reservados.</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+

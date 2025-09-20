@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Livelo Prime - BRADESCO LIVELO: Seu cart��o tem 103.990 Pontos LIVELO expirando hoje!",
+    "from": "BANCO DO BRADESCO LIVELO<banco.bradesco@atendimento.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 17 Aug 2023 11:32:15 +0000 (UTC)",
+    "message_id": "<20230817113215.206DC3F585@ubuntu-s-1vcpu-1gb-amd-syd1-02>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "icone-superior.png",
+      "https://desktopandpontuapigor.me/",
+      "header.png",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 745,
+    "html_length": 4902,
+    "has_text": true,
+    "has_html": true
+  }
+}

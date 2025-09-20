@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Hi",
+    "from": "Henry Jones <registweb@prevencontrol.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Sep 2024 17:06:15 +0000 (UTC)",
+    "message_id": "<DYWUbvFVQEC8Hd92bjtjaA@geopod-ismtpd-canary-0>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://sglinks.prevencontrol.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoV84osnCvAbggurvehwl-2F-2B7QROtvFLd1T3iqkgDo-2F5-2FSSpUycvBjnAS2Z7kKzO-2FVys3Jzdyz-2FcGENmBdh1uBRHU-2BPuHHG5KqNIHSpj8Wnw3kU730hK88hOL4O2iXWO8m8B-2FiVmo8St5rRTkjqgVtF8zzePHgrxJGTIDE3QFf7dabg-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1914,
+    "html_length": 3069,
+    "has_text": true,
+    "has_html": true
+  }
+}

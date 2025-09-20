@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Please answer me its very urgent",
+    "from": "\"Mr.Roland Jones\" <rolandjjj2259@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 22 Feb 2023 02:42:29 +0100",
+    "message_id": "<CAKnTRfT--EBK4rSkcApVWDZ4rTCKoz_GQnFws6-USc519OdBzg@mail.gmail.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Mr.Suriya",
+      "Mr.Roland"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2393,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}
