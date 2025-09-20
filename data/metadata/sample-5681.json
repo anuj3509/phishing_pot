@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Mutuelle : comparez avant de payer",
+    "from": "Conseil Santé <Mutuellecomparezavantdepayer@thinkebiz.net>",
+    "to": "phishing@pot",
+    "date": "Mon, 14 Jul 2025 04:37:20 +0000",
+    "message_id": "<0100019807391e69-4e110e3a-8cd3-425f-8f5c-b9c191030be1-000000@email.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://n5rt4ehrxto5n6jdvyq.s3.us-east-1.amazonaws.com/indexm.html",
+      "https://desabonner.s3.us-east-1.amazonaws.com/desabonner.html",
+      "img.logo",
+      "https://www.maxredirect.com/scripts/direct/index/6861a802b97e5/6861a802ceb49",
+      "https://www.maxredirect.com/comparateur-mutuelle/comparateur-mutuelle.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1145,
+    "html_length": 3281,
+    "has_text": true,
+    "has_html": true
+  }
+}

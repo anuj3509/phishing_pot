@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "⚠️ Rappel urgent : expiration de vos Chèques-Vacances",
+    "from": "Service Public FR <info+Agence-Nationale-Vacances@plateforme-habitat.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 21 Aug 2025 17:19:57 +0000",
+    "message_id": "<01000198cda4f7fd-37e68c4e-2f20-4753-b4de-04df23b0ec15-000000@email.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://v35x7gji.r.us-east-1.awstrack.me/I0/01000198cda4f7fd-37e68c4e-2f20-4753-b4de-04df23b0ec15-000000/LWddFH_Ox255DdTXioImX_Gsk4I=440",
+      "www.ancv.com",
+      "https://v35x7gji.r.us-east-1.awstrack.me/L0/https:%2F%2Fbaka-ure.com%2Fs3anvc/1/01000198cda4f7fd-37e68c4e-2f20-4753-b4de-04df23b0ec15-000000/Qyb7bG7nhefR_3kAxFr_TBEDSUo=440"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2444,
+    "html_length": 13785,
+    "has_text": true,
+    "has_html": true
+  }
+}

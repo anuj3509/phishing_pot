@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Final Notice: Update Electrum Before August 30 or Lose Wallet Access",
+    "from": "\"Electrum\" <cnitech@nate.com>",
+    "to": "sam_bt@hotmail.com",
+    "date": "Fri, 15 Aug 2025 14:23:40 +0900",
+    "message_id": "<3bb04d326a27132f2d136a26ac97397f$fac1c2e2@mail3.nate.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail3.nate.com/app/msg/confirm/?usn=8790598&amp;email=cnitech@nate.com&amp;key=3bb04d326a27132f2d136a26ac97397f$fac1c2e2@mail3.nate.com",
+      "https://i0.wp.com/zenledger.io/wp-content/uploads/2023/01/60f6bc56762c3132d56792e5_logo.png?w=375&amp;ssl=1",
+      "https://electrumlink.netlify.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2178,
+    "html_length": 3870,
+    "has_text": true,
+    "has_html": true
+  }
+}

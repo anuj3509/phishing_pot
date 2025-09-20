@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Your wаllet hаs failed the Update",
+    "from": "\"Μetamаsk \" <kirk@actdental.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Sep 2022 01:40:25 +0000",
+    "message_id": "<20220928014025.16025c8a2a2e94d7@h.kajabimail.net>",
+    "content_type": "multipart/alternative; boundary=\"fada58b449bd8166c0416cfa9e9a8a245311854126d2402d36ebd7a74d44\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"fada58b449bd8166c0416cfa9e9a8a245311854126d2402d36ebd7a74d44\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://a.kajabi.com/9/9d08eac.png",
+      "http://email.h.kajabimail.net/c/eJx1kN1OxCAQhZ-mvTHdlCnl54ILjZp47QM0bJla3C0gsCb79tJuNdHEhExgDnP4Drhoex4iJn-JIw7WKCBUcsopoTVuYsKPC7qbWKMijNEOJICsdQiD0wuqk37XR9uk7CNO0bucmhC9uYzZerfb_LaeFT8KQzhhyImg3JhWjrqbBFI9tUiR7GP5GlA9rduH6LUZdcp1snmjIQWjPqs555Cq7r6C57IiGnvSiz-MfilHUziiffPN1ISKtrPPq9cq1gumpN-wBHQG42B8UZyaD7c02zWHeecweLafGK_ru0IyyXvou34Xv5022Fvr-EMb1f8IWb2WLHcvjxV0W5qIow0WXd7-C4QQlBDCaqugBWgliJbQFvoDYaWOQoMGlNTw1fgvuVETE6wnX97GoM4",
+      "http://email.h.kajabimail.net/c/eJxdkd2O2yAQhZ_GvqlsmTHGcMFFq92V9roPYPEzSWgc4wJutG_fsZNu1UoIDTNwdM4H3kyYp4Q5bsnhFLwGxtXIR854jccw488Nl8ewRs2E4D0oAFWbdZ0Wc0N9NT-MDU0uMeEpxaXkZk3Rb66EuDxl_pW-aMXZyJWVnIPzqKS00Ht-4r2SXgjjns_Kx4r6dS-_pWi8M7nUOZTDDSMb9awvpay56r9W8Ebrfr-3xhWPSzFz6-KNeo4sUS9TCSCl5IwxQYe82exSWHebVf_mg6_6F6mEGgcY-qECka9hndwc3HUqybhrWM50paQNabhtx4ORC-Ol840ViA23wjbWn6garBSDAtl3Q33DnM0ZiebiMU0-UqRFX9oHuj1fu2B5hvY4h1-YPvaQf-08h3-UDjKPlv1EkzRxT-Ecm1OzVry7xHJoE4e66O8E7sv7SwX9gS6hC2sgUMfnfIKpg4YOoCPnHeMdDC0TtDtpwAAq7sdd-H_nXp8ExWW_ATWtwKE",
+      "http://email.h.kajabimail.net/c/eJxdkUGP2yAUhH-NfalsAQZsDhwSpVtVVS-t1KxysTA8YhLHuECa7r8vcbKVWgkQeiNGMx9wUW7qA0R_DRp6ZyTBVLS0pZiWsIoRfl5hfoglSMw5bYggRJRqWfpZXUCe1UkNrorJB7DBzylWS_DmqpPz89PmX-tR2tZyYxmIhllsDBVDay1GwLmiDVX4-Sy9LSA_3q_b4JXRKqYyurSmwTlGOckxpSUWzaYgL3ndbrda6WRgTmqqtb_kGeS93Yzt9uT3hz0e1f63PXz6EdXrYdLzZNX-W_xyO72e-Nf95piNWLOrqhYLIBohaxFqBtW1CGtoO0UN1VgwbujAKBu6onmJZ7f0enL63Keg9NnNx6LZpXCF8gIxqiNkjLOB0Bufu8xyrB_M7sXqGdKzrYHJ_YLwdm_XCS5alqOwp_jutCJ5jIa_TILMwIM7-spWS0HR6NPqnQGUSX7PxD583hWkWZkF0G5xmdD6K6TrOoox5qWTBBGCBOkQpoiwGvN86k4RRUBQ096N_09upOUdZ_gPs9_AnQ",
+      "http://www.w3.org/TR/html4/loose.dtd",
+      "https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/themes/2151740499/settings_images/DgfI0BG7T0uiPQ8pSawQ_J471FAuJQAq5tDinYn3p_dsq_dqs_dsq.png",
+      "hotmail.com",
+      "http://email.h.kajabimail.net/o/eJxtj0FuwyAQRU8TNpUjZowxLNhU7aLrHsDCMG5oY3CBVMrtazvJolI3CPGH_97QbMN5yFTSJTsagjcIQveiFyAY7WGh7wvFW8jIgJSiRY2omV2WIdqZzJf9tGNoSk2ZppxiLc2Sk7-4GlK81_ytPpmROwI5adtJ7IGmVshRwdjLsXecHLAS6s6EFcZmKsV-0CoTPeXBp7UzmtPxRt4Ax0j1jvJ0Dj-Ur9tvpaXuO-za7h4-mup1IXN7GnOy3tlSWSYXlkCx7rqolBIAIFk176vN09vLAdvdx5tJKtkBy2ZdNIeP1EzNchD8lOpu49LMgkGOyDUqDoJjdwS5nk5ZtEha-H6b_3-F3e51uz4_5H4BU4yNKQ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3607,
+    "html_length": 36337,
+    "has_text": true,
+    "has_html": true
+  }
+}

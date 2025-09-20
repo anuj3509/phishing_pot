@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Sud Conseil] Votre identifiant et votre mot de passe",
+    "from": "WordPress <wordpress@cabinet-sudconseil.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 15 Jun 2025 18:03:42 +0000",
+    "message_id": "<9bc3a08e83f44dec625d12187817e319@cabinet-sudconseil.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.gdrhbx.blogspot.fr",
+      "https://cabinet-sudconseil.com/wp-login.php",
+      "https://cabinet-sudconseil.com/wp-login.php?action=rp&key=NkadxY1gbUkG8l6hjFXX&login=www.gdrhbx.blogspot.fr%20-%201.343%20BTC%20BINANCE"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 314,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

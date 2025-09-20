@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Security Notice – Recent Data Exposure Detected",
+    "from": "Ledger <do-not-reply@maildbx.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 27 Aug 2025 09:23:53 +0000",
+    "message_id": "<5b931963-9a23-42b1-be9b-b5914e215251@mtasv.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "verify",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ea.pstmrk.it/open?m=v3_1.Etzq-DSodhCgbO5yAwFQWg.IAotQTHXUmNxh5y-A3EaUijGDltNpcDTU2d0uw3ksg58vLPnOSnrq--TOGKeKJvc-b00-yEUtFCOew0mdHL0VAZnwFAf5JBw0w0CXol5Z-udgZC6dQK40QnNSH_L9lJJYCFcBT27lytys5FD3W2gjyjvXtULoYOq3xvnyv8G-ADQjbDrrwIkPCutBD8veTqsmI6rlN5khyPWgnjLc3MHTR_4VXSeTMiK_i2k6C49LEraxSS6fl-LpaaCV2FqU_txm5Fhp5Kkib0RXzQlvMEe-7OF2G43LPkiQCDggL4iFwF_7DpUfcTvUbLiF0YiX9Q5DLb5nbrKbJczBiGOaZO7sVxmNJnx7D-H_oRfyOoRNjGALKKhzlTwt_k7fD_qgBE2vmcuWM51z-A27My66ZnNHkYE6GtnVo9rxBBxncZH_o0x2cJst-mCH3gp_ZtkJsfktgnXoj1X8kCCQ_-LZJ3--6weeJNUqSzmnKlc0-YPVriTwn3csvBomMvImx2Koq5NQFLN7yFGq58HSnJ34HXWOpdLdQM22q83TL4huy2JlOM",
+      "https://track.pstmrk.it/3s/my-recover-check.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/tKK-AQ/AQ/5b931963-9a23-42b1-be9b-b5914e215251/2/DwtktcoiQa",
+      "https://subscriptions.pstmrk.it/unsubscribe?m=1.XmK96qNyakeEUdb67WbuyA.k65NJI8PCOp-mL1glR4sinPhLoBO_WaTcfY7HRe0wvWmbniVLVCUjrzRBFKkFycP1iMfTW5AFWYDLw00UA7mozHeuM1Oot-ageA7oMcH7KKORTwQof5shpBvRQTqsFXvj2xxFzf1PzZgL4BVeGtljQrTksWYMlfH5__3NG3JAuSwF2-GgF0q2YmuNLvAivRcbsPNXXvRktGN0GJxx00PlTHQGnAw_pUQ6nIdfUKfAh2ZTvW66B0pwvhVI5JhVePRprK3W5lQJaX3-jVHA2hoGlp05BvAlrrrk6gWCN8yQlFVLC_OnI_AxqL4jXl-yBGwvWRNkUp9aXcuQLW9YNVa7R7xdtfw_kV5LpfQV2A9VoozLqzHxXpFVcaBCdVUwUqYHtp19GImtW06oJIPmczFj-LKM_4HHiGQW6KdF3ZfUTfjcG0N6n5up3pLmh1kGS93VZFKi6c6VF3lZkQy3usyzy9sTlMDxRNrP9EAyvrQwCGBRTq6QlSs3fFAMWpDkxZq7O65vrYGVl7GTbJM9ta_njtPhAJxuwoIeE3tlKsA0x1OxNhxTWdI72_nqydLqPpmyRmpxBCVDQ3ARuHwRq2K1g",
+      "https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/jrqS/tKK-AQ/AQ/5b931963-9a23-42b1-be9b-b5914e215251/1/DnSXAiqK35",
+      "https://my-recover-check.s3.eu-north-1.amazonaws.com/logo-ldg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1259,
+    "html_length": 5997,
+    "has_text": true,
+    "has_html": true
+  }
+}

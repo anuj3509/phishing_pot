@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fw: FOR YOUR ATTENTION",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Fri, 2 Jun 2023 18:46:54 +0000",
+    "message_id": "\r\n <SA0PR04MB73709C6BC73BEC7AC63F7A97B34EA@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73709C6BC73BEC7AC63F7A97B34EASA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73709C6BC73BEC7AC63F7A97B34EASA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "hotmail.com&gt;",
+      "directbox.com&gt;",
+      "directbox.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 357,
+    "html_length": 848,
+    "has_text": true,
+    "has_html": true
+  }
+}

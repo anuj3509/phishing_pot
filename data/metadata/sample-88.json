@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Alerta de seguranca: verifique o acesso a sua conta do Mercado Pago Protocolo: 801002860",
+    "from": "Mercado Pago <mercadopagommo@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 10 Oct 2022 13:16:33 +0000 (UTC)",
+    "message_id": "<20221010131633.2B7905EDD2@daazzrteeve>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.mercadopago.com.br",
+      "https://uploaddeimagens.com.br/images/003/735/800/full/mplogo.png?1645224185",
+      "https://southamerica-east1-groovy-form-362414.cloudfunctions.net/lymercadolivre",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 366,
+    "html_length": 12307,
+    "has_text": true,
+    "has_html": true
+  }
+}

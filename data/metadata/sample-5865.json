@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Important: Your Wallet Requires Immediate Action",
+    "from": "Trust Verify <support@rosegoldparis.zendesk.com>",
+    "to": "phishing@pot-f-p <phishing@pot>",
+    "date": "Sun, 17 Aug 2025 01:06:56 +0000",
+    "message_id": "<3KR6K1DWZY6_68a12b30183b0_b8157810349b_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_68a12b3035045_b815781035c7\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_68a12b3035045_b815781035c7\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rosegoldparis.zendesk.com/images/2016/default-avatar-80.png",
+      "https://avmwork.ro/app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1326,
+    "html_length": 5280,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Notification of ATM delivery",
+    "from": "FedEx Courier Service <17865@klw.ac.th>",
+    "to": "undisclosed-recipients:;",
+    "date": "Thu, 21 Aug 2025 21:28:45 +0600",
+    "message_id": "<CAFacTyHAk3nfGVCweZ58DbOiWQGmTYpmKqjXnB0zJP68Av32HQ@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000080507d063ce1bf2a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000080507d063ce1bf2a\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 824,
+    "html_length": 995,
+    "has_text": true,
+    "has_html": true
+  }
+}

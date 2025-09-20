@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Coca Cola Jahresvorrat f��r Dich! ",
+    "from": "Kundenservice, jehd <service@stayfriends.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 19 Sep 2023 22:01:30 +0200",
+    "message_id": "\r\n <029e9192-eedc-4780-96e8-96b5311af5a4@DM6NAM11FT004.eop-nam11.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://easilett.com/media/80d8481f734f545.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "http://easilett.com/cl/161_md/31/66/17/23/2459859",
+      "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "http://easilett.com/media/773129c8a0bfd10.jpg",
+      "http://easilett.com/oop/161_md/31/66/17/23/2459859"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 535,
+    "html_length": 5032,
+    "has_text": true,
+    "has_html": true
+  }
+}

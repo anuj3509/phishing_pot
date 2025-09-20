@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "Successful Transfer",
+    "from": "\"Pasic, Tarik\" <tpasic@ruptly.tv>",
+    "to": "Undisclosed recipients:;",
+    "date": "Wed, 31 May 2023 06:14:48 +0000",
+    "message_id": "<a0f09db767ad415aba04480b6cccac36@ruptly.tv>",
+    "content_type": "multipart/related;\r\n\tboundary=\"_008_a0f09db767ad415aba04480b6cccac36ruptlytv_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"_008_a0f09db767ad415aba04480b6cccac36ruptlytv_\";\r\n\ttype=\"multipart/alternative\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.facebook.com/Ruptly",
+      "5eb6f1ba-db27-4211-a8ec-227e51c6746c.png]",
+      "3509fbea-ac6a-4e1a-b9da-5f97cfdb0ee3.png]",
+      "a28ca9fe-2d1a-4f57-8d63-f52d31337b92.png]",
+      "ruptly.tv",
+      "a28ca9fe-2d1a-4f57-8d63-f52d31337b92.png",
+      "3509fbea-ac6a-4e1a-b9da-5f97cfdb0ee3.png",
+      "http://www.ruptly.tv/",
+      "5eb6f1ba-db27-4211-a8ec-227e51c6746c.png",
+      "051206ab-0e1b-4e42-b87e-ac2f32c75d2b.png]",
+      "https://www.youtube.com/user/RuptlyTV",
+      "cab5e115-79c2-4aba-8bd2-e06a9fc9ab12.png",
+      "Swancoins.net",
+      "https://twitter.com/Ruptly",
+      "https://www.linkedin.com/company/ruptly",
+      "051206ab-0e1b-4e42-b87e-ac2f32c75d2b.png",
+      "cab5e115-79c2-4aba-8bd2-e06a9fc9ab12.png]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1789,
+    "html_length": 4178,
+    "has_text": true,
+    "has_html": true
+  }
+}

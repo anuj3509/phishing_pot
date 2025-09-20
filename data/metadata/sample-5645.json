@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Kinder",
+    "from": "Kinder <PREJVgI.com>, Kinder <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 13 Jun 2025 03:31:46 -0400",
+    "message_id": "<PREJVgI.0.0.PREJVgI.9.PREJVgI@telekom.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_0544037815068682\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\n\tboundary=\"_----------=_0544037815068682\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://i.imgur.com/AtiEcfm.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://45.88.90.180/Nzh0UWlvNGlDWTR1VVlaQVRuSHlpSlp3blBNNDhHUHVYTWNhSXRKRGtZV0kxbjFVK2xMaGtobnVmaHVUZGhRczVFMGM1S3NhcHVZbTJCRG5uekNQdEE9PQ__",
+      "http://45.88.90.180/ZDRsUkMwTFR4SmwxY0tkY0ZiQWFTNnEzU1NlSHBSK2Q0NVpmMlYzQ2lFZlg0dDdPZ2pIMW1hUWNDV3ZMWXNoakIwSDA2YkJ4SDhnNDRPY0czWlltY1E9PQ__",
+      "http://45.88.90.180/ZW1hcGhweTZOeDFLd2NGWGhkS0xlUVYvbnRRWGwzbFhka051dURBK0h3bEhld1h4NGZ3ZEpuQTZaRUdwS3VrNDdCd0dyS3c2KzZ4VHVVMjk1cFV0SUE9PQ__"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1719,
+    "html_length": 8081,
+    "has_text": true,
+    "has_html": true
+  }
+}

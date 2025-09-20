@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Welkom Pakket",
+    "from": "Avalon 78 <ahasanm082@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 2 May 2023 19:28:40 +0000",
+    "message_id": "<CADhMT3sEv_sUXshN1Of7V3EH8yOcafXjSyx+joy3_-xo+931QQ@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000005fa2b05fabaf3ad\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000005fa2b05fabaf3ad\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://vk.com/away.php?utf=1&to=https%3A%2F%2Ftinyurl.com%2F34t7ctkc",
+      "https://vk.com/away.php?utf=1&to=https%3A%2F%2Ftinyurl.com%2Fzz5e2u5k",
+      "https://vk.com/away.php?utf=1&amp;to=https%3A%2F%2Ftinyurl.com%2F34t7ctkc",
+      "https://vk.com/away.php?utf=1&amp;to=https%3A%2F%2Ftinyurl.com%2Fzz5e2u5k",
+      "https://img.mailinblue.com/6009125/images/content_library/original/6451203b93b5d542a42b6b98.jpg",
+      "https://img.mailinblue.com/6009125/images/content_library/original/6451207ea5f859239b005051.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 174,
+    "html_length": 903,
+    "has_text": true,
+    "has_html": true
+  }
+}

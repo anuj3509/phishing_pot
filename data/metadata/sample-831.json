@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "⚠️ Required - Your wallet has been Suspended",
+    "from": "\"MetaMask App\" <zuni@zuni.org.hk>",
+    "to": "\" \" <phishing@pot>",
+    "date": "Sat, 24 Jun 2023 14:19:15 +0200",
+    "message_id": "<193BAD122411426A90A72CB198B8B56F@zuni.org.hk>",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----0BC1D0F81D604A9591E5AC0F226DAD1C\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; \r\n\tboundary=\"----0BC1D0F81D604A9591E5AC0F226DAD1C\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://static.images.apsis.one/pixel.gif",
+      "https://tr-apac.apsis.one/unsub/AHxH7s43TNiOmC1teHw4Tw/VHUGrQTlIhhw2x5iXadCN​",
+      "26th.What",
+      "https://tr.aponetrka.com/open/007c47ee-ce37-4cd8-8e98-2d6d787c384f?pmc=D1o6uhLOVYbcRttcQ_c3V4XMZ_j4s9Zeg6TX8yqmBSTrl3Il0en_BFOJbNcZ0rTz24v0_Y5QpmuJ4oWBXd-89V089zWDYSCgjFAeYmGFpPdAcJx1fIwxJZIH5q38utJOlnMmfRttJ9-KGKoUJhGM2XN5Rpal4iE2c1BDEs7gTKQ",
+      "http://www.w3.org/1999/xhtml",
+      "https://tr-apac.apsis.one/e/UkkXDX8CSOmvpz5li4JvaA/AHxH7s43TNiOmC1teHw4Tw/y_1dYuuK57kNqJDDQ5dM4/iIDWm1TNSF0ju3s73q9UoxrhwcqagXBNQdyFJe7kQ1Ef3Ji2RbCydrID1B5oxGUKHeXJs_U7s8ov0ZfnBJEYri1qmIB5-k9Co9Z9T42iztW2vjyW5eC0iEuKgN2mUf2DvZevwfgOy3HDTrSVacCRVtOO_StE78bpovvAaRBRnyljY8HpqCyyWSSNdr6tmug_-s5OyZh-ReFCsSxqO_6OiUBOnrYMCm-dgiKYqq2-mB0leId39VoWQ27TYMiXvcyOzo1A7WzQrmpvxnxxg6DanrVxu1uZEV8uD-UF4Gws3Tav-th8zhydoNO7hePkL27OGHDD3cQmdVOXdYwfk0pbJiPcBHXN3B2rGcD-Ct1J1Ri1p0Alda9qgZ64Bi6UPvvzZ_uYqrmrmkrSV6BsJPJoukHcL2AnTWcVXopQ4-Tz0G48Xi9pBTzw4EB6M0RSWRJ_Z2CTqQhBW4QlOsbl5Bfya78MJzdP_2vpAKnj10Brjjy7L_rkp3Z75bSWEKIjcU1YamZgRLrd46OdABPveULWKilsk87IwYPuh1bwQNtZqPfB_PqFJSCsHN1407FGV0qocTCS65tPjSkFFbT65agPxGUF_LzxFeVdRBnrHGrc4ZBMjWMVzRpiq9VtP9waHxgtEVeaJOF3LovWAIfhwZuXW_nq2MCUpa8t8WGohhx4z7UnDcP5bT0uZwdOMm4UXdSvcEsTWu3L6a0fPJMDRvLjZCh0ymEbVSDTnKAkvYY2t5e4wo5pIXAuGXw9EXaLf1QW00PgFweUHAAcvCr_ln",
+      ".m-show-row.regular",
+      "https://tr-apac.apsis.one/unsub/AHxH7s43TNiOmC1teHw4Tw/VHUGrQTlIhhw2x5iXadCN",
+      "table.menu",
+      "https://images-apac.apsis.one/ec7f34f3-ee7c-466a-ac09-1e62fc852e89.png",
+      ".icon-menu-item.icon-text"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1609,
+    "html_length": 13966,
+    "has_text": true,
+    "has_html": true
+  }
+}

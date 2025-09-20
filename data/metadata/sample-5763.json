@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Your Aave Rewards Are Waiting!",
+    "from": "\"Aave Team\" <contact@cityopp.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 19 May 2025 14:40:51 -0700",
+    "message_id": "<NZU3MTI.NJEZOTG.56177705191440202551915017015@cityopp.com>",
+    "content_type": "multipart/alternative; boundary=\"------------080408060204050204060004\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"------------080408060204050204060004\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://scheeren-tec.de/phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 381,
+    "html_length": 2232,
+    "has_text": true,
+    "has_html": true
+  }
+}

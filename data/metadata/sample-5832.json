@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "500€ Gutschein wartet auf Sie! – EDEKA Überraschung sichern ",
+    "from": "EDEKA <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 7 Aug 2025 03:11:40 -0400",
+    "message_id": "<oMMlatD.0.0.oMMlatD.9.oMMlatD@telekom.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"jzrelvo4qjhdozib1bws1qnisqcos6lrzttmpyir9irdgwqu7lcswentodja\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"jzrelvo4qjhdozib1bws1qnisqcos6lrzttmpyir9irdgwqu7lcswentodja\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.zupimages.net/up/25/32/od4f.png",
+      "http://blog.dury.agency/cl/4166_md/1995/6377/749/1/12270",
+      "www.zupimages.net/up/25/32/od4f.png",
+      "http://blog.dury.agency/oop/4166_md/1995/6377/749/1/12270",
+      "http://blog.dury.agency/op/4166_md/1995/6377/749/1/12270"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 768,
+    "html_length": 2810,
+    "has_text": true,
+    "has_html": true
+  }
+}

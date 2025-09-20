@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your balance has been replenished +27,755$",
+    "from": "Vasiliki Henrey <vasilikihenreydjbjqk@gmail.com>",
+    "to": "mohammed36365656@gmail.com, ggr3443@gmail.com",
+    "date": "Wed, 31 May 2023 03:47:48 +0300",
+    "message_id": "<CABf9J24o3XbMuTMZMT4rJM0BBFmTGjD1mjmhfLrgari1=qZdWA@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000007b427905fcf2ab4b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000007b427905fcf2ab4b\""
+  },
+  "attachments": [
+    {
+      "filename": "Withdraw_your_14%2C425%24%2C_have_only_24_hours-457.pdf",
+      "content_type": "application/pdf",
+      "size": 246320
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 377,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

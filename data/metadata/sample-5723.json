@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 3897666081",
+    "from": "Status Entrega - Correios <no-5014-reply@%Encomenda.online>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 17 May 2025 23:23:37 +0000",
+    "message_id": "<20250517232337.202503F280@utbM5cmt-X-f-fmmc--2323--amdada-eabamve3ep4dhogg>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wwhw3897666081pwpsfw.ceponlybuscacaixa.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2230,
+    "html_length": 4212,
+    "has_text": true,
+    "has_html": true
+  }
+}

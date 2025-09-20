@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "phishing@pot Planen Sie Ihre Lieferung",
+    "from": "DHL <noreply@theskimm,com>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 May 2025 13:18:27 +0000",
+    "message_id": "<203785950199377.2.ARI2726622583@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://tmBQxmwYeBp4YJomIyVetmBQx.swiftcart.work/4tmBQx16182lJwC247qjmdspxrfb3764VQMZXAVPEQIEICS91072PBIV1853Q201",
+      "zupimages.net/up/25/08/ua4v.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1587,
+    "html_length": 4063,
+    "has_text": true,
+    "has_html": true
+  }
+}

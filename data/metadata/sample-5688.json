@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Governo Federal: Iniciado processo de cancelamento de CPF! Autenticação: 55686481. - Verifique Agora: Seu CPF possui restrição Grave! - Cancelamento do CPF em Andamento: Consulte os problemas relacionados agora! - Receita Federal: Problema Relacionado ao seu CPF - Pendete - Imposto de Renda - Notificação Pendente - Restrição do CPF em Andamento - Cadastro de Pessoa Física poderá ser suspenso definitivamente!",
+    "from": "\"Gov.br - Tributos\" <regulariza@598871%receitagovbr.gov.br>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 16 Jun 2025 16:10:40 +0000",
+    "message_id": "<2865a3f911dcb4537b82b04799be521b@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_2865a3f911dcb4537b82b04799be521b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_2865a3f911dcb4537b82b04799be521b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imp-50833041340.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 6694,
+    "has_text": true,
+    "has_html": true
+  }
+}

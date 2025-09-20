@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "[ACTION REQUIRED] Update your Ledger device",
+    "from": "\"Ledger Live\" <ledgerlive@appupdate.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 2 Aug 2025 12:17:08 -0700",
+    "message_id": "<98404184938321174111571@xemyqu3081>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledgerlivehardwarewalletweb3.com/",
+      "https://avatars.githubusercontent.com/u/9784193?s=280&amp;v=4"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 816,
+    "html_length": 3936,
+    "has_text": true,
+    "has_html": true
+  }
+}

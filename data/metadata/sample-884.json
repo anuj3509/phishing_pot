@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Nehmen Sie an unserer Umfrage teil und gewinnen Sie ein Gutschein von Decathlon im Wert von 1.000 Euro.",
+    "from": "Decathlon <otto-newsletter@newsletter.otto.de>",
+    "to": "phishing@pot",
+    "date": "Thu, 06 Jul 2023 00:09:42 +0200",
+    "message_id": "<YvoBCPZ.83144.892+=phishing@pot@farafirokatigona.cc>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://honara.shop/TXNiTk5TQXdnNUEzaWlobURsMThQc2FIMjRER0RCNWJneXRjL0hBUzIvWnZZUjJ5ODk1c2FkcFh4UmRudWsxWlNXMzhHU1dGUHBibzQ2dDh3T0pqWVE9PQ__",
+      "http://www.w3.org/1999/xhtml",
+      "http://honara.shop/L1lJSmkzQWpPc1dLVUNGbWIrTG5KV2NUQjV2MUhrSWVzR1FKTWd5WUh5NDZRcWJZVFJSTWJ6NDNzMmNkTlRZTi9SMjV2QlJBbSsxR0tzR2JWbWtPalE9PQ__",
+      "https://t.co/thsSjuE9rg",
+      "https://t.co/G2QEq3S9FM",
+      "imgur.com/n2WTUZi.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1466,
+    "html_length": 105235,
+    "has_text": true,
+    "has_html": true
+  }
+}

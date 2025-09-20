@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Market signal for the auctioned token NFT_968429. Action required: respond\n within 13 hours.",
+    "from": "OpenSea <postmaster@mg.eltan-inc.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 12 Jun 2025 21:06:40 +0000",
+    "message_id": "<20250612210640.5be4f11fbdfe7368@mg.eltan-inc.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://email.mg.eltan-inc.com/o/eJwcyVEOgyAMANDTyJ-mLaXIB4epQpVEZSFm51-y71dyUBF1NWPkFIUY0J0ZTCLuXiGUJFKMUWDzZEFT8sSra5mAAggSIQjDErbKhmhbsRq9rBPDfSz1evWZ27Mve7_dyKOX0Y4-2_yZGM7-3tquv30z_QIAAP__GqYnsg",
+      "http://email.mg.eltan-inc.com/c/eJwkzD1uxCAQQOHTQGeLGf5MQREp8j3GMKxRbLMClPNHSarXPH05WnKOJEfwJniHRoE8I4SCgfiAYBMpQmtJO60zphI2F7ysERVa5QARlDNqtQebAlCOXNhrtwmj7tfK16RnqU9aU7vlFc8530PoD4G7wL0NXDrn2jnN30HgTinxEPq_Y7YvfoT-9HYzFmSPveVeX20py1sYdbZ5U73-7O-IPwEAAP__vgg8kw",
+      "http://talk.hyvor.com/media/website/12825/40amSzXK55wfFtQxM4oMmbCvvBhtUgV63c1caVeV.png",
+      "http://email.mg.eltan-inc.com/c/eJwcy0EOhCAMAMDXwE1Cayly4LAX_4FYlETFKNn3b7IPmDW6xJy0RPAUPCNZ0HucWGhxQQQyZ_IQIDgYExO6LDKJrhEtOsuACJbJGrcIFYCyrEX8yJMie25Gjp6uoV7Z5HbqI-69368aPwpnhXO75Xolmdr0E5-2PnVrQxluRXZv_Uz1-LNvxF8AAAD__-XdMOY"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 304,
+    "html_length": 2822,
+    "has_text": true,
+    "has_html": true
+  }
+}

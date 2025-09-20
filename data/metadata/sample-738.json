@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "You have 24 hours to withdraw +21,359$",
+    "from": "Kayla Cole <kayla.cole9571@gmail.com>",
+    "to": "donnasargeant@hotmail.co.uk",
+    "date": "Thu, 1 Jun 2023 16:33:06 +0000",
+    "message_id": "<CAFdSTxkizGfcgpywzXEzhq-W4Dh3KLZo49N2SARu36EaVTA1UA@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000f55cfb05fd13fd2d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000f55cfb05fd13fd2d\""
+  },
+  "attachments": [
+    {
+      "filename": "28%2C665%24_Need_to_move_you_have_24_hours-5307.pdf",
+      "content_type": "application/pdf",
+      "size": 258801
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 411,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

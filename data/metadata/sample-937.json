@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Voc�� possui 245.579 mil pontos acumulados!",
+    "from": "Banco do Brasil <LIVELO@BBRESGATE.COM.BR>",
+    "to": "phishing@pot",
+    "date": "Sat,  8 Jul 2023 17:48:13 +0000 (UTC)",
+    "message_id": "<20230708174813.63C27443F5@ubuntu-s-1vcpu-512mb-10gb-nyc1-01>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.catedramariustorres.udl.cat/dades/fitxers/log.bb.png",
+      "http://168.37.167.72.host.secureserver.net/bb/?hash=rodrigo-f-p@hotmail.com",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 761,
+    "html_length": 2283,
+    "has_text": true,
+    "has_html": true
+  }
+}

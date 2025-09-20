@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "🚫 //// AMOUNT: **** USD //// Automatic withdrawal error /// [ERROR___]_54237645167",
+    "from": "Senna <gerburgyousif@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Wed, 21 Sep 2022 03:19:56 -0700",
+    "message_id": "<CAAG6+8S3VWM-1P=PtCS6sBvHtF-wLtLh6sLn+2wEoAjKa45xXQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000006a886905e92d4900\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000006a886905e92d4900\""
+  },
+  "attachments": [
+    {
+      "filename": "YSXUqT4G.pdf",
+      "content_type": "application/pdf",
+      "size": 16715
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://drive.google.com/file/d/1Ni25Jyuuzc8l1qEhRAdbyBdjOrpFAuW0/preview"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 75,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

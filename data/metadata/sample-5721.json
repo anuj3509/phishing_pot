@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Der Bitcoin Macht Menschen Reich",
+    "from": "\"Bitcoin\" <alert@herges.info>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 16 May 2025 19:09:01 +0000",
+    "message_id": "<40967058-a600-4aa9-a7f6-e6dadad577ed@DB1PEPF00039232.eurprd03.prod.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "zupimages.net/up/25/20/ivtm.png",
+      "https://t.co/iXHJexFPcx",
+      "https://t.co/I12flZ95A9",
+      "https://zupimages.net/up/25/20/ivtm.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 97,
+    "html_length": 659,
+    "has_text": true,
+    "has_html": true
+  }
+}

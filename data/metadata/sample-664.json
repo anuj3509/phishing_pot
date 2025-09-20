@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Unauthorized Payment - New billing Confirmations [8761243876] Sunday,\r\n 14 May 2023",
+    "from": "\"Prime's Video Suspended\" <ddvgzwhphtvnl.ycuscjayi@unpvngephlzcsysntf.hksalsa.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 14 May 2023 12:37:39 -0500",
+    "message_id": "<CADunmV2nXMN5b_x5CigBmHAwR8ESvER7rp2D0hsKfi0UA_Aw3A@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000dbb82705fbaaccf1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000dbb82705fbaaccf1\""
+  },
+  "attachments": [
+    {
+      "filename": "amzprm.pdf",
+      "content_type": "application/pdf",
+      "size": 178769
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "afia.pro"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 240,
+    "html_length": 408,
+    "has_text": true,
+    "has_html": true
+  }
+}

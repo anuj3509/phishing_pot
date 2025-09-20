@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Fw: Good evening:) my Amazing.",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sun, 30 Apr 2023 01:28:52 +0000",
+    "message_id": "\r\n <SA0PR04MB7370B05E25875C61A5434258B3699@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370B05E25875C61A5434258B3699SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370B05E25875C61A5434258B3699SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "ms.Alice",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "mediasol.pro",
+      "mediasol.pro&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 487,
+    "html_length": 982,
+    "has_text": true,
+    "has_html": true
+  }
+}

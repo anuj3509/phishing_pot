@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Verify your wallet",
+    "from": "\"Trust Wallet\" <no-reply@trustwalletverificationweb3.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 25 Aug 2025 06:03:43 +0000",
+    "message_id": "<6448400199824285694618@WIN-B0IGH1QTAMD>",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"windows-1252\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://trustwallet.com/terms-of-services",
+      "https://support.trustwallet.com/en/support/home",
+      "https://trustwallet.com/assets/images/media/assets/TWT.png",
+      "https://trustwalletverificationweb3.com/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 502,
+    "html_length": 4840,
+    "has_text": true,
+    "has_html": true
+  }
+}

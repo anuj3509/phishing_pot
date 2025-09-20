@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, agora você é cliente bradesco prime e tem novos limites disponiveis",
+    "from": "Bradesco Prime <contato@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 20 Apr 2023 19:18:25 +0000",
+    "message_id": "<2e162bb2-0056-c1c9-5691-6c1cfd07784a@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://us-central1-western-throne-378715.cloudfunctions.net/lesma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3864,
+    "html_length": 7511,
+    "has_text": true,
+    "has_html": true
+  }
+}

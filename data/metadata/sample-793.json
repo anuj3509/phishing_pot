@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "All active and new accounts awarded XRP",
+    "from": "Ripple <xrpl@dispatch.yandy.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Jun 2023 09:12:23 +0000",
+    "message_id": "<20230617091223.1998ddc3630d3020@dispatch.yandy.com>",
+    "content_type": "text/html; charset=ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://mail92-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://mail92-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "https://i.imgur.com/XQSzg4W.png",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3320,
+    "html_length": 14544,
+    "has_text": true,
+    "has_html": true
+  }
+}

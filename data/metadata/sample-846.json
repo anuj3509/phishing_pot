@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "\\_INFORME-BB_/:Caro Cliente, você possui (_PONTOS_LIVELO_) vinculados em seu cartão prestes a expirar.* - ID ASEB7HYCCZ",
+    "from": "\"\\\\|BANCO*DO*BRASIL|/\" <b057005@bbatendimento.lb>",
+    "to": "phishing@pot",
+    "date": "Wed, 28 Jun 2023 02:52:18 +0000",
+    "message_id": "<ba267392f56968d5824dfcfce300c519@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ba267392f56968d5824dfcfce300c519\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ba267392f56968d5824dfcfce300c519\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://i.imgur.com/REbe8UA.png",
+      "http://urbanpartner.pt/Gestao/Pages/pagina/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 2184,
+    "has_text": true,
+    "has_html": true
+  }
+}

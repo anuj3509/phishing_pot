@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Microsoft account unusual signin activity",
+    "from": "Microsoft account team ,_<no-reply@access-accsecurity.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 5 Jul 2023 10:33:40 +0000",
+    "message_id": "\r\n <b00dfcab-7472-4974-a724-53b849a846a2@DM6NAM10FT006.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://thebandalisty.com/track/o37379IMyFD22448528bhoW49413whw33688WivK176",
+      "gmail.com?&amp;cc=solutionteamrecognizd01@gmail.com&amp;Subject=Unsubscribe+me",
+      "sign.in",
+      "gmail.com?&amp;cc=solutionteamrecognizd01@gmail.com&amp;Subject=Report+The+User",
+      "gmail.com?&amp;cc=solutionteamrecognizd01@gmail.com&amp;subject=unusual"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8928,
+    "html_length": 15323,
+    "has_text": true,
+    "has_html": true
+  }
+}

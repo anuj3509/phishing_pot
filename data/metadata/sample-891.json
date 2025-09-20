@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "[GitHub Support] - A note from GitHub about private information in\r\n your repository",
+    "from": "GitHub <support@githubsupport.com>",
+    "to": "phishing@pot <phish@pot>",
+    "date": "Thu, 13 Jul 2023 16:49:06 +0000",
+    "message_id": "<66J721E1GEV_64b02b028c28e_4d3a5c46521c_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64b02b02ebe56_4d3a5c4653ac\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64b02b02ebe56_4d3a5c4653ac\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions).",
+      "https://docs.github.com/articles/remove-sensitive-data)",
+      "https://github.zendesk.com/system/photos/13586262291860/github-mark.png",
+      "http://schema.org/ViewAction",
+      "https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private)",
+      "https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L88184",
+      "https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_453.eml#L123",
+      "http://schema.org/EmailMessage",
+      "https://docs.github.com/en/github/administering-a-repository/setting-repository-visibility#making-a-repository-private",
+      "https://enterprise.githubsupport.com/hc/requests/2250562",
+      "https://docs.github.com/en/github/site-policy/github-acceptable-use-policies#3-conduct-restrictions",
+      "https://docs.github.com/articles/remove-sensitive-data",
+      "https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_350.eml#L165",
+      "https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_102.eml#L146",
+      "https://github.com/rf-peixoto/phishing_pot/blob/master/email/sample_560.eml#L85562"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2208,
+    "html_length": 6790,
+    "has_text": true,
+    "has_html": true
+  }
+}

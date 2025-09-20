@@ -1,0 +1,53 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Congrats! You���ve received an Home Depot reward!",
+    "from": "Home Depot Opinion Requested <noreply@theskimm.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 May 2025 19:54:31 +0000",
+    "message_id": "<705120934396310.2.TWF3769919714@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "div.kl-row.colstack",
+      "table-mobile-only.block",
+      "td.mj-full-width-mobile",
+      "https://static-forms.klaviyo.com/fonts/api/v1/WKdFR5/custom_fonts.css);",
+      "http://www.w3.org/1999/xhtml",
+      "td.kl-img-base-auto-width",
+      "http://ztoaix76BmTQPTbi2kIbztoai.edusphereacademy.digital/4ztoai216970UqvH1346pggfhhowez26691HKDYPZPAEGSVRIU316412/4314q33",
+      "div.mobile-only",
+      "zupimages.net/up/24/43/cusl.png",
+      "content-padding.first",
+      "table-mobile-only.inline-block",
+      "http://agpNMxzUpuJdIkox76BmTQPTbi2kIbagpNMxzUpuJdIko.edusphereacademy.digital/track/3ztoai216970UqvH1346pggfhhowez26691HKDYPZPAEGSVRIU316412/4314q33",
+      "http://ztoaix76BmTQPTbi2kIbztoaix76BmTQPTbi2kIbztoai.edusphereacademy.digital/5ztoai216970UqvH1346pggfhhowez26691HKDYPZPAEGSVRIU316412/4314q33",
+      "td.mobile-only",
+      "body.mce-content-body,",
+      "table.mobile-only",
+      "div.kl-column",
+      "http://ztoaix76BmTQPTbi2kIbztoaix76BmTQPTbi2kIbztoai.edusphereacademy.digital/6ztoai216970UqvH1346pggfhhowez26691HKDYPZPAEGSVRIU316412/4314q33",
+      "content-padding.last",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 5480,
+    "html_length": 20702,
+    "has_text": true,
+    "has_html": true
+  }
+}

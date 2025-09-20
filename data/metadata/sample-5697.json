@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Requested invoice BGYSCLRRBHJ",
+    "from": "Manuel Nelson <chxydtwen@gmail.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 14 Jul 2025 19:04:18 +0000",
+    "message_id": "<CACnTLd-OLs04Psj=w9i2XWE=a9dbQJm5iMc2JBvjs51Cdrkj=Q@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000b4fb350639e8532a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000b4fb350639e8532a\""
+  },
+  "attachments": [
+    {
+      "filename": "attachment_97289284575_2025-07-14_14-04-17.pdf",
+      "content_type": "application/pdf",
+      "size": 26714
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 40,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

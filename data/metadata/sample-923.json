@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "Nehmen Sie an unserer Umfrage teil und gewinnen Sie ein Gutschein von Decathlon im Wert von 1.000 Euro.",
+    "from": "Decathlon <otto-newsletter@newsletter.otto.de>",
+    "to": "phishing@pot",
+    "date": "Sun, 09 Jul 2023 19:21:54 +0200",
+    "message_id": "<iRNAnGK.78098.624+=phishing@pot@winner-win.art>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://honara.shop/cHAzVmhzUzhvNlF5R3NCb1lXdkFqanhJckpBYU5IMkdlWExZajk3QmxQMXN1bjRXbjhHMENGVUd2Y0JKMEZVeFFwc0tYMGRoYU9FZ1E4dTFtV28vOFE9PQ__",
+      "window.postMessage({_custom_type_:",
+      "http://www.w3.org/1999/xhtml",
+      "https://t.co/G2QEq3S9FM#iRNAnGK",
+      "https://t.co/H0FgfvGQZV",
+      "http://honara.shop/WUpBMFc2ZnZEWko5SEUrOW5jMW5ieDNRb2lWdWh2ZVZmOHBXQTZIYnBpQkxBSll2dW9FYkdwRjhMN0RKWnZuZWV1UFU2MzF5UnJ5cW9QZ3RpZzd3b1E9PQ__",
+      "history.pushState=function(){e.apply(history,arguments),n()},history.replaceState=function(){t.apply(history,arguments),n()},history.back=function(){a.apply(history,arguments),n()},history.forward=function(){r.apply(history,arguments),n()}})()",
+      "history.pushState,t=history.replaceState,a=history.back,r=history.forward;function"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 922,
+    "html_length": 10250,
+    "has_text": true,
+    "has_html": true
+  }
+}

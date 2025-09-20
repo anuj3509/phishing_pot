@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Ik doe aan huisbezoek als je wilt                                                                                                                 ",
+    "from": "Faith <contact@123gereedschap.nl>                                                                                                          ",
+    "to": "phishing@pot                                                                                                                                                    ",
+    "date": "Wed, 12 Jul 2023 18:30:30 +0000",
+    "message_id": "<0.0.0.4.1D9B4EEEFE9E24C.19A7@yesxxxporn.com>",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit                                                                                                      ",
+    "content_type": "text/html; charset=\"UTF-8\"                                                                                                           "
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://safesecurelog.com/crp5l5k.php?safe=t0WzcSQX8ZyOM3TZkSwidM0DDJMN2nuPk1Ng&amp;t1=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1684,
+    "html_length": 3648,
+    "has_text": true,
+    "has_html": true
+  }
+}

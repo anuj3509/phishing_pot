@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ref:(865219610)",
+    "from": "Mercado Livre <nao-responder-mercadolivreappbr-com@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 23 Sep 2022 06:25:01 +0000 (UTC)",
+    "message_id": "<20220923062501.7215046AAF@zae0isugt.localhost>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.mercadolivre.com.br",
+      "https://us-west1-novo-358117.cloudfunctions.net/soldjhs",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 428,
+    "html_length": 9041,
+    "has_text": true,
+    "has_html": true
+  }
+}

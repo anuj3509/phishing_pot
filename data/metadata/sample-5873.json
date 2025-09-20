@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Action Required: Verify Your Ledger Recovery Phrase",
+    "from": "Ledger <info@cleario.app>",
+    "to": "phishing@pot",
+    "date": "Sat, 23 Aug 2025 07:53:10 +0000",
+    "message_id": "<498fa04f-acbf-4398-9a36-04917860809a@mtasv.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ea.pstmrk.it/open?m=v3_1.AjxETB-FbfZpJvgzGGXxzg.r8iHAziDbgwHkGz7iuA2kneR2D6a_MPOyao6haoHjTYA2IGUrbX641yDApzZJsCgqJCBPo7MhCzt8lDu6zXAPPAcLshFwyYAoCWJDUsu70VIAD9uIZv90pEMkR_woAuCSMuwZ7PttvfDNIlp9NlFunKl851vUfbTjL1VdQeNm_9QDem9QFgaabX52Vh8Mow_gNACKqY6KDKKptYl1lnMyRjZjt7syT22AONiCp65u0FMffDeNw4VPPkdWtSxQK7l5eqpRz_ckVfJOe6m_JxRqFcnJBmZ9K5kipW_BBs0PhV9fVIJhquymbXqxqFbagAJGibWVP22ak1nRJMyKs0TiOFcCWO35j5aOumey1KO0dANctlaa110mSTBkTILpusdrdqfS9RT11E0yzLSEZc6KLf6hfy-UPVxjA8GgXn5MclAjeh-zU-Kvfv-8xq6jNM3u75cIOSscrr1eEMjzCBmnsQhDYHPluuZweUZ59jMXuWQwIUjYPMYGSe8mRCg0HnjtYIQ4ohLiR-Wiz9H36NCyA",
+      "https://track.pstmrk.it/3s/support.ledger.com/vGt_/2ou-AQ/AQ/498fa04f-acbf-4398-9a36-04917860809a/2/hEvatnNvhz",
+      "https://track.pstmrk.it/3s/recover-check.s3.eu-north-1.amazonaws.com%2Frecovery.html/vGt_/2ou-AQ/AQ/498fa04f-acbf-4398-9a36-04917860809a/1/BkYAtJz5IK",
+      "https://subscriptions.pstmrk.it/unsubscribe?m=1.mAxhUC-heyFSocvRPpCR6Q.77duQb5SQumUst6NaFZO3a6fN4vaOfd2iOmLm9i9VwOCJrf-ABoIMteW6vxDQYqSsRl1un2_o-96uTXC7MMdUyANCLCrVOQGKy4GD83www-cIgV3L1R4XWNLq5LFqC8yGN9arllhsR6--cOD70eOiktxM7ooBlE6G-_XghOVhSA06BzMgc4Pp4qo7rAeETcVTtHkIPLEvgYq32KvKwy7R5lwSm440M-DTn5c3V5F8Lrh_MB7Oj9ca29PCzcoo2oh3QTCBumqXRcSOt8u18sryeYJbcaZ9zbv6pz-qGuxXz1hcGJ2v0vtdcMfJt98SuSv8cKqLKVp3qrgCv2OkjABiFmoMHPr8W5ENHPect9hk1DgNxHXr3mmFNDsHzrUFWNdIi3-U0zF80qfYisLkjUjwjVSnGtnDVNWduBFgvHlhMQb-qOSky18bkx_nab-P-ksLa-Fxw-jWiKGHRnpfGx9gH4OfoVfpaP-BeyQ2JRdWdIqHIlgVYOV3DwVJlf1ZtHK7LyE-dABfAuc4drKOhD83YwMGgdjlmfQOYZcpAA3R4gIaOhvW7ADTmWo8xhQtB1lP14p6K-NiFSTz42Xvgoysg",
+      "https://recover-check.s3.eu-north-1.amazonaws.com/logo-long.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1541,
+    "html_length": 6570,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "[BILLING ATTACHED] Your Norton Invoice – Order Confirmation #NP88Z/11284848",
+    "from": "Order- Processing Team <iyongmonyetnitor@ds.bundavivi.com>",
+    "to": "noreply_emails11284802548@bill.norton-us.com",
+    "date": "Wed, 27 Aug 2025 23:29:59 +0700",
+    "message_id": "<CABb5vjLb-JH0meS7WDRwPSO4zojx0==B-KQYuHuQOMG4nYeWNg@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000008171b5063d5b4d04\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000008171b5063d5b4d04\""
+  },
+  "attachments": [
+    {
+      "filename": "lnvoice_NP88Z323656859695.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 28636
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 530,
+    "html_length": 1367,
+    "has_text": true,
+    "has_html": true
+  }
+}

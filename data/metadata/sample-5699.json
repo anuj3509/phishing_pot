@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "One last step remains",
+    "from": "\"Ledger\" <administrativo2@technecare.com>",
+    "to": "<phishing@pot>",
+    "date": "Tue, 13 May 2025 16:14:03 -0700",
+    "message_id": "<76afd2599749078f01644de30ceb53c4@technecare.com>",
+    "content_type": "multipart/alternative;\n\tboundary=\"f9e6b155acc6af44f0bf9d2d000848e0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"f9e6b155acc6af44f0bf9d2d000848e0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "https://saprotrader.com/neg8z",
+      "https://pbs.twimg.com/media/Gq3TIt7WUAEzT2f?format=png&amp;name=240x240"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1165,
+    "html_length": 3088,
+    "has_text": true,
+    "has_html": true
+  }
+}

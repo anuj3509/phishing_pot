@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "You can now claim your XRP tokens",
+    "from": "Ripple <xrp@bounce.yandy.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Jun 2023 13:04:19 +0000",
+    "message_id": "<20230617130419.f6e02ea20da925f0@bounce.yandy.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://i.imgur.com/nwvwffI.png",
+      "https://mail76-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://mail76-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "table.mj-full-width-mobile",
+      "http://email.bounce.yandy.com/u/eJwcyTGuhCAQBuDTaKf5GcdRCop3lGGAJ8kqG-IW3n6Trb8URMS78QgMLRG2WcRGBqzCtDNZ3CUKk441EGiBuM0tYOfnIhmUlZDU01owMGL7XJbnR6_0zNbOsYfeUq__bSrTe2Ac7T61vn52h4H-vgEAAP__1qIlTA"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3362,
+    "html_length": 14892,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Urgent Action Required: Authorize Release 2025-08-09 00:16:45",
+    "from": "DocSign by DocuSign <DocusignFor92866454348630362638020760321IMA-support.no-reply@aldi.es>",
+    "to": "phishing@pot",
+    "date": "Sat, 9 Aug 2025 01:44:25 +0200",
+    "message_id": "<2.0.0.3A8.1DC08BE5F66A306.0@com12.servicemail24.de>",
+    "content_type": "multipart/mixed; boundary=\"===============4156412359914189817==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============4156412359914189817==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "philipp.engel@beelegal.ch,",
+      "https://coelectric.cl/.docs/indox.html#phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 452,
+    "html_length": 60608,
+    "has_text": true,
+    "has_html": true
+  }
+}

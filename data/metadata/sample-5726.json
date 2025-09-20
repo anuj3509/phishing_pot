@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "phishing@pot Planen Sie Ihre Lieferung",
+    "from": "DHL <noreply@theskimm,com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 May 2025 15:47:57 +0000",
+    "message_id": "<648785150555005.5.ZSW9606517772@theskimm.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/25/08/ua4v.png",
+      "http://juhTDvTvBgyeUKYLk7p7wvOp9RPKLQjuhTDvTvBgyeUKY.ecofriendlygadgets.online/track/3fZoeA16592CBgG247gnbopiiaiw3764SDAAKHTZPSFRIPP91072OTUZ1201p218",
+      "fZoeALk7p7wvOp9RPKLQfZoeALk7p7wvOp9RPKLQfZoeA.ecofriendlygadgets.online=",
+      "http://ecofriendlygadgets.online/5fZoeA16592CBgG247gnbopiiaiw3764SDAAKHTZPSFRIPP91072OTUZ1201p218",
+      "http://fZoeALk7p7wvOp9RPKLQfZoeA.ecofriendlygadgets.online/4fZoeA16592CBgG247gnbopiiaiw3764SDAAKHTZPSFRIPP91072OTUZ1201p218",
+      "zupimages.net/up/25/20/ldjv.jpg",
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1809,
+    "html_length": 5270,
+    "has_text": true,
+    "has_html": true
+  }
+}

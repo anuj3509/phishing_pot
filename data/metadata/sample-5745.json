@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "30 secondes pour connaître votre éligibilité",
+    "from": "MaPrimeRénov Info <info@horusvision.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 23 May 2025 06:56:17 +0000",
+    "message_id": "<010f0196fbeda26c-76a168a1-9acb-43d8-bbf7-1ef530bccf61-000000@us-east-2.amazonses.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_7DA30CED.4CDF3253\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_7DA30CED.4CDF3253\""
+  },
+  "attachments": [
+    {
+      "filename": "ID#98173dF.pdf",
+      "content_type": "application/pdf",
+      "size": 402
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://engroty.s3-website-eu-west-1.amazonaws.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1416,
+    "html_length": 3878,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Sua CNH esta em processo de cassação! ID: 09473109",
+    "from": "Detran - Aviso Urgente <detranbr@766068%govbrcnh.gov.br>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 17 May 2025 08:27:10 +0000",
+    "message_id": "<0ed525694d611482d4f0ac483931025b@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_0ed525694d611482d4f0ac483931025b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_0ed525694d611482d4f0ac483931025b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://infracao438877341.consultagov.biz.ua",
+      "hotmail.com,",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4104,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Fw: Claim your 5% discount code now.",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Wed, 10 May 2023 02:45:56 +0000",
+    "message_id": "\r\n <SA0PR04MB737082E8F0778DC96C1D6C85B3779@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737082E8F0778DC96C1D6C85B3779SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737082E8F0778DC96C1D6C85B3779SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=%68t%74%70%3A%2F%2Fc%61%6e%61di%61%6e-%70h%61r%6d%61%63y%2ez%6f%6e%65%2F%3Fcp%3Ds%61le%73%78%2F%49%6fwSM%4f%78%373%4e%68&sa=D&sntz=1&usg=AOvVaw0cLKVUMSd2y0xszZ9H7mrF",
+      "ex.pharacmy@hotmail.com&gt;",
+      "ex.pharacmy@hotmail.com",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "https://www.google.com/url?q=%68t%74%70%3A%2F%2Fc%61%6e%61di%61%6e-%70h%61r%6d%61%63y%2ez%6f%6e%65%2F%3Fcp%3Ds%61le%73%78%2F%49%6fwSM%4f%78%373%4e%68&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw0cLKVUMSd2y0xszZ9H7mrF",
+      "expresspharmacy.com."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1037,
+    "html_length": 2765,
+    "has_text": true,
+    "has_html": true
+  }
+}

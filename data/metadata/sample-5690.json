@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Verifique Agora: Sua CNH esta em processo de cassação! ID: 72993067 - Regularizar: Multas Pendentes Em Sua CNH - Detran Informativo: Sua CNH possui Multas Pendentes Aguardando Pagamento - Processo Iniciado de Suspensão Processando - Carteira Nacional de Habilitação Em Processo de Cassação Iniciado",
+    "from": "Detran - Alerta de Penalidade <cnh@014140%cnhregularizar.gov.br>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 23 Jun 2025 18:56:07 +0000",
+    "message_id": "<690e71d47b83a8dc33c215fdc3b6fb32@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_690e71d47b83a8dc33c215fdc3b6fb32\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_690e71d47b83a8dc33c215fdc3b6fb32\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.prazo",
+      "https://grovbr-641293219090.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4233,
+    "has_text": true,
+    "has_html": true
+  }
+}

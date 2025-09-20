@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, desbloqueie sua conta BB.",
+    "from": "Banco Do Brasil <noreply@bancodobrasil.com.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 25 Jun 2023 09:57:18 +0000",
+    "message_id": "<6f568b83-7720-4514-f366-8e71c8747967@bancodobrasil.com.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Banco_do_Brasil_logo.svg/2560px-Banco_do_Brasil_logo.svg.png?itok=CuwyfwL7&amp;cc***nome***=***valor***",
+      "https://lll-a4qxna7jwq-rj.a.run.app/b/?tr=0f66d2b7c7ad44da9532a40f06536f94&amp;t1=bb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 582,
+    "html_length": 9533,
+    "has_text": true,
+    "has_html": true
+  }
+}

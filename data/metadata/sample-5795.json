@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Security Action Required",
+    "from": "Ledger <facturaele@doitcenter.com.pa>",
+    "to": "phishing@pot",
+    "date": "Thu, 24 Jul 2025 14:40:42 +0000 (UTC)",
+    "message_id": "<poGrzEh3T_KjSAO4GYGwrA@geopod-ismtpd-18>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "immediate action required"
+    ],
+    "urls": [
+      "https://u31217429.ct.sendgrid.net/ls/click?upn=u001.ggcGO9VeyukHAVnb6NZrJqrn5pZFQzYdzY9Ss48V4GkUUUhL648-2FvhX-2Biawu6TvCrC450szn1sL6HetOlm5FIdXSllShNKx-2FBra1r1lEznw4tDEikfI2idJdR6znzm-2Bs8qgHks5TjYZ7P7FQBfB8EPoh3Zn8fOg0cqyqGA7qoTj-2FZSNnB79If6yZeWm0rTieuSa8AsMlDRopCDDNVjPzT5x6yakz9NSaux1c-2Fx0B-2F2DORfno-2Bq7MPbHv3XbaAYkOvHC9sdBLbeYDNZzHr2uljCmmAHrmIqr0ts5qWBXF0CEoMGNcAUXXtHxg-2B42GAK8E0RqOnlxkzUVoDJS-2Fl1lEJgORBIFXVJdGbkYQVTCcpCTuk7aoqu351dq1-2BUfGRu3hV5WiUdG5ZBNMvHr82Oq-2BR9EAJudce7dUl-2BxSY5PhebqGbBcB-2BK5ThrCt2wUYeWemFYDY-2BKRhPZl5nJY3-2B-2BuxAyV-2BCiSiHTnoK0d2eTFKXKO4VxNVmJbECuiTmxmHc8wljKAOukM3NmylvUEP6VQpHQ-3D-3D0p5h_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdcvN2NcZ84h6jLcgqTv0CO5B9jZSB4as-2FoBK93vDoW00AE5HsPYXh-2FYcot3rjxbtelet8IsLghsH1q6XGDJdsTe1ltGKPOFD7M2E09e-2FY0YeqWoG7OQTPTaqPfOArpC9OqV1coxB54bE85ldG4rDNpP080PYNWfwpl6iWbT-2FpOwrrQ-3D-3D",
+      "https://fonts.gstatic.com",
+      "https://www.lcx.com/wp-content/uploads/20200507-Partnerships-Ledger.png",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&amp;display=swap",
+      "https://fonts.googleapis.com",
+      "https://u31217429.ct.sendgrid.net/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoXsNR6C8HT0mSvpzeCqbsZwhM9Zs0OsSKSyArMvZQn9MZE9sM1lzmfFWR-2BrZq9LGZq4Jggvy8YJzRASPREk-2BeCSAOPiQFeVerwG95D592Xkrwd3Qzx4REsYEUFk7LwMh-2FttQnurqFUCpewAgdTrou73W-2BYv1ssq7O9k7Iqe2coN1yQRIMMLVMwGGr2watF59YA-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2103,
+    "html_length": 6478,
+    "has_text": true,
+    "has_html": true
+  }
+}

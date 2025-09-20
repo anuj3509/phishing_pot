@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Ola anne.compras terça-feira, 30 de maio de 2023 07:11:22 ⛔",
+    "from": "⛔ Suporte <rochamanoela@matacontabil.com>",
+    "to": "<anne.compras@brasmedicamentos.com.br>",
+    "date": "Tue, 30 May 2023 07:11:25 -0300",
+    "message_id": "<20233005071124EC141C490D$DE91529181@matacontabil.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"25TSg9F=_TJEDk2f4fdIlYnq3CqZdyW1cP\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"25TSg9F=_TJEDk2f4fdIlYnq3CqZdyW1cP\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "anne.compras@brasmedicamentos.com.br",
+      "https://tinyurl.com/2ptmw7rh/?_user=anne.compras@brasmedicamentos.com.br",
+      "anne.compras"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 531,
+    "html_length": 2502,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Sua Fatura Digital Chegou!",
+    "from": "\"NET\" <regina_imperial@ig.com.br>",
+    "to": "phishing@pot",
+    "date": "19 Sep 2022 22:51:10 +0000",
+    "message_id": "<20220919225110.44E51AC1A15@skyler0011.ig.correio.biz>",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_40006_c30fdfa6-8ab7-4ccf-b02e-24ee3b314767"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n boundary=--boundary_40006_c30fdfa6-8ab7-4ccf-b02e-24ee3b314767"
+  },
+  "attachments": [
+    {
+      "filename": "fatura.pdf",
+      "content_type": "image/jpeg",
+      "size": 112151
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ci5.googleusercontent.com/proxy/F7Udt2EhiF-6ICElClHTAChWdxYdB6bIcRMDkuj9pyt44lIroPVTQM5roWjMFd7UFKx0h38BzxLiRopskGcAwlspzoOCwyvY11RO1rsuVVBz4Pc=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_mid.png)",
+      "https://ci4.googleusercontent.com/proxy/GEQmGtgYD63LzAtSO1JTM9Ce8AcF6Lt7tB9pVk1M7bnGrrPS9Hd0xNvdA9GTenGIplV_Z5NMqadNPeI_WN6HeORXC0U7Xw4Dsx4oxdA6PHinrBM=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_top.png)",
+      "https://www.google.com/url?q=https://notifications.google.com/g/p/AD-FnEy-RAv1KTA2pOaZzw5--E6WzVZmkiEuqPgcV5Mt8OMXx09uelnMvq6IKud5Q2yrdOc5_t3hArE8UPrBcmvIwlKNYg&amp;source=gmail&amp;ust=1653867632728000&amp;usg=AOvVaw1OC2wO6z5j-ZtC2tBsT_5R",
+      "https://ik.imagekit.io/qqjh20y7pt6/logo-claro-net-unificados-removebg-preview_21GJTW-yk.png",
+      "https://ci4.googleusercontent.com/proxy/ROJvg97i4gKdKkg_XgP1GYfkMzThkDwkBwyQMEtbkSFioXGn02x-k0W55yCUeN4fnVJoMepLFcShFr3v6b7jCV6WIvW_6bD6cRNQB_yQlGyRYNh8OQw=s0-d-e1-ft#http://www.gstatic.com/android/market_images/email/email_bottom.png)",
+      "https://ik.imagekit.io/qqjh20y7pt6/182b08f5c1566f5083ef3170e580d79a_6d68ICvGN.png",
+      "https://ik.imagekit.io/qqjh20y7pt6/unnamed__2__LwVN5GRam.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 649,
+    "html_length": 6929,
+    "has_text": true,
+    "has_html": true
+  }
+}

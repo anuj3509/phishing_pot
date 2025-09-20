@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Announcement : Withdraw Process is Authorized Now !",
+    "from": "FTXinsurance <noreplye@promotix.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 7 Sep 2023 15:17:24 +0000",
+    "message_id": "<0100018a70382d83-8d5c6231-bc2a-4cee-865b-f388923cb7df-000000@email.amazonses.com>",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_699C765E.7B03808F\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\tboundary=\"----=_NextPart_000_0012_699C765E.7B03808F\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.kif.re.kr/kif2///publication/viewer.aspx?controlno=229274&amp;returnurl=http://taurus-online.ch/wp/pf/",
+      "thumbnailcpp.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2421,
+    "html_length": 4029,
+    "has_text": true,
+    "has_html": true
+  }
+}

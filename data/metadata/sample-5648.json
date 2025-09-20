@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Norton Order Confirmation For Order #NP00X10383838",
+    "from": "Itemized Bill <dittolongditaccount.security@rahavardap.com>",
+    "to": "no-reply.emails10383802538@teams.norton-us.com",
+    "date": "Thu, 12 Jun 2025 22:39:04 +0700",
+    "message_id": "<CALbJ7mbFu91W1cUssYA_YSB9kfTi8pX8uNY9L3DOn9uS6KW59Q@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000971dc7063761bbae\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000971dc7063761bbae\""
+  },
+  "attachments": [
+    {
+      "filename": "lnvoice-Number002346234.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 41277
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 645,
+    "html_length": 1072,
+    "has_text": true,
+    "has_html": true
+  }
+}

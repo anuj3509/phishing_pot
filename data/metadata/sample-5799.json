@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Urgent Notice on a Server Security Incident",
+    "from": "Ledger <noreply@bromcomcloud.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 24 Jul 2025 15:52:22 +0000 (UTC)",
+    "message_id": "<xJYnswP2QsSF9afhoq8ceg@geopod-ismtpd-5>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://www.lcx.com/wp-content/uploads/20200507-Partnerships-Ledger.png",
+      "http://url7439.bromcomcloud.com/wf/open?upn=u001.s4A7ZqC-2Ftxqw36qkcPzhAm-2BF5MGadQYgYpgr-2F0SfEoUBTN9eeWOxf1GCwvm8QAbIIRlhzmxRUUAW3-2FtT7c8HBPdv-2BvPfMU-2BW-2BMfWnyq6ZgWOZuzesV0ZGyx4DwWzV0xwzaEU6izlzJVaR8H03Mcv4d7dNfefbkj-2FMbbyToq59Q0ayTV9JM9gTuOJjGqI6IaumMuZUE5VuEty-2FTBxF-2BjIU-2B7Kq9Qvibja-2B-2BiFW5sn9H0-3D",
+      "http://url7439.bromcomcloud.com/ls/click?upn=u001.YQHL39G9edXYWy5uaxcTjWbaVHb1laIuYpXM3mEeiioUP52S2XBRINuHGDXZGCxsdbM3vr6xkbcUEWxn41C7nUf8yLxQo3UFmdFd2NcEnWEdZGHFP5UsRYehCw4TMMoh3Dma8vOzCwdOuwJ1mpoSsny88eYZLoswiB0Y90sWb5wFI7kEEYyV8Q2RgvhieE-2FoEAx8NTtb63ORxsyokTXn0U1y8TtK3Q8XkapkcpZe26-2BUi5K3R5J0rtWt83BwEN5y-2FPQcqsxovXRHdde-2F7u5G-2FOsQRdEE7YrQJB9VBU-2BJyFwVrqT-2BWWIYTjt377PqUQdiD9zRhtWGc-2FuciWN7Dmzmr40prOVEpecsrv8NsHIrKrQ0onRQP1XhaO61RneFNd-2BrdmWYPk6EhZZx2sZnGNoSxINsB8a35EajSHDzGjk5O6IlNsUGaQq3u63H0j-2FGBopw6y5Zzekt44QjxMe3-2BAhCmnfhaU46ceYW-2BkKyZbq-2F7o1hVMi2ugmHPn79GiAeXf4r9B0lEXhZYDdtck9AIppk2Q-3D-3DgbDW_CG4-2BaYO89eZfZ-2FJBEVdUuP4YeHNS4Ayoy7f42ETbdctKB44KsHyLEPMb1lvhO-2BwkbO8v-2BLGayNqG-2BidMbIOc7knRpw8hGPP9nVmWGh6tBZv9NamhceyaKwnHoDE4LpCSzBxkQ-2FI7S5Lc5d9ZXrjvu9wFRiROGnI8-2B-2B7SUq1-2BNtWpaUtQO6lIGe3vbLv-2BdJBGF1HChea-2B-2F3NZPPF6wHzM-2Fg-3D-3D",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&amp;display=swap",
+      "https://fonts.googleapis.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1911,
+    "html_length": 6238,
+    "has_text": true,
+    "has_html": true
+  }
+}

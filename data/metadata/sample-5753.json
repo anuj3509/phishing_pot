@@ -1,0 +1,59 @@
+{
+  "headers": {
+    "subject": "Your currently send was delayed Thu, May 22, 2025",
+    "from": "C󠄹o󠄹i󠄹nb󠄹a󠄹s󠄹e <mail.apps-wk@tamperfinder.com>",
+    "to": "<customertGUrUCnZcD>@wallets.coinbase.com",
+    "date": "Thu, 22 May 2025 12:47:06 +0000",
+    "message_id": "<C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixwyJqwWlvaXNU8ikl0zPYBhSgvdE5F4S3U7K8GmI\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixwyJqwWlvaXNU8ikl0zPYBhSgvdE5F4S3U7K8GmI\""
+  },
+  "attachments": [
+    {
+      "filename": "emails-tamperfinder.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "carddav-tamperfinder.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-tamperfinder.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ewallet.tamperfinder.com/en-us/member?abd1402c1ac09f07322b213d18b8d816&customer_xa=3642387925",
+      "http://mail.tamperfinder.com:2079/calendars/tamperfinder/calendar",
+      "http://mail.tamperfinder.com:2079",
+      "http://mail.tamperfinder.com:2079/addressbooks/tamperfinder/addressbook",
+      "https://ewallet.tamperfinder.com/en-us/member?d29d1b2f2186368b879a6058c943e482&amp;customer_ww=2099292081",
+      "https://mail.tamperfinder.com:2080",
+      "Mail.app®",
+      "tamperfinder.com",
+      "https://mail.tamperfinder.com:2080/addressbooks/tamperfinder/addressbook",
+      "Mail.app&reg;",
+      "ioh.ac.us”",
+      "ioh.ac.us&rdquo;",
+      "mail.tamperfinder.com",
+      "https://mail.tamperfinder.com:2080/calendars/tamperfinder/calendar"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 28115,
+    "html_length": 28098,
+    "has_text": true,
+    "has_html": true
+  }
+}

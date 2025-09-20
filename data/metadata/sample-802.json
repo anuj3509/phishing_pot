@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "Someone tried to Iog in To Your Account, User lD : phishing@pot",
+    "from": "\"Facebook\" <>",
+    "to": "phishing@pot",
+    "date": "Mon, 19 Jun 2023 06:07:57 +0000",
+    "message_id": "\r\n <b74cd5c9-8479-45a6-b454-24e2f5d036a7@VI1EUR06FT050.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com&gt;?=bject=Unsubscribe+me!",
+      "https://www.facebook.com/n/?JohnCrestaniInternetJetset%2F&amp;aref=1576263858332789&amp;medium=email&amp;mid=5999a3dc321a3G5af410968a6bG5999a87592475G3b4&amp;n_m=phishing@pot@hotmail.com",
+      "hotmail.com?subject=Yes+me",
+      "https://www.facebook.com/email_open_log_pic.php?mid=5999a3dc321a3G5af410968a6bG5999a87592475G3b4",
+      "hotmail.com?subject=Send+Statement",
+      "https://www.facebook.com/n/?JohnCrestaniInternetJetset%2F&amp;aref=1576263858332789&amp;medium=email&amp;mid=5999a3dc321a3G5af410968a6bG5999a87592475G3b4&amp;n_m=phishing@pot",
+      "https://static.xx.fbcdn.net/rsrc.php/v3/yP/r/nblMrq1jYuK.png",
+      "https://www.facebook.com/n/?anamulhoquejamh&amp;aref=1576263858332789&amp;medium=email&amp;mid=5999a3dc321a3G5af410968a6bG5999a87592475G3b4&amp;n_m=phishing@pot",
+      "hotmail.com",
+      "hotmail.com&gt;",
+      "http://thebandalisty.com/track/o36845Apifd18708448SHLH1821750Sga33636mLOQ176",
+      "https://www.facebook.com/email_forward_notice/?mid=5999a3dc321a3G5af410968a6bG5999a87592475G3b4",
+      "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/36935697_1669044346555351_6956134474325164032_n.jpg?_nc_cat=107&amp;_nc_ohc=x-8XVuMChS0AQk89xEwYTsvJFPn51YGT1oShoPCg-dHpnnPxJxT9H9fqA&amp;nc_ipfwd=1&amp;_nc_ad=z-m&amp;_nc_cid=0&amp;nc_zor=9&amp;_nc_ht=scontent.xx&amp;oh=2ab1a7ec32a4fc821d417e21859dd455&amp;oe=5E6B5009"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1716,
+    "html_length": 32262,
+    "has_text": true,
+    "has_html": true
+  }
+}

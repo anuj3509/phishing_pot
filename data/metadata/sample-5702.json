@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Informamos Sua encomenda sera devolvida ao remetente sem reembolso ! solicitamos que verifique o status: 7650733361",
+    "from": "Status Entrega - Correios <no-1595-reply@%Encomenda.online>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 14 May 2025 14:48:09 +0000",
+    "message_id": "<20250514144809.C3F173F270@5riPInMj-X-f-fmmc--2323--amdada-m7l8sxwggrs6pc8p>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wwww7650733361sedexsedexpac.vembuscacepv.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com",
+      "hotmail.com",
+      "https://wwt7650733361pacpac.vembuscacepv.biz.ua/1/h.php?cid=rodrigo-f-p@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2230,
+    "html_length": 4190,
+    "has_text": true,
+    "has_html": true
+  }
+}

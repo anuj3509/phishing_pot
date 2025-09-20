@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Fw: mr. Reputable! Can U do me a favor.",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sat, 6 May 2023 21:06:30 +0000",
+    "message_id": "\r\n <SA0PR04MB737073ECD0EA6CAC2E710BD2B3739@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737073ECD0EA6CAC2E710BD2B3739SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB737073ECD0EA6CAC2E710BD2B3739SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "outlook.com",
+      "leto.eonet.ne.jp&gt;",
+      "leto.eonet.ne.jp",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 396,
+    "html_length": 921,
+    "has_text": true,
+    "has_html": true
+  }
+}

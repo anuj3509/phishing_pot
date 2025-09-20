@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Fw: REPLY IMMEDIATELY",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Wed, 3 May 2023 23:18:41 +0000",
+    "message_id": "\r\n <SA0PR04MB7370EFA305BF1E3D0211179AB36C9@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EFA305BF1E3D0211179AB36C9SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370EFA305BF1E3D0211179AB36C9SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "msn.com&gt;",
+      "msn.com",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 425,
+    "html_length": 948,
+    "has_text": true,
+    "has_html": true
+  }
+}

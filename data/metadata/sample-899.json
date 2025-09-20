@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Don't Wait! Secure Your Spot in zkSync Biggest Airdrop Yet!",
+    "from": "\"zkSync Airdrop News\" <pierre@roffiaen.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 13 Jul 2023 23:04:47 +0300",
+    "message_id": "<C3F55C32-EB0A-5972-2297-1C5D818A5D5F@roffiaen.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"Apple-Mail-DE88C8AF-73C4-0772-4885-FF8DDED6AFB7\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"Apple-Mail-DE88C8AF-73C4-0772-4885-FF8DDED6AFB7\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.ru",
+      "https://gbs-butzbach.de/sitemap.php?mail=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 55,
+    "html_length": 52130,
+    "has_text": true,
+    "has_html": true
+  }
+}

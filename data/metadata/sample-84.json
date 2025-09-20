@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Bekijk deze mail alleen als je volwassen bent ",
+    "from": "\"Julia\" <mailto:newsmail@appzm.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Mon, 3 Oct 2022 19:20:04 +0000",
+    "message_id": "<0.0.0.0.1D8D75D244FF622.27C0@dankt.de>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "http://secure-smarthost.com/?a=80&amp;c=143&amp;s1=19septembre&amp;email=phishing@pot",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2373,
+    "html_length": 9274,
+    "has_text": true,
+    "has_html": true
+  }
+}

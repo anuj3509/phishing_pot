@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Ik hoop dat je die foto's leuk vindt: (8 foto's), (10 video's).. ",
+    "from": "\"Naakten 🔞💋\" <newsmail@appBy.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Sat, 8 Oct 2022 05:47:15 +0000",
+    "message_id": "<0.0.0.0.1D8DAD96B5A35BC.279F@PinteRest.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://safesecurelog.com/?a=75&amp;c=60&amp;s1=7OCTOBERDATA1safeword&amp;email=phishing@pot",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2320,
+    "html_length": 9263,
+    "has_text": true,
+    "has_html": true
+  }
+}

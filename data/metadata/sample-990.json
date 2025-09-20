@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Grow Your XRP Holdings",
+    "from": "Freddie from Ripple <f.fuentes@rennyconceptos.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 24 Jul 2023 17:08:08 +0000",
+    "message_id": "<yjkeBmiUcb2tSh9AjCMQSbW9yvpWvNIoKvG1TXV2E@WIN-RCZAJ1VQPF>",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_yjkeBmiUcb2tSh9AjCMQSbW9yvpWvNIoKvG1TXV2E\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"b1_yjkeBmiUcb2tSh9AjCMQSbW9yvpWvNIoKvG1TXV2E\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=https%3A%2F%2Faccelerator-ripple.com&sa=D&sntz=1&usg=AOvVaw3gtejzoAtL8mPoBZ1ff5gE",
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900",
+      "https://www.google.com/url?q=https%3A%2F%2Faccelerator-ripple.com&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw3gtejzoAtL8mPoBZ1ff5gE",
+      "https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/BeeProAgency/1008612_993473/editor_images/08a738cf-7834-4b38-895a-f9acf1f31cb6.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1911,
+    "html_length": 9808,
+    "has_text": true,
+    "has_html": true
+  }
+}

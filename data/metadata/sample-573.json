@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "[IMPORTANT] Verify your MetaMask wallet",
+    "from": "\"MetaMask\" <noreply@mailer-metamask.io>",
+    "to": "phishing@pot",
+    "date": "Tue, 9 May 2023 21:53:22 -0700",
+    "message_id": "<4412399481736147112336@WIN-FFOGSGEN76D>",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_1AFE_6EAF4DD1.64BF7A29\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/related;\r\n\ttype=\"text/html\";\r\n\tboundary=\"----=_NextPart_001_1AFE_6EAF4DD1.64BF7A29\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://metamask-community.online/",
+      "https://joulink.com",
+      "https://meta-community.icu/verification/715865830698"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 641,
+    "html_length": 5385,
+    "has_text": true,
+    "has_html": true
+  }
+}

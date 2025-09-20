@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Regularização Correios: Comunicamos que seu pedido sera retornado ao remetente sem possibilidade de reembolso. ! status: 94628584. | Detalhes da Entrega: Comunicamos que sua entrega esta com pendências a serem resolvidas! status: 94628584. | Informação Encomenda: Seu pedido sera devolvido em breve! status: 94628584. | Pedidos Correios: Seu pacote esta aguardando sua atenção! status: 94628584. | Comunicado Importante: Seu pedido sera retornado ao remetente sem possibilidade de reembolso. ! status: 94628584. | Comunica Correios: Pacote aguardando pagamento da taxa de importação! status: 94628584.",
+    "from": "Informativo - Correios Encomendas <alerta@sistemacorreioid463408>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 4 Aug 2025 22:15:06 +0000",
+    "message_id": "<44873b7d50d28b4948b8195f11344627@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_44873b7d50d28b4948b8195f11344627\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_44873b7d50d28b4948b8195f11344627\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://entreg4-361776312321.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4165,
+    "has_text": true,
+    "has_html": true
+  }
+}

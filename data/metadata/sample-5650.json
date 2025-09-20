@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "Shein Rewards - Participation Required",
+    "from": "Shein Opinion Requested <noreply@sheinbox,co,us>",
+    "to": "phishing@pot",
+    "date": "Fri, 13 Jun 2025 20:11:20 +0000",
+    "message_id": "<344782398923899.0.AZM0208051002@sheinbox.co.us>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "expires today"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/24/02/kj8u.png",
+      "http://RZPZy4iiNWzC6nwBXZaoRZPZy4iiNWzC6nwBXZaoRZPZy.drekam.gives/6RZPZy228049XYUY1106ihqiitfqnw26691COWBOOWUOOYLZBT316412/6147V18",
+      "zupimages.net/up/24/34/6mnt.png",
+      "http://RZPZy4iiNWzC6nwBXZaoRZPZy.drekam.gives/4RZPZy228049XYUY1106ihqiitfqnw26691COWBOOWUOOYLZBT316412/6147V18",
+      "bgasdfasdfa.jpg",
+      "http://cMCTiVjrFrRydgf4iiNWzC6nwBXZaocMCTiVjrFrRydgf.drekam.gives/track/3RZPZy228049XYUY1106ihqiitfqnw26691COWBOOWUOOYLZBT316412/6147V18",
+      "http://drekam.gives/5RZPZy228049XYUY1106ihqiitfqnw26691COWBOOWUOOYLZBT316412/6147V18"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 488,
+    "html_length": 7318,
+    "has_text": true,
+    "has_html": true
+  }
+}

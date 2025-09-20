@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Gostariamos de informar que seus pontos acumuladosatravés do programa Bradesco Livelo",
+    "from": "\"Bradesco-Livelo\" <guaraciterlecki@creapr.org.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 5 Jul 2023 12:09:54 -0300",
+    "message_id": "<20230705173417.A7E2F6E0B6@creapr-antispam1.crea-pr.org.br>",
+    "content_type": "multipart/mixed; boundary=\"PVX=_WJkDcMTmUMNZVZ95KMfH6wYH1xij80\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"PVX=_WJkDcMTmUMNZVZ95KMfH6wYH1xij80\""
+  },
+  "attachments": [
+    {
+      "filename": "Resgate.pdf",
+      "content_type": "application/octet-stream",
+      "size": 494073
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://a8u5.short.gy/kPmD6e",
+      "https://passageirodeprimeira.com/wp-content/uploads/2022/04/passageirodeprimeira.com-ganhe-ate-90-000-pontos-livelo-ao-atingir-a-meta-de-gastos-nos-cartoes-bradesco-banner.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 410,
+    "html_length": 2914,
+    "has_text": true,
+    "has_html": true
+  }
+}

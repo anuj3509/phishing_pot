@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Contact Mr. Jimmy Howard Via Email OR Text",
+    "from": "\"Mr. Chris W. Long\"<mx102.rack66.net>",
+    "to": "Undisclosed recipients:;",
+    "date": "Tue, 11 Jul 2023 16:32:08 -0700",
+    "message_id": "\r\n <1292f9d3-87fa-4e34-a689-71b711683d5a@DB3EUR04FT045.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "immediately",
+      "expiring",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.expresscourierservice@outlook.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2510,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

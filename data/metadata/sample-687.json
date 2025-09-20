@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Rodrigo, seu plano de saúde foi reajustado ?",
+    "from": "\"Daiane Santos - Corretora\" <daiane@e.seguro-autoo.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 20 May 2023 07:15:32 -0300",
+    "message_id": "\r\n <79f98a45-df69-4dba-a7f6-4efdad5a9cb1@VI1EUR06FT042.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "Multipart/alternative; boundary=\"018EBFF0_664FB3BB_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"018EBFF0_664FB3BB_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://zd-d.seguro-autoo.com/oimg.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339",
+      "https://zd-d.seguro-autoo.com/rem.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339",
+      "https://zd-d.seguro-autoo.com/lnk.php?id=312C37322C726F647269676F2D662D7040686F746D61696C2E636F6D2C33383339"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 485,
+    "html_length": 2488,
+    "has_text": true,
+    "has_html": true
+  }
+}

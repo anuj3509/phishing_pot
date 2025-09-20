@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, você alcançou o cartão Black, mas há algo que você nãopode perder! Bem-vindo ao Bradesco Prime",
+    "from": "Bradesco <naoresponder@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 22 May 2023 10:57:16 +0000",
+    "message_id": "<0e840846-15d7-0c6b-070f-5294f54e1e26@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://us-central1-western-throne-378715.cloudfunctions.net/lesma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3878,
+    "html_length": 7502,
+    "has_text": true,
+    "has_html": true
+  }
+}

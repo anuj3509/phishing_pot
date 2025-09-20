@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Fw: hi;) Is all standard?",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Fri, 2 Jun 2023 18:45:07 +0000",
+    "message_id": "\r\n <SA0PR04MB7370F90066ADCD3D1927A6E4B34EA@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370F90066ADCD3D1927A6E4B34EASA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370F90066ADCD3D1927A6E4B34EASA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "mma.com.br",
+      "gmail.com",
+      "mma.com.br&gt;",
+      "hotmail.com&gt;",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 445,
+    "html_length": 960,
+    "has_text": true,
+    "has_html": true
+  }
+}

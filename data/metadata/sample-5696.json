@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Reply with the DONATION CODE",
+    "from": "\"Mrs. Mavis L. Wanczyk\" <vedono.bukkszenterzsebet@mfkh.hu>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 22 Jul 2025 01:42:18 +0100",
+    "message_id": "<331cc4cfb0f9ba60e8ab766c91afc369@mfkh.hu>",
+    "content_type": "text/plain; charset=\"US-ASCII\"; format=flowed"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"US-ASCII\"; format=flowed"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.youtube.com/watch?v=7kWnqvJM1mM",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 673,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

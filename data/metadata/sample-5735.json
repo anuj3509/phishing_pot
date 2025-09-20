@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "URGENTE: Seu CPF encontra-se sob procedimento de cancelamento por sonegação fiscal. Acesso bancário será restrito. Regularize agora. Protocolo: 45346794.",
+    "from": "Aviso Oficial Receita Federal <regularizacao711511@governo>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 19 May 2025 02:16:27 +0000",
+    "message_id": "<a735d37e97e5b6412b20d2eb86dd031e@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a735d37e97e5b6412b20d2eb86dd031e\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a735d37e97e5b6412b20d2eb86dd031e\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://rcta3-554375127192.southamerica-east1.run.app/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 10160,
+    "has_text": true,
+    "has_html": true
+  }
+}

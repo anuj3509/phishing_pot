@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "[ACTION] Secure your Metamask wallet with Ledger Protect",
+    "from": "Ledger <contact@teamtweaks.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 3 Jun 2023 22:01:40 +0000",
+    "message_id": "<010f01888347cc98-c9d9f9ea-594c-4e42-9239-83d94679232b-000000@us-east-2.amazonses.com>",
+    "content_type": "multipart/mixed; boundary=\"===============3483631669009936511==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============3483631669009936511==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.ikea.cn/h5page?url=https://protect-ledger.com/redirect_id_02147",
+      "https://ci4.googleusercontent.com/proxy/zcUC4U4rZqc36QFcj_kNzSlJDIK0ZJj7k1uL0dOtt1eM__VPTpsj-S8FqP6leBKr7cNhDO0S4rghhK3fozm0r8v0b39EfIp3O56fth34NGD-3LB03smc9tVvQFQYZT-V2clE8rmQxYLDQUc1NpZ697YHosm2ugGsqRrSRdcAPJoTQCxb2fKrv4E=s0-d-e1-ft#https://img.news.ledger.com/EloquaImages/clients/LEDGER/%7Bed775cbf-84c2-4be5-96a9-abf107e15148%7D_Vector_%2857%29.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1000,
+    "html_length": 17555,
+    "has_text": true,
+    "has_html": true
+  }
+}

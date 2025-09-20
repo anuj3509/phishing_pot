@@ -1,0 +1,62 @@
+{
+  "headers": {
+    "subject": "Urgent Update required on your Mashreq Account",
+    "from": "Mashreq <postmaster@mg.lavorel.piman-digital.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 26 May 2023 14:06:22 +0000",
+    "message_id": "<20230526140622.63ba3c65be52a76e@mg.piman-group.fr>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expiring",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://email.mg.piman-group.fr/c/eJwUyjtuxCAQANDTQGcEM4BxQZHGXbpcYJaPQVoCwUS-fpT-Rb_n6DDw5JV1RimlnebFxwBwBNJ0EAZCDM5k2FHliIfKALx6kIDSgFVaWgBh8UUYrHklA7TbxLRslxi10fd2zf47RJ787cta42b4weBkcK6nrpWmCL0xOD_pLjP9fD0prZtPP3uc9epb3gbTsvTVqL7_7V8AAAD__0BLN1w",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_contact_phone.png",
+      "http://email.mg.piman-group.fr/c/eJwUy0tyhCAQANDTwE4Kmo_MgkU23qOFRqmRTxhTVm6fygFeCmtOXkdOQTlvlVLGG34G5eCFmaJJRNau3mpjsrdJa7fGV0y8BJCgpQWnjHQAwukddXR2Jwu4OmJG1kOMUrEtx-w_Q-TJr3De9_gw_cVgY7A9zyOu0t6UShOxVwZb7HVg-2WwVfyck753bG8-w-xplqMveRnMyLPfFcv1b_4CAAD__x40O-8",
+      "http://email.mg.piman-group.fr/c/eJwUyz1yhSAQAODTQCfDLr-voEhjl0OssigTfRjUOLl9Jgf4cgolRzNLTuCjAwAbrVwTFx1oDuhiycExZusxwAszvEqJQLIm1Gi0Qw9We0TlzURm9m5ihxQ8C6v3RR11p_ew9HYfqnS5pfW6jlOYD4GjwPF5HvXb7uueWM1tFzjeJ3eB4yeda-fvid5fW_1h2VNvudelDWU4hNVru3aq2z_6CwAA__8fVzv9",
+      "https://contentdelivery.mashreqbank.com/common/icons/twitter.png",
+      ".NEO.link-secondary",
+      "http://email.mg.piman-group.fr/c/eJwUyrFyhCAQANCvgU4GdpfVFBRp7PIRoIsydxyEM-PvZ65-bw9z3hfctATHi3fO0UL6DDNh8mQJ0O5-EeH8AU6QMX2hgC4BLKD1wI4sAxjGFHFjn8RDnFkU2XqYXmp8Tcdof93koZ_hvK7-VvitYFWw3vdtctwktfYwW6sK1p_4Pof8pvh6KFj1CKPtoxxtylNXZM921Vien_wfAAD__wecOB0",
+      "https://contentdelivery.mashreqbank.com/common/small-logo/CONV.png",
+      "www.mashreq.com/login",
+      ".ISLAMIC.link-secondary",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_web.png",
+      "hotmail.com",
+      "GOLD.link-secondary",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_kyc_importance.png",
+      "http://email.mg.piman-group.fr/c/eJws0MGOmzAYBOCnMTeQ_dv-wQcO0SI2rQKrtmwQ3IwNgQYHxJJS8vQVUm9zGM0njY3DzkbceG3MMJKMMREJr49DUECxM0YYK1EIzqNI2IgCgjUt1d4QAwVOJSATFAEC5I3mBmXTStAhtkRQdwvmwemHf1um5xx0izfG_brOX4SfCKQE0m3bgmZ43AIzOQKpuRNINeEpAUYACeBMeGIFdlzbDo1oDvK7G1d7zlRWVCIvTuyj-LZlb_Vc8-tcJ3TPE7PlidnzX5TVLtsvRT3UyX3N3CfLd8ryMtvy8uo-irrPiszpUr50-UPlx87pQNcH4QkngP1X_z91Zhws4QmIkIoQpC87Az42VvnQytCX0lDZdgo1O-pPwhPN9PknNecML7saK1B7VY7Pyileg7rX79eXgevr4v7O1n3-qUA97Xv6275FBPCxNoQnzFviZbLLcJv8zp-JoP20Oj2Mx1__AgAA___2J4Mz",
+      "http://email.mg.piman-group.fr/o/eJwEwMuNxCAMANBqwi3IGNshB4rhYxKkZUFopv95NV6tBl-MRieBnXMUyLzxakFQiLkUvT3XQHrn7EA0CAuw6REBPTCKIxBEKz4nX4SzMqZL9CAYj119pP_z2fO7bNtmxz3r7s8827kOgnd-Rup_tszxCwAA___d4id-",
+      "https://contentdelivery.mashreqbank.com/common/icons/linkedin.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/instagram.png",
+      "SIMPLE.link-secondary",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_mobile.png",
+      ".CONV.link-secondary",
+      "https://contentdelivery.mashreqbank.com/common/full-logo/CONV.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/facebook.png",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Neo_hero_blocked.jpg",
+      "http://email.mg.piman-group.fr/c/eJwUyjtuxCAQANDTQGcEw4BpKNL4HmMwH2lZCCby9SN3r3jR7yk6HfjllXVGKYUOefFG7S5qJJf0yxBTlBgAwwknGqd49SBBSwNWobQAwuqTdLDmvAzQbi-GsmUxaqPvlmf_GyJN_vFlrXEz_cPgYHA8zyPq916UJzURemNwNLrLvH4ZHHz62eOsuW9pGwxl6atR_bzxPwAA__-gXzeL",
+      "https://contentdelivery.mashreqbank.com/common/icons/youtube.png",
+      "https://contentdelivery.mashreqbank.com/common/icons/ico-customer-support.png",
+      "PRIVATE.link-secondary",
+      "BUSINESS.link-secondary"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2179,
+    "html_length": 32484,
+    "has_text": true,
+    "has_html": true
+  }
+}

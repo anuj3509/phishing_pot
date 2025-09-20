@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo  acesso Nº Prontocolo: 957330716",
+    "from": "\"Mercado Pago\" <flavia@cng.com.br>",
+    "to": "SVKVIDRACARIA@HOTMAIL.COM",
+    "date": "27 Jun 2023 20:06:43 -0300",
+    "message_id": "\r\n <98f4ad1e-1721-4bda-8667-c8aedabff006@VI1EUR04FT064.eop-eur04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mercadopagoatendimento.paginaoficial.ws/?atendimento=1"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 385,
+    "html_length": 6483,
+    "has_text": true,
+    "has_html": true
+  }
+}

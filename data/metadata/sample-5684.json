@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Nouveaux droits actifs",
+    "from": "Aide Formation <mon.compte.formation@ranocchi.it>",
+    "to": "phishing@pot",
+    "date": "Sun, 15 Jun 2025 18:14:42 +0000",
+    "message_id": "<0102019774cd0568-b7717465-7e23-4837-9524-2ea2c581b67e-000000@eu-west-1.amazonses.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_44BAE304.119918C2\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_44BAE304.119918C2\""
+  },
+  "attachments": [
+    {
+      "filename": "FR#85FS.pdf",
+      "content_type": "application/pdf",
+      "size": 402
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://wsspedigreesebvbvn.info/cpf-HSS/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 483,
+    "html_length": 3721,
+    "has_text": true,
+    "has_html": true
+  }
+}

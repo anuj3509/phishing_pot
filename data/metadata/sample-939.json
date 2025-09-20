@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "You invited to top adult dating site.",
+    "from": "\"Support\" <achille.dipietro@comune.ortadiatella.ce.it>",
+    "to": "ruben@ruben.org",
+    "date": "Thu, 13 Jul 2023 01:32:47 +0300",
+    "message_id": "<5FB0BB59.4244624@comune.ortadiatella.ce.it>",
+    "content_type": "multipart/alternative;\r\n boundary=\"------------060989257613355162049867\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"------------060989257613355162049867\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://bwpersonal.com/wp-admin/js/js.php?kglibuexjamjegnbuz",
+      "https://bwpersonal.com/wp-admin/js/js.php?dicyvkjbkaruyirc",
+      "http://twitter.com",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://bwpersonal.com/wp-admin/js/js.php?nhtjtmbrjdhtawjuodp",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://gmail.com",
+      "https://[%%ORandStr,1-100,RndChars,L,1%%]"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2698,
+    "html_length": 19305,
+    "has_text": true,
+    "has_html": true
+  }
+}

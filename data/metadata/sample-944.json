@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Fw: 👍 \"Attention: New message just arrived!\"",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Fri, 2 Jun 2023 18:43:53 +0000",
+    "message_id": "\r\n <SA0PR04MB73706DC5EB3333AD98E3F07BB34EA@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73706DC5EB3333AD98E3F07BB34EASA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73706DC5EB3333AD98E3F07BB34EASA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=%68%74%74%70%3A%2F%2Fbes%74-ph%61rma-%65x%70%72%65ss.%7ao%6ee%2F%3F%63%70%3Ds%61%6ces%78%2F%3FI%62W3kG3%77%75%51%71&sa=D&sntz=1&usg=AOvVaw1TFp5KR5l56rIutak-rsWU",
+      "outlook.com",
+      "outlook.com&gt;",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "https://www.google.com/url?q=%68%74%74%70%3A%2F%2Fbes%74-ph%61rma-%65x%70%72%65ss.%7ao%6ee%2F%3F%63%70%3Ds%61%6ces%78%2F%3FI%62W3kG3%77%75%51%71&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw1TFp5KR5l56rIutak-rsWU"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 629,
+    "html_length": 1061,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Norton Order Confirmation For Order #NP00X08463232",
+    "from": "E-Receipt Notice <159.64.174.232.sakai@club.polokwanegolfclub.co.za>",
+    "to": "noreply_emails08463202532@bill.norton-us.com",
+    "date": "Tue, 19 Aug 2025 20:47:02 +0700",
+    "message_id": "<CAPpqsRWsrovCr_Cj+Qm-xZUXrOXBBgE734=nFoSEg3yfgkWG-Q@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000fedefd063cb8175a\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000fedefd063cb8175a\""
+  },
+  "attachments": [
+    {
+      "filename": "Billing-Details#NP0045698791324.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 28635
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 629,
+    "html_length": 843,
+    "has_text": true,
+    "has_html": true
+  }
+}

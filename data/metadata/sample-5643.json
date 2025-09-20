@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Marketplace event related to your NFT NFT_471074. Offer might expire soon.",
+    "from": "OpenSea <postmaster@renttennesseecabins.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 12 Jun 2025 08:30:06 +0000",
+    "message_id": "<20250612083006.163ede7d8f7cead6@renttennesseecabins.com>",
+    "content_type": "text/html; charset=ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.seamaldives.com/wp-content/plugins/cmd?accesstoken=885944",
+      "http://talk.hyvor.com/media/website/12825/40amSzXK55wfFtQxM4oMmbCvvBhtUgV63c1caVeV.png",
+      "https://opensea.io"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 296,
+    "html_length": 2177,
+    "has_text": true,
+    "has_html": true
+  }
+}

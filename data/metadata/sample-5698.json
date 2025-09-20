@@ -1,0 +1,51 @@
+{
+  "headers": {
+    "subject": "Your Update Is Still Incomplete",
+    "from": "Microsoft Protection <jasmina.nicic@mobilos.rs>",
+    "to": "phishing@pot",
+    "date": "Thu, 22 May 2025 17:56:31 +0200 (CEST)",
+    "message_id": "<20250522155631.6109722016B2@s980.loopia.se>",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============3162469297103126413==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"===============3162469297103126413==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "expires",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.groupon.com/?utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US&amp;s=header&amp;c=image&amp;d=groupon&amp;utm_campaign=password_reset_not_registered_20190329",
+      "table.ls_nav_font",
+      "http://www.groupon.com/analytic/track.gif?p=2&amp;utm_domain=hotmail.com&amp;utm_campaign=password_reset_not_registered_20190329&amp;utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US",
+      "https://support.microsoft.com/",
+      "https://iriscmsproddatastorage.azureedge.net/assets/36/6b/366ba53f-a1c2-4457-b064-aa6297f4e419.png?n=ms_logo_g_double.png",
+      "http://www.groupon.com/support?utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US&amp;s=body&amp;c=link&amp;d=groupon-support&amp;utm_campaign=password_reset_not_registered_20190329",
+      "https://www.groupon.com/users/new?utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US&amp;s=&amp;c=&amp;d=&amp;utm_campaign=password_reset_not_registered_20190329",
+      "https://fonts.googleapis.com/css?family=Nunito:700",
+      "http://www.w3.org/1999/xhtml",
+      "http://www.groupon.com/analytic/track.gif?p=1&amp;utm_domain=hotmail.com&amp;utm_campaign=password_reset_not_registered_20190329&amp;utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US",
+      "http://www.groupon.com/forgot_password?utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US&amp;s=body&amp;c=link&amp;d=groupon-support&amp;utm_campaign=password_reset_not_registered_20190329",
+      "https://fonts.googleapis.com/css?family=Open+Sans:100,200,400,300,500,600,700,800",
+      "td.ga-mobile-pad",
+      "https://honestvictorhandyman.com/wp-includes/api/RhIvqpXq?_mac=FBA685EDF9F3AD645D92D96D&amp;id=699321",
+      "table.helvetica",
+      "http://www.groupon.com/customer_support?utm_source=password_reset_not_registered&amp;utm_medium=email&amp;date=20190329&amp;uu=b9f9369a-0bb7-11e9-9ee9-0242ac110002&amp;CID=US&amp;s=footer&amp;c=link&amp;d=support&amp;utm_campaign=password_reset_not_registered_20190329"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 9,
+    "html_length": 21433,
+    "has_text": true,
+    "has_html": true
+  }
+}

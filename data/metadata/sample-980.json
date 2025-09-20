@@ -1,0 +1,59 @@
+{
+  "headers": {
+    "subject": "ADEMIR, seu carro novo te espera com condições especiais!",
+    "from": "\"Santander \" <sitesantander@santander.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 24 Jul 2023 12:54:26 +0000",
+    "message_id": "<43.68.11459.2847EB46@gu.mta2vrest.cc.prd.sparkpost>",
+    "content_type": "multipart/alternative; boundary=\"_----eBq/raEpEjfaNVHJOrx3CA===_23/68-11459-2847EB46\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_----eBq/raEpEjfaNVHJOrx3CA===_23/68-11459-2847EB46\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://tr.santander.com.br/f/a/bEfi2sNC9pBFKCk2xFF0bw~~/AAAAAQA~/RgRmoPmCP0UFNDQzODdEZmh0dHBzOi8vd3d3LnNhbnRhbmRlci5jb20uYnIvZm9ybS9kZXNjYWRhc3RyZT91dG1fc291cmNlPWNybSZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj1kZXNjYWRhc3RyZVcFdW5lYXJCCmS2gnS-ZM9kNIZSF3JvZHJpZ28tZi1wQGhvdG1haWwuY29tWAQAAAAE",
+      "https://www.santander.com.br/newsletter/53066/15_texto.png",
+      "https://www.santander.com.br/newsletter/53066/06_texto.png",
+      "https://www.santander.com.br/newsletter/53066/03_header.png",
+      "https://www.santander.com.br/newsletter/53066/16_texto.png",
+      "https://www.santander.com.br/newsletter/53066/22_canais.png",
+      "https://www.santander.com.br/newsletter/53066/19_cta.png",
+      "https://www.santander.com.br/newsletter/53066/02_header.png",
+      "https://www.santander.com.br/newsletter/53066/07_img.png",
+      "https://tr.santander.com.br/q/jxN1GCs4InojefQmA5U2SA~~/AAAAAQA~/RgRmoPmCPlcFdW5lYXJCCmS2gnS-ZM9kNIZSF3JvZHJpZ28tZi1wQGhvdG1haWwuY29tWAQAAAAE",
+      "https://www.santander.com.br/newsletter/53066/21_santander.png",
+      "https://www.santander.com.br/newsletter/53066/09_cta.png",
+      "https://www.santander.com.br/newsletter/53066/01_selo.png",
+      "https://www.santander.com.br/newsletter/53066/10_cta.png",
+      "https://www.santander.com.br/newsletter/53066/24_disclaimer.png",
+      "https://www.santander.com.br/newsletter/53066/05_texto.png",
+      "https://www.santander.com.br/newsletter/53066/26_footer.png",
+      "https://www.santander.com.br/newsletter/53066/17_texto.png",
+      "https://www.santander.com.br/newsletter/53066/11_cta.png",
+      "https://www.santander.com.br/newsletter/53066/08_img.png",
+      "https://tr.santander.com.br/f/a/mKcuH4_5wJbXvyvLPLBOcQ~~/AAAAAQA~/RgRmoPmCP0UFNDQzODVEqGh0dHBzOi8vd3d3LmNsaWVudGUuc2FudGFuZGVyZmluYW5jaWFtZW50b3MuY29tLmJyL29yaWdpbmFjYW9jbGllbnRlLyMvc2ltdWxhY2FvP3V0bV9zb3VyY2U9Y3JtJnV0bV9tZWRpdW09ZS1tYWlsJnV0bV9jYW1wYWlnbj1hdXRvLWNvbnF1aXN0YV9tZXJjYWRvLXNlbV9wYXAtanVuLWUtbWFpbFcFdW5lYXJCCmS2gnS-ZM9kNIZSF3JvZHJpZ28tZi1wQGhvdG1haWwuY29tWAQAAAAE",
+      "https://www.santander.com.br/newsletter/53066/23_atendimento.png",
+      "https://www.santander.com.br/newsletter/53066/04_header.png",
+      "https://www.santander.com.br/newsletter/53066/20_cta.png",
+      "https://tr.santander.com.br/f/a/ZapdFOU1QFR_qH_8fiASjA~~/AAAAAQA~/RgRmoPmCP0UFNDQzODZEqGh0dHBzOi8vd3d3LmNsaWVudGUuc2FudGFuZGVyZmluYW5jaWFtZW50b3MuY29tLmJyL29yaWdpbmFjYW9jbGllbnRlLyMvc2ltdWxhY2FvP3V0bV9zb3VyY2U9Y3JtJnV0bV9tZWRpdW09ZS1tYWlsJnV0bV9jYW1wYWlnbj1hdXRvLWNvbnF1aXN0YV9tZXJjYWRvLXNlbV9wYXAtanVuLWUtbWFpbFcFdW5lYXJCCmS2gnS-ZM9kNIZSF3JvZHJpZ28tZi1wQGhvdG1haWwuY29tWAQAAAAE",
+      "https://www.santander.com.br/newsletter/53066/13_texto.png",
+      "https://www.santander.com.br/newsletter/53066/18_cta.png",
+      "https://www.santander.com.br/newsletter/53066/25_seguranca.png",
+      "https://www.santander.com.br/newsletter/53066/12_texto.png",
+      "https://www.santander.com.br/newsletter/53066/14_texto.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1567,
+    "html_length": 12565,
+    "has_text": true,
+    "has_html": true
+  }
+}

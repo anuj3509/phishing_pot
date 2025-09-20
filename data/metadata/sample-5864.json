@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Important Update: Wallet Extensions for Claiming Your Midnight\r\n Glacier Drop",
+    "from": "MidnightNetwork <midnight@binduhost.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 18 Aug 2025 10:35:02 +0000",
+    "message_id": "<01000198bcbf2d12-835e0e88-4517-4c16-abb4-dc7db1a6854f-000000@email.amazonses.com>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "download.yoroiextensionwallet.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1770,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

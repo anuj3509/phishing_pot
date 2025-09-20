@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Account Notification – Action Needed",
+    "from": "\"mail@ledger-clients.com via SurveyMonkey\" <member@surveymonkeyuser.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 26 Aug 2025 02:37:48 +0000",
+    "message_id": "<AA.08.43716.CFD1DA86@i-00f799d3fe637d191.mta2vsmtp.sd.prd.sparkpost>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT3PErDK_2Bf6OjNYOPsqZdKwguupX3K4uMnAJQ8zlW7KO_2FpKjqPGm4ppJ3rFS_2FJZL2HYXLyhS84g5qN1xIbJoxJVV1RELxUSTm4QQm8ZPFhCpQccmUgx0IXmfS_2FXVOuyQl4Y8XOo7NWwsoWQLicSQaPzGTn16iXqPbbELlpf8wjC5W_2FuF5rgQWiAyn59wR0bJgf8vYGWs90VljeqtDbOHrXd2nXmStQJIYU3JCwxZFqN46R217ZYVLWYWZxGZr7sQIPZqzcvBKX5xGb83BFUmHhWMP4QMZYQCkCQ4W5WXgk5LUudPFOqBr8VJRKSmQcTay882Op5Yq6hFoAqFHFFHpunNE_2BlxZqqrPS4HK_2FSHjTm9blJKzKcCFmmMobWD8nLQoM1FGyqaF3BEhGVMH6urtTBAaiUZr6yhoEu_2B1uc01wZckek_2F6eG5yXkewaiNo98_2FrL9QPI_2BZrn1bm65KcD1gLw92p5U7bJEuBwfEkk9zoZMiDoL6shY5xsfS4p7i4rYUkl3B3wwg_2B8YMQjRwBpm6DdyRq81w_2BRHYMw7egiFWNj2N1BYS_2BmGigFUfdVGJjfoeUGbJjjjsY54CooBDXC4qY7Kl",
+      "https://www.surveymonkey.com/tr/v1/te/7GZ_2B5Nny3bIvRDQOY3o5aZFJMfg5CavfDsEWOY31Q3mNi472p8H43gJcZE1so_2FAnjiVzKdFwoM8wpnK5z_2B2ya9zDZIbOI_2FN8WE0gmmwyhk_2FYRLRXLpXC1vcwD0t17ySAh1lUDT20lodX9QIDC_2BVxo0FRxoWQwb5Dot_2BcL9mwGb8_3D",
+      "https://surveymonkey-assets.s3.amazonaws.com/collector/461933600/message/128809835/logo/c4b4e369-4bf6-41e6-b314-f558727ae1b6.png",
+      "https://www.surveymonkey.com/mp/legal/privacy/",
+      "https://www.surveymonkey.com/collect/images/smLogo.png",
+      "https://click.outbound.surveymonkey.com/q/2kPAC1YDHqMzRelhxwA1cA~~/AAAAARA~/JlxTXR4e7TiB87Ugfergronuz8z1odtd35jX3Fk-7baQU1Dv0Ro-M5Rq7BGCcfG2pVsHKZVOfR_sIJlig5ugIvUO-JSEWWZGdN0r-oqQ4bI~",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://www.surveymonkey.com/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FpF_2Fhy3EhxbpxJDHYpYZT3CvJK0hF8VaeoYgNuYHKjC1rEUOxcRs6mZw4kUPaGP3adp0GtITfYZi5lQl4rbXKRkTpKKwMenIrnES3D0K4AHRvpREHP7mtMCUbmIJmHqERaj_2FuwVd1zcNoIq8LYXJlof5CWF1E0QPom1SW241Dk_2BCyXJPY560IEIYEiWoFoz_2BUJR88SfodnbtxdJdxOJxmrePV7cSPoIvr9QUiZDig9jcJcxnjwwNTppuiZsPm5KDg_3D_3D",
+      "https://www.surveymonkey.com/tr/v1/te/8MVvI_2FB1xrN_2F4jkFiEucF_2BdIrNKjrZaS1Y9DSBH_2BwhaAj039sWjsINHQs_2FQiRTDB.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 657,
+    "html_length": 8310,
+    "has_text": true,
+    "has_html": true
+  }
+}

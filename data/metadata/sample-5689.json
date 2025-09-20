@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! gov.br: Pendência identificada em seu CPF! Protocolo: 89453862. - Seu CPF possui restrição urgente! - Restrição Pendente no CPF: Regularize agora! - Regularização de CPF Pendente: Divergências encontradas na sua declaração de Imposto! - Verifique Agora. - Veja agora as restrições que seu CPF possui!",
+    "from": "Receita Federal - Tributos <situacao@receitaregular377241>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 23 Jul 2025 03:15:26 +0000",
+    "message_id": "<2016c3b7482f2f1aae8d0575efc9aa54@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_2016c3b7482f2f1aae8d0575efc9aa54\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_2016c3b7482f2f1aae8d0575efc9aa54\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://imp-50833041340.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 6694,
+    "has_text": true,
+    "has_html": true
+  }
+}

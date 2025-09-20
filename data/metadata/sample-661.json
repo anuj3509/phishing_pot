@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot,você chegou ao cartão Black, bem-vindo ao Bradesco Prime.",
+    "from": "Bradesco Prime <contato@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Sun, 14 May 2023 08:47:42 +0000",
+    "message_id": "<d9d78a15-0f0e-66e7-30c9-2e2f1d20f7e4@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://i-a4qxna7jwq-rj.a.run.app/a/?tr=07c67083c1e3439c82c1f77a51b8f238&amp;t1=bra"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3876,
+    "html_length": 7546,
+    "has_text": true,
+    "has_html": true
+  }
+}

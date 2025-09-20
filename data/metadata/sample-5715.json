@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Olá, Encomenda Retida com Prazo Final.",
+    "from": "Correios <noreply@correios>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 16 May 2025 04:39:00 +0000",
+    "message_id": "<7358737e-ab50-03cf-f732-8379b8782122@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "document.write(new",
+      "http://juliodejens.icu/t?email=&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name=",
+      "http://juliodejens.icu/email=&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7054,
+    "html_length": 12505,
+    "has_text": true,
+    "has_html": true
+  }
+}

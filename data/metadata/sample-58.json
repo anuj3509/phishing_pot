@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "URGENT RESPONSE NEEDED",
+    "from": "Mark Zanelli <wpalmer653@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Tue, 20 Sep 2022 09:21:31 +0000",
+    "message_id": "<CAGo=Wj11GHgXtQw=rvBH6u+CvM1EqVsiFgXcOonezBXmjFiydA@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000053692105e9185b59\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000053692105e9185b59\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ka.hota653@hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1534,
+    "html_length": 8890,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Your Latest User Agreement. Tuesday, July 4, 2023",
+    "from": "Microsoft Privacy <noreply@argus-mail.de>",
+    "to": "phishing@pot",
+    "date": "Tue, 04 Jul 2023 20:17:54 +0000",
+    "message_id": "<24421fd5-a058-360f-9514-dccf711ec41e@argus-mail.de>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-778d4f7a53f98e04-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-778d4f7a53f98e04-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.bing.com/ck/a?!&&p=244ed82c953082a2JmltdHM9MTY4ODI1NjAwMCZpZ3VpZD0zNDUzZTllNC0zZjE5LTZkNjUtMDEwZC1mYWRhM2U0ZjZjZGYmaW5zaWQ9NTI1NA&ptn=3&hsh=3&fclid=3453e9e4-3f19-6d65-010d-fada3e4f6cdf&u=a1aHR0cHM6Ly9zb3ZhbGNvbnN1bHRvcmVzLmNsL2F2YW56YXItaGFjaWEtdW5hLWVkdWNhY2lvbi1kZS1jYWxpZGFkLw&ntb=BD2AhlNdUIp50RtsW4fd",
+      "schema.org/ViewAction",
+      "http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png",
+      "hotmail.com",
+      "schema.org/EmailMessage",
+      "https://accounts.google.com/AccountChooser?Email=jvangeest12@hotmail.com&amp;continue=https://myaccount.google.com/alert/nt/1683254249000?rfn%3D325%26rfnc%3D1%26eid%3D1498395000513587417%26et%3D0"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 18,
+    "html_length": 3938,
+    "has_text": true,
+    "has_html": true
+  }
+}

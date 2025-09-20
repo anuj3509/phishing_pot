@@ -1,0 +1,61 @@
+{
+  "headers": {
+    "subject": "Please complete your verification to avoid lose fund on Sat, May 24, 2025",
+    "from": "T󠄹r󠄹u󠄹st󠄹 W󠄹al󠄹l󠄹e󠄹t <mail.apps-nv@nikkimcgillracing.com>",
+    "to": "<customerlvpPwLUt1H@trustwallet.com",
+    "date": "Sat, 24 May 2025 22:53:00 +0000",
+    "message_id": "<66069896.117113308539.2542400401677462.387787997@discover.pinterest.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixQyDgF7MuQNQJPTFE9B8T1teEmuGMWHcan6Rrmxh6eG8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixQyDgF7MuQNQJPTFE9B8T1teEmuGMWHcan6Rrmxh6eG8\""
+  },
+  "attachments": [
+    {
+      "filename": "emails-opticaltools.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "carddav-opticaltools.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-opticaltools.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mail.sadiqsurgical.com:2079/addressbooks/sadiqsurgical/addressbook",
+      "https://mail.sadiqsurgical.com:2080",
+      "sadiqsurgical.com",
+      "https://mail.sadiqsurgical.com:2080/addressbooks/sadiqsurgical/addressbook",
+      "https://nikkimcgillracing.com/customer/?newsletters&email=admin-daf431b8c41e9b20c938f722620f6fae@live.com",
+      "Mail.app®",
+      "mail.sadiqsurgical.com",
+      "https://mail.sadiqsurgical.com:2080/calendars/sadiqsurgical/calendar",
+      "Mail.app&reg;",
+      "https://nikkimcgillracing.com/customer/?newsletters&amp;email=admin-d0028319dba968885ffd400ba6fd14ad@live.com",
+      "ioh.ac.us”",
+      "ioh.ac.us&rdquo;",
+      "http://mail.sadiqsurgical.com:2079/calendars/sadiqsurgical/calendar",
+      "http://mail.sadiqsurgical.com:2079"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 27999,
+    "html_length": 27973,
+    "has_text": true,
+    "has_html": true
+  }
+}

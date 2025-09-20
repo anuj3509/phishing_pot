@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Launch of the Official Electrum Wallet Extension for Enhanced\n Cryptocurrency Management",
+    "from": "Electrum_Extension <alert@electrum-io.uno>",
+    "to": "phishing@pot",
+    "date": "Tue, 10 Jun 2025 13:04:15 +0000 (UTC)",
+    "message_id": "<bd23e413-c6bf-f827-2837-42fa1cf965c9@electrum-io.uno>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.electrum-download.org/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1163,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

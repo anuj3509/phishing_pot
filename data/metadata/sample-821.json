@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "ENC: Resgate seu Saldo-wpZWNNPdm85ZwJ6s",
+    "from": "Rodrigo Lima <rodrigo.gama94@live.com>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Tue, 6 Jun 2023 19:27:24 +0000",
+    "message_id": "\r\n <SA1PR05MB87079EE5C4BEB937A6A5ACEBE052A@SA1PR05MB8707.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SA1PR05MB87079EE5C4BEB937A6A5ACEBE052ASA1PR05MB8707namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SA1PR05MB87079EE5C4BEB937A6A5ACEBE052ASA1PR05MB8707namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "EldBOp4bP2IfIEVzt.pdf",
+      "content_type": "application/pdf",
+      "size": 116961
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "rodrigo.gama94@live.com&nbsp;",
+      "gmail.com&gt;",
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "rodrigo.gama94@live.com",
+      "gmail.com",
+      "https://go.microsoft.com/fwlink/?LinkId=550986",
+      "p.MsoNormal,",
+      "li.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "rodrigo.gama94@live.com&gt;",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 663,
+    "html_length": 2404,
+    "has_text": true,
+    "has_html": true
+  }
+}

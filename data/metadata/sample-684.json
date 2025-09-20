@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Step into the Era of $BOB : free token can be claimed !",
+    "from": "BOB x OpenAI<subscriptions@phoenixbioinformatics.org>",
+    "to": "phishing@pot",
+    "date": "Fri, 19 May 2023 20:51:59 +0000",
+    "message_id": "<0101018835c89b47-72bdee18-c8e7-4cfa-b465-a7b31cb1bb2a-000000@us-west-2.amazonses.com>",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://gocandoservices.com/wp-includes/images/bob.png",
+      "https://itunes.apple.com/us/app/linkedin/id288429040?pt=10746&amp;ct=st_appsite_flagship&amp;mt=8",
+      "https://play.google.com/store/apps/details?id=com.linkedin.android&amp;referrer=st_appsite_flagship",
+      "https://chatbob.chat/",
+      "https://www.linkedin.com/emimp/ip_TVRnelpUbDNMV3hvZFhKa01HY3dMWFZxOlpXMWhhV3hmYm1WMGQyOXlhMTlqYjI1MlpYSnpZWFJwYjI1elh6QXg6.gif"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 27,
+    "html_length": 3452,
+    "has_text": true,
+    "has_html": true
+  }
+}

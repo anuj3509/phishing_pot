@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Aviso Importante: Cobrança fiscal registrada para seu CPF. Quitação imediata necessária. Protocolo: 49862284.",
+    "from": "Receita Federal <aviso419946@receitafederal>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 18 May 2025 18:43:40 +0000",
+    "message_id": "<ce8cd4db0ec454b2256094042044b612@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ce8cd4db0ec454b2256094042044b612\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_ce8cd4db0ec454b2256094042044b612\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://corre-765775392619.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3382,
+    "has_text": true,
+    "has_html": true
+  }
+}

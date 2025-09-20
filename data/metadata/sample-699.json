@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Informativo-WCXwTfAXnG",
+    "from": "\"[Itau]-Programa de Pontos-04052105852912141806\" <nhytgf42@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 22 May 2023 20:14:57 +0000",
+    "message_id": "<a03a42d713f2c832ba6efe172b7cc051@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"686d7156fb2a22bf35c924bd000cb661\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"686d7156fb2a22bf35c924bd000cb661\""
+  },
+  "attachments": [
+    {
+      "filename": "a8UNMYlyVvll6STbEwI.pdf",
+      "content_type": "application/pdf",
+      "size": 75493
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 204,
+    "html_length": 519,
+    "has_text": true,
+    "has_html": true
+  }
+}

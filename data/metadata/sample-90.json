@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "BLOQUEAMOS UM ACESSO SUSPEITO - PROTOCOLO: 283890577.",
+    "from": "Mercado Livre <contato@mercadolivre.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 13 Oct 2022 15:36:29 +0000 (UTC)",
+    "message_id": "<20221013153629.5F2B844C2A@ubuntu-s-1vcpu-1gb-intel-sfo3-10>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://us-east1-valid-arc-109017.cloudfunctions.net/merc0109-12",
+      "https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/logo-meli-br@2x.png",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 408,
+    "html_length": 8938,
+    "has_text": true,
+    "has_html": true
+  }
+}

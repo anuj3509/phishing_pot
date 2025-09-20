@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Letzte Erinnerung: Dein McAfee-Schutz lauft heute ab",
+    "from": "\"McAfee \"<info.8sN3K@pyuehjec.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 23 Jun 2025 18:00:08 +0200",
+    "message_id": "<6498c836-3175-47ce-9ec9-0ec1dcf565c1@AM3PEPF0000A798.eurprd04.prod.outlook.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://earningadvice.com/op/2524921_md/30/24897958/19499/897/109207",
+      "https://ecwalkers.com/un/2524921_md/30/24897958/19499/897/109207",
+      "https://ecwalkers.com/cl/2524921_md/30/24897958/19499/897/109207"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 688,
+    "html_length": 3118,
+    "has_text": true,
+    "has_html": true
+  }
+}

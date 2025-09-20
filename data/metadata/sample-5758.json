@@ -1,0 +1,63 @@
+{
+  "headers": {
+    "subject": "Action Required: Verify Your Information to Keep Your Wallet Active",
+    "from": "Tr󠄹us󠄹t󠄹 Wal󠄹l󠄹et <mail.apps-dz@engenhariaverde.eng.br>",
+    "to": "<customer@trustwallet.com>",
+    "date": "Wed, 21 May 2025 16:58:07 +0000",
+    "message_id": "<58363954.328842334044.2904034832691611.218577625@boxer.vivawebhost.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixKbVWAu7ZAHLYAbbXUNcMRrLxf7TsXAiMRPaIc0WhQ\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixKbVWAu7ZAHLYAbbXUNcMRrLxf7TsXAiMRPaIc0WhQ\""
+  },
+  "attachments": [
+    {
+      "filename": "trustwallet.mobile",
+      "content_type": "application/octet-stream",
+      "size": 5512
+    },
+    {
+      "filename": "trustwallet.config",
+      "content_type": "application/octet-stream",
+      "size": 5350
+    },
+    {
+      "filename": "trustwallet.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6546
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "engenhariaverde.eng.br",
+      "https://mail.engenhariaverde.eng.br:2080/calendars/sureprimeco/calendar",
+      "ioh.ac.us”",
+      "https://mail.engenhariaverde.eng.br:2080",
+      "https://mail.engenhariaverde.eng.br:2080/addressbooks/sureprimeco/addressbook",
+      "http://mail.engenhariaverde.eng.br:2079/calendars/sureprimeco/calendar",
+      "http://mail.engenhariaverde.eng.br:2079/addressbooks/sureprimeco/addressbook",
+      "Mail.app®",
+      "https://engenhariaverde.eng.br/sales/?customer&amp;email=user-fbrnpmyg@live.com",
+      "mail.engenhariaverde.eng.br",
+      "Mail.app&reg;",
+      "https://engenhariaverde.eng.br/sales/?customer&email=user-ugbdzqaz@live.com",
+      "http://mail.engenhariaverde.eng.br:2079",
+      "ioh.ac.us&rdquo;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 104437,
+    "html_length": 104418,
+    "has_text": true,
+    "has_html": true
+  }
+}

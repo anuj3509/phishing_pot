@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Ihre Chance auf eine 500��� ALDI-Geschenkekarte und ein Luxuswohnmobil!",
+    "from": "Aldi Camper Gewinnspiel <AVln7mz.com>, Aldi Camper Gewinnspiel\r\n\t<reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 24 Jul 2025 14:24:24 -0400",
+    "message_id": "<AVln7mz.0.0.AVln7mz.9.AVln7mz@telekom.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_----------=_8306118649450284\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_----------=_8306118649450284\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://45.88.90.180/oop/1448_md/1/1170/659/1/210122",
+      "http://45.88.90.180/cl/1448_md/1/1170/659/1/210122",
+      "http://45.88.90.180/op/1448_md/1/1170/659/1/210122",
+      "https://i.imgur.com/WpiIxRS.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1679,
+    "html_length": 9496,
+    "has_text": true,
+    "has_html": true
+  }
+}

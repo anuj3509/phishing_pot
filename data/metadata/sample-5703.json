@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Infração de Trânsito Detectada: Verifique e Evite a Suspensão! Registro: 19585053.",
+    "from": "Detran - Aviso Urgente <aviso534765@cnhdigital>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 14 May 2025 08:17:20 +0000",
+    "message_id": "<a55ad08219f7b5bc7e42850b4c407112@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a55ad08219f7b5bc7e42850b4c407112\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_a55ad08219f7b5bc7e42850b4c407112\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://detr-765775392619.southamerica-east1.run.app",
+      "hotmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4069,
+    "has_text": true,
+    "has_html": true
+  }
+}

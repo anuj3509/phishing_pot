@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Seus Pontos Vao Expirar! ",
+    "from": "Cliente Bradesco <BIA@BRADESCO.COM.BR>",
+    "to": "phishing@pot",
+    "date": "Wed, 10 May 2023 20:59:56 +0000 (UTC)",
+    "message_id": "<20230510205956.3E8D13F969@ubuntu-s-1vcpu-512mb-10gb-nyc1-04>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/1999/xhtml",
+      "http://240.91.74.97.host.secureserver.net/001/?hash=rodrigo-f-p@hotmail.com",
+      "http://www.w3.org/TR/xht=",
+      "xhtml1-transitional.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1010,
+    "html_length": 8732,
+    "has_text": true,
+    "has_html": true
+  }
+}

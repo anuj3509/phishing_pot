@@ -1,0 +1,59 @@
+{
+  "headers": {
+    "subject": "New Login Attempt Detected – Please Review Your Account Activity",
+    "from": "\"Customer Services Coinb...\" <mail.apps-go@jotofasecurity.co.tz>",
+    "to": "<customer@coinbase.com>",
+    "date": "Sat, 17 May 2025 18:22:14 -0600",
+    "message_id": "<51942295.558961566514.3441182426086110.006232406@boxer.vivawebhost.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixNamOTcuii4IsNNnxIPPtlS7kvPSsoOnElnorLLB7io\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixNamOTcuii4IsNNnxIPPtlS7kvPSsoOnElnorLLB7io\""
+  },
+  "attachments": [
+    {
+      "filename": "email-sureprimeco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5502
+    },
+    {
+      "filename": "carddav-sureprimeco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5340
+    },
+    {
+      "filename": "caldav-sureprimeco.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6436
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "jotofasecurity.co.tz",
+      "http://mail.jotofasecurity.co.tz:2079/calendars/sureprimeco/calendar",
+      "http://mail.jotofasecurity.co.tz:2079/addressbooks/sureprimeco/addressbook",
+      "mail.jotofasecurity.co.tz",
+      "https://mail.jotofasecurity.co.tz:2080/calendars/sureprimeco/calendar",
+      "Mail.app®",
+      "http://mail.jotofasecurity.co.tz:2079",
+      "Mail.app&reg;",
+      "https://mail.jotofasecurity.co.tz:2080",
+      "ioh.ac.us”",
+      "ioh.ac.us&rdquo;",
+      "https://mail.jotofasecurity.co.tz:2080/addressbooks/sureprimeco/addressbook"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 21503,
+    "html_length": 21473,
+    "has_text": true,
+    "has_html": true
+  }
+}

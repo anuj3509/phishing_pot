@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo acesso a sua conta. ! MSG: 8766188839",
+    "from": "Mercado Pago <mercadopago@atendimento>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 22 May 2025 09:58:01 -0300",
+    "message_id": "<20250522125801.95C22404C4@dodropax43xxxpstxmqcrmh>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://alerta-suspensão-gov.com/veri/?atendimento=1",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 517,
+    "html_length": 2490,
+    "has_text": true,
+    "has_html": true
+  }
+}

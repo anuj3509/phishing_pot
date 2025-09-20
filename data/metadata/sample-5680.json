@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[Monronee] Login Details",
+    "from": "WordPress <wordpress@monronee.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 18 Jun 2025 21:42:20 +0000",
+    "message_id": "<8dqUdIqMSwR7rTffIZ2A7rCk2esJ720QKGz4rKlCk@website-61c39b22.silverfoxmarketingstl.com>",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.gsgvsa.blogspot.ch",
+      "http://monronee.com/wp-login.php?login=www.gsgvsa.blogspot.ch%20-%201.330%20BTC%20BINANCE&key=n9f1A55uC3w43CavhfOh&action=rp",
+      "http://monronee.com/wp-login.php"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 266,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "RE: New gift from our team",
+    "from": "Premint GIFT <reports@thingstel.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 27 Jun 2023 07:12:58 +0000",
+    "message_id": "<01010188fbb2c931-eeb51d7b-ac49-4f4a-8df7-8f9e8d6b84eb-000000@us-west-2.amazonses.com>",
+    "content_type": "multipart/alternative; boundary=\"F3579FECA0E441C58772E98A9DB578F5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"F3579FECA0E441C58772E98A9DB578F5\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://image.news.wizardingworld.com/lib/fe9812747766077e76/m/5/21603b8c-50d4-4ab3-82dd-af61e1fc6d37.png",
+      "https://pulsar.universe.app/CL0/https:%2F%2Fleenytoons.tk%2F.x%2FplakO.php/1/01010188e9c34295-d50f48e9-5d41-4971-944e-6dea7ee3e35d-000000/LLGwQOjsHz4h68ohejY4sp9rG15j_CUji6lRH9zJB68=306",
+      "https://www.premint.xyz/static/identity/images/wordmark-white.7067ddb5336e.svg",
+      "https://image.news.wizardingworld.com/lib/fe9812747766077e76/m/5/03caaaef-d552-4c91-885c-492a87df4d41.png",
+      "https://www.tiktok.com/@opensea?lang=fr",
+      "https://www.facebook.com/projectopensea/",
+      "https://twitter.com/opensea?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+      "https://click.news.wizardingworld.com/unsub_center.aspx?qs=b047a5f8e6ace9c0a4d3eb0734ae9740abd1517a38d05ff6157e083c336ded3c90f9510123fb5ed2604b70314a851b4b725f56dba164734c617339cb143911c1f1a939867ac6fd33",
+      "https://image.news.wizardingworld.com/lib/fe9812747766077e76/m/5/a4b7bf16-eb21-4796-a49e-53ed2bcdeb4b.png",
+      "https://image.news.wizardingworld.com/lib/fe9812747766077e76/m/5/5a11265e-b83a-4e3d-9f78-b69fb2e27e98.png",
+      "https://www.instagram.com/opensea/",
+      "https://click.news.wizardingworld.com/?qs=f4576fedf53edbb79fdf3e837b1b74c62a68d15190902092a7a68c008594780b61df837b8ee5dad449f8e37bf9bd194043c5d1f4399c75a7c76a25ddb52c5d49"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 397,
+    "html_length": 8003,
+    "has_text": true,
+    "has_html": true
+  }
+}

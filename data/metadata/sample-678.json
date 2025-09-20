@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, você alcançou o cartão Black, mas há algo que você nãopode perder! Bem-vindo ao Bradesco Prime",
+    "from": "Bradesco <naoresponder@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 19 May 2023 03:43:54 +0000",
+    "message_id": "<e70e0f18-edca-5da7-8cc7-bb8b15f38c77@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      "https://i-a4qxna7jwq-rj.a.run.app/a/?tr=24efe70843f34d09bb3ad5e8a25cbbbf&amp;t1=bra",
+      ".alert.alert-good"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3872,
+    "html_length": 7511,
+    "has_text": true,
+    "has_html": true
+  }
+}

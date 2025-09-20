@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Active or new accounts can claim XRP",
+    "from": "Ripple Team <ripple@bounce.yandy.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Jun 2023 23:28:11 +0000",
+    "message_id": "<20230616232811.580798a8b8bf1317@bounce.yandy.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://i.imgur.com/nwvwffI.png",
+      "https://mail83-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "http://email.bounce.yandy.com/u/eJwcyTEOgzAMAMDXwAayTTD2kKFPiZO6RCqkiujA7yt1vhKZWXHcI1kuIiSmviooseuWLQQQdHWzsUYCWoCRaSFBnFeBTSWJiTkuuA0BrH3P_JzvdJZ7zu0Ye-yt9Ppqk0-fIcDeriPV99-uONDjFwAA___YbiUx",
+      "https://mail83-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "table.mj-full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3340,
+    "html_length": 14868,
+    "has_text": true,
+    "has_html": true
+  }
+}

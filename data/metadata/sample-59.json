@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Your NHS prescriptions, delivered for free ",
+    "from": ":Lloyds Pharmacy <info@livingsocial.co.uk>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Sep 2022 00:37:50 +0200",
+    "message_id": "<cciIkwVa.186I.NVYOeI.cciIkwVa@email.nexxt.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "i.imgur.com/16Qn3gf.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://i.imgur.com/16Qn3gf.jpg",
+      "https://www.dating-express.com/unsubscribe/index.php?pYvrCV26eyVetn3+XRYGQGAEjcf7Q+D38WCUsaIgm5ECssO0XiYx91GgoQmMg8OzKC1fQ9NHA7xLGKFrSMxPlg==",
+      "http://laredouteshop.com/cl/11719_md/9/4986/5953/681/1190",
+      "http://laredouteshop.com/op/11719_md/9/4986/5953/681/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 93,
+    "html_length": 1205,
+    "has_text": true,
+    "has_html": true
+  }
+}

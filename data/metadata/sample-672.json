@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "FUND TRANSFER",
+    "from": "\"PAYMENT NOTIFICATION\"<test@numzaan.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Wed, 17 May 2023 07:33:53 +0800",
+    "message_id": "<20230516233350.B7D3243833@isp.numzaan.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"_iso-2022-jp$ESC\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"_iso-2022-jp$ESC\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1143,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "You can now claim your XRP tokens",
+    "from": "Ripple Team <xrpl@acg-world.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Jun 2023 00:10:56 +0000 (UTC)",
+    "message_id": "<HS1NR0fRSg2hPSqfppRNPQ@geopod-ismtpd-canary-0>",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=us-ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://i.imgur.com/ovCBGmR.png",
+      "https://u17651608.ct.sendgrid.net/ls/click?upn=1HGRQGd1CiBmWtcls9L52rDrhRz-2F1Ym2oD8MlrfQ4iXT0n5ftaPSXufF3aXHgn5naHhywKf-2FpPbnCbi2jth3u6LT0N3GgGoNs9cZ-2B5c4YluG7L9hAHbdGHH5mUKbjAtLN8uV_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmwg3kOjrEvDOMtVwcVRxsW-2BYOmLIRnwm9blSJXJOa2mgo0Z8H8U0HB8h0OeGrSwNDTYScFlnhdEWp2bbCUh5Pl2lz7c6aReFmLA7lrfiKRt0DxulOIFd1UjAuix4xKKABluq3GS4bbNFIoOXaSfYmeJlnDP7os18p96Uk3qyretNg07-2B2WwVg-2FBNHvoWd3PcQ-3D",
+      "https://u17651608.ct.sendgrid.net/ls/click?upn=1HGRQGd1CiBmWtcls9L52rDrhRz-2F1Ym2oD8MlrfQ4iXT0n5ftaPSXufF3aXHgn5naHhywKf-2FpPbnCbi2jth3u6LT0N3GgGoNs9cZ-2B5c4YluG7L9hAHbdGHH5mUKbjAtLHCIF_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmwg3kOjrEvDOMtVwcVRxsW-2BYOmLIRnwm9blSJXJOa2mm17NGLBmxx-2FJ1Heur-2BSpJ-2BAJpVtVCCGhi-2FZ-2BlWaN7Alj14FLuP3mdXBhJQFvZ344wanp9b5jJO13YtGXg7xFcNPXiUMoSGCThtYJnlG5jfLcFk9tIOlncR23NvozfZM3nhJBx-2B43vk9IVvpBJrVQO0-3D",
+      "https://u17651608.ct.sendgrid.net/ls/click?upn=1HGRQGd1CiBmWtcls9L52rDrhRz-2F1Ym2oD8MlrfQ4iXT0n5ftaPSXufF3aXHgn5naHhywKf-2FpPbnCbi2jth3u6LT0N3GgGoNs9cZ-2B5c4YluG7L9hAHbdGHH5mUKbjAtLIs3Y_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmwg3kOjrEvDOMtVwcVRxsW-2BYOmLIRnwm9blSJXJOa2mmfjWXQvKSfGSrLJ9qBT6-2BGy834Vmkttf1RS2NH2YEsc2KO6Zkg8zoFCTIjl7noHnsh8f-2F-2FAqK-2BffMOHsZA1v85l03FEdYzpEGdTE9CL2zgubvFKewvGyJkgyWJHfO97aan6j1XKcLX8hIAj0UFe-2F-2FI-3D",
+      "https://u17651608.ct.sendgrid.net/ls/click?upn=1HGRQGd1CiBmWtcls9L52rDrhRz-2F1Ym2oD8MlrfQ4iXT0n5ftaPSXufF3aXHgn5naHhywKf-2FpPbnCbi2jth3u6LT0N3GgGoNs9cZ-2B5c4YluG7L9hAHbdGHH5mUKbjAtLl_k8_Ee7nT2ZQdJ749eAGxVv-2FHN3XNBqa48KbYVWhgkx4gPmwg3kOjrEvDOMtVwcVRxsW-2BYOmLIRnwm9blSJXJOa2muUvtsXS-2FY2qtKkxuJYP7tOz-2F2aN4n1ld-2F5yalbMVFxgDrCWKIJy0l80g7ZCGaTHok7Kf7YaTwwR1XWx94QW6BoWzgEA16WF9n4C74ZgGg6Nutz2CLP3E64gjc8qVk7oGBBl3frXmpjK3QRl8IdKw9E-3D",
+      "https://mail81-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "table.mj-full-width-mobile",
+      "https://u17651608.ct.sendgrid.net/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2BDceiF8kPeuvdvG2wPGWi-2B38ludKzNlPV3Oeq0V9DlzzHyJAVDpneZdCXxERjGBPS9Bsl2HOcAjsaOX4KXcElxp9EHvSTcruv-2B9Hr7rpPyYW6XqPyymp-2B0zTUTHzpMtCS-2FdihLixZh1xdyv5U1o3zT0ZW3-2F6FWO6OHxrJ-2FjvEFW9PzARWWPdBHnp2yto2TXvU-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3295,
+    "html_length": 16614,
+    "has_text": true,
+    "has_html": true
+  }
+}

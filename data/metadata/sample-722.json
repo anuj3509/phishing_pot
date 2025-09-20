@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Fatura Emitida - KtSaGYsPn9djSGR",
+    "from": "\"Itaucard - Pague sua fatura | Cod. 9036177673\" <tyjghjghkg@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 26 May 2023 15:55:10 +0000",
+    "message_id": "<cafa091498bb43de04b5fc402c368e67@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"ef9d806b1ea154c48d46c21a000c43a1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"ef9d806b1ea154c48d46c21a000c43a1\""
+  },
+  "attachments": [
+    {
+      "filename": "YANcEAfYHYFyy.pdf",
+      "content_type": "application/pdf",
+      "size": 77444
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 183,
+    "html_length": 569,
+    "has_text": true,
+    "has_html": true
+  }
+}

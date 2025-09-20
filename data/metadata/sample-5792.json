@@ -1,0 +1,39 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Tot ���10.000 terug van je energieleverancier?",
+    "from": "Claimwijzer Compensatie <noreply@beslist.nl>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 30 Jun 2025 07:12:05 +0200",
+    "message_id": "<17e4e3b1-bf6f-4a5a-8e91-b18bfdc8ee62@DS2PEPF00003445.namprd04.prod.outlook.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://icarty.1stag.com/cjFFQm56TkJmTlprSkhCZDVQdkVVbXNuNkJ6bWpPM2dLU3IyU2RjSTdXMXlTSXZlTkZLdGlnNXFkL040aGloZXJjT3NSM3JYMk5uVWNuZzE1MTJNSHZGai9Vb2lsWXBwbWlMWndEVWpTQzA9",
+      "http://www.w3.org/1999/xhtml",
+      "i.goopics.net/7vte1k.jpg",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#ZFR0cmVRb2tYSE9FZkd0MkU5d2FMV1NseEZyU2xCNnJOSDZhMnZNdVZWVGhPOGdrWEl5YmJ4UjcweDNNVzkyZnlMRFRWclpiNTJFUmhISGNLUHpuODJUdG81RDlPTkdHUkVSSXRiaVZjb2s9",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap",
+      "https://storage.googleapis.com/redirectsqdhqsdh/redirect.html#M2lBUjNrU3FYVDl0c282ZlJ1eWFqME9ETHdsUmNadHozam5FN1JGMWI1dy81d3h0UHZhWGFkVEJSUEM3YWdiQ2ZHTGFHMzRBWnd3VWMwdHNEckJiZ1NLcUNqN0JWZWhtVXJRYnBqcnprRnc9",
+      "https://i.goopics.net/i1mhwc.png",
+      "https://i.goopics.net/7vte1k.jpg",
+      "i.goopics.net/i1mhwc.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3332,
+    "html_length": 35353,
+    "has_text": true,
+    "has_html": true
+  }
+}

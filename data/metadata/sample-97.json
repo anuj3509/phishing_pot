@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Bloqueio de conta 532543326 - ID YDW6NQYHNY",
+    "from": "\"@Itau digital - [Ultimo Aviso]\" <051137@mca.sendmaster.online>",
+    "to": "phishing@pot",
+    "date": "Mon, 31 Oct 2022 12:00:19 +0000",
+    "message_id": "<c08f450d8c38426e8d96d48c0cd8d720@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_c08f450d8c38426e8d96d48c0cd8d720\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_c08f450d8c38426e8d96d48c0cd8d720\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://atendimentoajudadigital.online"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 4841,
+    "has_text": true,
+    "has_html": true
+  }
+}

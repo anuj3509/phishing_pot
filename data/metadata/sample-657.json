@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "#59277786: PEPE Token Airdrop is Now Live",
+    "from": "PepeBinance <pepe2@o1su91b.onmicrosoft.com>",
+    "to": "\"phishing@pot\" <phishing@pot@hotmail.com>",
+    "date": "Thu, 11 May 2023 15:23:24 +0000",
+    "message_id": "<BN7PR07MB45809F6C524CBF02A4564D2AEE749@BN7PR07MB4580.namprd07.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_759ecf20-f2c7-4977-ba9d-2e237ce3160a_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_759ecf20-f2c7-4977-ba9d-2e237ce3160a_\""
+  },
+  "attachments": [
+    {
+      "filename": "message_v2.rpmsg",
+      "content_type": "application/x-microsoft-rpmsg-message",
+      "size": 19933
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://outlook.live.com/owa/?viewmodel=ReadMessageItem&amp;InternetMessageID=%3cBN7PR07MB45809F6C524CBF02A4564D2AEE749%40BN7PR07MB4580.namprd07.prod.outlook.com%3e",
+      "o1su91b.onmicrosoft.com)",
+      "https://go.microsoft.com/fwlink/p/?linkid=857875",
+      "https://outlook.office365.com/Encryption/lock.png",
+      "https://go.microsoft.com/fwlink/?Linkid=844050"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 276,
+    "html_length": 1994,
+    "has_text": true,
+    "has_html": true
+  }
+}

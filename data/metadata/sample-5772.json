@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Le Bitcoin vaut désormais plus de 100 000 $ et continue d’augmenter ! Investissez maintenant",
+    "from": "Mise à jour cryptographique <Bitcoin-france@map-dynamics.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 13 May 2025 20:01:32 +0000",
+    "message_id": "<010f0196cb3cf822-a44025ea-91a3-4100-a01b-c91c6805d6cd-000000@us-east-2.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://track.groanoke.com/ofc/893627e4-0b5a9bdc-50c1216c-cdfd-f6c3/531037d5-900c87bd-9e4fbfdc-feac-52d4?Subid=4084926053&amp;sub_pubid={btcc}&amp;externalid={btcc}",
+      "RTBFActus.svg",
+      "http://www.w3.org/1999/xhtml",
+      "https://w1ze69ck.r.us-east-2.awstrack.me/I0/010f0196cb3cf822-a44025ea-91a3-4100-a01b-c91c6805d6cd-000000/8_TgzirgOjKwZHUErZZiwWpZU7E=211",
+      "1.jpg",
+      "https://track.groanoke.com/ofc/893627e4-0b5a9bdc-50c1216c-cdfd-f6c3/531037d5-900c87bd-9e4fbfdc-feac-52d4?Subid=4084926053&amp;sub_pubid={btcc}&amp;externalid={btcc})",
+      "https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Rozha+One"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4530,
+    "html_length": 13717,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Urgent Update required on your FAB Account",
+    "from": "FAB <postmaster@mg.adctherapeutics.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 30 May 2023 16:08:27 +0000",
+    "message_id": "<20230530160827.130f42403f6ba30e@mg.adctherapeutics.com>",
+    "content_type": "text/html; charset=ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://online.bankfab.com/PersonalBankingWeb/kyc/lazio1992",
+      "https://firstabudhabibank.qualtrics.com/WRQualtricsControlPanel/File.php?F=F_3TR9zsJ3XVP7BLo",
+      "https://firstabudhabibank.qualtrics.com/ControlPanel/Graphic.php?IM=IM_bPhCqw0JrcP2sV8",
+      "https://www.bankfab.com/en-ae/personal",
+      "https://t.co/ga8fM3VhEX",
+      "https://firstabudhabibank.qualtrics.com/ControlPanel/Graphic.php?IM=IM_cHBSIs9faGlqKOi",
+      "https://survey.bankfab.com/unsubscribe/frs4ia"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1149,
+    "html_length": 24368,
+    "has_text": true,
+    "has_html": true
+  }
+}

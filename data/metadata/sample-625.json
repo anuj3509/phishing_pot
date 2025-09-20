@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Your Ledger Live device suspended",
+    "from": "Ledger Live <feyfihofir@outlook.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 2 May 2023 18:49:42 +0000",
+    "message_id": "\r\n <VE1PR09MB351917962E1AEFA884E50A6FD36F9@VE1PR09MB3519.eurprd09.prod.outlook.com>",
+    "content_type": "multipart/mixed; boundary=\"===============2111705373754274185==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============2111705373754274185==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.avantlink.com/click.php?tt=app&amp;ti=1019&amp;mi=10248&amp;pw=33433&amp;url=//secure%252esilsil%252einfo:00443/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3190,
+    "html_length": 9406,
+    "has_text": true,
+    "has_html": true
+  }
+}

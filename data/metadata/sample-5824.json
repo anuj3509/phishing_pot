@@ -1,0 +1,48 @@
+{
+  "headers": {
+    "subject": "Ensure your wallet’s security",
+    "from": "Exodus <emailmkt@enviaflores.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 27 Jul 2025 13:25:18 +0000",
+    "message_id": "<010101984c0f27ab-e50373c5-89f7-45b8-91de-ff4f366cb9ab-000000@us-west-2.amazonses.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_BF3FCCCD.CD3984E0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"----=_NextPart_000_0012_BF3FCCCD.CD3984E0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1673538823118_B715-800_01GPKAZSAQ3RBG41988F9RWAN2.jpeg",
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1749208331640_footer-background-1900_01JX2F1XGGZ6TRGG7ER0VP6XPG.jpg);",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/twitter@2x.png",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/youtube@2x.png",
+      "https://userimg-bee.customeriomail.com/images/client-env-94233/logo%20change/small-logo-white-rounded-bg.png",
+      "div.fullWidth",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/linkedin@2x.png",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/facebook@2x.png",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/discord@2x.png",
+      "https://app-rsrc.getbee.io/public/resources/social-networks-icon-sets/t-outline-circle-default-gray/instagram@2x.png",
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1749208332633_exodus-devices_01JX2F1YF61F7GX6XXRQ111NMV.png",
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1749206117582_Newsletter_2-1900_01JX2CYBA3GC87PJ6QQ96KR4T5.jpg",
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1673345962366_Newsdrop_1_01GPDK24KA0C5JS831812WFHGY.png",
+      "https://institute.vuf.org/egyptology/supressor",
+      "https://userimg-assets.customeriomail.com/images/client-env-94233/1673538822430_B717-800_01GPKAZRN7HAGJ2X4TE34W3CQX.jpeg",
+      "block.desktop_hide",
+      "https://support-lt.exodus.com/e/o/eyJlbWFpbF9pZCI6ImRnU1o0QVVBQUtDbG1RT2ZwWmtEQVplek9xd1kyTXMxR2h2SkhxSUtTZz09In0="
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7,
+    "html_length": 22462,
+    "has_text": true,
+    "has_html": true
+  }
+}

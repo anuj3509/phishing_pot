@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "❤️ Kan je zo even chatten?",
+    "from": "Wilma Eenink <contact@123gereedschap.nl>",
+    "to": "phishing@pot",
+    "date": "Thu, 29 Sep 2022 00:32:08 +0000",
+    "message_id": "\r\n <ca9b354b-f935-4361-b565-0c8124b4ef6a@VE1EUR03FT021.eop-EUR03.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://safecloud.link/51fdd860-8ce0-4cf6-bf44-e5b29e312bb7/?rdm=H7PyQ1U7eVnY&amp;H7PyQ1U7eVnY=phishing@pot&amp;offerid=09375252",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 460,
+    "html_length": 1273,
+    "has_text": true,
+    "has_html": true
+  }
+}

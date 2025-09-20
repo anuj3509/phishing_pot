@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Sua encomenda foi retido pela fiscaliza����o aduaneira.  Encomenda:334343343. ",
+    "from": "Correios <envio-taxado@alfandega.com.br-correios>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 15 May 2025 00:14:13 +0000",
+    "message_id": "<20250515001413.796373F68E@dodqwdqwdqwddwqdwqxxxdzmx8c9ry7>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://hotm.art/uTsyZDCc"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 693,
+    "html_length": 4820,
+    "has_text": true,
+    "has_html": true
+  }
+}

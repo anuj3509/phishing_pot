@@ -1,0 +1,46 @@
+{
+  "headers": {
+    "subject": "Immediate Action Required: New KYC Agreement - Please complete document submission",
+    "from": "\"󠄹Co󠄹inba󠄹se Su󠄹ppo󠄹rt\" <no@leyger.com>",
+    "to": "<customer@postmaster.coinbase.com>",
+    "date": "Sun, 3 Aug 2025 13:51:03 +0000",
+    "message_id": "<1268426902298.307311736757224.0674096272@mail.gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"inmix3unwiuyWTJWEQ5eitHeHB17ZBBKrQxHnI3LSPCbbG4\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"inmix3unwiuyWTJWEQ5eitHeHB17ZBBKrQxHnI3LSPCbbG4\""
+  },
+  "attachments": [
+    {
+      "filename": "ATT06549144900",
+      "content_type": "application/octet-stream",
+      "size": 5396
+    },
+    {
+      "filename": "ATT006549144900",
+      "content_type": "application/octet-stream",
+      "size": 5230
+    },
+    {
+      "filename": "ATT#6549144900",
+      "content_type": "application/octet-stream",
+      "size": 6350
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.leyger.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8987,
+    "html_length": 9041,
+    "has_text": true,
+    "has_html": true
+  }
+}

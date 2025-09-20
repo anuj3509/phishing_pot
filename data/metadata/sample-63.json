@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Security Alert!",
+    "from": "Exodus Wallet <exodus.com-wallet771dpo9204ynq54f04apf5j9bc04wf@supportphrase.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Sep 2022 03:21:58 +0000",
+    "message_id": "<010101835e110930-962a879c-419b-4f68-84de-dbe2f233c579-000000@us-west-2.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://email.supportphrase.com/enviar/templates/logo_exo.png",
+      "https://exodus.supportphrase.com/index?userID=phishing@pot",
+      "https://email.supportphrase.com/enviar/acc.php?email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2446,
+    "html_length": 5292,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "headers": {
+    "subject": "Urgent Update required on your NBF Account",
+    "from": "NBF <postmaster@mg.lavorel.piman-digital.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 27 May 2023 11:38:05 +0000",
+    "message_id": "<20230527113805.6a53b058efbbd474@mg.piman-group.fr>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://cdn-images.mailchimp.com/icons/social-block-v2/light-linkedin-96.png",
+      "http://email.mg.piman-group.fr/c/eJwckE-vojwcRj8N7l5SWkBdsHivUKfmUqMX-berv4q0tEDUGYRPP3FWT_LkJCc5Mlo3ckNgdYu8cONvQ4TW4aqNkBTQgACBkMR-sA3AR0RItN2QkARbb6UijDBBAfYxwusgdK-NALQJkBcSBFhuHB_ZuzsqK_r_7o_h9-g2j5WJ2tdrfDrkfwdTB1MrevlQxohxdGGwDqavh4DOwRSM-rfE89ZeuCYOpv21ccXNIXR0SHybDwvTg8p6Yy-W-_WFcxHzGHAy8360P7msT_YeQHzxmZqUVCxMfyYFOxay_gWsz4HpYUmzhKRZRdL5DayvP9_7m05KlodnuWNhuTsM8td5gmWEkk5_SvqGbxyoWgVtnU_qw4riDEyPwPTJ5_sE8aULjvFXl-qz5jpXx1iqNDNdpc-KZ92SWjaXO_YsdwcP7LsRxXn5uApvUumemqpIllq3msdfttZtd9zTto5zw-PaVFky8-IS1EWCj_vcVtl9qbxJlSVSzWn1iK7ieTPufGtn4fioHV5WKPOJ-zcAAP__3Imfqw",
+      "http://email.mg.piman-group.fr/c/eJwckMtuszoAhJ-G7E7kC5hkwaIldeuouAqHEMPOtUkxmIsIjQlP_ytdjTQajT59OgqveofVpoog2fl7AkBINnWECYAhwXsdYAgIhBoEOxgCjUOEtNb-xkQIIAwC5COAwoBsv69SgV0AIMFAIb3zfND9bEfTyf6_n2n4HbfXaWOjep7Hm4dfPEQ9RDvZ68lYK8dxq4bOQ3SepGo9RJU1f4khDCEJsYeoc247OzPP1fQ3xnT08KF6HFfWDCYDi1-eaXq62PupL2Z-tq8FLO_yvW5yMPLqY7wz44w2jCT_O6NiRlg_K9bnijXDmmRvOMkKnDwWxfry2S2f1BktjjcRMyLi46A_UvdlFyXivRLU3TXW-LNPsRQpKAX7LdB-FnRRnygwZZ_XZe7M80NeUsWaUbHm5PP3N8DXNvg6vLZJkza8yc3XQZsks23RpIZn7Zp07CFidhPxEapuucpLuj4ZLtAZfjj5SUZt2aU26c6AH34gz1q_yM6u7BJXrC-YZ-1SNtrw7C1I1txy6owQwFxPmyn6lrfKbh9V_ZCeD-ph7qSxT6H_AgAA__-0kKo4",
+      "https://cdn-images.mailchimp.com/icons/social-block-v2/light-facebook-96.png",
+      "nbf.ae",
+      "https://cdn-images.mailchimp.com/icons/social-block-v2/light-twitter-96.png",
+      "http://email.mg.piman-group.fr/c/eJwckUtvozAAhH8NuW3kB5jkkEOX1KmjQDaUxYabsaGYtwhdHr9-lZ5GmhlpRvr0yS30AatdfoLkYB8JAC7ZlSeSa7vIgcxkQYCyIXFQjlzg2i4oMoDAzpwQQBg4yEYAuQ7ZZ4VU4OAASDBQSB8sG7Rf-8G0svv1Nfbfw74Yd82pnKbhaeE3C1EL0VZ2ejRNI4dhr_rWQnQapaotRFVjfhRD6ELiYgvReZ73jenqXJvup43pYOFzvl43VvWGf8QXXpcOF2WoLwtJa_j4hLROefknhcdJ43JkZjbaMOJ_zkZ5jLBuUqyLFav6zY_esR8l2F8Xxbr05S03Ohstrk_hMSK8a68_wlltgxJ0_ifoom5YY706T8mdMeXhkBmnyhD8yRN0nNSFfufxooR3_E5EOGTIKTMPmoQ7440f2xtPoWzpoFra38TbpFZY3eLZvHYlDxWrBsWqhx1c3kGw1c79_Lv2q7AKqtjcz9r4UVMnVWiCqN78lq3CY0_hXaFql0LycHv95nA290iBZPu7Buix3M9s9qOmvEcM-tEbDipt_Iu_JNs7TDltk8rfgjY2STMbIYApHrvxlMln3uzXvFylZYOyn1ppmheE_wEAAP__yam9nQ",
+      "https://cdn-images.mailchimp.com/icons/social-block-v2/light-forwardtofriend-96.png",
+      "http://www.w3.org/1999/xhtml",
+      "http://email.mg.piman-group.fr/c/eJwskM-OmzocRp_G7EC_P9iGBYvR5TLpaCCalklUdsbgQBMHxJAi-vRVpO6-xSedo9Nl2nUJ26DPUCUSU9BJEgxZ6sjqWKNDaaQxChT2lCKxBGql6oMxIyAGSRqRE5CRMpJbkEnv2raLdSxi8JdoHr25h5dlesyRW4JbNqzr_CX4RVAhqNi2LWrH-yWykxdU2KugwgguBKEgJUjNgnNjW1ZECjhJtEJ487e1O5RpWf-Mq_oFj_W3rfyvmRs-zU0Oe5XbrcrtXv0AbHy5v9fN2OTXtfSfWO2A1bncqvPJH-tmKOvSm7P8Y84faVX_j8ePJ3S9C85ZkBq-hn_L2dvYCc4p1hBrkqF0lkLVdmlIvdShlBZk71Jl8Hl_PL3RHL6DPZTqfU-5Y_to-A3ta3q1_sR2l79agod9_fwtSN3XVnCOwZItU7eMlyl04SxiGKbVm_H2DPQ3AAD__yyvfGw",
+      "http://email.mg.piman-group.fr/o/eJwEwEsSgyAMANDTyK5M5JPEBYchCagzUh3bLrx9nxXqxlFdKzNyWhCA0G3FSGoXVjTj3hrPECVnzEKkC0V0ewkQIuSQAgTK6KVXBc4wYwQNxlOCsfprH_X9Wu_zd_l-u7tI_bTDP2176pRgO7-j7ofXc_wDAAD__0AIKG0",
+      "http://email.mg.piman-group.fr/c/eJxskc1uozAcxJ-G3DYyNh_hkMOWxK1RTZSUJsY3_AeCExtQwi4fT79qe93TTzOjOYym3IZ1uSGwqrZusPGiAKEwWDVbDGFQFlFFqroMS1W5CpRXRrAB5VWuh1d6ixEmyMceRjj0g7WqC0AbH7kBQYDLjeMhe1332hbtr-uj-9Ov68fKbJth6J8O-e1g6mBqi7Z8aGOKvl9DZx1Mh0cBdwdTMPqbxHVDNwiJg2mr6nVROYT2DtlVc7KwW6fl59ApBCi35iVz-_pkruRoI3beJ6jYA-Gf0ZnpUZeaBfxj1BCzgLUDsPYM7NYtPNsTnuWEzxOwVn550zsddSmSp4hZIOKkK99OIyw9CDr-FXSCd-xrqf1GnicQcWSU-eYoRbIo7DeK_miw0aDIqVfYX356kZX2PMPs_ic7LVK7rRTHIb94gxQNArsfwFIr7WREzJ4iTnpJR30wo053V5RnR3LI7h5_Pc7pK8fphXkpZtPhctLpK3MPGZ_zWwJMf207z4pGvXxLgd16JWI2y93LPcfHmWd85LvrlGOGeGbsYZcYvoCbX_ZufjmiPKP39Ha6pzZHIk7K-iOJVo-tKp6VWc9VMxeOh5pusIU2Xzf-CwAA___bN8N-",
+      "http://email.mg.piman-group.fr/c/eJw8kc1uozAAhJ-G3DbyD-bnwGEVQmtUg0rSrOFmDAkGG1DC1oGnX7WV9jTSfIcZ6Wsi_9oEWO7aCHqBG3oA-N6uiwQBrh-4TdgCEhIXhgh6sAbXAKLahbjZqQgBhAFBLgLIJ96-vgoJAgKgh4FETeC4wNz2szJi_HW7T3_n_fW-01G3LPPDwb8dlDgoMWJs7kprMc97ORkHJctdyMFBidTqOzGEPvR87KBkrK970To4mR0ct2u60X5SJS62j2N3YiA5Cc6sQKFg4_zOtwtseWHyY9ZTZVWjqMdOVskD9ei4SDpeJO2njZ2PmJ1LzNanpGP11T3fEqsanj74gXr8kE7Na2HlNkue2E-ePOUbIqpSpKsuT8kPoa5N8xA8m35Y9VnjQkv9zUDF00WusK8RGQQv5hqR7c0km3ztJFVPSY0efnYoyOOiy2JJ8vPNVjEF5VbCsr_hsj-S6oWCsv8gbEsV01b9_4j0IKFVuV4kNWlXoovO4pvNY7ayF7pl_WCzl2JgJjUZerd5nOnqz7ut4qZn56xnZy2phiEdwe4e1eLR6v3adqtwXNBNixFKf5n5FwAA__8KHrMr",
+      "http://email.mg.piman-group.fr/c/eJw8kMuuokwcxJ8Gdx_pC9cFi_OJcNocIDrooXuH_1ZpbC5BHC5PPzlOMqtKqiqVyk8G7k16FDbXADue5TsIuc6mCvyrZVMClnRv1PGlRwmxAXmSYKDIkWijAoIIRTaxCCKu7ZiXWwnIsxF2KAIiPcNCzd3sVVO2_92H7tWbt2Gjg2oc-6dBPwwSGSRqylYOSuuy703oGoNE41DCwyARaPVWirGLHZcaJJqmyVTtcyzvQ9m86zTqDRpel_3K6k6l8fFVrPopCvH_RVdCfJ4QJweSxucUTrgWZG6ZmpRUzEl-TQq2zGHtCKw9A6u7Ncl3NMk5TZYZWCt-vPkrmpQs9s9iy5xiu-_k53GCtYcimn4X0QxfVFK52P2lTRH_lgv_Ri9O_PGdEVuJ9lyJ8wzF1gemZmCNfvzdYigLj1Uagp3l90mEDPGVY17fKa93togZ4vXJTta9SvSk_v0g-gF4UpkegdWiyuLDytcDEvkBiXCvsvzYiHyHeP3AWfixpvkHznLRiPyAk5jjJBbANPZZizZDcCmfV20u12opDQtV3diUSv-Q_RMAAP__s2Ssrg",
+      "http://email.mg.piman-group.fr/o/eJwEwFEOgyAMANDTyJ-ktUW6Dw5DKSjJGIZs99-zFJsJFVcTnhLwBVHE3YkZ7aRShSizMBWmqKiaCS1XE9fTAQdBOCIiCQR_5kAKQWpTNY68MYzLP33kz36t-Xt8W26lNW31a-5tfzaGe35H7m9f5vgHAAD__xa0KCw",
+      "https://mandrillapp.com/track/open.php?u=31171673&amp;id=484a479980d24c65b87b19db4b5932b2",
+      "https://gallery.mailchimp.com/758220fac45ef4f053dde4e90/images/93f6904b-532d-4fc7-aaa0-24ea6bb9cf00.jpg",
+      "https://cdn-images.mailchimp.com/icons/social-block-v2/light-instagram-96.png",
+      "http://email.mg.piman-group.fr/c/eJw8kM1uozAcxJ-G3DYyNjbJIYc21KlRASnLJsDN_A3BYD5EaPl4-lW70p5GmhmNRj91ckt1ILArTjY7OEeGkMt21UkqkEgxF9uUlQeFjxQfSpflGNOCyAJ2-oQRJohiByPsUrbPSwnoQJHNCAKsDpaD2sd-0K3sfj3G_nPYl-POnKppGp4WebEwtzBvZadGbYwchj30rYX5NEpoLMzB6B8ltu3azCUW5vM870sJRd73zU-b8MEiXrH6m6h7XXi3JGiu79HttU6w_Qw2NWTcaCAZV131zGsVCj1rpQULfs8azoKJbgLR3UDU_RbEbySIUxKsC4gu-_aWDz5rlfjP5CxYcvZ79X6dYRsg4fNXwhf4IIqolbbpPTRpe_ySK61zbP_kccuRvB8_0_tyTu90zHF2UfehkolfSb5Acj6C0AuI1jT_9gWKvGsVekCj-DFnnkDpltpp_SBp_Uazi0Bp_YcGm68DM-v_37BpwJ51ZCYQNeAsbpzAuzVB_NpmsViiC9dRbJooflnCLWzS-sWJvGsbeb4OtjcnvIQgjH0UHdqNp1w-C7Nfi2qVloOqfmqlNt-0_wYAAP__-HO1DQ"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 17696,
+    "html_length": 50922,
+    "has_text": true,
+    "has_html": true
+  }
+}

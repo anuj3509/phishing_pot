@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Rodrigo-f-p , Urgent: Account Verification Required",
+    "from": "Team TrustWallAuth <support@mrkqqzoq.zendesk.com>",
+    "to": "Rodrigo-f-p <phishing@pot>",
+    "date": "Mon, 17 Jul 2023 14:22:16 +0000",
+    "message_id": "<J0WJ171Z7EN_64b54e98b382d_3939f8259858_sprut@zendesk.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64b54e98d321f_3939f825996c\";\r\n charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"--==_mimepart_64b54e98d321f_3939f825996c\";\r\n charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg)",
+      "https://backend.growthdot.com/reply-after-this/798933_12547958014226.gif",
+      "https://media.smooch.io/apps/5ffee51aa22404000cf925c5/conversations/c2e061a57753967a4b94b7db/nViPDSEQPi_uzfpvYM5rPWVZ/trust-wallet4005.jpg",
+      "https://u596767.ct.sendgrid.net/ls/click?upn=CGG4ss1Ki07JITUiwKP-2FcX8-2BuZcsDkVG8-2FD5fd87mTxvTd9khS2YkFQtVlWypaNpaPHi_470gekIA5U1PugZ-2F-2BY9Ap-2BwpyY5X2yg5Ad6hN-2FqfBiqN931kjHlsy6rJYxS5jspLa8rLhKEDdVy2nLWQkzKxyTIxKUekHJf-2FsQi0Q6QjfAGFh9a6PJJlNz1wAltdRCYKUHjoIe6fpECAcVgDJooV5KMbsmD310xYN0i95h0xTqg5jcQK9TU18-2FAjmAY5K4KT2mfOZocyVp1gsxl8LAGfrA-3D-3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 782,
+    "html_length": 1865,
+    "has_text": true,
+    "has_html": true
+  }
+}

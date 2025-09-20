@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "Reminder: Please Confirm Your Billing Details on Fri, August 15, 2025",
+    "from": "\"M󠄹󠄹ic󠄹󠄹r󠄹󠄹o󠄹󠄹s󠄹󠄹o󠄹󠄹f󠄹󠄹t Of󠄹󠄹fic󠄹󠄹e B󠄹󠄹il󠄹󠄹li󠄹󠄹ng\" <ke@milestonexpo.com>",
+    "to": "<customer.IIht7@updates.xfinity.com>",
+    "date": "Fri, 15 Aug 2025 12:32:40 +0000",
+    "message_id": "<7615218112288.232318338073026.0441672427.222966415585@mail.gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"inmixQdhbQbt8HA49iYaRCXIyqtvv77GyLxujdBnKyO64\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"inmixQdhbQbt8HA49iYaRCXIyqtvv77GyLxujdBnKyO64\""
+  },
+  "attachments": [
+    {
+      "filename": "ATT02677974828",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "ATT002677974828",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "ATT#2677974828",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com",
+      "https://www.milestonexpo.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 7462,
+    "html_length": 7503,
+    "has_text": true,
+    "has_html": true
+  }
+}

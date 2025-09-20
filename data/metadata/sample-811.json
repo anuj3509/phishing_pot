@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Extrato - Pontos Fidelidade",
+    "from": "Banco Bradesco <sac@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Jun 2023 19:07:53 -0400",
+    "message_id": "<07bdb820617bed34eca88dbe3b5de4e8@aaabreakingwind.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_07bdb820617bed34eca88dbe3b5de4e8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_07bdb820617bed34eca88dbe3b5de4e8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "P.western",
+      "https://banco.bradesco/assets/classic/img/produtos-servicos/capitalizacao/710x240_Banner_Club_Vantagens.png",
+      "https://funnyrx.com/home/acesso/?hash=rodrigo-f-p@hotmail.com?new",
+      "OpenOffice.org"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2263,
+    "html_length": 3387,
+    "has_text": true,
+    "has_html": true
+  }
+}

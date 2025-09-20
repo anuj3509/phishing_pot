@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Payment Report - 888713-7654-253",
+    "from": "Support <phishing@pot@463719584197083889.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 29 Sep 2022 13:00:40 +0000",
+    "message_id": "\r\n <DM8PR06MB77834EAF6801E6F218C2411785579@DM8PR06MB7783.namprd06.prod.outlook.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "Quoted-Printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "div.hide_section_on_mobile",
+      "http://www.w3.org/1999/xhtml",
+      "hotmail.com."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8315,
+    "html_length": 135455,
+    "has_text": true,
+    "has_html": true
+  }
+}

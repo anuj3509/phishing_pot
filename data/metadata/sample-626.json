@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "Your new user agreement. Mon 01 May 2023",
+    "from": "Support aᥴcount team <noreply@crous-montpellier.fr>",
+    "to": "phishing@pot",
+    "date": "Mon, 1 May 2023 13:41:24 +0700",
+    "message_id": "\r\n <AS8P191MB15597F54F4759D662821F1D1956E9@AS8P191MB1559.EURP191.PROD.OUTLOOK.COM>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.amazon.com/gp/r.html?C=1GDZONJ9HF37K&amp;K=1W6BUU5JL5PF6&amp;M=urn:rtn:msg:2023032517241303e49798bb46480996c09a199d70p0na&amp;R=1ADQ26GFX3KY5&amp;T=E&amp;U=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&amp;H=IASL7V9FLRAR7L15KAQEMMNTLMOA&amp;ref_=pe_386300_440135490_open",
+      "http://g-ec2.images-amazon.com/images/G/01/x-locale/cs/te/MagicPixel._V319790361_.png",
+      "https://www.amazon.com/gp/r.html?C=1GDZONJ9HF37K&amp;K=1W6BUU5JL5PF6&amp;M=urn:rtn:msg:2023032517241303e49798bb46480996c09a199d70p0na&amp;R=3VDTCS9ZBPPX0&amp;T=C&amp;U=https%3A%2F%2Fwww.amazon.com%2Fref%3Dpe_386300_440135490_TE_simp_&amp;H=MPKCPT0IX5JUXSRQAY3OAAKEUGUA&amp;ref_=pe_386300_440135490_TE_simp_",
+      "https://www.amazon.com/gp/r.html?C=1GDZONJ9HF37K&amp;K=1W6BUU5JL5PF6&amp;M=urn:rtn:msg:2023032517241303e49798bb46480996c09a199d70p0na&amp;R=1KVZ2IGY18RWT&amp;T=O&amp;U=https%3A%2F%2Fimages-na.ssl-images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&amp;H=TIBESWSIKWH7HWHWHPJZZ2DRVA8A&amp;ref_=pe_386300_440135490_opens",
+      ".button.secondary",
+      "https://pixelfy.me/useragreement?trackingid=pHRG3bX6y89oqM&amp;signature=newsletter",
+      "https://www.w3.org/1999/xhtml",
+      "Amazon.com",
+      "td.left",
+      "http://image.email2.office.com/lib/fe8f1372766502797c/m/1/Microsoft_Logo.png",
+      ".button.small",
+      "td.recs",
+      "td.right"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 10263,
+    "html_length": 15744,
+    "has_text": true,
+    "has_html": true
+  }
+}

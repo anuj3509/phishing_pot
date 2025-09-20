@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Todas as passagens aereas com 50% de desconto no prazo de 72 horas!",
+    "from": "123Milhas <desconto123milhas@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 20 Jun 2023 19:08:12 +0200 (CEST)",
+    "message_id": "<20230620170812.0C5DD2066C@recsv05>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://123milhas.com/consultar-destinos",
+      "https://xn--b-123milhas-xbazskd3dq-uc.a.run.app/?bra=cm9kcmlnby1mLXBAaG90bWFpbC5jb20K",
+      "https://www.google.com/url?q=https://click.mercadopago.entregaemail.com/lqqsvn/XmiuiRLr&amp;source=gmail&amp;ust=1685031372324000&amp;usg=AOvVaw1y7rnWQZoO_Q4TvSj0ETBo",
+      "https://www.123milhas.com/50off",
+      "https://www.123milhas.com/consultar-destinos",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 404,
+    "html_length": 7577,
+    "has_text": true,
+    "has_html": true
+  }
+}

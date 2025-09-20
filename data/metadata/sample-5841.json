@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Security Notice – Recent Data Exposure Detected",
+    "from": "Ledger <ledger@pacificprepservices.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 28 Aug 2025 10:26:55 +0000",
+    "message_id": "<6843a2dd-b524-4650-8103-de47f6931920@mtasv.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://incident-update.s3.eu-north-1.amazonaws.com/recover.html",
+      "https://incident-update.s3.eu-north-1.amazonaws.com/logo-ldg.png",
+      "https://subscriptions.pstmrk.it/unsubscribe?m=1.gTUWRpCHi2O3K5aH_EEJSA.mx7RsJtVURQemGrc_bz1f5ChFRjPCu0KT_0-MtTsW-wjx--oj4tSHWOGNFf536ofHEIGgaHiRsJoxwH9rODqpMjuW60pMUNlETqQ-tIi4Wb183yWmKmmN0X878fBDJCmHUTPz_hVmRao-QSBz2_nLRK6HTmv3LpJHaFSRxqx6igw75-m3orKcNh5DpuWDYaDTFtAnG6o8EOFDT0_VnGnQo0qbfDECkFb_K8zjugOqyIgwFRIeuIDLgqNTQJaUuhtGByrO5gz1bu8GcIRUwGBY5f8hdzpLKn7yb55sYAv0wt5Hf5QuPufKimsesIycXYeN1gy2HYyDmNWUZ2C7o7-JhcTThZX9L--YpFpdTk3fo8eAIcdxoPeXdxHbw2u_iopR_L33DqOEyF6DVevXrTfGt1GLAmpHo__DaMvb7u5zr77xV_BNMeAk_VLleNEzXxAEtyqFfh0giFUOxlTjob9flI2USOYZ051IJMR3qIFZBiSSTwyFDubiOe3TXQVSBcDBnJ3xoH97HGGqaOAGLs89cUC0ymkPo_AHUI32LbzsnKRHbIlMB0tq0H5npwRgYv3KNBej_F8L-Y8qZET-Ta7sodJJMFQJgxiP3z8eGj3Sek",
+      "https://ea.pstmrk.it/open?m=v3_1.Yg9pmNjjn9itSOHwT7KV9g.OuyTCDEC0ErPgYkjWgMI0BztiaOJ8lViYKoU-kAwXzv_1FULLThnnUwSVSm6rUknOoYhZUz6pGC7ynKIBqHqLCBLYxvD9nqAZyd5zdLtavoxS7Tqku18adwV9nlpP9AJHJr28rb1QBZ_PyAa1O3oOB13XIg5VDBltPsxRkjfW8Y4lbnWp0Uc9lu6Zz3tcP-a6VctKBpvcHY276E_wEZUxEVMfWL7hwv3Aoh9jGxM9XnSC8m7hoYsRpgU-ucpNmCOanD-n2vlouUu0iEHIIdTC8AdbJGN0eRPvAzq4LsrfXgQGqeew_XgAtSXkYIqBVFIgJKl3n0xvj3S0YQ9BJduVBcl7i7EHbEOyHoFNK7k9iVJxRtu9cQzBerva5wIZdg3hVBjMN4J7ACthahJL0HSJm6PPu2gRF3o3V0zsRBxwo22eBGj9h1vtRdrD4V3ktnGFbD6Tn1sK3ctK5XlDHTBbn4qinGJj6z7ZKbbqcEmBZP4B1UsHqH7d_vQ7f0TWJpD4Ll1qXWSpEOPYJ5MGJ5Lz-dmS-u-QYyiFfmikC4eRng"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1414,
+    "html_length": 6611,
+    "has_text": true,
+    "has_html": true
+  }
+}

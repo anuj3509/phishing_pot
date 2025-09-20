@@ -1,0 +1,43 @@
+{
+  "headers": {
+    "subject": "phishing@pot, Limited-Time Offer: Free Medicare Kit for United Healthcare Members!",
+    "from": "Your United Healthcare Team <noreply@info,boots,com>",
+    "to": "phishing@pot",
+    "date": "Thu, 22 May 2025 17:43:06 +0000",
+    "message_id": "<426281418460144.4.JON5336009997@info.boots.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "zupimages.net/up/24/52/togt.png",
+      "11079a62d2bae165dc53807d63dc1707.jpg",
+      "zupimages.net/up/24/46/3o7f.png",
+      "http://vbCIQusCl6f8OEhmxMVhvbCIQ.urbanabode.quest/4vbCIQ217460sPFd1200iawmwvvyzi26691KKNJZHYJTEUUFZB316412/6330O28",
+      "http://urbanabode.quest/4vbCIQ217460sPFd1200iawmwvvyzi26691KKNJZHYJTEUUFZB316412/6330O28",
+      "zupimages.net/up/24/46/b5yl.jpg",
+      "http://www.w3.org/2000/svg",
+      "http://SymXSCesxeAnNzMusCl6f8OEhmxMVhSymXSCesxeAnNzM.urbanabode.quest/track/3vbCIQ217460sPFd1200iawmwvvyzi26691KKNJZHYJTEUUFZB316412/6330O28",
+      "zupimages.net/up/24/29/q0q3.png",
+      "http://vbCIQusCl6f8OEhmxMVhvbCIQusCl6f8OEhmxMVhvbCIQ.urbanabode.quest/5vbCIQ217460sPFd1200iawmwvvyzi26691KKNJZHYJTEUUFZB316412/6330O28",
+      "http://vbCIQusCl6f8OEhmxMVhvbCIQusCl6f8OEhmxMVhvbCIQ.urbanabode.quest/6vbCIQ217460sPFd1200iawmwvvyzi26691KKNJZHYJTEUUFZB316412/6330O28",
+      "zupimages.net/up/24/46/8foy.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3608,
+    "html_length": 13441,
+    "has_text": true,
+    "has_html": true
+  }
+}

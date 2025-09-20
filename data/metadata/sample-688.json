@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "+29284$ will be cancelled in 24 hours",
+    "from": "Oralia Miltenberger <rexajiko@gmail.com>",
+    "to": "hulkksa@gmail.com, rudolfzwergel@gmail.com",
+    "date": "Sat, 20 May 2023 07:18:11 -0400",
+    "message_id": "<CAOPQoxPeE5tw6XrvM035fkOHM+wZPFTfD37qqQ35ObSmCjNF1g@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000007d327e05fc1e31be\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000007d327e05fc1e31be\""
+  },
+  "attachments": [
+    {
+      "filename": "Accounts_with_a_balance_of_15%2C521%24_will_be_blocked-6823.pdf",
+      "content_type": "application/pdf",
+      "size": 218148
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "act now"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 400,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

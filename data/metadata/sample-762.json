@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Important: New regulations",
+    "from": "Ledger Iive © <202102029953@alunos.estacio.br>",
+    "to": "phishing@pot",
+    "date": "Wed, 07 Jun 2023 02:56:56 +0200",
+    "message_id": "<GB3T3X125KU4.OYHULAQWUOTZ1@smtp.office365.com>",
+    "content_type": "multipart/alternative; boundary=\"=-r/rS7YQ04qXwFFurb1xznA==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"=-r/rS7YQ04qXwFFurb1xznA==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://www.w3.org/1999/xhtml",
+      "http://forwarders.giaxiangsteamboat.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1198,
+    "html_length": 13749,
+    "has_text": true,
+    "has_html": true
+  }
+}

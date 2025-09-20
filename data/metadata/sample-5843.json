@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "US$15,800,000.00USD Donation funds from Ms. Alice Louise Walton:",
+    "from": "\"Ms. Alice Walton\" <d-nozaki@air.linkclub.or.jp>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sun, 17 Aug 2025 01:27:23 +0100",
+    "message_id": "<81236987e7ad8be6afe1152418eded81@d-nozaki@air.linkclub.or.jp>",
+    "content_type": "text/plain; charset=\"US-ASCII\"; format=flowed"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain; charset=\"US-ASCII\"; format=flowed"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://en.wikipedia.org/wiki/Alice_Walton",
+      "ms.alicelouisewaltonofficial@gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1201,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

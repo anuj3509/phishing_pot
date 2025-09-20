@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Fw: KIND ATTENTION",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Mon, 8 May 2023 20:24:02 +0000",
+    "message_id": "\r\n <SA0PR04MB7370903CE083EDB00CFBA144B3719@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370903CE083EDB00CFBA144B3719SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB7370903CE083EDB00CFBA144B3719SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com)",
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3519,
+    "html_length": 4101,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Livelo Prime - BRADESCO LIVELO: Seu cart��o tem 92.990 pontos LIVELO expirando hoje!",
+    "from": "ATENDIMENTO LIVELO BRADESCO<banco.bradesco@atendimento.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 13 Jul 2023 15:33:40 +0000 (UTC)",
+    "message_id": "<20230713153340.3328941763@ubuntu-s-1vcpu-1gb-intel-blr1-01>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "icone-superior.png",
+      "https://atendimentospremioptop.me/",
+      "header.png",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 744,
+    "html_length": 4903,
+    "has_text": true,
+    "has_html": true
+  }
+}

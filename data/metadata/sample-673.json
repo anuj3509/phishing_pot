@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Accounts with a balance of +16.897$ will be blocked!",
+    "from": "Joie Rancifer <joleyaxu@gmail.com>",
+    "to": "sonerbes@hotmail.com",
+    "date": "Wed, 17 May 2023 16:50:31 -0400",
+    "message_id": "<CAPAU-PDdK8YrRs8FSo=92Lvd6=nSSh-xUHnX+8M_mkr-MgQGUQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000cb3e6e05fbe9d63c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000cb3e6e05fbe9d63c\""
+  },
+  "attachments": [
+    {
+      "filename": "Active_BTC_Balance_0.7495_Bitcoingjzs1AbRcP.pdf",
+      "content_type": "application/pdf",
+      "size": 56817
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 458,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

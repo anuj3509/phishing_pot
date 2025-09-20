@@ -1,0 +1,54 @@
+{
+  "headers": {
+    "subject": "Yօur Ԝallеt is tеmpօrarily Suspendеd!",
+    "from": "MetaMask <metahelp@service.esv.info>",
+    "to": "phishing@pot",
+    "date": "Tue, 25 Jul 2023 21:00:53 +0200 (CEST)",
+    "message_id": "<5rrpbh.lkinwzbr614uywl@service.esv.info>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://s3-eu-west-1.amazonaws.com/ecomail-assets/editor/social-icos/outlinedbw/instagram.png",
+      "https://fonts.googleapis.com/css?family=Lato:400,700",
+      "https://service.esv.info/re?l=D0I1qvakxlIhi814acI0ITlkinwwcn&amp;s=LNIAFNIALKNADGEN&amp;req=%2Fphishing@pot%40hotmail.com",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://s3-eu-west-1.amazonaws.com/ecomail-assets/editor/social-icos/outlinedbw/facebook.png",
+      "http://www.w3.org/1999/xhtml",
+      "table.full-width-mobile",
+      "https://service.esv.info/re?l=D0I1qvakxlIhi814acI3ITlkinwwcn&amp;s=LNIAFNIALKNADGEN",
+      "https://service.esv.info/re?l=D0I1qvakxlIhi814acI1ITlkinwwcn&amp;s=LNIAFNIALKNADGEN",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);",
+      "https://service.esv.info/re?l=D0I1qvakxlIhi814acI2ITlkinwwcn&amp;s=LNIAFNIALKNADGEN",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700",
+      "https://ci3.googleusercontent.com/proxy/0yoQk8_5pBr6apWWQp4eTtcCXqKYef7BhMnF7jj7lI_URjffO-ADX5xvX2RbA_GWHkNUNhccXCcHb8ZXJ1PAebbpGnPms2GihulQ_6pmUiM_b6Kc9_5REt35j0LTxaeMJwGa__T4oUteNn4uZOzjbCDr6b-vpmCj_ihAuGVEr9Vhypk_7i5IBHyrvfqNpQ0JyeIj4vPZ6jzCPpCgm_HXaQOIoNg3K_9QnJQ=s0-d-e1-ft#https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/9f580ca418154d088cd87adad5f0a439/62e777ae33adf.png",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Lato:400,700);",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://s3-eu-west-1.amazonaws.com/ecomail-assets/editor/social-icos/outlinedbw/twitter.png",
+      "https://img.anpdm.com/Forever_Living_Products/photo-2023-03-22-19-33-36.png",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700);",
+      "https://service.esv.info/tr/p.gif?uid=38107180020&amp;mid=3801464697&amp;msd=1690311576207&amp;s=MFEABEECDLNNOIJF&amp;st=0",
+      "div.hide_section_on_mobile",
+      "td.full-width-mobile"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3461,
+    "html_length": 18791,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Alerta de seguranca: houve um acesso de um novo dispositivo na sua conta. Protocolo: 689320153",
+    "from": "Mercado Pago <Mplogin@mercadopagoberssl.xyz>",
+    "to": "phishing@pot",
+    "date": "Mon,  3 Oct 2022 16:17:43 +0300 (MSK)",
+    "message_id": "<20221003131743.1FA8BA64D1@mercadopagoberssl.xyz>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.mercadopago.com.br",
+      "https://u9647731.ct.sendgrid.net/wf/open?upn=h3EYRiceYmcE2w0m2fAsUTxwCrEdA2-2FPUE9BXzRqeJEXSk6pD0nzjJvm13Eb5c-2BYona8AwZZKUcUElC-2FutFq7EWRuVC0agJkvoO42hotQPkTMwQdptsGp4FWhWHx8bHepEtO7jl7Wv1nZ-2F7sB8PUeJD-2Fih9oIX3Mg0HmdpPA7N-2Be95WZ8-2BvcdmobxQPVR3z39To41I-2BWEIEYii0xWFJUL33bSHKIoSmPWOvX2BqfGis09DGgwO6hXzN5bG9s4jqnVq5H4eZDyqt-2BwteIWn3Fh1FZW8I-2FfJjNhZ9m2ad1TTz-2FoYoZvTMHG04vwyZylxa3-2F6oaUiXSPg6F2T4NWTuhKkCmoCWoBle2PtwmQN-2FBsWAXtyp0vl6x6jZKbut7HtZr-2BHQKCh5oXvDD2hznhV8YZ-2Bo3bmV4GXjYJIRMsbhoPvu7Bppv1yD7PzwGuiWMVJyIF2XSiAZhGw4SSJdO0fSDXVBZ1J10rAfdsMh-2B0TuXAO1wj-2F-2FQDCLqTFMrM-2Fxm-2BB8erOwubhPPRLDuw0q4-2FaMgn26zPPLCbnQ2Tu7vfUFymxn8yEn-2Buqav6hnNhLY281RCAuD1qCrlK6hosfAvilP9B5kxtCzd6zq5DSgTWC3LSUL3NVmCvqDA-2BD1tftEeWkjTx-2B2-2B87eA3IMlb-2F3XV-2F7JO1svB1YTkHxTbLwqCBimHqj1RnXxOQ0D9bjEPiuFwqPDWheAO2vegLXmNwPz7byEXA-3D-3D",
+      "https://i.postimg.cc/7L68Mhcn/mplogo22-removebg-preview.png",
+      "https://us-east1-clean-algebra-356021.cloudfunctions.net/fivetre",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 421,
+    "html_length": 11393,
+    "has_text": true,
+    "has_html": true
+  }
+}

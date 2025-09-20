@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot Kritisch: ��berpr��fen Sie jetzt Ihre Daten",
+    "from": "Bauhaus<migo0001---E036@disdik.sinjaikab.go.id>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 26 Jun 2025 14:36:16 +0000",
+    "message_id": "<5kpw9oawh2m07cu47lis-EBEB2522C8@musicandfriends.org>",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://amr.maed.free.nf/rd/c6036HffBz8382690tGQv84217VYW1047122WdSY542",
+      "saveimagesusa.com/file_03179a2e-ecbd-49bf-9ff0-4b2a20b4751c.png",
+      "https://musicandfriends.com/Order%20descriptions.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://www.youtube.com/@musicandfriends?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "logos-world.net/wp-content/uploads/2022/04/Bauhaus-Symbol.png",
+      "https://www.musicandfriends.com/?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "http://amr.maed.free.nf/track/o6036vFcLS8382690NCoo84217Wpq1047122hSDL542",
+      "online.no",
+      "https://saveimagesusa.com/file_03179a2e-ecbd-49bf-9ff0-4b2a20b4751c.png",
+      "https://youtu.be/8Qoe3yqPJlU?si=tDrkK9lQbEqc9GoN&utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=.",
+      "https://www.facebook.com/musicfeste?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://musicandfriends.com/newsletter.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "musicandfriends.org",
+      "https://logos-world.net/wp-content/uploads/2022/04/Bauhaus-Symbol.png",
+      "https://musicandfriends.com/events%20choirs.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2659,
+    "html_length": 3189,
+    "has_text": true,
+    "has_html": true
+  }
+}

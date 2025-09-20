@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Introducing the New Bisq Desktop App & Chromium Extension",
+    "from": "Bisq <team@trezorbulletin.uno>",
+    "to": "phishing@pot",
+    "date": "Wed, 20 Aug 2025 20:29:05 +0000 (UTC)",
+    "message_id": "<22e76604-47d5-6115-0a8d-c7e00650923d@trezorbulletin.uno>",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/plain; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://app.bisqnetwork.site/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2160,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

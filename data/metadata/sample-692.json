@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Alerta de seguranca: houve um acesso de um novo dispositivo na sua conta. Protocolo.",
+    "from": "Mercado Pago <nao-responder-mercadopago@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Sun, 21 May 2023 04:16:30 +0000 (UTC)",
+    "message_id": "<20230521041752.37C3581FE7@sdadka0si9jdsaoijdsaoiu.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://f-mp-3-siuqnqvuea-ts.a.run.app",
+      "https://www.mercadopago.com.br",
+      "hotmail.com",
+      "https://ci6.googleusercontent.com/proxy/sZeyTTjxRz9_LZ91fSBvXSQBi79rJChz003h_zUo55I18foFZ9Qz38Y-Jz8DExS76FTZ5lfnnIXJz2JB3sU_zFDuGEmnbPkLN_rdmXGz1fHwKuYw03tCTEh0vF7BvPiznprJh1wIBrnBiqDgVg=s0-d-e1-ft#https://http2.mlstatic.com/static/org-img/mkt/email-mkt-assets/davinci/2x/ic_logomp@2x.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 359,
+    "html_length": 12309,
+    "has_text": true,
+    "has_html": true
+  }
+}

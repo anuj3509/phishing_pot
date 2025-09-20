@@ -1,0 +1,60 @@
+{
+  "headers": {
+    "subject": "Please recovery your Wa󠄹llet due inactivity",
+    "from": "Co󠄹i󠄹n󠄹b󠄹as󠄹e Wa󠄹llet <mail.apps-ic@pmcsnordtech.com>",
+    "to": "<customer@email.wallet-coinbase.com>",
+    "date": "Sun, 18 May 2025 17:42:07 +0200",
+    "message_id": "<C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixH7r8JEJZuEh1Uc9HxSgBYFje2qb6vi5SdtYcNQ\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixH7r8JEJZuEh1Uc9HxSgBYFje2qb6vi5SdtYcNQ\""
+  },
+  "attachments": [
+    {
+      "filename": "emails-pmcsnordtech.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "carddav-pmcsnordtech.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-pmcsnordtech.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mail.edificioalcala.com:2079/addressbooks/tapcapor/addressbook",
+      "https://wallet.pmcsnordtech.com/en-us",
+      "http://mail.edificioalcala.com:2079",
+      "http://mail.edificioalcala.com:2079/calendars/tapcapor/calendar",
+      "edificioalcala.com",
+      "https://mail.edificioalcala.com:2080/addressbooks/tapcapor/addressbook",
+      "mail.edificioalcala.com",
+      "Mail.app®",
+      "https://mail.edificioalcala.com:2080",
+      "Mail.app&reg;",
+      "https://mail.edificioalcala.com:2080/calendars/tapcapor/calendar",
+      "ioh.ac.us”",
+      "ioh.ac.us&rdquo;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 29088,
+    "html_length": 29052,
+    "has_text": true,
+    "has_html": true
+  }
+}

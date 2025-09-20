@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Your Norton Order Confirmation For Order #NP00X01062020",
+    "from": "E-Receipt Notice <189.152.152.123.peyja@neo.karenphillips.com>",
+    "to": "noreply_emails01062002520@bill.norton-us.com",
+    "date": "Wed, 20 Aug 2025 01:06:47 +0700",
+    "message_id": "<CAABL=kkOdgd2qMioVe7FMDZYcnbVsfVy05pN-N7KHqVg8O5ZnQ@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"0000000000002176f4063cbbb9d5\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"0000000000002176f4063cbbb9d5\""
+  },
+  "attachments": [
+    {
+      "filename": "Billing-Details#NP0045698791324.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 28635
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 641,
+    "html_length": 863,
+    "has_text": true,
+    "has_html": true
+  }
+}

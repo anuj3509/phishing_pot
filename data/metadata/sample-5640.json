@@ -1,0 +1,44 @@
+{
+  "headers": {
+    "subject": "phishing@pot   Bestellung #[17847-12] versendet    ",
+    "from": "Steigenberger<migo0002---E080@disdik.sinjaikab.go.id>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 11 Jun 2025 18:39:23 +0000",
+    "message_id": "<bl3and9nz1l37easg58c-EBEB2522C8@musicandfriends.org>",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/related; type=\"multipart/alternative\"; boundary=\"NlRxo2HrPDO7eQNmvYFGgJdMVJhV=_qd3b\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "upload.wikimedia.org/wikipedia/commons/thumb/5/55/Steigenberger_Hotels_and_Resorts_Logo.svg/2560px-Steigenberger_Hotels_and_Resorts_Logo.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Steigenberger_Hotels_and_Resorts_Logo.svg/2560px-Steigenberger_Hotels_and_Resorts_Logo.svg.png",
+      "https://saveimagesusa.com/file_0be1f745-3b4b-4cb6-84c3-bd941a445235.png",
+      "https://musicandfriends.com/Order%20descriptions.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://www.youtube.com/@musicandfriends?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://www.musicandfriends.com/?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "saveimagesusa.com/file_0be1f745-3b4b-4cb6-84c3-bd941a445235.png",
+      "http://ywer.jjweu.wuaze.com/rd/c5962HTcWA8382690jIHc84217vWM1046821DjSN533",
+      "http://ywer.jjweu.wuaze.com/track/o5962HxuFd8382690Zbyj84217dWQ1046821JLpH533",
+      "online.no",
+      "https://youtu.be/8Qoe3yqPJlU?si=tDrkK9lQbEqc9GoN&utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=.",
+      "https://www.facebook.com/musicfeste?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "https://musicandfriends.com/newsletter.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=",
+      "musicandfriends.org",
+      "https://musicandfriends.com/events%20choirs.html?utm_source=&utm_medium=&utm_term=&utm_content=&utm_campaign=."
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2659,
+    "html_length": 10842,
+    "has_text": true,
+    "has_html": true
+  }
+}

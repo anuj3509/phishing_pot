@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "FWD: All unverified accounts will be suspended on 10/30/2022.\r\n 2hwpexn64bmc7qrzvo0kyduajlgf3598",
+    "from": "Trustwallet-Support <7wq1vg3kn9woejk4@emails.gorgias.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 31 Oct 2022 07:03:57 +0000",
+    "message_id": "<166719983695.1603003.167987655214941784.10334148-20347658@helpdesk-rules-worker-7d6b9ff7cb-hbpzp>",
+    "content_type": "multipart/alternative;\r\n boundary=\"6a791d581af51f7c48a884373fb07ea2e4d78ba3b26c7beeabcb76cfc663\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"6a791d581af51f7c48a884373fb07ea2e4d78ba3b26c7beeabcb76cfc663\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "Trustwallet.com",
+      "https://apps.uk/wp-content/uploads/2021/11/metamask-trust-wallet.jpg",
+      "https://usertest.sciquest.com/apps/Router/ExternalSiteTransition?url=https://drop-coin-availablenow.site44.com/",
+      "http://www.thinkific.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2,
+    "html_length": 4480,
+    "has_text": false,
+    "has_html": true
+  }
+}

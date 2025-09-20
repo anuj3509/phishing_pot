@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Ihr 250€ Netto-Gutschein wartet auf Sie! 🎁 ",
+    "from": "Netto Team <reply@telekom.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 26 Jul 2025 09:22:19 -0400",
+    "message_id": "<H4jE79w.0.0.H4jE79w.9.H4jE79w@telekom.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"o3n5tweejvi5a236yo9zjylijzo42zkz4oosewkiq3h8dr3uasrr1fthypwe\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"o3n5tweejvi5a236yo9zjylijzo42zkz4oosewkiq3h8dr3uasrr1fthypwe\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://blog.dury.agency/cl/4034_md/1995/5962/728/1/12270",
+      "http://blog.dury.agency/op/4034_md/1995/5962/728/1/12270",
+      "http://blog.dury.agency/oop/4034_md/1995/5962/728/1/12270",
+      "https://www.zupimages.net/up/25/28/dzmn.jpg",
+      "www.zupimages.net/up/25/28/dzmn.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 929,
+    "html_length": 2459,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "headers": {
+    "subject": "Your Co󠄹i󠄹n󠄹b󠄹as󠄹e Wa󠄹ll󠄹e󠄹t  has not yet been verified",
+    "from": "Co󠄹i󠄹n󠄹b󠄹as󠄹e Wa󠄹llet <mail.apps-lj@ultrahealth.co.tz>",
+    "to": "<customer@email.wallet-coinbase.com>",
+    "date": "Sun, 18 May 2025 01:58:32 +0200",
+    "message_id": "<C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixrrJyfvVLXVpnci5sFakcco3xesF7wX08su5OITLiPs\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixrrJyfvVLXVpnci5sFakcco3xesF7wX08su5OITLiPs\""
+  },
+  "attachments": [
+    {
+      "filename": "emails-T45VO8ay1q.ics",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "carddav-69HA3.ics",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-VzUdn2.ics",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "suspend",
+      "suspended",
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://mail.ultrahealth.co.tz:2079/addressbooks/tapcapor/addressbook",
+      "https://mail.ultrahealth.co.tz:2080/calendars/tapcapor/calendar",
+      "https://billpay.ultrahealth.co.tz/en-us",
+      "mail.ultrahealth.co.tz",
+      "http://mail.ultrahealth.co.tz:2079/calendars/tapcapor/calendar",
+      "ioh.ac.us&rdquo;",
+      "https://mail.ultrahealth.co.tz:2080",
+      "Mail.app®",
+      "Mail.app&reg;",
+      "ioh.ac.us”",
+      "ultrahealth.co.tz",
+      "https://mail.ultrahealth.co.tz:2080/addressbooks/tapcapor/addressbook",
+      "http://mail.ultrahealth.co.tz:2079"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 28522,
+    "html_length": 28495,
+    "has_text": true,
+    "has_html": true
+  }
+}

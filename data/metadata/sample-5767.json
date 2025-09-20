@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Your Norton Order Confirmation For Order #NP11395138351",
+    "from": "E-Receipt Bill Team <gedsrisk72344@nt.mapelmoulds.com>",
+    "to": "noreply_emails11395102551@billing.norton-us.com",
+    "date": "Wed, 14 May 2025 23:41:33 +0700",
+    "message_id": "<CAGTS9qXdw2XptMx+TTP6nApYp-HM7hKfcwjmQAP64QQWBQcSFg@mail.gmail.com>",
+    "content_type": "multipart/mixed; boundary=\"000000000000899f8506351b39bb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"000000000000899f8506351b39bb\""
+  },
+  "attachments": [
+    {
+      "filename": "#NP434524575.docx",
+      "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "size": 20018
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 817,
+    "html_length": 2468,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Ihre Rückerstattung von Allianz :",
+    "from": "Allianz <bankid@hjelp-app.com>",
+    "to": "Undisclosed-Recipients:;",
+    "date": "Tue, 10 Jun 2025 20:20:16 +0200",
+    "message_id": "<CVMG5ZCU-ESO7-PBQ-4EM5-NUZDDQ82QNO6@hjelp-app.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://allianz-murex.vercel.app/",
+      "https://allianz.de/Erstattung"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 593,
+    "html_length": 845,
+    "has_text": true,
+    "has_html": true
+  }
+}

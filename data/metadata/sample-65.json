@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Your wallet has failed the merge!",
+    "from": "\"support@metamask.io\" <no-reply@proprofs.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 21 Sep 2022 21:14:02 +0000 (UTC)",
+    "message_id": "<eVnK4bVzQ2qQi4KK8ifhiA@geopod-ismtpd-5-1>",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=iso-8859-1"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "ProProfs.com",
+      "http://email.proprofs.com/wf/open?upn=9Mlwg0jII8A1wPFGTPsK87rXVKEQzbQp4-2B5UHtyRnI-2FuJoMOqvaq5sPH70uCZoe8rnZ5NuDxfVuCp-2FpLXuWCohr-2FUL8cu651c6OQ1sUFthrpyVjACVoJ5EWMfSn0J0-2FqGLwbXk-2BAvzfdX840xfza94ZxkvA6S-2Br82GFd9xt8RM7Sv4UphyHyZDMEW8CdBW0W9rO-2FDIQRDEv9dQgBTBBWBNyR7yxvnq-2FoICeUTC7PhVrXqrD0t9sG6uiQNjTfIuBSG11w0mRmydUG377KhAfsnpxeVPZ9BT-2Fh7yxB2XqC-2Fp74lweRrKPm9Dd4qfZgwCgTwjsn4S5PmqKtBzswbMc3nw-3D-3D",
+      "https://www.proprofs.com/survey/t/?title=yzjxb_1&amp;token=Vys1ZVJCS3E4M0I3RXVHbHBkN3Bra0lHL3c3clNVNWo3ZWVoK0o5Qnd1QT0=",
+      "https://click.pstmrk.it/2s/opposeweb.com%2F9125640cSPufCq%2FzBqIoix/6Nk0CDIN/pbNL/xpJ3GRt_js",
+      "https://www.proprofs.com/api/includes/global/images/allproductlogo/SURVEY.png",
+      "https://i.imgur.com/Wm4FqH9.png",
+      "fonts.googleapis.com/icon?family=Material+Icons",
+      "https://dt9xom8irs6kr.cloudfront.net/u252379/Wg7bSbG71xFcHSXvfLSy1663709720.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 515,
+    "html_length": 4262,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, você recebeu uma transação suspeita.",
+    "from": "Banco Do Brasil <naoresponder@bancodobrasil.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 03 Jul 2023 21:42:45 +0000",
+    "message_id": "<803ed9b7-3fbb-2dca-d5a4-8353064f66e7@bancodobrasil.com.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Banco_do_Brasil_logo.svg/2560px-Banco_do_Brasil_logo.svg.png?itok=CuwyfwL7&amp;cc***nome***=***valor***",
+      "https://b-a4qxna7jwq-rj.a.run.app/b/?tr=1ac4410953fa4a988fe547b19346559f&amp;t1=bb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 575,
+    "html_length": 9518,
+    "has_text": true,
+    "has_html": true
+  }
+}

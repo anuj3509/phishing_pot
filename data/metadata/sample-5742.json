@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Comunicado urgente: Irregularidade detectada em seu CPF junto à Receita Federal. Bloqueio em 24h! Código: 12060478.",
+    "from": "Alerta Receita Federal <receita971049@aviso>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 23 May 2025 22:03:20 +0000",
+    "message_id": "<9890c9f880832ee54e156f719831cf4d@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9890c9f880832ee54e156f719831cf4d\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9890c9f880832ee54e156f719831cf4d\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rtnw-196140292342.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 8235,
+    "has_text": true,
+    "has_html": true
+  }
+}

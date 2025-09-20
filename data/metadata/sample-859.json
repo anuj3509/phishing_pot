@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Message delivery complete!",
+    "from": "\"VlAGRA&ClALlS\" <ex_pharmacy@outlook.com>",
+    "to": "rodrigo-ez@hotmail.com",
+    "date": "Sun, 02 Jul 2023 18:02:47 +0200",
+    "message_id": "<0791BE43.622FC6BD@outlook.com>",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "binary",
+    "content_type": "text/html; charset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=%68ttp%3A%2F%2Fb%65st-pha%72m%61%2d%65x%70ress%2ezo%6e%65%2F%3Fcp%3D%73ales%78%2F%3FG%77qH%5a%35Q%71%674%44&amp;sa=D&amp;sntz=1&amp;usg=AOvVaw2beN1EEzArrNyNGpG6eDsy"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3653,
+    "html_length": 4809,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "New: Secure NitroPhone 3a With Best Price-Performance Ratio",
+    "from": "\"Nitrokey\" <info@nitrokey.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 04 Jul 2023 09:52:16 -0000",
+    "message_id": "<224053227817580.1688464311.922775983810425-openerp-reply_to@2a6b5ef90fd4>",
+    "content_type": "multipart/mixed; boundary=\"===============2412516731939294430==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============2412516731939294430==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://twitter.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/newsletter.png",
+      "https://www.facebook.com/nitrokey",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/facebook.png",
+      "https://shop.nitrokey.com/web/image/366864/NK2a-7.jpg?access_token=5a23c873-e177-4ce8-8327-c21d352b51cc",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo_with_background.png",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/twitter.png",
+      "http://www.w3.org/1999/xhtml",
+      "https://shop.nitrokey.com/shop/product/nitrophone-3a-506",
+      "https://shop.nitrokey.com/nitrokey_newsletter_template/static/src/img/nitrokey_logo.png",
+      "https://shop.nitrokey.com/unsubscribe_from_list",
+      "https://shop.nitrokey.com/mail/mailing/78/unsubscribe?db=odoo&amp;res_id=75073&amp;email=rodrigo-f-p%40hotmail.com&amp;token=94982c8662108e7503300b7ab9d5ba4f0daf198495ea95907d02fd67eaad58b551e3f7f3dbf340e043ef730061859cd10560c4840fde7ff5d0ce6ab067c5b0b2",
+      "https://nitrokey.com/newsletter",
+      "https://shop.nitrokey.com/mail/track/443888/blank.gif?db=odoo",
+      "https://www.nitrokey.com/",
+      "nitrokey.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1335,
+    "html_length": 15390,
+    "has_text": true,
+    "has_html": true
+  }
+}

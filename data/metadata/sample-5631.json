@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Action Required: Mandatory Ledger Firmware Update Before June 16",
+    "from": "Ledger Live <aihara-t@japritech.co.jp>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 9 Jun 2025 14:26:46 -0700",
+    "message_id": "<227f369d37cbe1ee3d97de1eea2f37601c66@japritech.co.jp>",
+    "content_type": "multipart/alternative;\n\tboundary=\"0ba1e81dd1153bc0e3496bc035c39cb048\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"0ba1e81dd1153bc0e3496bc035c39cb048\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify",
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.ledger.com",
+      "https://support.ledger.com",
+      "https://orzaria.myonlineportal.org/",
+      "https://www.ledger.com",
+      "https://www.ledger.com/firmware-update"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 796,
+    "html_length": 3837,
+    "has_text": true,
+    "has_html": true
+  }
+}

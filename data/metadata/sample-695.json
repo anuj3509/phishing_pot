@@ -1,0 +1,40 @@
+{
+  "headers": {
+    "subject": "Voce tem 264.258 Pontos Livelo Acumulados, Prestes a Expirar ID: 434546880",
+    "from": "Banco do Brasil Informa <contato_348290@emailaviso.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 22 May 2023 05:38:49 +0000 (UTC)",
+    "message_id": "<20230522053849.581D03FCAD@qwz26.bb5udpiacrzefmzdcqgrfcky5b.rx.internal.cloudapp.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mcnTextContent,td.mcnBoxedTextContentContainer",
+      "a.mcnButton{",
+      "https://74q57t56ffpreg.792r8u3g82c9pz.one/_ad4000.html",
+      "http://www.w3.org/1999/xhtml",
+      "td.mcnTextContent,td#templateHeader",
+      "td.mcnTextContent",
+      "table.mcnBoxedTextContentContainer",
+      "https://mcusercontent.com/5847434ac80456c9978b1735b/images/965ab71a-2c91-3be8-94b0-35a0deb09959.jpg",
+      "td.mcnTextContent,td#templateFooter",
+      "hotmail.com",
+      "td.mcnTextContent,td#templateBody"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 12366,
+    "html_length": 35184,
+    "has_text": true,
+    "has_html": true
+  }
+}

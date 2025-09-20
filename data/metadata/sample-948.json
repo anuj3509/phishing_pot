@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Today could be your lucky day!",
+    "from": "\"Play Now\" <><info.562272@travail-independant.biz>",
+    "to": "phishing@pot",
+    "date": "Sun, 16 Jul 2023 21:54:31 +0000.562272",
+    "message_id": "<pdxx.779644.562272.oplm@geopod-ismtpd-6-1 ' '__````__'>",
+    "content_type": "multipart/alternative; boundary=\"_NexPart_001_562272-779644-c288721ef7e2245437a919b0fc945722\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"_NexPart_001_562272-779644-c288721ef7e2245437a919b0fc945722\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "limited time"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "http://tandra.boats/rd/c3211dYlgN779644RsSV562272uRS2545UyhZ259",
+      "http://tandra.boats/track/o3211pRWxH779644dJTK562272Ghv2545jYXd259",
+      "https://www.lasvegasusa.eu/22/GC/OFD40/mailer/OFD40.jpg",
+      "http://tandra.boats/rd/u3211wAGeb779644YRsk562272eWU2545qxAW259",
+      "http://www.w3.org/1999/xhtml",
+      "www.lasvegasusa.eu/22/GC/OFD40/mailer/OFD40.jpg"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 350,
+    "html_length": 25288,
+    "has_text": true,
+    "has_html": true
+  }
+}

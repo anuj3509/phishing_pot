@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "-",
+    "from": "noreply <wbatten@suddenlink.net>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Jun 2023 03:07:50 +0300",
+    "message_id": "<ad7a01aa5eb8b6bd9b61288332664d6b15df9c@suddenlink.net>",
+    "content_type": "multipart/alternative; boundary=\"882b62c91fffd5dba8024ba5c10403989285\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"882b62c91fffd5dba8024ba5c10403989285\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://forms.yandex.ru/cloud/648b6af602848f2bed1b0b6a/#eieelxbusbzoiutgbxig",
+      "http://xml.infinityhomes.com.tr/iufar.php?QLOx0tQ8Nez0uT7Gi321xM6joyvzXFDK9Zq5Np8JCw9iDFZZSrA373En4c1iIIpgQUjhwWE1gxFtlpb%2FqMANLqoYnDzGjOASvL6QmSs7fCaWdRkLaXxuBomqFdKwndkXMzLJzsy%2FF87pbblYeXuWuw%3D%3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 756,
+    "html_length": 1632,
+    "has_text": true,
+    "has_html": true
+  }
+}

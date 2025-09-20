@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "ATTENTION DEAR BENEFICIARY!",
+    "from": "\"CITI BANK\"<aliyumabdullahidamsha@gmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Thu, 25 May 2023 17:21:03 -0700",
+    "message_id": "\r\n <e23f57e4-5e1e-4fce-a8a1-60eb0b0b811a@MW2NAM10FT081.eop-nam10.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "urgent",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com,"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1196,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

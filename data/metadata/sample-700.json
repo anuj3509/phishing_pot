@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "New ‎Me‎‎m‎be‎‎r‎‎ship Statement : Your ‎‎‎P‎‎‎ri‎m‎‎‎‎e benefits are on hold due to a billing issue. May 22, 2023 TRX#1312-779196",
+    "from": "Pr‎‎i‎m‎e‎ <res0lvm41lsecuritybrimz-x935@superportorg.com.br>",
+    "to": "phishing@pot",
+    "date": "Mon, 22 May 2023 22:00:19 +0000",
+    "message_id": "<bdc51839-0af7-0cba-261c-39dc16a28537@superportorg.com.br>",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-00e90dae1160d1bb-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n boundary=\"--_NmP-00e90dae1160d1bb-Part_1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "update your information"
+    ],
+    "urls": [
+      "https://www.linkedin.com/slink?code=gsmQ6t4W",
+      "https://m.media-amazon.com/images/G/01/e-mail/logos/2022PrimeLogoEmailHeader._CB633103422_.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 6,
+    "html_length": 5092,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "Exklusives neues Casino-Angebot",
+    "from": ": Casino-Deal <info@livingsocial.co.uk>",
+    "to": "<phishing@pot>, <phishing@pot@hotmail.com>",
+    "date": "Fri, 23 Sep 2022 09:13:24 +0200",
+    "message_id": "<tlQEGLJ.06759.054.JYh@10.65.66.101>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://laredouteshop.online/open_C/phishing@pot/1/uk/living",
+      "https://cdn.jsdelivr.net/emojione/assets/3.1/png/32/25b6.png",
+      "http://links.cpg.gp.digital/luoo/v1/TXJIaEFwMDAzRTdvOTJBNW5aRy9KMHJvYm9hV3pETVVvaGQ0bFltczV6Uy94T0MxSlNtRXBIMW5kNDZNbVdHY2tWTk5kM1UwNGxsNENHVkJNRkRNLzE2ajg0M1pxZU5vS0",
+      "https://i.imgur.com/3TcdqQk.jpg",
+      "i.imgur.com/3TcdqQk.jpg",
+      "https://esetupkeys.xyz/cl/11841_md/3/5012/5542/681/1190",
+      "https://esetupkeys.xyz/oop/11841_md/3/5012/5542/681/1190"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 10457,
+    "html_length": 12230,
+    "has_text": true,
+    "has_html": true
+  }
+}

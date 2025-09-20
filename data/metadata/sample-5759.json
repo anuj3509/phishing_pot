@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "phishing@pot Ferreira Peixoto, Encomenda Retida com Prazo Final.",
+    "from": "Correios <noreply@correios>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 21 May 2025 02:19:38 +0000",
+    "message_id": "<6118113d-6d9c-78bf-7302-5baab22f516b@correios>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://juliodejens.icu/email=phishing@pot@hotmail.com&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name=phishing@pot",
+      "http://juliodejens.icu/t?email=phishing@pot&amp;templateType=correios&amp;user=p&amp;site=encomenda&amp;name=Rodrigo",
+      "document.write(new"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 8018,
+    "html_length": 14448,
+    "has_text": true,
+    "has_html": true
+  }
+}

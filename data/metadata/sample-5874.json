@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "ANCV-Chèques-Vacances : vérifiez votre éligibilité",
+    "from": "Mon Espace Vacances <Assistance-allocation-vacances@myhealthcarequotes.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 25 Aug 2025 12:25:52 +0000",
+    "message_id": "<01000198e1312ad4-505252e7-d575-43fa-bb3c-2177a46947ca-000000@email.amazonses.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://v35x7gji.r.us-east-1.awstrack.me/L0/https:%2F%2Fbaka-ure.com%2Fs3anvc/2/01000198e1312ad4-505252e7-d575-43fa-bb3c-2177a46947ca-000000/ah9X-TUW5aGr2e-fFH_sq8ahfh8=440",
+      "https://v35x7gji.r.us-east-1.awstrack.me/I0/01000198e1312ad4-505252e7-d575-43fa-bb3c-2177a46947ca-000000/CW1oV28qptz3gfrESXVz21qmN9Y=440",
+      "https://v35x7gji.r.us-east-1.awstrack.me/L0/https:%2F%2Fbaka-ure.com%2Fs3anvc/1/01000198e1312ad4-505252e7-d575-43fa-bb3c-2177a46947ca-000000/3OO7g0SGYe5NssIRJlfaPCIPRwg=440",
+      "www.ancv.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2498,
+    "html_length": 14102,
+    "has_text": true,
+    "has_html": true
+  }
+}

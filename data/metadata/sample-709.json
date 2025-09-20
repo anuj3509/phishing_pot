@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "$SEA Token is Ready to Launch!",
+    "from": "OpenSea <sdv2-noreply@itariannotifications.com>",
+    "to": "phishing@pot",
+    "date": "Wed, 24 May 2023 22:33:38 +0300 (+03)",
+    "message_id": "<20230524193338.6A2CDFA2D77@mail.itariannotifications.com>",
+    "content_type": "multipart/mixed; boundary=\"===============1281647878726247205==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"===============1281647878726247205==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://fonts.gstatic.com",
+      "https://kadedaucha.com/seaopen",
+      "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap",
+      "https://fonts.googleapis.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 753,
+    "html_length": 187521,
+    "has_text": true,
+    "has_html": true
+  }
+}

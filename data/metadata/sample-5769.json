@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Achtung! Ihr McAfee-Schutz muss aktualisiert werden.",
+    "from": "Mcafee™ Notice<newsletter.phishing@pot@stuartfrazercontracts.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 19 May 2025 09:50:59 +0000",
+    "message_id": "<7bf6a61c-68f1-4405-b0b8-ed80c714c05e@AMS0EPF000001A2.eurprd05.prod.outlook.com>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://pbs.twimg.com/media/Ggaa8hfWQAAGfqp?format=png&name=small",
+      "https://hsycnc.com/oop/138100_md/400/5029821/3898/440/609207",
+      "https://xinmanba.com/op/138100_md/400/5029821/3898/440/609207",
+      "https://hsycnc.com/cl/138100_md/400/5029821/3898/440/609207",
+      "https://hsycnc.com/cl/138100_md/400/5029821/3898/440/609207/un/138100_md/400/5029821/3898/440/609207",
+      "pbs.twimg.com/media/Ggaa8hfWQAAGfqp?format=png&name=small"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 941,
+    "html_length": 8020,
+    "has_text": true,
+    "has_html": true
+  }
+}

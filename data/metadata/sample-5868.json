@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Ledger Security Update — Action Recommended",
+    "from": "Ledger <info@cleario.app>",
+    "to": "phishing@pot",
+    "date": "Sun, 24 Aug 2025 03:23:32 +0000",
+    "message_id": "<18e74ff8-cb2c-4401-b56b-275faab4d2e6@mtasv.net>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ledger-recover.s3.eu-north-1.amazonaws.com/logo-ldg.png",
+      "https://ea.pstmrk.it/open?m=v3_1.KV1l-4gQlrXyBC-YH1wfTA.hCKfpX54ervxj4iIYyXqrgUVkihkr3B3JdsamShsI4nROgLFxuoU0IYMG_1Bo6ANSl6J4zxrmmjUYo1dPbUvmmhRSp3ghXl_szxx9ChWHPi3pZNpOOpwFCMIe8Jb8vbEnuZsAoP13KtrOlt7FGW0cmQ1MpSvD7bnpaw2cqnDqfq3jCPbitwBqPbzAm78nVyZzewbdw_p-T-4DVwQXbzeqHM_Jd110vTi3FCud-UZMBbFGE9WoVzp8zMCBmmFUuDd0kJ_6G_tx02Ncfoh8H4ywQtTW8ABGWWB9GjLBFOdH7UnVjiBymj_oode_aLmXZxK7YG-WW96uZt7vFfxEZs5j_HxZ7b-9RKlevDgC47OmWszmCF9D886c9mogIBQmd9q0VjEv2aqcUyxDfYYBqCW4RXESNSS5b-lVIWITRs7d75SprGlUr6FUMlQ6Mn37Ej6V0X5SY5Lz3p_H8jWUcarwy8KOkUlaJPhGhTsBmk-fb41H-YxzGMQZdjHPbhb6WR-",
+      "https://track.pstmrk.it/3s/ledger-recover.s3.eu-north-1.amazonaws.com%2Frecover.html/vGt_/bJC-AQ/AQ/18e74ff8-cb2c-4401-b56b-275faab4d2e6/1/yUmQc9fvH1",
+      "https://subscriptions.pstmrk.it/unsubscribe?m=1.RrPVLeA66sfSxGLtM5fHUQ.2u_13sesFGhtMqg3uZpKAONsGfYBcYAX3xJgv4-cVLzTBpo_sXf5dB1nAcU4Wu-T20iuhRZlvnFeFxHUCajuAZ80g-KUKYhnU9JgthNHl6-mEt4GRZNRC5FSoL4z5r0DiSNAr3MAPzJlkm2C2UKfPbuxq3_MocA6aNEtupPqif-oI3aph3sCXh_anmkpL8ehX3H7_wtKEPU94KvqhOjU_dbDMkw0R2vdQQvmGcS01wjoy7qYYm-l8JjgVpMrb457vj0KOxFgvpC-YJ0VTINqix7OyLozbuh4ARLayGJHh-YOWfxiTeIVCevcISPvbBYWj-TySx20_rlgGfrN1e_EYZtMtizwkhlcP5JFbjpXXqyvE8vOT9pyVDTNmSAyV5nU_DXJB7NIXL4kPiZG1cT0s4qlHu53LkvaA_7GR6xtw2d2DPOWOsXHKRwvVxoJm6fJ5bOksH0IDR6d2Tj_AkHm1gL7NstrgX6zB2rOwDNXxTVGVRBPzygmoDqNCk0ZJhGeVdq15ei_-TYHgam0UtnOx6Kir_Ul4UB3NB0RfpyqHuWRP1b7trWxfr2hBB9h34ANb_k_MaihAfvoTR7gHZ_4YA"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1011,
+    "html_length": 5127,
+    "has_text": true,
+    "has_html": true
+  }
+}

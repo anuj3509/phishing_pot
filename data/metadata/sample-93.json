@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Rodrigo Ferreira Peixoto, você removeu seu método de duas etapas?",
+    "from": "Mercado Livre <naoresponder@mercadolivre.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 21 Oct 2022 18:58:58 +0000",
+    "message_id": "<818ae1fa-ef3e-71a7-49fd-acaf65cc589c@mercadolivre.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://ii-z2c6nzwc7a-rj.a.run.app/a/????????????????????????????????????????????????????????????????"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 186,
+    "html_length": 2083,
+    "has_text": true,
+    "has_html": true
+  }
+}

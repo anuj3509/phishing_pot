@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "",
+    "from": "Dr Ben <jvuic@fkit.hr>",
+    "to": "undisclosed-recipients:;",
+    "date": "Sat, 10 Jun 2023 12:38:42 +0100",
+    "message_id": "<956c89f255effe23bf6944f48eaabd08@fkit.hr>",
+    "content_type": "text/plain; charset=UTF-8;\r\n format=flowed"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/plain; charset=UTF-8;\r\n format=flowed"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "immediately"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 149,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

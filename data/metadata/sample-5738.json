@@ -1,0 +1,41 @@
+{
+  "headers": {
+    "subject": "Jusqu’à 70 % des frais pris en charge",
+    "from": "Rénovation <srjme+turff@stratum.ae>",
+    "to": "phishing@pot",
+    "date": "Sun, 25 May 2025 15:07:08 +0000",
+    "message_id": "<010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000@ap-southeast-1.amazonses.com>",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_9241A276.71C77531\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"----=_NextPart_000_0012_9241A276.71C77531\""
+  },
+  "attachments": [
+    {
+      "filename": "FR#8745FS.pdf",
+      "content_type": "application/pdf",
+      "size": 402
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/1/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/vcoFU7XuZQQMeklO_pTZUdbrLAg=212",
+      "http://jvxq2c83.r.ap-southeast-1.awstrack.me/L0/http:%2F%2Fimestan.s3-website-eu-west-1.amazonaws.com/2/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/0r5XSTWA7oYnv_iI73kP28Lua9U=212",
+      "https://jvxq2c83.r.ap-southeast-1.awstrack.me/I0/010e019707fbbf09-5a4c9ce8-8f72-4cea-8255-7fcc3dd62d86-000000/EeOIaI4LgaLNNS_j6rXE6FdWhlA=212"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1720,
+    "html_length": 5018,
+    "has_text": true,
+    "has_html": true
+  }
+}

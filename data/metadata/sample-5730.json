@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Informamos que sua encomenda será devolvida ao remetente sem reembolso! Verifique agora. ID: 39817263",
+    "from": "Status Pedido - Correios <rastreamentos@922980%pedidoscorreios.com.br>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 18 May 2025 05:41:56 +0000",
+    "message_id": "<9bde4044fb9b0e6952e44689e4237146@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9bde4044fb9b0e6952e44689e4237146\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_9bde4044fb9b0e6952e44689e4237146\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rastre-716137082951.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4163,
+    "has_text": true,
+    "has_html": true
+  }
+}

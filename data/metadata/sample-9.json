@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "You sent 0.79 ETH via Ethereum network",
+    "from": "C o i n b a s e <noreply@firesonic.ca>",
+    "to": "tiny23ian@hotmail.co.uk, henterprize@hotmail.com, \r\n\tphishing@pot, admichael@hotmail.co.uk, \r\n\tachmed_99@hotmail.com, nsaprasla@hotmail.com, \r\n\tdonovantokarijo@hotmail.com",
+    "date": "Thu, 7 Sep 2023 21:33:04 +0000",
+    "message_id": "<0106018a71901afd-bbc67141-d1e8-42bc-89a7-4877f9564d7d-000000@ap-northeast-1.amazonses.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://www.bing.com/ck/a?!&amp;&amp;p=8cc5352d816ad678JmltdHM9MTY5NDA0NDgwMCZpZ3VpZD0xNTM1ZDczZS1lMDk0LTY2N2ItMmU0YS1jNDIzZTFjMjY3OGQmaW5zaWQ9NTE3Nw&amp;ptn=3&amp;hsh=3&amp;fclid=1535d73e-e094-667b-2e4a-c423e1c2678d&amp;psq=firesonic.ca&amp;u=a1aHR0cHM6Ly9maXJlc29uaWMuY2Ev&amp;ntb=1",
+      "https://mandrillapp.com/track/open.php?u=30536579&amp;id=816c4bd7cac542279883e1b3bd5394af",
+      "https://firesonic.ca/_logo.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 995,
+    "html_length": 4288,
+    "has_text": true,
+    "has_html": true
+  }
+}

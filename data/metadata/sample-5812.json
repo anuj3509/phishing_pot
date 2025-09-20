@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Ihr Name wurde f��r eine Autonotfallbox-Pr��mie vorgeschlagen",
+    "from": "Auto-Notfallset Belohnungen <Guide@ncfww.com>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 24 Jul 2025 12:46:49 +0000",
+    "message_id": "<6XTYPYh2U8orypx1NR@amazon.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://t.co/ErcqC8G3vH",
+      "pbs.twimg.com/media/Gwd519JXIAIcQua?format=png&amp;name=900x900",
+      "https://pbs.twimg.com/media/Gwd519JXIAIcQua?format=png&amp;name=900x900",
+      "https://t.co/V0mTU2OQgK"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 131,
+    "html_length": 1328,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "phishing@pot,você chegou ao cartão Black, bem-vindo ao Bradesco Prime.",
+    "from": "Bradesco Prime <naoresponder@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Fri, 28 Apr 2023 15:56:11 +0000",
+    "message_id": "<441d4e52-90d2-248d-cff1-2855beb8a583@bradesco.com.br>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      ".alert.alert-warning",
+      ".alert.alert-bad",
+      ".alert.alert-good",
+      "https://us-central1-western-throne-378715.cloudfunctions.net/lesma"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3885,
+    "html_length": 7563,
+    "has_text": true,
+    "has_html": true
+  }
+}

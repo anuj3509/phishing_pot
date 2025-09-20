@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "RE: You received 1 NFT 0N1 FORCE",
+    "from": "OpenSea Token <customer.service@universe.app>",
+    "to": "phishing@pot",
+    "date": "Sat, 24 Jun 2023 09:10:26 +0000",
+    "message_id": "<01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000@us-west-2.amazonses.com>",
+    "content_type": "multipart/alternative; boundary=\"2B5B3B7DDDE64B968BE7479605C25AD6\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"2B5B3B7DDDE64B968BE7479605C25AD6\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pulsar.universe.app/CL0/https:%2F%2Fleenytoons.tk%2F.x%2Fasez20.php/1/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/PSGZiSeqDvz85VIhY8okrVkIDHhIXO5wYsjSXX7rGiM=306",
+      "https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).svg",
+      "http://pulsar.universe.app/CI0/01010188ecab40fb-c7fc8356-74ae-4671-8d77-5dfc34c96961-000000/uq3Em6DN_bYk0jTOhfUkZ3nfJxxyOtzzzcAsQlxCKHU=306",
+      "https://storage.googleapis.com/opensea-static/Logomark/Logomark-White.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 182,
+    "html_length": 9903,
+    "has_text": true,
+    "has_html": true
+  }
+}

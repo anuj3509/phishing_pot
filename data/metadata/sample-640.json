@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "New friend request for you, phishing@pot",
+    "from": "Amelia <APmBBKU@tamouda.online>",
+    "to": "phishing@pot",
+    "date": "Thu, 20 Apr 2023 07:03:57 +0000",
+    "message_id": "<APmBBKU.49982.777.dyd@tamouda.online>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "pot.You",
+      "http://tamouda.online/oop/86_md/1/15961/2/250/168445",
+      "http://tamouda.online/op/86_md/1/15961/2/250/168445",
+      "http://tamouda.online/cl/86_md/1/15961/2/250/168445"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1091,
+    "html_length": 11251,
+    "has_text": true,
+    "has_html": true
+  }
+}

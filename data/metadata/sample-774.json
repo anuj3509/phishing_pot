@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[ Crédito em Conta] - Liberação: oqubgKpYTH",
+    "from": "Itaú - Saldo Disponível | Protocolo: 167634427618 <sset79553@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 12 Jun 2023 15:40:52 +0000",
+    "message_id": "<aeeea2f1d713c8e0feb044151cb6f85b@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"82aae917a1a6afa81e5a0bb20004ae01\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"82aae917a1a6afa81e5a0bb20004ae01\""
+  },
+  "attachments": [
+    {
+      "filename": "swRoAODiQydAMcv1kzR.pdf",
+      "content_type": "application/pdf",
+      "size": 153640
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 262,
+    "html_length": 648,
+    "has_text": true,
+    "has_html": true
+  }
+}

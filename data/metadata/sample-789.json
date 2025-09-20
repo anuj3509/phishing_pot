@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Reserved tokens ready to be distributed",
+    "from": "Team Ripple <xrpl@dispatch.yandy.com>",
+    "to": "phishing@pot",
+    "date": "Sat, 17 Jun 2023 00:07:49 +0000",
+    "message_id": "<20230617000749.9854eea74cd1c00d@dispatch.yandy.com>",
+    "content_type": "text/html; charset=ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://mail98-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "table.mj-full-width-mobile",
+      "https://mail98-ripple.net/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "https://i.imgur.com/PnbiPzg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3321,
+    "html_length": 14545,
+    "has_text": true,
+    "has_html": true
+  }
+}

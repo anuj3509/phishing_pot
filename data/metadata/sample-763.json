@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Livelo Programa Viva Prime - Voc�� tem pontos acumulados em seu CPF: disponiveis para resgate que est��o bem proximos de expirar",
+    "from": "BANCO DO BRADESCO<banco.bradesco@atendimento.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed,  7 Jun 2023 10:38:43 +0000 (UTC)",
+    "message_id": "<20230607103843.24B2E4099A@ubuntu-s-1vcpu-1gb-amd-sfo3-07>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://displayblogtemporaritdeskto.shop/",
+      "https://fonts.gstatic.com",
+      "https://fonts.googleapis.com/css2?family=Signika:wght@300;500;700&amp;display=swap",
+      "icone-superior.png",
+      "header.png",
+      "icone-rodape.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 745,
+    "html_length": 4918,
+    "has_text": true,
+    "has_html": true
+  }
+}

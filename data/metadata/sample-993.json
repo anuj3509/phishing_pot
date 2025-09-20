@@ -1,0 +1,61 @@
+{
+  "headers": {
+    "subject": "Login to renew your Personal Banking Details (ΚYC) online",
+    "from": "MashreqKYC <postmaster@relay-smtp-us.writershomestead.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 25 Jul 2023 20:00:47 +0000",
+    "message_id": "<20230725200047.ea3eb838f72e2cc6@relay-us.calibrate.studio>",
+    "content_type": "text/html; charset=ascii"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=ascii"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "update"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pbs.twimg.com/media/F1dk9RlWIAE1FTy?format=jpg&amp;name=small",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_contact_phone.png",
+      "https://pbs.twimg.com/media/F1dk9RkXoAETxd0?format=jpg&amp;name=small",
+      "https://pbs.twimg.com/media/F1d5B4fXsAAS4Xz?format=jpg&amp;name=small",
+      "td.es-desk-menu-hidden",
+      "button.es-button",
+      "https://amoj7eje.emltrk.com/v2/amoj7eje?i=[CONTACT-ID]&amp;t=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "tr.es-desk-hidden,",
+      "div.OutlookMessageHeader",
+      "https://amoj7eje.emltrk.com/v2/amoj7eje?rl&i=[CONTACT-ID]&t=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "table.moz-email-headers-table",
+      "https://amoj7eje.emltrk.com/v2/amoj7eje?rd&i=[CONTACT-ID]&t=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "http://cdn.emiratesnbd.com/assets/images/lock-icon_Ins.jpg",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i",
+      "https://contentdelivery.mashreqbank.com/kyc/email/Conv_kyc_importance.png",
+      "https://pbs.twimg.com/media/F1dk9RpWwAEr4Rx?format=jpg&amp;name=small",
+      "https://www.emiratesnbd.com/ar/campaign-form/communication-preferences/?utm_source=Email&amp;utm_medium=textlink&amp;utm_term=Existing_&amp;utm_content=PSB_CrossBoarderChargesPSBEDM&amp;utm_campaign=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "https://cheapdedicatedserver.in/images/y.php",
+      "td.es-desk-hidden,",
+      "https://pbs.twimg.com/media/F1dk9RmWwAYcdQJ?format=jpg&amp;name=small",
+      "https://amoj7eje.emltrk.com/v2/amoj7eje?p&i=[CONTACT-ID]&t=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "tr.es-desk-hidden",
+      "http://google.com/",
+      "https://amoj7eje.emltrk.com/v2/amoj7eje?f&i=[CONTACT-ID]&t=PSB_AD_AED-CROSS-BORDER-CHARGES_05JUL23_PSB_EDM",
+      "a.es-button,",
+      "https://e-marketing.emiratesnbd.com/ctd/tmo?enc=SXlwdUp2aW42MUZGVEI5NVdwOFZiMjN6b1NOZVQ2bmdwWFVycGJPb1BzUnVyNnJSdi93K2pnPT1GZ3BMQUpscEExOGV6Rk4zdk9KZW1RPT14N2x2TjJ2Z0EvY2g0QXhiQng5TGJJcjkrNkpKOS9FZA==",
+      "table.es-table-not-adapt,",
+      "table.es-social",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 4858,
+    "html_length": 12299,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[ Crédito em Conta] - Liberação: RFM9a8e3gJbUAJru585",
+    "from": "Itaú - Saldo Disponível | Protocolo: 68836061075995248602 <cevgthyuipo432@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 12 Jun 2023 18:18:00 +0000",
+    "message_id": "<02a445dfdf745b7c51cd2efc03a76cd7@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"5761cc33ea49999e98b10f140001ec31\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"5761cc33ea49999e98b10f140001ec31\""
+  },
+  "attachments": [
+    {
+      "filename": "wFbF0yDzT8LVY3HRBj.pdf",
+      "content_type": "application/pdf",
+      "size": 154149
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 259,
+    "html_length": 645,
+    "has_text": true,
+    "has_html": true
+  }
+}

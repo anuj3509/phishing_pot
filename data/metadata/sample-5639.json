@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Detran: Sua CNH esta em processo de bloqueio! ID: 90040732 - Esta vencendo o período de Pagamento de Multas Asssociado a sua CNH: Sua Carteira Nacional de Habilitação Pode ser Suspensa em Breve - Prazo Vencido - Multas Pendentes CNH - Infração Pendente: Processo Iniciado - Processando Dados Do Motorista Notificado",
+    "from": "Detran - Alerta de Penalidade <informa@020016%cnhregular.gov.br>",
+    "to": "<phishing@pot>",
+    "date": "Thu, 12 Jun 2025 04:54:32 +0000",
+    "message_id": "<c5e44662e3844d36b48d68a839e41b29@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c5e44662e3844d36b48d68a839e41b29\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_c5e44662e3844d36b48d68a839e41b29\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://grovbr-641293219090.southamerica-east1.run.app",
+      "hotmail.com,",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 4114,
+    "has_text": true,
+    "has_html": true
+  }
+}

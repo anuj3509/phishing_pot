@@ -1,0 +1,59 @@
+{
+  "headers": {
+    "subject": "You have unclaimed your reward",
+    "from": "T󠄹r󠄹u󠄹s󠄹t󠄹 Wa󠄹l󠄹l󠄹et <mail.apps-xa@uropahandel.com>",
+    "to": "<customer.UKay4hpu@email.wallet.coinbase.com>",
+    "date": "Wed, 21 May 2025 21:58:45 +0000",
+    "message_id": "<C0.15.33246.60EB6086@i-0ccb7cd0fc3c6251a.mta1vrest.sd.prd.sparkpost>",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixojya8sfRNYdLYRzaycx0tBtQFEUXIarnreIWX4cng\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\n\tboundary=\"inmixojya8sfRNYdLYRzaycx0tBtQFEUXIarnreIWX4cng\""
+  },
+  "attachments": [
+    {
+      "filename": "emails-uropahandel.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5214
+    },
+    {
+      "filename": "carddav-uropahandel.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 5062
+    },
+    {
+      "filename": "caldav-uropahandel.mobileconfig",
+      "content_type": "application/octet-stream",
+      "size": 6126
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mail.uropahandel.com:2080/addressbooks/uropahandel/addressbook",
+      "ioh.ac.us”",
+      "http://mail.uropahandel.com:2079/addressbooks/uropahandel/addressbook",
+      "mail.uropahandel.com",
+      "ioh.ac.us&rdquo;",
+      "Mail.app®",
+      "Mail.app&reg;",
+      "https://mail.uropahandel.com:2080",
+      "uropahandel.com",
+      "http://mail.uropahandel.com:2079/calendars/uropahandel/calendar",
+      "https://mail.uropahandel.com:2080/calendars/uropahandel/calendar",
+      "https://apps.uropahandel.com/br?customer&amp;email=admin-1831df7d8fdbe51039e38b8285ac00ee",
+      "http://mail.uropahandel.com:2079",
+      "https://apps.uropahandel.com/br?customer&email=admin-85e871e875db82ef164deec0d97f8846"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 30256,
+    "html_length": 30233,
+    "has_text": true,
+    "has_html": true
+  }
+}

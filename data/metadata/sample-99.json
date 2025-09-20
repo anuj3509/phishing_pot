@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "Veel nieuwe aanmeldingen deze week",
+    "from": "\"Selena\" <newsmail@appJv.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Tue, 1 Nov 2022 07:29:54 +0000",
+    "message_id": "<0.0.0.0.1D8EDC3BC9B3938.2651@TongCasino.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://prvttrck.com/?a=76&amp;c=156&amp;s1=anna&amp;email=phishing@pot"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1899,
+    "html_length": 8835,
+    "has_text": true,
+    "has_html": true
+  }
+}

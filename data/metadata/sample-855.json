@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "[2575298]: Statement Attachment claim #986-6214131-939",
+    "from": "\"lRS.GOV\" <117756535765781@boltasindh.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 30 Jun 2023 22:17:08 +0000",
+    "message_id": "<28fc40ca-b056-f10a-3873-011ebeab539b@boltasindh.com>",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-9abedee6c0b38216-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-9abedee6c0b38216-Part_1\""
+  },
+  "attachments": [
+    {
+      "filename": "FJU1223.pdf",
+      "content_type": "application/pdf",
+      "size": 223860
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 16,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

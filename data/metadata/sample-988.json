@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Proposta exclusiva Planos Amil Saúde para sua análise - economize até 40%",
+    "from": "\"Proposta Planos Amil\" <amanda@e-compareplanossaude.com>",
+    "to": "phishing@pot",
+    "date": "Tue, 25 Jul 2023 12:12:48 -0300",
+    "message_id": "<20230725151251.d59ced591ee3f254@e-compareplanossaude.com>",
+    "content_type": "Multipart/alternative; boundary=\"029EE9B0_09BC7D79_MAILSEPR_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "Multipart/alternative; boundary=\"029EE9B0_09BC7D79_MAILSEPR_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "e-compareplanossaude.com?subject=tirar%20email&amp;body=excluir",
+      "https://go.compareplanossaude.com/zd-d/lnk.php?id=332C39302C726F647269676F2D662D7040686F746D61696C2E636F6D2C34313539"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 309,
+    "html_length": 1770,
+    "has_text": true,
+    "has_html": true
+  }
+}

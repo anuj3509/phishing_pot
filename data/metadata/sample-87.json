@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "GIRL WITH A PEARL EARING NFT!!!",
+    "from": "The Sapphire Studio <support@thesapphiregroupinc.com@thesapphiregroupinc.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 10 Oct 2022 10:00:04 +0000",
+    "message_id": "<1665396012565009@s1.mta1.max-sender.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"a4a9ff113dcc3c6ac08c433c1c184785\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"a4a9ff113dcc3c6ac08c433c1c184785\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "https://www.s1.mta1.max-sender.com/94x9e/3cefyf5tb8/8073.gif",
+      "https://www.s1.mta1.max-sender.com/1bcy1d0/3e17/21du1e0/819bs1f2.html",
+      "https://www.s1.mta1.max-sender.com/df/f3m3d3ai140l103/80bey116.html",
+      "www.thesapphirestudio.com",
+      "opensea.io",
+      "https://opensea.io/collection/the-girl-with-a-pearl-earring",
+      "https://www.s1.mta1.max-sender.com/38eq3b6u3fe9w3efk3b2/836d.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1272,
+    "html_length": 1565,
+    "has_text": true,
+    "has_html": true
+  }
+}

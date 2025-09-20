@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "����Voce Enviou um Convite para Kelly coladorar com seus negocios.",
+    "from": "Mercado Pago <nao-responder-mercadopago@hotmail.com>",
+    "to": "phishing@pot",
+    "date": "Fri, 16 Jun 2023 21:54:55 +0000 (UTC)",
+    "message_id": "<20230616220228.3AE156E731D@bbredir6.example.com>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.mercadopago.com.br",
+      "gmail.com",
+      "https://southamerica-west1-new-h-380407.cloudfunctions.net/f-mp-tic-4",
+      "https://www.google.com/url?q=https://click.mercadopago.entregaemail.com/lqqsvn/XmiuiRLr&amp;source=gmail&amp;ust=1685031372324000&amp;usg=AOvVaw1y7rnWQZoO_Q4TvSj0ETBo",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 408,
+    "html_length": 5584,
+    "has_text": true,
+    "has_html": true
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Rodrigo F P, desbloqueie seu internet banking.",
+    "from": "Banco Do Brasil <notifica@bb.com.br>",
+    "to": "phishing@pot",
+    "date": "Thu, 04 May 2023 15:58:06 +0000",
+    "message_id": "<781399c8-3867-a1a6-482e-928dea301839@bb.com.br>",
+    "content_type": "text/html"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://selectra.net.br/sites/selectra.net.br/files/styles/article_hero/public/images/banco-do-brasil-825.png?itok=CuwyfwL7&amp;cc***nome***=***valor***",
+      "https://i-a4qxna7jwq-rj.a.run.app/a/?tr=2c7029e0cdea4e41866133cc453cb41b&amp;t1=bb"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 600,
+    "html_length": 9835,
+    "has_text": true,
+    "has_html": true
+  }
+}

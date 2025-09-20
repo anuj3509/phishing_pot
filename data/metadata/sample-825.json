@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Detectamos um novo  acesso Nº Prontocolo: 446747842",
+    "from": "\"Mercado Pago\" <vendas@xpenergy.com.br>",
+    "to": "SVKVIDRACARIA@HOTMAIL.COM",
+    "date": "23 Jun 2023 18:33:24 -0300",
+    "message_id": "\r\n <ffe8a940-0e7f-4eac-bfd7-a26502b39d95@MW2NAM04FT061.eop-NAM04.prod.protection.outlook.com>",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=utf-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://mearcadopago.z15.web.core.windows.net/",
+      "https://acessoseguranca-secondary.z15.web.core.windows.net/",
+      "https://acessoseguranca.z15.web.core.windows.net/"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 385,
+    "html_length": 6442,
+    "has_text": true,
+    "has_html": true
+  }
+}

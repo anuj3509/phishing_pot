@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Last Chance: Join the Crypto Airdrop Game and Win Big!",
+    "from": "Tesla <alex.santolaria@aeinnova.com>",
+    "to": "phishing@pot",
+    "date": "Thu, 15 Jun 2023 05:12:33 +0000",
+    "message_id": "<01020188bd783aac-8ea83b40-78a7-4928-aa47-457d54f369ec-000000@eu-west-1.amazonses.com>",
+    "content_type": "multipart/alternative; boundary=\"===============7067062316793477456==\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"===============7067062316793477456==\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/2000/svg",
+      "https://klaushardt.com/tesl/",
+      "https://klaushardt.com/tesl/tes.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 361,
+    "html_length": 4221,
+    "has_text": true,
+    "has_html": true
+  }
+}

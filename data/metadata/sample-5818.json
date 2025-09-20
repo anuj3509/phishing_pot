@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Olá, rodrigo-f-p! Foi iniciado processo de cancelamento do seu Cadastro de Pessoa Física: Regularize agora no CPF Brasil! | Pendências Tributárias no CPF: ação imediata! Código de protocolo 93505481. | CPF Brasil: Identificamos uma pendência em seu CPF! Status: 93505481. | Verifique Agora: Seu CPF possui restrição Grave!... Pendência na entrega do Imposto de Renda! | Atenção: Em breve seu CPF pode ser cancelado definitivamente! Status: 93505481. | Risco de cancelamento definitivo do CPF! Consulte protocolo 93505481. | Seu Imposto de Renda possui divergências: Iniciado processo de suspensão do Cadastro de Pessoa Física! | Seu CPF recebeu notificação de cancelamento! Acesse 93505481.",
+    "from": "Imposto de Renda - Alerta Critico <declaracao@receitafederal956840>",
+    "to": "<phishing@pot>",
+    "date": "Mon, 11 Aug 2025 08:22:29 +0000",
+    "message_id": "<8a028cefc20e7e0054d403f52f2c6b76@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8a028cefc20e7e0054d403f52f2c6b76\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_8a028cefc20e7e0054d403f52f2c6b76\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.sso.acesso.gov.br-appcpf802648048@regu-la-rizar-962799882675.southamerica-east1.run.app",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 23,
+    "html_length": 6745,
+    "has_text": true,
+    "has_html": true
+  }
+}

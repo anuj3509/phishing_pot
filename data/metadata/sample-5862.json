@@ -1,0 +1,38 @@
+{
+  "headers": {
+    "subject": "🤓 Einmal bestätigen bitte Hello. You have a new incoming transaction 21337712216. Your order №2672333 . Withdrawal note : invoice 7ZUT11291AP4M2143. Verify, and order the withdrawal of funds ->-->❗       transfer705.pages.dev/evas-dparun-sisdisf-qlogba?flexchase  inob kaief",
+    "from": "\"Kerstin Franz\" <hi@mini-presents.com>",
+    "to": "\"Hello. You have a new incoming transaction 21337712216. Your order№2672333 . Withdrawal note : invoice 7ZUT11291AP4M2143. Verify, and order the withdrawal of funds ---❗       transfer705.pages.dev/evas-dparun-sisdisf-qlogba?flexchase  inob kaief\" <phishing@pot+4sg3@hotmail.com>",
+    "date": "Mon, 25 Aug 2025 00:14:08 -0500",
+    "message_id": "<20250825051408.17264.1938941865.swift@mini-presents.activehosted.com>",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-120886761968abf12062efe5.49349802_=_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "multipart/alternative;\r\n boundary=\"_=_swift-120886761968abf12062efe5.49349802_=_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "verify"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "transfer705.pages.dev/evas-dparun-sisdisf-qlogba?flexchase",
+      "https://mini-presents.activehosted.com/proc.php?nl=1&f=17&s=c94c77953c4c597c8e00754e124a1e7c&act=csub",
+      "https://mini-presents.activehosted.com/proc.php?nl=1&amp;f=17&amp;s=c94c77953c4c597c8e00754e124a1e7c&amp;act=csub",
+      "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&amp;display=swap",
+      "https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap",
+      "https://mini-presents.imgus11.com/public//0fc4aa1871021dbe7871f4f238a192d8.gif?r=1380364238",
+      "img.iphone_large_image"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 738,
+    "html_length": 24118,
+    "has_text": true,
+    "has_html": true
+  }
+}

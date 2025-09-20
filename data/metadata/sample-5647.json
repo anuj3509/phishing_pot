@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Potential buyer found for your digital collectible NFT_452296. Action\n required: respond within 17 hours.",
+    "from": "OpenSea <postmaster@mg.iaplicada.cl>",
+    "to": "phishing@pot",
+    "date": "Thu, 12 Jun 2025 16:26:16 +0000",
+    "message_id": "<20250612162616.3787e2545295cee0@mg.iaplicada.cl>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://talk.hyvor.com/media/website/12825/40amSzXK55wfFtQxM4oMmbCvvBhtUgV63c1caVeV.png",
+      "http://email.mg.iaplicada.cl/o/eJwEwFEOgyAMANDTyJ-krZTaDw6DtFMSDYYsO_-eFbYsbMELSlJJGUXCVVBRWNRY2y6wk-px-FaVoCU0x9ALATFkJMyUMcdNdnHixKTc3GFJ8Jyx1_furVqN7Q6zzGGzn2P9rO-S4Brfp_Y7tvGEX6F_AAAA___qTicB",
+      "http://email.mg.iaplicada.cl/u/eJwEwEuOhiAMAODTyE5Cax-66GKOghSVRIMhZs7_f27souzhMl8JllxS1UXRxWkX9x22A1hxIw3NMCEnAQRBAYmLrlqRiXHjUmuaKD1nbPm9W8meY7nDsNF9tLPPx_xOlK7-PbndsfQnfDbhX_g3_AUAAP__bxYl6Q",
+      "http://email.mg.iaplicada.cl/c/eJwkyzFuxSAMANDTwJbIOGDDwFCpyj2Q8f9BTUpEUM9fVZ3e9GoOlThUq9mxT-zJMdsjR4XkYi2cKGihqBFAOYH65F4Si20ZAQOQQ0dIjtaNIysGHzAFUQXj4Xqvrdxnk1LLKqc98zHn_Zjtw-BucO8PLkNrGypzlX4Z3IuIPmb795n9S7_N9kkY2KMdefQ62rsvr-U2Ho4-r9LOv2p_Mv4GAAD__2bkO-I",
+      "http://email.mg.iaplicada.cl/c/eJwEwLFuxCAMANCvge0QGGO4gaHL_Ydj3ASJFJRE_f57raZGOTWrNWR8Z6SQsz0qFy-lsSIQY4gkzRdNuIHgtkUQ2yt4SJ4CBAIK5GIuWSFhgncSVW_Qn7vrvEYXbuxk2FGP51m3iT8GPgY-c-nfrez6tFe9Zrv6Pl-_r2XQH_M5uQ8n87T_Fb4BAAD__9ySMJM"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 292,
+    "html_length": 3023,
+    "has_text": true,
+    "has_html": true
+  }
+}

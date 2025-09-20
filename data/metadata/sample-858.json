@@ -1,0 +1,30 @@
+{
+  "headers": {
+    "subject": "💥 \"There's a new message in your mailbox!\"",
+    "from": "\"*SALE VlAGRA+ClALlS*\" <ex.pharacmy2@outlook.com>",
+    "to": "<phishing@pot-m@hotmail.com>",
+    "date": "Sun, 02 Jul 2023 16:22:30 +0200",
+    "message_id": "<0E13BD10.074D63AF@outlook.com>",
+    "content_type": "text/html;\r\n\tcharset=\"us-ascii\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html;\r\n\tcharset=\"us-ascii\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.google.com/url?q=h%74%74%70%3A%2F%2F%62est-%70ha%72%6d"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2366,
+    "html_length": 2748,
+    "has_text": true,
+    "has_html": true
+  }
+}

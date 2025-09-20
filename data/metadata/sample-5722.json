@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Bevestiging van verzending: uw bestelling is onderweg",
+    "from": "Fedex Pakket <contact@gymstrom.de.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 17 May 2025 04:05:17 +0000",
+    "message_id": "<391583093101134.6.BJS0022016220@jetjxd.domsmooth3.com>",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "text/html; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://hnerta.dondomatos.online/track/3FfFOW0wQeJ2gototrweuj0PFXXDNBSMBZKFYH0VBTR1943x0",
+      "https://hnerta.dondomatos.online/opt-out/t/6WrzSv0VeIN3ekqeukwdby0GVEWWOLHNBTNBGY0NXMR353959e0",
+      "https://storage.googleapis.com/newera1/aaaaaaafedex.html"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1548,
+    "html_length": 4121,
+    "has_text": true,
+    "has_html": true
+  }
+}

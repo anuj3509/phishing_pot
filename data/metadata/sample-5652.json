@@ -1,0 +1,37 @@
+{
+  "headers": {
+    "subject": "Your SSA Document Is Ready – Please Review!",
+    "from": "\"document@office.ssa.gov via research.net\" <member@outbound.research.net>",
+    "to": "phishing@pot",
+    "date": "Sat, 14 Jun 2025 15:48:03 +0000",
+    "message_id": "<A3.7E.31841.3B99D486@i-0eaa7758290676f71.mta2vsmtp.sd.prd.sparkpost>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://www.research.net/mp/legal/privacy/",
+      "https://surveymonkey-assets.s3.amazonaws.com/survey/523804808/rte/9ba5e3dc-f6b0-4c89-850b-eea4c862e412.png",
+      "https://www.research.net/tr/v1/te/pwLe77_2F2M4wbxteoeZRWEN11Amt8prBIs0RhK_2F2_2Bueo4SNUDNUAeh4GUumFuhrgfUScII1_2BkylvrIf_2BoQiX4djTF_2FhdJDrd_2Bydm_2FTYww9FNI90RdTJ9Gtum8gUUdcVu92zLuuyybbh_2Fj6BZFdgopkph6T_2Fosm8oeRdqiAy8v_2FTE_3D",
+      "https://www.research.net/tr/v1/te/FyHEdtmztsHWd_2F7siEQ90PksqQDbiSZqV39_2B2h4bIcrNdt0vGxXyD3_2FjEsP4lX5G.png",
+      "https://click.outbound.surveymonkey.com/q/UffSwtwDlImADOMNWcmETg~~/AAAAARA~/s-l60hKlpJ3uP7BHuy3neB-wSowX7idW8VPgELAtkQvQSYkn4qrbmvvVqBsrznzxNvEmv3-5lATUedjcnlg7oTKTlfRyLr_KsAdXwOv8jV4~",
+      "http://www.w3.org/TR/REC-html40/loose.dtd",
+      "https://www.research.net/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FSdSvKedPmeZkblcZEtqvWWwk_2F481ZEMvTDQms9u33_2FLcCAQxb06cX9B7_2F6GiHWJaKt8ADfcp2myjQ5UqpEP3X5hEIZ1dKBHoKYt4bcoW3OwJ_2BO4HdkPH6YNPxMozFdCONC2llJoonijcL8PB79NsnBil6qxRYlKZjLBBVVeFFNX022rwWldSEEB7stxyK60l1phSlgnAEIJMHalljWEd0nodjdWIPqV76JTx8jxITMTPAaYPgru5cBf9PRzvlTtQ_3D_3D",
+      "https://www.research.net/tr/v1/te/akU_2BQc2vAhAsa_2B264x1g6_2FSdSvKedPmeZkblcZEtqvV2gsFoNgKu_2FoWGcO4A2F6naX8JT4E7d_2BEUJZniDekYQbbGYEGphHGQtkCHyrgDqjQo0TRO305ZlMMh0lKz6K8tzdFcQ8DN_2Bue63EkxxWbgD4EOOeJUDZA7QTkcIWZZKnloRA_2Fc49SC_2F2xR0Da9_2F_2Bi7iucz3BomMzTXKspQLZYpyxCc4iqeZR7Aii4lzOhoZh0haN6Yt2zYYAaVO_2BTj3XooEIB_2B4vti_2Fe1w5pLEhXN0t576nuZNGAxuVQUmMpTDc1MZbNXT4zRBovLYeH62z23n3ZWm6beUCtSGgZf0nU1MrYeL4_2BhapDxiEtHXZkwlvlsEmV9aSIqFoNFe424aS4AUU72cTbAt_2B9HsngtHfQaLYLCNBTtwyZtMxXWxyyFZ3ExRp5aUDor7bHfAyKF3MMBUoCL9daT3cJh9iDfP6Ylest7AMtCGWcrDQYEytgPEZ2HuJx_2FmyqGfEUH_2Bzz8O5ICQpvdF2cXdo6GpATteDip7_2FjgeJiM2Xly33odoBxKBXUGG7Ve49_2BtfvIY7F_2BYZ6i2vI3GB99lPeWeuYeWDKeZ1NqVZM3eu7hTVe_2FOoPP34TA4_3D"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 589,
+    "html_length": 6988,
+    "has_text": true,
+    "has_html": true
+  }
+}

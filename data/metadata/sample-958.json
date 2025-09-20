@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Your amazon prime membership renewal was failed #930-0956203-865",
+    "from": "Prime Activation <noreply-aprmeacc-2430384005@studiozp.com.mx>",
+    "to": "noreply-IV03C@mail.assistancehelp.com",
+    "date": "Sun, 16 Jul 2023 17:25:42 +0000",
+    "message_id": "<b623443b-939c-f736-3200-54d761d8c61f@studiozp.com.mx>",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-a3531e4cfbd733e6-Part_1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed; boundary=\"--_NmP-a3531e4cfbd733e6-Part_1\""
+  },
+  "attachments": [
+    {
+      "filename": "Amazon-L6Z18.pdf",
+      "content_type": "application/pdf",
+      "size": 34559
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 20,
+    "html_length": 87,
+    "has_text": true,
+    "has_html": true
+  }
+}

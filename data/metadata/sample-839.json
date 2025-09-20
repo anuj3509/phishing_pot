@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "URGENT MESSAGE",
+    "from": "\"David Thule\"<bensonmike278@gmail.com>",
+    "to": "Undisclosed recipients:;",
+    "date": "Mon, 26 Jun 2023 05:13:13 -0700",
+    "message_id": "\r\n <e186a906-2030-4b53-beb1-838c0c082e5c@VI1EUR06FT024.eop-eur06.prod.protection.outlook.com>",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/plain;\r\n\tcharset=\"Windows-1251\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://billionaires.africa/2023/05/13/egyptian-billionaire-naguib-sawiris-supports-brothers-decision-to-relocate-investments-to-saudi-arabia/",
+      "gmail.com),"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 934,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

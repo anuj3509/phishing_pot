@@ -1,0 +1,36 @@
+{
+  "headers": {
+    "subject": "Saldo Disponivel-6DvSeP124uI1",
+    "from": "\"[BB] - IRPF22-6444679933\" <sumerbraum251@gmail.com>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 22 Jul 2023 17:06:31 +0000",
+    "message_id": "<db19e13539ed1a8f0128e5da2c73a8b7@gmail.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"6e62c4215019d0105766303e00072fd1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"6e62c4215019d0105766303e00072fd1\""
+  },
+  "attachments": [
+    {
+      "filename": "B064oMpC5p2dNdNV6t3e.pdf",
+      "content_type": "application/pdf",
+      "size": 98196
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 319,
+    "html_length": 661,
+    "has_text": true,
+    "has_html": true
+  }
+}

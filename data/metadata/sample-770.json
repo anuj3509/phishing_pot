@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Congratulations",
+    "from": "DHL Delivery <deliverydhl297@gmail.com>",
+    "to": "undisclosed-recipients:;",
+    "date": "Mon, 12 Jun 2023 06:32:12 +0100",
+    "message_id": "<CAJuyCu=Dxr+1_N5R18q46ur_LU1XkGMX=un+-A4Ls3ATgJEUGg@mail.gmail.com>",
+    "content_type": "multipart/alternative; boundary=\"00000000000051c19a05fde80b19\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"00000000000051c19a05fde80b19\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "MR.DAVE",
+      "gmail.com)",
+      "gmail.com",
+      "culture.The"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 1600,
+    "html_length": 7073,
+    "has_text": true,
+    "has_html": true
+  }
+}

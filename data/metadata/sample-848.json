@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Re: Family Matters",
+    "from": "Wilson Wei <wilsonwei249@gmail.com>",
+    "to": "phishing@pot",
+    "date": "29 Jun 2023 18:55:37 +0300",
+    "message_id": "<20230629185537.E00D4FAED2BFE38E@gmail.com>",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html;\r\n\tcharset=\"iso-8859-1\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "gmail.com",
+      "http://www.w3.org/TR/html4/loose.dtd"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 533,
+    "html_length": 913,
+    "has_text": true,
+    "has_html": true
+  }
+}

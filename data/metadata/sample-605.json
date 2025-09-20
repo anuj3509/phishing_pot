@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "ENC: Resgate o seu CashBack-0Q8a3ZxLUdE",
+    "from": "Rodrigo Lima <rodrigo.gama94@live.com>",
+    "to": "\"phish.me.again@gmail.com\" <phish.me.again@gmail.com>",
+    "date": "Sat, 22 Apr 2023 17:26:08 +0000",
+    "message_id": "\r\n <SN7PR05MB761310C2D592651A877E229FE0619@SN7PR05MB7613.namprd05.prod.outlook.com>",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB761310C2D592651A877E229FE0619SN7PR05MB7613namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/mixed;\r\n\tboundary=\"_004_SN7PR05MB761310C2D592651A877E229FE0619SN7PR05MB7613namp_\""
+  },
+  "attachments": [
+    {
+      "filename": "ltaucard -  Pontos 92.pdf",
+      "content_type": "application/pdf",
+      "size": 85257
+    }
+  ],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://schemas.microsoft.com/office/2004/12/omml",
+      "rodrigo.gama94@live.com",
+      "gmail.com",
+      "https://go.microsoft.com/fwlink/?LinkId=550986",
+      "p.MsoNormal,",
+      "li.MsoNormal,",
+      "div.WordSection1",
+      "span.MsoHyperlink",
+      "div.MsoNormal",
+      "http://www.w3.org/TR/REC-html40"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 617,
+    "html_length": 2279,
+    "has_text": true,
+    "has_html": true
+  }
+}

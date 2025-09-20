@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Atenção, rodrigo-f-p! Aviso urgente: Irregularidade cadastral detectada. Bloqueio de serviços em andamento. Protocolo: 01032641.",
+    "from": "Central Receita Federal <info@regularizareceita704249>",
+    "to": "<phishing@pot>",
+    "date": "Sat, 23 Aug 2025 16:27:02 +0000",
+    "message_id": "<ede9f73d03ffe7d14eac21b3ddb17ddb@localhost.localdomain>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ede9f73d03ffe7d14eac21b3ddb17ddb\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"b1_ede9f73d03ffe7d14eac21b3ddb17ddb\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://alertarct-431107602190.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 6703,
+    "has_text": true,
+    "has_html": true
+  }
+}

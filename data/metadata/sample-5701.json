@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "subject": "Alerta CPF: Seu documento está em processo de suspensão por dívida fiscal! Regularize imediatamente. Protocolo: 30986583.",
+    "from": "Aviso Oficial Receita Federal <receita362198@regularizacao>",
+    "to": "<phishing@pot>",
+    "date": "Wed, 14 May 2025 14:23:08 +0000",
+    "message_id": "<366b4b7efb589e6af0e31d3ed6f52bd0@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_366b4b7efb589e6af0e31d3ed6f52bd0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_366b4b7efb589e6af0e31d3ed6f52bd0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://rcta2-608096400629.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 8236,
+    "has_text": true,
+    "has_html": true
+  }
+}

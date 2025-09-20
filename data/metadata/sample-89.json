@@ -1,0 +1,47 @@
+{
+  "headers": {
+    "subject": "Hello how are you? Do you like beauty girl??",
+    "from": "Tiffany <yssnsn@minecraftray.ru>",
+    "to": "phishing@pot",
+    "date": "Fri, 14 Oct 2022 09:41:10 +0300",
+    "message_id": "<a5628b20decf1b1036eca50eb3a78c98104d4e@minecraftray.ru>",
+    "content_type": "multipart/alternative; boundary=\"09a3e09e94507f04278d8df603d88dbb89\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"09a3e09e94507f04278d8df603d88dbb89\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      "https://static.wixstatic.com/media/b68ddf_042a3d5c78c44ad0a1906b52caefbf5c~mv2.jpg/v1/fit/w_660,h_2000,al_c,q_85/b68ddf_042a3d5c78c44ad0a1906b52caefbf5c~mv2.jpg",
+      "https://mail-api.app-sources.com/mail?t=click&amp;p=eyJzZWNyZXROYW1lIjpudWxsLCJ0ZXN0Ijp0cnVlLCJzdWJqZWN0IjoiW3Rlc3RdIENhbXBhaWduIHRlc3QgbWVzc2FnZS4iLCJjcmVhdGVkIjpudWxsLCJzdGVwSWQiOm51bGwsInRleHRDb250ZW50IjpudWxsLCJ0eXBlIjoiQ0FNUEFJR04iLCJwbGF0Zm9ybSI6InNpbXZvbHkuY29tIiwic2l0ZUlkIjoiMTA5NDk3IiwiaWQiOiIxIiwidG8iOiJndHRncmd0cmd0ckBnbWFpbC5jb20iLCJyZWdpb24iOiJ1cy1lYXN0LTEiLCJ3aGl0ZUxhYmVsIjoiMCJ9&amp;r=aHR0cHM6Ly9jbG91ZGZhYXgucnUvbWk4Mg--",
+      "https://mail-api.app-sources.com/mail?t=click&amp;p=eyJzZWNyZXROYW1lIjpudWxsLCJ0ZXN0Ijp0cnVlLCJzdWJqZWN0IjoiW3Rlc3RdIENhbXBhaWduIHRlc3QgbWVzc2FnZS4iLCJjcmVhdGVkIjpudWxsLCJzdGVwSWQiOm51bGwsInRleHRDb250ZW50IjpudWxsLCJ0eXBlIjoiQ0FNUEFJR04iLCJwbGF0Zm9ybSI6InNpbXZvbHkuY29tIiwic2l0ZUlkIjoiMTA5NDk4IiwiaWQiOiIxIiwidG8iOiJuaWtpdGFfYmVseWF5ZXZfOThAbWFpbC5ydSIsInJlZ2lvbiI6InVzLWVhc3QtMSIsIndoaXRlTGFiZWwiOiIwIn0-&amp;r=aHR0cHM6Ly9jbG91ZGZhYXgucnUvbWk4Mw--",
+      "td.es-desk-menu-hidden",
+      "https://fonts.googleapis.com/css2?family=Kanit&amp;display=swap",
+      "td.es-desk-hidden,",
+      "http://minecraftray.ru/ams.php?RNQ8zOFXXBEoLDvv%2Bih%2BolmvbnXN9HLQFa%2B%2Bl1duVWy8Mku4HsWQl7QBmKUy0BI1p6zSAQEWYuCg%2BA11xc7AVCgrKV62JwZuc%2FRbK1Uw5q%2BxugjhgLwRIlVs91R1ax2bBjuD2YrwA%2Fz6x08woFzi7A%3D%3D",
+      ".es-button.es-button-3",
+      "http://www.w3.org/1999/xhtml",
+      "button.es-button",
+      "a.es-button,",
+      "tr.es-desk-hidden,",
+      "table.es-table-not-adapt,",
+      "a.es-button-1",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 309,
+    "html_length": 14833,
+    "has_text": true,
+    "has_html": true
+  }
+}

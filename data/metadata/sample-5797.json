@@ -1,0 +1,42 @@
+{
+  "headers": {
+    "subject": "[Kraken] Please take a moment to review the latest terms and conditions",
+    "from": "Kraken <info@zedproductions.ca>",
+    "to": "phishing@pot",
+    "date": "Wed, 6 Aug 2025 13:34:48 +0000",
+    "message_id": "<02bdf45b15a08a85369cd57eaa6f4d7e55d6@zedproductions.ca>",
+    "content_type": "multipart/alternative; boundary=\"8a3c75da94210b04b71d54ff2beecc15a6ee\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"8a3c75da94210b04b71d54ff2beecc15a6ee\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://twitter.com/krakenfx",
+      "https://facebook.com/krakenFX",
+      "https://assets.kraken.com/marketing/emails/social/logo-x.png",
+      "https://www.youtube.com/c/krakenBitcoinExchange",
+      "https://assets.kraken.com/marketing/emails/social/logo-instagram.png",
+      "https://dioceseofaurangabad.org",
+      "https://www.instagram.com/krakenfx/",
+      "https://www.kraken.com",
+      "https://assets.kraken.com/marketing/emails/social/logo-youtube.png",
+      "https://assets.kraken.com/marketing/emails/social/logo-facebook.png",
+      "https://assets.kraken.com/marketing/emails/headers/Light-Logo.png",
+      "https://assets.kraken.com/marketing/emails/social/logo-linkedin.png",
+      "https://linkedin.com/company/krakenfx"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 372,
+    "html_length": 5360,
+    "has_text": true,
+    "has_html": true
+  }
+}

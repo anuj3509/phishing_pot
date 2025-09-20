@@ -1,0 +1,49 @@
+{
+  "headers": {
+    "subject": "[Test] ARB Rewards airdrop is now Live!",
+    "from": "Binance <do_not_reply@post.binancecnt.com>",
+    "to": "John Darling <phishing@pot>",
+    "date": "Thu, 13 Apr 2023 19:33:16 +0000",
+    "message_id": "<bfda050a-7c25-4dcd-abe3-b8cad35ddeca@mtasv.net>",
+    "content_type": "multipart/alternative;\r\n\tboundary=mk3-220eadef087d48baad944d32f3be0bc4; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=mk3-220eadef087d48baad944d32f3be0bc4; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "expire",
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      ".emailProductContainer.emailProductLowStock",
+      ".form.amp-form-submitting",
+      "http://schema.org",
+      "http://schema.org/OrderProcessing",
+      "https://d3cy3u1txmkqs3.cloudfront.net/static/gz/2023-15353-g7a739dbf247f68/icons/notification_tshirt.jpg",
+      "https://d3cy3u1txmkqs3.cloudfront.net/static/gz/2023-15353-g7a739dbf247f68/icons/notification_yoda.jpg",
+      "https://ea.pstmrk.it/open?m=v3_1.AAAAAAAAAAAAAAAAAAAAAA.NoyywXtMEyMiPTef8vlt8PlY_2EP_pGre9kTMjm0Soj1_KSTq9HUKBsCyFeEzKBnmhLNlYFwwsOtc3gy6wUwqEKlvkPphGqksWQHxU1sj9ui2ODqDWtZ81N49inFcUPEM95e_Fe7AJxIG6P7gaZruVouo1TNiUExhPcw6rEveKGzWcIyntNZYOjfMmRg5NhhXjUKLYWbXNn0uDyqQHYEzrx6YiAvBkK-ue276bNAv3IeR0GjApP68Ag94PbdY3ESsVYXl6Mxoy9gs3l2zbqR2tLfLCOYF4jg7OygHww-3b2zKY3XEr2WEUCOYPbdQU-VLn2LVbL5VPJXIz7DKKImo4nKn1morexkW8M5lGxtAI-o5481JAUrO3qDjn7YuyzEEc1rhXbPvOPMmota2kNc1AWMeppYAfg-1YAhbuMN-FX_DE_BLCqkulIh_HptP8JHNxHrkdIhb84Zu76AJg3dpbrri4TnVD4CCaC-fuS2xAbv2r2TPXaYO69eZcoOdXpUBLKmRbd_Q9Z6HTcyWC6SS_oqdCsKjD2kyeqf3H-hkJWmv3sbFoTJBLEa3ujKpw59vb5LaTE5HcU0md6kxy1z9_h_jbfE2YF7mVxrOudiz5JD0NDmp8iRIHvacUzJMNAu4kXhXABOIdOpAF80zh83CaGgmIoZF_SVYwtsbTYp_sa9bHcETl_n4fP5t2Fe2mrF",
+      "https://ecomm.events/spacer.gif?event_name=OPEN_MAIL&amp;store_id=86581544&amp;entity_type=ORDER_CONFIRMATION_EMAIL_HTML&amp;cache_killer=acf88893-468d-4fcb-a43a-5a2f1f782ec5",
+      "VERIFIED.welcome-page__state--ACTIVE",
+      "http://www.w3.org/1999/xhtml",
+      "https://ad.linktta.com/rodrigofp",
+      "https://fonts.googleapis.com/css?family=PT+Mono",
+      ".thread-item.expanded",
+      "https://public.bnbstatic.com/image/ufo/20210831/1e00bd49-0695-4eaa-8ab0-6dd89a7087fb.png",
+      "VERIFIED.welcome-page__state--EXPIRED",
+      ".form.amp-form-submit-success"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 651,
+    "html_length": 14220,
+    "has_text": true,
+    "has_html": true
+  }
+}

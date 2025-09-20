@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "Allocation of reserved XRP starts today",
+    "from": "Ripple <xrpl@bounce.yandy.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 19 Jun 2023 02:59:50 +0000",
+    "message_id": "<20230619025950.1cd1a366bce95d25@bounce.yandy.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "quoted-printable",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "td.mj-full-width-mobile",
+      "https://mail73-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d.gif",
+      "http://email.bounce.yandy.com/u/eJwcyUGuhCAMANDT6E7TVlvogsU_ClD4kowyIc7C208y62dBRBTnIxR0nqRiqt6RGhdgZyqR4kaA4ucWCGgDQQViZVgxG8ZNJOWibMTTDql_rlzWJ172rLmf8wij22j_fanLe9rh6PcZ2-tnd5jo7xsAAP__wLUlGQ",
+      "https://mail73-ripple.com/726f647269676f2d662d7040686f746d61696c2e636f6d",
+      "table.mj-full-width-mobile",
+      "https://i.imgur.com/PnbiPzg.png"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 3367,
+    "html_length": 14897,
+    "has_text": true,
+    "has_html": true
+  }
+}

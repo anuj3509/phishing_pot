@@ -1,0 +1,45 @@
+{
+  "headers": {
+    "subject": "I am so lonely and so sexy. Why wouldn’t you write me?",
+    "from": "Susan <duckd@krasn-zoo.ru>",
+    "to": "phishing@pot",
+    "date": "Tue, 1 Nov 2022 12:40:22 +0300",
+    "message_id": "<a2e1a8036e2309088b216930844217159cac@krasn-zoo.ru>",
+    "content_type": "multipart/alternative; boundary=\"2389c0f28f4b6bc0e348f318ee558adfc0\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"2389c0f28f4b6bc0e348f318ee558adfc0\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd",
+      ".es-button.es-button-2",
+      "td.es-desk-menu-hidden",
+      "td.es-desk-hidden,",
+      "http://www.w3.org/1999/xhtml",
+      "a.es-button,",
+      "button.es-button",
+      "tr.es-desk-hidden,",
+      "https://fonts.googleapis.com/css2?family=Sedgwick+Ave&amp;display=swap",
+      "table.es-table-not-adapt,",
+      "tr.es-desk-hidden",
+      "table.es-social",
+      "https://shoutout.wix.com/so/6fOGU4P2D/c?w=2nsKgGlv8W78vvtNuXnb9Osljk238dvmlrpeiHjVbA0.eyJ1IjoiaHR0cHM6Ly9jbG91ZGZhYXgucnUvbWk5MCIsInIiOiJjODdhMDRjNC1hYzMwLTQyNTktMzhjNy0wNmU5MzBhZTVmNWQiLCJtIjoibWFpbCIsImMiOiIwMDAwMDAwMC0wMDAwLTAwMDAtMDAwMC0wMDAwMDAwMDAwMDAifQ",
+      ".es-button.es-button-1",
+      "https://static.wixstatic.com/media/7ba2aa_9a84acf5e3a6483a96e5c21df558e0b1~mv2.gif",
+      "table.es-desk-hidden"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 35,
+    "html_length": 13706,
+    "has_text": true,
+    "has_html": true
+  }
+}

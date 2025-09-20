@@ -1,0 +1,35 @@
+{
+  "headers": {
+    "subject": "💌 Waarom reageer je niet?",
+    "from": "\"Julia bacardit\" <newsmail@appOM.serenitepure.fr>",
+    "to": "phishing@pot",
+    "date": "Thu, 29 Sep 2022 21:38:54 +0000",
+    "message_id": "<0.0.0.0.1D8D44BDF4C91E8.298E@nixli.com>",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "7bit",
+    "content_type": "text/html; charset=\"utf-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://secure-netcloud.com/?a=79&amp;c=14&amp;s1=29sept&amp;email=phishing@pot",
+      "http://www.w3.org/1999/xhtml",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700",
+      "https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700",
+      "https://fonts.googleapis.com/css?family=Cabin:400,700);"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 2537,
+    "html_length": 9730,
+    "has_text": true,
+    "has_html": true
+  }
+}

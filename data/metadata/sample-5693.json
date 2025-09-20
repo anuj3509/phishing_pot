@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Profile Activity Updated - New Bid Check it !",
+    "from": "\"Opensea.IO\" <InsureSign@send.insuresign.com>",
+    "to": "phishing@pot",
+    "date": "Mon, 14 Jul 2025 03:22:53 +0000",
+    "message_id": "<mL8xxpf8lMVf4RH5qkbqG3hBRQ43j0p0HTiHVEix2k@srv420168611.host>",
+    "content_type": "multipart/alternative;\n boundary=\"b1=_mL8xxpf8lMVf4RH5qkbqG3hBRQ43j0p0HTiHVEix2k\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "8bit",
+    "content_type": "multipart/alternative;\n boundary=\"b1=_mL8xxpf8lMVf4RH5qkbqG3hBRQ43j0p0HTiHVEix2k\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [
+      "click here"
+    ],
+    "urls": [
+      "http://url8302.quicktapsurvey.com/ls/click?upn=u001.-2FiohAI4ois2aTEjXAJvL8t6A1oTP3nBdl1TyGtZs9MqsLq6io8sowu60f7zuwakcTxN__Ef9oy1t6ifBnfAXTy0qpof3rbIYUn5Nh51GH1wvgwSib6yMWoST7nnJGqtRA-2FKFOBrzoeLNpe-2FrIawmeFA2VlPySTHtqxUIll-2BxgzALiR9uY1K8qE7MEPcl67-2BEft5E-2BcEn-2BrcAlpvCRnLZZA4Fk-2BFwMfbjvKphKuIDPj4w-2B56869196LXb62wx4NfXIofQnjINyW4GkJa2c7zScM82z-2BQ-3D-3D",
+      "http://www.w3.org/1999/xhtml"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 49,
+    "html_length": 8110,
+    "has_text": true,
+    "has_html": true
+  }
+}

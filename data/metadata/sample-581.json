@@ -1,0 +1,34 @@
+{
+  "headers": {
+    "subject": "Fw: Good morning, My outstanding",
+    "from": "phishing@pot <phishing@pot>",
+    "to": "\"phish.me.again@gmail.com\" <Phish.me.again@gmail.com>",
+    "date": "Sat, 22 Apr 2023 20:03:51 +0000",
+    "message_id": "\r\n <SA0PR04MB73708BFAC61D8AAC2E6A103FB3619@SA0PR04MB7370.namprd04.prod.outlook.com>",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73708BFAC61D8AAC2E6A103FB3619SA0PR04MB7370namp_\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\r\n\tboundary=\"_000_SA0PR04MB73708BFAC61D8AAC2E6A103FB3619SA0PR04MB7370namp_\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "rotor-vlg.com",
+      "gmail.com",
+      "hotmail.com&gt;",
+      "hotmail.com",
+      "rotor-vlg.com&gt;"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 389,
+    "html_length": 903,
+    "has_text": true,
+    "has_html": true
+  }
+}

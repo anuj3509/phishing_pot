@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "Seus pontos Livelo expiram em breve - PROTOCOLO: 636530850.",
+    "from": "Bradesco <sac@bradesco.com.br>",
+    "to": "phishing@pot",
+    "date": "Wed,  5 Jul 2023 12:40:10 +0000 (UTC)",
+    "message_id": "<20230705124011.03F3D83CAE@ubuntu-s-1vcpu-512mb-10gb-sfo3-01>",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "base64",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "http://sstatic1.histats.com/0.gif?4780777&amp;101",
+      "hotmail.com",
+      "https://portallvlo-5-7vi5jp47eq-uc.a.run.app"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 984,
+    "html_length": 8055,
+    "has_text": true,
+    "has_html": true
+  }
+}

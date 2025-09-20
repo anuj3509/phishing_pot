@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "Aviso importante: Seu pedido foi taxado e bloqueado pela fiscalização alfandegária! Protocolo: 53035741.",
+    "from": "Pedido Correios <info454656@correios>",
+    "to": "<phishing@pot>",
+    "date": "Fri, 23 May 2025 06:34:58 +0000",
+    "message_id": "<5aa9292db7d20adb0ea2ee6aa0ddde7c@localhost.localdomain>",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_5aa9292db7d20adb0ea2ee6aa0ddde7c\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative;\n\tboundary=\"b1_5aa9292db7d20adb0ea2ee6aa0ddde7c\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [
+      "confirm"
+    ],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://corr310-765775392619.southamerica-east1.run.app/",
+      "hotmail.com"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 69,
+    "html_length": 3646,
+    "has_text": true,
+    "has_html": true
+  }
+}

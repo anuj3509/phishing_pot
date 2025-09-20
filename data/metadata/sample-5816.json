@@ -1,0 +1,32 @@
+{
+  "headers": {
+    "subject": "[My Key Supply] Login Details",
+    "from": "My Key Supply <email@mykeysupply.com>",
+    "to": "<phishing@pot>",
+    "date": "Sun, 27 Jul 2025 21:16:39 +0000",
+    "message_id": "<wosnGdyhQ6Qv2OM3L8usFGgLmtz1DSgseWHVH9X5RU@mykeysupply.com>",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "text/plain; charset=\"UTF-8\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "www.xdxngr.blogspot.com",
+      "https://www.mykeysupply.com/wp-login.php",
+      "https://www.mykeysupply.com/wp-login.php?login=www.xdxngr.blogspot.com%20-%20BINANCE%20133%20287%20EURO&key=kE9we1Bnx9mZtJnSLUcD&action=rp"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 300,
+    "html_length": 0,
+    "has_text": true,
+    "has_html": false
+  }
+}

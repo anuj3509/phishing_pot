@@ -1,0 +1,33 @@
+{
+  "headers": {
+    "subject": "RE: You received 1 Gift",
+    "from": "OpenSea Token <hulodis@universe.app>",
+    "to": "phishing@pot",
+    "date": "Sat, 24 Jun 2023 16:10:01 +0000",
+    "message_id": "<01010188ee2b65e7-9fc10225-f54d-46db-a951-5b6bdac59ff5-000000@us-west-2.amazonses.com>",
+    "content_type": "multipart/alternative; boundary=\"E5D669212C9144059D8F142EEA30DF00\""
+  },
+  "encoding_info": {
+    "content_transfer_encoding": "",
+    "content_type": "multipart/alternative; boundary=\"E5D669212C9144059D8F142EEA30DF00\""
+  },
+  "attachments": [],
+  "phishing_analysis": {
+    "urgency_words": [],
+    "suspicious_domains": [],
+    "suspicious_phrases": [],
+    "urls": [
+      "https://pulsar.universe.app/CL0/https:%2F%2Fleenytoons.tk%2F.x%2FplakO.php/1/01010188ee2b65e7-9fc10225-f54d-46db-a951-5b6bdac59ff5-000000/2XabGnqEL43tR1XDcw9mQNV50wy1r7b-Ws_IsCwcPbc=306",
+      "https://storage.googleapis.com/opensea-static/Logomark/OpenSea-Full-Logo%20(dark).svg",
+      "https://storage.googleapis.com/opensea-static/Logomark/Logomark-White.png",
+      "http://pulsar.universe.app/CI0/01010188ee2b65e7-9fc10225-f54d-46db-a951-5b6bdac59ff5-000000/t5LTbVZOosbF5TSKLQGZ80uA5IS4diMdBxYU6UjDIlM=306"
+    ],
+    "suspicious_attachments": []
+  },
+  "content_stats": {
+    "text_length": 186,
+    "html_length": 9897,
+    "has_text": true,
+    "has_html": true
+  }
+}
